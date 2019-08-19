@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4009177.532044,
-    "geom:bbox":"11.000388,45.443579,11.000388,45.443579",
-    "geom:latitude":45.443579,
-    "geom:longitude":11.000388,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.005996,45.443017,11.005996,45.443017",
+    "geom:latitude":45.443017,
+    "geom:longitude":11.005996,
     "gn:id":"",
     "iso:country":"IT",
-    "lbl:latitude":45.443579,
-    "lbl:longitude":11.000388,
+    "lbl:latitude":45.443017,
+    "lbl:longitude":11.005996,
     "mps:latitude":45.441478,
     "mps:longitude":11.010668,
     "mz:hierarchy_label":0,
@@ -20,10 +20,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ita_x_preferred":[
         "Veronetta"
     ],
@@ -54,19 +55,20 @@
     "qs:woe_lau":12676363,
     "qs:woe_local":725791,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85685281,
         102191581,
         404469733,
         85633253,
         404227501,
-        101752711
+        101752711,
+        85685281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         "qs_pg:id":937832
     },
     "wof:country":"IT",
-    "wof:geomhash":"1f806216cd672f1325e9528cd3775af7",
+    "wof:geomhash":"2c7c382bca5f45b38fcf060b2e11d932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +93,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1531936318,
+    "wof:lastmodified":1566247565,
     "wof:name":"Veronetta",
     "wof:parent_id":101752711,
     "wof:placetype":"neighbourhood",
@@ -101,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    11.000388,
-    45.443579,
-    11.000388,
-    45.443579
+    11.005996,
+    45.443017,
+    11.005996,
+    45.443017
 ],
-  "geometry": {"coordinates":[11.000388,45.443579],"type":"Point"}
+  "geometry": {"coordinates":[11.005996,45.443017],"type":"Point"}
 }
