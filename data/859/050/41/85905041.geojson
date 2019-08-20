@@ -5,15 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6491977.542724,
-    "geom:bbox":"10.992468,45.424714,10.992468,45.424714",
-    "geom:latitude":45.424714,
-    "geom:longitude":10.992468,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.016386,45.433549,11.016386,45.433549",
+    "geom:latitude":45.433549,
+    "geom:longitude":11.016386,
     "gn:latitude":44.71667,
     "gn:longitude":11.38333,
     "iso:country":"IT",
-    "lbl:latitude":45.424714,
-    "lbl:longitude":10.992468,
+    "lbl:latitude":45.433549,
+    "lbl:longitude":11.016386,
     "mps:latitude":45.421594,
     "mps:longitude":11.008981,
     "mz:hierarchy_label":0,
@@ -21,10 +21,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ita_x_preferred":[
         "Porto San Pancrazio"
     ],
@@ -60,19 +61,20 @@
     "qs:woe_lau":12676363,
     "qs:woe_local":725791,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85685281,
         102191581,
         404469733,
         85633253,
         404227501,
-        101752711
+        101752711,
+        85685281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +84,7 @@
         "qs_pg:id":1190397
     },
     "wof:country":"IT",
-    "wof:geomhash":"06200df0c07bab2436f848cb09076585",
+    "wof:geomhash":"2a25e2b819382a96fc47fd4370b0987e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +100,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1531936315,
+    "wof:lastmodified":1566247564,
     "wof:name":"Porto San Pancrazio",
     "wof:parent_id":101752711,
     "wof:placetype":"neighbourhood",
@@ -108,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.992468,
-    45.424714,
-    10.992468,
-    45.424714
+    11.016386,
+    45.433549,
+    11.016386,
+    45.433549
 ],
-  "geometry": {"coordinates":[10.992468,45.424714],"type":"Point"}
+  "geometry": {"coordinates":[11.016386,45.433549],"type":"Point"}
 }

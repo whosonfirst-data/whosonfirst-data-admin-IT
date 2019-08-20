@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28994938.430314,
-    "geom:bbox":"11.036133,45.448839,11.036133,45.448839",
-    "geom:latitude":45.448839,
-    "geom:longitude":11.036133,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.022972,45.446109,11.022972,45.446109",
+    "geom:latitude":45.446109,
+    "geom:longitude":11.022972,
     "gn:id":"",
     "iso:country":"IT",
-    "lbl:latitude":45.448839,
-    "lbl:longitude":11.036133,
+    "lbl:latitude":45.446109,
+    "lbl:longitude":11.022972,
     "mps:latitude":45.451373,
     "mps:longitude":11.049278,
     "mz:hierarchy_label":0,
@@ -20,10 +20,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ita_x_preferred":[
         "Borgo Venezia"
     ],
@@ -54,19 +55,20 @@
     "qs:woe_lau":12676363,
     "qs:woe_local":725791,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85685281,
         102191581,
         404469733,
         85633253,
         404227501,
-        101752711
+        101752711,
+        85685281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         "qs_pg:id":1120957
     },
     "wof:country":"IT",
-    "wof:geomhash":"a519a4b7e0fdf4e3c818204ecee72700",
+    "wof:geomhash":"425afa67da398227fd3be5752d86ed06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +93,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1531936318,
+    "wof:lastmodified":1566247565,
     "wof:name":"Borgo Venezia",
     "wof:parent_id":101752711,
     "wof:placetype":"neighbourhood",
@@ -101,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    11.036133,
-    45.448839,
-    11.036133,
-    45.448839
+    11.022972,
+    45.446109,
+    11.022972,
+    45.446109
 ],
-  "geometry": {"coordinates":[11.036133,45.448839],"type":"Point"}
+  "geometry": {"coordinates":[11.022972,45.446109],"type":"Point"}
 }

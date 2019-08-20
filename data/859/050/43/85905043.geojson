@@ -5,15 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2803631.211295,
-    "geom:bbox":"10.983506,45.439268,10.983506,45.439268",
-    "geom:latitude":45.439268,
-    "geom:longitude":10.983506,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.979959,45.441114,10.979959,45.441114",
+    "geom:latitude":45.441114,
+    "geom:longitude":10.979959,
     "gn:latitude":45.43333,
     "gn:longitude":11.16667,
     "iso:country":"IT",
-    "lbl:latitude":45.439268,
-    "lbl:longitude":10.983506,
+    "lbl:latitude":45.441114,
+    "lbl:longitude":10.979959,
     "mps:latitude":45.442047,
     "mps:longitude":10.976358,
     "mz:hierarchy_label":0,
@@ -21,10 +21,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ita_x_preferred":[
         "San Zeno"
     ],
@@ -60,19 +61,20 @@
     "qs:woe_lau":12676363,
     "qs:woe_local":725791,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85685281,
         102191581,
         404469733,
         85633253,
         404227501,
-        101752711
+        101752711,
+        85685281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +84,7 @@
         "qs_pg:id":223644
     },
     "wof:country":"IT",
-    "wof:geomhash":"e456dcacd3376f17f08966e1fa70da72",
+    "wof:geomhash":"5a8059b7c60fdaaf74503772c7712a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +100,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1531936316,
+    "wof:lastmodified":1566247565,
     "wof:name":"San Zeno",
     "wof:parent_id":101752711,
     "wof:placetype":"neighbourhood",
@@ -108,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.983506,
-    45.439268,
-    10.983506,
-    45.439268
+    10.979959,
+    45.441114,
+    10.979959,
+    45.441114
 ],
-  "geometry": {"coordinates":[10.983506,45.439268],"type":"Point"}
+  "geometry": {"coordinates":[10.979959,45.441114],"type":"Point"}
 }
