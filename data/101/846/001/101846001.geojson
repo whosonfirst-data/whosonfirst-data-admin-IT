@@ -13,10 +13,13 @@
     "iso:country":"IT",
     "lbl:latitude":46.795311,
     "lbl:longitude":11.667388,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.795311,
     "mps:longitude":11.667388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0420\u044b\u0430-\u0434\u0437\u0456-\u041f\u0443\u0441\u0442\u044d\u0440\u044b\u044f"
     ],
@@ -122,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e-\u0434\u0456-\u041f\u0443\u0441\u0442\u0435\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "M\u00fchlbach"
-    ],
     "name:uzb_x_preferred":[
         "Rio di Pusteria"
     ],
@@ -156,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685271,
@@ -169,10 +169,12 @@
     "wof:concordances":{
         "gn:id":7627828,
         "gp:id":721691,
-        "qs:id":969846,
         "qs_pg:id":694262,
         "wd:id":"Q474670",
         "wk:page":"M\u00fchlbach, South Tyrol"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":969846
     },
     "wof:country":"IT",
     "wof:geomhash":"3e691595d7c72bd3f4e12ff7915a096e",
@@ -187,7 +189,7 @@
         }
     ],
     "wof:id":101846001,
-    "wof:lastmodified":1563374438,
+    "wof:lastmodified":1566722845,
     "wof:name":"Pusteria",
     "wof:parent_id":404473211,
     "wof:placetype":"locality",

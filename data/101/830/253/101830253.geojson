@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.802739,
     "lbl:longitude":9.422316,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.802739,
     "mps:longitude":9.422316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0631\u06a9\u0648\u0631\u0642\u0648"
     ],
@@ -154,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -168,9 +171,11 @@
     "wof:concordances":{
         "gn:id":3164569,
         "gp:id":725764,
-        "qs:id":246301,
-        "qs_pg:id":775529,
+        "qs_pg:id":246301,
         "wd:id":"Q42626"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":775529
     },
     "wof:country":"IT",
     "wof:geomhash":"1648ab3e12cd2583f2e2894557174dad",
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":101830253,
-    "wof:lastmodified":1563375523,
+    "wof:lastmodified":1566722923,
     "wof:name":"Vercurago",
     "wof:parent_id":404469415,
     "wof:placetype":"locality",

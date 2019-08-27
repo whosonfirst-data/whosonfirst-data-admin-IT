@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":44.650566,
     "lbl:longitude":10.779909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.650566,
     "mps:longitude":10.779909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0628\u064a\u064a\u0631\u0627"
     ],
@@ -163,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":263,
     "wof:belongsto":[
@@ -177,9 +180,11 @@
     "wof:concordances":{
         "gn:id":3168820,
         "gp:id":722126,
-        "qs:id":218675,
         "qs_pg:id":215302,
         "wd:id":"Q111275"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":218675
     },
     "wof:country":"IT",
     "wof:geomhash":"205c45c69faccfabfd5a76a33ce1e5f3",
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":101796523,
-    "wof:lastmodified":1563370712,
+    "wof:lastmodified":1566722578,
     "wof:name":"Rubiera",
     "wof:parent_id":404457091,
     "wof:placetype":"locality",

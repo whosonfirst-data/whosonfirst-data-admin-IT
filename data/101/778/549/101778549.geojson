@@ -9,14 +9,17 @@
     "geom:bbox":"8.73109755969,39.9468142604,8.74275474786,39.9558670337",
     "geom:latitude":39.951624,
     "geom:longitude":8.735772,
-    "geonames:id":"2523970,6535675",
+    "gn:id":"2523970,6535675",
     "iso:country":"IT",
     "lbl:latitude":39.951575,
     "lbl:longitude":8.735078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.951575,
     "mps:longitude":8.735078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Ollastra"
     ],
@@ -167,9 +170,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u043b\u0430\u0441\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ollastra Simaxis"
-    ],
     "name:uzb_x_preferred":[
         "Ollastra"
     ],
@@ -207,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         85685659,
@@ -220,9 +220,11 @@
     "wof:concordances":{
         "gn:id":6535675,
         "gp:id":719514,
-        "qs:id":179104,
         "qs_pg:id":160861,
         "wd:id":"Q387039"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":179104
     },
     "wof:country":"IT",
     "wof:geomhash":"629d68782caae82e56cbf64613790f6a",
@@ -237,7 +239,7 @@
         }
     ],
     "wof:id":101778549,
-    "wof:lastmodified":1563372353,
+    "wof:lastmodified":1566722699,
     "wof:name":"Ollastra",
     "wof:parent_id":404467045,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.526763,
     "lbl:longitude":10.5381,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.526763,
     "mps:longitude":10.5381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0646\u06cc\u0642\u0627 \u062f\u0644 \u0642\u0627\u0631\u062f\u0627"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":295,
     "wof:belongsto":[
@@ -165,9 +168,11 @@
     "wof:concordances":{
         "gn:id":3173139,
         "gp:id":718594,
-        "qs:id":94854,
-        "qs_pg:id":1072147,
+        "qs_pg:id":94854,
         "wd:id":"Q105224"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1072147
     },
     "wof:country":"IT",
     "wof:geomhash":"8ac5316625accac09c065398c0d92307",
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101795691,
-    "wof:lastmodified":1563374292,
+    "wof:lastmodified":1566722835,
     "wof:name":"Moniga del Garda",
     "wof:parent_id":404471167,
     "wof:placetype":"locality",

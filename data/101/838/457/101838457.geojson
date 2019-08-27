@@ -12,10 +12,13 @@
     "iso:country":"IT",
     "lbl:latitude":40.422197,
     "lbl:longitude":15.008786,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.422197,
     "mps:longitude":15.008786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0441\u0442\u0443\u043c"
     ],
@@ -109,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0441\u0442\u0443\u043c"
     ],
-    "name:unk_x_variant":[
-        "Pesto"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u57c3\u65af\u56fe\u59c6"
     ],
@@ -131,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85685497,
         102191581,
@@ -143,9 +143,11 @@
     "wof:concordances":{
         "gn:id":3171709,
         "gp:id":726550,
-        "qs:id":6,
-        "qs_pg:id":1350278,
+        "qs_pg:id":6,
         "wd:id":"Q329967"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1350278
     },
     "wof:country":"IT",
     "wof:geomhash":"33295bd26db96f5eccdc9760d9368cbf",
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101838457,
-    "wof:lastmodified":1561770530,
+    "wof:lastmodified":1566722882,
     "wof:name":"Licinella - Torre di Paestum",
     "wof:parent_id":404465519,
     "wof:placetype":"locality",

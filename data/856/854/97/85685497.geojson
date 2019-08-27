@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":40.401559,
     "lbl:longitude":15.275926,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.401559,
     "mps:longitude":15.275926,
     "mz:hierarchy_label":1,
@@ -253,9 +254,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0430\u043b\u0435\u0440\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Provincia di Salerno"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0627\u0644\u06cc\u0631\u0646\u0648"
     ],
@@ -343,9 +341,9 @@
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-09",
+    "src:population_date":"2011-10-09",
     "statoids:area_km":"4919",
     "statoids:area_mi":"5,249",
     "statoids:as_of_date":"2011-10-09",
@@ -393,11 +391,10 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1565723518,
+    "wof:lastmodified":1566721118,
     "wof:name":"Salerno",
     "wof:parent_id":404227525,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1092876,
     "wof:population_rank":12,

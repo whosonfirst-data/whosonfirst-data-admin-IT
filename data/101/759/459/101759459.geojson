@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.630362,
     "lbl:longitude":9.079332,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.630362,
     "mps:longitude":9.079332,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0686\u0631\u06cc\u0627\u0646\u0648 \u0644\u0627\u0642\u062a\u0648"
     ],
@@ -120,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0456\u0430\u043d\u043e-\u041b\u0430\u0433\u0435\u0442\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ceriano"
     ],
     "name:uzb_x_preferred":[
@@ -154,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -168,9 +171,11 @@
     "wof:concordances":{
         "gn:id":3179076,
         "gp:id":713792,
-        "qs:id":956965,
         "qs_pg:id":256536,
         "wd:id":"Q41061"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":956965
     },
     "wof:country":"IT",
     "wof:geomhash":"07baac02d041e3a059aa2d59fb5a768b",
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":101759459,
-    "wof:lastmodified":1563374430,
+    "wof:lastmodified":1566722844,
     "wof:name":"Ceriano Laghetto",
     "wof:parent_id":404469601,
     "wof:placetype":"locality",

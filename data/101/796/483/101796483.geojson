@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":44.887116,
     "lbl:longitude":10.857877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.887116,
     "mps:longitude":10.857877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0644\u0648"
     ],
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":362,
     "wof:belongsto":[
@@ -156,9 +159,11 @@
     "wof:concordances":{
         "gn:id":3169337,
         "gp:id":721942,
-        "qs:id":1043503,
         "qs_pg:id":78489,
         "wd:id":"Q111270"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043503
     },
     "wof:country":"IT",
     "wof:geomhash":"7744f858099691f45f8ca5d906fd97a7",
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":101796483,
-    "wof:lastmodified":1563370596,
+    "wof:lastmodified":1566722570,
     "wof:name":"Rolo",
     "wof:parent_id":404457089,
     "wof:placetype":"locality",

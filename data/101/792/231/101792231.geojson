@@ -13,10 +13,13 @@
     "iso:country":"IT",
     "lbl:latitude":46.816596,
     "lbl:longitude":11.724709,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.816596,
     "mps:longitude":11.724709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0646\u062f\u0648\u06cc\u0633"
     ],
@@ -128,9 +131,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0434\u043e\u0457\u0454\u0441"
     ],
-    "name:unk_x_variant":[
-        "Vintl"
-    ],
     "name:vie_x_preferred":[
         "Vandoies"
     ],
@@ -159,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685271,
@@ -172,10 +172,12 @@
     "wof:concordances":{
         "gn:id":3164736,
         "gp:id":726251,
-        "qs:id":270955,
         "qs_pg:id":94793,
         "wd:id":"Q282382",
         "wk:page":"Vintl"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":270955
     },
     "wof:country":"IT",
     "wof:geomhash":"bddcde4f0dfae529c97e0248ba9b03e2",
@@ -190,7 +192,7 @@
         }
     ],
     "wof:id":101792231,
-    "wof:lastmodified":1563374389,
+    "wof:lastmodified":1566722841,
     "wof:name":"Vandoies di Sotto",
     "wof:parent_id":404473287,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":40.736983,
     "lbl:longitude":13.942154,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":40.736983,
     "mps:longitude":13.942154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:arg_x_preferred":[
         "Ischia"
     ],
@@ -158,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u043a\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Villa Bagni"
-    ],
     "name:uzb_x_preferred":[
         "Ischia"
     ],
@@ -192,7 +192,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685487,
@@ -206,9 +206,11 @@
         "fct:id":"12aeba8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3175458,
         "gp:id":716682,
-        "qs:id":146528,
-        "qs_pg:id":456827,
+        "qs_pg:id":146528,
         "wd:id":"Q72134"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":456827
     },
     "wof:country":"IT",
     "wof:geomhash":"be9af4599d076712301d8f3cdfc82a32",
@@ -226,7 +228,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563374945,
+    "wof:lastmodified":1566722880,
     "wof:name":"Ischia",
     "wof:parent_id":404460951,
     "wof:placetype":"locality",

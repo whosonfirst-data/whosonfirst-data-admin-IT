@@ -13,10 +13,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.845868,
     "lbl:longitude":12.625756,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.845868,
     "mps:longitude":12.625756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0437\u0456\u044f\u043d\u0430-\u0434\u0437\u0456-\u041f\u0430\u0440\u0434\u044d\u043d\u043e\u043d\u044d"
     ],
@@ -119,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0437\u0456\u0430\u043d\u043e-\u0434\u0456-\u041f\u043e\u0440\u0434\u0435\u043d\u043e\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Pasiano di Pordenon"
-    ],
     "name:uzb_x_preferred":[
         "Pasiano di Pordenone"
     ],
@@ -154,7 +154,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685649,
@@ -167,7 +167,7 @@
     "wof:concordances":{
         "gn:id":3171431,
         "gp:id":20135096,
-        "qs:id":477684,
+        "qs_pg:id":477684,
         "wd:id":"Q53178"
     },
     "wof:country":"IT",
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":101836311,
-    "wof:lastmodified":1561770545,
+    "wof:lastmodified":1566722899,
     "wof:name":"Pasiano",
     "wof:parent_id":404459161,
     "wof:placetype":"locality",

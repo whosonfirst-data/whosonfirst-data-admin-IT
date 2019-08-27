@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.898059,
     "lbl:longitude":9.423099,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.898059,
     "mps:longitude":9.423099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0628\u06cc\u0648"
     ],
@@ -129,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0430\u0431\u0456\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ballabio Superiore"
     ],
     "name:uzb_x_preferred":[
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -180,9 +183,11 @@
     "wof:concordances":{
         "gn:id":3182455,
         "gp:id":710625,
-        "qs:id":956565,
         "qs_pg:id":215275,
         "wd:id":"Q42790"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":956565
     },
     "wof:country":"IT",
     "wof:geomhash":"8b77ccaa80d5f75c595503b2a445396c",
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":101767453,
-    "wof:lastmodified":1563372923,
+    "wof:lastmodified":1566722738,
     "wof:name":"Ballabio",
     "wof:parent_id":404469231,
     "wof:placetype":"locality",

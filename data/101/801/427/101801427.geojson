@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":39.370821,
     "lbl:longitude":17.12388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.370821,
     "mps:longitude":17.12388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0631\u0648 \u0645\u0627\u0631\u06cc\u0646\u0627"
     ],
@@ -123,9 +126,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0440\u043e-\u041c\u0430\u0440\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Marina di Ciro"
-    ],
     "name:uzb_x_preferred":[
         "Cir\u00f2 Marina"
     ],
@@ -155,7 +155,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -170,7 +170,7 @@
         "fct:id":"12b25048-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2524979,
         "gp:id":714137,
-        "qs:id":1347171,
+        "qs_pg:id":1347171,
         "wd:id":"Q54502"
     },
     "wof:country":"IT",
@@ -189,7 +189,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563375778,
+    "wof:lastmodified":1566722942,
     "wof:name":"Ciro Marina",
     "wof:parent_id":404464709,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.183526,
     "lbl:longitude":10.102595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.183526,
     "mps:longitude":10.102595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:a0":"Italia",
     "qs:a1":"*Cremona",
     "qs:a1r":"0Lombardia",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685263,
@@ -46,8 +49,10 @@
     "wof:concordances":{
         "gn:id":3177505,
         "gp:id":715090,
-        "qs:id":1210016,
         "qs_pg:id":186455
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1210016
     },
     "wof:country":"IT",
     "wof:geomhash":"5d0fa82a7f8287676539f462431c7eef",
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":101771303,
-    "wof:lastmodified":1505337848,
+    "wof:lastmodified":1566722711,
     "wof:name":"Dosimo",
     "wof:parent_id":404468959,
     "wof:placetype":"locality",

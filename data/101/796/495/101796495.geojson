@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":44.898433,
     "lbl:longitude":10.515446,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.898433,
     "mps:longitude":10.515446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0633\u062a\u0634\u0644\u0648"
     ],
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":948,
     "wof:belongsto":[
@@ -189,9 +192,11 @@
     "wof:concordances":{
         "gn:id":3181555,
         "gp:id":711409,
-        "qs:id":76227,
-        "qs_pg:id":1061254,
+        "qs_pg:id":76227,
         "wd:id":"Q111113"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1061254
     },
     "wof:country":"IT",
     "wof:geomhash":"e92db017d97ec28341c4cc53493a1c10",
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":101796495,
-    "wof:lastmodified":1563370691,
+    "wof:lastmodified":1566722576,
     "wof:name":"Brescello",
     "wof:parent_id":404467651,
     "wof:placetype":"locality",
