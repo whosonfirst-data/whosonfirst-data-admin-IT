@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.833514,
     "lbl:longitude":9.66558,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.833514,
     "mps:longitude":9.66558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646 \u067e\u0644\u0642\u0631\u06cc\u0646\u0648 \u062a\u0631\u0645\u0647"
     ],
@@ -160,9 +163,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0435\u043b\u043b\u0435\u0433\u0440\u0438\u043d\u043e-\u0422\u0435\u0440\u043c\u0435"
     ],
-    "name:unk_x_variant":[
-        "San Pellegrino"
-    ],
     "name:uzb_x_preferred":[
         "San Pellegrino Terme"
     ],
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
     "wof:belongsto":[
@@ -209,9 +209,11 @@
         "fct:id":"12b7d5a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3167879,
         "gp:id":722982,
-        "qs:id":1349493,
         "qs_pg:id":540350,
         "wd:id":"Q101551"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1349493
     },
     "wof:country":"IT",
     "wof:geomhash":"da86807004aa6a6345fb7d73c53afa87",
@@ -229,7 +231,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563374100,
+    "wof:lastmodified":1566722821,
     "wof:name":"San Pellegrino Terme",
     "wof:parent_id":404466123,
     "wof:placetype":"locality",

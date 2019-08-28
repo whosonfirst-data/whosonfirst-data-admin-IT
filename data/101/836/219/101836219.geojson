@@ -13,10 +13,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.832343,
     "lbl:longitude":12.033371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.832343,
     "mps:longitude":12.033371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u043e\u0447\u0435\u0442\u0430 \u0434\u0435\u043b \u041c\u043e\u043d\u0442\u0435\u043b\u043e"
     ],
@@ -120,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043e\u0447\u0435\u0442\u0442\u0430-\u0434\u0435\u043b\u044c-\u041c\u043e\u043d\u0442\u0435\u043b\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Crocetta Trevigiana"
-    ],
     "name:uzb_x_preferred":[
         "Crocetta del Montello"
     ],
@@ -160,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1505,
     "wof:belongsto":[
@@ -175,10 +175,12 @@
         "fct:id":"12b2c988-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3177775,
         "gp:id":29338793,
-        "qs:id":483402,
         "qs_pg:id":393405,
         "wd:id":"Q48157",
         "wk:page":"Crocetta del Montello"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":483402
     },
     "wof:country":"IT",
     "wof:geomhash":"7e243b1985b06a874229e20e103820e3",
@@ -196,7 +198,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563375061,
+    "wof:lastmodified":1566722888,
     "wof:name":"Crocetta del Montello",
     "wof:parent_id":404470049,
     "wof:placetype":"locality",

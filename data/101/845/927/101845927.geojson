@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":46.06942,
     "lbl:longitude":12.587327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.06942,
     "mps:longitude":12.587327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0622\u0648\u06cc\u0627\u0646\u0648"
     ],
@@ -145,9 +148,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0432\u0456\u0430\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Aviano"
-    ],
     "name:vec_x_preferred":[
         "Avian"
     ],
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685649,
@@ -193,9 +193,11 @@
         "fct:id":"12b1c18c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3179596,
         "gp:id":713381,
-        "qs:id":217016,
-        "qs_pg:id":1157793,
+        "qs_pg:id":217016,
         "wd:id":"Q53151"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1157793
     },
     "wof:country":"IT",
     "wof:geomhash":"c70996ca3cee9583b0fbf40aff22ea48",
@@ -213,7 +215,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563370893,
+    "wof:lastmodified":1566722592,
     "wof:name":"Aviano - Castello",
     "wof:parent_id":404459107,
     "wof:placetype":"locality",

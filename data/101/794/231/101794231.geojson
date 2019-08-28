@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.60036,
     "lbl:longitude":13.770309,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.60036,
     "mps:longitude":13.770309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u062c\u0627"
     ],
@@ -156,9 +159,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0434\u0436\u0430"
     ],
-    "name:unk_x_variant":[
-        "Milje"
-    ],
     "name:uzb_x_preferred":[
         "Muggia"
     ],
@@ -199,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":875,
     "wof:belongsto":[
@@ -214,9 +214,11 @@
         "fct:id":"12b572d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3172483,
         "gp:id":719196,
-        "qs:id":457043,
-        "qs_pg:id":1152704,
+        "qs_pg:id":457043,
         "wd:id":"Q16937"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152704
     },
     "wof:country":"IT",
     "wof:geomhash":"2648de7cb6d37d7511e59fb7c4e72240",
@@ -234,7 +236,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563373306,
+    "wof:lastmodified":1566722767,
     "wof:name":"Muggia",
     "wof:parent_id":404459093,
     "wof:placetype":"locality",

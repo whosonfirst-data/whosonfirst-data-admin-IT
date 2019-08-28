@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":42.511931,
     "lbl:longitude":13.133929,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":42.511931,
     "mps:longitude":13.133929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0628\u0648\u0646\u0627"
     ],
@@ -159,9 +162,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0431\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Barbona"
-    ],
     "name:uzb_x_preferred":[
         "Borbona"
     ],
@@ -196,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -211,9 +211,11 @@
         "fct:id":"12b09d0c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3182383,
         "gp:id":710690,
-        "qs:id":935257,
         "qs_pg:id":884712,
         "wd:id":"Q223459"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":935257
     },
     "wof:country":"IT",
     "wof:geomhash":"879115ec9484185d557a8616106544e5",
@@ -231,7 +233,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563370303,
+    "wof:lastmodified":1566722547,
     "wof:name":"Borbona",
     "wof:parent_id":404461365,
     "wof:placetype":"locality",

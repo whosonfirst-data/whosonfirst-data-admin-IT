@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":43.820058,
     "lbl:longitude":12.26722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":43.820058,
     "mps:longitude":12.26722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0627\u0628\u064a\u0644\u064a"
     ],
@@ -129,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u043d\u0430\u0431\u0456\u043b\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Penn\u00e1bili"
     ],
     "name:uzb_x_preferred":[
@@ -170,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
     "wof:belongsto":[
@@ -184,10 +187,12 @@
     "wof:concordances":{
         "gn:id":3171254,
         "gp:id":720127,
-        "qs:id":956787,
-        "qs_pg:id":1142274,
+        "qs_pg:id":956787,
         "wd:id":"Q111878",
         "wk:page":"Pennabilli"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1142274
     },
     "wof:country":"IT",
     "wof:geomhash":"acc9844c4f7ed643d08d73111c1daaa4",
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":101797601,
-    "wof:lastmodified":1563369941,
+    "wof:lastmodified":1566722524,
     "wof:name":"Pennabilli",
     "wof:parent_id":404459795,
     "wof:placetype":"locality",

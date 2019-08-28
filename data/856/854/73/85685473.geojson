@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":41.57422,
     "lbl:longitude":13.673166,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.57422,
     "mps:longitude":13.673166,
     "mz:hierarchy_label":1,
@@ -313,9 +314,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0424\u0440\u043e\u0437\u0456\u043d\u043e\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Provincia di Frosinone"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u0648\u0632\u06cc\u0646\u0648\u0646\u06d2"
     ],
@@ -415,9 +413,9 @@
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-09",
+    "src:population_date":"2011-10-09",
     "statoids:area_km":"3245",
     "statoids:area_mi":"6,642",
     "statoids:as_of_date":"2011-10-09",
@@ -466,11 +464,10 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1565723514,
+    "wof:lastmodified":1566721114,
     "wof:name":"Frosinone",
     "wof:parent_id":404227517,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":492661,
     "wof:population_rank":10,

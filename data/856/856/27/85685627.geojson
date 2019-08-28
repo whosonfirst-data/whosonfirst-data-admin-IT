@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":37.093388,
     "lbl:longitude":15.034018,
+    "lbl:min_zoom":8.0,
     "mps:latitude":37.093388,
     "mps:longitude":15.034018,
     "mz:hierarchy_label":1,
@@ -271,9 +272,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0438\u0440\u0430\u043a\u0443\u0437\u0430"
     ],
-    "name:unk_x_variant":[
-        "Provincia di Siracusa"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0631\u0642\u0648\u0633\u06c1"
     ],
@@ -361,9 +359,9 @@
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-09",
+    "src:population_date":"2011-10-09",
     "statoids:area_km":"2109",
     "statoids:area_mi":"9,926",
     "statoids:as_of_date":"2011-10-09",
@@ -412,11 +410,10 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1565723495,
+    "wof:lastmodified":1566721094,
     "wof:name":"Siracusa",
     "wof:parent_id":404227533,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":399933,
     "wof:population_rank":10,

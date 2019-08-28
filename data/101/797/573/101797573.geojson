@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":43.822337,
     "lbl:longitude":10.760296,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.822337,
     "mps:longitude":10.760296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u043d\u0447\u044b\u044f\u043d\u0430"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u043a'\u044f\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Anchiano"
-    ],
     "name:vie_x_preferred":[
         "Anchiano"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685403,
@@ -132,9 +132,11 @@
         "fct:id":"12afec40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3183095,
         "gp:id":29338637,
-        "qs:id":1245749,
         "qs_pg:id":52700,
         "wd:id":"Q154184"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1245749
     },
     "wof:country":"IT",
     "wof:geomhash":"a9c7cca3acfc90219507e86482e624a5",
@@ -152,7 +154,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563369899,
+    "wof:lastmodified":1566722521,
     "wof:name":"Anchione",
     "wof:parent_id":404472723,
     "wof:placetype":"locality",

@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":45.638771,
     "lbl:longitude":9.255311,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.638771,
     "mps:longitude":9.255311,
     "mz:hierarchy_label":1,
@@ -235,7 +236,7 @@
         "Monza e Brianza"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bca\u0ba9\u0bcd\u0b9c\u0bbe  \u0b85\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bbf\u0bb0\u0bc8\u0baf\u0ba9\u0bcd\u0b9c\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bae\u0bca\u0ba9\u0bcd\u0b9c\u0bbe \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bbf\u0bb0\u0bc8\u0baf\u0ba9\u0bcd\u0b9c\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c02\u0c1c\u0c3e \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2c\u0c4d\u0c30\u0c2f\u0c3e\u0c02\u0c1c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -336,9 +337,9 @@
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-09",
+    "src:population_date":"2011-10-09",
     "statoids:area_km":"388",
     "statoids:area_mi":"9,212",
     "statoids:as_of_date":"2011-10-09",
@@ -386,11 +387,10 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1565723490,
+    "wof:lastmodified":1566721089,
     "wof:name":"Monza E Della Brianza",
     "wof:parent_id":404227497,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":840129,
     "wof:population_rank":11,

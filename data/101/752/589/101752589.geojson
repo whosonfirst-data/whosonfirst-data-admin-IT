@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":41.238582,
     "lbl:longitude":16.500714,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":41.238582,
     "mps:longitude":16.500714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u064a\u0644\u064a\u064a"
     ],
@@ -202,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":689,
     "wof:belongsto":[
@@ -216,9 +219,11 @@
     "wof:concordances":{
         "gn:id":3182007,
         "gp:id":711009,
-        "qs:id":190374,
-        "qs_pg:id":1061251,
+        "qs_pg:id":190374,
         "wd:id":"Q23178"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1061251
     },
     "wof:country":"IT",
     "wof:geomhash":"82cb3e43e159172d0e49f2ee999e7647",
@@ -233,7 +238,7 @@
         }
     ],
     "wof:id":101752589,
-    "wof:lastmodified":1563370039,
+    "wof:lastmodified":1566722530,
     "wof:name":"Bisceglie",
     "wof:parent_id":404463373,
     "wof:placetype":"locality",

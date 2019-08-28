@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":45.60754,
     "lbl:longitude":9.304968,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.60754,
     "mps:longitude":9.304968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u0627\u0633\u0627\u0646\u062a\u0627"
     ],
@@ -129,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u043b\u0430\u0437\u0430\u043d\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa"
     ],
     "name:uzb_x_preferred":[
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -180,9 +183,11 @@
     "wof:concordances":{
         "gn:id":3164138,
         "gp:id":726200,
-        "qs:id":1208847,
         "qs_pg:id":1142829,
         "wd:id":"Q40659"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1208847
     },
     "wof:country":"IT",
     "wof:geomhash":"687050d044ddeb0787df0931f36f7b73",
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":101757931,
-    "wof:lastmodified":1563373800,
+    "wof:lastmodified":1566722799,
     "wof:name":"Villasanta",
     "wof:parent_id":404463563,
     "wof:placetype":"locality",

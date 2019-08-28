@@ -12,10 +12,13 @@
     "iso:country":"IT",
     "lbl:latitude":43.065597,
     "lbl:longitude":12.550163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.065597,
     "mps:longitude":12.550163,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u062a\u064a\u0627"
     ],
@@ -227,7 +230,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85685439,
         102191581,
@@ -239,7 +242,9 @@
     "wof:concordances":{
         "gn:id":3182288,
         "gp:id":710781,
-        "qs:id":3,
+        "qs_pg:id":3
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1055224
     },
     "wof:country":"IT",
@@ -255,7 +260,7 @@
         }
     ],
     "wof:id":101836979,
-    "wof:lastmodified":1564134307,
+    "wof:lastmodified":1566722891,
     "wof:name":"Bastia",
     "wof:parent_id":404459603,
     "wof:placetype":"locality",

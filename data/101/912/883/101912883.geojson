@@ -12,10 +12,13 @@
     "iso:country":"IT",
     "lbl:latitude":38.292912,
     "lbl:longitude":16.320585,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.292912,
     "mps:longitude":16.320585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u062a\u064a\u0631\u064a\u0627"
     ],
@@ -134,10 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0442\u0442\u0435\u0440\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "\u0418\u0441\u0430\u043a\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isakovskiy"
     ],
     "name:uzb_x_preferred":[
@@ -173,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         85685577,
@@ -186,9 +186,11 @@
     "wof:concordances":{
         "gn:id":1505483,
         "gp:id":20127086,
-        "qs:id":439752,
-        "qs_pg:id":1177846,
+        "qs_pg:id":439752,
         "wd:id":"Q54616"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1177846
     },
     "wof:country":"IT",
     "wof:geomhash":"c4b7dae7dcfaee3f658b8c8bc9751a24",
@@ -206,7 +208,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372388,
+    "wof:lastmodified":1566722703,
     "wof:name":"Grotteria Mare",
     "wof:parent_id":404464561,
     "wof:placetype":"locality",
