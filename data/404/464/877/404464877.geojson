@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelvetrano",
+    "eurostat:nuts_2021_id":"081006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081006",
+    "eurostat:population":30783,
+    "eurostat:population_year":2020,
     "geom:area":0.021374,
-    "geom:area_square_m":209245734.514908,
+    "geom:area_square_m":209245734.514896,
     "geom:bbox":"12.7136562574,37.5769421659,12.9168022073,37.752141274",
     "geom:latitude":37.655059,
     "geom:longitude":12.816395,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081006",
+        "eurostat:nuts_2021_id":"081006",
         "gn:id":6539111,
         "gp:id":12678339,
         "qs_pg:id":1293085
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78d87ecf0dc7e2020d1a9e207712cc0a",
+    "wof:geomhash":"a24837ea1057d9816b8e020af5cad5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404464877,
-    "wof:lastmodified":1582327801,
+    "wof:lastmodified":1684353819,
     "wof:name":"Castelvetrano",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":30783,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

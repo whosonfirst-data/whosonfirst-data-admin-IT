@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camini",
+    "eurostat:nuts_2021_id":"080017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080017",
+    "eurostat:population":745,
+    "eurostat:population_year":2020,
     "geom:area":0.001779,
     "geom:area_square_m":17230024.450443,
     "geom:bbox":"16.4668331872,38.402903665,16.5674428774,38.445742885",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_080017",
+        "eurostat:nuts_2021_id":"080017"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1398db0b0461ed25deefdacb93d0227a",
+    "wof:geomhash":"5d4f4dbf326dc65c637447ce376f9dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464511,
-    "wof:lastmodified":1566723227,
+    "wof:lastmodified":1684353808,
     "wof:name":"Camini",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":745,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

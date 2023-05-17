@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taurano",
+    "eurostat:nuts_2021_id":"064106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064106",
+    "eurostat:population":1513,
+    "eurostat:population_year":2020,
     "geom:area":0.001039,
     "geom:area_square_m":9708211.916053,
     "geom:bbox":"14.6140696213,40.8799368945,14.6833546282,40.9128305255",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064106",
+        "eurostat:nuts_2021_id":"064106",
         "gn:id":6538800,
         "gp:id":12679894,
         "qs_pg:id":1014462
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28a79caf6904be1b67e2f45eea46b0fb",
+    "wof:geomhash":"b498164090450a9bd277e2f3a23be934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465431,
-    "wof:lastmodified":1582327832,
+    "wof:lastmodified":1684353831,
     "wof:name":"Taurano",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1513,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

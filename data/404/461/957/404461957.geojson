@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guarcino",
+    "eurostat:nuts_2021_id":"060042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060042",
+    "eurostat:population":1538,
+    "eurostat:population_year":2020,
     "geom:area":0.004364,
-    "geom:area_square_m":40221779.840955,
+    "geom:area_square_m":40221779.84096,
     "geom:bbox":"13.2552126751,41.7676711311,13.3719633769,41.8435764425",
     "geom:latitude":41.813621,
     "geom:longitude":13.309133,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_060042",
+        "eurostat:nuts_2021_id":"060042"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"945c4251adb097f9f47b52bc103aeed0",
+    "wof:geomhash":"5e11d873f076736149d2241462ddb63f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404461957,
-    "wof:lastmodified":1566723701,
+    "wof:lastmodified":1684353749,
     "wof:name":"Guarcino",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":1538,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

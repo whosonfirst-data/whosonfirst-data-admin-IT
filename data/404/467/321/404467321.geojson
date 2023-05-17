@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuili",
+    "eurostat:nuts_2021_id":"111091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111091",
+    "eurostat:population":979,
+    "eurostat:population_year":2020,
     "geom:area":0.002584,
-    "geom:area_square_m":24582773.116354,
+    "geom:area_square_m":24582773.116351,
     "geom:bbox":"8.9362370248,39.6702129302,8.99337582205,39.74955091",
     "geom:latitude":39.713725,
     "geom:longitude":8.963435,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111091",
+        "eurostat:nuts_2021_id":"111091",
         "gn:id":6539312,
         "gp:id":12682288,
         "qs_pg:id":1095245
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67d6d2f54a2b87aa971cd876bdee9893",
+    "wof:geomhash":"a0225fc73fa5b95c8e91823c307faf4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467321,
-    "wof:lastmodified":1582327990,
+    "wof:lastmodified":1684353871,
     "wof:name":"Tuili",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":979,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

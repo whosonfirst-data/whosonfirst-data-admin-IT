@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guilmi",
+    "eurostat:nuts_2021_id":"069044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069044",
+    "eurostat:population":420,
+    "eurostat:population_year":2020,
     "geom:area":0.001359,
-    "geom:area_square_m":12491535.631826,
+    "geom:area_square_m":12491535.631829,
     "geom:bbox":"14.4604935576,41.9709252143,14.5098017165,42.0147527574",
     "geom:latitude":41.991797,
     "geom:longitude":14.482168,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069044",
+        "eurostat:nuts_2021_id":"069044",
         "gn:id":6538880,
         "gp:id":12679735,
         "qs_pg:id":41075
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd730148865e4243bd48ae7b274bec0c",
+    "wof:geomhash":"e44ccb330b94cfaaa00556eb71908520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462617,
-    "wof:lastmodified":1582327853,
+    "wof:lastmodified":1684353762,
     "wof:name":"Guilmi",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Badia/Abtei",
+    "eurostat:nuts_2021_id":"021006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021006",
+    "eurostat:population":3471,
+    "eurostat:population_year":2020,
     "geom:area":0.009747,
-    "geom:area_square_m":82837147.663339,
+    "geom:area_square_m":82837147.663341,
     "geom:bbox":"11.8468798461,46.5278750641,12.0140426825,46.6413395807",
     "geom:latitude":46.58241,
     "geom:longitude":11.920429,
@@ -75,6 +87,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -83,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021006",
+        "eurostat:nuts_2021_id":"021006",
         "gp:id":12675721,
         "qs_pg:id":1222208
     },
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2b49428ce0ff466b10577464c918a23",
+    "wof:geomhash":"5efb0ee39fa4f70001b2974f237365ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404473057,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353976,
     "wof:name":"Badia",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3471,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

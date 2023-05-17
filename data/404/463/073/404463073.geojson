@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondragone",
+    "eurostat:nuts_2021_id":"061052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061052",
+    "eurostat:population":29808,
+    "eurostat:population_year":2020,
     "geom:area":0.005953,
-    "geom:area_square_m":55459500.473171,
+    "geom:area_square_m":55459500.473164,
     "geom:bbox":"13.8533508855,41.0462782497,13.9865725881,41.1630567638",
     "geom:latitude":41.11006,
     "geom:longitude":13.914906,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061052",
+        "eurostat:nuts_2021_id":"061052",
         "gn:id":6539457,
         "gp:id":12680407,
         "qs_pg:id":236362
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6de493077ba9f53f8983c3a928c49c4c",
+    "wof:geomhash":"2e00043ae24f2e6d23adaf5d7ac154d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404463073,
-    "wof:lastmodified":1582327780,
+    "wof:lastmodified":1684353771,
     "wof:name":"Mondragone",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":29808,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

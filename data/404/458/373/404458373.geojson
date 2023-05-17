@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio in Bosco",
+    "eurostat:nuts_2021_id":"028076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028076",
+    "eurostat:population":6402,
+    "eurostat:population_year":2020,
     "geom:area":0.003267,
     "geom:area_square_m":28274942.458514,
     "geom:bbox":"11.7586194394,45.5544902702,11.8499466532,45.6215731546",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_028076",
+        "eurostat:nuts_2021_id":"028076"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bc0711e701ba3274d8dcc3c9f73025ae",
+    "wof:geomhash":"8cc44b6ffda5645cc1bc7fb06612e956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404458373,
-    "wof:lastmodified":1566723458,
+    "wof:lastmodified":1684353668,
     "wof:name":"San Giorgio In Bosco",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":6402,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

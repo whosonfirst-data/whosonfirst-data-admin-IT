@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bergamasco",
+    "eurostat:nuts_2021_id":"006015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006015",
+    "eurostat:population":708,
+    "eurostat:population_year":2020,
     "geom:area":0.00153,
-    "geom:area_square_m":13421626.730055,
+    "geom:area_square_m":13421626.730056,
     "geom:bbox":"8.42008038357,44.8019876853,8.4839070811,44.8467635448",
     "geom:latitude":44.828086,
     "geom:longitude":8.449826,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006015",
+        "eurostat:nuts_2021_id":"006015",
         "gn:id":6542857,
         "gp:id":12682578,
         "qs_pg:id":1143847
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f2f3486fc094eb9f16eddde2e9fe096",
+    "wof:geomhash":"004556db4ea1125eee6242e302feb80e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404460007,
-    "wof:lastmodified":1582328002,
+    "wof:lastmodified":1684353707,
     "wof:name":"Bergamasco",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":708,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

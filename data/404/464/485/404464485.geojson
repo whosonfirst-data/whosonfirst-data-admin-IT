@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagaladi",
+    "eurostat:nuts_2021_id":"080006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080006",
+    "eurostat:population":977,
+    "eurostat:population_year":2020,
     "geom:area":0.003057,
-    "geom:area_square_m":29763549.354285,
+    "geom:area_square_m":29763549.354281,
     "geom:bbox":"15.780287896,38.0071417101,15.8747689147,38.1170890234",
     "geom:latitude":38.0494,
     "geom:longitude":15.814097,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080006",
+        "eurostat:nuts_2021_id":"080006",
         "gn:id":6540809,
         "gp:id":12679382,
         "qs_pg:id":1163494
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e7c92936f38647bba790f7c759390f3",
+    "wof:geomhash":"50f37d16b083b6e0a3f41bbbe45abb48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464485,
-    "wof:lastmodified":1582327795,
+    "wof:lastmodified":1684353807,
     "wof:name":"Bagaladi",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":977,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

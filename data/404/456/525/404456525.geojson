@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moncalieri",
+    "eurostat:nuts_2021_id":"001156",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001156",
+    "eurostat:population":57465,
+    "eurostat:population_year":2020,
     "geom:area":0.005426,
-    "geom:area_square_m":47452940.843998,
+    "geom:area_square_m":47452940.844001,
     "geom:bbox":"7.64805417191,44.9279157774,7.75714783502,45.0311466489",
     "geom:latitude":44.988353,
     "geom:longitude":7.702591,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001156",
+        "eurostat:nuts_2021_id":"001156",
         "gn:id":6538064,
         "gp:id":12680400,
         "qs_pg:id":1150710
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea6de3039933af25643edb6fd6a17b87",
+    "wof:geomhash":"768a89b6a13198a3f6e47f521d407df4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404456525,
-    "wof:lastmodified":1582328070,
+    "wof:lastmodified":1684353626,
     "wof:name":"Moncalieri",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":57465,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

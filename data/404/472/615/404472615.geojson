@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barga",
+    "eurostat:nuts_2021_id":"046003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046003",
+    "eurostat:population":9772,
+    "eurostat:population_year":2020,
     "geom:area":0.007473,
     "geom:area_square_m":66365188.654166,
     "geom:bbox":"10.4428345787,44.0367725362,10.5835411017,44.1569796734",
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046003",
+        "eurostat:nuts_2021_id":"046003",
         "gn:id":6539733,
         "gp:id":12676573,
         "qs_pg:id":1102007
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6761d84b3a7c3ac36eaec83bb07eea10",
+    "wof:geomhash":"17dd6d7ff842bb13dc6ac6d28cd45fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404472615,
-    "wof:lastmodified":1582327900,
+    "wof:lastmodified":1684353965,
     "wof:name":"Barga",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":9772,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

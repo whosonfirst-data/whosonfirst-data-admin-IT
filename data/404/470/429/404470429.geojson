@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villadose",
+    "eurostat:nuts_2021_id":"029048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029048",
+    "eurostat:population":4929,
+    "eurostat:population_year":2020,
     "geom:area":0.003664,
-    "geom:area_square_m":31988283.205157,
+    "geom:area_square_m":31988283.205161,
     "geom:bbox":"11.8557775899,45.0543860238,11.9697359043,45.1083426479",
     "geom:latitude":45.079934,
     "geom:longitude":11.912491,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029048",
+        "eurostat:nuts_2021_id":"029048",
         "gn:id":6538359,
         "gp:id":12682155,
         "qs_pg:id":1032075
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2ccc0cdf6bee9b5f9314803a107f4ef",
+    "wof:geomhash":"3e53dfbc86cc60dc1137df2d3336aeda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470429,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353921,
     "wof:name":"Villadose",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":4929,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

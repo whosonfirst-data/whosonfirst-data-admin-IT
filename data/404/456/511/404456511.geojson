@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mercenasco",
+    "eurostat:nuts_2021_id":"001150",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001150",
+    "eurostat:population":1269,
+    "eurostat:population_year":2020,
     "geom:area":0.001452,
-    "geom:area_square_m":12617731.470332,
+    "geom:area_square_m":12617731.470334,
     "geom:bbox":"7.83172560203,45.3390515158,7.9028379127,45.3730104277",
     "geom:latitude":45.356448,
     "geom:longitude":7.869223,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001150",
+        "eurostat:nuts_2021_id":"001150",
         "gn:id":6540914,
         "gp:id":12680293,
         "qs_pg:id":1172918
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"715ce9cb7382821b94e65756841d7913",
+    "wof:geomhash":"cd5e34d68313c34e24c94c77aa16c877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456511,
-    "wof:lastmodified":1582328057,
+    "wof:lastmodified":1684353626,
     "wof:name":"Mercenasco",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1269,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

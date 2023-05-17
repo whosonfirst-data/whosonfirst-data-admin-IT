@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valderice",
+    "eurostat:nuts_2021_id":"081022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081022",
+    "eurostat:population":11852,
+    "eurostat:population_year":2020,
     "geom:area":0.005426,
-    "geom:area_square_m":52843688.518547,
+    "geom:area_square_m":52843688.518555,
     "geom:bbox":"12.5864510513,37.9851269525,12.6885333136,38.0785965357",
     "geom:latitude":38.032948,
     "geom:longitude":12.638174,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081022",
+        "eurostat:nuts_2021_id":"081022",
         "gn:id":2522808,
         "gp:id":20077029,
         "qs_pg:id":1103184
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37b720177de139ebe76a318f459f786d",
+    "wof:geomhash":"c653577b42a70aaf6cd470afa0532d24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404464909,
-    "wof:lastmodified":1582327792,
+    "wof:lastmodified":1684353821,
     "wof:name":"Valderice",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":11852,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

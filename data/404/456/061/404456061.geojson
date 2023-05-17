@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monastero Bormida",
+    "eurostat:nuts_2021_id":"005068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005068",
+    "eurostat:population":912,
+    "eurostat:population_year":2020,
     "geom:area":0.001612,
-    "geom:area_square_m":14186936.844818,
+    "geom:area_square_m":14186936.844816,
     "geom:bbox":"8.29058846098,44.6200124382,8.35560705133,44.6704816721",
     "geom:latitude":44.639341,
     "geom:longitude":8.327057,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005068",
+        "eurostat:nuts_2021_id":"005068",
         "gn:id":6542402,
         "gp:id":12682571,
         "qs_pg:id":1102250
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51d9e89f70d806ace59e9b406b40d778",
+    "wof:geomhash":"8e0f52e508b86b66d80e4c51b07a54aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456061,
-    "wof:lastmodified":1582328066,
+    "wof:lastmodified":1684353616,
     "wof:name":"Monastero Bormida",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":912,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

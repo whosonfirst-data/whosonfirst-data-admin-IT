@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cazzago San Martino",
+    "eurostat:nuts_2021_id":"017046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017046",
+    "eurostat:population":10971,
+    "eurostat:population_year":2020,
     "geom:area":0.002577,
-    "geom:area_square_m":22304728.398073,
+    "geom:area_square_m":22304728.398068,
     "geom:bbox":"10.0006686765,45.5197201153,10.0638234535,45.611269094",
     "geom:latitude":45.575338,
     "geom:longitude":10.035436,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017046",
+        "eurostat:nuts_2021_id":"017046",
         "gn:id":6541710,
         "gp:id":12678426,
         "qs_pg:id":1164407
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1f17abfc9a645feeb03570c4410610ad",
+    "wof:geomhash":"1f65c6d9213ffee612aa5edb7ac6cbad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404471027,
-    "wof:lastmodified":1582327726,
+    "wof:lastmodified":1684353932,
     "wof:name":"Cazzago San Martino",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":10971,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buscate",
+    "eurostat:nuts_2021_id":"015038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015038",
+    "eurostat:population":4648,
+    "eurostat:population_year":2020,
     "geom:area":0.000903,
     "geom:area_square_m":7820647.932462,
     "geom:bbox":"8.79383812538,45.525893956,8.83567741383,45.5642297034",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015038",
+        "eurostat:nuts_2021_id":"015038",
         "gn:id":6537113,
         "gp:id":12677198,
         "qs_pg:id":209024
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84b116a705dbf04b86ad85de9bcc4cd6",
+    "wof:geomhash":"b32b2c8afe7e585ef146385bc8a9346f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468331,
-    "wof:lastmodified":1582328075,
+    "wof:lastmodified":1684353887,
     "wof:name":"Buscate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":4648,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

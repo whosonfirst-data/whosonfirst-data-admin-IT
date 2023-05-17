@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Novalesa",
+    "eurostat:nuts_2021_id":"001169",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001169",
+    "eurostat:population":526,
+    "eurostat:population_year":2020,
     "geom:area":0.003271,
     "geom:area_square_m":28497835.827537,
     "geom:bbox":"6.98660232218,45.169337515,7.0771965559,45.2258658173",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001169",
+        "eurostat:nuts_2021_id":"001169",
         "gn:id":6538070,
         "gp:id":12679089,
         "qs_pg:id":213768
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86cee3810f83f9223aff376a3ee6cb97",
+    "wof:geomhash":"875f2c0f280557c439660464243de82e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456555,
-    "wof:lastmodified":1582328060,
+    "wof:lastmodified":1684353627,
     "wof:name":"Novalesa",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":526,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

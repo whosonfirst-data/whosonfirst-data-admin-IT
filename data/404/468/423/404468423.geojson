@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Inveruno",
+    "eurostat:nuts_2021_id":"015113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015113",
+    "eurostat:population":8658,
+    "eurostat:population_year":2020,
     "geom:area":0.001398,
-    "geom:area_square_m":12116717.82775,
+    "geom:area_square_m":12116717.827749,
     "geom:bbox":"8.81570209807,45.5025203951,8.89308505377,45.5331987973",
     "geom:latitude":45.517199,
     "geom:longitude":8.854077,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015113",
+        "eurostat:nuts_2021_id":"015113",
         "gn:id":6536511,
         "gp:id":12679768,
         "qs_pg:id":41100
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"814a583dd1f8f1ab39e3dbefbc2d1ed5",
+    "wof:geomhash":"0163f0bf0d59420db05d975440fa264b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468423,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353888,
     "wof:name":"Inveruno",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":8658,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

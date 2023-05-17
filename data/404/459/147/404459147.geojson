@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiume Veneto",
+    "eurostat:nuts_2021_id":"093021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093021",
+    "eurostat:population":11775,
+    "eurostat:population_year":2020,
     "geom:area":0.004142,
-    "geom:area_square_m":35626154.452759,
+    "geom:area_square_m":35626154.452762,
     "geom:bbox":"12.6743395529,45.8913778096,12.8003361636,45.9539717094",
     "geom:latitude":45.922759,
     "geom:longitude":12.737475,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093021",
+        "eurostat:nuts_2021_id":"093021",
         "gn:id":6537932,
         "gp:id":12676518,
         "qs_pg:id":1193017
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"287b3d7d86b0e23cd62d77ccbe63d1f5",
+    "wof:geomhash":"7800c612a9f7fbbb5d36dbf0a34827c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459147,
-    "wof:lastmodified":1582328179,
+    "wof:lastmodified":1684353687,
     "wof:name":"Fiume Veneto",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":11775,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

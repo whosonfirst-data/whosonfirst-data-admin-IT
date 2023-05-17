@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaggio Montano",
+    "eurostat:nuts_2021_id":"037027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037027",
+    "eurostat:population":4899,
+    "eurostat:population_year":2020,
     "geom:area":0.006609,
-    "geom:area_square_m":58565588.313106,
+    "geom:area_square_m":58565588.313107,
     "geom:bbox":"10.9072669215,44.1748662261,11.0517901477,44.2711492989",
     "geom:latitude":44.218387,
     "geom:longitude":10.981201,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037027",
+        "eurostat:nuts_2021_id":"037027",
         "gn:id":6538469,
         "gp:id":12676875,
         "qs_pg:id":1025877
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9118d07286aeb147d643d4b965eb7bdf",
+    "wof:geomhash":"20c23d16d0dea7bc8491de3b9032e13c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404472283,
-    "wof:lastmodified":1582327897,
+    "wof:lastmodified":1684353956,
     "wof:name":"Gaggio Montano",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":4899,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

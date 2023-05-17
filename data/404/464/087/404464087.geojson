@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonifati",
+    "eurostat:nuts_2021_id":"078019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078019",
+    "eurostat:population":2733,
+    "eurostat:population_year":2020,
     "geom:area":0.00352,
-    "geom:area_square_m":33551229.367098,
+    "geom:area_square_m":33551229.367088,
     "geom:bbox":"15.8645123998,39.5402606534,15.9933000384,39.5989019511",
     "geom:latitude":39.573985,
     "geom:longitude":15.916174,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078019",
+        "eurostat:nuts_2021_id":"078019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f8a34461de557868f3f728fbed9e2f7e",
+    "wof:geomhash":"60f1d05aed8ba705e8c5cef61e3042ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464087,
-    "wof:lastmodified":1566723234,
+    "wof:lastmodified":1684353797,
     "wof:name":"Bonifati",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2733,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

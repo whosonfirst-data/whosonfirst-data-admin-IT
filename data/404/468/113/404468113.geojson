@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laino",
+    "eurostat:nuts_2021_id":"013120",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013120",
+    "eurostat:population":531,
+    "eurostat:population_year":2020,
     "geom:area":0.000777,
-    "geom:area_square_m":6671969.474431,
+    "geom:area_square_m":6671969.47443,
     "geom:bbox":"9.0693540635,45.9722275001,9.13526134029,45.9946355053",
     "geom:latitude":45.982448,
     "geom:longitude":9.099501,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013120",
+        "eurostat:nuts_2021_id":"013120",
         "gn:id":6542918,
         "gp:id":12681203,
         "qs_pg:id":947282
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c93c2ccbcb846b95cdf9c774904c78f0",
+    "wof:geomhash":"139e42d4ee289de3f45e3dd54c31797d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468113,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353884,
     "wof:name":"Laino",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":531,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pompiano",
+    "eurostat:nuts_2021_id":"017146",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017146",
+    "eurostat:population":3769,
+    "eurostat:population_year":2020,
     "geom:area":0.001757,
-    "geom:area_square_m":15249309.125833,
+    "geom:area_square_m":15249309.125829,
     "geom:bbox":"9.96576134634,45.3876227584,10.0274708019,45.4507754709",
     "geom:latitude":45.419253,
     "geom:longitude":9.994183,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_017146",
+        "eurostat:nuts_2021_id":"017146"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a6cb28cb07d0addd1079619956e87612",
+    "wof:geomhash":"9085953148605596d1e0a4be5c3ced6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404471251,
-    "wof:lastmodified":1566723101,
+    "wof:lastmodified":1684353936,
     "wof:name":"Pompiano",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":3769,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

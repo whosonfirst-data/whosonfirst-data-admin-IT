@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collalto Sabino",
+    "eurostat:nuts_2021_id":"057018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057018",
+    "eurostat:population":398,
+    "eurostat:population_year":2020,
     "geom:area":0.002432,
     "geom:area_square_m":22293097.85927,
     "geom:bbox":"13.0175734295,42.1159967471,13.09352091,42.1986251323",
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_057018",
+        "eurostat:nuts_2021_id":"057018"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ad6817a5b65921585ab5114b2e94333f",
+    "wof:geomhash":"4ffb8cff45efa11803148bc20c8faba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404461391,
-    "wof:lastmodified":1566723683,
+    "wof:lastmodified":1684353738,
     "wof:name":"Collalto Sabino",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":398,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

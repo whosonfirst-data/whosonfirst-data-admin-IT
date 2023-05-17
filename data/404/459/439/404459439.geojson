@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baceno",
+    "eurostat:nuts_2021_id":"103006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103006",
+    "eurostat:population":886,
+    "eurostat:population_year":2020,
     "geom:area":0.009033,
-    "geom:area_square_m":77140119.240224,
+    "geom:area_square_m":77140119.240231,
     "geom:bbox":"8.19622551261,46.2462625277,8.34342467285,46.3862809756",
     "geom:latitude":46.318083,
     "geom:longitude":8.280006,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103006",
+        "eurostat:nuts_2021_id":"103006",
         "gn:id":6539440,
         "gp:id":20075983,
         "qs_pg:id":1311195
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c3b4fe9f59d639dc1e12d10a84ee1db",
+    "wof:geomhash":"e54bb49b2db613a97474aa2b738476d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459439,
-    "wof:lastmodified":1582328159,
+    "wof:lastmodified":1684353693,
     "wof:name":"Baceno",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":886,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albareto",
+    "eurostat:nuts_2021_id":"034001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034001",
+    "eurostat:population":2125,
+    "eurostat:population_year":2020,
     "geom:area":0.011775,
-    "geom:area_square_m":103969581.197672,
+    "geom:area_square_m":103969581.197671,
     "geom:bbox":"9.62101152115,44.3624144514,9.76370281062,44.5131267831",
     "geom:latitude":44.434413,
     "geom:longitude":9.700431,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034001",
+        "eurostat:nuts_2021_id":"034001",
         "gn:id":6538418,
         "qs_pg:id":1037351
     },
@@ -158,7 +174,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7429b5d1aaaced23e8df22e75bd025fe",
+    "wof:geomhash":"8ad2a86c391c79c7c299332af5f0ab00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":404472143,
-    "wof:lastmodified":1582327892,
+    "wof:lastmodified":1684353953,
     "wof:name":"Albareto",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":2125,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

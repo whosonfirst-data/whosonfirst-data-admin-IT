@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceranesi",
+    "eurostat:nuts_2021_id":"010014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010014",
+    "eurostat:population":3735,
+    "eurostat:population_year":2020,
     "geom:area":0.003476,
-    "geom:area_square_m":30657526.767248,
+    "geom:area_square_m":30657526.767253,
     "geom:bbox":"8.79280453687,44.4724947231,8.8970098764,44.5423877569",
     "geom:latitude":44.505427,
     "geom:longitude":8.841862,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010014",
+        "eurostat:nuts_2021_id":"010014",
         "gn:id":6542793,
         "gp:id":12681750,
         "qs_pg:id":213508
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b762925affb3e8231212e773e2aed72a",
+    "wof:geomhash":"32c5bde38a494b29580668a82445ac58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471951,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353949,
     "wof:name":"Ceranesi",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":3735,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

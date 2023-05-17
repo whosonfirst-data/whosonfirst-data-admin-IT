@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Picinisco",
+    "eurostat:nuts_2021_id":"060050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060050",
+    "eurostat:population":1146,
+    "eurostat:population_year":2020,
     "geom:area":0.006695,
-    "geom:area_square_m":61857384.753612,
+    "geom:area_square_m":61857384.753625,
     "geom:bbox":"13.8260094228,41.6021840933,13.9757720743,41.7190953471",
     "geom:latitude":41.652898,
     "geom:longitude":13.907168,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060050",
+        "eurostat:nuts_2021_id":"060050",
         "gn:id":6536989,
         "gp:id":12678542,
         "qs_pg:id":885743
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"888d61327d40daea6c466f915633a3cc",
+    "wof:geomhash":"69414dc2084a69408da9c6042b8b0b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461975,
-    "wof:lastmodified":1582328150,
+    "wof:lastmodified":1684353750,
     "wof:name":"Picinisco",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":1146,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

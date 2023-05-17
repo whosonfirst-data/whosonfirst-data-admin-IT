@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lettere",
+    "eurostat:nuts_2021_id":"063039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063039",
+    "eurostat:population":6192,
+    "eurostat:population_year":2020,
     "geom:area":0.001275,
-    "geom:area_square_m":11950062.146301,
+    "geom:area_square_m":11950062.146303,
     "geom:bbox":"14.5170728874,40.6847406574,14.5906961895,40.7223953868",
     "geom:latitude":40.703093,
     "geom:longitude":14.559406,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063039",
+        "eurostat:nuts_2021_id":"063039",
         "gn:id":3174814,
         "gp:id":12679441,
         "qs_pg:id":40877
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a3dd373464261124ad7ed0f79ecb63d",
+    "wof:geomhash":"8c43156b13ceab23c007465657430289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460955,
-    "wof:lastmodified":1582327997,
+    "wof:lastmodified":1684353728,
     "wof:name":"Lettere",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":6192,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

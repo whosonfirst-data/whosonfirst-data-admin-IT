@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca di Botte",
+    "eurostat:nuts_2021_id":"066080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066080",
+    "eurostat:population":858,
+    "eurostat:population_year":2020,
     "geom:area":0.003374,
-    "geom:area_square_m":30997922.164841,
+    "geom:area_square_m":30997922.164843,
     "geom:bbox":"13.0482776642,41.986456353,13.2063008781,42.0544130456",
     "geom:latitude":42.021791,
     "geom:longitude":13.114783,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_066080",
+        "eurostat:nuts_2021_id":"066080"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"dc3965faf33b6ca041ff7593903b6dcc",
+    "wof:geomhash":"6ac7d2bca05ec41845781dafabefe814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404462247,
-    "wof:lastmodified":1566723333,
+    "wof:lastmodified":1684353755,
     "wof:name":"Rocca Di Botte",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":858,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

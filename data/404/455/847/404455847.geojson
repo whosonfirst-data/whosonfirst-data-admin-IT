@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sommariva del Bosco",
+    "eurostat:nuts_2021_id":"004222",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004222",
+    "eurostat:population":6345,
+    "eurostat:population_year":2020,
     "geom:area":0.004028,
     "geom:area_square_m":35362097.088864,
     "geom:bbox":"7.72502152683,44.7307809035,7.8399569735,44.8186281095",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004222",
+        "eurostat:nuts_2021_id":"004222"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9aebb84bae39a48b92440a7b022162eb",
+    "wof:geomhash":"f5ddc0d5cadfc4c71ccdaf629d19be8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404455847,
-    "wof:lastmodified":1566723265,
+    "wof:lastmodified":1684353612,
     "wof:name":"Sommariva Del Bosco",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":6345,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

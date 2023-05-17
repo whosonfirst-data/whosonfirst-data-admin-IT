@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melito di Porto Salvo",
+    "eurostat:nuts_2021_id":"080050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080050",
+    "eurostat:population":10941,
+    "eurostat:population_year":2020,
     "geom:area":0.003601,
-    "geom:area_square_m":35109920.369422,
+    "geom:area_square_m":35109920.369414,
     "geom:bbox":"15.7407147601,37.9158344125,15.8251061204,38.0032098083",
     "geom:latitude":37.952319,
     "geom:longitude":15.785251,
@@ -32,6 +44,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,6 +54,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080050",
+        "eurostat:nuts_2021_id":"080050",
         "gp:id":12677633,
         "qs_pg:id":1301671
     },
@@ -47,7 +63,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9558edce6345bba0674b195c884b3f22",
+    "wof:geomhash":"faab8aeb4c56b84b14832dedfda03a25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +74,12 @@
         }
     ],
     "wof:id":404464585,
-    "wof:lastmodified":1582327806,
+    "wof:lastmodified":1684353810,
     "wof:name":"Melito Di Porto Salvo",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":10941,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

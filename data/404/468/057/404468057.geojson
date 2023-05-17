@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cucciago",
+    "eurostat:nuts_2021_id":"013084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013084",
+    "eurostat:population":3495,
+    "eurostat:population_year":2020,
     "geom:area":0.00057,
     "geom:area_square_m":4923036.789036,
     "geom:bbox":"9.08237323646,45.7225644566,9.11353258436,45.7542454459",
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013084",
+        "eurostat:nuts_2021_id":"013084",
         "gn:id":6543107,
         "gp:id":20076097,
         "qs_pg:id":50486
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7c50b7aeecf2253c0b6b4e300423fcf",
+    "wof:geomhash":"d8359d9c9223f8b33dee2a1eca1b39c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404468057,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353883,
     "wof:name":"Cucciago",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":3495,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

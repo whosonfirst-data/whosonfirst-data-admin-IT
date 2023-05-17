@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olgiate Olona",
+    "eurostat:nuts_2021_id":"012108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012108",
+    "eurostat:population":12612,
+    "eurostat:population_year":2020,
     "geom:area":0.000832,
-    "geom:area_square_m":7195746.099216,
+    "geom:area_square_m":7195746.099217,
     "geom:bbox":"8.85165302571,45.6144066821,8.89684875133,45.6433329308",
     "geom:latitude":45.630032,
     "geom:longitude":8.877903,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012108",
+        "eurostat:nuts_2021_id":"012108",
         "gn:id":6540159,
         "gp:id":12680750,
         "qs_pg:id":1018025
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31e2faa89245e42b7678db2a25486bbb",
+    "wof:geomhash":"74cddc1cd458fe94fb8e24afb1dc0527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467853,
-    "wof:lastmodified":1582327986,
+    "wof:lastmodified":1684353880,
     "wof:name":"Olgiate Olona",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":12612,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

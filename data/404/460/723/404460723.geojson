@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campoli del Monte Taburno",
+    "eurostat:nuts_2021_id":"062014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062014",
+    "eurostat:population":1603,
+    "eurostat:population_year":2020,
     "geom:area":0.001046,
     "geom:area_square_m":9745378.427478,
     "geom:bbox":"14.6391901381,41.0901120589,14.6802429596,41.137653893",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062014",
+        "eurostat:nuts_2021_id":"062014",
         "gn:id":6537319,
         "gp:id":12677456,
         "qs_pg:id":39680
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d35e68ade4b627abcbfd4017fd058ad7",
+    "wof:geomhash":"e84bf5a5dc7c0954b729f8a4ea7a51e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460723,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353724,
     "wof:name":"Campoli Del Monte Taburno",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1603,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cairate",
+    "eurostat:nuts_2021_id":"012029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012029",
+    "eurostat:population":7704,
+    "eurostat:population_year":2020,
     "geom:area":0.001302,
-    "geom:area_square_m":11246459.201901,
+    "geom:area_square_m":11246459.201899,
     "geom:bbox":"8.83231927776,45.6660038801,8.89635378642,45.7069867604",
     "geom:latitude":45.689324,
     "geom:longitude":8.85881,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012029",
+        "eurostat:nuts_2021_id":"012029",
         "gn:id":6541557,
         "gp:id":12680002,
         "qs_pg:id":1296711
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91e3b863866b6172cfc5e4a51d8e66b8",
+    "wof:geomhash":"d8ed816b03b7c52fd4060877dd199beb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467437,
-    "wof:lastmodified":1582327972,
+    "wof:lastmodified":1684353874,
     "wof:name":"Cairate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":7704,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

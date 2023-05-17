@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vero Milis",
+    "eurostat:nuts_2021_id":"095050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095050",
+    "eurostat:population":2461,
+    "eurostat:population_year":2020,
     "geom:area":0.007652,
     "geom:area_square_m":72458206.14068,
     "geom:bbox":"8.37634282076,39.9870213111,8.63246233331,40.0623170806",
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095050",
+        "eurostat:nuts_2021_id":"095050",
         "gn:id":6539371,
         "gp:id":20076850,
         "qs_pg:id":1032177
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3e6e519797c195f846a764906993d18",
+    "wof:geomhash":"8019c4fc9ed96657a0685275a9b6ce0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467075,
-    "wof:lastmodified":1582327983,
+    "wof:lastmodified":1684353865,
     "wof:name":"San Vero Milis",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":2461,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

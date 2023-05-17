@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontana Liri",
+    "eurostat:nuts_2021_id":"060036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060036",
+    "eurostat:population":2813,
+    "eurostat:population_year":2020,
     "geom:area":0.001736,
-    "geom:area_square_m":16044874.166283,
+    "geom:area_square_m":16044874.166282,
     "geom:bbox":"13.538827904,41.6010158334,13.6083003726,41.6417469989",
     "geom:latitude":41.619708,
     "geom:longitude":13.568671,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060036",
+        "eurostat:nuts_2021_id":"060036",
         "gn:id":6541546,
         "gp:id":12676101,
         "qs_pg:id":234653
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9185dcd15314ef659e34962150d7d51f",
+    "wof:geomhash":"b3ada3edecaf1244e8a862310f51abe1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461943,
-    "wof:lastmodified":1582328150,
+    "wof:lastmodified":1684353749,
     "wof:name":"Fontana Liri",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":2813,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

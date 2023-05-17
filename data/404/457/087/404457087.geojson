@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio Saliceto",
+    "eurostat:nuts_2021_id":"035034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035034",
+    "eurostat:population":6028,
+    "eurostat:population_year":2020,
     "geom:area":0.002568,
-    "geom:area_square_m":22521017.69041,
+    "geom:area_square_m":22521017.690417,
     "geom:bbox":"10.761089258,44.7959941309,10.8468283493,44.8618287348",
     "geom:latitude":44.827341,
     "geom:longitude":10.803856,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035034",
+        "eurostat:nuts_2021_id":"035034",
         "gn:id":6540418,
         "gp:id":12677524,
         "qs_pg:id":103799
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7fc73a0a9cb104a833ba2b92d20d5b33",
+    "wof:geomhash":"b89732814997a12b6e290cba2aa76616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404457087,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353642,
     "wof:name":"Rio Saliceto",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":6028,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anguillara Veneta",
+    "eurostat:nuts_2021_id":"028004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028004",
+    "eurostat:population":4248,
+    "eurostat:population_year":2020,
     "geom:area":0.002467,
-    "geom:area_square_m":21513106.269833,
+    "geom:area_square_m":21513106.269834,
     "geom:bbox":"11.8353134707,45.1282944288,11.9688166017,45.1689759713",
     "geom:latitude":45.145564,
     "geom:longitude":11.892374,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028004",
+        "eurostat:nuts_2021_id":"028004",
         "gn:id":6538326,
         "gp:id":12676099,
         "qs_pg:id":38809
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f0861b0ef8946846d3a0d81f9200796",
+    "wof:geomhash":"d459ec0d445a5800b0f6d758037e444c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470207,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353918,
     "wof:name":"Anguillara Veneta",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":4248,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

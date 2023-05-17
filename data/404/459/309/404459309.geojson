@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Joven\u00e7an",
+    "eurostat:nuts_2021_id":"007038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007038",
+    "eurostat:population":708,
+    "eurostat:population_year":2020,
     "geom:area":0.00081,
-    "geom:area_square_m":6998341.777334,
+    "geom:area_square_m":6998341.777333,
     "geom:bbox":"7.25815435715,45.6691611723,7.29027155302,45.7240335476",
     "geom:latitude":45.700484,
     "geom:longitude":7.275418,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007038",
+        "eurostat:nuts_2021_id":"007038",
         "gn:id":6543060,
         "gp:id":20076003,
         "qs_pg:id":1019834
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d4cf0ec369366394c0299d6d0bd5ed6",
+    "wof:geomhash":"7a51d8998e0b58613fa2961eb6e2a128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459309,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353691,
     "wof:name":"Jovencan",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":708,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

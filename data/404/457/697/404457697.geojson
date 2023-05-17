@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellazzo Novarese",
+    "eurostat:nuts_2021_id":"003042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003042",
+    "eurostat:population":324,
+    "eurostat:population_year":2020,
     "geom:area":0.001244,
-    "geom:area_square_m":10775599.189877,
+    "geom:area_square_m":10775599.189876,
     "geom:bbox":"8.46166416005,45.4952030046,8.52904355184,45.5280597758",
     "geom:latitude":45.511445,
     "geom:longitude":8.494392,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003042",
+        "eurostat:nuts_2021_id":"003042",
         "gn:id":6538127,
         "gp:id":12678256,
         "qs_pg:id":243681
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9beb9bb7ef99b637f9d6ae2338a79da",
+    "wof:geomhash":"b2c593dbf0609e798bfffbfb7d7ed9ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457697,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353655,
     "wof:name":"Castellazzo Novarese",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":324,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallio Terme",
+    "eurostat:nuts_2021_id":"017193",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017193",
+    "eurostat:population":1442,
+    "eurostat:population_year":2020,
     "geom:area":0.001715,
-    "geom:area_square_m":14831022.555509,
+    "geom:area_square_m":14831022.555508,
     "geom:bbox":"10.3574117048,45.5922830749,10.4215005265,45.6357436738",
     "geom:latitude":45.611755,
     "geom:longitude":10.388216,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017193",
+        "eurostat:nuts_2021_id":"017193",
         "gn:id":3164799,
         "gp:id":12681227,
         "qs_pg:id":976748
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28348e19d002763e1666d7dd6ff316b6",
+    "wof:geomhash":"2d80889171769f806e81392f939781ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471357,
-    "wof:lastmodified":1582327722,
+    "wof:lastmodified":1684353938,
     "wof:name":"Vallio Terme",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1442,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

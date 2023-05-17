@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bologna",
+    "eurostat:nuts_2021_id":"037006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037006",
+    "eurostat:population":390625,
+    "eurostat:population_year":2020,
     "geom:area":0.015937,
-    "geom:area_square_m":140564825.778782,
+    "geom:area_square_m":140564795.684716,
     "geom:bbox":"11.2297,44.421107,11.433763,44.556194",
     "geom:latitude":44.497973,
     "geom:longitude":11.333478,
@@ -359,6 +371,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -366,9 +380,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_037006",
+        "eurostat:nuts_2021_id":"037006"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"2ada12d5a4aff7401e25f3e3ee61c061",
+    "wof:geomhash":"b6a4625d1d0e87c65a2ad015ae390aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -379,10 +396,12 @@
         }
     ],
     "wof:id":404472237,
-    "wof:lastmodified":1636496850,
+    "wof:lastmodified":1684353955,
     "wof:name":"Bologna",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":390625,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

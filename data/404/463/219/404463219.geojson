@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gravina in Puglia",
+    "eurostat:nuts_2021_id":"072023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072023",
+    "eurostat:population":43578,
+    "eurostat:population_year":2020,
     "geom:area":0.040723,
-    "geom:area_square_m":380948769.603909,
+    "geom:area_square_m":380948769.603884,
     "geom:bbox":"16.2248751078,40.700760489,16.5060722856,41.0052977011",
     "geom:latitude":40.840687,
     "geom:longitude":16.363989,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072023",
+        "eurostat:nuts_2021_id":"072023",
         "gn:id":6538943,
         "gp:id":12679672,
         "qs_pg:id":1108593
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32f486715fce5371056399730399b52d",
+    "wof:geomhash":"edb293eedcc0e9b822e628bd978270f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463219,
-    "wof:lastmodified":1582327767,
+    "wof:lastmodified":1684353775,
     "wof:name":"Gravina In Puglia",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":43578,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Francesco al Campo",
+    "eurostat:nuts_2021_id":"001240",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001240",
+    "eurostat:population":4882,
+    "eurostat:population_year":2020,
     "geom:area":0.001717,
-    "geom:area_square_m":14954558.787613,
+    "geom:area_square_m":14954558.787614,
     "geom:bbox":"7.62886384191,45.2059248138,7.6914079029,45.2557685619",
     "geom:latitude":45.229984,
     "geom:longitude":7.666705,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001240",
+        "eurostat:nuts_2021_id":"001240",
         "gn:id":6540921,
         "gp:id":12681621,
         "qs_pg:id":948554
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e100a992d7949b3c2ab3d5fca8d0194",
+    "wof:geomhash":"b3c4a6c1a760d3cc97c15261fa725dea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404457283,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353646,
     "wof:name":"San Francesco Al Campo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4882,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

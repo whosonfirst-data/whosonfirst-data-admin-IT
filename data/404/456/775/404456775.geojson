@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sezzadio",
+    "eurostat:nuts_2021_id":"006161",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006161",
+    "eurostat:population":1264,
+    "eurostat:population_year":2020,
     "geom:area":0.003904,
-    "geom:area_square_m":34274537.983209,
+    "geom:area_square_m":34274537.983206,
     "geom:bbox":"8.53805601351,44.7084840884,8.63027832414,44.8025850198",
     "geom:latitude":44.75836,
     "geom:longitude":8.587534,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006161",
+        "eurostat:nuts_2021_id":"006161",
         "gn:id":6542889,
         "gp:id":20075944,
         "qs_pg:id":955231
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6a854d71cc311909041f7df56b08f1d",
+    "wof:geomhash":"0c17498ac3bd34d9f566bcdc91209069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456775,
-    "wof:lastmodified":1582328069,
+    "wof:lastmodified":1684353632,
     "wof:name":"Sezzadio",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1264,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

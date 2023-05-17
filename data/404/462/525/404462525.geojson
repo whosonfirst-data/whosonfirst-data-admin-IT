@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ari",
+    "eurostat:nuts_2021_id":"069003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069003",
+    "eurostat:population":1108,
+    "eurostat:population_year":2020,
     "geom:area":0.001239,
-    "geom:area_square_m":11330987.570611,
+    "geom:area_square_m":11330987.57061,
     "geom:bbox":"14.237942617,42.2569146877,14.2759331908,42.3205095462",
     "geom:latitude":42.286214,
     "geom:longitude":14.256336,
@@ -71,6 +83,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -78,9 +92,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_069003",
+        "eurostat:nuts_2021_id":"069003"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f011d35627a827543a2bd32deb2ad73d",
+    "wof:geomhash":"b0b26693d17c1ae412e3334a6daa23d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +108,12 @@
         }
     ],
     "wof:id":404462525,
-    "wof:lastmodified":1566723341,
+    "wof:lastmodified":1684353760,
     "wof:name":"Ari",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":1108,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

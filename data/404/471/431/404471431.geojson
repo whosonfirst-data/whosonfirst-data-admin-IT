@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gambol\u00f2",
+    "eurostat:nuts_2021_id":"018068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018068",
+    "eurostat:population":9920,
+    "eurostat:population_year":2020,
     "geom:area":0.005932,
-    "geom:area_square_m":51630345.466638,
+    "geom:area_square_m":51630345.466635,
     "geom:bbox":"8.79368564257,45.2266424869,8.96763896515,45.2855506322",
     "geom:latitude":45.25837,
     "geom:longitude":8.862345,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018068",
+        "eurostat:nuts_2021_id":"018068",
         "gn:id":6541713,
         "gp:id":12679490,
         "qs_pg:id":1078537
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35fa2a653e8551f476bbdb3aef1a03b9",
+    "wof:geomhash":"1f046778f6034d6654a11f2577774fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471431,
-    "wof:lastmodified":1582327717,
+    "wof:lastmodified":1684353940,
     "wof:name":"Gambol\u00f2",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":9920,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

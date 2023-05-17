@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roncello",
+    "eurostat:nuts_2021_id":"108055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108055",
+    "eurostat:population":4780,
+    "eurostat:population_year":2020,
     "geom:area":0.000365,
     "geom:area_square_m":3156340.969424,
     "geom:bbox":"9.44221811292,45.5911501189,9.47683488457,45.6104527448",
@@ -122,6 +134,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -130,6 +144,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108055",
+        "eurostat:nuts_2021_id":"108055",
         "gn:id":6534490,
         "gp:id":20076569,
         "qs_pg:id":266167
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20b342a3f12ab56212385e85f97fea36",
+    "wof:geomhash":"e300fae18eb97febcd596373fe06b0e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404468521,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353890,
     "wof:name":"Roncello",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":4780,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

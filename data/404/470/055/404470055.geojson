@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Follina",
+    "eurostat:nuts_2021_id":"026027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026027",
+    "eurostat:population":3715,
+    "eurostat:population_year":2020,
     "geom:area":0.002793,
-    "geom:area_square_m":24009007.982732,
+    "geom:area_square_m":24009007.982742,
     "geom:bbox":"12.0909518129,45.9194765151,12.1690543891,46.003873321",
     "geom:latitude":45.964437,
     "geom:longitude":12.127485,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026027",
+        "eurostat:nuts_2021_id":"026027",
         "gn:id":6536643,
         "gp:id":12677805,
         "qs_pg:id":1059612
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e2cbc4258284cbf1f197b48bc48f921",
+    "wof:geomhash":"915522f5a9df7e85088e57d4c61468b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470055,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353915,
     "wof:name":"Follina",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":3715,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frossasco",
+    "eurostat:nuts_2021_id":"001110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001110",
+    "eurostat:population":2876,
+    "eurostat:population_year":2020,
     "geom:area":0.002298,
-    "geom:area_square_m":20113746.680903,
+    "geom:area_square_m":20113746.680902,
     "geom:bbox":"7.28988124732,44.9062870946,7.414612158,44.9759145909",
     "geom:latitude":44.934237,
     "geom:longitude":7.357642,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001110",
+        "eurostat:nuts_2021_id":"001110",
         "gn:id":6543375,
         "gp:id":20076468,
         "qs_pg:id":1286968
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3553f74a70679f31651a3672df87d67",
+    "wof:geomhash":"05613d14756fb360fbd6c1c1792e9a59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456421,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353623,
     "wof:name":"Frossasco",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":2876,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

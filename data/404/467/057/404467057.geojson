@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pompu",
+    "eurostat:nuts_2021_id":"095042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095042",
+    "eurostat:population":237,
+    "eurostat:population_year":2020,
     "geom:area":0.000559,
     "geom:area_square_m":5314981.845405,
     "geom:bbox":"8.77958578768,39.7138579394,8.8116780032,39.7444983586",
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095042",
+        "eurostat:nuts_2021_id":"095042",
         "gn:id":6539598,
         "gp:id":12681201,
         "qs_pg:id":272217
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eea3c72a3130f77dc6a3e91f1812078f",
+    "wof:geomhash":"665316465adeb1d494e52824e74b2da2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467057,
-    "wof:lastmodified":1582327987,
+    "wof:lastmodified":1684353864,
     "wof:name":"Pompu",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

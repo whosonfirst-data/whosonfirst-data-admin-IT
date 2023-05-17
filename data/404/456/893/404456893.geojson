@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sava",
+    "eurostat:nuts_2021_id":"073026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073026",
+    "eurostat:population":15814,
+    "eurostat:population_year":2020,
     "geom:area":0.004671,
-    "geom:area_square_m":43984977.870068,
+    "geom:area_square_m":43984920.433123,
     "geom:bbox":"17.485,40.353646,17.577234,40.440503",
     "geom:latitude":40.397715,
     "geom:longitude":17.53622,
@@ -266,6 +278,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -274,6 +288,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073026",
+        "eurostat:nuts_2021_id":"073026",
         "gn:id":6537571,
         "gp:id":12681900,
         "qs_pg:id":1102231
@@ -282,7 +298,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ea6a13f720677d51e5e2570c247ebd0",
+    "wof:geomhash":"d7baa4c77e5404e576a56ed93dbddfff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -293,10 +309,12 @@
         }
     ],
     "wof:id":404456893,
-    "wof:lastmodified":1636496853,
+    "wof:lastmodified":1684353635,
     "wof:name":"Sava",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":15814,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

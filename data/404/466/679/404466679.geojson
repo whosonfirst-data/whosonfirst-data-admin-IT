@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buscemi",
+    "eurostat:nuts_2021_id":"089004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089004",
+    "eurostat:population":995,
+    "eurostat:population_year":2020,
     "geom:area":0.005244,
-    "geom:area_square_m":51727975.478223,
+    "geom:area_square_m":51727975.478232,
     "geom:bbox":"14.8164811328,37.0353123804,14.9479258702,37.1279803646",
     "geom:latitude":37.088452,
     "geom:longitude":14.869849,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089004",
+        "eurostat:nuts_2021_id":"089004",
         "gn:id":6537818,
         "gp:id":12676606,
         "qs_pg:id":416452
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9df4d033847c84e09e30c9e710fde10b",
+    "wof:geomhash":"934a067f1ba159cf04104be43579dd9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466679,
-    "wof:lastmodified":1582328204,
+    "wof:lastmodified":1684353855,
     "wof:name":"Buscemi",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":995,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

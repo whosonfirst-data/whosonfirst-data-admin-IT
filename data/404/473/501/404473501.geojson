@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giustino",
+    "eurostat:nuts_2021_id":"022093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022093",
+    "eurostat:population":742,
+    "eurostat:population_year":2020,
     "geom:area":0.004592,
-    "geom:area_square_m":39305873.880193,
+    "geom:area_square_m":39305873.880192,
     "geom:bbox":"10.6492510389,46.1363056758,10.8161704774,46.2310781647",
     "geom:latitude":46.190039,
     "geom:longitude":10.715028,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022093",
+        "eurostat:nuts_2021_id":"022093",
         "gn:id":6543249,
         "gp:id":20076619,
         "qs_pg:id":466434
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1377b413d01432ace0aa21341ec21282",
+    "wof:geomhash":"616e9458f577b4ccc93335f982de0dea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404473501,
-    "wof:lastmodified":1582327923,
+    "wof:lastmodified":1684353990,
     "wof:name":"Giustino",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":742,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

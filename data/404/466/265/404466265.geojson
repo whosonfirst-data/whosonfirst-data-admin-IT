@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Itala",
+    "eurostat:nuts_2021_id":"083036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083036",
+    "eurostat:population":1568,
+    "eurostat:population_year":2020,
     "geom:area":0.00112,
-    "geom:area_square_m":10900630.415876,
+    "geom:area_square_m":10900630.415874,
     "geom:bbox":"15.4014179481,38.0257509123,15.4568540416,38.0747605903",
     "geom:latitude":38.052647,
     "geom:longitude":15.428743,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083036",
+        "eurostat:nuts_2021_id":"083036",
         "gn:id":6539151,
         "gp:id":12679799,
         "qs_pg:id":961701
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7233e7d5f79de4a005b97e6a99ef2358",
+    "wof:geomhash":"0a50dca1e530bfac3bb07c514b06240c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404466265,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353845,
     "wof:name":"Itala",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1568,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

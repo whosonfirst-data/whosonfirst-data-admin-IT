@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genoni",
+    "eurostat:nuts_2021_id":"111023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111023",
+    "eurostat:population":787,
+    "eurostat:population_year":2020,
     "geom:area":0.004609,
-    "geom:area_square_m":43787186.412336,
+    "geom:area_square_m":43787186.412333,
     "geom:bbox":"8.88087044111,39.7547460893,9.04241822654,39.8283133014",
     "geom:latitude":39.790868,
     "geom:longitude":8.972785,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111023",
+        "eurostat:nuts_2021_id":"111023",
         "gn:id":6539255,
         "gp:id":12679534,
         "qs_pg:id":1018484
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b209ae18f0ea1f056f200440520bfeb",
+    "wof:geomhash":"bd6c033f3d9600031d19bb39120db82f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467145,
-    "wof:lastmodified":1582327976,
+    "wof:lastmodified":1684353866,
     "wof:name":"Genoni",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":787,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

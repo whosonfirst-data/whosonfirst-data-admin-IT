@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genola",
+    "eurostat:nuts_2021_id":"004096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004096",
+    "eurostat:population":2609,
+    "eurostat:population_year":2020,
     "geom:area":0.001556,
-    "geom:area_square_m":13701606.615169,
+    "geom:area_square_m":13701606.615167,
     "geom:bbox":"7.63261529875,44.5704634024,7.70302448046,44.6058281747",
     "geom:latitude":44.588753,
     "geom:longitude":7.668546,
@@ -86,6 +98,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -94,6 +108,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004096",
+        "eurostat:nuts_2021_id":"004096",
         "gn:id":6540941,
         "gp:id":20075760,
         "qs_pg:id":1158778
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f270cde1835f245aaa8661582aa280f",
+    "wof:geomhash":"258f2617b39fc4db5c5c01c1da330a11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404455565,
-    "wof:lastmodified":1582327817,
+    "wof:lastmodified":1684353606,
     "wof:name":"Genola",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2609,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

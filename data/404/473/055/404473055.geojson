@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avelengo/Hafling",
+    "eurostat:nuts_2021_id":"021005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021005",
+    "eurostat:population":780,
+    "eurostat:population_year":2020,
     "geom:area":0.00322,
-    "geom:area_square_m":27327894.097103,
+    "geom:area_square_m":27327894.09711,
     "geom:bbox":"11.2043385356,46.6233249219,11.2912957173,46.7019655181",
     "geom:latitude":46.658461,
     "geom:longitude":11.249885,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021005",
+        "eurostat:nuts_2021_id":"021005",
         "gp:id":12676355,
         "qs_pg:id":59657
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d422d9b34c9f9ef98e70470efdbbd3c0",
+    "wof:geomhash":"43a8383c1c083338cf486646b5219f13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473055,
-    "wof:lastmodified":1582327919,
+    "wof:lastmodified":1684353976,
     "wof:name":"Avelengo",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":780,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

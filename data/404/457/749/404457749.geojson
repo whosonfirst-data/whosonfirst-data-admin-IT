@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Landiona",
+    "eurostat:nuts_2021_id":"003083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003083",
+    "eurostat:population":547,
+    "eurostat:population_year":2020,
     "geom:area":0.000839,
-    "geom:area_square_m":7272366.583928,
+    "geom:area_square_m":7272366.583927,
     "geom:bbox":"8.40078698003,45.4799569822,8.44492989494,45.5080238767",
     "geom:latitude":45.495114,
     "geom:longitude":8.421032,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003083",
+        "eurostat:nuts_2021_id":"003083",
         "gn:id":6538131,
         "gp:id":12679860,
         "qs_pg:id":295111
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1cda55cce4e4914dd0d244df3354555e",
+    "wof:geomhash":"67545fcfe0ec3c63ed7a007ff9daa85b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457749,
-    "wof:lastmodified":1582328106,
+    "wof:lastmodified":1684353656,
     "wof:name":"Landiona",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":547,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

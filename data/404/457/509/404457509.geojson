@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Civiasco",
+    "eurostat:nuts_2021_id":"002043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002043",
+    "eurostat:population":253,
+    "eurostat:population_year":2020,
     "geom:area":0.000856,
-    "geom:area_square_m":7375812.764316,
+    "geom:area_square_m":7375812.764317,
     "geom:bbox":"8.27849769504,45.7924107789,8.32927642142,45.8327700501",
     "geom:latitude":45.813337,
     "geom:longitude":8.307022,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002043",
+        "eurostat:nuts_2021_id":"002043",
         "gn:id":6543799,
         "gp:id":23388499,
         "qs_pg:id":1197740
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbd725306272eddfcfc34667fb5bf23b",
+    "wof:geomhash":"64ce181981c13f6dab9dc16f5c3e3679",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404457509,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353651,
     "wof:name":"Civiasco",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":253,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

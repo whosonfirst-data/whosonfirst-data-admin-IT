@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio di Nogaro",
+    "eurostat:nuts_2021_id":"030100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030100",
+    "eurostat:population":7432,
+    "eurostat:population_year":2020,
     "geom:area":0.002997,
-    "geom:area_square_m":25828930.960395,
+    "geom:area_square_m":25828930.960397,
     "geom:bbox":"13.1726516478,45.7533655595,13.2478305412,45.8475729859",
     "geom:latitude":45.810443,
     "geom:longitude":13.216936,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030100",
+        "eurostat:nuts_2021_id":"030100",
         "gn:id":6538392,
         "gp:id":12677700,
         "qs_pg:id":209034
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c748b009f14074c97e35260611786c37",
+    "wof:geomhash":"520e62b92c234641005090301847c0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404470661,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353925,
     "wof:name":"San Giorgio Di Nogaro",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":7432,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

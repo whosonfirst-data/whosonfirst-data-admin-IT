@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Floro",
+    "eurostat:nuts_2021_id":"079108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079108",
+    "eurostat:population":719,
+    "eurostat:population_year":2020,
     "geom:area":0.001883,
-    "geom:area_square_m":18130759.1161,
+    "geom:area_square_m":18130759.116097,
     "geom:bbox":"16.4551434887,38.8334661403,16.5770280089,38.8634087981",
     "geom:latitude":38.849094,
     "geom:longitude":16.514131,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079108",
+        "eurostat:nuts_2021_id":"079108"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3b0e31818161caa4bf210e5ea2db689a",
+    "wof:geomhash":"46f31085c0d8dd4558f728a3accc4870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464413,
-    "wof:lastmodified":1566723215,
+    "wof:lastmodified":1684353805,
     "wof:name":"San Floro",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":719,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

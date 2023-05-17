@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Darfo Boario Terme",
+    "eurostat:nuts_2021_id":"017065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017065",
+    "eurostat:population":15656,
+    "eurostat:population_year":2020,
     "geom:area":0.004183,
-    "geom:area_square_m":36007619.272585,
+    "geom:area_square_m":36007619.272591,
     "geom:bbox":"10.1434337609,45.8493064969,10.2539198568,45.9271259888",
     "geom:latitude":45.886919,
     "geom:longitude":10.197891,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017065",
+        "eurostat:nuts_2021_id":"017065",
         "gp:id":12676839,
         "qs_pg:id":1083874
     },
@@ -158,7 +174,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58c4c48e6c5dd8bf28a45d916f9c142e",
+    "wof:geomhash":"8d41b44bcb69fb203a1b18d5e02972e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":404471069,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353933,
     "wof:name":"Darfo Boario Terme",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":15656,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

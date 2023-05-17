@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Treppo Grande",
+    "eurostat:nuts_2021_id":"030126",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030126",
+    "eurostat:population":1703,
+    "eurostat:population_year":2020,
     "geom:area":0.001317,
-    "geom:area_square_m":11275297.690685,
+    "geom:area_square_m":11275297.690684,
     "geom:bbox":"13.125739833,46.1604227141,13.1752508408,46.2173951244",
     "geom:latitude":46.189389,
     "geom:longitude":13.153495,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030126",
+        "eurostat:nuts_2021_id":"030126",
         "gn:id":6541019,
         "gp:id":12682257,
         "qs_pg:id":204283
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c6d1472180952a2e6d46eb436683334",
+    "wof:geomhash":"2f6229f4e3918f6c3f1ea60533812ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470717,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353926,
     "wof:name":"Treppo Grande",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1703,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

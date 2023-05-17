@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calanna",
+    "eurostat:nuts_2021_id":"080016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080016",
+    "eurostat:population":820,
+    "eurostat:population_year":2020,
     "geom:area":0.001119,
     "geom:area_square_m":10874008.094352,
     "geom:bbox":"15.6982881461,38.1697383528,15.7597962725,38.2060006693",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080016",
+        "eurostat:nuts_2021_id":"080016",
         "gn:id":6539095,
         "gp:id":12677289,
         "qs_pg:id":946840
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0be886862c0225377764cbef3337ff9d",
+    "wof:geomhash":"983a141a0008621b0a0e6d8856bffe27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464507,
-    "wof:lastmodified":1582327800,
+    "wof:lastmodified":1684353808,
     "wof:name":"Calanna",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":820,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

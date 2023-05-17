@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belluno",
+    "eurostat:nuts_2021_id":"025006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025006",
+    "eurostat:population":35872,
+    "eurostat:population_year":2020,
     "geom:area":0.017129,
-    "geom:area_square_m":146760779.646512,
+    "geom:area_square_m":146760779.646542,
     "geom:bbox":"12.1190958146,46.0364608622,12.3066583315,46.2335700193",
     "geom:latitude":46.140614,
     "geom:longitude":12.219207,
@@ -209,6 +221,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -217,6 +231,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025006",
+        "eurostat:nuts_2021_id":"025006",
         "gn:id":6540117,
         "gp:id":12676683,
         "qs_pg:id":1108101
@@ -225,7 +241,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"937f7ba1349a693d864e1e8d99fcaa59",
+    "wof:geomhash":"79623d05fc101586dfdd2f704380dc03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,10 +252,12 @@
         }
     ],
     "wof:id":404469853,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353911,
     "wof:name":"Belluno",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":35872,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Labico",
+    "eurostat:nuts_2021_id":"058049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058049",
+    "eurostat:population":6498,
+    "eurostat:population_year":2020,
     "geom:area":0.001271,
-    "geom:area_square_m":11716318.551464,
+    "geom:area_square_m":11716318.551463,
     "geom:bbox":"12.8301860582,41.7748061303,12.8928933489,41.8081331876",
     "geom:latitude":41.789393,
     "geom:longitude":12.863903,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058049",
+        "eurostat:nuts_2021_id":"058049",
         "gn:id":6536952,
         "gp:id":12679835,
         "qs_pg:id":1139755
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3f1c78773fdbc64cf8b7fc115a5b8a3",
+    "wof:geomhash":"83429d74c39aadcf7f3e1219718f7d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461625,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353742,
     "wof:name":"Labico",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":6498,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

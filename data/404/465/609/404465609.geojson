@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magliano Vetere",
+    "eurostat:nuts_2021_id":"065065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065065",
+    "eurostat:population":644,
+    "eurostat:population_year":2020,
     "geom:area":0.002454,
     "geom:area_square_m":23129497.153816,
     "geom:bbox":"15.1925079213,40.3275624908,15.2810028897,40.3755950544",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065065",
+        "eurostat:nuts_2021_id":"065065",
         "gn:id":6537395,
         "gp:id":12677572,
         "qs_pg:id":39743
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be90530830a702f91489807c182547fe",
+    "wof:geomhash":"a1bcaa981b84d8f34722a6d048039cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465609,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353834,
     "wof:name":"Magliano Vetere",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":644,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bovisio-Masciago",
+    "eurostat:nuts_2021_id":"108010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108010",
+    "eurostat:population":17044,
+    "eurostat:population_year":2020,
     "geom:area":0.000569,
     "geom:area_square_m":4925931.886382,
     "geom:bbox":"9.107151,45.598671,9.178904,45.628202",
@@ -141,14 +153,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227497,
-        85685723
+        85685723,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108010",
+        "eurostat:nuts_2021_id":"108010",
         "gn:id":6535884,
         "qs_pg:id":1037332
     },
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a3337384614c76a33522909ba6114f2",
+    "wof:geomhash":"dd0369e274a610cd7761b7b908627ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469583,
-    "wof:lastmodified":1608041603,
+    "wof:lastmodified":1684353906,
     "wof:name":"Bovisio-Masciago",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":17044,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

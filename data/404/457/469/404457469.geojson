@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bianz\u00e8",
+    "eurostat:nuts_2021_id":"002011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002011",
+    "eurostat:population":1876,
+    "eurostat:population_year":2020,
     "geom:area":0.004799,
-    "geom:area_square_m":41742051.522673,
+    "geom:area_square_m":41742051.522666,
     "geom:bbox":"8.06621406024,45.2600453653,8.21718889214,45.3307714053",
     "geom:latitude":45.299653,
     "geom:longitude":8.141978,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002011",
+        "eurostat:nuts_2021_id":"002011",
         "gn:id":6540928,
         "gp:id":12676773,
         "qs_pg:id":209015
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2af2160f7cd2229fc051c8e2de87bea",
+    "wof:geomhash":"11858ec5bca99d0ce019ad2d8020e69f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457469,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353650,
     "wof:name":"Bianz\u00e8",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":1876,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

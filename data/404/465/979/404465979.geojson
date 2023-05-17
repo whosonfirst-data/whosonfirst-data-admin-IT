@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leffe",
+    "eurostat:nuts_2021_id":"016124",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016124",
+    "eurostat:population":4411,
+    "eurostat:population_year":2020,
     "geom:area":0.000775,
-    "geom:area_square_m":6679937.114373,
+    "geom:area_square_m":6679937.114371,
     "geom:bbox":"9.85961057236,45.7762603086,9.90457776268,45.8038194471",
     "geom:latitude":45.790044,
     "geom:longitude":9.882267,
@@ -107,6 +119,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -115,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016124",
+        "eurostat:nuts_2021_id":"016124",
         "gn:id":6536547,
         "gp:id":12678427,
         "qs_pg:id":40281
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9cb75b37aa3ee4a57e3fc0b351df8b44",
+    "wof:geomhash":"7e1fcfe696d16d0ed3babaf9dce3dea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404465979,
-    "wof:lastmodified":1582327834,
+    "wof:lastmodified":1684353840,
     "wof:name":"Leffe",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4411,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

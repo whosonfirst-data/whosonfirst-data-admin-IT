@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trontano",
+    "eurostat:nuts_2021_id":"103068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103068",
+    "eurostat:population":1663,
+    "eurostat:population_year":2020,
     "geom:area":0.006605,
-    "geom:area_square_m":56640517.765563,
+    "geom:area_square_m":56640517.765565,
     "geom:bbox":"8.30313157776,46.0466109895,8.42431898451,46.1338647173",
     "geom:latitude":46.089456,
     "geom:longitude":8.364416,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_103068",
+        "eurostat:nuts_2021_id":"103068"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b175ac95ba2b9ebb29913eb9f18f2299",
+    "wof:geomhash":"3f6a14e754c1c2af58d6e5c44a7ddb15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404459579,
-    "wof:lastmodified":1566723758,
+    "wof:lastmodified":1684353696,
     "wof:name":"Trontano",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":1663,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

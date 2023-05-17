@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morro d'Alba",
+    "eurostat:nuts_2021_id":"042031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042031",
+    "eurostat:population":1826,
+    "eurostat:population_year":2020,
     "geom:area":0.002165,
-    "geom:area_square_m":19385301.601493,
+    "geom:area_square_m":19385301.601497,
     "geom:bbox":"13.1884602962,43.5841870839,13.254940681,43.6371720184",
     "geom:latitude":43.610378,
     "geom:longitude":13.22127,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042031",
+        "eurostat:nuts_2021_id":"042031",
         "gn:id":6541059,
         "gp:id":12680603,
         "qs_pg:id":1020008
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc75fd58ea72d470a1c8b2fdcc7eb794",
+    "wof:geomhash":"0be8a40483a428c76250675acdb54dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459921,
-    "wof:lastmodified":1582328178,
+    "wof:lastmodified":1684353705,
     "wof:name":"Morro D'Alba",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":1826,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

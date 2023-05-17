@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Codrongianos",
+    "eurostat:nuts_2021_id":"090026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090026",
+    "eurostat:population":1307,
+    "eurostat:population_year":2020,
     "geom:area":0.003239,
-    "geom:area_square_m":30380084.697262,
+    "geom:area_square_m":30380084.697261,
     "geom:bbox":"8.64912780746,40.6130536828,8.7175836395,40.7053567788",
     "geom:latitude":40.667022,
     "geom:longitude":8.689148,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090026",
+        "eurostat:nuts_2021_id":"090026",
         "gn:id":6539224,
         "gp:id":12678750,
         "qs_pg:id":247860
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fcfeceefef031f268295122fd9d10e2",
+    "wof:geomhash":"4ccfe2f3eb4d8d5f5aa74f6c68c3352f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466761,
-    "wof:lastmodified":1582328200,
+    "wof:lastmodified":1684353857,
     "wof:name":"Codrongianos",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1307,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

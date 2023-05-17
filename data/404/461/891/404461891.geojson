@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmonte Castello",
+    "eurostat:nuts_2021_id":"060013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060013",
+    "eurostat:population":700,
+    "eurostat:population_year":2020,
     "geom:area":0.001513,
-    "geom:area_square_m":13990377.431167,
+    "geom:area_square_m":13990377.431173,
     "geom:bbox":"13.7814105529,41.5539711108,13.8379501529,41.6034592675",
     "geom:latitude":41.583237,
     "geom:longitude":13.812167,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060013",
+        "eurostat:nuts_2021_id":"060013",
         "gn:id":6541142,
         "gp:id":12676686,
         "qs_pg:id":342042
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4ce8ba8273d403877d7a6bc92bb4aea",
+    "wof:geomhash":"70c49ad0107def9815dd81dbdb4fb8ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461891,
-    "wof:lastmodified":1582328144,
+    "wof:lastmodified":1684353748,
     "wof:name":"Belmonte Castello",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":700,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

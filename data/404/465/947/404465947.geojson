@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaverina Terme",
+    "eurostat:nuts_2021_id":"016110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016110",
+    "eurostat:population":856,
+    "eurostat:population_year":2020,
     "geom:area":0.000601,
     "geom:area_square_m":5187733.65881,
     "geom:bbox":"9.86228425565,45.7402660181,9.90387594353,45.7713473545",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016110",
+        "eurostat:nuts_2021_id":"016110",
         "gn:id":6542955,
         "gp:id":20076186,
         "qs_pg:id":50533
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ffbce27cbe43f358e727f341874f68d",
+    "wof:geomhash":"121f6b4c4ea92a3d0060ce5970013114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465947,
-    "wof:lastmodified":1582327835,
+    "wof:lastmodified":1684353840,
     "wof:name":"Gaverina Terme",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":856,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

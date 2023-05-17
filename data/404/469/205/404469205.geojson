@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solferino",
+    "eurostat:nuts_2021_id":"020063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020063",
+    "eurostat:population":2686,
+    "eurostat:population_year":2020,
     "geom:area":0.001503,
-    "geom:area_square_m":13059892.157294,
+    "geom:area_square_m":13059892.157296,
     "geom:bbox":"10.534333089,45.3423530804,10.5819142641,45.3897060974",
     "geom:latitude":45.368628,
     "geom:longitude":10.556376,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020063",
+        "eurostat:nuts_2021_id":"020063",
         "gn:id":6541719,
         "gp:id":12681254,
         "qs_pg:id":1195962
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ef423c69ea13abece6b731bf1d9c37d",
+    "wof:geomhash":"c727601ce760a551bb28e26c587c83e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404469205,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353901,
     "wof:name":"Solferino",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":2686,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

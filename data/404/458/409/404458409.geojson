@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torreglia",
+    "eurostat:nuts_2021_id":"028092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028092",
+    "eurostat:population":6142,
+    "eurostat:population_year":2020,
     "geom:area":0.002164,
-    "geom:area_square_m":18806278.241853,
+    "geom:area_square_m":18806278.241854,
     "geom:bbox":"11.6982447657,45.3156703881,11.7632895803,45.3702234133",
     "geom:latitude":45.338055,
     "geom:longitude":11.726944,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028092",
+        "eurostat:nuts_2021_id":"028092",
         "gn:id":6542080,
         "gp:id":20076710,
         "qs_pg:id":50883
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b588b5c4dc599e2f62e646fae9f45dd2",
+    "wof:geomhash":"7646f8780ff6972964b8d97ecf045be1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458409,
-    "wof:lastmodified":1582327945,
+    "wof:lastmodified":1684353669,
     "wof:name":"Torreglia",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":6142,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

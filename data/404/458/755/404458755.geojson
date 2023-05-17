@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dolo",
+    "eurostat:nuts_2021_id":"027012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027012",
+    "eurostat:population":15079,
+    "eurostat:population_year":2020,
     "geom:area":0.00279,
-    "geom:area_square_m":24214118.561681,
+    "geom:area_square_m":24214118.561682,
     "geom:bbox":"12.0359994139,45.3910390995,12.1317958086,45.4503424587",
     "geom:latitude":45.419442,
     "geom:longitude":12.087011,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027012",
+        "eurostat:nuts_2021_id":"027012",
         "gn:id":6536660,
         "gp:id":12679096,
         "qs_pg:id":40678
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6aea14962a9812f3975d5ee9e66b9fd9",
+    "wof:geomhash":"529148f22fef68723f4a8f4c1b959a48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458755,
-    "wof:lastmodified":1582327936,
+    "wof:lastmodified":1684353676,
     "wof:name":"Dolo",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":15079,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

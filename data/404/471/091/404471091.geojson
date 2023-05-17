@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gardone Val Trompia",
+    "eurostat:nuts_2021_id":"017075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017075",
+    "eurostat:population":11559,
+    "eurostat:population_year":2020,
     "geom:area":0.003081,
-    "geom:area_square_m":26610482.988372,
+    "geom:area_square_m":26610482.988376,
     "geom:bbox":"10.1385591139,45.674092023,10.2114897778,45.7417268738",
     "geom:latitude":45.702481,
     "geom:longitude":10.177237,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017075",
+        "eurostat:nuts_2021_id":"017075",
         "gn:id":6540185,
         "gp:id":12679772,
         "qs_pg:id":1072455
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ec619fe0aec584471950c7cb84e35c3",
+    "wof:geomhash":"c9334d980422ee13dce76e625f5fe422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471091,
-    "wof:lastmodified":1582327715,
+    "wof:lastmodified":1684353933,
     "wof:name":"Gardone Val Trompia",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":11559,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

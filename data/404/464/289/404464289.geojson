@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rota Greca",
+    "eurostat:nuts_2021_id":"078109",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078109",
+    "eurostat:population":1060,
+    "eurostat:population_year":2020,
     "geom:area":0.001362,
-    "geom:area_square_m":13003266.11718,
+    "geom:area_square_m":13003266.117187,
     "geom:bbox":"16.0673426913,39.4458368259,16.1336692304,39.4801882316",
     "geom:latitude":39.462639,
     "geom:longitude":16.102558,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078109",
+        "eurostat:nuts_2021_id":"078109"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"2076b2c232a045d75702726185b02eb6",
+    "wof:geomhash":"28a226c6434d142270c5c340320a32ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464289,
-    "wof:lastmodified":1566723215,
+    "wof:lastmodified":1684353802,
     "wof:name":"Rota Greca",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1060,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

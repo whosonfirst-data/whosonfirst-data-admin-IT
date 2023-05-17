@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agra",
+    "eurostat:nuts_2021_id":"012001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012001",
+    "eurostat:population":408,
+    "eurostat:population_year":2020,
     "geom:area":0.000325,
     "geom:area_square_m":2790868.297233,
     "geom:bbox":"8.7498295347,46.0279569714,8.77806735864,46.0450507101",
@@ -326,6 +338,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -334,6 +348,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012001",
+        "eurostat:nuts_2021_id":"012001",
         "gn:id":6542895,
         "gp:id":20076010,
         "qs_pg:id":213900
@@ -342,7 +358,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4fbbf856dc13ece61c48797d3d3661b8",
+    "wof:geomhash":"3965004373a491eee8872e5c6c8f0baa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -353,10 +369,12 @@
         }
     ],
     "wof:id":404459391,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353692,
     "wof:name":"Agra",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":408,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

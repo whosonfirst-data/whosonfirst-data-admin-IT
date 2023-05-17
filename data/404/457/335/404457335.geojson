@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001263",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sestriere",
+    "eurostat:nuts_2021_id":"001263",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001263",
+    "eurostat:population":922,
+    "eurostat:population_year":2020,
     "geom:area":0.002956,
     "geom:area_square_m":25863589.479448,
     "geom:bbox":"6.8331787604,44.9319863414,6.93101461288,44.9932822349",
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001263",
+        "eurostat:nuts_2021_id":"001263",
         "gn:id":6540137,
         "gp:id":12676913,
         "qs_pg:id":1102012
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10094855f00894022be8e332c627c2db",
+    "wof:geomhash":"5cdfb50e37e59722a2fd9c016d64f86c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404457335,
-    "wof:lastmodified":1582328109,
+    "wof:lastmodified":1684353647,
     "wof:name":"Sestriere",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":922,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellino",
+    "eurostat:nuts_2021_id":"004017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004017",
+    "eurostat:population":101,
+    "eurostat:population_year":2020,
     "geom:area":0.007034,
-    "geom:area_square_m":61953775.091172,
+    "geom:area_square_m":61953775.091177,
     "geom:bbox":"6.91246571854,44.5341219814,7.05407779939,44.6221720926",
     "geom:latitude":44.576109,
     "geom:longitude":6.983426,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004017",
+        "eurostat:nuts_2021_id":"004017"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5682f2946c579e7d919e966ae02f9f69",
+    "wof:geomhash":"ff792ddf1fcdee549622abe3d18c0c24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404457881,
-    "wof:lastmodified":1566723652,
+    "wof:lastmodified":1684353659,
     "wof:name":"Bellino",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":101,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

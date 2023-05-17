@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Nazzaro Sesia",
+    "eurostat:nuts_2021_id":"003134",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003134",
+    "eurostat:population":740,
+    "eurostat:population_year":2020,
     "geom:area":0.001318,
-    "geom:area_square_m":11434091.042574,
+    "geom:area_square_m":11434091.042575,
     "geom:bbox":"8.40051224969,45.3961727242,8.44685588327,45.4497827151",
     "geom:latitude":45.427134,
     "geom:longitude":8.420332,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003134",
+        "eurostat:nuts_2021_id":"003134",
         "gn:id":6541801,
         "gp:id":12681718,
         "qs_pg:id":886385
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"279c7b0a2b6878d8877a08d4f5f4f5ee",
+    "wof:geomhash":"edc7988486dd03322ec3c91a15c1cf81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457809,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353657,
     "wof:name":"San Nazzaro Sesia",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

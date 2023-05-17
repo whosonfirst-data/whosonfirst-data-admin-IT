@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ghislarengo",
+    "eurostat:nuts_2021_id":"002062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002062",
+    "eurostat:population":826,
+    "eurostat:population_year":2020,
     "geom:area":0.001441,
-    "geom:area_square_m":12484003.399828,
+    "geom:area_square_m":12484003.399827,
     "geom:bbox":"8.34564767748,45.5122511625,8.40335664161,45.540851136",
     "geom:latitude":45.52682,
     "geom:longitude":8.374582,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002062",
+        "eurostat:nuts_2021_id":"002062",
         "gn:id":6538105,
         "gp:id":12679557,
         "qs_pg:id":1314464
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a09fc7e751826ca3e5e0716bcea8580",
+    "wof:geomhash":"423b3f689b65829b059aa28f8c22a0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457533,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353652,
     "wof:name":"Ghislarengo",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":826,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vocca",
+    "eurostat:nuts_2021_id":"002166",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002166",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.002347,
-    "geom:area_square_m":20224283.131066,
+    "geom:area_square_m":20224283.131064,
     "geom:bbox":"8.14825204374,45.7759106986,8.21110756762,45.8467864512",
     "geom:latitude":45.813007,
     "geom:longitude":8.175297,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002166",
+        "eurostat:nuts_2021_id":"002166",
         "gn:id":6543417,
         "gp:id":20075703,
         "qs_pg:id":961937
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d836d226ff7cf53c8820b883e25e965",
+    "wof:geomhash":"aac6ccecf446b6d91c4b113fb5d4fddc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457645,
-    "wof:lastmodified":1582328099,
+    "wof:lastmodified":1684353654,
     "wof:name":"Vocca",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

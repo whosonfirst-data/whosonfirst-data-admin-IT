@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montottone",
+    "eurostat:nuts_2021_id":"109027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109027",
+    "eurostat:population":890,
+    "eurostat:population_year":2020,
     "geom:area":0.001805,
-    "geom:area_square_m":16308323.167241,
+    "geom:area_square_m":16308323.167248,
     "geom:bbox":"13.5608026528,43.0364130178,13.6077680591,43.1022952114",
     "geom:latitude":43.070501,
     "geom:longitude":13.585242,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109027",
+        "eurostat:nuts_2021_id":"109027",
         "gn:id":6541639,
         "gp:id":12680581,
         "qs_pg:id":1009329
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b559f73d27f518bf32f52e30b3fe5c4b",
+    "wof:geomhash":"efda1740b28621b17bd6a68e67e3faa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461187,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353734,
     "wof:name":"Montottone",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":890,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

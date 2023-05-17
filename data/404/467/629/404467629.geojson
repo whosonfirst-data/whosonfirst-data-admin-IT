@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sissa Trecasali",
+    "eurostat:nuts_2021_id":"034049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034049",
+    "eurostat:population":7820,
+    "eurostat:population_year":2020,
     "geom:area":0.003315,
-    "geom:area_square_m":29031844.954674,
+    "geom:area_square_m":29031844.954677,
     "geom:bbox":"10.2400214645,44.875507953,10.3165860137,44.948384403",
     "geom:latitude":44.914746,
     "geom:longitude":10.274483,
@@ -122,6 +134,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -129,9 +143,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_034049",
+        "eurostat:nuts_2021_id":"034049"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ea19f06cc91219968dccf3e5a700848c",
+    "wof:geomhash":"9e8dd497014592d7a22fef7318fddcca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404467629,
-    "wof:lastmodified":1566723470,
+    "wof:lastmodified":1684353877,
     "wof:name":"Trecasali",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":7820,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

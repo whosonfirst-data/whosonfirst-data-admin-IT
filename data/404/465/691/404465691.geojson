@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Praiano",
+    "eurostat:nuts_2021_id":"065102",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065102",
+    "eurostat:population":2020,
+    "eurostat:population_year":2020,
     "geom:area":0.000283,
     "geom:area_square_m":2655415.303509,
     "geom:bbox":"14.5109470606,40.6068573277,14.5393441293,40.6255874441",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065102",
+        "eurostat:nuts_2021_id":"065102",
         "gn:id":6537406,
         "gp:id":12681264,
         "qs_pg:id":42161
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d7a47bf8263aab08b88058ef6fa9a9d",
+    "wof:geomhash":"ec74eac5f8f56590045117c14bea2169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465691,
-    "wof:lastmodified":1582327843,
+    "wof:lastmodified":1684353836,
     "wof:name":"Praiano",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2020,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

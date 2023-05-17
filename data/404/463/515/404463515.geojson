@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cino",
+    "eurostat:nuts_2021_id":"014021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014021",
+    "eurostat:population":340,
+    "eurostat:population_year":2020,
     "geom:area":0.000591,
     "geom:area_square_m":5062363.265242,
     "geom:bbox":"9.46366304285,46.1545749074,9.50358810879,46.1827669448",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014021",
+        "eurostat:nuts_2021_id":"014021",
         "gn:id":6542522,
         "gp:id":20076135,
         "qs_pg:id":209761
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e36a4c4bf1def1fd6f9339331905071",
+    "wof:geomhash":"58edfa6e9b50ac36289f3e5bc0a4d2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463515,
-    "wof:lastmodified":1582327790,
+    "wof:lastmodified":1684353782,
     "wof:name":"Cino",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":340,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

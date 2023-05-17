@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salemi",
+    "eurostat:nuts_2021_id":"081018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081018",
+    "eurostat:population":10378,
+    "eurostat:population_year":2020,
     "geom:area":0.018632,
-    "geom:area_square_m":181985389.004216,
+    "geom:area_square_m":181985389.004194,
     "geom:bbox":"12.6658389984,37.7391516016,12.881279231,37.9006377003",
     "geom:latitude":37.82235,
     "geom:longitude":12.766258,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081018",
+        "eurostat:nuts_2021_id":"081018",
         "gn:id":6537731,
         "gp:id":12676915,
         "qs_pg:id":1102013
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab0e7813e6478b913ceac8b94bcb90dd",
+    "wof:geomhash":"7da7d0450354f8c373a4ca98dc9e6a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404473045,
-    "wof:lastmodified":1582327925,
+    "wof:lastmodified":1684353976,
     "wof:name":"Salemi",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":10378,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

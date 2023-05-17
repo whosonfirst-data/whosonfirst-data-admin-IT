@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castegnero",
+    "eurostat:nuts_2021_id":"024027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024027",
+    "eurostat:population":2893,
+    "eurostat:population_year":2020,
     "geom:area":0.001336,
-    "geom:area_square_m":11591619.477018,
+    "geom:area_square_m":11591619.477017,
     "geom:bbox":"11.5594961581,45.4161634528,11.6416844341,45.456686946",
     "geom:latitude":45.437399,
     "geom:longitude":11.603448,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024027",
+        "eurostat:nuts_2021_id":"024027",
         "gn:id":6542734,
         "gp:id":12680043,
         "qs_pg:id":1315723
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1385c0d720a56edb94ca8f83ea7502da",
+    "wof:geomhash":"b4cda2875b36ef9378e90a0fb0db5a50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469809,
-    "wof:lastmodified":1582328039,
+    "wof:lastmodified":1684353910,
     "wof:name":"Castegnero",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":2893,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

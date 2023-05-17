@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soveria Simeri",
+    "eurostat:nuts_2021_id":"079139",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079139",
+    "eurostat:population":1508,
+    "eurostat:population_year":2020,
     "geom:area":0.002291,
-    "geom:area_square_m":22038891.743347,
+    "geom:area_square_m":22038891.743359,
     "geom:bbox":"16.6573052854,38.894273615,16.7237908682,38.9730079747",
     "geom:latitude":38.928426,
     "geom:longitude":16.687265,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079139",
+        "eurostat:nuts_2021_id":"079139"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9474157b3eabacc1e90ad7fe57531654",
+    "wof:geomhash":"3161cb1d58c21d10b240646e646c5e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404464453,
-    "wof:lastmodified":1566723223,
+    "wof:lastmodified":1684353806,
     "wof:name":"Soveria Simeri",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":1508,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nova Levante/Welschnofen",
+    "eurostat:nuts_2021_id":"021058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021058",
+    "eurostat:population":1999,
+    "eurostat:population_year":2020,
     "geom:area":0.005979,
-    "geom:area_square_m":50961378.907831,
+    "geom:area_square_m":50961378.907841,
     "geom:bbox":"11.4764960035,46.3813540559,11.6201478949,46.4625366675",
     "geom:latitude":46.424216,
     "geom:longitude":11.563873,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021058",
+        "eurostat:nuts_2021_id":"021058",
         "gp:id":12677678,
         "qs_pg:id":1301673
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2bf788ba20d5e53b6b2a5c7591a89a4a",
+    "wof:geomhash":"a03bc088277d1552b2d4143c280581c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473175,
-    "wof:lastmodified":1582327922,
+    "wof:lastmodified":1684353981,
     "wof:name":"Nova Levante",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1999,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

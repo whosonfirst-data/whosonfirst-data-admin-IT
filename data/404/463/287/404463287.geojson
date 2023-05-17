@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campi Salentina",
+    "eurostat:nuts_2021_id":"075011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075011",
+    "eurostat:population":10159,
+    "eurostat:population_year":2020,
     "geom:area":0.004802,
-    "geom:area_square_m":45212725.594595,
+    "geom:area_square_m":45212725.594593,
     "geom:bbox":"17.9538052786,40.3619669354,18.0602295894,40.4568635137",
     "geom:latitude":40.410775,
     "geom:longitude":18.00129,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075011",
+        "eurostat:nuts_2021_id":"075011",
         "gn:id":6538968,
         "gp:id":12677409,
         "qs_pg:id":247859
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2fa2aae7905ff7dc94275871664d288",
+    "wof:geomhash":"60bb99791495c0a42ef3995fbeb2582c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463287,
-    "wof:lastmodified":1582327766,
+    "wof:lastmodified":1684353776,
     "wof:name":"Campi Salentina",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":10159,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

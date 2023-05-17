@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanzada",
+    "eurostat:nuts_2021_id":"014036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014036",
+    "eurostat:population":1300,
+    "eurostat:population_year":2020,
     "geom:area":0.013695,
-    "geom:area_square_m":116957052.826967,
+    "geom:area_square_m":116957052.826953,
     "geom:bbox":"9.82171415284,46.2446993045,10.0009151556,46.3808751545",
     "geom:latitude":46.319093,
     "geom:longitude":9.921987,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014036",
+        "eurostat:nuts_2021_id":"014036",
         "gn:id":6543737,
         "gp:id":12675973,
         "qs_pg:id":248769
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61dacd3a6ac94b767d18d69f27eed4d8",
+    "wof:geomhash":"8f7be4b9f4b65c21ce79c84232e76877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468193,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353885,
     "wof:name":"Lanzada",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":1300,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

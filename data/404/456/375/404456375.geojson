@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coazze",
+    "eurostat:nuts_2021_id":"001089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001089",
+    "eurostat:population":3196,
+    "eurostat:population_year":2020,
     "geom:area":0.006464,
-    "geom:area_square_m":56469164.972981,
+    "geom:area_square_m":56469164.972991,
     "geom:bbox":"7.16395412162,45.0042125438,7.33312204153,45.0795744017",
     "geom:latitude":45.050694,
     "geom:longitude":7.232443,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001089",
+        "eurostat:nuts_2021_id":"001089",
         "gn:id":6539898,
         "gp:id":12678734,
         "qs_pg:id":223837
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ee502d5aba7dc51298e4ccb130b53bf",
+    "wof:geomhash":"6043f8ea45c19dbbd98dbe85bcaad98b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456375,
-    "wof:lastmodified":1582328072,
+    "wof:lastmodified":1684353622,
     "wof:name":"Coazze",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3196,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

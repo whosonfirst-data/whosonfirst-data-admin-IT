@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sora",
+    "eurostat:nuts_2021_id":"060074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060074",
+    "eurostat:population":25770,
+    "eurostat:population_year":2020,
     "geom:area":0.007784,
-    "geom:area_square_m":71826583.581406,
+    "geom:area_square_m":71826583.58142,
     "geom:bbox":"13.5028591209,41.6878438886,13.6547100306,41.7779314429",
     "geom:latitude":41.732559,
     "geom:longitude":13.576035,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060074",
+        "eurostat:nuts_2021_id":"060074",
         "gn:id":6536997,
         "gp:id":26793553,
         "qs_pg:id":1014926
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c245d958a5df0df315a8028b7351159",
+    "wof:geomhash":"8625ea62bb6b9a4c47619aa4b8d92668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404462029,
-    "wof:lastmodified":1582327867,
+    "wof:lastmodified":1684353751,
     "wof:name":"Sora",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":25770,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria del Cedro",
+    "eurostat:nuts_2021_id":"078132",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078132",
+    "eurostat:population":5024,
+    "eurostat:population_year":2020,
     "geom:area":0.001921,
-    "geom:area_square_m":18263193.588518,
+    "geom:area_square_m":18263193.588515,
     "geom:bbox":"15.7989588062,39.7338621018,15.8780383735,39.7730827933",
     "geom:latitude":39.753445,
     "geom:longitude":15.838036,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078132",
+        "eurostat:nuts_2021_id":"078132"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c43fd1833ad62a21ed1ffdb5df0bed39",
+    "wof:geomhash":"ac8eebab624787e06446424a00529723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404458997,
-    "wof:lastmodified":1566723426,
+    "wof:lastmodified":1684353683,
     "wof:name":"Santa Maria Del Cedro",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":5024,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamassargia",
+    "eurostat:nuts_2021_id":"111098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111098",
+    "eurostat:population":3488,
+    "eurostat:population_year":2020,
     "geom:area":0.009544,
-    "geom:area_square_m":91384986.258696,
+    "geom:area_square_m":91384986.258699,
     "geom:bbox":"8.5943254347,39.2159022709,8.74838828668,39.3006118029",
     "geom:latitude":39.255173,
     "geom:longitude":8.669984,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111098",
+        "eurostat:nuts_2021_id":"111098",
         "gn:id":6539315,
         "gp:id":12682464,
         "qs_pg:id":1329879
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7928bb91973b2a633829024300b0cf3",
+    "wof:geomhash":"3f20ccbe8da9f5051a74612f456101d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467383,
-    "wof:lastmodified":1582327976,
+    "wof:lastmodified":1684353873,
     "wof:name":"Villamassargia",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":3488,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

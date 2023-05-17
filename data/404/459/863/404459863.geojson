@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camerano",
+    "eurostat:nuts_2021_id":"042006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042006",
+    "eurostat:population":7174,
+    "eurostat:population_year":2020,
     "geom:area":0.002222,
-    "geom:area_square_m":19917750.635781,
+    "geom:area_square_m":19917750.635786,
     "geom:bbox":"13.5151283629,43.4940462557,13.5788804823,43.5529267852",
     "geom:latitude":43.525242,
     "geom:longitude":13.54961,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042006",
+        "eurostat:nuts_2021_id":"042006",
         "gn:id":6538507,
         "gp:id":12677372,
         "qs_pg:id":213737
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5ee317bf378b6303316dcd13120c091",
+    "wof:geomhash":"14c72601c8378a0d0acbdab45eafd77a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459863,
-    "wof:lastmodified":1582328176,
+    "wof:lastmodified":1684353703,
     "wof:name":"Camerano",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":7174,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massanzago",
+    "eurostat:nuts_2021_id":"028050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028050",
+    "eurostat:population":6088,
+    "eurostat:population_year":2020,
     "geom:area":0.001523,
-    "geom:area_square_m":13185425.670355,
+    "geom:area_square_m":13185425.670354,
     "geom:bbox":"11.9802679633,45.5194192099,12.0334206738,45.5706203227",
     "geom:latitude":45.551119,
     "geom:longitude":12.011064,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028050",
+        "eurostat:nuts_2021_id":"028050",
         "gn:id":6542670,
         "gp:id":12677216,
         "qs_pg:id":1019699
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7c629940470308522e4115bf59c1f2f",
+    "wof:geomhash":"5ad4dcc663af494f063db7076e12ea84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470307,
-    "wof:lastmodified":1582327736,
+    "wof:lastmodified":1684353919,
     "wof:name":"Massanzago",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":6088,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

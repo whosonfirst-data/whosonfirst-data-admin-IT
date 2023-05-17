@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cadelbosco di Sopra",
+    "eurostat:nuts_2021_id":"035008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035008",
+    "eurostat:population":10779,
+    "eurostat:population_year":2020,
     "geom:area":0.00496,
-    "geom:area_square_m":43521624.576737,
+    "geom:area_square_m":43521624.576736,
     "geom:bbox":"10.555386483,44.7460417357,10.6617228411,44.8600821487",
     "geom:latitude":44.796102,
     "geom:longitude":10.618839,
@@ -32,6 +44,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,6 +54,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035008",
+        "eurostat:nuts_2021_id":"035008",
         "gp:id":12677251,
         "qs_pg:id":1189949
     },
@@ -47,7 +63,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b096a53c10d571962b07f5fbe0a0526",
+    "wof:geomhash":"c4339e9c35f3f165a315208e1c3cf6fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +74,12 @@
         }
     ],
     "wof:id":404467655,
-    "wof:lastmodified":1582327985,
+    "wof:lastmodified":1684353878,
     "wof:name":"Cadelbosco Di Sopra",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":10779,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

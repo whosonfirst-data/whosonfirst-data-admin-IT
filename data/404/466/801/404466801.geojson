@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osilo",
+    "eurostat:nuts_2021_id":"090050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090050",
+    "eurostat:population":2937,
+    "eurostat:population_year":2020,
     "geom:area":0.010463,
-    "geom:area_square_m":97994400.617875,
+    "geom:area_square_m":97994400.617885,
     "geom:bbox":"8.60867011832,40.6988147148,8.75126302311,40.8375221671",
     "geom:latitude":40.761378,
     "geom:longitude":8.676305,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090050",
+        "eurostat:nuts_2021_id":"090050",
         "gn:id":6537832,
         "gp:id":12680825,
         "qs_pg:id":41840
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96f36068619187f657c12bca370d93d3",
+    "wof:geomhash":"33ac9174ab909c9a0dd7aa3a63a1160b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466801,
-    "wof:lastmodified":1582328207,
+    "wof:lastmodified":1684353858,
     "wof:name":"Osilo",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2937,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

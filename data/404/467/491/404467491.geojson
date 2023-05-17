@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortovero",
+    "eurostat:nuts_2021_id":"009045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009045",
+    "eurostat:population":1612,
+    "eurostat:population_year":2020,
     "geom:area":0.001063,
-    "geom:area_square_m":9442152.993178,
+    "geom:area_square_m":9442152.993176,
     "geom:bbox":"8.03842518607,44.0459377328,8.12205112909,44.0715919647",
     "geom:latitude":44.057936,
     "geom:longitude":8.088865,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009045",
+        "eurostat:nuts_2021_id":"009045",
         "gn:id":6541658,
         "gp:id":12680814,
         "qs_pg:id":1019819
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3fb8b522714a4195d76d7d71d9d00b1b",
+    "wof:geomhash":"b848a25233eba7e8748abd8d5545eb86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467491,
-    "wof:lastmodified":1582327975,
+    "wof:lastmodified":1684353875,
     "wof:name":"Ortovero",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":1612,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

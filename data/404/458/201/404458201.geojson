@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte Lambro",
+    "eurostat:nuts_2021_id":"013188",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013188",
+    "eurostat:population":4364,
+    "eurostat:population_year":2020,
     "geom:area":0.000392,
     "geom:area_square_m":3374959.157422,
     "geom:bbox":"9.20478061864,45.8166282822,9.23753018443,45.8404725996",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013188",
+        "eurostat:nuts_2021_id":"013188",
         "gn:id":6540580,
         "gp:id":12682564,
         "qs_pg:id":1015630
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50b364fc310d461426ccf84c20a6555b",
+    "wof:geomhash":"3155d0edafbb4d5eeb75bd2ac0ed662c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404458201,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353666,
     "wof:name":"Ponte Lambro",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":4364,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ovodda",
+    "eurostat:nuts_2021_id":"091071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091071",
+    "eurostat:population":1596,
+    "eurostat:population_year":2020,
     "geom:area":0.004318,
-    "geom:area_square_m":40838911.104916,
+    "geom:area_square_m":40838911.104907,
     "geom:bbox":"9.13319573373,40.0618378015,9.23229160053,40.1320858871",
     "geom:latitude":40.096606,
     "geom:longitude":9.178711,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091071",
+        "eurostat:nuts_2021_id":"091071",
         "gn:id":6540866,
         "gp:id":12680851,
         "qs_pg:id":41860
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a9ee8822b98544edcc97f89bf66e863",
+    "wof:geomhash":"691b1df69ed6810d227d742c14ea8dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404460563,
-    "wof:lastmodified":1582328010,
+    "wof:lastmodified":1684353721,
     "wof:name":"Ovodda",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1596,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

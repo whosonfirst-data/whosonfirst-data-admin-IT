@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guardea",
+    "eurostat:nuts_2021_id":"055015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055015",
+    "eurostat:population":1774,
+    "eurostat:population_year":2020,
     "geom:area":0.004317,
-    "geom:area_square_m":39278395.707134,
+    "geom:area_square_m":39278395.707133,
     "geom:bbox":"12.2282523449,42.5966578927,12.4111598543,42.6494003247",
     "geom:latitude":42.621669,
     "geom:longitude":12.314596,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055015",
+        "eurostat:nuts_2021_id":"055015",
         "gn:id":6538623,
         "gp:id":12678736,
         "qs_pg:id":905472
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77df9c87f974e9696c168d9c4f941e95",
+    "wof:geomhash":"e50d2aaab28354637eca41a04868b801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459659,
-    "wof:lastmodified":1582328162,
+    "wof:lastmodified":1684353698,
     "wof:name":"Guardea",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":1774,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerreto Guidi",
+    "eurostat:nuts_2021_id":"048011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048011",
+    "eurostat:population":10885,
+    "eurostat:population_year":2020,
     "geom:area":0.005513,
     "geom:area_square_m":49239394.506124,
     "geom:bbox":"10.808863114,43.7128050968,10.9066259639,43.8029749882",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048011",
+        "eurostat:nuts_2021_id":"048011",
         "gn:id":6540470,
         "gp:id":12678530,
         "qs_pg:id":209064
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8e1bfaa6a5b8d453a740b8940281cb6",
+    "wof:geomhash":"8c14013534cd3da81c0352b221f26f73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472757,
-    "wof:lastmodified":1582327897,
+    "wof:lastmodified":1684353968,
     "wof:name":"Cerreto Guidi",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":10885,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonarcado",
+    "eurostat:nuts_2021_id":"095015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095015",
+    "eurostat:population":1538,
+    "eurostat:population_year":2020,
     "geom:area":0.003003,
-    "geom:area_square_m":28405390.825273,
+    "geom:area_square_m":28405390.825271,
     "geom:bbox":"8.6194977913,40.0537053112,8.70322294572,40.136067952",
     "geom:latitude":40.096581,
     "geom:longitude":8.662216,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095015",
+        "eurostat:nuts_2021_id":"095015",
         "gn:id":6539356,
         "gp:id":12681875,
         "qs_pg:id":248040
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd548410187a0b6093db88da1b439cfc",
+    "wof:geomhash":"d8b03df302bd36d46e2dc79f90695067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466997,
-    "wof:lastmodified":1582328184,
+    "wof:lastmodified":1684353863,
     "wof:name":"Bonarcado",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":1538,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

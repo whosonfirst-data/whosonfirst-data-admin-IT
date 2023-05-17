@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sagama",
+    "eurostat:nuts_2021_id":"095086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095086",
+    "eurostat:population":195,
+    "eurostat:population_year":2020,
     "geom:area":0.001242,
     "geom:area_square_m":11719571.906622,
     "geom:bbox":"8.56505768171,40.2447957864,8.62831669352,40.2754420571",
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095086",
+        "eurostat:nuts_2021_id":"095086",
         "gn:id":6540867,
         "gp:id":12681527,
         "qs_pg:id":1016802
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7819fd514746de7116e7cd44fc74ad0f",
+    "wof:geomhash":"6365ad6a7c2a20583407b349f8b1b469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467157,
-    "wof:lastmodified":1582327966,
+    "wof:lastmodified":1684353866,
     "wof:name":"Sagama",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":195,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

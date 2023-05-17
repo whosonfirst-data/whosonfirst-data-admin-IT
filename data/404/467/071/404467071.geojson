@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Sant'Antonio",
+    "eurostat:nuts_2021_id":"095048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095048",
+    "eurostat:population":337,
+    "eurostat:population_year":2020,
     "geom:area":0.002007,
-    "geom:area_square_m":19047142.9658,
+    "geom:area_square_m":19047142.965801,
     "geom:bbox":"8.87317762696,39.8308004102,8.92636349923,39.8855275476",
     "geom:latitude":39.857813,
     "geom:longitude":8.899781,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095048",
+        "eurostat:nuts_2021_id":"095048",
         "gn:id":6543316,
         "gp:id":12681827,
         "qs_pg:id":51387
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91db554c406f73f0399a7b8bd86327dc",
+    "wof:geomhash":"0fed8f8a8b5ff6ddbf54e0d45230b6fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467071,
-    "wof:lastmodified":1582327971,
+    "wof:lastmodified":1684353864,
     "wof:name":"Villa Sant'Antonio",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":337,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dogliola",
+    "eurostat:nuts_2021_id":"069029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069029",
+    "eurostat:population":326,
+    "eurostat:population_year":2020,
     "geom:area":0.001281,
-    "geom:area_square_m":11776559.891795,
+    "geom:area_square_m":11776559.891793,
     "geom:bbox":"14.6203010256,41.9274950966,14.6730126379,41.9724107024",
     "geom:latitude":41.94882,
     "geom:longitude":14.644108,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069029",
+        "eurostat:nuts_2021_id":"069029",
         "gn:id":6538876,
         "gp:id":12679092,
         "qs_pg:id":40679
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b01843eb5bf04bf7205c551d7ccd12ba",
+    "wof:geomhash":"e5be1bf07f615382d0dc62b8a756da09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404462585,
-    "wof:lastmodified":1582327872,
+    "wof:lastmodified":1684353761,
     "wof:name":"Dogliola",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":326,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

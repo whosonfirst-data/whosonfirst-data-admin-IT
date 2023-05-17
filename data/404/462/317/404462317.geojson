@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arsita",
+    "eurostat:nuts_2021_id":"067003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067003",
+    "eurostat:population":798,
+    "eurostat:population_year":2020,
     "geom:area":0.003726,
-    "geom:area_square_m":33981343.759607,
+    "geom:area_square_m":33981343.759613,
     "geom:bbox":"13.7268803865,42.4201069221,13.8144642286,42.5169918098",
     "geom:latitude":42.472918,
     "geom:longitude":13.77593,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_067003",
+        "eurostat:nuts_2021_id":"067003"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"66f410e820bd0e216822de109d906a53",
+    "wof:geomhash":"27ae01dfbbaf0ae2d72f77e9db86642d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404462317,
-    "wof:lastmodified":1566723342,
+    "wof:lastmodified":1684353756,
     "wof:name":"Arsita",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":798,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

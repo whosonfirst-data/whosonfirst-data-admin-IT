@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pimonte",
+    "eurostat:nuts_2021_id":"063054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063054",
+    "eurostat:population":6004,
+    "eurostat:population_year":2020,
     "geom:area":0.001329,
-    "geom:area_square_m":12468383.011632,
+    "geom:area_square_m":12468383.011629,
     "geom:bbox":"14.4902519146,40.6456552502,14.5552571473,40.688373458",
     "geom:latitude":40.665899,
     "geom:longitude":14.515742,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063054",
+        "eurostat:nuts_2021_id":"063054",
         "gn:id":6536388,
         "gp:id":12681120,
         "qs_pg:id":42071
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b592f404c3091c00adcf77239190113",
+    "wof:geomhash":"fdc8ff9237213a135ca7daec5e356f50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465109,
-    "wof:lastmodified":1582327837,
+    "wof:lastmodified":1684353826,
     "wof:name":"Pimonte",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":6004,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

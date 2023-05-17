@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fabbrico",
+    "eurostat:nuts_2021_id":"035021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035021",
+    "eurostat:population":6641,
+    "eurostat:population_year":2020,
     "geom:area":0.002692,
-    "geom:area_square_m":23590128.113602,
+    "geom:area_square_m":23590128.113598,
     "geom:bbox":"10.7723112179,44.8498609671,10.8500899497,44.9033602414",
     "geom:latitude":44.875919,
     "geom:longitude":10.81288,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035021",
+        "eurostat:nuts_2021_id":"035021",
         "gn:id":6541632,
         "gp:id":12677911,
         "qs_pg:id":1037416
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40a718100f288a90c7cf4c88be984dc3",
+    "wof:geomhash":"02699eec2c061386275d08b97e7e0f70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457059,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353641,
     "wof:name":"Fabbrico",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":6641,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

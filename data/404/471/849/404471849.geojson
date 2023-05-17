@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riva Ligure",
+    "eurostat:nuts_2021_id":"008050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008050",
+    "eurostat:population":2845,
+    "eurostat:population_year":2020,
     "geom:area":0.000232,
-    "geom:area_square_m":2068454.611404,
+    "geom:area_square_m":2068454.611403,
     "geom:bbox":"7.85970361658,43.8313516624,7.88558212291,43.849913431",
     "geom:latitude":43.840693,
     "geom:longitude":7.873152,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008050",
+        "eurostat:nuts_2021_id":"008050",
         "gn:id":6537045,
         "gp:id":12681388,
         "qs_pg:id":42243
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc5617f7c1ea99494cad6980105a1024",
+    "wof:geomhash":"c67008d111a832d777e2684b2214db3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471849,
-    "wof:lastmodified":1582327727,
+    "wof:lastmodified":1684353947,
     "wof:name":"Riva Ligure",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":2845,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

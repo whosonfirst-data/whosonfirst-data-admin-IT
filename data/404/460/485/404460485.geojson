@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bitti",
+    "eurostat:nuts_2021_id":"091009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091009",
+    "eurostat:population":2735,
+    "eurostat:population_year":2020,
     "geom:area":0.022913,
-    "geom:area_square_m":215296149.648131,
+    "geom:area_square_m":215296149.648161,
     "geom:bbox":"9.27618439668,40.4424341046,9.52890320803,40.6593852029",
     "geom:latitude":40.545601,
     "geom:longitude":9.391888,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091009",
+        "eurostat:nuts_2021_id":"091009",
         "gn:id":6537851,
         "gp:id":20076821,
         "qs_pg:id":1205677
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f1259f6bdf68c33aca254f019bc779b",
+    "wof:geomhash":"116c1076fd80a22f28dd05e767b1c826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404460485,
-    "wof:lastmodified":1582327998,
+    "wof:lastmodified":1684353719,
     "wof:name":"Bitti",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":2735,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

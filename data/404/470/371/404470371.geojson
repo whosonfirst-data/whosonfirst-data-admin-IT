@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiesso Umbertiano",
+    "eurostat:nuts_2021_id":"029022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029022",
+    "eurostat:population":3940,
+    "eurostat:population_year":2020,
     "geom:area":0.003141,
-    "geom:area_square_m":27483633.375382,
+    "geom:area_square_m":27483633.37538,
     "geom:bbox":"11.55030493,44.9374763049,11.6621302473,44.9890586055",
     "geom:latitude":44.963751,
     "geom:longitude":11.603922,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029022",
+        "eurostat:nuts_2021_id":"029022",
         "gn:id":6542136,
         "gp:id":12679261,
         "qs_pg:id":1252124
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a7196b762e966c92283a5fd92001106",
+    "wof:geomhash":"a8092b4e13f94a42d0b960820b6598ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470371,
-    "wof:lastmodified":1582327746,
+    "wof:lastmodified":1684353920,
     "wof:name":"Fiesso Umbertiano",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":3940,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

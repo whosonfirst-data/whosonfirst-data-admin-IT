@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellino del Biferno",
+    "eurostat:nuts_2021_id":"070014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070014",
+    "eurostat:population":511,
+    "eurostat:population_year":2020,
     "geom:area":0.001673,
-    "geom:area_square_m":15448360.960224,
+    "geom:area_square_m":15448360.960223,
     "geom:bbox":"14.7161115831,41.6522602673,14.770107837,41.7264389957",
     "geom:latitude":41.689112,
     "geom:longitude":14.740386,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070014",
+        "eurostat:nuts_2021_id":"070014",
         "gn:id":6538902,
         "gp:id":12678265,
         "qs_pg:id":536598
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"219f4090fb0b9ccde7d055e51ddbf543",
+    "wof:geomhash":"c8c233dff952aeed6bb50866542d82a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404462785,
-    "wof:lastmodified":1582327861,
+    "wof:lastmodified":1684353765,
     "wof:name":"Castellino Del Biferno",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":511,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

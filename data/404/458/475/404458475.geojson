@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Recco",
+    "eurostat:nuts_2021_id":"010047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010047",
+    "eurostat:population":9633,
+    "eurostat:population_year":2020,
     "geom:area":0.001104,
-    "geom:area_square_m":9759970.244695,
+    "geom:area_square_m":9759970.244694,
     "geom:bbox":"9.12280951283,44.3530381533,9.17945996356,44.3839943368",
     "geom:latitude":44.36975,
     "geom:longitude":9.149286,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010047",
+        "eurostat:nuts_2021_id":"010047",
         "gn:id":6540563,
         "gp:id":12681338,
         "qs_pg:id":1163539
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b5f72260fe70ef984747f10391d1540",
+    "wof:geomhash":"893e154f2a6a9dfef8c22f4c579037e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404458475,
-    "wof:lastmodified":1582327954,
+    "wof:lastmodified":1684353670,
     "wof:name":"Recco",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":9633,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

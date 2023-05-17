@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Sebastiano da Po",
+    "eurostat:nuts_2021_id":"001253",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001253",
+    "eurostat:population":1895,
+    "eurostat:population_year":2020,
     "geom:area":0.001898,
-    "geom:area_square_m":16551085.575389,
+    "geom:area_square_m":16551085.575386,
     "geom:bbox":"7.90592743091,45.1414504213,7.97749117187,45.1810350498",
     "geom:latitude":45.159896,
     "geom:longitude":7.94383,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001253",
+        "eurostat:nuts_2021_id":"001253",
         "gn:id":6543788,
         "gp:id":20076519,
         "qs_pg:id":345920
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04913caeccf527763476dcb4673ad2ca",
+    "wof:geomhash":"95209265c7450718ecc49703f254d1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457313,
-    "wof:lastmodified":1582328107,
+    "wof:lastmodified":1684353647,
     "wof:name":"San Sebastiano Da Po",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1895,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

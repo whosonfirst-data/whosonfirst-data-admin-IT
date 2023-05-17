@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sedriano",
+    "eurostat:nuts_2021_id":"015204",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015204",
+    "eurostat:population":12484,
+    "eurostat:population_year":2020,
     "geom:area":0.000893,
     "geom:area_square_m":7741214.962718,
     "geom:bbox":"8.95756391464,45.4623860397,8.99357534292,45.505710486",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015204",
+        "eurostat:nuts_2021_id":"015204",
         "gn:id":6537132,
         "gp:id":12681941,
         "qs_pg:id":907025
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"834b571acd8f1cb542eefe8fcb435cc7",
+    "wof:geomhash":"0133852958104e6719795354241e1491",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468545,
-    "wof:lastmodified":1582328083,
+    "wof:lastmodified":1684353890,
     "wof:name":"Sedriano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":12484,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

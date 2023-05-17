@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nicotera",
+    "eurostat:nuts_2021_id":"102025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102025",
+    "eurostat:population":6158,
+    "eurostat:population_year":2020,
     "geom:area":0.002895,
-    "geom:area_square_m":27997944.667563,
+    "geom:area_square_m":27997944.667554,
     "geom:bbox":"15.9075744699,38.5067035935,15.9729081388,38.5965566239",
     "geom:latitude":38.552131,
     "geom:longitude":15.939674,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102025",
+        "eurostat:nuts_2021_id":"102025"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"2cdd2c96193bbae8a676328bf333b7f1",
+    "wof:geomhash":"d8cb58d7b0bcfe1c98fa51f230b5b42d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464807,
-    "wof:lastmodified":1566723240,
+    "wof:lastmodified":1684353817,
     "wof:name":"Nicotera",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":6158,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

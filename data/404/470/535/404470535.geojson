@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gonars",
+    "eurostat:nuts_2021_id":"030044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030044",
+    "eurostat:population":4684,
+    "eurostat:population_year":2020,
     "geom:area":0.002293,
     "geom:area_square_m":19733325.818623,
     "geom:bbox":"13.2036420777,45.8733179695,13.2959972387,45.9193291776",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030044",
+        "eurostat:nuts_2021_id":"030044",
         "gn:id":6536312,
         "gp:id":12679219,
         "qs_pg:id":213771
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3fb46412feff3151150604def8b9b089",
+    "wof:geomhash":"354e771cb4ac2e77770298192043e70c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470535,
-    "wof:lastmodified":1582327738,
+    "wof:lastmodified":1684353923,
     "wof:name":"Gonars",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":4684,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

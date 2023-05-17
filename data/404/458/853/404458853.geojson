@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toro",
+    "eurostat:nuts_2021_id":"070080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070080",
+    "eurostat:population":1328,
+    "eurostat:population_year":2020,
     "geom:area":0.002584,
-    "geom:area_square_m":23908009.613782,
+    "geom:area_square_m":23908009.613784,
     "geom:bbox":"14.7359512267,41.5359466314,14.8174791947,41.5928356012",
     "geom:latitude":41.567496,
     "geom:longitude":14.783611,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070080",
+        "eurostat:nuts_2021_id":"070080",
         "gn:id":6538916,
         "gp:id":12680232,
         "qs_pg:id":1205829
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f63058fb4073c2e355298b024099479",
+    "wof:geomhash":"6ad0ce1d623582a826da27c77da5d874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458853,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353679,
     "wof:name":"Toro",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1328,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

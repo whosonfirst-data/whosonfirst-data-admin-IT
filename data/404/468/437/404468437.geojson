@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liscate",
+    "eurostat:nuts_2021_id":"015122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015122",
+    "eurostat:population":4134,
+    "eurostat:population_year":2020,
     "geom:area":0.001083,
     "geom:area_square_m":9392921.504291,
     "geom:bbox":"9.37945142909,45.4515167218,9.43473987971,45.4919096729",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015122",
+        "eurostat:nuts_2021_id":"015122",
         "gn:id":6537119,
         "gp:id":12679976,
         "qs_pg:id":1292721
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"883c9183225e36d9e4b0dd02061cfcab",
+    "wof:geomhash":"424bd4ca437f422ba55a7d92d9412f15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468437,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353889,
     "wof:name":"Liscate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":4134,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

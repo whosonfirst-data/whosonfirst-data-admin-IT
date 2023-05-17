@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caporciano",
+    "eurostat:nuts_2021_id":"066022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066022",
+    "eurostat:population":209,
+    "eurostat:population_year":2020,
     "geom:area":0.002025,
-    "geom:area_square_m":18534245.817961,
+    "geom:area_square_m":18534245.817962,
     "geom:bbox":"13.6338292337,42.2220678207,13.7050431019,42.2804227615",
     "geom:latitude":42.244989,
     "geom:longitude":13.671587,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066022",
+        "eurostat:nuts_2021_id":"066022",
         "gn:id":6541916,
         "gp:id":12676876,
         "qs_pg:id":1014855
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d9bec225346c39c8bb734395077b6dc",
+    "wof:geomhash":"d39ffd0949603b9cc2dc86dc9c1dac0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462117,
-    "wof:lastmodified":1582327862,
+    "wof:lastmodified":1684353752,
     "wof:name":"Caporciano",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":209,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

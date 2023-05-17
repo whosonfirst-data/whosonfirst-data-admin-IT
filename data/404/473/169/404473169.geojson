@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nalles/Nals",
+    "eurostat:nuts_2021_id":"021055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021055",
+    "eurostat:population":1979,
+    "eurostat:population_year":2020,
     "geom:area":0.001435,
     "geom:area_square_m":12210484.33187,
     "geom:bbox":"11.1650070408,46.5115585083,11.232129066,46.5647274103",
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021055",
+        "eurostat:nuts_2021_id":"021055",
         "gn:id":3172400,
         "gp:id":12680650,
         "qs_pg:id":146356
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87ebfcd023e9b084cbe106ad9f2f8a09",
+    "wof:geomhash":"eea33795e37676c7af154243ec813fef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404473169,
-    "wof:lastmodified":1582327914,
+    "wof:lastmodified":1684353981,
     "wof:name":"Nalles",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1979,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

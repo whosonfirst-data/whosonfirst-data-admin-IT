@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foss\u00f2",
+    "eurostat:nuts_2021_id":"027017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027017",
+    "eurostat:population":7020,
+    "eurostat:population_year":2020,
     "geom:area":0.001169,
-    "geom:area_square_m":10153424.961567,
+    "geom:area_square_m":10153424.961568,
     "geom:bbox":"12.022452546,45.352119815,12.0631245832,45.4049117773",
     "geom:latitude":45.376606,
     "geom:longitude":12.04607,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027017",
+        "eurostat:nuts_2021_id":"027017",
         "gn:id":6539643,
         "gp:id":12681788,
         "qs_pg:id":1314806
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1126b2c3ccf745fafa8bac7f87995ef6",
+    "wof:geomhash":"fc86981474f618bb7b78e35f7466d817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470139,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353916,
     "wof:name":"Foss\u00f2",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":7020,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

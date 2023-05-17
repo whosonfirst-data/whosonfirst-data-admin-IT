@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Illasi",
+    "eurostat:nuts_2021_id":"023039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023039",
+    "eurostat:population":5233,
+    "eurostat:population_year":2020,
     "geom:area":0.002877,
-    "geom:area_square_m":24948676.909654,
+    "geom:area_square_m":24948676.909648,
     "geom:bbox":"11.1391106979,45.4373832992,11.2157436695,45.5057122054",
     "geom:latitude":45.46867,
     "geom:longitude":11.176997,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023039",
+        "eurostat:nuts_2021_id":"023039",
         "gn:id":6540976,
         "gp:id":12679563,
         "qs_pg:id":1015999
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a04222924ddaeec631f4c440b659e095",
+    "wof:geomhash":"5c4bd1c3530df67fca705c8988560a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404457987,
-    "wof:lastmodified":1582328119,
+    "wof:lastmodified":1684353661,
     "wof:name":"Illasi",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":5233,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

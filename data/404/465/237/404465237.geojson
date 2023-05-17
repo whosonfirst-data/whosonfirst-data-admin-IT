@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carife",
+    "eurostat:nuts_2021_id":"064019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064019",
+    "eurostat:population":1357,
+    "eurostat:population_year":2020,
     "geom:area":0.00178,
-    "geom:area_square_m":16605181.972521,
+    "geom:area_square_m":16605181.972524,
     "geom:bbox":"15.1707265051,40.9981167597,15.2425499098,41.0403782563",
     "geom:latitude":41.018495,
     "geom:longitude":15.212636,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_064019",
+        "eurostat:nuts_2021_id":"064019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"540a5f7fe0a17912ee6f80b5e6d49cda",
+    "wof:geomhash":"e1e223471e64e162d0e057ada4c043d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404465237,
-    "wof:lastmodified":1566723301,
+    "wof:lastmodified":1684353828,
     "wof:name":"Carife",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1357,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

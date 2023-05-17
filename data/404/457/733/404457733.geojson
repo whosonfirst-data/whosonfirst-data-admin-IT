@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gargallo",
+    "eurostat:nuts_2021_id":"003070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003070",
+    "eurostat:population":1775,
+    "eurostat:population_year":2020,
     "geom:area":0.000434,
-    "geom:area_square_m":3748396.547953,
+    "geom:area_square_m":3748396.547954,
     "geom:bbox":"8.38531316022,45.7189951728,8.43315325731,45.7361223373",
     "geom:latitude":45.725091,
     "geom:longitude":8.410898,
@@ -113,6 +125,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -121,6 +135,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003070",
+        "eurostat:nuts_2021_id":"003070",
         "gn:id":6543425,
         "gp:id":12676350,
         "qs_pg:id":203726
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9211842bf1a5220b1c4997e6180f9070",
+    "wof:geomhash":"846e222132a8a916b0e2214ad0980fc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404457733,
-    "wof:lastmodified":1582328109,
+    "wof:lastmodified":1684353656,
     "wof:name":"Gargallo",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1775,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

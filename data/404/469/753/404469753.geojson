@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albettone",
+    "eurostat:nuts_2021_id":"024002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024002",
+    "eurostat:population":2013,
+    "eurostat:population_year":2020,
     "geom:area":0.00232,
-    "geom:area_square_m":20161359.43856,
+    "geom:area_square_m":20161359.438559,
     "geom:bbox":"11.5636996741,45.3253798019,11.627505534,45.3888875212",
     "geom:latitude":45.359173,
     "geom:longitude":11.5968,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024002",
+        "eurostat:nuts_2021_id":"024002",
         "gn:id":6538250,
         "gp:id":12675911,
         "qs_pg:id":351850
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9ab6e800161519f2c9056c0ce36dbbb",
+    "wof:geomhash":"02b6e9fb36169f87ea11d17cb4a86bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469753,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353909,
     "wof:name":"Albettone",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":2013,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

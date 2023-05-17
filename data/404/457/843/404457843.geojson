@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinzaglio",
+    "eurostat:nuts_2021_id":"003164",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003164",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.001776,
-    "geom:area_square_m":15441003.763035,
+    "geom:area_square_m":15441003.763036,
     "geom:bbox":"8.46268706001,45.3114805313,8.53840813416,45.347740056",
     "geom:latitude":45.329467,
     "geom:longitude":8.501458,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003164",
+        "eurostat:nuts_2021_id":"003164",
         "gn:id":6537308,
         "gp:id":12682501,
         "qs_pg:id":43068
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a19bed9e94c2a1a94d7dad6e89836365",
+    "wof:geomhash":"a683d4f11e501575142900eed0c2545f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457843,
-    "wof:lastmodified":1582328101,
+    "wof:lastmodified":1684353658,
     "wof:name":"Vinzaglio",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

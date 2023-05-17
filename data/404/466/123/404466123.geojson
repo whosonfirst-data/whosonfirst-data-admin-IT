@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pellegrino Terme",
+    "eurostat:nuts_2021_id":"016190",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016190",
+    "eurostat:population":4827,
+    "eurostat:population_year":2020,
     "geom:area":0.00266,
-    "geom:area_square_m":22916496.629435,
+    "geom:area_square_m":22916496.629431,
     "geom:bbox":"9.61299475188,45.8164686915,9.70335756735,45.8655642843",
     "geom:latitude":45.840237,
     "geom:longitude":9.662195,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016190",
+        "eurostat:nuts_2021_id":"016190",
         "gn:id":6536152,
         "gp:id":12675961,
         "qs_pg:id":75987
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"decbcb11c85f1542d8f65d98a97e9042",
+    "wof:geomhash":"9db313a063269be172da6e1b0a843e14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466123,
-    "wof:lastmodified":1582328209,
+    "wof:lastmodified":1684353843,
     "wof:name":"San Pellegrino Terme",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4827,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

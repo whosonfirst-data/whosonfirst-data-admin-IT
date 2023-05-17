@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spezzano della Sila",
+    "eurostat:nuts_2021_id":"078143",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078143",
+    "eurostat:population":4399,
+    "eurostat:population_year":2020,
     "geom:area":0.008311,
-    "geom:area_square_m":79466515.793728,
+    "geom:area_square_m":79466515.79375,
     "geom:bbox":"16.3285329724,39.2942170238,16.6053898814,39.395116303",
     "geom:latitude":39.348876,
     "geom:longitude":16.488346,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078143",
+        "eurostat:nuts_2021_id":"078143"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b8787c3c2bd292d854ed29f35a4f5a84",
+    "wof:geomhash":"70f7941ab89ac9c2ffe9a65feb1f27d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459023,
-    "wof:lastmodified":1566723726,
+    "wof:lastmodified":1684353684,
     "wof:name":"Spezzano Della Sila",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":4399,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

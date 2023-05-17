@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cimin\u00e0",
+    "eurostat:nuts_2021_id":"080026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080026",
+    "eurostat:population":551,
+    "eurostat:population_year":2020,
     "geom:area":0.005024,
-    "geom:area_square_m":48777018.459991,
+    "geom:area_square_m":48777018.459992,
     "geom:bbox":"16.0576790153,38.2273019472,16.18587672,38.2983229852",
     "geom:latitude":38.260448,
     "geom:longitude":16.118398,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080026",
+        "eurostat:nuts_2021_id":"080026",
         "gn:id":6541755,
         "gp:id":12678662,
         "qs_pg:id":245264
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60456393989f25d97ccd45d9b7974f11",
+    "wof:geomhash":"e0f89526df3039cc154043718abd07eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464531,
-    "wof:lastmodified":1582327800,
+    "wof:lastmodified":1684353808,
     "wof:name":"Cimin\u00e0",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":551,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

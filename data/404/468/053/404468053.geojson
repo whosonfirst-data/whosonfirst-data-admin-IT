@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cremia",
+    "eurostat:nuts_2021_id":"013083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013083",
+    "eurostat:population":674,
+    "eurostat:population_year":2020,
     "geom:area":0.00118,
-    "geom:area_square_m":10121925.222047,
+    "geom:area_square_m":10121925.222046,
     "geom:bbox":"9.22096097631,46.0757983888,9.29574827475,46.1014208059",
     "geom:latitude":46.087447,
     "geom:longitude":9.25694,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_013083",
+        "eurostat:nuts_2021_id":"013083"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ef984df98c766f71b391315ece5ae12f",
+    "wof:geomhash":"dd6b417866db82f2a701d281977590ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404468053,
-    "wof:lastmodified":1566723620,
+    "wof:lastmodified":1684353883,
     "wof:name":"Cremia",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":674,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

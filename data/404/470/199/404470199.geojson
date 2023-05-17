@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavallino-Treporti",
+    "eurostat:nuts_2021_id":"027044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027044",
+    "eurostat:population":13538,
+    "eurostat:population_year":2020,
     "geom:area":0.005139,
-    "geom:area_square_m":44566853.972155,
+    "geom:area_square_m":44566853.972149,
     "geom:bbox":"12.4200138138,45.422528658,12.5856561441,45.5035868793",
     "geom:latitude":45.470222,
     "geom:longitude":12.496395,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027044",
+        "eurostat:nuts_2021_id":"027044",
         "gn:id":6535962,
         "gp:id":22661830,
         "qs_pg:id":1199612
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ce3d590b498ab6829b3a12b5736bc3d",
+    "wof:geomhash":"0de2158c29c31505809ebadca53c23f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470199,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353918,
     "wof:name":"Cavallino-Treporti",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":13538,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

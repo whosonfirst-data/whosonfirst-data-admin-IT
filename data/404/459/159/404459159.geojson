@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morsano al Tagliamento",
+    "eurostat:nuts_2021_id":"093028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093028",
+    "eurostat:population":2705,
+    "eurostat:population_year":2020,
     "geom:area":0.003763,
-    "geom:area_square_m":32408256.274393,
+    "geom:area_square_m":32408256.274388,
     "geom:bbox":"12.8968665903,45.8173367253,12.9843505648,45.8966339351",
     "geom:latitude":45.857648,
     "geom:longitude":12.94044,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093028",
+        "eurostat:nuts_2021_id":"093028",
         "gn:id":6536407,
         "gp:id":12676515,
         "qs_pg:id":1193018
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1eba0ae4d8c12443472cd3a1926eeaf4",
+    "wof:geomhash":"f5d8504dd2ef34a7b4d68ab2ac47c1e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404459159,
-    "wof:lastmodified":1582328154,
+    "wof:lastmodified":1684353687,
     "wof:name":"Morsano Al Tagliamento",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":2705,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

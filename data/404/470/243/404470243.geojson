@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo San Martino",
+    "eurostat:nuts_2021_id":"028020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028020",
+    "eurostat:population":5687,
+    "eurostat:population_year":2020,
     "geom:area":0.001516,
-    "geom:area_square_m":13124666.407113,
+    "geom:area_square_m":13124666.407112,
     "geom:bbox":"11.7930871909,45.5325671793,11.8708251649,45.5795274345",
     "geom:latitude":45.555501,
     "geom:longitude":11.830714,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028020",
+        "eurostat:nuts_2021_id":"028020",
         "gn:id":6540395,
         "gp:id":12677200,
         "qs_pg:id":901551
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77254dc86a80dc8b6787ce88d2b91d2d",
+    "wof:geomhash":"2b9a1dd201df7da499bf8511d87c5d53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470243,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353918,
     "wof:name":"Campo San Martino",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":5687,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

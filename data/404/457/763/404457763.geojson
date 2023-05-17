@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meina",
+    "eurostat:nuts_2021_id":"003095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003095",
+    "eurostat:population":2441,
+    "eurostat:population_year":2020,
     "geom:area":0.000872,
-    "geom:area_square_m":7523131.140023,
+    "geom:area_square_m":7523131.140021,
     "geom:bbox":"8.48934865206,45.7695566139,8.55570680376,45.8036136415",
     "geom:latitude":45.785135,
     "geom:longitude":8.527985,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003095",
+        "eurostat:nuts_2021_id":"003095",
         "gn:id":6539552,
         "gp:id":12680263,
         "qs_pg:id":288165
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2370009751ffa1b60629b349e5c74b1c",
+    "wof:geomhash":"6683f97d043428f78ea9066a35d3c573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457763,
-    "wof:lastmodified":1582328094,
+    "wof:lastmodified":1684353656,
     "wof:name":"Meina",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":2441,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

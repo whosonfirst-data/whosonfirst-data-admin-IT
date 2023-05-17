@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bore",
+    "eurostat:nuts_2021_id":"034005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034005",
+    "eurostat:population":681,
+    "eurostat:population_year":2020,
     "geom:area":0.004887,
-    "geom:area_square_m":42945080.138544,
+    "geom:area_square_m":42945080.138547,
     "geom:bbox":"9.76010476698,44.6757425612,9.88333407081,44.7630686037",
     "geom:latitude":44.711182,
     "geom:longitude":9.816258,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034005",
+        "eurostat:nuts_2021_id":"034005",
         "gn:id":6536610,
         "gp:id":20076739,
         "qs_pg:id":335606
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0afec9f068bc6eab8790625b79efe7f7",
+    "wof:geomhash":"be765327e418883874d16016f71a1002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404472151,
-    "wof:lastmodified":1582327880,
+    "wof:lastmodified":1684353953,
     "wof:name":"Bore",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":681,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

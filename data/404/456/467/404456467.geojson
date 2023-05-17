@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leini",
+    "eurostat:nuts_2021_id":"001130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001130",
+    "eurostat:population":16477,
+    "eurostat:population_year":2020,
     "geom:area":0.003716,
-    "geom:area_square_m":32382589.202929,
+    "geom:area_square_m":32382589.202928,
     "geom:bbox":"7.684036865,45.1467104048,7.75939042643,45.2300128157",
     "geom:latitude":45.187016,
     "geom:longitude":7.719544,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001130",
+        "eurostat:nuts_2021_id":"001130"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ab53f5739a39256cf79cfdd74c1592b3",
+    "wof:geomhash":"2cbfc24f8d69c43619dac6d9bd89e01d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404456467,
-    "wof:lastmodified":1566723600,
+    "wof:lastmodified":1684353625,
     "wof:name":"Lein\u00ec",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":16477,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carbonera",
+    "eurostat:nuts_2021_id":"026008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026008",
+    "eurostat:population":11318,
+    "eurostat:population_year":2020,
     "geom:area":0.002295,
-    "geom:area_square_m":19820321.516316,
+    "geom:area_square_m":19820321.516324,
     "geom:bbox":"12.272827017,45.6668588376,12.3432796171,45.7492109737",
     "geom:latitude":45.698322,
     "geom:longitude":12.301647,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026008",
+        "eurostat:nuts_2021_id":"026008",
         "gn:id":6538293,
         "gp:id":12677654,
         "qs_pg:id":1317032
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9059542720901d342577967a1b209d5e",
+    "wof:geomhash":"64dbef81034fb3f2a62132b6fdb02ae3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404470011,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353914,
     "wof:name":"Carbonera",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":11318,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

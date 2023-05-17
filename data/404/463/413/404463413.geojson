@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baragiano",
+    "eurostat:nuts_2021_id":"076010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076010",
+    "eurostat:population":2580,
+    "eurostat:population_year":2020,
     "geom:area":0.003132,
-    "geom:area_square_m":29367487.741799,
+    "geom:area_square_m":29367487.74179,
     "geom:bbox":"15.5515083498,40.6635501983,15.6537118337,40.725563434",
     "geom:latitude":40.694463,
     "geom:longitude":15.598644,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076010",
+        "eurostat:nuts_2021_id":"076010",
         "gn:id":6541270,
         "gp:id":12676530,
         "qs_pg:id":894226
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11d65f287c9ac1fff016a9c5791530ca",
+    "wof:geomhash":"c6212bb835fcc11db77a3e4cbd25fd5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404463413,
-    "wof:lastmodified":1582327766,
+    "wof:lastmodified":1684353780,
     "wof:name":"Baragiano",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":2580,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

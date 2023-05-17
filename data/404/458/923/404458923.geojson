@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Panni",
+    "eurostat:nuts_2021_id":"071037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071037",
+    "eurostat:population":740,
+    "eurostat:population_year":2020,
     "geom:area":0.00349,
-    "geom:area_square_m":32466878.609732,
+    "geom:area_square_m":32466878.609722,
     "geom:bbox":"15.2447122481,41.1686969888,15.3270645941,41.2456774735",
     "geom:latitude":41.212176,
     "geom:longitude":15.284229,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071037",
+        "eurostat:nuts_2021_id":"071037",
         "gn:id":6537542,
         "gp:id":12680914,
         "qs_pg:id":961742
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f18882d252ea5116df080d43f7de4098",
+    "wof:geomhash":"f779ee5770760f354344e741f854ba12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404458923,
-    "wof:lastmodified":1582327948,
+    "wof:lastmodified":1684353681,
     "wof:name":"Panni",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

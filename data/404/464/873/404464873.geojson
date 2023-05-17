@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campobello di Mazara",
+    "eurostat:nuts_2021_id":"081004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081004",
+    "eurostat:population":11607,
+    "eurostat:population_year":2020,
     "geom:area":0.006705,
-    "geom:area_square_m":65681794.816438,
+    "geom:area_square_m":65681794.816452,
     "geom:bbox":"12.6537298596,37.5593652114,12.7731947135,37.6625311771",
     "geom:latitude":37.605259,
     "geom:longitude":12.716084,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081004",
+        "eurostat:nuts_2021_id":"081004",
         "gn:id":6539109,
         "gp:id":12677440,
         "qs_pg:id":1112526
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1cbc8a34500eaf5a0e1b27e3e9e98552",
+    "wof:geomhash":"3725eeb4abf65093b3359a36a3e58c9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404464873,
-    "wof:lastmodified":1582327795,
+    "wof:lastmodified":1684353819,
     "wof:name":"Campobello Di Mazara",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":11607,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

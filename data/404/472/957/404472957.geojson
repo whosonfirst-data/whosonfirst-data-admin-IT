@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Luce",
+    "eurostat:nuts_2021_id":"050034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050034",
+    "eurostat:population":1619,
+    "eurostat:population_year":2020,
     "geom:area":0.007413,
-    "geom:area_square_m":66530473.628293,
+    "geom:area_square_m":66530473.628297,
     "geom:bbox":"10.481792884,43.4162817528,10.6077622648,43.5175289291",
     "geom:latitude":43.462819,
     "geom:longitude":10.548693,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050034",
+        "eurostat:nuts_2021_id":"050034",
         "gn:id":6539737,
         "gp:id":12677896,
         "qs_pg:id":39941
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c7f26810dc3bbdda9f006adf213f59c",
+    "wof:geomhash":"d8ca43538a3b795a6b0cb7685096fb58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404472957,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353974,
     "wof:name":"Santa Luce",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":1619,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

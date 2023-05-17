@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dazio",
+    "eurostat:nuts_2021_id":"014025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014025",
+    "eurostat:population":457,
+    "eurostat:population_year":2020,
     "geom:area":0.000435,
     "geom:area_square_m":3727275.598909,
     "geom:bbox":"9.59360466759,46.1502673773,9.63591148645,46.1667234748",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014025",
+        "eurostat:nuts_2021_id":"014025",
         "gn:id":6541418,
         "gp:id":20076137,
         "qs_pg:id":1198717
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"790bea3caaa1fb63c3711e1b4025d64d",
+    "wof:geomhash":"5dfe0ddbf8a5c3cfa01edeec3d82587a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468169,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353884,
     "wof:name":"Dazio",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":457,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Costanzo",
+    "eurostat:nuts_2021_id":"041051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041051",
+    "eurostat:population":4599,
+    "eurostat:population_year":2020,
     "geom:area":0.004561,
-    "geom:area_square_m":40735932.837153,
+    "geom:area_square_m":40735932.837154,
     "geom:bbox":"12.9964003602,43.7192923417,13.123491099,43.7960552182",
     "geom:latitude":43.753732,
     "geom:longitude":13.057358,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041051",
+        "eurostat:nuts_2021_id":"041051",
         "gn:id":6539720,
         "gp:id":12676539,
         "qs_pg:id":891323
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42b826a6b685305633fdcace38b746a1",
+    "wof:geomhash":"c3806faaa8992609825102fd37527d98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459815,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353702,
     "wof:name":"San Costanzo",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":4599,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

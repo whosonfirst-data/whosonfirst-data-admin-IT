@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monasterolo Casotto",
+    "eurostat:nuts_2021_id":"004127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004127",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.000867,
     "geom:area_square_m":7669282.630206,
     "geom:bbox":"7.92028891643,44.2938847148,7.95787510112,44.3402451807",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004127",
+        "eurostat:nuts_2021_id":"004127",
         "gn:id":6542363,
         "gp:id":20075776,
         "qs_pg:id":1095571
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82e579a963c9770fe8f025859508fef2",
+    "wof:geomhash":"731807276bcb31cdddcaf456f8cda2ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455633,
-    "wof:lastmodified":1582327812,
+    "wof:lastmodified":1684353607,
     "wof:name":"Monasterolo Casotto",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

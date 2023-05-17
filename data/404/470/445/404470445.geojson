@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ampezzo",
+    "eurostat:nuts_2021_id":"030003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030003",
+    "eurostat:population":959,
+    "eurostat:population_year":2020,
     "geom:area":0.008605,
-    "geom:area_square_m":73354179.397085,
+    "geom:area_square_m":73354179.397078,
     "geom:bbox":"12.6776792543,46.3437293086,12.8180083938,46.4803143094",
     "geom:latitude":46.418728,
     "geom:longitude":12.750915,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030003",
+        "eurostat:nuts_2021_id":"030003",
         "gn:id":6539645,
         "gp:id":12676065,
         "qs_pg:id":38779
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbdada45550ec1fb92856648d567900f",
+    "wof:geomhash":"a7b003053085f325dadd864e1cd04eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404470445,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353922,
     "wof:name":"Ampezzo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":959,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

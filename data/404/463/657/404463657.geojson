@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nanto",
+    "eurostat:nuts_2021_id":"024071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024071",
+    "eurostat:population":3110,
+    "eurostat:population_year":2020,
     "geom:area":0.00165,
-    "geom:area_square_m":14315653.657836,
+    "geom:area_square_m":14315653.657835,
     "geom:bbox":"11.5374995364,45.4007033625,11.6453361473,45.4530218633",
     "geom:latitude":45.425126,
     "geom:longitude":11.591153,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024071",
+        "eurostat:nuts_2021_id":"024071",
         "gn:id":6539591,
         "gp:id":12680651,
         "qs_pg:id":49340
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f04a406d291f801396efe987169efde7",
+    "wof:geomhash":"2dacaa0bd7896d4943b4984b4f885d39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404463657,
-    "wof:lastmodified":1582327772,
+    "wof:lastmodified":1684353784,
     "wof:name":"Nanto",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":3110,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amaseno",
+    "eurostat:nuts_2021_id":"060005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060005",
+    "eurostat:population":4288,
+    "eurostat:population_year":2020,
     "geom:area":0.008355,
-    "geom:area_square_m":77436281.609271,
+    "geom:area_square_m":77436281.609262,
     "geom:bbox":"13.2547725445,41.4018021965,13.3881928671,41.5100676882",
     "geom:latitude":41.450965,
     "geom:longitude":13.328789,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060005",
+        "eurostat:nuts_2021_id":"060005",
         "gn:id":6538700,
         "gp:id":12676048,
         "qs_pg:id":76008
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa6962ab0bf7d431c9de47c3c9fcbf73",
+    "wof:geomhash":"394f1ebf1f4d2a119fd38b4f85101a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461873,
-    "wof:lastmodified":1582328127,
+    "wof:lastmodified":1684353748,
     "wof:name":"Amaseno",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":4288,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

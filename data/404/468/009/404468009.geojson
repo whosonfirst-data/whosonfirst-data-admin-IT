@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carugo",
+    "eurostat:nuts_2021_id":"013048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013048",
+    "eurostat:population":6649,
+    "eurostat:population_year":2020,
     "geom:area":0.000485,
-    "geom:area_square_m":4188133.321797,
+    "geom:area_square_m":4188133.321798,
     "geom:bbox":"9.1799169883,45.6982549841,9.20465031733,45.7376873661",
     "geom:latitude":45.717223,
     "geom:longitude":9.193663,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013048",
+        "eurostat:nuts_2021_id":"013048",
         "gn:id":6543102,
         "gp:id":20076082,
         "qs_pg:id":213338
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7181385a9aa1055032a958240a980bf",
+    "wof:geomhash":"68317dc9ef6df4683cee2b1e3fcbd675",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468009,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353883,
     "wof:name":"Carugo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":6649,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

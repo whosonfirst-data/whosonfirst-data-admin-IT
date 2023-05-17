@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelvecchio Calvisio",
+    "eurostat:nuts_2021_id":"066030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066030",
+    "eurostat:population":127,
+    "eurostat:population_year":2020,
     "geom:area":0.001668,
-    "geom:area_square_m":15252540.471891,
+    "geom:area_square_m":15252540.471892,
     "geom:bbox":"13.6424632297,42.2773935431,13.7301534273,42.4423132297",
     "geom:latitude":42.326829,
     "geom:longitude":13.680457,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066030",
+        "eurostat:nuts_2021_id":"066030",
         "gn:id":6541201,
         "gp:id":20076882,
         "qs_pg:id":1001510
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7b2bf850e957816a72799415efba2a7",
+    "wof:geomhash":"24777a5deb5efa42358b0c9cc498725b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462135,
-    "wof:lastmodified":1582327849,
+    "wof:lastmodified":1684353753,
     "wof:name":"Castelvecchio Calvisio",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":127,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

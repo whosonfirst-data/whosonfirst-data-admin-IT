@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zevio",
+    "eurostat:nuts_2021_id":"023097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023097",
+    "eurostat:population":15353,
+    "eurostat:population_year":2020,
     "geom:area":0.006302,
-    "geom:area_square_m":54753251.424271,
+    "geom:area_square_m":54753251.424268,
     "geom:bbox":"11.0379489297,45.3270035607,11.1938618393,45.4029298164",
     "geom:latitude":45.362089,
     "geom:longitude":11.122175,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023097",
+        "eurostat:nuts_2021_id":"023097",
         "gn:id":6536608,
         "gp:id":12677016,
         "qs_pg:id":1250648
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a0601978e98e21b9aa207d4edba4544",
+    "wof:geomhash":"889fd2bc2b8dc42561d6584049506c68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469745,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353909,
     "wof:name":"Zevio",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":15353,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

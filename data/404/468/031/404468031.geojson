@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerano d'Intelvi",
+    "eurostat:nuts_2021_id":"013063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013063",
+    "eurostat:population":545,
+    "eurostat:population_year":2020,
     "geom:area":0.000644,
-    "geom:area_square_m":5539201.175593,
+    "geom:area_square_m":5539201.175595,
     "geom:bbox":"9.04899064638,45.9034833849,9.09660757179,45.9530720867",
     "geom:latitude":45.931457,
     "geom:longitude":9.075102,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013063",
+        "eurostat:nuts_2021_id":"013063",
         "gn:id":6543105,
         "gp:id":20076090,
         "qs_pg:id":978368
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"399d45fa3aba3bf775a6354ff8392085",
+    "wof:geomhash":"2a770900404ffbc8625a0b7fc8f47234",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468031,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353883,
     "wof:name":"Cerano D'Intelvi",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":545,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

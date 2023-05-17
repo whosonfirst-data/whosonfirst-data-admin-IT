@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rondanina",
+    "eurostat:nuts_2021_id":"010050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010050",
+    "eurostat:population":62,
+    "eurostat:population_year":2020,
     "geom:area":0.001452,
-    "geom:area_square_m":12791995.973458,
+    "geom:area_square_m":12791995.973459,
     "geom:bbox":"9.19302324504,44.5275084845,9.25002700297,44.5756854156",
     "geom:latitude":44.550475,
     "geom:longitude":9.219402,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010050",
+        "eurostat:nuts_2021_id":"010050",
         "gn:id":6542459,
         "gp:id":12677725,
         "qs_pg:id":1142884
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48f88b4bd3442d54b9970579fca262f2",
+    "wof:geomhash":"fc734d1a380a760e28a174d3b98985ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458483,
-    "wof:lastmodified":1582327942,
+    "wof:lastmodified":1684353670,
     "wof:name":"Rondanina",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":62,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

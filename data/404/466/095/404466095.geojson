@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Presezzo",
+    "eurostat:nuts_2021_id":"016176",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016176",
+    "eurostat:population":4839,
+    "eurostat:population_year":2020,
     "geom:area":0.000264,
     "geom:area_square_m":2278390.952946,
     "geom:bbox":"9.55391112952,45.6859136989,9.58649572304,45.7018863315",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016176",
+        "eurostat:nuts_2021_id":"016176",
         "gn:id":6542959,
         "gp:id":20076215,
         "qs_pg:id":1001491
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9465892aefeb0730d1148013780b425",
+    "wof:geomhash":"f85a31e7c4d2adb595d6d189558065f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404466095,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353842,
     "wof:name":"Presezzo",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4839,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orco Feglino",
+    "eurostat:nuts_2021_id":"009044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009044",
+    "eurostat:population":893,
+    "eurostat:population_year":2020,
     "geom:area":0.001952,
-    "geom:area_square_m":17291544.171561,
+    "geom:area_square_m":17291544.171565,
     "geom:bbox":"8.28457295193,44.2058827733,8.35734504163,44.2639710714",
     "geom:latitude":44.234528,
     "geom:longitude":8.324659,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009044",
+        "eurostat:nuts_2021_id":"009044",
         "gn:id":6542749,
         "gp:id":20076429,
         "qs_pg:id":289973
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0a945795093d552936f1615e38d1239",
+    "wof:geomhash":"f8c44dcc51ecc9c3ceb9316ed5e2cfd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467489,
-    "wof:lastmodified":1582327985,
+    "wof:lastmodified":1684353875,
     "wof:name":"Orco Feglino",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":893,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

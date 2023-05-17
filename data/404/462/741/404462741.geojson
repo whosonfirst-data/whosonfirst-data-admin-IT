@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vasto",
+    "eurostat:nuts_2021_id":"069099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069099",
+    "eurostat:population":41406,
+    "eurostat:population_year":2020,
     "geom:area":0.007731,
-    "geom:area_square_m":70909516.400364,
+    "geom:area_square_m":70909516.400375,
     "geom:bbox":"14.641035777,42.0413693461,14.7516010481,42.1923030793",
     "geom:latitude":42.120937,
     "geom:longitude":14.694661,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069099",
+        "eurostat:nuts_2021_id":"069099",
         "gn:id":6538896,
         "gp:id":12679798,
         "qs_pg:id":1078545
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"982098219558677c919643cbfd72b779",
+    "wof:geomhash":"55833a8d2017bcba03d0b8ca33ae3d4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404462741,
-    "wof:lastmodified":1582327862,
+    "wof:lastmodified":1684353764,
     "wof:name":"Vasto",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":41406,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

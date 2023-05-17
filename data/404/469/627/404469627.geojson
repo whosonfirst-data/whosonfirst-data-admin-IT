@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macherio",
+    "eurostat:nuts_2021_id":"108029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108029",
+    "eurostat:population":7489,
+    "eurostat:population_year":2020,
     "geom:area":0.000368,
     "geom:area_square_m":3177958.119234,
     "geom:bbox":"9.23653979728,45.6281958345,9.28890491352,45.6480766594",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108029",
+        "eurostat:nuts_2021_id":"108029",
         "gn:id":6542930,
         "gp:id":20076560,
         "qs_pg:id":103830
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb488628c124cf79adfa3ff325d221cb",
+    "wof:geomhash":"af14729f182fb715fdba6f29b37280f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469627,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353907,
     "wof:name":"Macherio",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":7489,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

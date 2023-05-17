@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cocquio-Trevisago",
+    "eurostat:nuts_2021_id":"012053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012053",
+    "eurostat:population":4699,
+    "eurostat:population_year":2020,
     "geom:area":0.001137,
-    "geom:area_square_m":9790176.044982,
+    "geom:area_square_m":9790176.044983,
     "geom:bbox":"8.66773408677,45.8454847663,8.73752318687,45.8816635982",
     "geom:latitude":45.865441,
     "geom:longitude":8.69664,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012053",
+        "eurostat:nuts_2021_id":"012053",
         "gn:id":6535883,
         "gp:id":12678740,
         "qs_pg:id":211253
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dec96a8cfa344550776d36d6be67d9ca",
+    "wof:geomhash":"24a06a52ed5d7397d83613805bf5fa2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467729,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353879,
     "wof:name":"Cocquio-Trevisago",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":4699,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

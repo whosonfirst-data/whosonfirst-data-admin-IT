@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Givoletto",
+    "eurostat:nuts_2021_id":"001116",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001116",
+    "eurostat:population":3974,
+    "eurostat:population_year":2020,
     "geom:area":0.001468,
-    "geom:area_square_m":12797909.903648,
+    "geom:area_square_m":12797909.903649,
     "geom:bbox":"7.46086071739,45.1412428212,7.5290640742,45.1809200503",
     "geom:latitude":45.162383,
     "geom:longitude":7.494291,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001116",
+        "eurostat:nuts_2021_id":"001116",
         "gn:id":6543259,
         "gp:id":20076470,
         "qs_pg:id":289975
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98df1313dc11c0a01a4c9f288d8891e0",
+    "wof:geomhash":"4f0977cbe2beb601d689694a7d9de81d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456435,
-    "wof:lastmodified":1582328068,
+    "wof:lastmodified":1684353624,
     "wof:name":"Givoletto",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3974,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

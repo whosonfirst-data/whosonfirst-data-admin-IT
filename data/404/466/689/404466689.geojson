@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferla",
+    "eurostat:nuts_2021_id":"089008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089008",
+    "eurostat:population":2400,
+    "eurostat:population_year":2020,
     "geom:area":0.00251,
-    "geom:area_square_m":24739531.583993,
+    "geom:area_square_m":24739531.583989,
     "geom:bbox":"14.8865816163,37.1084775874,14.9672839563,37.1709757242",
     "geom:latitude":37.133566,
     "geom:longitude":14.93247,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089008",
+        "eurostat:nuts_2021_id":"089008",
         "gn:id":6537819,
         "gp:id":12678145,
         "qs_pg:id":536570
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff95e6dfe805f109efa8cad7c2cfeb2b",
+    "wof:geomhash":"396f2ba5858e317688db1cd5cc673eab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466689,
-    "wof:lastmodified":1582328187,
+    "wof:lastmodified":1684353855,
     "wof:name":"Ferla",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":2400,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

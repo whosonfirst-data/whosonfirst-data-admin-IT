@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardea",
+    "eurostat:nuts_2021_id":"058117",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058117",
+    "eurostat:population":50953,
+    "eurostat:population_year":2020,
     "geom:area":0.007776,
-    "geom:area_square_m":71891823.341632,
+    "geom:area_square_m":71891823.341644,
     "geom:bbox":"12.486696656,41.5339668183,12.6343602701,41.6921218199",
     "geom:latitude":41.611451,
     "geom:longitude":12.553067,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058117",
+        "eurostat:nuts_2021_id":"058117",
         "gn:id":6542093,
         "gp:id":12679806,
         "qs_pg:id":1108608
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"486e33c9b41f4f852e82ca43d1f1b53a",
+    "wof:geomhash":"b9342e51b18f701f0e96f8171af0d4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404461779,
-    "wof:lastmodified":1582328136,
+    "wof:lastmodified":1684353745,
     "wof:name":"Ardea",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":50953,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

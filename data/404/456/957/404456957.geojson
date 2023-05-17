@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauria",
+    "eurostat:nuts_2021_id":"076042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076042",
+    "eurostat:population":12393,
+    "eurostat:population_year":2020,
     "geom:area":0.018505,
-    "geom:area_square_m":175101770.52764,
+    "geom:area_square_m":175101770.52762,
     "geom:bbox":"15.7961393508,39.9816160114,15.9769182313,40.1637015811",
     "geom:latitude":40.070173,
     "geom:longitude":15.883224,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076042",
+        "eurostat:nuts_2021_id":"076042",
         "gn:id":6540775,
         "gp:id":12679890,
         "qs_pg:id":1315722
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e671e2b1018cac056f78610088891c1e",
+    "wof:geomhash":"93b930d695c6961a2c687f606b09e303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456957,
-    "wof:lastmodified":1582328059,
+    "wof:lastmodified":1684353638,
     "wof:name":"Lauria",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":12393,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

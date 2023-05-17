@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gonnoscodina",
+    "eurostat:nuts_2021_id":"095022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095022",
+    "eurostat:population":453,
+    "eurostat:population_year":2020,
     "geom:area":0.000927,
-    "geom:area_square_m":8819444.550791,
+    "geom:area_square_m":8819444.55079,
     "geom:bbox":"8.81077936996,39.6824541623,8.86904057594,39.7140028924",
     "geom:latitude":39.699804,
     "geom:longitude":8.839283,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095022",
+        "eurostat:nuts_2021_id":"095022",
         "gn:id":6539360,
         "gp:id":12679626,
         "qs_pg:id":1314074
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73667449110187fd4a9fabdf07e07e94",
+    "wof:geomhash":"aef08f61f8db945829aa824bdb111208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467013,
-    "wof:lastmodified":1582327971,
+    "wof:lastmodified":1684353863,
     "wof:name":"Gonnoscodina",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":453,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

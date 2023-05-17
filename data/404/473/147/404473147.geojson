@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malles Venosta/Mals",
+    "eurostat:nuts_2021_id":"021046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021046",
+    "eurostat:population":5287,
+    "eurostat:population_year":2020,
     "geom:area":0.029127,
-    "geom:area_square_m":246903783.661881,
+    "geom:area_square_m":246903783.661868,
     "geom:bbox":"10.4005674668,46.6413125777,10.7368954917,46.8043856506",
     "geom:latitude":46.722926,
     "geom:longitude":10.585612,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021046",
+        "eurostat:nuts_2021_id":"021046",
         "gp:id":12677185,
         "qs_pg:id":1083890
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc2efcbb8baed5495d2fd501c72fc62b",
+    "wof:geomhash":"392fee674a9211b5de8d3f5e27aa9354",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473147,
-    "wof:lastmodified":1582327934,
+    "wof:lastmodified":1684353980,
     "wof:name":"Malles Venosta",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":5287,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

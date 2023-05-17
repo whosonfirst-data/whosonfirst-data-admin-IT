@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lona-Lases",
+    "eurostat:nuts_2021_id":"022108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022108",
+    "eurostat:population":877,
+    "eurostat:population_year":2020,
     "geom:area":0.001325,
-    "geom:area_square_m":11345614.172123,
+    "geom:area_square_m":11345614.172124,
     "geom:bbox":"11.2086544543,46.1301925009,11.38497641,46.2034722187",
     "geom:latitude":46.167381,
     "geom:longitude":11.279123,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022108",
+        "eurostat:nuts_2021_id":"022108",
         "gn:id":6535997,
         "gp:id":20076622,
         "qs_pg:id":1103159
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a33a64cc9da73c0efad6d33a5e262d7",
+    "wof:geomhash":"58d702ccd08d026dcd2a9851cee47b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473533,
-    "wof:lastmodified":1582327912,
+    "wof:lastmodified":1684353990,
     "wof:name":"Lona-Lases",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":877,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

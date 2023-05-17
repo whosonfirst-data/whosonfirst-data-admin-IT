@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castorano",
+    "eurostat:nuts_2021_id":"044013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044013",
+    "eurostat:population":2305,
+    "eurostat:population_year":2020,
     "geom:area":0.001548,
-    "geom:area_square_m":14019727.349361,
+    "geom:area_square_m":14019727.349364,
     "geom:bbox":"13.6987604412,42.8650974,13.7646074755,42.9124368273",
     "geom:latitude":42.894901,
     "geom:longitude":13.733854,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044013",
+        "eurostat:nuts_2021_id":"044013",
         "gn:id":6540459,
         "gp:id":12678374,
         "qs_pg:id":393937
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a86b8b48811eb1aa630ab492f06169f5",
+    "wof:geomhash":"dcb7d0a42ee5e729f0f786b81c6bd366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461073,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353731,
     "wof:name":"Castorano",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":2305,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osnago",
+    "eurostat:nuts_2021_id":"097061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097061",
+    "eurostat:population":4829,
+    "eurostat:population_year":2020,
     "geom:area":0.000519,
-    "geom:area_square_m":4486726.853791,
+    "geom:area_square_m":4486726.85379,
     "geom:bbox":"9.3609197286,45.6599054281,9.40828057549,45.6905295231",
     "geom:latitude":45.677291,
     "geom:longitude":9.387495,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097061",
+        "eurostat:nuts_2021_id":"097061",
         "gn:id":3171844,
         "gp:id":12680827,
         "qs_pg:id":1108786
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5ee3181186fc70915a462a8416cde53",
+    "wof:geomhash":"87e3b950601ede4dc722ea59d745faac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469359,
-    "wof:lastmodified":1582328033,
+    "wof:lastmodified":1684353903,
     "wof:name":"Osnago",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":4829,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

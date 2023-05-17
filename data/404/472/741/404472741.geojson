@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barberino di Mugello",
+    "eurostat:nuts_2021_id":"048002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048002",
+    "eurostat:population":11003,
+    "eurostat:population_year":2020,
     "geom:area":0.014961,
-    "geom:area_square_m":133031255.450897,
+    "geom:area_square_m":133031255.450898,
     "geom:bbox":"11.1694269503,43.9479598591,11.3129794468,44.1045151901",
     "geom:latitude":44.020846,
     "geom:longitude":11.234945,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048002",
+        "eurostat:nuts_2021_id":"048002",
         "gn:id":6541086,
         "gp:id":12676548,
         "qs_pg:id":1193015
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30fd581fef10bd97ad8f34acdbc83adb",
+    "wof:geomhash":"da9abc452eacb70f0c83284d3299f1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472741,
-    "wof:lastmodified":1582327893,
+    "wof:lastmodified":1684353968,
     "wof:name":"Barberino Di Mugello",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":11003,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

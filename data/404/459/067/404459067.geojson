@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgia",
+    "eurostat:nuts_2021_id":"079011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079011",
+    "eurostat:population":7473,
+    "eurostat:population_year":2020,
     "geom:area":0.004353,
-    "geom:area_square_m":41933318.141194,
+    "geom:area_square_m":41933318.141193,
     "geom:bbox":"16.473553012,38.789694577,16.6101126075,38.8477737732",
     "geom:latitude":38.821004,
     "geom:longitude":16.541976,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079011",
+        "eurostat:nuts_2021_id":"079011"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"039e164f55fc2e9222db5cb0c5061043",
+    "wof:geomhash":"228dd5801e87cc4e5f222a7f7e8108a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459067,
-    "wof:lastmodified":1566723755,
+    "wof:lastmodified":1684353685,
     "wof:name":"Borgia",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":7473,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

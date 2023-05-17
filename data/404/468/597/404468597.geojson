@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Cortese",
+    "eurostat:nuts_2021_id":"015248",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015248",
+    "eurostat:population":6207,
+    "eurostat:population_year":2020,
     "geom:area":0.00041,
-    "geom:area_square_m":3545274.366238,
+    "geom:area_square_m":3545274.366239,
     "geom:bbox":"8.87111238099,45.5553627668,8.90189556823,45.5817099749",
     "geom:latitude":45.566658,
     "geom:longitude":8.886273,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015248",
+        "eurostat:nuts_2021_id":"015248",
         "gn:id":6537141,
         "gp:id":12682438,
         "qs_pg:id":1019754
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c992c3e2165ff58ce0e88944139b99b8",
+    "wof:geomhash":"88da3c8f5c5c951bbd64690f4290e932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468597,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353891,
     "wof:name":"Villa Cortese",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":6207,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

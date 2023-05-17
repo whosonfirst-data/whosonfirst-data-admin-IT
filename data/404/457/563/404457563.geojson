@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palazzolo Vercellese",
+    "eurostat:nuts_2021_id":"002090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002090",
+    "eurostat:population":1147,
+    "eurostat:population_year":2020,
     "geom:area":0.001597,
-    "geom:area_square_m":13919044.113208,
+    "geom:area_square_m":13919044.113207,
     "geom:bbox":"8.20621119784,45.1639834199,8.26637068456,45.2084555549",
     "geom:latitude":45.185796,
     "geom:longitude":8.2323,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002090",
+        "eurostat:nuts_2021_id":"002090",
         "gn:id":6539546,
         "gp:id":12680882,
         "qs_pg:id":537635
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ccaeddec9bfd4f5c2a6b6b9cc82038d",
+    "wof:geomhash":"5324f1e80d85be032163770a5829c439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457563,
-    "wof:lastmodified":1582328110,
+    "wof:lastmodified":1684353652,
     "wof:name":"Palazzolo Vercellese",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":1147,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

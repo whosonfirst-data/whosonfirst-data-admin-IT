@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salza di Pinerolo",
+    "eurostat:nuts_2021_id":"001234",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001234",
+    "eurostat:population":75,
+    "eurostat:population_year":2020,
     "geom:area":0.001811,
-    "geom:area_square_m":15855453.065709,
+    "geom:area_square_m":15855453.065711,
     "geom:bbox":"6.98763563187,44.9182047048,7.08396028799,44.9513139838",
     "geom:latitude":44.935155,
     "geom:longitude":7.030589,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001234",
+        "eurostat:nuts_2021_id":"001234",
         "gn:id":6542389,
         "gp:id":20076510,
         "qs_pg:id":50736
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e59403e17c7f41312757379cb4a91859",
+    "wof:geomhash":"112da140dc6a3acfed94b6bb46322297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404457269,
-    "wof:lastmodified":1582328104,
+    "wof:lastmodified":1684353646,
     "wof:name":"Salza Di Pinerolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":75,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

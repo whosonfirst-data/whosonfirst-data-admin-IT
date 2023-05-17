@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Nicola Baronia",
+    "eurostat:nuts_2021_id":"064085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064085",
+    "eurostat:population":760,
+    "eurostat:population_year":2020,
     "geom:area":0.000735,
-    "geom:area_square_m":6849904.131253,
+    "geom:area_square_m":6849904.131256,
     "geom:bbox":"15.1750108882,41.0403782563,15.2271416191,41.0780240233",
     "geom:latitude":41.060111,
     "geom:longitude":15.205906,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064085",
+        "eurostat:nuts_2021_id":"064085",
         "gn:id":6537377,
         "gp:id":12681722,
         "qs_pg:id":42499
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"560673ba1f3ae87c50cfdb889ddf9c85",
+    "wof:geomhash":"20fc02d931a8d3762e9f50009be276c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465385,
-    "wof:lastmodified":1582327835,
+    "wof:lastmodified":1684353831,
     "wof:name":"San Nicola Baronia",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":760,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

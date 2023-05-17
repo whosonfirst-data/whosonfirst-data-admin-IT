@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rovegno",
+    "eurostat:nuts_2021_id":"010052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010052",
+    "eurostat:population":506,
+    "eurostat:population_year":2020,
     "geom:area":0.004998,
-    "geom:area_square_m":44030473.248797,
+    "geom:area_square_m":44030473.248795,
     "geom:bbox":"9.24752661736,44.5313277505,9.38112640765,44.6078210089",
     "geom:latitude":44.567804,
     "geom:longitude":9.310493,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010052",
+        "eurostat:nuts_2021_id":"010052",
         "gn:id":6542460,
         "gp:id":12677662,
         "qs_pg:id":248026
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a040a3420a76af247256d0edab679095",
+    "wof:geomhash":"99e3b6c70c41e8b87187c2e832153817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458487,
-    "wof:lastmodified":1582327956,
+    "wof:lastmodified":1684353670,
     "wof:name":"Rovegno",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":506,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

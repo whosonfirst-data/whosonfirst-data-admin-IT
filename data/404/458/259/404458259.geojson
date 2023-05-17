@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uggiate-Trevano",
+    "eurostat:nuts_2021_id":"013228",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013228",
+    "eurostat:population":4940,
+    "eurostat:population_year":2020,
     "geom:area":0.00067,
-    "geom:area_square_m":5775611.390649,
+    "geom:area_square_m":5775611.39065,
     "geom:bbox":"8.94328056312,45.8090131534,8.98748090525,45.8380070127",
     "geom:latitude":45.823207,
     "geom:longitude":8.963358,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013228",
+        "eurostat:nuts_2021_id":"013228",
         "gn:id":6535950,
         "gp:id":12682299,
         "qs_pg:id":988134
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3e704f88c75563836210683b51566ba",
+    "wof:geomhash":"1ec21573394ac8a4f09d5f02bb95af0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404458259,
-    "wof:lastmodified":1582327943,
+    "wof:lastmodified":1684353667,
     "wof:name":"Uggiate-Trevano",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":4940,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

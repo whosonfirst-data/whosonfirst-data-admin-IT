@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Treviso",
+    "eurostat:nuts_2021_id":"026086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026086",
+    "eurostat:population":85760,
+    "eurostat:population_year":2020,
     "geom:area":0.006412,
-    "geom:area_square_m":55409365.346603,
+    "geom:area_square_m":55409365.346615,
     "geom:bbox":"12.1695183579,45.613472104,12.2884202515,45.7079671663",
     "geom:latitude":45.663794,
     "geom:longitude":12.227793,
@@ -239,6 +251,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -247,6 +261,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026086",
+        "eurostat:nuts_2021_id":"026086",
         "gn:id":6540118,
         "gp:id":12677513,
         "qs_pg:id":536370
@@ -255,7 +271,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b25f08abde9d956c07d5bc9e2ea70e95",
+    "wof:geomhash":"408ecf38ed80c84022b2f2615f80a870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,10 +282,12 @@
         }
     ],
     "wof:id":404458707,
-    "wof:lastmodified":1582327939,
+    "wof:lastmodified":1684353675,
     "wof:name":"Treviso",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":85760,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

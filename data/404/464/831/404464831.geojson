@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Onofrio",
+    "eurostat:nuts_2021_id":"102036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102036",
+    "eurostat:population":2973,
+    "eurostat:population_year":2020,
     "geom:area":0.001915,
-    "geom:area_square_m":18482834.302547,
+    "geom:area_square_m":18482834.302553,
     "geom:bbox":"16.1308266474,38.6491319881,16.2113389125,38.7111630864",
     "geom:latitude":38.683042,
     "geom:longitude":16.17514,
@@ -50,6 +62,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -57,9 +71,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102036",
+        "eurostat:nuts_2021_id":"102036"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5d6165cf1c900a3c24d023f8a3bc89e4",
+    "wof:geomhash":"f431e577625261ddb1b470f83d3d5b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +87,12 @@
         }
     ],
     "wof:id":404464831,
-    "wof:lastmodified":1566723241,
+    "wof:lastmodified":1684353818,
     "wof:name":"Sant'Onofrio",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":2973,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

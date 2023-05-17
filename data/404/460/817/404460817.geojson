@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reino",
+    "eurostat:nuts_2021_id":"062056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062056",
+    "eurostat:population":1153,
+    "eurostat:population_year":2020,
     "geom:area":0.002528,
-    "geom:area_square_m":23489167.051541,
+    "geom:area_square_m":23489167.051553,
     "geom:bbox":"14.7931095758,41.2536933889,14.8639239898,41.3568164819",
     "geom:latitude":41.297339,
     "geom:longitude":14.825772,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062056",
+        "eurostat:nuts_2021_id":"062056",
         "gn:id":6541159,
         "gp:id":12681346,
         "qs_pg:id":947283
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2bb813daa6c55128e73122460a5d1b8",
+    "wof:geomhash":"8156ce21c9f881d0039f6a4ce42e975d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460817,
-    "wof:lastmodified":1582327999,
+    "wof:lastmodified":1684353725,
     "wof:name":"Reino",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1153,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

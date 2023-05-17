@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Desulo",
+    "eurostat:nuts_2021_id":"091016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091016",
+    "eurostat:population":2219,
+    "eurostat:population_year":2020,
     "geom:area":0.007864,
-    "geom:area_square_m":74483404.198324,
+    "geom:area_square_m":74483404.198309,
     "geom:bbox":"9.18664562813,39.9455861606,9.32300172907,40.076284194",
     "geom:latitude":40.008723,
     "geom:longitude":9.254105,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091016",
+        "eurostat:nuts_2021_id":"091016",
         "gn:id":3177607,
         "gp:id":12676321,
         "qs_pg:id":1187828
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ff5875381a86680597c3b2781cd2bff",
+    "wof:geomhash":"7f7155f100e63b1f5fcb58c2b68b1dec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460493,
-    "wof:lastmodified":1582328015,
+    "wof:lastmodified":1684353719,
     "wof:name":"Desulo",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":2219,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

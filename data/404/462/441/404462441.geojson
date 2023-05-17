@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cepagatti",
+    "eurostat:nuts_2021_id":"068011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068011",
+    "eurostat:population":10998,
+    "eurostat:population_year":2020,
     "geom:area":0.003356,
-    "geom:area_square_m":30661784.127621,
+    "geom:area_square_m":30661784.127632,
     "geom:bbox":"14.0552659679,42.3308758458,14.1618979044,42.4175204223",
     "geom:latitude":42.369123,
     "geom:longitude":14.10591,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068011",
+        "eurostat:nuts_2021_id":"068011",
         "gn:id":6537467,
         "gp:id":20076884,
         "qs_pg:id":908833
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e56fefc322dd914553172d94e00ed4be",
+    "wof:geomhash":"32bac81cfb49de1dfa34ff242dc21cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462441,
-    "wof:lastmodified":1582327855,
+    "wof:lastmodified":1684353758,
     "wof:name":"Cepagatti",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":10998,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

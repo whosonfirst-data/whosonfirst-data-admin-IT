@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cologne",
+    "eurostat:nuts_2021_id":"017059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017059",
+    "eurostat:population":7579,
+    "eurostat:population_year":2020,
     "geom:area":0.00159,
-    "geom:area_square_m":13765375.543902,
+    "geom:area_square_m":13765375.543903,
     "geom:bbox":"9.89109032614,45.5594943285,9.96878785235,45.5963604208",
     "geom:latitude":45.577152,
     "geom:longitude":9.93147,
@@ -444,6 +456,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -452,6 +466,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017059",
+        "eurostat:nuts_2021_id":"017059",
         "gn:id":6536175,
         "gp:id":12678816,
         "qs_pg:id":1072180
@@ -460,7 +476,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa43a12a189dfeba058269aead64b713",
+    "wof:geomhash":"859d5aa4b19d26e39f9ccfa332052c51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -471,10 +487,12 @@
         }
     ],
     "wof:id":404471055,
-    "wof:lastmodified":1582327717,
+    "wof:lastmodified":1684353932,
     "wof:name":"Cologne",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":7579,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

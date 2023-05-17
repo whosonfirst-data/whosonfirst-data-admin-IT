@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venasca",
+    "eurostat:nuts_2021_id":"004237",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004237",
+    "eurostat:population":1384,
+    "eurostat:population_year":2020,
     "geom:area":0.002311,
-    "geom:area_square_m":20360499.701619,
+    "geom:area_square_m":20360499.701616,
     "geom:bbox":"7.36475991776,44.5310755533,7.42868556831,44.5891137624",
     "geom:latitude":44.559056,
     "geom:longitude":7.396992,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004237",
+        "eurostat:nuts_2021_id":"004237",
         "gn:id":6541805,
         "gp:id":12682382,
         "qs_pg:id":1009352
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d0d44b71754704bbf04cad300a7e1ae",
+    "wof:geomhash":"75b1c582c187376a73fce24270b2bea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455881,
-    "wof:lastmodified":1582327812,
+    "wof:lastmodified":1684353612,
     "wof:name":"Venasca",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":1384,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

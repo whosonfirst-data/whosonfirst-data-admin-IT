@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monticelli Pavese",
+    "eurostat:nuts_2021_id":"018099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018099",
+    "eurostat:population":693,
+    "eurostat:population_year":2020,
     "geom:area":0.002311,
-    "geom:area_square_m":20163986.35218,
+    "geom:area_square_m":20163986.352179,
     "geom:bbox":"9.47001497139,45.0783517044,9.55141270587,45.1373697413",
     "geom:latitude":45.11115,
     "geom:longitude":9.516709,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018099",
+        "eurostat:nuts_2021_id":"018099",
         "gn:id":6543199,
         "gp:id":12675908,
         "qs_pg:id":257745
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16be21bb37731111a83062b0d4d27c8c",
+    "wof:geomhash":"d5717e40651131dee62741bbe6940dda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471501,
-    "wof:lastmodified":1582327722,
+    "wof:lastmodified":1684353941,
     "wof:name":"Monticelli Pavese",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":693,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

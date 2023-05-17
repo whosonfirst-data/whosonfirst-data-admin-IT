@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gioia Sannitica",
+    "eurostat:nuts_2021_id":"061041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061041",
+    "eurostat:population":3469,
+    "eurostat:population_year":2020,
     "geom:area":0.005826,
-    "geom:area_square_m":54121444.492673,
+    "geom:area_square_m":54121444.492667,
     "geom:bbox":"14.3685953283,41.2468693034,14.4904195734,41.3455463173",
     "geom:latitude":41.301332,
     "geom:longitude":14.429556,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061041",
+        "eurostat:nuts_2021_id":"061041",
         "gn:id":6541899,
         "gp:id":12679005,
         "qs_pg:id":968264
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd1da65cc356c506bc47a1e887c4068a",
+    "wof:geomhash":"eedd31587ebb217d79436b8603c33707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463047,
-    "wof:lastmodified":1582327768,
+    "wof:lastmodified":1684353771,
     "wof:name":"Gioia Sannitica",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":3469,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

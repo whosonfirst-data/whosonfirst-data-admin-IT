@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccantica",
+    "eurostat:nuts_2021_id":"057061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057061",
+    "eurostat:population":543,
+    "eurostat:population_year":2020,
     "geom:area":0.001824,
-    "geom:area_square_m":16672923.089437,
+    "geom:area_square_m":16672923.089438,
     "geom:bbox":"12.6565740285,42.2893848699,12.7345264507,42.349952392",
     "geom:latitude":42.321577,
     "geom:longitude":12.700888,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057061",
+        "eurostat:nuts_2021_id":"057061",
         "gn:id":6538661,
         "gp:id":12681441,
         "qs_pg:id":1102216
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73b389846e5698720e632282f1e3ee34",
+    "wof:geomhash":"00a50b1941515caebd80aec425452334",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461489,
-    "wof:lastmodified":1582328143,
+    "wof:lastmodified":1684353739,
     "wof:name":"Roccantica",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":543,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

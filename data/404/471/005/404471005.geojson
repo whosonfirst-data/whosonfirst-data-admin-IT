@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capriano del Colle",
+    "eurostat:nuts_2021_id":"017037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017037",
+    "eurostat:population":4616,
+    "eurostat:population_year":2020,
     "geom:area":0.001608,
     "geom:area_square_m":13944643.0386,
     "geom:bbox":"10.1198782874,45.4158616195,10.1593644958,45.4826238083",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017037",
+        "eurostat:nuts_2021_id":"017037",
         "gn:id":6543177,
         "gp:id":20076247,
         "qs_pg:id":335161
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"224839cada27448b33e3ab8c82856310",
+    "wof:geomhash":"e6faf1ef7201a0b4d921fee739816569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471005,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353931,
     "wof:name":"Capriano Del Colle",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4616,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

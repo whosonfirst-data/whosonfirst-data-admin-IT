@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Lucido",
+    "eurostat:nuts_2021_id":"078122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078122",
+    "eurostat:population":6223,
+    "eurostat:population_year":2020,
     "geom:area":0.002808,
-    "geom:area_square_m":26869982.880885,
+    "geom:area_square_m":26869982.880884,
     "geom:bbox":"16.041159053,39.2804455873,16.1312748755,39.3375739057",
     "geom:latitude":39.306914,
     "geom:longitude":16.082492,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078122",
+        "eurostat:nuts_2021_id":"078122"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"fc130fe95cfa335d155b5351dd72b3d2",
+    "wof:geomhash":"edc025dab51e6e52f5933c548483ee43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404456687,
-    "wof:lastmodified":1566723580,
+    "wof:lastmodified":1684353630,
     "wof:name":"San Lucido",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":6223,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

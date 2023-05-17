@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontida",
+    "eurostat:nuts_2021_id":"016171",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016171",
+    "eurostat:population":3358,
+    "eurostat:population_year":2020,
     "geom:area":0.0012,
-    "geom:area_square_m":10361540.528363,
+    "geom:area_square_m":10361540.528364,
     "geom:bbox":"9.44588258914,45.7152327766,9.52987754802,45.7484860589",
     "geom:latitude":45.730805,
     "geom:longitude":9.499097,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016171",
+        "eurostat:nuts_2021_id":"016171",
         "gn:id":6541994,
         "gp:id":12679686,
         "qs_pg:id":961699
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c3f3362f9bc13934aa6230097523329",
+    "wof:geomhash":"4d15555d03f47c85e0109281f0e11a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466083,
-    "wof:lastmodified":1582328187,
+    "wof:lastmodified":1684353842,
     "wof:name":"Pontida",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":3358,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

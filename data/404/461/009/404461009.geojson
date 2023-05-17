@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve Torina",
+    "eurostat:nuts_2021_id":"043038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043038",
+    "eurostat:population":1357,
+    "eurostat:population_year":2020,
     "geom:area":0.008244,
-    "geom:area_square_m":74533993.862447,
+    "geom:area_square_m":74533993.862433,
     "geom:bbox":"12.929265884,42.9523025014,13.1132688312,43.0649756844",
     "geom:latitude":43.013762,
     "geom:longitude":13.032479,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043038",
+        "eurostat:nuts_2021_id":"043038",
         "gn:id":6540455,
         "gp:id":12676151,
         "qs_pg:id":1313971
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8a6c3414c9c8f497916e747a5a52b6b",
+    "wof:geomhash":"ffd2cc68b0a1b61ca3b85453cde49ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461009,
-    "wof:lastmodified":1582328130,
+    "wof:lastmodified":1684353729,
     "wof:name":"Pieve Torina",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":1357,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

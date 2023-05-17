@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fai della Paganella",
+    "eurostat:nuts_2021_id":"022081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022081",
+    "eurostat:population":912,
+    "eurostat:population_year":2020,
     "geom:area":0.001413,
-    "geom:area_square_m":12102176.402656,
+    "geom:area_square_m":12102176.402653,
     "geom:bbox":"11.0265789642,46.1409949607,11.0912391246,46.2058299169",
     "geom:latitude":46.177445,
     "geom:longitude":11.060509,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022081",
+        "eurostat:nuts_2021_id":"022081",
         "gn:id":6537256,
         "gp:id":12679179,
         "qs_pg:id":394908
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f5b52bea153fce4e522bb4e82d8913f",
+    "wof:geomhash":"36f7d4dfc9442989c3a79c528219d91c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404473475,
-    "wof:lastmodified":1582327927,
+    "wof:lastmodified":1684353989,
     "wof:name":"Fai Della Paganella",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":912,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

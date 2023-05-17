@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nespolo",
+    "eurostat:nuts_2021_id":"057046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057046",
+    "eurostat:population":201,
+    "eurostat:population_year":2020,
     "geom:area":0.00094,
-    "geom:area_square_m":8614692.238439,
+    "geom:area_square_m":8614692.238438,
     "geom:bbox":"13.0509382182,42.1389953132,13.0938697219,42.1721614474",
     "geom:latitude":42.155218,
     "geom:longitude":13.071827,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057046",
+        "eurostat:nuts_2021_id":"057046",
         "gn:id":6538656,
         "gp:id":12680669,
         "qs_pg:id":204130
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88ad4fdb71bc2a55be46cac51ae2c044",
+    "wof:geomhash":"caedf28e2f66a84a32b06f8bb6a55bea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461455,
-    "wof:lastmodified":1582328131,
+    "wof:lastmodified":1684353739,
     "wof:name":"Nespolo",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":201,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barengo",
+    "eurostat:nuts_2021_id":"003012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003012",
+    "eurostat:population":760,
+    "eurostat:population_year":2020,
     "geom:area":0.002249,
-    "geom:area_square_m":19463311.980211,
+    "geom:area_square_m":19463311.980213,
     "geom:bbox":"8.47819593037,45.5358283533,8.53947702218,45.5990655151",
     "geom:latitude":45.57036,
     "geom:longitude":8.511444,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003012",
+        "eurostat:nuts_2021_id":"003012",
         "gn:id":6543418,
         "gp:id":20075705,
         "qs_pg:id":50257
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04f4c73cc0b14889ace97bb8154e58f3",
+    "wof:geomhash":"9344a3cc7504550fbf56ed0d30d94af6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457657,
-    "wof:lastmodified":1582328104,
+    "wof:lastmodified":1684353655,
     "wof:name":"Barengo",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":760,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

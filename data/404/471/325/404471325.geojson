@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sirmione",
+    "eurostat:nuts_2021_id":"017179",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017179",
+    "eurostat:population":8336,
+    "eurostat:population_year":2020,
     "geom:area":0.003021,
-    "geom:area_square_m":26196394.547175,
+    "geom:area_square_m":26196394.547173,
     "geom:bbox":"10.5759423167,45.4421689142,10.6477918933,45.5083225343",
     "geom:latitude":45.47855,
     "geom:longitude":10.616027,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017179",
+        "eurostat:nuts_2021_id":"017179",
         "gn:id":6541499,
         "gp:id":12681969,
         "qs_pg:id":1078586
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9cd0fb5f2bc142c3735ff9f139e25802",
+    "wof:geomhash":"5ad6294a1315103cdaaf6a1226f925ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404471325,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353938,
     "wof:name":"Sirmione",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":8336,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Intragna",
+    "eurostat:nuts_2021_id":"103037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103037",
+    "eurostat:population":111,
+    "eurostat:population_year":2020,
     "geom:area":0.001153,
-    "geom:area_square_m":9905614.977213,
+    "geom:area_square_m":9905614.977212,
     "geom:bbox":"8.52950728909,45.9815057635,8.58532140155,46.0314016391",
     "geom:latitude":46.008188,
     "geom:longitude":8.562635,
@@ -107,6 +119,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -115,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103037",
+        "eurostat:nuts_2021_id":"103037",
         "gn:id":6543706,
         "gp:id":12676475,
         "qs_pg:id":946791
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"911db030e82d1260e2450862a55945b6",
+    "wof:geomhash":"b7e03bd1349978578955b6de10757eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404459509,
-    "wof:lastmodified":1582328169,
+    "wof:lastmodified":1684353695,
     "wof:name":"Intragna",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":111,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

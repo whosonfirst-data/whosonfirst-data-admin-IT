@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Papasidero",
+    "eurostat:nuts_2021_id":"078092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078092",
+    "eurostat:population":665,
+    "eurostat:population_year":2020,
     "geom:area":0.005768,
-    "geom:area_square_m":54736284.680729,
+    "geom:area_square_m":54736284.680738,
     "geom:bbox":"15.8482538889,39.8258995172,15.9597350658,39.9154839092",
     "geom:latitude":39.872197,
     "geom:longitude":15.908464,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078092",
+        "eurostat:nuts_2021_id":"078092"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"147e48ddc8ec868438588dc8ac56489a",
+    "wof:geomhash":"263e8568914b8c70084a8f74dbb896e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404464251,
-    "wof:lastmodified":1566723221,
+    "wof:lastmodified":1684353801,
     "wof:name":"Papasidero",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":665,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

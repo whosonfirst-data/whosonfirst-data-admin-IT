@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Rinaldo",
+    "eurostat:nuts_2021_id":"109021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109021",
+    "eurostat:population":336,
+    "eurostat:population_year":2020,
     "geom:area":0.000873,
-    "geom:area_square_m":7887540.403654,
+    "geom:area_square_m":7887540.403656,
     "geom:bbox":"13.5590548749,43.0081572948,13.6012719022,43.0514157402",
     "geom:latitude":43.029434,
     "geom:longitude":13.581763,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109021",
+        "eurostat:nuts_2021_id":"109021",
         "gn:id":6541876,
         "gp:id":12681669,
         "qs_pg:id":231296
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef76bd67bc4f51f68f3050099b1ee6cf",
+    "wof:geomhash":"c7d65b01078b724b127219a7566cc0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461173,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353733,
     "wof:name":"Monte Rinaldo",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":336,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

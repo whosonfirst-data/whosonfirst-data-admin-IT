@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blufi",
+    "eurostat:nuts_2021_id":"082082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082082",
+    "eurostat:population":931,
+    "eurostat:population_year":2020,
     "geom:area":0.002237,
-    "geom:area_square_m":21878672.659557,
+    "geom:area_square_m":21878672.659551,
     "geom:bbox":"14.0434744064,37.6900684028,14.1948014635,37.7798502255",
     "geom:latitude":37.733472,
     "geom:longitude":14.119702,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082082",
+        "eurostat:nuts_2021_id":"082082",
         "gn:id":6543642,
         "gp:id":20077038,
         "qs_pg:id":51044
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a148ff0b19cf44a8494260fa6f396446",
+    "wof:geomhash":"3ff5bcf54f44da24cf83d263683316c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466185,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353844,
     "wof:name":"Blufi",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":931,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

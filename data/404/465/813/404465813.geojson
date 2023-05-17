@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camerata Cornello",
+    "eurostat:nuts_2021_id":"016048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016048",
+    "eurostat:population":599,
+    "eurostat:population_year":2020,
     "geom:area":0.001502,
     "geom:area_square_m":12923090.122184,
     "geom:bbox":"9.61423266697,45.8921025861,9.66756714907,45.9365427296",
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_016048",
+        "eurostat:nuts_2021_id":"016048"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"46284f7e3620b4a4370d82611b51d044",
+    "wof:geomhash":"67b433910d548084cc354f6b5297b276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404465813,
-    "wof:lastmodified":1566723297,
+    "wof:lastmodified":1684353838,
     "wof:name":"Camerata Cornello",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":599,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

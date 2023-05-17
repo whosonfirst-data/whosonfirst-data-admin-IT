@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eraclea",
+    "eurostat:nuts_2021_id":"027013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027013",
+    "eurostat:population":12224,
+    "eurostat:population_year":2020,
     "geom:area":0.010993,
-    "geom:area_square_m":95115597.353701,
+    "geom:area_square_m":95115597.353708,
     "geom:bbox":"12.6346412413,45.5322580668,12.8171445594,45.651581265",
     "geom:latitude":45.594991,
     "geom:longitude":12.719874,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027013",
+        "eurostat:nuts_2021_id":"027013",
         "gn:id":6539642,
         "gp:id":12677908,
         "qs_pg:id":1122875
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1602bb4e170e7006d6909b8dd41e790",
+    "wof:geomhash":"9648bae988af8f287fc240a6831b6295",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404458757,
-    "wof:lastmodified":1582327953,
+    "wof:lastmodified":1684353676,
     "wof:name":"Eraclea",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":12224,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

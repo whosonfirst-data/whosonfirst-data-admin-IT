@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelfranco di Sotto",
+    "eurostat:nuts_2021_id":"050009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050009",
+    "eurostat:population":13464,
+    "eurostat:population_year":2020,
     "geom:area":0.005401,
-    "geom:area_square_m":48243562.979758,
+    "geom:area_square_m":48243562.979759,
     "geom:bbox":"10.6449105705,43.6920469882,10.769174354,43.8062601661",
     "geom:latitude":43.753172,
     "geom:longitude":10.70294,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050009",
+        "eurostat:nuts_2021_id":"050009",
         "gn:id":6538573,
         "gp:id":12678229,
         "qs_pg:id":1317099
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d55e503d19367d697f85b8be490ca1f0",
+    "wof:geomhash":"b0d12471cf4dddadce92526ad28982f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472901,
-    "wof:lastmodified":1582327879,
+    "wof:lastmodified":1684353972,
     "wof:name":"Castelfranco Di Sotto",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":13464,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

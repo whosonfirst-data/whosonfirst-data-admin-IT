@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallarate",
+    "eurostat:nuts_2021_id":"012070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012070",
+    "eurostat:population":53934,
+    "eurostat:population_year":2020,
     "geom:area":0.002424,
-    "geom:area_square_m":20950787.753183,
+    "geom:area_square_m":20950787.75318,
     "geom:bbox":"8.75402609046,45.6313300978,8.83228076627,45.6903618413",
     "geom:latitude":45.662799,
     "geom:longitude":8.793224,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012070",
+        "eurostat:nuts_2021_id":"012070",
         "gn:id":6537078,
         "gp:id":12679467,
         "qs_pg:id":1150682
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e27a658754a5196aedb2b9da8d27a78c",
+    "wof:geomhash":"37d94dc79c8514be0ba4bc9bc6165c89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467769,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353879,
     "wof:name":"Gallarate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":53934,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

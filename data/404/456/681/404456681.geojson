@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni in Fiore",
+    "eurostat:nuts_2021_id":"078119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078119",
+    "eurostat:population":16671,
+    "eurostat:population_year":2020,
     "geom:area":0.029198,
-    "geom:area_square_m":279513053.198139,
+    "geom:area_square_m":279513053.198121,
     "geom:bbox":"16.4908935426,39.189492958,16.7782102745,39.3773119866",
     "geom:latitude":39.267715,
     "geom:longitude":16.649929,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078119",
+        "eurostat:nuts_2021_id":"078119"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4e935d83230b125d0aa60a5668b6396c",
+    "wof:geomhash":"22315f17d5dbcee3a0ce6b0ff5d822b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404456681,
-    "wof:lastmodified":1566723576,
+    "wof:lastmodified":1684353630,
     "wof:name":"San Giovanni In Fiore",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":16671,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

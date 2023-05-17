@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montieri",
+    "eurostat:nuts_2021_id":"053017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053017",
+    "eurostat:population":1163,
+    "eurostat:population_year":2020,
     "geom:area":0.011971,
-    "geom:area_square_m":108035526.873677,
+    "geom:area_square_m":108035526.873659,
     "geom:bbox":"10.908722559,43.0367565175,11.0915062902,43.1891129298",
     "geom:latitude":43.123572,
     "geom:longitude":11.016717,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053017",
+        "eurostat:nuts_2021_id":"053017",
         "gn:id":6536860,
         "gp:id":12676847,
         "qs_pg:id":39271
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfd85bdca01dc7a62eb87cd383c20340",
+    "wof:geomhash":"a512a1572aea6a7b4d8faec8d1b73fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463913,
-    "wof:lastmodified":1582327776,
+    "wof:lastmodified":1684353790,
     "wof:name":"Montieri",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":1163,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

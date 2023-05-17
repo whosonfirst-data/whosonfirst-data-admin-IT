@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anoia",
+    "eurostat:nuts_2021_id":"080003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080003",
+    "eurostat:population":2102,
+    "eurostat:population_year":2020,
     "geom:area":0.00104,
-    "geom:area_square_m":10074859.066765,
+    "geom:area_square_m":10074859.066768,
     "geom:bbox":"16.0359948274,38.4237631698,16.1172593309,38.4713667563",
     "geom:latitude":38.443435,
     "geom:longitude":16.069704,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080003",
+        "eurostat:nuts_2021_id":"080003",
         "gn:id":6541580,
         "gp:id":12676111,
         "qs_pg:id":946760
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e2078bb909f29734ae9b92735ecbfdc",
+    "wof:geomhash":"870039513ea3bc179e884cb0781291f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464479,
-    "wof:lastmodified":1582327795,
+    "wof:lastmodified":1684353807,
     "wof:name":"Anoia",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":2102,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

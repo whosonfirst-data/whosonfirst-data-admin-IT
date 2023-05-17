@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valentano",
+    "eurostat:nuts_2021_id":"056053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056053",
+    "eurostat:population":2811,
+    "eurostat:population_year":2020,
     "geom:area":0.004768,
-    "geom:area_square_m":43404718.705252,
+    "geom:area_square_m":43404718.705248,
     "geom:bbox":"11.7352582979,42.5389215413,11.8461194549,42.6396151375",
     "geom:latitude":42.585108,
     "geom:longitude":11.794879,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056053",
+        "eurostat:nuts_2021_id":"056053",
         "gn:id":6536912,
         "gp:id":12682333,
         "qs_pg:id":1009351
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de2c0a117c8a4902a9479f1106f2e501",
+    "wof:geomhash":"123bfcfadfd3c16876b25af64cb49a02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461335,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353737,
     "wof:name":"Valentano",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":2811,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

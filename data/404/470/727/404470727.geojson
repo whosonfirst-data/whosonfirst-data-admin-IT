@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varmo",
+    "eurostat:nuts_2021_id":"030130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030130",
+    "eurostat:population":2710,
+    "eurostat:population_year":2020,
     "geom:area":0.004041,
-    "geom:area_square_m":34782063.642388,
+    "geom:area_square_m":34782063.642392,
     "geom:bbox":"12.9486114497,45.823350115,13.0408913788,45.9235930696",
     "geom:latitude":45.881799,
     "geom:longitude":12.992828,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030130",
+        "eurostat:nuts_2021_id":"030130",
         "gn:id":6539699,
         "gp:id":12677548,
         "qs_pg:id":1314188
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cdab2c988f4fd1942e8c8de54e291841",
+    "wof:geomhash":"1ae7c3b9572827dfb351da2ab0c73d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470727,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353926,
     "wof:name":"Varmo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2710,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

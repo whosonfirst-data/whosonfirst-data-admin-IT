@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gabbioneta-Binanuova",
+    "eurostat:nuts_2021_id":"019045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019045",
+    "eurostat:population":881,
+    "eurostat:population_year":2020,
     "geom:area":0.0018,
-    "geom:area_square_m":15682402.43484,
+    "geom:area_square_m":15682402.434841,
     "geom:bbox":"10.1603264428,45.1946018386,10.246884718,45.2421686842",
     "geom:latitude":45.218164,
     "geom:longitude":10.204577,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019045",
+        "eurostat:nuts_2021_id":"019045",
         "gn:id":6535944,
         "gp:id":12676795,
         "qs_pg:id":50742
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e159f7602cc2d79ee46078d52a6d7b53",
+    "wof:geomhash":"b55f93d3f7db815628fa27c24e78cb9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468907,
-    "wof:lastmodified":1582328074,
+    "wof:lastmodified":1684353896,
     "wof:name":"Gabbioneta-Binanuova",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":881,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veronella",
+    "eurostat:nuts_2021_id":"023092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023092",
+    "eurostat:population":5127,
+    "eurostat:population_year":2020,
     "geom:area":0.002396,
-    "geom:area_square_m":20833595.076132,
+    "geom:area_square_m":20833595.076138,
     "geom:bbox":"11.268465539,45.2692955721,11.3577925718,45.3524279979",
     "geom:latitude":45.318414,
     "geom:longitude":11.317641,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023092",
+        "eurostat:nuts_2021_id":"023092",
         "gn:id":6538248,
         "gp:id":12676195,
         "qs_pg:id":934681
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddc37580d1c7bbfda8950f99f02c57b6",
+    "wof:geomhash":"65a54ac83bf6b9e0b7a80065899c41c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469735,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353909,
     "wof:name":"Veronella",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":5127,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

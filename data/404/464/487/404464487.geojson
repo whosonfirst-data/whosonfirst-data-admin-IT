@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnara Calabra",
+    "eurostat:nuts_2021_id":"080007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080007",
+    "eurostat:population":9883,
+    "eurostat:population_year":2020,
     "geom:area":0.002539,
-    "geom:area_square_m":24641496.710089,
+    "geom:area_square_m":24641496.710088,
     "geom:bbox":"15.7701169088,38.2509886724,15.8578356052,38.3150868012",
     "geom:latitude":38.281401,
     "geom:longitude":15.816934,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080007",
+        "eurostat:nuts_2021_id":"080007",
         "gn:id":6539094,
         "gp:id":20077003,
         "qs_pg:id":1311220
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"635995d4cc8c13b3c5ad31f4edb0053e",
+    "wof:geomhash":"eee571922628283192f9021498a4392c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464487,
-    "wof:lastmodified":1582327803,
+    "wof:lastmodified":1684353807,
     "wof:name":"Bagnara Calabra",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":9883,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urgnano",
+    "eurostat:nuts_2021_id":"016222",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016222",
+    "eurostat:population":9925,
+    "eurostat:population_year":2020,
     "geom:area":0.001706,
-    "geom:area_square_m":14755117.589923,
+    "geom:area_square_m":14755117.589922,
     "geom:bbox":"9.67480987415,45.5810988526,9.74253104687,45.6226072733",
     "geom:latitude":45.604384,
     "geom:longitude":9.707357,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016222",
+        "eurostat:nuts_2021_id":"016222",
         "gn:id":6541672,
         "gp:id":12682303,
         "qs_pg:id":1321601
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42a8017908b3972eb37fdc7aa9c424bb",
+    "wof:geomhash":"4bb138de12709702d08b19bd28a49b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404470859,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353929,
     "wof:name":"Urgnano",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":9925,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaby",
+    "eurostat:nuts_2021_id":"007029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007029",
+    "eurostat:population":448,
+    "eurostat:population_year":2020,
     "geom:area":0.00372,
-    "geom:area_square_m":32116687.737106,
+    "geom:area_square_m":32116687.737108,
     "geom:bbox":"7.81647240903,45.681223431,7.93666222147,45.7395109432",
     "geom:latitude":45.71482,
     "geom:longitude":7.884372,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007029",
+        "eurostat:nuts_2021_id":"007029",
         "gn:id":6537030,
         "gp:id":12679446,
         "qs_pg:id":1059638
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a02502833913d7a710b2012e632c2627",
+    "wof:geomhash":"bedb0f1c1f5baf0e78ff23d2baeb9d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404459287,
-    "wof:lastmodified":1582328157,
+    "wof:lastmodified":1684353691,
     "wof:name":"Gaby",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":448,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

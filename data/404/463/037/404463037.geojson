@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Francolise",
+    "eurostat:nuts_2021_id":"061036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061036",
+    "eurostat:population":4721,
+    "eurostat:population_year":2020,
     "geom:area":0.004374,
-    "geom:area_square_m":40725312.63819,
+    "geom:area_square_m":40725312.638191,
     "geom:bbox":"14.0162622236,41.1084419594,14.0986849215,41.2154318833",
     "geom:latitude":41.157359,
     "geom:longitude":14.058093,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061036",
+        "eurostat:nuts_2021_id":"061036",
         "gn:id":6539454,
         "gp:id":12678643,
         "qs_pg:id":1013001
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"277931217c6bc74449bb67daf54228c4",
+    "wof:geomhash":"d61ffcff8179b14592dd8127f33f69ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463037,
-    "wof:lastmodified":1582327772,
+    "wof:lastmodified":1684353771,
     "wof:name":"Francolise",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":4721,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

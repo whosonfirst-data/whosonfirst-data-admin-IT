@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faleria",
+    "eurostat:nuts_2021_id":"056025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056025",
+    "eurostat:population":2089,
+    "eurostat:population_year":2020,
     "geom:area":0.002797,
-    "geom:area_square_m":25609639.682332,
+    "geom:area_square_m":25609639.682338,
     "geom:bbox":"12.4077870016,42.200133806,12.4838312446,42.2709441648",
     "geom:latitude":42.237436,
     "geom:longitude":12.444491,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056025",
+        "eurostat:nuts_2021_id":"056025",
         "gn:id":6540500,
         "gp:id":12679188,
         "qs_pg:id":1314449
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2792e966129862751ac1a7be3070a842",
+    "wof:geomhash":"46d84be81244a70da3bc0842dba668c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461273,
-    "wof:lastmodified":1582328127,
+    "wof:lastmodified":1684353735,
     "wof:name":"Faleria",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":2089,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

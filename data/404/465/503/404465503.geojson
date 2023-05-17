@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buonabitacolo",
+    "eurostat:nuts_2021_id":"065018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065018",
+    "eurostat:population":2509,
+    "eurostat:population_year":2020,
     "geom:area":0.001634,
-    "geom:area_square_m":15415257.138664,
+    "geom:area_square_m":15415257.13866,
     "geom:bbox":"15.6031139378,40.2542075912,15.6470331549,40.3161318334",
     "geom:latitude":40.282619,
     "geom:longitude":15.623486,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065018",
+        "eurostat:nuts_2021_id":"065018",
         "gn:id":6538807,
         "gp:id":12677177,
         "qs_pg:id":946829
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3727e36016fc3a359dfc8246de2d1686",
+    "wof:geomhash":"5ffc4c89a555d7c58dc5a65ac97d38c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465503,
-    "wof:lastmodified":1582327826,
+    "wof:lastmodified":1684353832,
     "wof:name":"Buonabitacolo",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2509,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

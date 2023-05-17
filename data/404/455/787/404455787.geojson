@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roddino",
+    "eurostat:nuts_2021_id":"004195",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004195",
+    "eurostat:population":420,
+    "eurostat:population_year":2020,
     "geom:area":0.0012,
-    "geom:area_square_m":10570134.53559,
+    "geom:area_square_m":10570134.535588,
     "geom:bbox":"7.98913398126,44.5453954417,8.04959767353,44.5950595263",
     "geom:latitude":44.57522,
     "geom:longitude":8.018301,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004195",
+        "eurostat:nuts_2021_id":"004195",
         "gn:id":6542372,
         "gp:id":20075806,
         "qs_pg:id":1003919
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a8700b4cb445028297cd7032631fd3d",
+    "wof:geomhash":"c544c930a444572ce4ed510287f2dcfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455787,
-    "wof:lastmodified":1582327823,
+    "wof:lastmodified":1684353610,
     "wof:name":"Roddino",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

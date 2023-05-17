@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belgioioso",
+    "eurostat:nuts_2021_id":"018013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018013",
+    "eurostat:population":6312,
+    "eurostat:population_year":2020,
     "geom:area":0.002827,
-    "geom:area_square_m":24652792.504898,
+    "geom:area_square_m":24652792.504896,
     "geom:bbox":"9.25855747702,45.1194560247,9.36550149417,45.1733992083",
     "geom:latitude":45.146943,
     "geom:longitude":9.30476,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018013",
+        "eurostat:nuts_2021_id":"018013",
         "gn:id":6536198,
         "gp:id":12676663,
         "qs_pg:id":1108083
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee88dd75b81dbbc61affa664ba129492",
+    "wof:geomhash":"0099b34854d47c34ef88e4da5ceb1b24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404458293,
-    "wof:lastmodified":1582327945,
+    "wof:lastmodified":1684353667,
     "wof:name":"Belgioioso",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":6312,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

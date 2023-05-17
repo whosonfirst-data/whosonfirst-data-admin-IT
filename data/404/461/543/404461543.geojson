@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellegra",
+    "eurostat:nuts_2021_id":"058012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058012",
+    "eurostat:population":2800,
+    "eurostat:population_year":2020,
     "geom:area":0.002033,
-    "geom:area_square_m":18716637.890718,
+    "geom:area_square_m":18716637.890716,
     "geom:bbox":"12.9910660198,41.8592253338,13.0557198398,41.9180853806",
     "geom:latitude":41.889306,
     "geom:longitude":13.02156,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058012",
+        "eurostat:nuts_2021_id":"058012",
         "gn:id":6536940,
         "gp:id":12676675,
         "qs_pg:id":39156
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63591171f9f86a03647de2845b2a11be",
+    "wof:geomhash":"8efc3a6b46bc48e7222aaa86fe8f998f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461543,
-    "wof:lastmodified":1582328134,
+    "wof:lastmodified":1684353740,
     "wof:name":"Bellegra",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":2800,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

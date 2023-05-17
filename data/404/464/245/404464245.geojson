@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paludi",
+    "eurostat:nuts_2021_id":"078089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078089",
+    "eurostat:population":1031,
+    "eurostat:population_year":2020,
     "geom:area":0.00433,
-    "geom:area_square_m":41291738.044183,
+    "geom:area_square_m":41291738.044191,
     "geom:bbox":"16.6281504205,39.4912251063,16.7271285624,39.5728801884",
     "geom:latitude":39.531902,
     "geom:longitude":16.676596,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078089",
+        "eurostat:nuts_2021_id":"078089"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"472ffe2659e6ed2776d7c80c5505a3b1",
+    "wof:geomhash":"f36dd4e1d242d7668fea904f1cd27830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464245,
-    "wof:lastmodified":1566723215,
+    "wof:lastmodified":1684353801,
     "wof:name":"Paludi",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1031,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

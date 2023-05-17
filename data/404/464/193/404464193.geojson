@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lattarico",
+    "eurostat:nuts_2021_id":"078066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078066",
+    "eurostat:population":3931,
+    "eurostat:population_year":2020,
     "geom:area":0.004558,
-    "geom:area_square_m":43520035.479025,
+    "geom:area_square_m":43520035.479022,
     "geom:bbox":"16.0698688908,39.4307234438,16.2496139066,39.4812447302",
     "geom:latitude":39.451217,
     "geom:longitude":16.176768,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078066",
+        "eurostat:nuts_2021_id":"078066"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6766eab85036c640f5c5ede2dc4451e4",
+    "wof:geomhash":"8c6087daabac1738150a885b4489dba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464193,
-    "wof:lastmodified":1566723212,
+    "wof:lastmodified":1684353799,
     "wof:name":"Lattarico",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":3931,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

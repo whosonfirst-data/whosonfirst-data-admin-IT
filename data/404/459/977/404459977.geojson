@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acqui Terme",
+    "eurostat:nuts_2021_id":"006001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006001",
+    "eurostat:population":19732,
+    "eurostat:population_year":2020,
     "geom:area":0.003782,
-    "geom:area_square_m":33253062.869581,
+    "geom:area_square_m":33253062.869584,
     "geom:bbox":"8.40877440364,44.6368753029,8.5122857252,44.7110778856",
     "geom:latitude":44.680925,
     "geom:longitude":8.463802,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006001",
+        "eurostat:nuts_2021_id":"006001",
         "gn:id":6538185,
         "gp:id":12675786,
         "qs_pg:id":1292084
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a4be618e8b30e1060df5cbcf85d075c",
+    "wof:geomhash":"563b71895bec710a72e4e53d82d03348",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404459977,
-    "wof:lastmodified":1582328163,
+    "wof:lastmodified":1684353706,
     "wof:name":"Acqui Terme",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":19732,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

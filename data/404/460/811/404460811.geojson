@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte",
+    "eurostat:nuts_2021_id":"062053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062053",
+    "eurostat:population":2512,
+    "eurostat:population_year":2020,
     "geom:area":0.001915,
-    "geom:area_square_m":17807300.367663,
+    "geom:area_square_m":17807300.367666,
     "geom:bbox":"14.6451645467,41.2051800125,14.7246740135,41.2411498437",
     "geom:latitude":41.223518,
     "geom:longitude":14.685624,
@@ -92,6 +104,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -99,9 +113,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_062053",
+        "eurostat:nuts_2021_id":"062053"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d64949fbe200a46f6e8b87e037df7f3f",
+    "wof:geomhash":"3043c36d8ca4afb04b7abb270ca5c508",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +129,12 @@
         }
     ],
     "wof:id":404460811,
-    "wof:lastmodified":1566723505,
+    "wof:lastmodified":1684353725,
     "wof:name":"Ponte",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2512,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

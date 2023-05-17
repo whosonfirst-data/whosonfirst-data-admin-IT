@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camugnano",
+    "eurostat:nuts_2021_id":"037010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037010",
+    "eurostat:population":1843,
+    "eurostat:population_year":2020,
     "geom:area":0.010868,
-    "geom:area_square_m":96420123.408587,
+    "geom:area_square_m":96420123.408582,
     "geom:bbox":"11.0291998819,44.0894130741,11.178966746,44.2145836757",
     "geom:latitude":44.152862,
     "geom:longitude":11.095996,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037010",
+        "eurostat:nuts_2021_id":"037010",
         "gn:id":6536738,
         "gp:id":12676476,
         "qs_pg:id":1195810
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6282573759af6e9fec0cc143e24beca0",
+    "wof:geomhash":"086c81f13e7085cf62c19107b1f3f717",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472245,
-    "wof:lastmodified":1582327882,
+    "wof:lastmodified":1684353955,
     "wof:name":"Camugnano",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":1843,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

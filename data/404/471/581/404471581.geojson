@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Genesio ed Uniti",
+    "eurostat:nuts_2021_id":"018135",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018135",
+    "eurostat:population":3952,
+    "eurostat:population_year":2020,
     "geom:area":0.001063,
-    "geom:area_square_m":9255569.514754,
+    "geom:area_square_m":9255569.514752,
     "geom:bbox":"9.15673415374,45.2176135513,9.21659003779,45.2558270294",
     "geom:latitude":45.237675,
     "geom:longitude":9.189546,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018135",
+        "eurostat:nuts_2021_id":"018135",
         "gn:id":6536181,
         "gp:id":12681624,
         "qs_pg:id":948555
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6105ce1615ae9670eecc903fbb08e75f",
+    "wof:geomhash":"255d4450bc471182af320fd3daa8fa72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471581,
-    "wof:lastmodified":1582327720,
+    "wof:lastmodified":1684353942,
     "wof:name":"San Genesio Ed Uniti",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":3952,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

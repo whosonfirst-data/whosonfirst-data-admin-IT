@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grottammare",
+    "eurostat:nuts_2021_id":"044023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044023",
+    "eurostat:population":16124,
+    "eurostat:population_year":2020,
     "geom:area":0.00198,
     "geom:area_square_m":17909872.117014,
     "geom:bbox":"13.8152256231,42.9571843641,13.8818766908,43.0101357614",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044023",
+        "eurostat:nuts_2021_id":"044023",
         "gn:id":6538534,
         "gp:id":12676932,
         "qs_pg:id":1277024
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"032eb487bd6641b01617da1e54fb9217",
+    "wof:geomhash":"90d90493667dc1e3d32f040911fcbe1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404461087,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353731,
     "wof:name":"Grottammare",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":16124,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

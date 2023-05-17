@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soncino",
+    "eurostat:nuts_2021_id":"019097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019097",
+    "eurostat:population":7601,
+    "eurostat:population_year":2020,
     "geom:area":0.005212,
-    "geom:area_square_m":45250152.429788,
+    "geom:area_square_m":45250152.429784,
     "geom:bbox":"9.80726136307,45.3507815718,9.89342358821,45.4573216548",
     "geom:latitude":45.406951,
     "geom:longitude":9.852573,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019097",
+        "eurostat:nuts_2021_id":"019097",
         "gn:id":6537223,
         "gp:id":12679474,
         "qs_pg:id":1095081
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16f7f0a04af4a11d526b95e899c144ac",
+    "wof:geomhash":"dc4951660900c39ef93f53808480695a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404469023,
-    "wof:lastmodified":1582328025,
+    "wof:lastmodified":1684353898,
     "wof:name":"Soncino",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":7601,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bracca",
+    "eurostat:nuts_2021_id":"016035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016035",
+    "eurostat:population":715,
+    "eurostat:population_year":2020,
     "geom:area":0.000633,
-    "geom:area_square_m":5456506.400236,
+    "geom:area_square_m":5456506.400235,
     "geom:bbox":"9.68827777204,45.8061702443,9.72185967614,45.8375511682",
     "geom:latitude":45.82089,
     "geom:longitude":9.705122,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016035",
+        "eurostat:nuts_2021_id":"016035",
         "gn:id":6543745,
         "gp:id":20076160,
         "qs_pg:id":1166759
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ae8fb198cc74b379fd8d76683701b28",
+    "wof:geomhash":"5953c1e030ea9eeab306ce8a20e8fe38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468679,
-    "wof:lastmodified":1582328088,
+    "wof:lastmodified":1684353893,
     "wof:name":"Bracca",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":715,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

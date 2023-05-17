@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seravezza",
+    "eurostat:nuts_2021_id":"046028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046028",
+    "eurostat:population":12771,
+    "eurostat:population_year":2020,
     "geom:area":0.004442,
-    "geom:area_square_m":39496961.595365,
+    "geom:area_square_m":39496961.59535,
     "geom:bbox":"10.1709176811,43.966877142,10.2679589624,44.0716031264",
     "geom:latitude":44.017615,
     "geom:longitude":10.227573,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046028",
+        "eurostat:nuts_2021_id":"046028",
         "gn:id":6541644,
         "gp:id":12676380,
         "qs_pg:id":1142808
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12de9c936bbc9f40dfc8dead68845bdf",
+    "wof:geomhash":"50d2b89d4890fff497b54f62e7cc642e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472671,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353967,
     "wof:name":"Seravezza",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":12771,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

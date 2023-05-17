@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pumenengo",
+    "eurostat:nuts_2021_id":"016177",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016177",
+    "eurostat:population":1699,
+    "eurostat:population_year":2020,
     "geom:area":0.001165,
     "geom:area_square_m":10099307.439227,
     "geom:bbox":"9.83202575271,45.4539410176,9.89230489622,45.4897214286",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016177",
+        "eurostat:nuts_2021_id":"016177",
         "gn:id":6541423,
         "gp:id":12681290,
         "qs_pg:id":386917
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43b5514ad785c164e41dd9f9e336bf62",
+    "wof:geomhash":"7527c0a4eaab2f5ce0ad64ce3f2173ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466097,
-    "wof:lastmodified":1582328192,
+    "wof:lastmodified":1684353842,
     "wof:name":"Pumenengo",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1699,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

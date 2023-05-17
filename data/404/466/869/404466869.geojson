@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Sperate",
+    "eurostat:nuts_2021_id":"111065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111065",
+    "eurostat:population":8420,
+    "eurostat:population_year":2020,
     "geom:area":0.002744,
-    "geom:area_square_m":26240432.657577,
+    "geom:area_square_m":26240432.657575,
     "geom:bbox":"8.97547144651,39.3268465827,9.06040370761,39.3818483658",
     "geom:latitude":39.352397,
     "geom:longitude":9.013692,
@@ -167,6 +179,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -174,9 +188,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_111065",
+        "eurostat:nuts_2021_id":"111065"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9618b89cf2f9cf4049b961a92dff053d",
+    "wof:geomhash":"5fa6c561f0631287aa0c404dba747604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,10 +204,12 @@
         }
     ],
     "wof:id":404466869,
-    "wof:lastmodified":1566723775,
+    "wof:lastmodified":1684353860,
     "wof:name":"San Sperate",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":8420,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Decollatura",
+    "eurostat:nuts_2021_id":"079043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079043",
+    "eurostat:population":3039,
+    "eurostat:population_year":2020,
     "geom:area":0.005241,
-    "geom:area_square_m":50326415.138206,
+    "geom:area_square_m":50326415.138211,
     "geom:bbox":"16.3137989285,39.0097044915,16.4376561945,39.1031837461",
     "geom:latitude":39.045645,
     "geom:longitude":16.365267,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079043",
+        "eurostat:nuts_2021_id":"079043"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"63b404c4f1fd4335193429d517c5db8b",
+    "wof:geomhash":"875401e3a3d56b63f65d1f6f26d8a3df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464345,
-    "wof:lastmodified":1566723247,
+    "wof:lastmodified":1684353803,
     "wof:name":"Decollatura",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":3039,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

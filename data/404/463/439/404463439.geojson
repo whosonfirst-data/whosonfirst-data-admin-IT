@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelluccio Inferiore",
+    "eurostat:nuts_2021_id":"076022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076022",
+    "eurostat:population":1993,
+    "eurostat:population_year":2020,
     "geom:area":0.003031,
-    "geom:area_square_m":28703676.980413,
+    "geom:area_square_m":28703676.980417,
     "geom:bbox":"15.965621997,39.9823456154,16.0562709673,40.0411196722",
     "geom:latitude":40.013497,
     "geom:longitude":16.011671,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076022",
+        "eurostat:nuts_2021_id":"076022",
         "gn:id":6541272,
         "gp:id":12678289,
         "qs_pg:id":1122888
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3755c0311332eb381abf80e7ee852151",
+    "wof:geomhash":"1ceccf0528aa47787facf11dff65e780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404463439,
-    "wof:lastmodified":1582327769,
+    "wof:lastmodified":1684353780,
     "wof:name":"Castelluccio Inferiore",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":1993,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Salvo",
+    "eurostat:nuts_2021_id":"069083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069083",
+    "eurostat:population":19968,
+    "eurostat:population_year":2020,
     "geom:area":0.002132,
-    "geom:area_square_m":19577226.80941,
+    "geom:area_square_m":19577226.809409,
     "geom:bbox":"14.7124305991,42.0133882079,14.7830901093,42.0805519318",
     "geom:latitude":42.046553,
     "geom:longitude":14.752591,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069083",
+        "eurostat:nuts_2021_id":"069083",
         "gn:id":6537494,
         "gp:id":12681759,
         "qs_pg:id":1108912
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"001a035173c3cf4195db58a4e7915309",
+    "wof:geomhash":"d406714b2d3df0dc4a97529215249fee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404462705,
-    "wof:lastmodified":1582327863,
+    "wof:lastmodified":1684353763,
     "wof:name":"San Salvo",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":19968,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osio Sopra",
+    "eurostat:nuts_2021_id":"016152",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016152",
+    "eurostat:population":5326,
+    "eurostat:population_year":2020,
     "geom:area":0.000598,
     "geom:area_square_m":5174339.754249,
     "geom:bbox":"9.55827350699,45.6218602115,9.6126543444,45.6389029989",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016152",
+        "eurostat:nuts_2021_id":"016152",
         "gn:id":6543751,
         "gp:id":20076201,
         "qs_pg:id":922892
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bcbe63424820c04f004249df7270c924",
+    "wof:geomhash":"f08b609e7db8f4635848ee0b4cedc785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404466041,
-    "wof:lastmodified":1582328186,
+    "wof:lastmodified":1684353841,
     "wof:name":"Osio Sopra",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":5326,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontanigorda",
+    "eurostat:nuts_2021_id":"010024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010024",
+    "eurostat:population":253,
+    "eurostat:population_year":2020,
     "geom:area":0.001831,
-    "geom:area_square_m":16142744.551144,
+    "geom:area_square_m":16142744.551145,
     "geom:bbox":"9.25476903775,44.5135775237,9.33402920681,44.5504532777",
     "geom:latitude":44.531119,
     "geom:longitude":9.294526,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010024",
+        "eurostat:nuts_2021_id":"010024",
         "gn:id":6540148,
         "gp:id":12679333,
         "qs_pg:id":988538
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f157c57accadc8c18a6d224d2717cbf",
+    "wof:geomhash":"49b270f8f4d69cbdb111c4f1fa79a1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471973,
-    "wof:lastmodified":1582327732,
+    "wof:lastmodified":1684353949,
     "wof:name":"Fontanigorda",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":253,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

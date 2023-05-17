@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Padru",
+    "eurostat:nuts_2021_id":"090090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090090",
+    "eurostat:population":2107,
+    "eurostat:population_year":2020,
     "geom:area":0.016853,
-    "geom:area_square_m":157933908.131752,
+    "geom:area_square_m":157933908.131753,
     "geom:bbox":"9.4232734297,40.644832921,9.58365229458,40.8023657228",
     "geom:latitude":40.721526,
     "geom:longitude":9.51015,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090090",
+        "eurostat:nuts_2021_id":"090090",
         "gn:id":6539896,
         "gp:id":20076820,
         "qs_pg:id":1206293
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4d0c870cf186b52b7133dd359c9e9b7",
+    "wof:geomhash":"85d84e7c4e2d122949d87085c9ac087b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467203,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353868,
     "wof:name":"Padru",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2107,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

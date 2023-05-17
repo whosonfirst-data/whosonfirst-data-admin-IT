@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montemagno",
+    "eurostat:nuts_2021_id":"005077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005077",
+    "eurostat:population":1080,
+    "eurostat:population_year":2020,
     "geom:area":0.001838,
     "geom:area_square_m":16074925.709101,
     "geom:bbox":"8.30313647392,44.9411651054,8.35754743272,45.0017595746",
@@ -50,6 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -58,6 +72,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005077",
+        "eurostat:nuts_2021_id":"005077",
         "gn:id":6539607,
         "gp:id":12680528,
         "qs_pg:id":226029
@@ -66,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7dc907bcb314646b7bb9d6a7525d24b0",
+    "wof:geomhash":"56e161942c690057ac71a6b9f53f8c44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404456081,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353616,
     "wof:name":"Montemagno",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1080,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

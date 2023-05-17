@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brebbia",
+    "eurostat:nuts_2021_id":"012017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012017",
+    "eurostat:population":3208,
+    "eurostat:population_year":2020,
     "geom:area":0.000796,
-    "geom:area_square_m":6857850.565344,
+    "geom:area_square_m":6857850.565343,
     "geom:bbox":"8.59509702525,45.815503903,8.67118991645,45.8426446962",
     "geom:latitude":45.831109,
     "geom:longitude":8.640467,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012017",
+        "eurostat:nuts_2021_id":"012017",
         "gn:id":6536480,
         "gp:id":12677078,
         "qs_pg:id":191416
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8a796afd3e866175460bd62ef247a59",
+    "wof:geomhash":"f0ae9d259aa06dc36534f043993bf90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467411,
-    "wof:lastmodified":1582327983,
+    "wof:lastmodified":1684353873,
     "wof:name":"Brebbia",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":3208,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

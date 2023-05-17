@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legnago",
+    "eurostat:nuts_2021_id":"023044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023044",
+    "eurostat:population":25570,
+    "eurostat:population_year":2020,
     "geom:area":0.009073,
-    "geom:area_square_m":79099367.968207,
+    "geom:area_square_m":79099367.968213,
     "geom:bbox":"11.2442739762,45.079445552,11.3666534242,45.2301245865",
     "geom:latitude":45.164771,
     "geom:longitude":11.301393,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023044",
+        "eurostat:nuts_2021_id":"023044",
         "gn:id":6539638,
         "gp:id":12677906,
         "qs_pg:id":392491
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4014fe5105ac47e48ea4f69e9c114b39",
+    "wof:geomhash":"7b54f55955dda6927cd54949d97e0ab0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457999,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353661,
     "wof:name":"Legnago",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":25570,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

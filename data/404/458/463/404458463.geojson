@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canda",
+    "eurostat:nuts_2021_id":"029010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029010",
+    "eurostat:population":870,
+    "eurostat:population_year":2020,
     "geom:area":0.001652,
     "geom:area_square_m":14429991.344846,
     "geom:bbox":"11.4789202622,45.0284458246,11.5541176202,45.0653017427",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029010",
+        "eurostat:nuts_2021_id":"029010",
         "gn:id":6543577,
         "gp:id":20076712,
         "qs_pg:id":50877
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2780afb079477247af9c64ae61c66928",
+    "wof:geomhash":"86090a91c2b724deb4d0d75c38e0af20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458463,
-    "wof:lastmodified":1582327944,
+    "wof:lastmodified":1684353670,
     "wof:name":"Canda",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":870,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

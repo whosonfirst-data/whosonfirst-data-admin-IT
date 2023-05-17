@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaggiano",
+    "eurostat:nuts_2021_id":"015103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015103",
+    "eurostat:population":9205,
+    "eurostat:population_year":2020,
     "geom:area":0.00302,
-    "geom:area_square_m":26218167.342446,
+    "geom:area_square_m":26218167.342445,
     "geom:bbox":"8.96684407623,45.364168319,9.07543256682,45.4289604379",
     "geom:latitude":45.400333,
     "geom:longitude":9.025891,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015103",
+        "eurostat:nuts_2021_id":"015103",
         "gn:id":6537116,
         "gp:id":12679450,
         "qs_pg:id":1102122
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e08a05e12db60cc0a67c8244ade3c78",
+    "wof:geomhash":"5e8c407df4e80bddcca73e38a5fb648b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468409,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353888,
     "wof:name":"Gaggiano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":9205,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

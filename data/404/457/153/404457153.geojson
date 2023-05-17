@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lama Mocogno",
+    "eurostat:nuts_2021_id":"036018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036018",
+    "eurostat:population":2668,
+    "eurostat:population_year":2020,
     "geom:area":0.007209,
     "geom:area_square_m":63802827.73317,
     "geom:bbox":"10.6352463226,44.2438455565,10.781939132,44.3659469962",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036018",
+        "eurostat:nuts_2021_id":"036018",
         "gn:id":6541538,
         "gp:id":12676582,
         "qs_pg:id":191360
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2823cd94d76e645b68b443132d4cef37",
+    "wof:geomhash":"85cb32ea0f6eb6c687a104bae25a0c97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457153,
-    "wof:lastmodified":1582328108,
+    "wof:lastmodified":1684353643,
     "wof:name":"Lama Mocogno",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":2668,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

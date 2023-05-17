@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Polesella",
+    "eurostat:nuts_2021_id":"029037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029037",
+    "eurostat:population":3824,
+    "eurostat:population_year":2020,
     "geom:area":0.001871,
-    "geom:area_square_m":16370924.027046,
+    "geom:area_square_m":16370924.027049,
     "geom:bbox":"11.7030300509,44.9407589174,11.7723061668,44.9982161179",
     "geom:latitude":44.969132,
     "geom:longitude":11.739036,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029037",
+        "eurostat:nuts_2021_id":"029037",
         "gn:id":6536683,
         "gp:id":12681178,
         "qs_pg:id":1001500
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acf3daab5eae60069e33065bdfa455b7",
+    "wof:geomhash":"784cbbbad3b0a09c3dbf725ef4928ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470405,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353921,
     "wof:name":"Polesella",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":3824,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

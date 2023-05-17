@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Misterbianco",
+    "eurostat:nuts_2021_id":"087029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087029",
+    "eurostat:population":50171,
+    "eurostat:population_year":2020,
     "geom:area":0.003816,
     "geom:area_square_m":37431281.576904,
     "geom:bbox":"14.9660428659,37.4528951494,15.0562007392,37.5505265959",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087029",
+        "eurostat:nuts_2021_id":"087029",
         "gn:id":6542104,
         "gp:id":12680352,
         "qs_pg:id":1172959
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19e46be0ec2dc8a1df8bf2e46dbb2284",
+    "wof:geomhash":"274a915a10fe56ac11b976b565b75065",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459279,
-    "wof:lastmodified":1582328170,
+    "wof:lastmodified":1684353691,
     "wof:name":"Misterbianco",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":50171,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

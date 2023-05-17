@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrita Tiberina",
+    "eurostat:nuts_2021_id":"058106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058106",
+    "eurostat:population":1070,
+    "eurostat:population_year":2020,
     "geom:area":0.001174,
     "geom:area_square_m":10748245.264248,
     "geom:bbox":"12.6030480939,42.2019300537,12.6418631799,42.2548109208",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058106",
+        "eurostat:nuts_2021_id":"058106",
         "gn:id":6536969,
         "gp:id":12682232,
         "qs_pg:id":1012866
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"516a101835b6e3642f3169fd856c0e25",
+    "wof:geomhash":"3ff3c52d33ed8ec5a53b1591cd127683",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404461753,
-    "wof:lastmodified":1582328124,
+    "wof:lastmodified":1684353745,
     "wof:name":"Torrita Tiberina",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":1070,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

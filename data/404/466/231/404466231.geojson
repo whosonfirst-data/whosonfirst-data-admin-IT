@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiumedinisi",
+    "eurostat:nuts_2021_id":"083021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083021",
+    "eurostat:population":1332,
+    "eurostat:population_year":2020,
     "geom:area":0.00374,
-    "geom:area_square_m":36422352.321267,
+    "geom:area_square_m":36422352.321247,
     "geom:bbox":"15.3154379521,38.0020963683,15.4126607142,38.0850939416",
     "geom:latitude":38.045182,
     "geom:longitude":15.367656,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083021",
+        "eurostat:nuts_2021_id":"083021",
         "gn:id":6537757,
         "gp:id":12679286,
         "qs_pg:id":1143046
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b3b2a157d76639337fcd61ad035f594",
+    "wof:geomhash":"965e458b4041ee7aefb8e8acb1240269",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466231,
-    "wof:lastmodified":1582328205,
+    "wof:lastmodified":1684353845,
     "wof:name":"Fiumedinisi",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1332,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

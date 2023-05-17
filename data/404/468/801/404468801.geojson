@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zerbo",
+    "eurostat:nuts_2021_id":"018188",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018188",
+    "eurostat:population":391,
+    "eurostat:population_year":2020,
     "geom:area":0.000728,
-    "geom:area_square_m":6352557.251524,
+    "geom:area_square_m":6352557.251526,
     "geom:bbox":"9.38170140187,45.0934360465,9.42170969556,45.1220597868",
     "geom:latitude":45.106811,
     "geom:longitude":9.40078,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018188",
+        "eurostat:nuts_2021_id":"018188",
         "gn:id":6541527,
         "gp:id":20076341,
         "qs_pg:id":50638
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82dbf3b9d73c5ab8937447212de55042",
+    "wof:geomhash":"c497acd6fb634fa7c6a85bf2f572da3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468801,
-    "wof:lastmodified":1582328090,
+    "wof:lastmodified":1684353895,
     "wof:name":"Zerbo",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":391,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

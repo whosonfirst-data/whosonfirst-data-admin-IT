@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raveo",
+    "eurostat:nuts_2021_id":"030089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030089",
+    "eurostat:population":450,
+    "eurostat:population_year":2020,
     "geom:area":0.001473,
-    "geom:area_square_m":12549080.728736,
+    "geom:area_square_m":12549080.728738,
     "geom:bbox":"12.8054988041,46.4149332465,12.9055639323,46.4696537954",
     "geom:latitude":46.442952,
     "geom:longitude":12.854347,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030089",
+        "eurostat:nuts_2021_id":"030089",
         "gn:id":6538388,
         "gp:id":12681333,
         "qs_pg:id":1015198
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b97647dd1f09cdc81f8d9ef5257c8ad7",
+    "wof:geomhash":"3b62af9c20690431fb9fa1152f9b9861",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470637,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353925,
     "wof:name":"Raveo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":450,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

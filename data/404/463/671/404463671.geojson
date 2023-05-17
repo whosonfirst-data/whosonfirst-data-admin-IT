@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pianezze",
+    "eurostat:nuts_2021_id":"024077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024077",
+    "eurostat:population":2173,
+    "eurostat:population_year":2020,
     "geom:area":0.000581,
     "geom:area_square_m":5010677.454627,
     "geom:bbox":"11.6199091301,45.7150214359,11.652738334,45.7512847535",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_024077",
+        "eurostat:nuts_2021_id":"024077"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"53c4564e59bba524d4fd18e03f008180",
+    "wof:geomhash":"86e62c20ce0b8bf059647e42c8c39f45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404463671,
-    "wof:lastmodified":1566723194,
+    "wof:lastmodified":1684353784,
     "wof:name":"Pianezze",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":2173,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Otranto",
+    "eurostat:nuts_2021_id":"075057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075057",
+    "eurostat:population":5851,
+    "eurostat:population_year":2020,
     "geom:area":0.008038,
-    "geom:area_square_m":75955242.876105,
+    "geom:area_square_m":75955242.876098,
     "geom:bbox":"18.3995692047,40.0766094186,18.5204771369,40.2545857026",
     "geom:latitude":40.162446,
     "geom:longitude":18.457938,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075057",
+        "eurostat:nuts_2021_id":"075057",
         "gn:id":6541266,
         "gp:id":12679825,
         "qs_pg:id":41140
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad9daf858cca191c986dee49a02795ff",
+    "wof:geomhash":"ad388edfd505e085d0c32e8c9cf929ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404458985,
-    "wof:lastmodified":1582327948,
+    "wof:lastmodified":1684353683,
     "wof:name":"Otranto",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":5851,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Polino",
+    "eurostat:nuts_2021_id":"055027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055027",
+    "eurostat:population":223,
+    "eurostat:population_year":2020,
     "geom:area":0.002142,
     "geom:area_square_m":19504257.363165,
     "geom:bbox":"12.8250685166,42.558223222,12.8942521635,42.6079464531",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055027",
+        "eurostat:nuts_2021_id":"055027",
         "gn:id":6538626,
         "gp:id":12681183,
         "qs_pg:id":1102197
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00b3353f5e78c431aef0eb05817ec3d8",
+    "wof:geomhash":"25218ed0869351fe650c54f6cbb2b4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459687,
-    "wof:lastmodified":1582328158,
+    "wof:lastmodified":1684353698,
     "wof:name":"Polino",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

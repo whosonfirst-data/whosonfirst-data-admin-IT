@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Provvidenti",
+    "eurostat:nuts_2021_id":"070056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070056",
+    "eurostat:population":105,
+    "eurostat:population_year":2020,
     "geom:area":0.001511,
     "geom:area_square_m":13943577.04122,
     "geom:bbox":"14.8039243747,41.6958778613,14.8438169932,41.7550496011",
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_070056",
+        "eurostat:nuts_2021_id":"070056"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"26cf5aa4537593de768e30eeae4aedea",
+    "wof:geomhash":"f0e8ae8af0234dcced0f00b8b898667e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404458799,
-    "wof:lastmodified":1566723422,
+    "wof:lastmodified":1684353678,
     "wof:name":"Provvidenti",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

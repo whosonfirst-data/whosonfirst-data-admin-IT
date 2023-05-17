@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ospedaletto Euganeo",
+    "eurostat:nuts_2021_id":"028059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028059",
+    "eurostat:population":5596,
+    "eurostat:population_year":2020,
     "geom:area":0.002461,
-    "geom:area_square_m":21426604.137499,
+    "geom:area_square_m":21426604.137503,
     "geom:bbox":"11.5644042536,45.1939470337,11.6362738571,45.2617360555",
     "geom:latitude":45.230997,
     "geom:longitude":11.598107,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028059",
+        "eurostat:nuts_2021_id":"028059",
         "gn:id":6541006,
         "gp:id":12678077,
         "qs_pg:id":385998
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f0425c709545ef7acecd5b79548041d",
+    "wof:geomhash":"d040d7025ad656a9fe576726c2259db5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470327,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353920,
     "wof:name":"Ospedaletto Euganeo",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":5596,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

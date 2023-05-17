@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palosco",
+    "eurostat:nuts_2021_id":"016157",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016157",
+    "eurostat:population":5778,
+    "eurostat:population_year":2020,
     "geom:area":0.001245,
-    "geom:area_square_m":10776665.298055,
+    "geom:area_square_m":10776665.298054,
     "geom:bbox":"9.8097705877,45.5574594857,9.85628425246,45.6050240775",
     "geom:latitude":45.584036,
     "geom:longitude":9.831742,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016157",
+        "eurostat:nuts_2021_id":"016157",
         "gn:id":6536146,
         "gp:id":20076205,
         "qs_pg:id":345891
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3631923bdc671f02038f7bc710fbc70c",
+    "wof:geomhash":"de88fe0ddc8cdbf2586131b5bc545282",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466051,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353842,
     "wof:name":"Palosco",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":5778,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

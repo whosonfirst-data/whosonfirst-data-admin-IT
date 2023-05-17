@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merate",
+    "eurostat:nuts_2021_id":"097048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097048",
+    "eurostat:population":14857,
+    "eurostat:population_year":2020,
     "geom:area":0.001279,
-    "geom:area_square_m":11046343.71088,
+    "geom:area_square_m":11046343.710882,
     "geom:bbox":"9.3919801716,45.6728897954,9.4417184413,45.7242137735",
     "geom:latitude":45.702442,
     "geom:longitude":9.41812,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097048",
+        "eurostat:nuts_2021_id":"097048",
         "gn:id":6539405,
         "gp:id":12680287,
         "qs_pg:id":628440
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c5f06eda296577e3bf128869388162c",
+    "wof:geomhash":"3beb899d4139096dd132c9efee80c817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469329,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353902,
     "wof:name":"Merate",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":14857,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

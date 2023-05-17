@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almenno San Bartolomeo",
+    "eurostat:nuts_2021_id":"016006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016006",
+    "eurostat:population":6373,
+    "eurostat:population_year":2020,
     "geom:area":0.001227,
-    "geom:area_square_m":10589763.4787,
+    "geom:area_square_m":10589763.478698,
     "geom:bbox":"9.53651247514,45.7264070244,9.5995383049,45.7712075748",
     "geom:latitude":45.749958,
     "geom:longitude":9.566871,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016006",
+        "eurostat:nuts_2021_id":"016006",
         "gn:id":6540343,
         "gp:id":12675970,
         "qs_pg:id":390378
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"faa236e696b1481f195f9f1859ea0cf0",
+    "wof:geomhash":"c99eb314e7ee79f68d856fcd0ccaddca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468615,
-    "wof:lastmodified":1582328088,
+    "wof:lastmodified":1684353891,
     "wof:name":"Almenno San Bartolomeo",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":6373,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

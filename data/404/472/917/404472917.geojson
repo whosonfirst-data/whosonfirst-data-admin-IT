@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lajatico",
+    "eurostat:nuts_2021_id":"050016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050016",
+    "eurostat:population":1303,
+    "eurostat:population_year":2020,
     "geom:area":0.008082,
-    "geom:area_square_m":72551956.680432,
+    "geom:area_square_m":72551956.680427,
     "geom:bbox":"10.6549866633,43.4108225608,10.7945913717,43.5197066172",
     "geom:latitude":43.450459,
     "geom:longitude":10.725749,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050016",
+        "eurostat:nuts_2021_id":"050016",
         "gn:id":6541882,
         "gp:id":12675824,
         "qs_pg:id":1313968
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38daa95ecedb17bea116fe3593b7d7f8",
+    "wof:geomhash":"610f2cf48583311fbe04947bc799889b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472917,
-    "wof:lastmodified":1582327909,
+    "wof:lastmodified":1684353973,
     "wof:name":"Lajatico",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":1303,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

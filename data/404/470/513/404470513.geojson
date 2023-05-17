@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drenchia",
+    "eurostat:nuts_2021_id":"030034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030034",
+    "eurostat:population":102,
+    "eurostat:population_year":2020,
     "geom:area":0.001396,
     "geom:area_square_m":11951285.381232,
     "geom:bbox":"13.6017299538,46.1511455474,13.6642405989,46.1907327172",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030034",
+        "eurostat:nuts_2021_id":"030034",
         "gn:id":6536298,
         "gp:id":12679123,
         "qs_pg:id":1009310
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f594fbb0dc7bcc6559c3a630ace9e4e",
+    "wof:geomhash":"a52c55a89c5570f1549d58d7971a4535",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470513,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353923,
     "wof:name":"Drenchia",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavaglietto",
+    "eurostat:nuts_2021_id":"003044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003044",
+    "eurostat:population":389,
+    "eurostat:population_year":2020,
     "geom:area":0.000748,
     "geom:area_square_m":6475606.502192,
     "geom:bbox":"8.47821193774,45.5838847323,8.52101234706,45.6170841716",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003044",
+        "eurostat:nuts_2021_id":"003044",
         "gn:id":6543421,
         "gp:id":20075709,
         "qs_pg:id":50258
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57b1595094232b616303c4951529bb23",
+    "wof:geomhash":"4730aa16e160f96432837b15b1f96ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457701,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353655,
     "wof:name":"Cavaglietto",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":389,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

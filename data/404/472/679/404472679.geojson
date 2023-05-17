@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fabbriche di Vergemoli",
+    "eurostat:nuts_2021_id":"046036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046036",
+    "eurostat:population":799,
+    "eurostat:population_year":2020,
     "geom:area":0.003072,
-    "geom:area_square_m":27313523.018355,
+    "geom:area_square_m":27313523.018351,
     "geom:bbox":"10.3240219177,43.9939343794,10.4210867629,44.0629676686",
     "geom:latitude":44.029901,
     "geom:longitude":10.377754,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046036",
+        "eurostat:nuts_2021_id":"046036",
         "gn:id":6543596,
         "gp:id":12677453,
         "qs_pg:id":1137059
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d676b77e2b364347d61319a0f757e16a",
+    "wof:geomhash":"6178b0cacde394c650f918406543b235",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472679,
-    "wof:lastmodified":1582327901,
+    "wof:lastmodified":1684353967,
     "wof:name":"Vergemoli",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":799,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

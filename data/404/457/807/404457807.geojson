@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Maurizio d'Opaglio",
+    "eurostat:nuts_2021_id":"003133",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003133",
+    "eurostat:population":3039,
+    "eurostat:population_year":2020,
     "geom:area":0.000989,
-    "geom:area_square_m":8529175.329381,
+    "geom:area_square_m":8529175.329378,
     "geom:bbox":"8.35591266792,45.7645706655,8.42014336362,45.7914044519",
     "geom:latitude":45.777445,
     "geom:longitude":8.39356,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003133",
+        "eurostat:nuts_2021_id":"003133",
         "gn:id":6541449,
         "gp:id":12681707,
         "qs_pg:id":396165
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec6b31bc3905ade8142c236e4a57fd45",
+    "wof:geomhash":"aba4e45d3b7a80a6d802d6bd24eaa3dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457807,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353657,
     "wof:name":"San Maurizio D'Opaglio",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":3039,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

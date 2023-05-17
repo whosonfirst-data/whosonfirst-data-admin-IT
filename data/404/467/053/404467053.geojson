@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pau",
+    "eurostat:nuts_2021_id":"095040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095040",
+    "eurostat:population":294,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
-    "geom:area_square_m":13813946.754034,
+    "geom:area_square_m":13813946.754035,
     "geom:bbox":"8.74638287564,39.7800970561,8.81322932521,39.821172124",
     "geom:latitude":39.800722,
     "geom:longitude":8.779926,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095040",
+        "eurostat:nuts_2021_id":"095040",
         "gn:id":6537974,
         "gp:id":12680951,
         "qs_pg:id":41934
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e732d4610f6fe7d0cd5b147fd8ddbed",
+    "wof:geomhash":"6a4b8a10fa28fbaff200e6720ce47b32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467053,
-    "wof:lastmodified":1582327972,
+    "wof:lastmodified":1684353864,
     "wof:name":"Pau",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":294,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

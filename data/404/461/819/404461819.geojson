@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Minturno",
+    "eurostat:nuts_2021_id":"059014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059014",
+    "eurostat:population":20290,
+    "eurostat:population_year":2020,
     "geom:area":0.004514,
-    "geom:area_square_m":41951402.992788,
+    "geom:area_square_m":41951402.992785,
     "geom:bbox":"13.6863006871,41.2225514307,13.7896564359,41.3116422833",
     "geom:latitude":41.26656,
     "geom:longitude":13.744014,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059014",
+        "eurostat:nuts_2021_id":"059014",
         "gn:id":6541892,
         "gp:id":12680333,
         "qs_pg:id":190756
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23aa8f694abd029445365fba41a11974",
+    "wof:geomhash":"50878b39ef9f5833b4f710df277bb5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461819,
-    "wof:lastmodified":1582328128,
+    "wof:lastmodified":1684353747,
     "wof:name":"Minturno",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":20290,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bozzolo",
+    "eurostat:nuts_2021_id":"020007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020007",
+    "eurostat:population":4168,
+    "eurostat:population_year":2020,
     "geom:area":0.002153,
     "geom:area_square_m":18789874.047301,
     "geom:bbox":"10.4566165174,45.0751808213,10.5176486205,45.1330958339",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020007",
+        "eurostat:nuts_2021_id":"020007",
         "gn:id":6537230,
         "gp:id":12677059,
         "qs_pg:id":30206
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"408e14967c896aea85f67967f11c4af1",
+    "wof:geomhash":"9cd2e1a17be035e6987e23685f11f209",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404469079,
-    "wof:lastmodified":1582328026,
+    "wof:lastmodified":1684353899,
     "wof:name":"Bozzolo",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":4168,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

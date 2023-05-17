@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vico del Gargano",
+    "eurostat:nuts_2021_id":"071059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071059",
+    "eurostat:population":7588,
+    "eurostat:population_year":2020,
     "geom:area":0.011957,
-    "geom:area_square_m":110101955.577681,
+    "geom:area_square_m":110101955.577665,
     "geom:bbox":"15.9154393593,41.8079567609,16.0638763954,41.9457358729",
     "geom:latitude":41.86898,
     "geom:longitude":15.97987,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071059",
+        "eurostat:nuts_2021_id":"071059",
         "gn:id":6538934,
         "gp:id":12682410,
         "qs_pg:id":538313
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eadff9f01f8ff527f53bd8a9c44300b7",
+    "wof:geomhash":"b1def1fd3a5206d934a22f46546f08c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463165,
-    "wof:lastmodified":1582327777,
+    "wof:lastmodified":1684353773,
     "wof:name":"Vico Del Gargano",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":7588,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

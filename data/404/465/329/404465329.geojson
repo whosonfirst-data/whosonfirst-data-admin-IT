@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteverde",
+    "eurostat:nuts_2021_id":"064060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064060",
+    "eurostat:population":740,
+    "eurostat:population_year":2020,
     "geom:area":0.004207,
-    "geom:area_square_m":39256955.60414,
+    "geom:area_square_m":39256955.604135,
     "geom:bbox":"15.4935866128,40.9659991465,15.572386371,41.0539931316",
     "geom:latitude":41.012744,
     "geom:longitude":15.535407,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064060",
+        "eurostat:nuts_2021_id":"064060",
         "gn:id":6539998,
         "gp:id":12680561,
         "qs_pg:id":41640
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c23f9c206e95f77d6e9c114d2b78570d",
+    "wof:geomhash":"82033ce8020fbe60e492af6ac565ba5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404465329,
-    "wof:lastmodified":1582327846,
+    "wof:lastmodified":1684353830,
     "wof:name":"Monteverde",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

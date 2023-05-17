@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004249",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viola",
+    "eurostat:nuts_2021_id":"004249",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004249",
+    "eurostat:population":364,
+    "eurostat:population_year":2020,
     "geom:area":0.002376,
     "geom:area_square_m":21039033.850191,
     "geom:bbox":"7.93960326352,44.2443542953,8.00305321771,44.3049158922",
@@ -275,6 +287,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -283,6 +297,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004249",
+        "eurostat:nuts_2021_id":"004249",
         "gn:id":6539911,
         "gp:id":12682502,
         "qs_pg:id":43074
@@ -291,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1670e586eecabf2210261e8f5a2da91",
+    "wof:geomhash":"dc51c7a971cac74f279c8a20349b2820",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,10 +318,12 @@
         }
     ],
     "wof:id":404455909,
-    "wof:lastmodified":1582327808,
+    "wof:lastmodified":1684353613,
     "wof:name":"Viola",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":364,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

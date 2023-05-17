@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ronago",
+    "eurostat:nuts_2021_id":"013199",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013199",
+    "eurostat:population":1715,
+    "eurostat:population_year":2020,
     "geom:area":0.000242,
-    "geom:area_square_m":2083227.62471,
+    "geom:area_square_m":2083227.624709,
     "geom:bbox":"8.96955979263,45.8218431766,8.9975350697,45.8383639302",
     "geom:latitude":45.830631,
     "geom:longitude":8.985111,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013199",
+        "eurostat:nuts_2021_id":"013199",
         "gn:id":6543726,
         "gp:id":12682608,
         "qs_pg:id":43136
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc3cc53d2279fbc3a653195214542a35",
+    "wof:geomhash":"d06a506f5a6432bac49326940b53341c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404458217,
-    "wof:lastmodified":1582327942,
+    "wof:lastmodified":1684353666,
     "wof:name":"Ronago",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1715,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

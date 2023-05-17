@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vado Ligure",
+    "eurostat:nuts_2021_id":"009064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009064",
+    "eurostat:population":8307,
+    "eurostat:population_year":2020,
     "geom:area":0.002682,
-    "geom:area_square_m":23755478.551522,
+    "geom:area_square_m":23755478.551519,
     "geom:bbox":"8.33809412813,44.2368362721,8.45020899109,44.2822417516",
     "geom:latitude":44.257852,
     "geom:longitude":8.394671,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009064",
+        "eurostat:nuts_2021_id":"009064",
         "gn:id":6541659,
         "gp:id":12681946,
         "qs_pg:id":902532
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac40dd3a538664d5a9a1ce273f942902",
+    "wof:geomhash":"f564d57aa5ee0a5683d824117845a1e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404467535,
-    "wof:lastmodified":1582327968,
+    "wof:lastmodified":1684353875,
     "wof:name":"Vado Ligure",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":8307,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

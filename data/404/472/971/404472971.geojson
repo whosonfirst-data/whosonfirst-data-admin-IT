@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anghiari",
+    "eurostat:nuts_2021_id":"051001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051001",
+    "eurostat:population":5470,
+    "eurostat:population_year":2020,
     "geom:area":0.014569,
-    "geom:area_square_m":130596766.867759,
+    "geom:area_square_m":130596766.867767,
     "geom:bbox":"11.9271565112,43.4456917003,12.1048777881,43.6174775583",
     "geom:latitude":43.53799,
     "geom:longitude":12.019761,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051001",
+        "eurostat:nuts_2021_id":"051001",
         "gn:id":6540479,
         "gp:id":12676094,
         "qs_pg:id":1187819
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84367692115d87b90432256244240425",
+    "wof:geomhash":"204e9f47de8c00bee1b4c06d4cf6919c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472971,
-    "wof:lastmodified":1582327892,
+    "wof:lastmodified":1684353974,
     "wof:name":"Anghiari",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":5470,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

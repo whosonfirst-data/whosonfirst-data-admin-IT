@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_074002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carovigno",
+    "eurostat:nuts_2021_id":"074002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF44",
+    "eurostat:nuts_2021_level_lau":"074002",
+    "eurostat:population":17213,
+    "eurostat:population_year":2020,
     "geom:area":0.011221,
-    "geom:area_square_m":105175872.641065,
+    "geom:area_square_m":105175872.641106,
     "geom:bbox":"17.6198232824,40.6445704479,17.8101755234,40.7686168237",
     "geom:latitude":40.707427,
     "geom:longitude":17.701496,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_074002",
+        "eurostat:nuts_2021_id":"074002",
         "gn:id":6538959,
         "gp:id":12677717,
         "qs_pg:id":1317033
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93c68951115e9b31ba5596ff5a1d83a3",
+    "wof:geomhash":"1095c16b3b434c6dc8c6c86ea33f80ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456905,
-    "wof:lastmodified":1582328062,
+    "wof:lastmodified":1684353636,
     "wof:name":"Carovigno",
     "wof:parent_id":85685543,
     "wof:placetype":"localadmin",
+    "wof:population":17213,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rodengo Saiano",
+    "eurostat:nuts_2021_id":"017163",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017163",
+    "eurostat:population":9841,
+    "eurostat:population_year":2020,
     "geom:area":0.001484,
-    "geom:area_square_m":12838205.507641,
+    "geom:area_square_m":12838205.507644,
     "geom:bbox":"10.085653649,45.5689760667,10.1343389927,45.6127063981",
     "geom:latitude":45.593221,
     "geom:longitude":10.111055,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_017163",
+        "eurostat:nuts_2021_id":"017163"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"df5eb246e64c9549e13da138069e5163",
+    "wof:geomhash":"30b8b64fc8b15e5561df7dede4717487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404471289,
-    "wof:lastmodified":1566723095,
+    "wof:lastmodified":1684353937,
     "wof:name":"Rodengo Saiano",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":9841,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

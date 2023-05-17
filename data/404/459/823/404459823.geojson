@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Agata Feltria",
+    "eurostat:nuts_2021_id":"099026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099026",
+    "eurostat:population":2063,
+    "eurostat:population_year":2020,
     "geom:area":0.00892,
-    "geom:area_square_m":79525674.859816,
+    "geom:area_square_m":79525674.859811,
     "geom:bbox":"12.1383195923,43.8027240133,12.2654147535,43.9264850636",
     "geom:latitude":43.859292,
     "geom:longitude":12.197696,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099026",
+        "eurostat:nuts_2021_id":"099026"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8022ce7517cf101eacf1622fe94f93cb",
+    "wof:geomhash":"9429db895a851f2a4ee27c22727136a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404459823,
-    "wof:lastmodified":1566723747,
+    "wof:lastmodified":1684353702,
     "wof:name":"Sant'Agata Feltria",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":2063,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

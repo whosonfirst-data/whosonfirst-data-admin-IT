@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_100004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poggio a Caiano",
+    "eurostat:nuts_2021_id":"100004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI15",
+    "eurostat:nuts_2021_level_lau":"100004",
+    "eurostat:population":10096,
+    "eurostat:population_year":2020,
     "geom:area":0.000671,
     "geom:area_square_m":5989142.190565,
     "geom:bbox":"11.0249488989,43.8002934934,11.0632811355,43.8306593483",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_100004",
+        "eurostat:nuts_2021_id":"100004",
         "gn:id":6538018,
         "gp:id":20076772,
         "qs_pg:id":248658
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57d8f40ec48ec9fd8361461ef02812cd",
+    "wof:geomhash":"10bb687fa9bc80e3402060f09e282333",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404473029,
-    "wof:lastmodified":1582327927,
+    "wof:lastmodified":1684353976,
     "wof:name":"Poggio A Caiano",
     "wof:parent_id":85685683,
     "wof:placetype":"localadmin",
+    "wof:population":10096,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

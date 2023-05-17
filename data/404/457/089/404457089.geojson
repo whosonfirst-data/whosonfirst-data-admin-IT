@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rolo",
+    "eurostat:nuts_2021_id":"035035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035035",
+    "eurostat:population":4002,
+    "eurostat:population_year":2020,
     "geom:area":0.001615,
-    "geom:area_square_m":14145619.318649,
+    "geom:area_square_m":14145619.318654,
     "geom:bbox":"10.8406748277,44.8650327058,10.8980558105,44.921854585",
     "geom:latitude":44.888416,
     "geom:longitude":10.86401,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035035",
+        "eurostat:nuts_2021_id":"035035",
         "gn:id":3169072,
         "gp:id":12681463,
         "qs_pg:id":1043503
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1151d53fa1c662bfd49449b8364128b",
+    "wof:geomhash":"ed5ac3e6ca47f49f1091f2aa4d899343",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404457089,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353642,
     "wof:name":"Rolo",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":4002,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

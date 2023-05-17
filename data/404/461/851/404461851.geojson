@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sezze",
+    "eurostat:nuts_2021_id":"059028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059028",
+    "eurostat:population":24788,
+    "eurostat:population_year":2020,
     "geom:area":0.010811,
-    "geom:area_square_m":100135510.278901,
+    "geom:area_square_m":100135510.278903,
     "geom:bbox":"12.9770826975,41.4267600545,13.1208896878,41.5608776761",
     "geom:latitude":41.489453,
     "geom:longitude":13.056965,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059028",
+        "eurostat:nuts_2021_id":"059028",
         "gn:id":6541139,
         "gp:id":12676947,
         "qs_pg:id":392478
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c24b047827c6900d44b4112eea2458e",
+    "wof:geomhash":"f96c7907b7967429ddc48d20d4f27330",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461851,
-    "wof:lastmodified":1582328131,
+    "wof:lastmodified":1684353747,
     "wof:name":"Sezze",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":24788,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

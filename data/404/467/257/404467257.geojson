@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tertenia",
+    "eurostat:nuts_2021_id":"091089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091089",
+    "eurostat:population":3907,
+    "eurostat:population_year":2020,
     "geom:area":0.012362,
-    "geom:area_square_m":117629977.701638,
+    "geom:area_square_m":117629977.701636,
     "geom:bbox":"9.52187018995,39.6256106313,9.67694631322,39.7419497778",
     "geom:latitude":39.685487,
     "geom:longitude":9.595825,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091089",
+        "eurostat:nuts_2021_id":"091089",
         "gn:id":6537881,
         "gp:id":12680179,
         "qs_pg:id":1102151
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54a22e2d7315255344a3bc60bfb0da6c",
+    "wof:geomhash":"f4a4411c90b698b1c7e3e358471f1275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467257,
-    "wof:lastmodified":1582327972,
+    "wof:lastmodified":1684353870,
     "wof:name":"Tertenia",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":3907,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

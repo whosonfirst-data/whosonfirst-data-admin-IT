@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valmontone",
+    "eurostat:nuts_2021_id":"058110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058110",
+    "eurostat:population":16126,
+    "eurostat:population_year":2020,
     "geom:area":0.004422,
-    "geom:area_square_m":40782551.125426,
+    "geom:area_square_m":40782551.125433,
     "geom:bbox":"12.8469131603,41.7472226654,12.9833830869,41.8030853793",
     "geom:latitude":41.770306,
     "geom:longitude":12.917742,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058110",
+        "eurostat:nuts_2021_id":"058110",
         "gn:id":6542046,
         "gp:id":12682356,
         "qs_pg:id":231436
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60f935eb24af85c1ac72e82ff761ee8c",
+    "wof:geomhash":"b72570f07339d67895aaf9c35a3ebc23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404461763,
-    "wof:lastmodified":1582328123,
+    "wof:lastmodified":1684353745,
     "wof:name":"Valmontone",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":16126,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

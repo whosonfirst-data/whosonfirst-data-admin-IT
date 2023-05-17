@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino di Finita",
+    "eurostat:nuts_2021_id":"078124",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078124",
+    "eurostat:population":985,
+    "eurostat:population_year":2020,
     "geom:area":0.002481,
-    "geom:area_square_m":23676707.12879,
+    "geom:area_square_m":23676707.128793,
     "geom:bbox":"16.0711727419,39.4579554998,16.2001035321,39.4992637396",
     "geom:latitude":39.481539,
     "geom:longitude":16.134245,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078124",
+        "eurostat:nuts_2021_id":"078124"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b422748be68f04b5c313c68479e748f0",
+    "wof:geomhash":"6e509a7b93419626727b780a6fa8a06c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404456691,
-    "wof:lastmodified":1566723603,
+    "wof:lastmodified":1684353630,
     "wof:name":"San Martino Di Finita",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":985,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piraino",
+    "eurostat:nuts_2021_id":"083068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083068",
+    "eurostat:population":3868,
+    "eurostat:population_year":2020,
     "geom:area":0.001734,
-    "geom:area_square_m":16862428.958501,
+    "geom:area_square_m":16862428.958506,
     "geom:bbox":"14.8367802039,38.1309511022,14.9044363639,38.1724247075",
     "geom:latitude":38.153526,
     "geom:longitude":14.87107,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083068",
+        "eurostat:nuts_2021_id":"083068",
         "gn:id":6537769,
         "gp:id":12681134,
         "qs_pg:id":42068
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e7a4c7231b8e54167cdb3a412813882",
+    "wof:geomhash":"2ca2352befafd15226687cca9c464200",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466337,
-    "wof:lastmodified":1582328184,
+    "wof:lastmodified":1684353847,
     "wof:name":"Piraino",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":3868,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

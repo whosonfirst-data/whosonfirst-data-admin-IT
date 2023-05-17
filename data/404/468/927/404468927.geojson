@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Izano",
+    "eurostat:nuts_2021_id":"019054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019054",
+    "eurostat:population":1968,
+    "eurostat:population_year":2020,
     "geom:area":0.000711,
-    "geom:area_square_m":6182226.558459,
+    "geom:area_square_m":6182226.558461,
     "geom:bbox":"9.7358860035,45.336055951,9.76986090804,45.3704049238",
     "geom:latitude":45.354452,
     "geom:longitude":9.752648,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019054",
+        "eurostat:nuts_2021_id":"019054",
         "gn:id":6537214,
         "gp:id":12679803,
         "qs_pg:id":1195681
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba632c98a0097e7632c4bd6d99400918",
+    "wof:geomhash":"3bd9f446d4a7d6bd5077b1da22af36b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468927,
-    "wof:lastmodified":1582328091,
+    "wof:lastmodified":1684353896,
     "wof:name":"Izano",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1968,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

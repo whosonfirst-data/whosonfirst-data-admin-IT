@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marano Vicentino",
+    "eurostat:nuts_2021_id":"024056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024056",
+    "eurostat:population":9532,
+    "eurostat:population_year":2020,
     "geom:area":0.00147,
-    "geom:area_square_m":12695053.997317,
+    "geom:area_square_m":12695053.997315,
     "geom:bbox":"11.4023886873,45.6724440988,11.4609839171,45.7200544752",
     "geom:latitude":45.694091,
     "geom:longitude":11.433415,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024056",
+        "eurostat:nuts_2021_id":"024056",
         "gn:id":6540381,
         "gp:id":12677025,
         "qs_pg:id":289626
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c7ef3b9fcdc816b3e0904f036ceaf3a",
+    "wof:geomhash":"702234766be638d28769a80eabf82411",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463623,
-    "wof:lastmodified":1582327781,
+    "wof:lastmodified":1684353783,
     "wof:name":"Marano Vicentino",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":9532,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

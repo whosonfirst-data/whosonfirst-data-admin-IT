@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niscemi",
+    "eurostat:nuts_2021_id":"085013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085013",
+    "eurostat:population":26274,
+    "eurostat:population_year":2020,
     "geom:area":0.009771,
-    "geom:area_square_m":96313952.461346,
+    "geom:area_square_m":96313952.461336,
     "geom:bbox":"14.3420631416,37.0831545783,14.4763482665,37.2055046356",
     "geom:latitude":37.140738,
     "geom:longitude":14.406508,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085013",
+        "eurostat:nuts_2021_id":"085013",
         "gn:id":6539180,
         "gp:id":12680680,
         "qs_pg:id":1172553
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9446ac66c59b5bc2ba743c858d657500",
+    "wof:geomhash":"c470250d76b5929014fb8bb9b35550ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404466553,
-    "wof:lastmodified":1582328200,
+    "wof:lastmodified":1684353852,
     "wof:name":"Niscemi",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":26274,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

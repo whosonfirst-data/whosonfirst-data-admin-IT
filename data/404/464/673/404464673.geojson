@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sinopoli",
+    "eurostat:nuts_2021_id":"080089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080089",
+    "eurostat:population":1955,
+    "eurostat:population_year":2020,
     "geom:area":0.002574,
-    "geom:area_square_m":24995729.028178,
+    "geom:area_square_m":24995729.028195,
     "geom:bbox":"15.8577018806,38.1530221802,15.9236379816,38.3231394336",
     "geom:latitude":38.23534,
     "geom:longitude":15.885529,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_080089",
+        "eurostat:nuts_2021_id":"080089"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"140da65b070cb715eb2be78eb9bd199a",
+    "wof:geomhash":"363069c0c661b5430615808293d39625",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404464673,
-    "wof:lastmodified":1566723216,
+    "wof:lastmodified":1684353813,
     "wof:name":"Sinopoli",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":1955,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

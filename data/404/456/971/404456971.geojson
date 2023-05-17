@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melfi",
+    "eurostat:nuts_2021_id":"076048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076048",
+    "eurostat:population":17592,
+    "eurostat:population_year":2020,
     "geom:area":0.02193,
     "geom:area_square_m":204545196.110353,
     "geom:bbox":"15.5393823745,40.9459957305,15.7662877258,41.0995194292",
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076048",
+        "eurostat:nuts_2021_id":"076048",
         "gn:id":6537624,
         "gp:id":12680269,
         "qs_pg:id":957746
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03758cd4092ccb7a66e35194d9e566a2",
+    "wof:geomhash":"3433a492e5d99d4dabb5bea4e506a6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404456971,
-    "wof:lastmodified":1582328057,
+    "wof:lastmodified":1684353638,
     "wof:name":"Melfi",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":17592,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

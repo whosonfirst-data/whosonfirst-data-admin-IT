@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gazzo",
+    "eurostat:nuts_2021_id":"028041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028041",
+    "eurostat:population":4278,
+    "eurostat:population_year":2020,
     "geom:area":0.002617,
-    "geom:area_square_m":22651533.81101,
+    "geom:area_square_m":22651533.811012,
     "geom:bbox":"11.6530594111,45.5378689103,11.7272116817,45.5961048892",
     "geom:latitude":45.566518,
     "geom:longitude":11.693255,
@@ -50,6 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -58,6 +72,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028041",
+        "eurostat:nuts_2021_id":"028041",
         "gn:id":6539926,
         "gp:id":20076702,
         "qs_pg:id":334864
@@ -66,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89ad1b3bd05488f6ecd3384af5e4b3cc",
+    "wof:geomhash":"9dbe26a1e79f89825b82913a3cf5e874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404470285,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353919,
     "wof:name":"Gazzo",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":4278,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

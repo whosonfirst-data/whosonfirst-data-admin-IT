@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cugliate-Fabiasco",
+    "eurostat:nuts_2021_id":"012059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012059",
+    "eurostat:population":3099,
+    "eurostat:population_year":2020,
     "geom:area":0.00076,
-    "geom:area_square_m":6533542.801045,
+    "geom:area_square_m":6533542.801044,
     "geom:bbox":"8.79337360429,45.9186949148,8.85130789173,45.9675585979",
     "geom:latitude":45.943159,
     "geom:longitude":8.818877,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012059",
+        "eurostat:nuts_2021_id":"012059",
         "gn:id":6536027,
         "gp:id":20076038,
         "qs_pg:id":886953
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6c5d5b6884bb9cdea2b42c478dc88d4",
+    "wof:geomhash":"8b326d5dd3d4a38d5183881f24f4344b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467743,
-    "wof:lastmodified":1582327988,
+    "wof:lastmodified":1684353879,
     "wof:name":"Cugliate-Fabiasco",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":3099,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morciano di Romagna",
+    "eurostat:nuts_2021_id":"099011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099011",
+    "eurostat:population":7141,
+    "eurostat:population_year":2020,
     "geom:area":0.000609,
     "geom:area_square_m":5422657.921088,
     "geom:bbox":"12.618683785,43.8983396843,12.6794389483,43.9298510183",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099011",
+        "eurostat:nuts_2021_id":"099011"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"2fd39371f249e73e2aea602ce46ee69e",
+    "wof:geomhash":"a9d9297ad869839a27b952faba7a0f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404472549,
-    "wof:lastmodified":1566723383,
+    "wof:lastmodified":1684353964,
     "wof:name":"Morciano Di Romagna",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":7141,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

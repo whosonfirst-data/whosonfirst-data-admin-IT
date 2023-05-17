@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calciano",
+    "eurostat:nuts_2021_id":"077004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077004",
+    "eurostat:population":685,
+    "eurostat:population_year":2020,
     "geom:area":0.005242,
-    "geom:area_square_m":49226163.07263,
+    "geom:area_square_m":49226163.072628,
     "geom:bbox":"16.1052808994,40.5432877854,16.2507528872,40.6223563385",
     "geom:latitude":40.580788,
     "geom:longitude":16.182137,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077004",
+        "eurostat:nuts_2021_id":"077004",
         "gn:id":6539020,
         "gp:id":12677303,
         "qs_pg:id":399969
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"344d4766145b7bd4768b011dbdd72420",
+    "wof:geomhash":"97b8b47e5a57e72465ad29163182b2df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463983,
-    "wof:lastmodified":1582327772,
+    "wof:lastmodified":1684353793,
     "wof:name":"Calciano",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":685,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

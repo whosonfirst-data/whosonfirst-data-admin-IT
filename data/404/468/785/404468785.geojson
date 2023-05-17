@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vistarino",
+    "eurostat:nuts_2021_id":"018181",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018181",
+    "eurostat:population":1579,
+    "eurostat:population_year":2020,
     "geom:area":0.001088,
-    "geom:area_square_m":9476070.813075,
+    "geom:area_square_m":9476070.813074,
     "geom:bbox":"9.28418321714,45.1850721683,9.33307114471,45.2324782354",
     "geom:latitude":45.209905,
     "geom:longitude":9.306526,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018181",
+        "eurostat:nuts_2021_id":"018181",
         "gn:id":6543210,
         "gp:id":20076338,
         "qs_pg:id":1070805
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"416555e3d75739c7ecf417c71c41fd26",
+    "wof:geomhash":"40ffd36faf64613ef3157e7511007017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468785,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353894,
     "wof:name":"Vistarino",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1579,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

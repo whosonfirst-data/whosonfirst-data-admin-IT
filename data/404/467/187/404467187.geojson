@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Maddalena",
+    "eurostat:nuts_2021_id":"090035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090035",
+    "eurostat:population":11051,
+    "eurostat:population_year":2020,
     "geom:area":0.00559,
-    "geom:area_square_m":51986037.741243,
+    "geom:area_square_m":51986037.741245,
     "geom:bbox":"9.32122963826,41.0608869927,9.61013470536,41.3131979995",
     "geom:latitude":41.227077,
     "geom:longitude":9.421172,
@@ -191,6 +203,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -199,6 +213,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090035",
+        "eurostat:nuts_2021_id":"090035",
         "gn:id":6541357,
         "gp:id":20076807,
         "qs_pg:id":1311219
@@ -207,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13b74bb10635f22782f0a369c5cd2b7a",
+    "wof:geomhash":"d548ab53bbf74b28e39347cffc176487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,10 +234,12 @@
         }
     ],
     "wof:id":404467187,
-    "wof:lastmodified":1582327975,
+    "wof:lastmodified":1684353867,
     "wof:name":"La Maddalena",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":11051,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

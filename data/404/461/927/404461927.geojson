@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colle San Magno",
+    "eurostat:nuts_2021_id":"060029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060029",
+    "eurostat:population":662,
+    "eurostat:population_year":2020,
     "geom:area":0.004841,
-    "geom:area_square_m":44793681.156181,
+    "geom:area_square_m":44793681.156168,
     "geom:bbox":"13.6587909471,41.512059453,13.7577305157,41.5996503785",
     "geom:latitude":41.559362,
     "geom:longitude":13.713703,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060029",
+        "eurostat:nuts_2021_id":"060029",
         "gn:id":6536983,
         "gp:id":12678779,
         "qs_pg:id":1102070
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b7f99771203b171ae366f8bc88c8db6c",
+    "wof:geomhash":"edfd643c0b1044cef4c8e77eccb19d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461927,
-    "wof:lastmodified":1582328148,
+    "wof:lastmodified":1684353749,
     "wof:name":"Colle San Magno",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":662,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

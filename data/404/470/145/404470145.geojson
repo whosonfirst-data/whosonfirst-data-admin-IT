@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jesolo",
+    "eurostat:nuts_2021_id":"027019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027019",
+    "eurostat:population":26529,
+    "eurostat:population_year":2020,
     "geom:area":0.011091,
-    "geom:area_square_m":96064367.948726,
+    "geom:area_square_m":96064367.948698,
     "geom:bbox":"12.5270564906,45.4787195445,12.761812853,45.5914600523",
     "geom:latitude":45.534791,
     "geom:longitude":12.634072,
@@ -189,6 +201,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -197,6 +211,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027019",
+        "eurostat:nuts_2021_id":"027019",
         "gn:id":6542178,
         "gp:id":12677232,
         "qs_pg:id":276724
@@ -205,7 +221,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2756ea3b78638043a7b3b15a2910c16e",
+    "wof:geomhash":"1b80e33e606fa06b10c2568f1c5ffde9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,10 +232,12 @@
         }
     ],
     "wof:id":404470145,
-    "wof:lastmodified":1582327745,
+    "wof:lastmodified":1684353916,
     "wof:name":"Jesolo",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":26529,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

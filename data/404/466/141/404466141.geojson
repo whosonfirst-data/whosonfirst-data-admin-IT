@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seriate",
+    "eurostat:nuts_2021_id":"016198",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016198",
+    "eurostat:population":25380,
+    "eurostat:population_year":2020,
     "geom:area":0.001448,
     "geom:area_square_m":12509469.427175,
     "geom:bbox":"9.70063955191,45.6308769028,9.7582775857,45.6948208434",
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016198",
+        "eurostat:nuts_2021_id":"016198",
         "gn:id":6536153,
         "gp:id":12681965,
         "qs_pg:id":907135
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d001613d0903ca6ef2e8dab51de3646",
+    "wof:geomhash":"d2a00a0d80fc67bfea5d770f43dfd710",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466141,
-    "wof:lastmodified":1582328210,
+    "wof:lastmodified":1684353843,
     "wof:name":"Seriate",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":25380,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

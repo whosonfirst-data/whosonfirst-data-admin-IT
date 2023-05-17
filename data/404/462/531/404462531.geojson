@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atessa",
+    "eurostat:nuts_2021_id":"069005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069005",
+    "eurostat:population":10567,
+    "eurostat:population_year":2020,
     "geom:area":0.012025,
-    "geom:area_square_m":110347527.632965,
+    "geom:area_square_m":110347527.632958,
     "geom:bbox":"14.3565443415,41.9836297921,14.5528808786,42.1610349534",
     "geom:latitude":42.086942,
     "geom:longitude":14.460485,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069005",
+        "eurostat:nuts_2021_id":"069005",
         "gn:id":6538869,
         "gp:id":12676326,
         "qs_pg:id":959380
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efeda94a1e43a43f003f49e186fbd115",
+    "wof:geomhash":"08207260504e712d4a05186dcdf3b987",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404462531,
-    "wof:lastmodified":1582327864,
+    "wof:lastmodified":1684353760,
     "wof:name":"Atessa",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":10567,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

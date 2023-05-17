@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Spezia",
+    "eurostat:nuts_2021_id":"011015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011015",
+    "eurostat:population":93288,
+    "eurostat:population_year":2020,
     "geom:area":0.00578,
-    "geom:area_square_m":51312624.931843,
+    "geom:area_square_m":51312624.931842,
     "geom:bbox":"9.76357873487,44.0638472535,9.89228139804,44.1514738771",
     "geom:latitude":44.109977,
     "geom:longitude":9.821168,
@@ -245,6 +257,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -253,6 +267,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011015",
+        "eurostat:nuts_2021_id":"011015",
         "gn:id":6540156,
         "gp:id":12677413,
         "qs_pg:id":1150584
@@ -261,7 +277,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"907fdcffcdb58986516d8ba8c7d938f9",
+    "wof:geomhash":"8f7978e1132ab30764c5d785d45f7758",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -272,10 +288,12 @@
         }
     ],
     "wof:id":404458555,
-    "wof:lastmodified":1582327951,
+    "wof:lastmodified":1684353672,
     "wof:name":"La Spezia",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":93288,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

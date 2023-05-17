@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lurano",
+    "eurostat:nuts_2021_id":"016129",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016129",
+    "eurostat:population":2863,
+    "eurostat:population_year":2020,
     "geom:area":0.000467,
-    "geom:area_square_m":4040711.640884,
+    "geom:area_square_m":4040711.640883,
     "geom:bbox":"9.62494458575,45.5579867332,9.65788746635,45.5791504155",
     "geom:latitude":45.567569,
     "geom:longitude":9.640668,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016129",
+        "eurostat:nuts_2021_id":"016129",
         "gn:id":6543159,
         "gp:id":12682081,
         "qs_pg:id":334211
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dda380100a9b9ffbc9361d837c383dcc",
+    "wof:geomhash":"af4c3703d038c8a41d2ab67565726d16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465991,
-    "wof:lastmodified":1582327825,
+    "wof:lastmodified":1684353841,
     "wof:name":"Lurano",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":2863,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

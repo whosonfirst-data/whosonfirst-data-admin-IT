@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gottasecca",
+    "eurostat:nuts_2021_id":"004098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004098",
+    "eurostat:population":129,
+    "eurostat:population_year":2020,
     "geom:area":0.001548,
-    "geom:area_square_m":13658908.15389,
+    "geom:area_square_m":13658908.153888,
     "geom:bbox":"8.14971560265,44.4395815368,8.21072437,44.481822951",
     "geom:latitude":44.4601,
     "geom:longitude":8.17705,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004098",
+        "eurostat:nuts_2021_id":"004098",
         "gn:id":6543831,
         "gp:id":20075761,
         "qs_pg:id":978334
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a62278a9609912d54b553e661153117",
+    "wof:geomhash":"f7e4a086e425a246f4826ab0119d7c50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455569,
-    "wof:lastmodified":1582327808,
+    "wof:lastmodified":1684353606,
     "wof:name":"Gottasecca",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":129,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montorfano",
+    "eurostat:nuts_2021_id":"013157",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013157",
+    "eurostat:population":2600,
+    "eurostat:population_year":2020,
     "geom:area":0.000407,
-    "geom:area_square_m":3511503.995029,
+    "geom:area_square_m":3511503.995028,
     "geom:bbox":"9.12661665854,45.7702221613,9.16535024619,45.7929093591",
     "geom:latitude":45.781343,
     "geom:longitude":9.145906,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013157",
+        "eurostat:nuts_2021_id":"013157",
         "gn:id":6542495,
         "gp:id":20076116,
         "qs_pg:id":50494
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"907e04fa2e260e9e56ee652079c88f44",
+    "wof:geomhash":"d7d390d7da75386654eb0fc1e5dc6b12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404463457,
-    "wof:lastmodified":1582327785,
+    "wof:lastmodified":1684353781,
     "wof:name":"Montorfano",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":2600,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

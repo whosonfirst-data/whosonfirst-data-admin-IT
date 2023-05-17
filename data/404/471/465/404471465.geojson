@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lomello",
+    "eurostat:nuts_2021_id":"018083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018083",
+    "eurostat:population":2107,
+    "eurostat:population_year":2020,
     "geom:area":0.002559,
-    "geom:area_square_m":22327689.607777,
+    "geom:area_square_m":22327689.607775,
     "geom:bbox":"8.75041731064,45.092072661,8.83335507451,45.1511384945",
     "geom:latitude":45.121952,
     "geom:longitude":8.785899,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018083",
+        "eurostat:nuts_2021_id":"018083",
         "gn:id":6540358,
         "gp:id":12680001,
         "qs_pg:id":1292722
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f0cd30ae62504c8c9de7bbf4b903137",
+    "wof:geomhash":"7a8cc981c4beee291acfb39ca5aa33de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471465,
-    "wof:lastmodified":1582327718,
+    "wof:lastmodified":1684353940,
     "wof:name":"Lomello",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":2107,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Greggio",
+    "eurostat:nuts_2021_id":"002065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002065",
+    "eurostat:population":346,
+    "eurostat:population_year":2020,
     "geom:area":0.001368,
     "geom:area_square_m":11863938.415985,
     "geom:bbox":"8.35144738897,45.4376869638,8.40846199483,45.4738802412",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002065",
+        "eurostat:nuts_2021_id":"002065",
         "gn:id":6538106,
         "gp:id":12679678,
         "qs_pg:id":41049
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1afb4ae3a911d51048bd48e0cba31264",
+    "wof:geomhash":"134de9e00602e6d3d87a9bf27ea52bde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457535,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353652,
     "wof:name":"Greggio",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":346,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

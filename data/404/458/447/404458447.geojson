@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arqu\u00e0 Polesine",
+    "eurostat:nuts_2021_id":"029003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029003",
+    "eurostat:population":2667,
+    "eurostat:population_year":2020,
     "geom:area":0.002274,
-    "geom:area_square_m":19878151.487193,
+    "geom:area_square_m":19878151.487191,
     "geom:bbox":"11.7076144086,44.9940867532,11.782230671,45.0428112361",
     "geom:latitude":45.016193,
     "geom:longitude":11.738094,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029003",
+        "eurostat:nuts_2021_id":"029003",
         "gn:id":6543008,
         "gp:id":12677579,
         "qs_pg:id":50815
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ec033a7086df2eb25714cd0415cb847",
+    "wof:geomhash":"868458eae5f9a6a91c19b7a9fac50308",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404458447,
-    "wof:lastmodified":1582327940,
+    "wof:lastmodified":1684353670,
     "wof:name":"Arqu\u00e0 Polesine",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":2667,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

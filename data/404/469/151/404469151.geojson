@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pegognaga",
+    "eurostat:nuts_2021_id":"020039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020039",
+    "eurostat:population":7011,
+    "eurostat:population_year":2020,
     "geom:area":0.005316,
-    "geom:area_square_m":46481510.452834,
+    "geom:area_square_m":46481510.45283,
     "geom:bbox":"10.7958994352,44.96643088,10.9232267869,45.0332248452",
     "geom:latitude":44.997827,
     "geom:longitude":10.862527,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020039",
+        "eurostat:nuts_2021_id":"020039",
         "gn:id":6540377,
         "gp:id":12677224,
         "qs_pg:id":410589
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4504e3bd3635d57dac84b74b0da44428",
+    "wof:geomhash":"b7e1693551f65ef9a1d69d383df6584f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469151,
-    "wof:lastmodified":1582328025,
+    "wof:lastmodified":1684353900,
     "wof:name":"Pegognaga",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":7011,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

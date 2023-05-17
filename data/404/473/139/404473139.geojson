@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lasa/Laas",
+    "eurostat:nuts_2021_id":"021042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021042",
+    "eurostat:population":4094,
+    "eurostat:population_year":2020,
     "geom:area":0.012948,
-    "geom:area_square_m":109989904.360989,
+    "geom:area_square_m":109989904.360985,
     "geom:bbox":"10.6035213632,46.5212535758,10.729181292,46.6872923645",
     "geom:latitude":46.606117,
     "geom:longitude":10.669167,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021042",
+        "eurostat:nuts_2021_id":"021042",
         "gp:id":12678464,
         "qs_pg:id":1169028
     },
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f59ba1197de890588834d059c97987b9",
+    "wof:geomhash":"e59183b8231f0a3984e8bc68c5e65f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404473139,
-    "wof:lastmodified":1582327925,
+    "wof:lastmodified":1684353980,
     "wof:name":"Lasa",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":4094,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

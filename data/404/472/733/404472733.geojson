@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uzzano",
+    "eurostat:nuts_2021_id":"047021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047021",
+    "eurostat:population":5634,
+    "eurostat:population_year":2020,
     "geom:area":0.000874,
     "geom:area_square_m":7784248.335072,
     "geom:bbox":"10.6936711525,43.860699308,10.7260802408,43.9163896238",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047021",
+        "eurostat:nuts_2021_id":"047021",
         "gn:id":6541542,
         "gp:id":12681001,
         "qs_pg:id":1207832
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c28fb817279d7ce7384f6deef1b016b",
+    "wof:geomhash":"ce23417ce1347feffbc8ac61c8f5cfe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472733,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353968,
     "wof:name":"Uzzano",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":5634,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

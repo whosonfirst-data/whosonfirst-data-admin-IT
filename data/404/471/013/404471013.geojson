@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castegnato",
+    "eurostat:nuts_2021_id":"017040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017040",
+    "eurostat:population":8416,
+    "eurostat:population_year":2020,
     "geom:area":0.001061,
     "geom:area_square_m":9189457.89351,
     "geom:bbox":"10.0871882035,45.5387714498,10.1434211534,45.5738373762",
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017040",
+        "eurostat:nuts_2021_id":"017040",
         "gn:id":6537167,
         "gp:id":12678164,
         "qs_pg:id":190533
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f795c4b753fa4fda58f6ea58eee8bfe8",
+    "wof:geomhash":"ab5b004f38be0ec6bd44dee181ffa2fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404471013,
-    "wof:lastmodified":1582327714,
+    "wof:lastmodified":1684353931,
     "wof:name":"Castegnato",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":8416,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

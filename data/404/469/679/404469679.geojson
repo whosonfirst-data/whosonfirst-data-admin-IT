@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel d'Azzano",
+    "eurostat:nuts_2021_id":"023021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023021",
+    "eurostat:population":11958,
+    "eurostat:population_year":2020,
     "geom:area":0.001117,
-    "geom:area_square_m":9705087.948367,
+    "geom:area_square_m":9705087.948366,
     "geom:bbox":"10.9204810706,45.3402842752,10.9721845965,45.3781753531",
     "geom:latitude":45.358623,
     "geom:longitude":10.948783,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023021",
+        "eurostat:nuts_2021_id":"023021",
         "gn:id":3179722,
         "gp:id":12676648,
         "qs_pg:id":354757
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89672118dd8544bf261f21f64ad2a44b",
+    "wof:geomhash":"685c6f1f3186de56a8d721dc792489e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404469679,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353908,
     "wof:name":"Castel D'Azzano",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":11958,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

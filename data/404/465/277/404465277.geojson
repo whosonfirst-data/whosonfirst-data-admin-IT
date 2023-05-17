@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Greci",
+    "eurostat:nuts_2021_id":"064037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064037",
+    "eurostat:population":627,
+    "eurostat:population_year":2020,
     "geom:area":0.003233,
-    "geom:area_square_m":30050712.626988,
+    "geom:area_square_m":30050712.626984,
     "geom:bbox":"15.1321279975,41.229580731,15.2205177689,41.2864039366",
     "geom:latitude":41.259341,
     "geom:longitude":15.173117,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064037",
+        "eurostat:nuts_2021_id":"064037",
         "gn:id":6539995,
         "gp:id":12679676,
         "qs_pg:id":41052
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d1dbe3df69bc2e65042ed9dced2775d6",
+    "wof:geomhash":"ccd00cce646f7920d83bfd1bcd69746a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404465277,
-    "wof:lastmodified":1582327839,
+    "wof:lastmodified":1684353829,
     "wof:name":"Greci",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":627,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

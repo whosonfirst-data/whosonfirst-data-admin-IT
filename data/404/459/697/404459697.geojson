@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terni",
+    "eurostat:nuts_2021_id":"055032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055032",
+    "eurostat:population":110530,
+    "eurostat:population_year":2020,
     "geom:area":0.023261,
-    "geom:area_square_m":211790588.763748,
+    "geom:area_square_m":211790588.763757,
     "geom:bbox":"12.5422134324,42.5007581276,12.7872535356,42.675742259",
     "geom:latitude":42.579559,
     "geom:longitude":12.660625,
@@ -236,6 +248,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -244,6 +258,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055032",
+        "eurostat:nuts_2021_id":"055032",
         "gn:id":6542114,
         "gp:id":12676150,
         "qs_pg:id":1112520
@@ -252,7 +268,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ada970d8c738cb8457427e25adba018",
+    "wof:geomhash":"f18fce9f3aaafa61b7cb5c7347d4e650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,10 +279,12 @@
         }
     ],
     "wof:id":404459697,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353699,
     "wof:name":"Terni",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":110530,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

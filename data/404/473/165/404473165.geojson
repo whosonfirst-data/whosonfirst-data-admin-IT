@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moso in Passiria/Moos in Passeier",
+    "eurostat:nuts_2021_id":"021054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021054",
+    "eurostat:population":2066,
+    "eurostat:population_year":2020,
     "geom:area":0.022823,
-    "geom:area_square_m":193060486.549055,
+    "geom:area_square_m":193060486.549023,
     "geom:bbox":"11.0221939803,46.7198307735,11.2194772129,46.9451992338",
     "geom:latitude":46.835608,
     "geom:longitude":11.128223,
@@ -102,6 +114,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021054",
+        "eurostat:nuts_2021_id":"021054",
         "gn:id":3172526,
         "gp:id":12675863,
         "qs_pg:id":992476
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e54396f86d9ae2f1cbe7d1493853a9a",
+    "wof:geomhash":"c7e2a7f61ad07b800b488a911cfd85ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404473165,
-    "wof:lastmodified":1582327923,
+    "wof:lastmodified":1684353981,
     "wof:name":"Moso In Passiria",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2066,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

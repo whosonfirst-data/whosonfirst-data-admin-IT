@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ussassai",
+    "eurostat:nuts_2021_id":"091100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091100",
+    "eurostat:population":506,
+    "eurostat:population_year":2020,
     "geom:area":0.004982,
-    "geom:area_square_m":47315054.743383,
+    "geom:area_square_m":47315054.743379,
     "geom:bbox":"9.36160208248,39.7546566091,9.44311173464,39.8838670361",
     "geom:latitude":39.81737,
     "geom:longitude":9.404494,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091100",
+        "eurostat:nuts_2021_id":"091100",
         "gn:id":6539271,
         "gp:id":12682313,
         "qs_pg:id":42941
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f64c1d718bb3be580b6dbbc5f7ae4dc8",
+    "wof:geomhash":"7324990f45dae25d4a0a3d55d2704a99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467269,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353870,
     "wof:name":"Ussassai",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":506,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

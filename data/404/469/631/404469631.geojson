@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mezzago",
+    "eurostat:nuts_2021_id":"108031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108031",
+    "eurostat:population":4491,
+    "eurostat:population_year":2020,
     "geom:area":0.000499,
-    "geom:area_square_m":4311933.366365,
+    "geom:area_square_m":4311933.366364,
     "geom:bbox":"9.4304203031,45.6154644804,9.45757768646,45.6466303722",
     "geom:latitude":45.629699,
     "geom:longitude":9.444387,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108031",
+        "eurostat:nuts_2021_id":"108031",
         "gn:id":6542933,
         "gp:id":20076563,
         "qs_pg:id":238682
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a09ae23b0325fcb1a07f889adc42e3ee",
+    "wof:geomhash":"b8004d6a51940cdddeeb05a6e591b2ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469631,
-    "wof:lastmodified":1582328041,
+    "wof:lastmodified":1684353907,
     "wof:name":"Mezzago",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":4491,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

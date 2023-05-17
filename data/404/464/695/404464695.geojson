@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caccuri",
+    "eurostat:nuts_2021_id":"101002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101002",
+    "eurostat:population":1604,
+    "eurostat:population_year":2020,
     "geom:area":0.006335,
-    "geom:area_square_m":60693689.802533,
+    "geom:area_square_m":60693689.802528,
     "geom:bbox":"16.7467518899,39.1692768244,16.8678614587,39.2661029431",
     "geom:latitude":39.211796,
     "geom:longitude":16.80801,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101002",
+        "eurostat:nuts_2021_id":"101002"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b84bdf753d625dfbe23dce967c3348f7",
+    "wof:geomhash":"348ad2e4dfc1f15656df044909359fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404464695,
-    "wof:lastmodified":1566723223,
+    "wof:lastmodified":1684353813,
     "wof:name":"Caccuri",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":1604,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

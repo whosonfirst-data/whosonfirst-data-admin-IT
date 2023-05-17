@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valleve",
+    "eurostat:nuts_2021_id":"016226",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016226",
+    "eurostat:population":132,
+    "eurostat:population_year":2020,
     "geom:area":0.001717,
-    "geom:area_square_m":14739434.218045,
+    "geom:area_square_m":14739434.218048,
     "geom:bbox":"9.68475581543,46.0139432594,9.76531483757,46.0640908505",
     "geom:latitude":46.036353,
     "geom:longitude":9.718281,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016226",
+        "eurostat:nuts_2021_id":"016226",
         "gn:id":6542580,
         "gp:id":12681049,
         "qs_pg:id":401490
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c55863fc9c812cd465311870902ea67",
+    "wof:geomhash":"1bc115630f1a9db861cc7f671c88fa0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470869,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353929,
     "wof:name":"Valleve",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

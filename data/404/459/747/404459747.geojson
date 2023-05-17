@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isola del Piano",
+    "eurostat:nuts_2021_id":"041021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041021",
+    "eurostat:population":555,
+    "eurostat:population_year":2020,
     "geom:area":0.002599,
-    "geom:area_square_m":23225229.315266,
+    "geom:area_square_m":23225229.315269,
     "geom:bbox":"12.7382016337,43.7002037128,12.8157753798,43.754164419",
     "geom:latitude":43.731114,
     "geom:longitude":12.776053,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_041021",
+        "eurostat:nuts_2021_id":"041021"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f1797839970559b38e0fa2123ec6959e",
+    "wof:geomhash":"0364a83b64355b61e70f992a6323322b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459747,
-    "wof:lastmodified":1566723738,
+    "wof:lastmodified":1684353700,
     "wof:name":"Isola Del Piano",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":555,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

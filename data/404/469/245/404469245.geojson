@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brivio",
+    "eurostat:nuts_2021_id":"097010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097010",
+    "eurostat:population":4529,
+    "eurostat:population_year":2020,
     "geom:area":0.00092,
     "geom:area_square_m":7941138.504718,
     "geom:bbox":"9.41490966903,45.7281569812,9.45718151991,45.7813537867",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097010",
+        "eurostat:nuts_2021_id":"097010",
         "gn:id":6541781,
         "gp:id":12677125,
         "qs_pg:id":1037430
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8db33b1a143886b9370220a7b0b6ffd",
+    "wof:geomhash":"2250dc286477e731424dc864a670a47b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469245,
-    "wof:lastmodified":1582328026,
+    "wof:lastmodified":1684353901,
     "wof:name":"Brivio",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":4529,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

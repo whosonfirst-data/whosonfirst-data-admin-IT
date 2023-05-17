@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervinara",
+    "eurostat:nuts_2021_id":"064025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064025",
+    "eurostat:population":9300,
+    "eurostat:population_year":2020,
     "geom:area":0.003127,
-    "geom:area_square_m":29169905.406796,
+    "geom:area_square_m":29169905.406792,
     "geom:bbox":"14.5741845607,40.9845031795,14.6724377563,41.0504935808",
     "geom:latitude":41.015954,
     "geom:longitude":14.625038,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064025",
+        "eurostat:nuts_2021_id":"064025",
         "gn:id":3178990,
         "gp:id":12678550,
         "qs_pg:id":1026004
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf2ad64e4618bb25ec759a2ecb4e85f0",
+    "wof:geomhash":"3e390428640114c2d86075b06566193d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404465251,
-    "wof:lastmodified":1582327832,
+    "wof:lastmodified":1684353828,
     "wof:name":"Cervinara",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":9300,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

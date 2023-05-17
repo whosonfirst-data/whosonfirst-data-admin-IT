@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laino Castello",
+    "eurostat:nuts_2021_id":"078064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078064",
+    "eurostat:population":791,
+    "eurostat:population_year":2020,
     "geom:area":0.003903,
-    "geom:area_square_m":37006432.084103,
+    "geom:area_square_m":37006432.08411,
     "geom:bbox":"15.8776291335,39.8991432178,16.0234548778,39.9796725654",
     "geom:latitude":39.932884,
     "geom:longitude":15.958611,
@@ -122,6 +134,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -129,9 +143,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078064",
+        "eurostat:nuts_2021_id":"078064"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c95d373b1f0b06407b40ac1c089a895a",
+    "wof:geomhash":"11f6658bfdd64bafd1ad6af20318117b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404464189,
-    "wof:lastmodified":1566723225,
+    "wof:lastmodified":1684353799,
     "wof:name":"Laino Castello",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":791,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

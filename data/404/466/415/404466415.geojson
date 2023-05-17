@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdina",
+    "eurostat:nuts_2021_id":"083103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083103",
+    "eurostat:population":1298,
+    "eurostat:population_year":2020,
     "geom:area":0.000266,
     "geom:area_square_m":2582388.418785,
     "geom:bbox":"15.3534329887,38.188096255,15.3769756898,38.2186088681",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083103",
+        "eurostat:nuts_2021_id":"083103",
         "gn:id":6540837,
         "gp:id":12682237,
         "qs_pg:id":886491
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1aca57f53c0605741489868448c27b80",
+    "wof:geomhash":"cbda43f1840b0744c0b134be3ff738e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466415,
-    "wof:lastmodified":1582328189,
+    "wof:lastmodified":1684353848,
     "wof:name":"Valdina",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1298,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

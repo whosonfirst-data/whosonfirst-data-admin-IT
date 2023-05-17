@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ustica",
+    "eurostat:nuts_2021_id":"082075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082075",
+    "eurostat:population":1302,
+    "eurostat:population_year":2020,
     "geom:area":0.000851,
-    "geom:area_square_m":8214912.659438,
+    "geom:area_square_m":8214912.659435,
     "geom:bbox":"13.1511463243,38.690474669,13.200452075,38.7208048275",
     "geom:latitude":38.705145,
     "geom:longitude":13.174937,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082075",
+        "eurostat:nuts_2021_id":"082075",
         "gn:id":6541326,
         "gp:id":12682314,
         "qs_pg:id":42942
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c3776cf37b48cf6c16fc6a99738f689",
+    "wof:geomhash":"194cbc0588247aa30c37f6f4fdeea34b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404465081,
-    "wof:lastmodified":1582327840,
+    "wof:lastmodified":1684353825,
     "wof:name":"Ustica",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1302,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

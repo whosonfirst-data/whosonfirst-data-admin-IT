@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lumarzo",
+    "eurostat:nuts_2021_id":"010031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010031",
+    "eurostat:population":1504,
+    "eurostat:population_year":2020,
     "geom:area":0.002886,
-    "geom:area_square_m":25476772.049971,
+    "geom:area_square_m":25476772.049974,
     "geom:bbox":"9.10266453549,44.4090919528,9.16279964179,44.4887053505",
     "geom:latitude":44.449445,
     "geom:longitude":9.133207,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010031",
+        "eurostat:nuts_2021_id":"010031",
         "gn:id":6542732,
         "gp:id":12680913,
         "qs_pg:id":1072513
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ba0229bbc2cd55f15dfa79584492a44",
+    "wof:geomhash":"d06565aca35af5134adbe65954ca1c06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471989,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353950,
     "wof:name":"Lumarzo",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":1504,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

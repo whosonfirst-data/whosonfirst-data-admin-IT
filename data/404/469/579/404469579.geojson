@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Besana in Brianza",
+    "eurostat:nuts_2021_id":"108008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108008",
+    "eurostat:population":15610,
+    "eurostat:population_year":2020,
     "geom:area":0.001822,
-    "geom:area_square_m":15733815.821608,
+    "geom:area_square_m":15733815.821603,
     "geom:bbox":"9.24532513177,45.667850669,9.30475302041,45.7212348422",
     "geom:latitude":45.695618,
     "geom:longitude":9.273859,
@@ -32,6 +44,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,6 +54,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108008",
+        "eurostat:nuts_2021_id":"108008",
         "gp:id":12676746,
         "qs_pg:id":507467
     },
@@ -47,7 +63,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4a9d7a2114e3626a5ceeaa8ac3eb031",
+    "wof:geomhash":"9acfd660bb832d65a7ec90b1a50e2cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +74,12 @@
         }
     ],
     "wof:id":404469579,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353906,
     "wof:name":"Besana In Brianza",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":15610,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

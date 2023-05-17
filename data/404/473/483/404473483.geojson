@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fierozzo",
+    "eurostat:nuts_2021_id":"022085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022085",
+    "eurostat:population":487,
+    "eurostat:population_year":2020,
     "geom:area":0.002088,
-    "geom:area_square_m":17899390.009794,
+    "geom:area_square_m":17899390.009793,
     "geom:bbox":"11.2985955273,46.0760806255,11.3757628057,46.1278314143",
     "geom:latitude":46.105607,
     "geom:longitude":11.342372,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022085",
+        "eurostat:nuts_2021_id":"022085",
         "gn:id":6542624,
         "gp:id":20076614,
         "qs_pg:id":1149934
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78fece4ab80f9bc00a78ea6497e7bbfb",
+    "wof:geomhash":"1c59e55416fbfbe9970619ca0fad10fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473483,
-    "wof:lastmodified":1582327916,
+    "wof:lastmodified":1684353989,
     "wof:name":"Fierozzo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":487,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

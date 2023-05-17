@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cura Carpignano",
+    "eurostat:nuts_2021_id":"018060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018060",
+    "eurostat:population":4928,
+    "eurostat:population_year":2020,
     "geom:area":0.001271,
-    "geom:area_square_m":11071420.100095,
+    "geom:area_square_m":11071420.100096,
     "geom:bbox":"9.21464719631,45.1824555215,9.29185658957,45.2272554321",
     "geom:latitude":45.206228,
     "geom:longitude":9.248691,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018060",
+        "eurostat:nuts_2021_id":"018060",
         "gn:id":6543766,
         "gp:id":20076303,
         "qs_pg:id":1174617
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3ec491a544ecc291dd6203b33849045",
+    "wof:geomhash":"c1f341747743409bdc48b08901ab42e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471413,
-    "wof:lastmodified":1582327713,
+    "wof:lastmodified":1684353939,
     "wof:name":"Cura Carpignano",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":4928,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

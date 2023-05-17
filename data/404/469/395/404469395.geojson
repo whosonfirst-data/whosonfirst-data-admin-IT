@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sueglio",
+    "eurostat:nuts_2021_id":"097077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097077",
+    "eurostat:population":153,
+    "eurostat:population_year":2020,
     "geom:area":0.000478,
-    "geom:area_square_m":4101788.74546,
+    "geom:area_square_m":4101788.745461,
     "geom:bbox":"9.32220650463,46.079800391,9.35672769544,46.1044807008",
     "geom:latitude":46.092718,
     "geom:longitude":9.339834,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097077",
+        "eurostat:nuts_2021_id":"097077",
         "gn:id":6539410,
         "qs_pg:id":628443
     },
@@ -149,7 +165,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b855a21a4804fec6b26a60643c4a64a",
+    "wof:geomhash":"085c53bb1f9b11aedaa549e5c5e6c56c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404469395,
-    "wof:lastmodified":1582328033,
+    "wof:lastmodified":1684353903,
     "wof:name":"Sueglio",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":153,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

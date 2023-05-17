@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venezia",
+    "eurostat:nuts_2021_id":"027042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027042",
+    "eurostat:population":259150,
+    "eurostat:population_year":2020,
     "geom:area":0.047809,
-    "geom:area_square_m":414590270.788546,
+    "geom:area_square_m":414590270.788565,
     "geom:bbox":"12.1668676015,45.2310966718,12.5966967955,45.5779539337",
     "geom:latitude":45.467717,
     "geom:longitude":12.346355,
@@ -41,6 +53,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -49,6 +63,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027042",
+        "eurostat:nuts_2021_id":"027042",
         "gn:id":6542284,
         "gp:id":20076699,
         "qs_pg:id":202405
@@ -57,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c902258e4c46dac6e69c14f635200726",
+    "wof:geomhash":"40dad6d417cdf77da053e0eb4689ccae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404470193,
-    "wof:lastmodified":1582327738,
+    "wof:lastmodified":1684353917,
     "wof:name":"Venezia",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":259150,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

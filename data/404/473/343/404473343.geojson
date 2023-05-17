@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bondone",
+    "eurostat:nuts_2021_id":"022021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022021",
+    "eurostat:population":657,
+    "eurostat:population_year":2020,
     "geom:area":0.002222,
-    "geom:area_square_m":19152596.75807,
+    "geom:area_square_m":19152596.758067,
     "geom:bbox":"10.5260636688,45.7834119247,10.6352116117,45.8254266914",
     "geom:latitude":45.804036,
     "geom:longitude":10.575825,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022021",
+        "eurostat:nuts_2021_id":"022021",
         "gn:id":6543236,
         "gp:id":20076597,
         "qs_pg:id":1149931
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1cc08b9db8cfd8cd25e8c7807d74fda7",
+    "wof:geomhash":"af4de8e6c45d6f13c3c34405b0365126",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473343,
-    "wof:lastmodified":1582327934,
+    "wof:lastmodified":1684353987,
     "wof:name":"Bondone",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":657,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

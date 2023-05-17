@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ronchi dei Legionari",
+    "eurostat:nuts_2021_id":"031016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031016",
+    "eurostat:population":11937,
+    "eurostat:population_year":2020,
     "geom:area":0.001977,
-    "geom:area_square_m":17030744.858736,
+    "geom:area_square_m":17030744.858734,
     "geom:bbox":"13.4691380043,45.809421487,13.5572201368,45.8527904762",
     "geom:latitude":45.829828,
     "geom:longitude":13.507579,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031016",
+        "eurostat:nuts_2021_id":"031016",
         "gn:id":6536328,
         "gp:id":12679088,
         "qs_pg:id":965622
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52a29c44533b747e3855f2d4e3336cb1",
+    "wof:geomhash":"b8535fe0a5d61d2aa6ecde9ef2cc8cff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404470781,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353927,
     "wof:name":"Ronchi Dei Legionari",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":11937,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

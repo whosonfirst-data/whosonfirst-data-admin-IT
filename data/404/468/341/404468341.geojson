@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cambiago",
+    "eurostat:nuts_2021_id":"015044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015044",
+    "eurostat:population":7128,
+    "eurostat:population_year":2020,
     "geom:area":0.000828,
-    "geom:area_square_m":7169393.91145,
+    "geom:area_square_m":7169393.911449,
     "geom:bbox":"9.39154849294,45.5574847562,9.44972437586,45.5862831564",
     "geom:latitude":45.571767,
     "geom:longitude":9.423076,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015044",
+        "eurostat:nuts_2021_id":"015044",
         "gn:id":6539474,
         "gp:id":12677366,
         "qs_pg:id":206263
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3f66bd4d0e9d795359fb0c0b42455e1",
+    "wof:geomhash":"5acf189613b0232ec43a8e13e40471dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468341,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353887,
     "wof:name":"Cambiago",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":7128,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

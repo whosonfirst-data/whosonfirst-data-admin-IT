@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ficarolo",
+    "eurostat:nuts_2021_id":"029021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029021",
+    "eurostat:population":2305,
+    "eurostat:population_year":2020,
     "geom:area":0.002057,
     "geom:area_square_m":18001443.817358,
     "geom:bbox":"11.4148516015,44.9289355469,11.4796694622,44.9829582828",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029021",
+        "eurostat:nuts_2021_id":"029021",
         "gn:id":6538351,
         "gp:id":12679257,
         "qs_pg:id":536998
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13546d28c7f4dad3d98454c86e33bedc",
+    "wof:geomhash":"6d60908f87a0da9e0ea403f2cdfbd864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470369,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353920,
     "wof:name":"Ficarolo",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":2305,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

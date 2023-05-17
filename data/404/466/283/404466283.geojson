@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malvagna",
+    "eurostat:nuts_2021_id":"083044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083044",
+    "eurostat:population":663,
+    "eurostat:population_year":2020,
     "geom:area":0.000683,
-    "geom:area_square_m":6664694.220679,
+    "geom:area_square_m":6664694.220677,
     "geom:bbox":"15.0340763408,37.8981846026,15.0714195407,37.9475405497",
     "geom:latitude":37.926213,
     "geom:longitude":15.051539,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083044",
+        "eurostat:nuts_2021_id":"083044",
         "gn:id":6537762,
         "gp:id":20077044,
         "qs_pg:id":51084
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed72276b10673347fbc31ba2ecb26cc3",
+    "wof:geomhash":"44e7d943f60c84d8f7fa2959cfb984aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466283,
-    "wof:lastmodified":1582328200,
+    "wof:lastmodified":1684353846,
     "wof:name":"Malvagna",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":663,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

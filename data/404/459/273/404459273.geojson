@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milo",
+    "eurostat:nuts_2021_id":"087026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087026",
+    "eurostat:population":1041,
+    "eurostat:population_year":2020,
     "geom:area":0.001693,
-    "geom:area_square_m":16558590.017734,
+    "geom:area_square_m":16558590.017735,
     "geom:bbox":"15.0579158189,37.7055779002,15.1437083859,37.7635267806",
     "geom:latitude":37.735068,
     "geom:longitude":15.103014,
@@ -98,6 +110,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -105,9 +119,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_087026",
+        "eurostat:nuts_2021_id":"087026"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"662325733e78f7d804db17eb6ad8c4b1",
+    "wof:geomhash":"4856a37f0785b8af009181eb005c0995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +135,12 @@
         }
     ],
     "wof:id":404459273,
-    "wof:lastmodified":1566723727,
+    "wof:lastmodified":1684353690,
     "wof:name":"Milo",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":1041,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

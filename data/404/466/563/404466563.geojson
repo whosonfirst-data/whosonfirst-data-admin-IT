@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Caterina Villarmosa",
+    "eurostat:nuts_2021_id":"085017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085017",
+    "eurostat:population":5039,
+    "eurostat:population_year":2020,
     "geom:area":0.007703,
-    "geom:area_square_m":75465329.635519,
+    "geom:area_square_m":75465329.635509,
     "geom:bbox":"14.0114033278,37.5304337452,14.1643360357,37.6368041747",
     "geom:latitude":37.595331,
     "geom:longitude":14.090361,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085017",
+        "eurostat:nuts_2021_id":"085017",
         "gn:id":6539182,
         "gp:id":12681841,
         "qs_pg:id":231302
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fcb6867fc05ea8a9d0fd041a4d1ea687",
+    "wof:geomhash":"1e0f062abe2b43e234f52618ea592163",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466563,
-    "wof:lastmodified":1582328198,
+    "wof:lastmodified":1684353852,
     "wof:name":"Santa Caterina Villarmosa",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":5039,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bianco",
+    "eurostat:nuts_2021_id":"080009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080009",
+    "eurostat:population":4151,
+    "eurostat:population_year":2020,
     "geom:area":0.003052,
-    "geom:area_square_m":29704726.354586,
+    "geom:area_square_m":29704726.354582,
     "geom:bbox":"16.0990101557,38.023183786,16.1594437463,38.1137809376",
     "geom:latitude":38.074403,
     "geom:longitude":16.131083,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080009",
+        "eurostat:nuts_2021_id":"080009",
         "gn:id":6539858,
         "gp:id":20077004,
         "qs_pg:id":1149959
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a9e377f5ae7bfc13f4281b1d0ede950",
+    "wof:geomhash":"b73950123453243efa545d10d28b6c86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464493,
-    "wof:lastmodified":1582327804,
+    "wof:lastmodified":1684353807,
     "wof:name":"Bianco",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":4151,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antrona Schieranco",
+    "eurostat:nuts_2021_id":"103001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103001",
+    "eurostat:population":404,
+    "eurostat:population_year":2020,
     "geom:area":0.011655,
-    "geom:area_square_m":100009996.782194,
+    "geom:area_square_m":100009996.782184,
     "geom:bbox":"8.01096299421,46.0019428119,8.16543615678,46.111595935",
     "geom:latitude":46.057115,
     "geom:longitude":8.085501,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103001",
+        "eurostat:nuts_2021_id":"103001",
         "gn:id":6542825,
         "gp:id":12675982,
         "qs_pg:id":75986
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b23a8fe20c950fe5a73f29e06767ba0",
+    "wof:geomhash":"642dce360f6eb433160258918d6e08ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459427,
-    "wof:lastmodified":1582328172,
+    "wof:lastmodified":1684353693,
     "wof:name":"Antrona Schieranco",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

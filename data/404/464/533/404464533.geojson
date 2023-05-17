@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cinquefrondi",
+    "eurostat:nuts_2021_id":"080027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080027",
+    "eurostat:population":6442,
+    "eurostat:population_year":2020,
     "geom:area":0.003062,
-    "geom:area_square_m":29671621.198734,
+    "geom:area_square_m":29671621.198732,
     "geom:bbox":"16.0711991602,38.3830099265,16.188519805,38.4340683007",
     "geom:latitude":38.410342,
     "geom:longitude":16.134255,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080027",
+        "eurostat:nuts_2021_id":"080027",
         "gn:id":6540812,
         "gp:id":12678670,
         "qs_pg:id":1194247
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee31a400a3cc7573b150d3a418cc91bd",
+    "wof:geomhash":"24ce526a14ea50bd844802eaff0bcde1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404464533,
-    "wof:lastmodified":1582327793,
+    "wof:lastmodified":1684353808,
     "wof:name":"Cinquefrondi",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":6442,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

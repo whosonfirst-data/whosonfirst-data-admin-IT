@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarule",
+    "eurostat:nuts_2021_id":"091077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091077",
+    "eurostat:population":1664,
+    "eurostat:population_year":2020,
     "geom:area":0.005582,
-    "geom:area_square_m":52702559.729087,
+    "geom:area_square_m":52702559.729089,
     "geom:bbox":"9.05262068715,40.1881371384,9.23227390054,40.2426755171",
     "geom:latitude":40.216002,
     "geom:longitude":9.140106,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091077",
+        "eurostat:nuts_2021_id":"091077",
         "gn:id":6541778,
         "gp:id":12681893,
         "qs_pg:id":1016805
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db9c6e3b6f59b5519e293b39f5b31485",
+    "wof:geomhash":"07e2ea4243b3252e56eafa070bc6037a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460569,
-    "wof:lastmodified":1582327993,
+    "wof:lastmodified":1684353721,
     "wof:name":"Sarule",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1664,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

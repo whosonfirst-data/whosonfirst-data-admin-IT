@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parona",
+    "eurostat:nuts_2021_id":"018109",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018109",
+    "eurostat:population":1940,
+    "eurostat:population_year":2020,
     "geom:area":0.001068,
     "geom:area_square_m":9288014.968201,
     "geom:bbox":"8.72051674038,45.2713984084,8.80032258594,45.2939747092",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018109",
+        "eurostat:nuts_2021_id":"018109",
         "gn:id":6539789,
         "gp:id":12680934,
         "qs_pg:id":41924
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f2b067dd89a7a1d0be26cf7c202cdd7",
+    "wof:geomhash":"84679c21c4b0113f7f4158ee6fd7c82d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471523,
-    "wof:lastmodified":1582327734,
+    "wof:lastmodified":1684353941,
     "wof:name":"Parona",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1940,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

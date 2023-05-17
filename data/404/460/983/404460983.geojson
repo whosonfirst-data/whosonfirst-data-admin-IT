@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecassiano",
+    "eurostat:nuts_2021_id":"043026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043026",
+    "eurostat:population":6968,
+    "eurostat:population_year":2020,
     "geom:area":0.003695,
     "geom:area_square_m":33219173.400736,
     "geom:bbox":"13.3878443801,43.3320702971,13.4846054526,43.3894545669",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043026",
+        "eurostat:nuts_2021_id":"043026",
         "gn:id":6541843,
         "gp:id":12680484,
         "qs_pg:id":1250674
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c94d1fb1c44d71e08f206d3734a31d78",
+    "wof:geomhash":"864b5441d18c56ba276f042a1bb9b443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404460983,
-    "wof:lastmodified":1582328004,
+    "wof:lastmodified":1684353728,
     "wof:name":"Montecassiano",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":6968,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

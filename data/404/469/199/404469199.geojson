@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schivenoglia",
+    "eurostat:nuts_2021_id":"020060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020060",
+    "eurostat:population":1132,
+    "eurostat:population_year":2020,
     "geom:area":0.001479,
-    "geom:area_square_m":12929325.472824,
+    "geom:area_square_m":12929325.472823,
     "geom:bbox":"11.0293023904,44.9798829706,11.096343423,45.01979512",
     "geom:latitude":45.001255,
     "geom:longitude":11.068778,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020060",
+        "eurostat:nuts_2021_id":"020060",
         "gn:id":6543230,
         "gp:id":12680120,
         "qs_pg:id":41349
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7599c25572400346cbac03d46ca088b1",
+    "wof:geomhash":"af1efcd0d77200c9400f4401e00f3fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469199,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353901,
     "wof:name":"Schivenoglia",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":1132,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

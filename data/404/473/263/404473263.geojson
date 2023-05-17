@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tesimo/Tisens",
+    "eurostat:nuts_2021_id":"021099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021099",
+    "eurostat:population":1994,
+    "eurostat:population_year":2020,
     "geom:area":0.004473,
-    "geom:area_square_m":38034596.011811,
+    "geom:area_square_m":38034596.011808,
     "geom:bbox":"11.0947848461,46.5176568844,11.2052521478,46.5892604617",
     "geom:latitude":46.551002,
     "geom:longitude":11.150016,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021099",
+        "eurostat:nuts_2021_id":"021099"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"498dc632bcf041862ad7b2f672a2d1a8",
+    "wof:geomhash":"16ac47e4a01466bf1ae5bc9d5e45c60b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473263,
-    "wof:lastmodified":1566723416,
+    "wof:lastmodified":1684353984,
     "wof:name":"Tesimo",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1994,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

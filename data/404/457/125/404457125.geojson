@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelfranco Emilia",
+    "eurostat:nuts_2021_id":"036006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036006",
+    "eurostat:population":33058,
+    "eurostat:population_year":2020,
     "geom:area":0.011621,
-    "geom:area_square_m":102314555.466911,
+    "geom:area_square_m":102314555.466914,
     "geom:bbox":"10.9821193995,44.5221937068,11.1529008466,44.662447594",
     "geom:latitude":44.598167,
     "geom:longitude":11.072852,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036006",
+        "eurostat:nuts_2021_id":"036006",
         "gn:id":6541633,
         "gp:id":12678230,
         "qs_pg:id":1078503
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13d226bbc862480118897fa96ee780f3",
+    "wof:geomhash":"2340b3cbcb697cee0f5814ea1ce8148d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404457125,
-    "wof:lastmodified":1582328120,
+    "wof:lastmodified":1684353643,
     "wof:name":"Castelfranco Emilia",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":33058,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

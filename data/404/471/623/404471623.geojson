@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Michele all'Adige",
+    "eurostat:nuts_2021_id":"022167",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022167",
+    "eurostat:population":3180,
+    "eurostat:population_year":2020,
     "geom:area":0.00062,
-    "geom:area_square_m":5303724.060769,
+    "geom:area_square_m":5303724.060768,
     "geom:bbox":"11.1028302085,46.1746610855,11.1452550122,46.2059630966",
     "geom:latitude":46.189297,
     "geom:longitude":11.124893,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022167",
+        "eurostat:nuts_2021_id":"022167",
         "gn:id":6536248,
         "gp:id":20076642,
         "qs_pg:id":1189979
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c64a53bc62c36e209aa1d956494674c",
+    "wof:geomhash":"ba9d1d6c486dfb96e84e95ca0996ba38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471623,
-    "wof:lastmodified":1582327726,
+    "wof:lastmodified":1684353943,
     "wof:name":"San Michele All'Adige",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":3180,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

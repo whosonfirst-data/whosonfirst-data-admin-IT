@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cambiano",
+    "eurostat:nuts_2021_id":"001048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001048",
+    "eurostat:population":6008,
+    "eurostat:population_year":2020,
     "geom:area":0.001613,
-    "geom:area_square_m":14109163.655394,
+    "geom:area_square_m":14109163.655395,
     "geom:bbox":"7.72038334999,44.936092901,7.79651391741,45.0114911869",
     "geom:latitude":44.969873,
     "geom:longitude":7.7659,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001048",
+        "eurostat:nuts_2021_id":"001048",
         "gn:id":6538044,
         "gp:id":20076452,
         "qs_pg:id":366460
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8682f01e75781fe17c01b61d9cf2787a",
+    "wof:geomhash":"66b04242e55edc21939b52d232eb3651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456281,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353620,
     "wof:name":"Cambiano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":6008,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

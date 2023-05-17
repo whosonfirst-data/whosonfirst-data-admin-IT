@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabella Ligure",
+    "eurostat:nuts_2021_id":"006025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006025",
+    "eurostat:population":481,
+    "eurostat:population_year":2020,
     "geom:area":0.005296,
-    "geom:area_square_m":46573938.991192,
+    "geom:area_square_m":46573938.991196,
     "geom:bbox":"9.07278646483,44.6215056113,9.20647984895,44.701845814",
     "geom:latitude":44.669689,
     "geom:longitude":9.137433,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006025",
+        "eurostat:nuts_2021_id":"006025",
         "gn:id":6540959,
         "gp:id":12677240,
         "qs_pg:id":243054
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"592ec48a25d920b3b0abbcb0c1577a06",
+    "wof:geomhash":"33b14d36b230d30784397adedd565f23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404460031,
-    "wof:lastmodified":1582328002,
+    "wof:lastmodified":1684353707,
     "wof:name":"Cabella Ligure",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":481,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

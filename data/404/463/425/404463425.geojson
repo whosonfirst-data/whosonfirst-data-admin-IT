@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvera",
+    "eurostat:nuts_2021_id":"076016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076016",
+    "eurostat:population":365,
+    "eurostat:population_year":2020,
     "geom:area":0.001678,
     "geom:area_square_m":15857171.3064,
     "geom:bbox":"16.1021162419,40.1381821669,16.1959316236,40.1648228679",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076016",
+        "eurostat:nuts_2021_id":"076016",
         "gn:id":6537610,
         "gp:id":12677353,
         "qs_pg:id":1142865
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a040d8774a72fe21e8f133a02e9b384b",
+    "wof:geomhash":"05c9a310a893ba7c889820a197d574ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404463425,
-    "wof:lastmodified":1582327765,
+    "wof:lastmodified":1684353780,
     "wof:name":"Calvera",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":365,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

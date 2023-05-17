@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penna Sant'Andrea",
+    "eurostat:nuts_2021_id":"067033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067033",
+    "eurostat:population":1708,
+    "eurostat:population_year":2020,
     "geom:area":0.001214,
-    "geom:area_square_m":11047881.242829,
+    "geom:area_square_m":11047881.242827,
     "geom:bbox":"13.7497581204,42.5532722128,13.7918571468,42.6121236556",
     "geom:latitude":42.585408,
     "geom:longitude":13.766099,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067033",
+        "eurostat:nuts_2021_id":"067033",
         "gn:id":6538859,
         "gp:id":12680974,
         "qs_pg:id":947220
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8f9c337202d2c3b0fd10e00d42bd876",
+    "wof:geomhash":"44fc45a657e8e1b447ce48a954422505",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404462383,
-    "wof:lastmodified":1582327860,
+    "wof:lastmodified":1684353757,
     "wof:name":"Penna Sant'Andrea",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":1708,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

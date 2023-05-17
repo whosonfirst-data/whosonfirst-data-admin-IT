@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torcegno",
+    "eurostat:nuts_2021_id":"022202",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022202",
+    "eurostat:population":676,
+    "eurostat:population_year":2020,
     "geom:area":0.001768,
-    "geom:area_square_m":15155339.895367,
+    "geom:area_square_m":15155339.895368,
     "geom:bbox":"11.3704524033,46.0622403595,11.4651687414,46.1255723055",
     "geom:latitude":46.09873,
     "geom:longitude":11.417699,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022202",
+        "eurostat:nuts_2021_id":"022202",
         "gn:id":6542694,
         "gp:id":20076655,
         "qs_pg:id":1166787
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d558442d0c708c5dda26b509a9ee7135",
+    "wof:geomhash":"4df358339aceb71922835bd42bcd7532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471697,
-    "wof:lastmodified":1582327729,
+    "wof:lastmodified":1684353944,
     "wof:name":"Torcegno",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":676,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

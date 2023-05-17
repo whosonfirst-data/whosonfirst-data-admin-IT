@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petrella Tifernina",
+    "eurostat:nuts_2021_id":"070052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070052",
+    "eurostat:population":1100,
+    "eurostat:population_year":2020,
     "geom:area":0.002854,
-    "geom:area_square_m":26353890.077238,
+    "geom:area_square_m":26353890.077241,
     "geom:bbox":"14.6626306765,41.6561920806,14.7492507031,41.7226286722",
     "geom:latitude":41.69032,
     "geom:longitude":14.701423,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070052",
+        "eurostat:nuts_2021_id":"070052",
         "gn:id":6537518,
         "gp:id":12681014,
         "qs_pg:id":1093116
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ce31a1f8d29a65d949fb692a160eb32",
+    "wof:geomhash":"82e55e1b939f003a935bacdfb470d370",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458791,
-    "wof:lastmodified":1582327938,
+    "wof:lastmodified":1684353677,
     "wof:name":"Petrella Tifernina",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1100,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

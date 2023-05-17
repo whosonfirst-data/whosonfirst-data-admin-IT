@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morazzone",
+    "eurostat:nuts_2021_id":"012105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012105",
+    "eurostat:population":4275,
+    "eurostat:population_year":2020,
     "geom:area":0.000648,
     "geom:area_square_m":5593795.643109,
     "geom:bbox":"8.81232951618,45.7502629315,8.85606648017,45.7734934591",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012105",
+        "eurostat:nuts_2021_id":"012105",
         "gn:id":6543097,
         "gp:id":12679518,
         "qs_pg:id":247189
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d0f761b2acb886a778fe8f187f4c89f",
+    "wof:geomhash":"751fbcacb0c0f33d8c21b928c057e34a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467847,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353880,
     "wof:name":"Morazzone",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":4275,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

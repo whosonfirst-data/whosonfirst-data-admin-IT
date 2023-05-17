@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbianello",
+    "eurostat:nuts_2021_id":"018008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018008",
+    "eurostat:population":854,
+    "eurostat:population_year":2020,
     "geom:area":0.001343,
-    "geom:area_square_m":11729223.191981,
+    "geom:area_square_m":11729223.191983,
     "geom:bbox":"9.17222808254,45.0565506092,9.24390710864,45.1011459402",
     "geom:latitude":45.076319,
     "geom:longitude":9.203231,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018008",
+        "eurostat:nuts_2021_id":"018008",
         "gn:id":6537186,
         "gp:id":12676551,
         "qs_pg:id":234942
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c50c24c39ff223227dd1f65eae22356",
+    "wof:geomhash":"35d4390c847de7bf7820240955b0d48f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404458283,
-    "wof:lastmodified":1582327953,
+    "wof:lastmodified":1684353667,
     "wof:name":"Barbianello",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":854,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

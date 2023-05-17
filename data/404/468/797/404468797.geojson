@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018186",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zeme",
+    "eurostat:nuts_2021_id":"018186",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018186",
+    "eurostat:population":1005,
+    "eurostat:population_year":2020,
     "geom:area":0.002817,
     "geom:area_square_m":24548319.431696,
     "geom:bbox":"8.63013248633,45.1701900397,8.72410457077,45.2213462561",
@@ -110,6 +122,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -118,6 +132,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018186",
+        "eurostat:nuts_2021_id":"018186",
         "gn:id":6537207,
         "gp:id":12682541,
         "qs_pg:id":43080
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90754da4f0ec210e7002b5ad24d5fb5d",
+    "wof:geomhash":"440d394a27d87f6164f2f7e9e131c8a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404468797,
-    "wof:lastmodified":1582328074,
+    "wof:lastmodified":1684353894,
     "wof:name":"Zeme",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1005,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

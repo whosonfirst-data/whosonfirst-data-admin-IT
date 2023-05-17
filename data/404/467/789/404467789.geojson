@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorla Minore",
+    "eurostat:nuts_2021_id":"012079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012079",
+    "eurostat:population":8311,
+    "eurostat:population_year":2020,
     "geom:area":0.000864,
-    "geom:area_square_m":7469343.036487,
+    "geom:area_square_m":7469343.036488,
     "geom:bbox":"8.89166437534,45.6352890221,8.94035511801,45.6625541412",
     "geom:latitude":45.647774,
     "geom:longitude":8.913537,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012079",
+        "eurostat:nuts_2021_id":"012079",
         "gn:id":6542907,
         "gp:id":20076046,
         "qs_pg:id":205074
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78d3cd14f290ca801fd7cfbb84402297",
+    "wof:geomhash":"16fe8ef42a3bcfcc9209a141231855c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467789,
-    "wof:lastmodified":1582327990,
+    "wof:lastmodified":1684353880,
     "wof:name":"Gorla Minore",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":8311,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

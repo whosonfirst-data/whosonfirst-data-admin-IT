@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccagiovine",
+    "eurostat:nuts_2021_id":"058087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058087",
+    "eurostat:population":258,
+    "eurostat:population_year":2020,
     "geom:area":0.000913,
-    "geom:area_square_m":8380413.303699,
+    "geom:area_square_m":8380413.3037,
     "geom:bbox":"12.8482812899,42.0374446465,12.9088531877,42.0606559211",
     "geom:latitude":42.049525,
     "geom:longitude":12.881455,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_058087",
+        "eurostat:nuts_2021_id":"058087"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cb927dc8662e0ff4e4073a29238c5b75",
+    "wof:geomhash":"6c8ebdb98058c7d7f4ae68164c0ac86f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404461711,
-    "wof:lastmodified":1566723719,
+    "wof:lastmodified":1684353744,
     "wof:name":"Roccagiovine",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":258,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

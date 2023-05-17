@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bossolasco",
+    "eurostat:nuts_2021_id":"004027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004027",
+    "eurostat:population":636,
+    "eurostat:population_year":2020,
     "geom:area":0.001648,
     "geom:area_square_m":14525378.772527,
     "geom:bbox":"8.01472092216,44.5038688448,8.0835328888,44.5547016005",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004027",
+        "eurostat:nuts_2021_id":"004027",
         "gn:id":6541452,
         "gp:id":12677031,
         "qs_pg:id":287930
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1b8a2481cfeb6cc78ff44ef139a417d",
+    "wof:geomhash":"960c65017f759ce8763219cd63349854",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457905,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353659,
     "wof:name":"Bossolasco",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":636,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

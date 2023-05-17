@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sedico",
+    "eurostat:nuts_2021_id":"025053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025053",
+    "eurostat:population":10204,
+    "eurostat:population_year":2020,
     "geom:area":0.010622,
-    "geom:area_square_m":90925268.480052,
+    "geom:area_square_m":90925268.480034,
     "geom:bbox":"12.0555552127,46.0745985807,12.1922150632,46.2661139879",
     "geom:latitude":46.18713,
     "geom:longitude":12.123746,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025053",
+        "eurostat:nuts_2021_id":"025053",
         "gn:id":6538288,
         "gp:id":20076688,
         "qs_pg:id":1198831
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"046889a91a26b118a1bfda9b673d1de2",
+    "wof:geomhash":"e3c53d081408f28a679ee5a96f37398c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469957,
-    "wof:lastmodified":1582328033,
+    "wof:lastmodified":1684353913,
     "wof:name":"Sedico",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":10204,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

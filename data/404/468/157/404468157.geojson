@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merone",
+    "eurostat:nuts_2021_id":"013147",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013147",
+    "eurostat:population":4092,
+    "eurostat:population_year":2020,
     "geom:area":0.00038,
-    "geom:area_square_m":3276469.856887,
+    "geom:area_square_m":3276469.856885,
     "geom:bbox":"9.23633427705,45.7669507819,9.26324341166,45.7964090579",
     "geom:latitude":45.7838,
     "geom:longitude":9.247931,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013147",
+        "eurostat:nuts_2021_id":"013147",
         "gn:id":6542493,
         "gp:id":12682560,
         "qs_pg:id":1163592
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42730a4d84d799393979137b6d026500",
+    "wof:geomhash":"b266db7cb32e018aaffa626e14711685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468157,
-    "wof:lastmodified":1582328075,
+    "wof:lastmodified":1684353884,
     "wof:name":"Merone",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":4092,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

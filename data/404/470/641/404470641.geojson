@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Remanzacco",
+    "eurostat:nuts_2021_id":"030091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030091",
+    "eurostat:population":6173,
+    "eurostat:population_year":2020,
     "geom:area":0.003597,
-    "geom:area_square_m":30852796.168117,
+    "geom:area_square_m":30852796.168115,
     "geom:bbox":"13.2865557052,46.0394747863,13.3666960293,46.1272011614",
     "geom:latitude":46.080646,
     "geom:longitude":13.32588,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030091",
+        "eurostat:nuts_2021_id":"030091",
         "gn:id":6536321,
         "gp:id":12680819,
         "qs_pg:id":1267710
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cacb39a2b56356b7d6f3227f19305ae8",
+    "wof:geomhash":"6a7d40e61858abb0a53170f75111dab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404470641,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353925,
     "wof:name":"Remanzacco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":6173,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

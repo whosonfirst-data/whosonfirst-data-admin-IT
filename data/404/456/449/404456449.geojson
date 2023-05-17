@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Inverso Pinasca",
+    "eurostat:nuts_2021_id":"001122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001122",
+    "eurostat:population":701,
+    "eurostat:population_year":2020,
     "geom:area":0.000916,
     "geom:area_square_m":8014761.950643,
     "geom:bbox":"7.19457418218,44.9164517231,7.23727797507,44.9545909024",
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001122",
+        "eurostat:nuts_2021_id":"001122"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ec9d7ffb96543a38cec333f6a3f82332",
+    "wof:geomhash":"ffab58a56cd48db4f054528f704455fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404456449,
-    "wof:lastmodified":1566723577,
+    "wof:lastmodified":1684353624,
     "wof:name":"Inverso Pinasca",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":701,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

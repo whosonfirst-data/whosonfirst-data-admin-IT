@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ballabio",
+    "eurostat:nuts_2021_id":"097004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097004",
+    "eurostat:population":4114,
+    "eurostat:population_year":2020,
     "geom:area":0.001745,
-    "geom:area_square_m":15013925.958634,
+    "geom:area_square_m":15013925.958633,
     "geom:bbox":"9.39028146621,45.8804034416,9.45002888969,45.9261269941",
     "geom:latitude":45.905117,
     "geom:longitude":9.422028,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097004",
+        "eurostat:nuts_2021_id":"097004",
         "gn:id":6539887,
         "gp:id":12676496,
         "qs_pg:id":103789
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3818925286614c19420e000bc77644e9",
+    "wof:geomhash":"e2622ee78fe1db86ea223f4b0eaeed5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469231,
-    "wof:lastmodified":1582328039,
+    "wof:lastmodified":1684353901,
     "wof:name":"Ballabio",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":4114,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

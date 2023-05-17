@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Putifigari",
+    "eurostat:nuts_2021_id":"090060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090060",
+    "eurostat:population":720,
+    "eurostat:population_year":2020,
     "geom:area":0.005651,
-    "geom:area_square_m":53080834.709275,
+    "geom:area_square_m":53080834.70927,
     "geom:bbox":"8.39133081029,40.5233129457,8.4992400629,40.6202901883",
     "geom:latitude":40.569526,
     "geom:longitude":8.445355,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090060",
+        "eurostat:nuts_2021_id":"090060",
         "gn:id":6537838,
         "gp:id":12681293,
         "qs_pg:id":961751
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"723ce2bfd7bd449809c2919e37ed93d4",
+    "wof:geomhash":"c7305612520bad35fb8dd8d92d054458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466821,
-    "wof:lastmodified":1582328188,
+    "wof:lastmodified":1684353859,
     "wof:name":"Putifigari",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":720,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

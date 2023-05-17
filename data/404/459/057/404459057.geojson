@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amato",
+    "eurostat:nuts_2021_id":"079004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079004",
+    "eurostat:population":796,
+    "eurostat:population_year":2020,
     "geom:area":0.002155,
-    "geom:area_square_m":20720419.328061,
+    "geom:area_square_m":20720419.328046,
     "geom:bbox":"16.4138134015,38.9115782575,16.4736394345,38.9875859759",
     "geom:latitude":38.943592,
     "geom:longitude":16.450173,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079004",
+        "eurostat:nuts_2021_id":"079004"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f191dc993d5be928058774f5202379f3",
+    "wof:geomhash":"e09a662b4457c623856d4ed9eb6e18ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404459057,
-    "wof:lastmodified":1566723753,
+    "wof:lastmodified":1684353685,
     "wof:name":"Amato",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":796,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

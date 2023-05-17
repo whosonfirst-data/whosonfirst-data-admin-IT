@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruinas",
+    "eurostat:nuts_2021_id":"095044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095044",
+    "eurostat:population":647,
+    "eurostat:population_year":2020,
     "geom:area":0.003211,
     "geom:area_square_m":30453282.22859,
     "geom:bbox":"8.84048116359,39.8776722947,8.93125789359,39.9369568432",
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095044",
+        "eurostat:nuts_2021_id":"095044",
         "gn:id":6540077,
         "gp:id":12681514,
         "qs_pg:id":258078
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"252e9c876b410b4e53293398cae49ea7",
+    "wof:geomhash":"8805ff14bf4997f576fd6b126cb41675",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467061,
-    "wof:lastmodified":1582327986,
+    "wof:lastmodified":1684353864,
     "wof:name":"Ruinas",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":647,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

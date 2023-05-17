@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecastrilli",
+    "eurostat:nuts_2021_id":"055017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055017",
+    "eurostat:population":4936,
+    "eurostat:population_year":2020,
     "geom:area":0.006844,
-    "geom:area_square_m":62254280.427031,
+    "geom:area_square_m":62254280.427035,
     "geom:bbox":"12.3773790605,42.6004625554,12.5441674821,42.6998790916",
     "geom:latitude":42.642924,
     "geom:longitude":12.474476,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055017",
+        "eurostat:nuts_2021_id":"055017",
         "gn:id":6538624,
         "gp:id":12676368,
         "qs_pg:id":287914
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e060a860f40cc82ca7ed168494424ae",
+    "wof:geomhash":"f7c2e83f913fea9f6f8d7908e0b0792b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459663,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353698,
     "wof:name":"Montecastrilli",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":4936,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

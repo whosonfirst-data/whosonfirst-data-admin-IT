@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nova Milanese",
+    "eurostat:nuts_2021_id":"108035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108035",
+    "eurostat:population":23348,
+    "eurostat:population_year":2020,
     "geom:area":0.000675,
-    "geom:area_square_m":5837016.006652,
+    "geom:area_square_m":5837016.006651,
     "geom:bbox":"9.173924,45.575986,9.213834,45.603038",
     "geom:latitude":45.588651,
     "geom:longitude":9.19637,
@@ -140,14 +152,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227497,
-        85685723
+        85685723,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108035",
+        "eurostat:nuts_2021_id":"108035",
         "gn:id":6537124,
         "gp:id":12680704,
         "qs_pg:id":1037337
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a7d43ed9268bdc2ab399b04fd49e52b",
+    "wof:geomhash":"90f451ace6d0fb94c9fb2e4f8a8aca31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463531,
-    "wof:lastmodified":1608041561,
+    "wof:lastmodified":1684353782,
     "wof:name":"Nova Milanese",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":23348,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loro Ciuffenna",
+    "eurostat:nuts_2021_id":"051020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051020",
+    "eurostat:population":5860,
+    "eurostat:population_year":2020,
     "geom:area":0.009642,
-    "geom:area_square_m":86336328.974832,
+    "geom:area_square_m":86336328.974849,
     "geom:bbox":"11.5712398971,43.5366934362,11.7373361282,43.6670814566",
     "geom:latitude":43.603349,
     "geom:longitude":11.656831,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051020",
+        "eurostat:nuts_2021_id":"051020",
         "gn:id":6538589,
         "gp:id":12678056,
         "qs_pg:id":536548
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd3cf2690f8f6759519d225e09b6c3ec",
+    "wof:geomhash":"3088fc9b4a84ff5ccaf2abf7c813d14c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463755,
-    "wof:lastmodified":1582327761,
+    "wof:lastmodified":1684353785,
     "wof:name":"Loro Ciuffenna",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":5860,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

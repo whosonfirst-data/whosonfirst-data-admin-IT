@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Tomaso Agordino",
+    "eurostat:nuts_2021_id":"025049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025049",
+    "eurostat:population":612,
+    "eurostat:population_year":2020,
     "geom:area":0.002242,
-    "geom:area_square_m":19124057.593352,
+    "geom:area_square_m":19124057.593353,
     "geom:bbox":"11.94144567,46.3604338295,12.0122844408,46.4153831334",
     "geom:latitude":46.386315,
     "geom:longitude":11.974267,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025049",
+        "eurostat:nuts_2021_id":"025049",
         "gn:id":6542189,
         "gp:id":12681035,
         "qs_pg:id":246936
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"569d4ec2db2779f8048f6f6cad738f59",
+    "wof:geomhash":"8af2142f170b7e07f893aef89104b253",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469949,
-    "wof:lastmodified":1582328032,
+    "wof:lastmodified":1684353913,
     "wof:name":"San Tomaso Agordino",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":612,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

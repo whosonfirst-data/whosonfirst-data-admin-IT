@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortezzano",
+    "eurostat:nuts_2021_id":"109029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109029",
+    "eurostat:population":744,
+    "eurostat:population_year":2020,
     "geom:area":0.000779,
-    "geom:area_square_m":7044200.404016,
+    "geom:area_square_m":7044200.404019,
     "geom:bbox":"13.5884572541,43.0120690241,13.6312047012,43.0458655757",
     "geom:latitude":43.03013,
     "geom:longitude":13.608952,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109029",
+        "eurostat:nuts_2021_id":"109029",
         "gn:id":6538544,
         "gp:id":12680812,
         "qs_pg:id":272365
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20c342d0b7d975bc99986c59e8481063",
+    "wof:geomhash":"756b318d6e6f5ec5fb789f382e058105",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461191,
-    "wof:lastmodified":1582328137,
+    "wof:lastmodified":1684353734,
     "wof:name":"Ortezzano",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":744,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

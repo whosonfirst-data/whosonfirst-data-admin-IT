@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciconio",
+    "eurostat:nuts_2021_id":"001083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001083",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.000363,
     "geom:area_square_m":3158604.572635,
     "geom:bbox":"7.74673716959,45.3187635904,7.77703575265,45.3387345948",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001083",
+        "eurostat:nuts_2021_id":"001083",
         "gn:id":6543254,
         "gp:id":20076463,
         "qs_pg:id":50711
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ed53619d42069986efa1e5c0ee680dd",
+    "wof:geomhash":"5c0ba0b1675441fda0a337aa3a5ad4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456361,
-    "wof:lastmodified":1582328058,
+    "wof:lastmodified":1684353622,
     "wof:name":"Ciconio",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Usellus",
+    "eurostat:nuts_2021_id":"095070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095070",
+    "eurostat:population":736,
+    "eurostat:population_year":2020,
     "geom:area":0.003693,
-    "geom:area_square_m":35068423.707157,
+    "geom:area_square_m":35068423.707155,
     "geom:bbox":"8.78429859538,39.7789178088,8.87625545264,39.8585865207",
     "geom:latitude":39.826395,
     "geom:longitude":8.837872,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095070",
+        "eurostat:nuts_2021_id":"095070",
         "gn:id":6539886,
         "gp:id":12682308,
         "qs_pg:id":260458
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7ebb2c8d29f24eafebc7aae14642473",
+    "wof:geomhash":"0f0d780d7fe550d76f9641f75ab5f838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467121,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353865,
     "wof:name":"Usellus",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":736,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

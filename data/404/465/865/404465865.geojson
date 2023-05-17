@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chignolo d'Isola",
+    "eurostat:nuts_2021_id":"016072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016072",
+    "eurostat:population":3448,
+    "eurostat:population_year":2020,
     "geom:area":0.000641,
-    "geom:area_square_m":5537070.181413,
+    "geom:area_square_m":5537070.181412,
     "geom:bbox":"9.51104696925,45.6485696933,9.54596883755,45.6802358638",
     "geom:latitude":45.665918,
     "geom:longitude":9.52887,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016072",
+        "eurostat:nuts_2021_id":"016072",
         "gn:id":6542946,
         "gp:id":20076170,
         "qs_pg:id":1015978
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58bc8390abae07f38f11ae1d607d0634",
+    "wof:geomhash":"d2722c5e1f0ada54134a4d38b89a244a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404465865,
-    "wof:lastmodified":1582327843,
+    "wof:lastmodified":1684353839,
     "wof:name":"Chignolo D'Isola",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":3448,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

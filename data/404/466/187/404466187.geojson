@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcara li Fusi",
+    "eurostat:nuts_2021_id":"083001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083001",
+    "eurostat:population":1812,
+    "eurostat:population_year":2020,
     "geom:area":0.00642,
-    "geom:area_square_m":62563754.539972,
+    "geom:area_square_m":62563754.539985,
     "geom:bbox":"14.6590387267,37.9316475219,14.7632608774,38.0445168951",
     "geom:latitude":37.988227,
     "geom:longitude":14.708377,
@@ -99,6 +111,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083001",
+        "eurostat:nuts_2021_id":"083001",
         "gn:id":6539144,
         "gp:id":12675931,
         "qs_pg:id":1015558
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c2efcdf74201bd19a32316b074cc340",
+    "wof:geomhash":"88025cc0052e95cd5fe38f313900895b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404466187,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353844,
     "wof:name":"Alcara Li Fusi",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1812,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

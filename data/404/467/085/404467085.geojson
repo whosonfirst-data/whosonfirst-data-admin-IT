@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Senis",
+    "eurostat:nuts_2021_id":"095054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095054",
+    "eurostat:population":433,
+    "eurostat:population_year":2020,
     "geom:area":0.001691,
-    "geom:area_square_m":16060512.74801,
+    "geom:area_square_m":16060512.748005,
     "geom:bbox":"8.90796419926,39.8007114017,8.96407491054,39.8584858427",
     "geom:latitude":39.829737,
     "geom:longitude":8.937342,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095054",
+        "eurostat:nuts_2021_id":"095054",
         "gn:id":6539373,
         "gp:id":12681959,
         "qs_pg:id":1009349
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"770bbfdaa0633952b7a130d26a69b299",
+    "wof:geomhash":"432ec625945f434822b0f6624b96cd99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467085,
-    "wof:lastmodified":1582327971,
+    "wof:lastmodified":1684353865,
     "wof:name":"Senis",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":433,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

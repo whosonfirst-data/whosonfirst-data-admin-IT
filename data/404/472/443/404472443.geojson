@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lugo",
+    "eurostat:nuts_2021_id":"039012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039012",
+    "eurostat:population":32287,
+    "eurostat:population_year":2020,
     "geom:area":0.013234,
-    "geom:area_square_m":116758461.594147,
+    "geom:area_square_m":116758461.594167,
     "geom:bbox":"11.836127346,44.3934952236,11.9870676401,44.5594294881",
     "geom:latitude":44.477312,
     "geom:longitude":11.906664,
@@ -374,6 +386,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -382,6 +396,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039012",
+        "eurostat:nuts_2021_id":"039012",
         "gn:id":6540435,
         "gp:id":12676828,
         "qs_pg:id":1055877
@@ -390,7 +406,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0326765372d2e961ebd7bb98037bb1ac",
+    "wof:geomhash":"a8a810e93ee0e8ee732a104ac3092fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -401,10 +417,12 @@
         }
     ],
     "wof:id":404472443,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353961,
     "wof:name":"Lugo",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":32287,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

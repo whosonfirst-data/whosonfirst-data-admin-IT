@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capodrise",
+    "eurostat:nuts_2021_id":"061013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061013",
+    "eurostat:population":10232,
+    "eurostat:population_year":2020,
     "geom:area":0.00037,
     "geom:area_square_m":3446160.681851,
     "geom:bbox":"14.2783367541,41.037126885,14.3247045629,41.0498902639",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061013",
+        "eurostat:nuts_2021_id":"061013",
         "gn:id":6542095,
         "gp:id":12681337,
         "qs_pg:id":271556
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34bc98fd17a8139d36e40db09f951bad",
+    "wof:geomhash":"444e25a2fae685a76e79b42d1544638a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462985,
-    "wof:lastmodified":1582327861,
+    "wof:lastmodified":1684353770,
     "wof:name":"Capodrise",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":10232,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

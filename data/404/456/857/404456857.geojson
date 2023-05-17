@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leporano",
+    "eurostat:nuts_2021_id":"073010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073010",
+    "eurostat:population":8093,
+    "eurostat:population_year":2020,
     "geom:area":0.001607,
-    "geom:area_square_m":15137881.003723,
+    "geom:area_square_m":15137881.003728,
     "geom:bbox":"17.283056053,40.3609471104,17.3468435171,40.4095587571",
     "geom:latitude":40.382186,
     "geom:longitude":17.317783,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073010",
+        "eurostat:nuts_2021_id":"073010",
         "gn:id":6538952,
         "gp:id":12679925,
         "qs_pg:id":1195709
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c09fcea7796da3046373667683c690ad",
+    "wof:geomhash":"bd2a076862500f268d18d7debbbc9474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404456857,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353635,
     "wof:name":"Leporano",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":8093,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

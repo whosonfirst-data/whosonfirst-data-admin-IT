@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bionaz",
+    "eurostat:nuts_2021_id":"007010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007010",
+    "eurostat:population":223,
+    "eurostat:population_year":2020,
     "geom:area":0.016484,
-    "geom:area_square_m":141821660.607418,
+    "geom:area_square_m":141821660.607413,
     "geom:bbox":"7.36461645701,45.8387703595,7.61079639776,45.9877639468",
     "geom:latitude":45.909833,
     "geom:longitude":7.491105,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007010",
+        "eurostat:nuts_2021_id":"007010",
         "gn:id":6536456,
         "gp:id":12676801,
         "qs_pg:id":231937
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79cb1e206edb207e365b534db3e95500",
+    "wof:geomhash":"9848e958db42847636e7926ceda490f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457945,
-    "wof:lastmodified":1582328119,
+    "wof:lastmodified":1684353660,
     "wof:name":"Bionaz",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

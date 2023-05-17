@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brignano Gera d'Adda",
+    "eurostat:nuts_2021_id":"016040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016040",
+    "eurostat:population":6030,
+    "eurostat:population_year":2020,
     "geom:area":0.001396,
-    "geom:area_square_m":12092027.647854,
+    "geom:area_square_m":12092027.647853,
     "geom:bbox":"9.61985461101,45.5273599835,9.69056840101,45.5636791001",
     "geom:latitude":45.547934,
     "geom:longitude":9.654458,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016040",
+        "eurostat:nuts_2021_id":"016040",
         "gn:id":6541991,
         "gp:id":12677116,
         "qs_pg:id":345721
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5bb2d8bb89069a2cc05e0212bff98ae",
+    "wof:geomhash":"1645655008f0ec42dd098688ac032379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468691,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353893,
     "wof:name":"Brignano Gera D'Adda",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":6030,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

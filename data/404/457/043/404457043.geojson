@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Arcangelo",
+    "eurostat:nuts_2021_id":"076080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076080",
+    "eurostat:population":6206,
+    "eurostat:population_year":2020,
     "geom:area":0.009349,
-    "geom:area_square_m":88231929.053788,
+    "geom:area_square_m":88231929.053797,
     "geom:bbox":"16.23535329,40.1988227539,16.3757167053,40.3104777926",
     "geom:latitude":40.249458,
     "geom:longitude":16.310659,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076080",
+        "eurostat:nuts_2021_id":"076080",
         "gn:id":6540032,
         "gp:id":12675954,
         "qs_pg:id":1015562
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95de95d46bef6267ac8235901ebdcff9",
+    "wof:geomhash":"bd156e89cfb290e2770dbd1ae83ecff7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404457043,
-    "wof:lastmodified":1582328114,
+    "wof:lastmodified":1684353641,
     "wof:name":"Sant'Arcangelo",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":6206,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

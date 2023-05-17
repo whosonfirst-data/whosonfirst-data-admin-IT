@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bistagno",
+    "eurostat:nuts_2021_id":"006017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006017",
+    "eurostat:population":1810,
+    "eurostat:population_year":2020,
     "geom:area":0.001998,
-    "geom:area_square_m":17570116.133737,
+    "geom:area_square_m":17570116.133739,
     "geom:bbox":"8.34629066745,44.6430131486,8.40728313242,44.6961195764",
     "geom:latitude":44.670321,
     "geom:longitude":8.374751,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006017",
+        "eurostat:nuts_2021_id":"006017",
         "gn:id":6538188,
         "gp:id":12676815,
         "qs_pg:id":972283
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eecce32286674b6439448eb55e178b7d",
+    "wof:geomhash":"cb861119ae6bc1d4fda40114ad5a5cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460013,
-    "wof:lastmodified":1582327999,
+    "wof:lastmodified":1684353707,
     "wof:name":"Bistagno",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1810,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

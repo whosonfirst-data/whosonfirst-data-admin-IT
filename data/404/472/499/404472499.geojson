@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portico e San Benedetto",
+    "eurostat:nuts_2021_id":"040031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040031",
+    "eurostat:population":734,
+    "eurostat:population_year":2020,
     "geom:area":0.006848,
-    "geom:area_square_m":60912091.362757,
+    "geom:area_square_m":60912091.362753,
     "geom:bbox":"11.6456087292,43.9532136448,11.7982804299,44.0532116124",
     "geom:latitude":44.000362,
     "geom:longitude":11.720378,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040031",
+        "eurostat:nuts_2021_id":"040031",
         "gn:id":3170113,
         "gp:id":12681232,
         "qs_pg:id":193112
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"450e2ba29465ccea288e3817b5b28c1d",
+    "wof:geomhash":"529f472ad0d0004d568bedc78bf33f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404472499,
-    "wof:lastmodified":1582327886,
+    "wof:lastmodified":1684353963,
     "wof:name":"Portico E San Benedetto",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":734,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

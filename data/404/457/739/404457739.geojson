@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gozzano",
+    "eurostat:nuts_2021_id":"003076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003076",
+    "eurostat:population":5541,
+    "eurostat:population_year":2020,
     "geom:area":0.001456,
-    "geom:area_square_m":12562474.365463,
+    "geom:area_square_m":12562474.365464,
     "geom:bbox":"8.39493625063,45.7243103341,8.46189313058,45.7705486356",
     "geom:latitude":45.749016,
     "geom:longitude":8.428567,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003076",
+        "eurostat:nuts_2021_id":"003076",
         "gn:id":6539549,
         "gp:id":12679644,
         "qs_pg:id":1015197
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59837a662dea5aa539bb69064885e752",
+    "wof:geomhash":"35e0ac4565728d94759bbfc650ed3a25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404457739,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353656,
     "wof:name":"Gozzano",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":5541,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

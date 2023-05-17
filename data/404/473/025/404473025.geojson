@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_100002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carmignano",
+    "eurostat:nuts_2021_id":"100002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI15",
+    "eurostat:nuts_2021_level_lau":"100002",
+    "eurostat:population":14832,
+    "eurostat:population_year":2020,
     "geom:area":0.004298,
-    "geom:area_square_m":38361704.254062,
+    "geom:area_square_m":38361704.254063,
     "geom:bbox":"10.9641701678,43.7583745581,11.0794978053,43.840933504",
     "geom:latitude":43.799709,
     "geom:longitude":11.018867,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_100002",
+        "eurostat:nuts_2021_id":"100002",
         "gn:id":6539891,
         "gp:id":12677705,
         "qs_pg:id":885703
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a62988d50452825c1a45e20e3c06d08f",
+    "wof:geomhash":"3e23115d4ae06c0ca5f0363c6b09b01f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404473025,
-    "wof:lastmodified":1582327916,
+    "wof:lastmodified":1684353976,
     "wof:name":"Carmignano",
     "wof:parent_id":85685683,
     "wof:placetype":"localadmin",
+    "wof:population":14832,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

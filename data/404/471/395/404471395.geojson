@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Confienza",
+    "eurostat:nuts_2021_id":"018052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018052",
+    "eurostat:population":1580,
+    "eurostat:population_year":2020,
     "geom:area":0.003079,
-    "geom:area_square_m":26767552.769776,
+    "geom:area_square_m":26767552.769779,
     "geom:bbox":"8.52641138947,45.3072725135,8.6349389264,45.3615082105",
     "geom:latitude":45.334585,
     "geom:longitude":8.575637,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018052",
+        "eurostat:nuts_2021_id":"018052",
         "gn:id":6539496,
         "gp:id":12678860,
         "qs_pg:id":40565
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8512c093fccfdbd280c1e696e02dc1be",
+    "wof:geomhash":"7f53b9b44d91b2d91404e8e37dc41224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471395,
-    "wof:lastmodified":1582327722,
+    "wof:lastmodified":1684353939,
     "wof:name":"Confienza",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1580,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

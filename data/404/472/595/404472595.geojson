@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_045011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montignoso",
+    "eurostat:nuts_2021_id":"045011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI11",
+    "eurostat:nuts_2021_level_lau":"045011",
+    "eurostat:population":10315,
+    "eurostat:population_year":2020,
     "geom:area":0.001881,
-    "geom:area_square_m":16728534.988399,
+    "geom:area_square_m":16728534.988397,
     "geom:bbox":"10.1369542588,43.9754181191,10.2064426458,44.0392302334",
     "geom:latitude":44.011149,
     "geom:longitude":10.171199,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_045011",
+        "eurostat:nuts_2021_id":"045011",
         "gn:id":6539650,
         "gp:id":12680572,
         "qs_pg:id":1122956
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"26dce14390d5b3c616db2f5bb42b7350",
+    "wof:geomhash":"8e2e3ac5619d25b9d82d2045196cd0f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404472595,
-    "wof:lastmodified":1582327879,
+    "wof:lastmodified":1684353965,
     "wof:name":"Montignoso",
     "wof:parent_id":85685395,
     "wof:placetype":"localadmin",
+    "wof:population":10315,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

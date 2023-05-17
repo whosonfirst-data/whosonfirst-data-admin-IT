@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dresano",
+    "eurostat:nuts_2021_id":"015101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015101",
+    "eurostat:population":3012,
+    "eurostat:population_year":2020,
     "geom:area":0.0004,
-    "geom:area_square_m":3473952.856756,
+    "geom:area_square_m":3473952.856755,
     "geom:bbox":"9.34997684437,45.3645927083,9.37907835822,45.387463138",
     "geom:latitude":45.375054,
     "geom:longitude":9.365101,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015101",
+        "eurostat:nuts_2021_id":"015101",
         "gn:id":6542925,
         "gp:id":12682671,
         "qs_pg:id":204328
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dbf6d34d6a0e21f0ee1b00ff768b46e0",
+    "wof:geomhash":"8e27f73814f23ddad22661d1c24f06f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468407,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353888,
     "wof:name":"Dresano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":3012,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

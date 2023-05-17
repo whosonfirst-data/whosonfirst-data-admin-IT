@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Misilmeri",
+    "eurostat:nuts_2021_id":"082048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082048",
+    "eurostat:population":29292,
+    "eurostat:population_year":2020,
     "geom:area":0.007109,
-    "geom:area_square_m":69248170.9182,
+    "geom:area_square_m":69248170.918202,
     "geom:bbox":"13.3739552088,37.9529836393,13.4904204609,38.0864105021",
     "geom:latitude":38.017628,
     "geom:longitude":13.437904,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082048",
+        "eurostat:nuts_2021_id":"082048",
         "gn:id":6539133,
         "gp:id":12680347,
         "qs_pg:id":1250774
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4521adf551caf2aadcb168724616b04",
+    "wof:geomhash":"9e7863125129484ae29da14b69af3392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465021,
-    "wof:lastmodified":1582327842,
+    "wof:lastmodified":1684353823,
     "wof:name":"Misilmeri",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":29292,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

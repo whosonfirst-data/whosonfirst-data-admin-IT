@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manzano",
+    "eurostat:nuts_2021_id":"030055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030055",
+    "eurostat:population":6409,
+    "eurostat:population_year":2020,
     "geom:area":0.003598,
-    "geom:area_square_m":30906281.233259,
+    "geom:area_square_m":30906281.233257,
     "geom:bbox":"13.3219401031,45.9500619555,13.4307666258,46.0276415109",
     "geom:latitude":45.991052,
     "geom:longitude":13.376959,
@@ -95,6 +107,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -103,6 +117,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030055",
+        "eurostat:nuts_2021_id":"030055",
         "gn:id":6539935,
         "gp:id":12680142,
         "qs_pg:id":1317135
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ebe3c3a1fff59ddaa5b6f959cac1181",
+    "wof:geomhash":"8d536e2a9c4b41b2d3f49867fdf55e72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404470561,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353924,
     "wof:name":"Manzano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":6409,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

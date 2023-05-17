@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Supino",
+    "eurostat:nuts_2021_id":"060076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060076",
+    "eurostat:population":4828,
+    "eurostat:population_year":2020,
     "geom:area":0.003836,
-    "geom:area_square_m":35462995.082837,
+    "geom:area_square_m":35462995.082844,
     "geom:bbox":"13.1496938628,41.5785392445,13.2693612941,41.6475046004",
     "geom:latitude":41.610151,
     "geom:longitude":13.209434,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060076",
+        "eurostat:nuts_2021_id":"060076",
         "gn:id":6538714,
         "gp:id":12682121,
         "qs_pg:id":246638
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94974f5cbc03c40c1e72190594efafb0",
+    "wof:geomhash":"4b2cc5bccf5bcabde80bcd8f04c42b33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404462033,
-    "wof:lastmodified":1582327870,
+    "wof:lastmodified":1684353751,
     "wof:name":"Supino",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":4828,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

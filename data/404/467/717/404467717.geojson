@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castronno",
+    "eurostat:nuts_2021_id":"012047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012047",
+    "eurostat:population":5106,
+    "eurostat:population_year":2020,
     "geom:area":0.000435,
     "geom:area_square_m":3753409.952425,
     "geom:bbox":"8.79757520521,45.7402022655,8.82442704097,45.7662604228",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012047",
+        "eurostat:nuts_2021_id":"012047",
         "gn:id":6536483,
         "gp:id":12678384,
         "qs_pg:id":243057
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6359d8e2bd1135ecda5d97ca869842a8",
+    "wof:geomhash":"0b1f97d3d999dd3886e31c25ed59f232",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467717,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353879,
     "wof:name":"Castronno",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":5106,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

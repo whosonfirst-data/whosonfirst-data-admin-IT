@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ischia",
+    "eurostat:nuts_2021_id":"063037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063037",
+    "eurostat:population":20245,
+    "eurostat:population_year":2020,
     "geom:area":0.000865,
     "geom:area_square_m":8102369.476671,
     "geom:bbox":"13.9273734878,40.7070540984,13.9670675424,40.7483482277",
@@ -165,6 +177,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -173,6 +187,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063037",
+        "eurostat:nuts_2021_id":"063037",
         "gn:id":6539811,
         "gp:id":12676435,
         "qs_pg:id":347360
@@ -181,7 +197,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc24f2ca51666f9fe3f77188303ece0d",
+    "wof:geomhash":"fdfdfd92aac386d7f345295f4cd40353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,10 +208,12 @@
         }
     ],
     "wof:id":404460951,
-    "wof:lastmodified":1582328010,
+    "wof:lastmodified":1684353727,
     "wof:name":"Ischia",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":20245,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

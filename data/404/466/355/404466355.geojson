@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rometta",
+    "eurostat:nuts_2021_id":"083076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083076",
+    "eurostat:population":6537,
+    "eurostat:population_year":2020,
     "geom:area":0.00328,
-    "geom:area_square_m":31881325.865637,
+    "geom:area_square_m":31881325.865626,
     "geom:bbox":"15.3880355619,38.1143666989,15.4599031572,38.2404287895",
     "geom:latitude":38.174451,
     "geom:longitude":15.420968,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083076",
+        "eurostat:nuts_2021_id":"083076",
         "gn:id":6543645,
         "gp:id":12678405,
         "qs_pg:id":40265
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eecd8c8c3fba919092cb7a22b871112b",
+    "wof:geomhash":"75f1a80ff3db5bd3e9f88b1867eb2712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466355,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353847,
     "wof:name":"Rometta",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":6537,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

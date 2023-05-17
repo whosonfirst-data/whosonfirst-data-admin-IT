@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mascalucia",
+    "eurostat:nuts_2021_id":"087024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087024",
+    "eurostat:population":32042,
+    "eurostat:population_year":2020,
     "geom:area":0.00165,
-    "geom:area_square_m":16171408.800842,
+    "geom:area_square_m":16171408.800836,
     "geom:bbox":"15.0164204706,37.5544140272,15.0648483332,37.6175582646",
     "geom:latitude":37.587004,
     "geom:longitude":15.039886,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087024",
+        "eurostat:nuts_2021_id":"087024",
         "gn:id":6542070,
         "gp:id":12680216,
         "qs_pg:id":211254
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59543d79947aa4490eb38d5decd76a17",
+    "wof:geomhash":"5a8b04364cc0095bd45f9a4b546f039f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459267,
-    "wof:lastmodified":1582328161,
+    "wof:lastmodified":1684353690,
     "wof:name":"Mascalucia",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":32042,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

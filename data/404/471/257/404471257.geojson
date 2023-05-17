@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontevico",
+    "eurostat:nuts_2021_id":"017149",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017149",
+    "eurostat:population":7060,
+    "eurostat:population_year":2020,
     "geom:area":0.003352,
-    "geom:area_square_m":29160575.62495,
+    "geom:area_square_m":29160575.624948,
     "geom:bbox":"10.0613191921,45.2463446532,10.1383263721,45.3109545526",
     "geom:latitude":45.280375,
     "geom:longitude":10.101901,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017149",
+        "eurostat:nuts_2021_id":"017149",
         "gn:id":6540616,
         "gp:id":12681221,
         "qs_pg:id":976747
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ecebb5f8602b27ccded21fd5f3bfb01f",
+    "wof:geomhash":"cb13bfc641eb216eaffe6e0ebe1afa2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471257,
-    "wof:lastmodified":1582327715,
+    "wof:lastmodified":1684353936,
     "wof:name":"Pontevico",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":7060,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

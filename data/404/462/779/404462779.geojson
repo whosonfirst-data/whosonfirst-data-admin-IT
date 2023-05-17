@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalciprano",
+    "eurostat:nuts_2021_id":"070012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070012",
+    "eurostat:population":509,
+    "eurostat:population_year":2020,
     "geom:area":0.002049,
-    "geom:area_square_m":18955366.435174,
+    "geom:area_square_m":18955366.435178,
     "geom:bbox":"14.491390751,41.5485977679,14.5581466086,41.6088951342",
     "geom:latitude":41.581343,
     "geom:longitude":14.521759,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070012",
+        "eurostat:nuts_2021_id":"070012",
         "gn:id":6537501,
         "gp:id":12677947,
         "qs_pg:id":191670
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81530ca7b2ffd482d983dfb937d4aeb5",
+    "wof:geomhash":"54664194eeab258aab0f9dd34ca693ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462779,
-    "wof:lastmodified":1582327862,
+    "wof:lastmodified":1684353765,
     "wof:name":"Casalciprano",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":509,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

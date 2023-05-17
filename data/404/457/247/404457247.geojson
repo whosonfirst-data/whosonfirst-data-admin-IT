@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ronco Canavese",
+    "eurostat:nuts_2021_id":"001224",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001224",
+    "eurostat:population":299,
+    "eurostat:population_year":2020,
     "geom:area":0.011089,
-    "geom:area_square_m":96095330.678022,
+    "geom:area_square_m":96095330.678028,
     "geom:bbox":"7.37521703735,45.4562854187,7.61707657578,45.5555538154",
     "geom:latitude":45.507495,
     "geom:longitude":7.498054,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001224",
+        "eurostat:nuts_2021_id":"001224",
         "gn:id":6540920,
         "gp:id":12677014,
         "qs_pg:id":39385
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8b909bbe9ea8f12d745eb3dc66ccb7e",
+    "wof:geomhash":"82ff25e53abcf23eb659983dbdb97c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457247,
-    "wof:lastmodified":1582328114,
+    "wof:lastmodified":1684353645,
     "wof:name":"Ronco Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":299,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

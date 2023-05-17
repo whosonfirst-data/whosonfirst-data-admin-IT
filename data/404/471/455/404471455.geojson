@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langosco",
+    "eurostat:nuts_2021_id":"018079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018079",
+    "eurostat:population":360,
+    "eurostat:population_year":2020,
     "geom:area":0.001814,
     "geom:area_square_m":15797729.571025,
     "geom:bbox":"8.5226226101,45.1933275787,8.59476671767,45.2389142726",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018079",
+        "eurostat:nuts_2021_id":"018079",
         "gn:id":6537195,
         "gp:id":12679863,
         "qs_pg:id":41160
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f1c98d87c9f360a97a0b02546834f54f",
+    "wof:geomhash":"18b72138fa89aee812fdb61c60e079d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471455,
-    "wof:lastmodified":1582327716,
+    "wof:lastmodified":1684353940,
     "wof:name":"Langosco",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":360,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

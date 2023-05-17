@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013250",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellagio",
+    "eurostat:nuts_2021_id":"013250",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013250",
+    "eurostat:population":3694,
+    "eurostat:population_year":2020,
     "geom:area":0.002751,
     "geom:area_square_m":23643487.373705,
     "geom:bbox":"9.20952037953,45.9123475111,9.28462567204,46.0007596502",
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013250",
+        "eurostat:nuts_2021_id":"013250",
         "gn:id":6540160,
         "gp:id":12676669,
         "qs_pg:id":1314739
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"035f2309ff4d9eb259a8ad9ad42853b7",
+    "wof:geomhash":"82b9d45b5bf77f273ae215da8b6f198a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404467955,
-    "wof:lastmodified":1582327968,
+    "wof:lastmodified":1684353882,
     "wof:name":"Bellagio",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":3694,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

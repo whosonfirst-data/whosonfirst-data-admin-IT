@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acqualagna",
+    "eurostat:nuts_2021_id":"041001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041001",
+    "eurostat:population":4292,
+    "eurostat:population_year":2020,
     "geom:area":0.005646,
-    "geom:area_square_m":50525946.019451,
+    "geom:area_square_m":50525946.019449,
     "geom:bbox":"12.5433715766,43.6008400485,12.7225082172,43.6751186922",
     "geom:latitude":43.632951,
     "geom:longitude":12.633563,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041001",
+        "eurostat:nuts_2021_id":"041001",
         "gn:id":6541048,
         "gp:id":12675759,
         "qs_pg:id":1310840
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ac24043be44aa47a99d4b8640d8a02d",
+    "wof:geomhash":"0b67735a4a5dd22b91f8f03f0696182f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459701,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353699,
     "wof:name":"Acqualagna",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":4292,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

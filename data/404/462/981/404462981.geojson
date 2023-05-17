@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camigliano",
+    "eurostat:nuts_2021_id":"061011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061011",
+    "eurostat:population":1989,
+    "eurostat:population_year":2020,
     "geom:area":0.000643,
     "geom:area_square_m":5986090.335055,
     "geom:bbox":"14.1948000094,41.1699991954,14.2420510894,41.2010617311",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061011",
+        "eurostat:nuts_2021_id":"061011",
         "gn:id":6539986,
         "gp:id":12677380,
         "qs_pg:id":1013101
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4fe76c937a94f6f4b4b30554fff3204f",
+    "wof:geomhash":"f8b885b8a2ffe4ad7e97aa945f0b8ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462981,
-    "wof:lastmodified":1582327875,
+    "wof:lastmodified":1684353770,
     "wof:name":"Camigliano",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":1989,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

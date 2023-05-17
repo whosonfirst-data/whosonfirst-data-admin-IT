@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stella",
+    "eurostat:nuts_2021_id":"009058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009058",
+    "eurostat:population":2960,
+    "eurostat:population_year":2020,
     "geom:area":0.004938,
-    "geom:area_square_m":43626403.147732,
+    "geom:area_square_m":43626403.147734,
     "geom:bbox":"8.44086621525,44.3582587547,8.56089308561,44.4403407067",
     "geom:latitude":44.4019,
     "geom:longitude":8.496566,
@@ -116,6 +128,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -124,6 +138,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009058",
+        "eurostat:nuts_2021_id":"009058",
         "gn:id":6542751,
         "gp:id":12681507,
         "qs_pg:id":246636
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29f8311e76541ec0f34339327351ebd0",
+    "wof:geomhash":"f7cf1f25e6ba67cab8cf3add427f0426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404467521,
-    "wof:lastmodified":1582327976,
+    "wof:lastmodified":1684353875,
     "wof:name":"Stella",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":2960,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

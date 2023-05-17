@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trevico",
+    "eurostat:nuts_2021_id":"064112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064112",
+    "eurostat:population":908,
+    "eurostat:population_year":2020,
     "geom:area":0.001171,
-    "geom:area_square_m":10923699.620926,
+    "geom:area_square_m":10923699.620922,
     "geom:bbox":"15.2093002814,41.0286985872,15.2897242637,41.0764706078",
     "geom:latitude":41.051888,
     "geom:longitude":15.241095,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064112",
+        "eurostat:nuts_2021_id":"064112",
         "gn:id":6541175,
         "gp:id":12682264,
         "qs_pg:id":1020148
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1db5dfd50efdf052cc4d31cc8c797568",
+    "wof:geomhash":"daccf8cd6899f227d0168fd2e48fe7fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404465443,
-    "wof:lastmodified":1582327840,
+    "wof:lastmodified":1684353831,
     "wof:name":"Trevico",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":908,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

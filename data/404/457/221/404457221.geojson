@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribordone",
+    "eurostat:nuts_2021_id":"001212",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001212",
+    "eurostat:population":49,
+    "eurostat:population_year":2020,
     "geom:area":0.005017,
-    "geom:area_square_m":43521967.258722,
+    "geom:area_square_m":43521967.258716,
     "geom:bbox":"7.4168086838,45.4109940751,7.53372588534,45.5084399806",
     "geom:latitude":45.45288,
     "geom:longitude":7.480011,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001212",
+        "eurostat:nuts_2021_id":"001212",
         "gn:id":6543262,
         "gp:id":20076503,
         "qs_pg:id":1163811
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efdd3ac9d83fce1bef4dab9d3f423df3",
+    "wof:geomhash":"8b0ff945a559b5b243a4d7aaefd3f66a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457221,
-    "wof:lastmodified":1582328099,
+    "wof:lastmodified":1684353645,
     "wof:name":"Ribordone",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":49,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanterio",
+    "eurostat:nuts_2021_id":"018180",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018180",
+    "eurostat:population":3396,
+    "eurostat:population_year":2020,
     "geom:area":0.001693,
-    "geom:area_square_m":14746608.185949,
+    "geom:area_square_m":14746608.185948,
     "geom:bbox":"9.32181993765,45.2047848994,9.40108068857,45.2498298067",
     "geom:latitude":45.225777,
     "geom:longitude":9.3641,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018180",
+        "eurostat:nuts_2021_id":"018180",
         "gn:id":6540213,
         "gp:id":12682477,
         "qs_pg:id":343362
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92acf536a53080569ca04446ab06c6e8",
+    "wof:geomhash":"436c961a4c7d3b593f7cec194361c1de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468783,
-    "wof:lastmodified":1582328083,
+    "wof:lastmodified":1684353894,
     "wof:name":"Villanterio",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":3396,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

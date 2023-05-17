@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campofiorito",
+    "eurostat:nuts_2021_id":"082018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082018",
+    "eurostat:population":1209,
+    "eurostat:population_year":2020,
     "geom:area":0.002213,
-    "geom:area_square_m":21631234.471904,
+    "geom:area_square_m":21631234.471901,
     "geom:bbox":"13.2266328991,37.7229950007,13.294593615,37.7856423978",
     "geom:latitude":37.75922,
     "geom:longitude":13.266273,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082018",
+        "eurostat:nuts_2021_id":"082018",
         "gn:id":6539123,
         "gp:id":12677447,
         "qs_pg:id":210592
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51663256482ac4e3b4222d4688808cdc",
+    "wof:geomhash":"65699a6bec4eec0a2617f3bafc4889ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464953,
-    "wof:lastmodified":1582327793,
+    "wof:lastmodified":1684353821,
     "wof:name":"Campofiorito",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1209,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

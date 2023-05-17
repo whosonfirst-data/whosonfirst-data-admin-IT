@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aprica",
+    "eurostat:nuts_2021_id":"014004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014004",
+    "eurostat:population":1546,
+    "eurostat:population_year":2020,
     "geom:area":0.002372,
-    "geom:area_square_m":20328537.158676,
+    "geom:area_square_m":20328537.158675,
     "geom:bbox":"10.1052236665,46.0920502131,10.1751101907,46.1609945588",
     "geom:latitude":46.13117,
     "geom:longitude":10.146924,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014004",
+        "eurostat:nuts_2021_id":"014004",
         "gn:id":6542110,
         "gp:id":12676481,
         "qs_pg:id":1187834
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d6c86e70229d60affd951aa783252a5",
+    "wof:geomhash":"bdd3147c7ecf5373a35b490ad5b6f922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458651,
-    "wof:lastmodified":1582327944,
+    "wof:lastmodified":1684353674,
     "wof:name":"Aprica",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":1546,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016233",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verdello",
+    "eurostat:nuts_2021_id":"016233",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016233",
+    "eurostat:population":8202,
+    "eurostat:population_year":2020,
     "geom:area":0.000848,
-    "geom:area_square_m":7332559.248377,
+    "geom:area_square_m":7332559.248374,
     "geom:bbox":"9.61958735624,45.5818041298,9.65604147919,45.619947988",
     "geom:latitude":45.602389,
     "geom:longitude":9.635301,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016233",
+        "eurostat:nuts_2021_id":"016233",
         "gn:id":6540602,
         "gp:id":20076232,
         "qs_pg:id":335150
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a469e29bfc7669142e3ebcd57715555",
+    "wof:geomhash":"56e312e1d2afe6716385fd25675d363c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404470883,
-    "wof:lastmodified":1582327750,
+    "wof:lastmodified":1684353929,
     "wof:name":"Verdello",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":8202,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

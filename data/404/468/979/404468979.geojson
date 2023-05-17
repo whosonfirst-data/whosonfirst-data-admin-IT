@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzaglio ed Uniti",
+    "eurostat:nuts_2021_id":"019077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019077",
+    "eurostat:population":1441,
+    "eurostat:population_year":2020,
     "geom:area":0.002338,
-    "geom:area_square_m":20369597.802731,
+    "geom:area_square_m":20369597.802732,
     "geom:bbox":"10.002927503,45.1869494336,10.0816584504,45.236068959",
     "geom:latitude":45.212764,
     "geom:longitude":10.046371,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019077",
+        "eurostat:nuts_2021_id":"019077",
         "gn:id":6541524,
         "gp:id":12677990,
         "qs_pg:id":1295941
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a90ec7a547aa45532ae6ff3eb868cde5",
+    "wof:geomhash":"747d8048fa640886f617fa59f78f4f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404468979,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353897,
     "wof:name":"Pozzaglio Ed Uniti",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1441,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

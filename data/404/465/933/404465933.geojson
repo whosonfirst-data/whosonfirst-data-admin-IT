@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foppolo",
+    "eurostat:nuts_2021_id":"016103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016103",
+    "eurostat:population":187,
+    "eurostat:population_year":2020,
     "geom:area":0.001878,
-    "geom:area_square_m":16115840.446699,
+    "geom:area_square_m":16115840.446698,
     "geom:bbox":"9.71206533588,46.0319711163,9.81111595889,46.0643960462",
     "geom:latitude":46.048623,
     "geom:longitude":9.757603,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016103",
+        "eurostat:nuts_2021_id":"016103",
         "gn:id":6540346,
         "gp:id":12679343,
         "qs_pg:id":239613
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f99dd8165e4621f70847571df26a431b",
+    "wof:geomhash":"12f7425caea04b75aea6ae75232ed215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465933,
-    "wof:lastmodified":1582327839,
+    "wof:lastmodified":1684353840,
     "wof:name":"Foppolo",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":187,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

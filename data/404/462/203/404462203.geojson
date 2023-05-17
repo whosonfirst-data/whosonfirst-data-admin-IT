@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opi",
+    "eurostat:nuts_2021_id":"066061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066061",
+    "eurostat:population":393,
+    "eurostat:population_year":2020,
     "geom:area":0.005387,
-    "geom:area_square_m":49675314.553343,
+    "geom:area_square_m":49675314.553349,
     "geom:bbox":"13.8037934829,41.7282550758,13.9025337058,41.8202554081",
     "geom:latitude":41.77151,
     "geom:longitude":13.854574,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066061",
+        "eurostat:nuts_2021_id":"066061",
         "gn:id":6539825,
         "gp:id":12680778,
         "qs_pg:id":1143244
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd6121ee9ab8c5e45e5c857b9b774c54",
+    "wof:geomhash":"f094cfa31dce15f686ec90f44f23774c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404462203,
-    "wof:lastmodified":1582327857,
+    "wof:lastmodified":1684353754,
     "wof:name":"Opi",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":393,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

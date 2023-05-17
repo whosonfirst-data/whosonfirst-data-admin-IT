@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedaso",
+    "eurostat:nuts_2021_id":"109030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109030",
+    "eurostat:population":2832,
+    "eurostat:population_year":2020,
     "geom:area":0.000424,
-    "geom:area_square_m":3828949.542558,
+    "geom:area_square_m":3828949.542556,
     "geom:bbox":"13.8223952121,43.0783766778,13.8471248246,43.1031163468",
     "geom:latitude":43.090247,
     "geom:longitude":13.836139,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_109030",
+        "eurostat:nuts_2021_id":"109030"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4377828fbd1a264eab5e8302d201729f",
+    "wof:geomhash":"bf266b9ad3045222b0e600cbd774e679",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404461193,
-    "wof:lastmodified":1566723685,
+    "wof:lastmodified":1684353734,
     "wof:name":"Pedaso",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":2832,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

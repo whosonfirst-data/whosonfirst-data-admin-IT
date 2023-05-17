@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luogosanto",
+    "eurostat:nuts_2021_id":"090036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090036",
+    "eurostat:population":1860,
+    "eurostat:population_year":2020,
     "geom:area":0.014482,
-    "geom:area_square_m":135011050.508615,
+    "geom:area_square_m":135011050.508616,
     "geom:bbox":"9.10734642702,41.0006752436,9.29975105809,41.1352322688",
     "geom:latitude":41.065253,
     "geom:longitude":9.212475,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090036",
+        "eurostat:nuts_2021_id":"090036",
         "gn:id":6542274,
         "gp:id":20076808,
         "qs_pg:id":272366
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40c257a7adcf6eb818082fd344e5acdd",
+    "wof:geomhash":"b4ee4f0b9882ec6aade5bd31d14cf97c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467193,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353868,
     "wof:name":"Luogosanto",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1860,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

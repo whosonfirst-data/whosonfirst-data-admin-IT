@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rezzago",
+    "eurostat:nuts_2021_id":"013195",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013195",
+    "eurostat:population":305,
+    "eurostat:population_year":2020,
     "geom:area":0.000472,
-    "geom:area_square_m":4068901.01336,
+    "geom:area_square_m":4068901.013359,
     "geom:bbox":"9.21105419456,45.8456078519,9.25953217233,45.8702486795",
     "geom:latitude":45.858209,
     "geom:longitude":9.23817,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013195",
+        "eurostat:nuts_2021_id":"013195",
         "gn:id":6536117,
         "gp:id":12681358,
         "qs_pg:id":1263170
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff5641c572a3f586f67c18a239cc9e2b",
+    "wof:geomhash":"7bc35d4ee5b30914f46cdf03025336e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458213,
-    "wof:lastmodified":1582327956,
+    "wof:lastmodified":1684353666,
     "wof:name":"Rezzago",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":305,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

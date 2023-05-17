@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poviglio",
+    "eurostat:nuts_2021_id":"035029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035029",
+    "eurostat:population":7283,
+    "eurostat:population_year":2020,
     "geom:area":0.00496,
-    "geom:area_square_m":43478011.511082,
+    "geom:area_square_m":43478011.511083,
     "geom:bbox":"10.4655281496,44.8167135109,10.5838009536,44.8829281411",
     "geom:latitude":44.853041,
     "geom:longitude":10.525436,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035029",
+        "eurostat:nuts_2021_id":"035029",
         "gn:id":6539943,
         "gp:id":12677808,
         "qs_pg:id":494135
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8c3866e56951de131b84b322d9bd30e",
+    "wof:geomhash":"01a3e4e6cf365ed7b20dbef5fd0827cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404457077,
-    "wof:lastmodified":1582328099,
+    "wof:lastmodified":1684353641,
     "wof:name":"Poviglio",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":7283,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

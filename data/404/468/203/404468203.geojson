@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazzo di Valtellina",
+    "eurostat:nuts_2021_id":"014040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014040",
+    "eurostat:population":995,
+    "eurostat:population_year":2020,
     "geom:area":0.001789,
     "geom:area_square_m":15295798.613426,
     "geom:bbox":"10.1898680401,46.2360883242,10.3155111364,46.2863969219",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014040",
+        "eurostat:nuts_2021_id":"014040",
         "gn:id":6540581,
         "gp:id":12680251,
         "qs_pg:id":1019896
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d071337ff4c4928f9975c062184c737",
+    "wof:geomhash":"ecba627d5d0cde9606a3f7605fdcf868",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468203,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353885,
     "wof:name":"Mazzo Di Valtellina",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":995,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

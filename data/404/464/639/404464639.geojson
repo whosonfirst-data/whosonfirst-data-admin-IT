@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Luca",
+    "eurostat:nuts_2021_id":"080074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080074",
+    "eurostat:population":3633,
+    "eurostat:population_year":2020,
     "geom:area":0.010736,
-    "geom:area_square_m":104396616.949333,
+    "geom:area_square_m":104396616.949332,
     "geom:bbox":"15.9114628141,38.1021838354,16.1260352421,38.20466965",
     "geom:latitude":38.15272,
     "geom:longitude":16.007565,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080074",
+        "eurostat:nuts_2021_id":"080074",
         "gn:id":6539863,
         "gp:id":12677919,
         "qs_pg:id":1095054
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2959f979d6e7747feff0fa68d5e28f8a",
+    "wof:geomhash":"c2997541d53c197b8a8e4907bc2eb202",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464639,
-    "wof:lastmodified":1582327805,
+    "wof:lastmodified":1684353812,
     "wof:name":"San Luca",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":3633,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

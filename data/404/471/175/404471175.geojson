@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monticelli Brusati",
+    "eurostat:nuts_2021_id":"017112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017112",
+    "eurostat:population":4558,
+    "eurostat:population_year":2020,
     "geom:area":0.001258,
-    "geom:area_square_m":10872585.874811,
+    "geom:area_square_m":10872585.874812,
     "geom:bbox":"10.0755991107,45.6114591305,10.1189403722,45.6603056832",
     "geom:latitude":45.634896,
     "geom:longitude":10.097447,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017112",
+        "eurostat:nuts_2021_id":"017112",
         "gn:id":6542770,
         "gp:id":20076261,
         "qs_pg:id":1149886
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1dc182f6f04efddefec3aef758edab8",
+    "wof:geomhash":"4cfde4c317faa63a942c08a79e605288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471175,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353935,
     "wof:name":"Monticelli Brusati",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4558,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

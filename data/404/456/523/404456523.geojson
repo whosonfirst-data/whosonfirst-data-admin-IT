@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monastero di Lanzo",
+    "eurostat:nuts_2021_id":"001155",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001155",
+    "eurostat:population":335,
+    "eurostat:population_year":2020,
     "geom:area":0.002027,
-    "geom:area_square_m":17623786.066597,
+    "geom:area_square_m":17623786.066602,
     "geom:bbox":"7.41057368397,45.2883791019,7.45975694674,45.370696",
     "geom:latitude":45.324033,
     "geom:longitude":7.431446,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001155",
+        "eurostat:nuts_2021_id":"001155"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0286870294593ed8821b01267218f50e",
+    "wof:geomhash":"60f174e7c15d2db789238b0965a06fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404456523,
-    "wof:lastmodified":1566723611,
+    "wof:lastmodified":1684353626,
     "wof:name":"Monastero Di Lanzo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":335,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

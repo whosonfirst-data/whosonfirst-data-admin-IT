@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Norbello",
+    "eurostat:nuts_2021_id":"095033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095033",
+    "eurostat:population":1198,
+    "eurostat:population_year":2020,
     "geom:area":0.00277,
-    "geom:area_square_m":26174855.311928,
+    "geom:area_square_m":26174855.311926,
     "geom:bbox":"8.73857568956,40.1284250935,8.85904793834,40.196970255",
     "geom:latitude":40.161661,
     "geom:longitude":8.800321,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095033",
+        "eurostat:nuts_2021_id":"095033",
         "gn:id":6539365,
         "gp:id":12679105,
         "qs_pg:id":40694
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9446a93a4aba1b1c50932279733bd3b3",
+    "wof:geomhash":"af6a24ba606c786c8c12841db76d209b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467037,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353864,
     "wof:name":"Norbello",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

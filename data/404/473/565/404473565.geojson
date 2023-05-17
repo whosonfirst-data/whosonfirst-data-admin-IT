@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mori",
+    "eurostat:nuts_2021_id":"022123",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022123",
+    "eurostat:population":9993,
+    "eurostat:population_year":2020,
     "geom:area":0.004645,
-    "geom:area_square_m":39999314.420938,
+    "geom:area_square_m":39999314.420939,
     "geom:bbox":"10.8956607864,45.8208464695,11.009309039,45.8985214583",
     "geom:latitude":45.856172,
     "geom:longitude":10.951564,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022123",
+        "eurostat:nuts_2021_id":"022123",
         "gn:id":6540099,
         "gp:id":12680595,
         "qs_pg:id":999665
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0398ceaaf677f059872e0c09db111fdb",
+    "wof:geomhash":"066f6cc5cceaa779f822ab7cf3246eb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404473565,
-    "wof:lastmodified":1582327925,
+    "wof:lastmodified":1684353991,
     "wof:name":"Mori",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":9993,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

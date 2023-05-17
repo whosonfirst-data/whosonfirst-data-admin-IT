@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglion Fiorentino",
+    "eurostat:nuts_2021_id":"051012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051012",
+    "eurostat:population":13183,
+    "eurostat:population_year":2020,
     "geom:area":0.012376,
-    "geom:area_square_m":111320814.436354,
+    "geom:area_square_m":111320814.436346,
     "geom:bbox":"11.8327994705,43.2579898877,12.0459945645,43.3853521554",
     "geom:latitude":43.329294,
     "geom:longitude":11.926818,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051012",
+        "eurostat:nuts_2021_id":"051012",
         "gn:id":6540481,
         "gp:id":12678344,
         "qs_pg:id":1032044
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a5f689d48e22a2390cf3d43ad048602",
+    "wof:geomhash":"44ef5b8e848dc6489650a5fd4f023ebb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404472995,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353975,
     "wof:name":"Castiglion Fiorentino",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":13183,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

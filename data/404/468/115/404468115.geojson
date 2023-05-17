@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lambrugo",
+    "eurostat:nuts_2021_id":"013121",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013121",
+    "eurostat:population":2489,
+    "eurostat:population_year":2020,
     "geom:area":0.000212,
     "geom:area_square_m":1833137.006034,
     "geom:bbox":"9.23517446357,45.7510829323,9.25751019365,45.770849327",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013121",
+        "eurostat:nuts_2021_id":"013121",
         "gn:id":6543112,
         "gp:id":20076105,
         "qs_pg:id":50483
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c57cd161dcd9d0af2c32bc9de25e1745",
+    "wof:geomhash":"5c91d15eecc05cd1bb6fb8940fb3eb46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468115,
-    "wof:lastmodified":1582328091,
+    "wof:lastmodified":1684353884,
     "wof:name":"Lambrugo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":2489,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

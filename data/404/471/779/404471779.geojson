@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiusavecchia",
+    "eurostat:nuts_2021_id":"008020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008020",
+    "eurostat:population":512,
+    "eurostat:population_year":2020,
     "geom:area":0.000459,
     "geom:area_square_m":4086692.003406,
     "geom:bbox":"7.9670341261,43.9419844631,8.01174446312,43.9753125669",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008020",
+        "eurostat:nuts_2021_id":"008020",
         "gn:id":6537036,
         "gp:id":20076413,
         "qs_pg:id":205141
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fccf5dfe88b64f088cd3a0fbfbb17ffa",
+    "wof:geomhash":"c39d1ab07f35451cd29a99b886056154",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471779,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353945,
     "wof:name":"Chiusavecchia",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":512,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

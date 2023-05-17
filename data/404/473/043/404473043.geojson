@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gibellina",
+    "eurostat:nuts_2021_id":"081010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081010",
+    "eurostat:population":3931,
+    "eurostat:population_year":2020,
     "geom:area":0.004755,
-    "geom:area_square_m":46450321.769713,
+    "geom:area_square_m":46450321.769715,
     "geom:bbox":"12.8652994155,37.7693601721,13.019021316,37.8448745975",
     "geom:latitude":37.809005,
     "geom:longitude":12.951619,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081010",
+        "eurostat:nuts_2021_id":"081010",
         "gn:id":6542135,
         "gp:id":12679577,
         "qs_pg:id":1293120
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2be33b0927c6ecc5cc391aa7a2b91bd2",
+    "wof:geomhash":"dbe82c94a5b37f8cb010f4722913e3ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473043,
-    "wof:lastmodified":1582327928,
+    "wof:lastmodified":1684353976,
     "wof:name":"Gibellina",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":3931,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

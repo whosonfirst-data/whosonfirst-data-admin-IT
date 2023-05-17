@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bolzano Vicentino",
+    "eurostat:nuts_2021_id":"024013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024013",
+    "eurostat:population":6437,
+    "eurostat:population_year":2020,
     "geom:area":0.002287,
     "geom:area_square_m":19786866.875012,
     "geom:bbox":"11.5913279373,45.5656978871,11.6491134948,45.625244626",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024013",
+        "eurostat:nuts_2021_id":"024013",
         "gn:id":6536613,
         "gp:id":12676872,
         "qs_pg:id":892961
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e07affc49cd82bb59c4ca1b54e33da4b",
+    "wof:geomhash":"ecd460ab3a456360a1b54973610d5a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469777,
-    "wof:lastmodified":1582328033,
+    "wof:lastmodified":1684353910,
     "wof:name":"Bolzano Vicentino",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":6437,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

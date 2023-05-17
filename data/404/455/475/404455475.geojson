@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglione Tinella",
+    "eurostat:nuts_2021_id":"004056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004056",
+    "eurostat:population":839,
+    "eurostat:population_year":2020,
     "geom:area":0.001323,
-    "geom:area_square_m":11618253.908068,
+    "geom:area_square_m":11618253.908064,
     "geom:bbox":"8.15958079795,44.7135730707,8.22120109434,44.7519163007",
     "geom:latitude":44.730437,
     "geom:longitude":8.191422,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004056",
+        "eurostat:nuts_2021_id":"004056",
         "gn:id":6543823,
         "gp:id":12682572,
         "qs_pg:id":538342
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43c8d117aab97b29ffb7d21d8cca6cf9",
+    "wof:geomhash":"6b99f5120b46f98c706678fe371c7733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455475,
-    "wof:lastmodified":1582327818,
+    "wof:lastmodified":1684353604,
     "wof:name":"Castiglione Tinella",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":839,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

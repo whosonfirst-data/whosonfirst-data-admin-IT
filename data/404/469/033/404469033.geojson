@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spineda",
+    "eurostat:nuts_2021_id":"019101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019101",
+    "eurostat:population":616,
+    "eurostat:population_year":2020,
     "geom:area":0.001155,
-    "geom:area_square_m":10090013.675575,
+    "geom:area_square_m":10090013.675574,
     "geom:bbox":"10.490398934,45.0407680144,10.5401531552,45.0829926735",
     "geom:latitude":45.060758,
     "geom:longitude":10.516029,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019101",
+        "eurostat:nuts_2021_id":"019101",
         "gn:id":6540367,
         "gp:id":12682074,
         "qs_pg:id":42763
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ee8c2b83e461470baef9de74681d162",
+    "wof:geomhash":"b080881de2f9fc21852dbfe57bd814d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469033,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353898,
     "wof:name":"Spineda",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":616,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

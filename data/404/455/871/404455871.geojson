@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trinit\u00e0",
+    "eurostat:nuts_2021_id":"004232",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004232",
+    "eurostat:population":2235,
+    "eurostat:population_year":2020,
     "geom:area":0.003187,
-    "geom:area_square_m":28102636.333556,
+    "geom:area_square_m":28102636.333554,
     "geom:bbox":"7.73150456486,44.4623913912,7.79773356961,44.5543840042",
     "geom:latitude":44.510915,
     "geom:longitude":7.763164,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004232",
+        "eurostat:nuts_2021_id":"004232",
         "gn:id":6540307,
         "gp:id":12682276,
         "qs_pg:id":388712
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b48bff42f1b7c859ab2255cd443e822b",
+    "wof:geomhash":"5f6497b715f32192399abcad83778d79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404455871,
-    "wof:lastmodified":1582327818,
+    "wof:lastmodified":1684353612,
     "wof:name":"Trinit\u00e0",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2235,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

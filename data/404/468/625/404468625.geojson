@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcene",
+    "eurostat:nuts_2021_id":"016011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016011",
+    "eurostat:population":4858,
+    "eurostat:population_year":2020,
     "geom:area":0.000501,
-    "geom:area_square_m":4340580.452638,
+    "geom:area_square_m":4340580.452639,
     "geom:bbox":"9.59175554642,45.5600672204,9.62999239796,45.5885887373",
     "geom:latitude":45.573224,
     "geom:longitude":9.614805,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016011",
+        "eurostat:nuts_2021_id":"016011",
         "gn:id":6540594,
         "gp:id":12676185,
         "qs_pg:id":1019745
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65e01dfcc8707052a27c04afb71ba494",
+    "wof:geomhash":"9e98301fc81da94fdd274930ae2fabeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468625,
-    "wof:lastmodified":1582328086,
+    "wof:lastmodified":1684353892,
     "wof:name":"Arcene",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4858,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

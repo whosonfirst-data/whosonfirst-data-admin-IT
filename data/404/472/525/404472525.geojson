@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verghereto",
+    "eurostat:nuts_2021_id":"040050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040050",
+    "eurostat:population":1784,
+    "eurostat:population_year":2020,
     "geom:area":0.013176,
-    "geom:area_square_m":117581943.384403,
+    "geom:area_square_m":117581943.38442,
     "geom:bbox":"11.9511742387,43.7405246437,12.1510532663,43.872064601",
     "geom:latitude":43.804099,
     "geom:longitude":12.055869,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040050",
+        "eurostat:nuts_2021_id":"040050",
         "gn:id":6540441,
         "gp:id":12675944,
         "qs_pg:id":247821
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d34eec4914767db548576636630e0f78",
+    "wof:geomhash":"ba30ccc9459751ad10e931ad6cad7c40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472525,
-    "wof:lastmodified":1582327907,
+    "wof:lastmodified":1684353964,
     "wof:name":"Verghereto",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":1784,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

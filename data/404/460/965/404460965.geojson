@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marigliano",
+    "eurostat:nuts_2021_id":"063043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063043",
+    "eurostat:population":29744,
+    "eurostat:population_year":2020,
     "geom:area":0.002403,
-    "geom:area_square_m":22447630.929481,
+    "geom:area_square_m":22447630.929477,
     "geom:bbox":"14.414764506,40.8994961584,14.4805277952,40.9721401828",
     "geom:latitude":40.93636,
     "geom:longitude":14.452956,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063043",
+        "eurostat:nuts_2021_id":"063043",
         "gn:id":6541475,
         "gp:id":12680175,
         "qs_pg:id":1122938
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a3bebfb8fc0ec3c05c8224197bf1379",
+    "wof:geomhash":"92a31704a00498b57a72b60ca6df1eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404460965,
-    "wof:lastmodified":1582327994,
+    "wof:lastmodified":1684353728,
     "wof:name":"Marigliano",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":29744,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

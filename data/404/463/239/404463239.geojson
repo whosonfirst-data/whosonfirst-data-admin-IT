@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palo del Colle",
+    "eurostat:nuts_2021_id":"072033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072033",
+    "eurostat:population":21215,
+    "eurostat:population_year":2020,
     "geom:area":0.008457,
-    "geom:area_square_m":78872214.896914,
+    "geom:area_square_m":78872214.896927,
     "geom:bbox":"16.5641743973,40.9960692001,16.7421418894,41.087580363",
     "geom:latitude":41.040997,
     "geom:longitude":16.652878,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072033",
+        "eurostat:nuts_2021_id":"072033",
         "gn:id":6537555,
         "gp:id":12680898,
         "qs_pg:id":1143263
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"065166f9567474a8196b0cc4a95da26c",
+    "wof:geomhash":"b5d2306fbc0bfb15a964d8c311101929",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463239,
-    "wof:lastmodified":1582327785,
+    "wof:lastmodified":1684353775,
     "wof:name":"Palo Del Colle",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":21215,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

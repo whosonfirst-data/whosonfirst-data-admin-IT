@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trezzone",
+    "eurostat:nuts_2021_id":"013226",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013226",
+    "eurostat:population":232,
+    "eurostat:population_year":2020,
     "geom:area":0.000456,
-    "geom:area_square_m":3902663.86039,
+    "geom:area_square_m":3902663.860392,
     "geom:bbox":"9.33893028587,46.1674596499,9.36671054003,46.2091840989",
     "geom:latitude":46.182692,
     "geom:longitude":9.350235,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013226",
+        "eurostat:nuts_2021_id":"013226",
         "gn:id":6542544,
         "gp:id":20076130,
         "qs_pg:id":1198715
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d859f795559607ec51684d0c037afff5",
+    "wof:geomhash":"73d9c27d376702724ac2660ff7bcde48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404458255,
-    "wof:lastmodified":1582327959,
+    "wof:lastmodified":1684353667,
     "wof:name":"Trezzone",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

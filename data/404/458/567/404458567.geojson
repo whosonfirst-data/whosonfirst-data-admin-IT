@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pignone",
+    "eurostat:nuts_2021_id":"011021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011021",
+    "eurostat:population":542,
+    "eurostat:population_year":2020,
     "geom:area":0.001999,
-    "geom:area_square_m":17724424.505925,
+    "geom:area_square_m":17724424.505929,
     "geom:bbox":"9.66864109829,44.1486350242,9.73961209518,44.2082402111",
     "geom:latitude":44.183116,
     "geom:longitude":9.705483,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011021",
+        "eurostat:nuts_2021_id":"011021",
         "gn:id":6540564,
         "gp:id":12679177,
         "qs_pg:id":40733
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbcd030c2d8d6c84304b6dd6fc3b06d7",
+    "wof:geomhash":"51a919266ae58dace5035615ec5e74a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458567,
-    "wof:lastmodified":1582327936,
+    "wof:lastmodified":1684353672,
     "wof:name":"Pignone",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":542,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

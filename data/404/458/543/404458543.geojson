@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrodano",
+    "eurostat:nuts_2021_id":"011010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011010",
+    "eurostat:population":486,
+    "eurostat:population_year":2020,
     "geom:area":0.002465,
-    "geom:area_square_m":21836397.733701,
+    "geom:area_square_m":21836397.7337,
     "geom:bbox":"9.5770294504,44.2104071356,9.68550234946,44.2685899145",
     "geom:latitude":44.243711,
     "geom:longitude":9.637307,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011010",
+        "eurostat:nuts_2021_id":"011010",
         "gn:id":3180410,
         "gp:id":12677743,
         "qs_pg:id":209038
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d96d5cacc6c19440a3132676fa1e2278",
+    "wof:geomhash":"1ae3267fa93cee77c00a1750ad13edd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458543,
-    "wof:lastmodified":1582327947,
+    "wof:lastmodified":1684353672,
     "wof:name":"Carrodano",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":486,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

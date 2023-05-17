@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Badolato",
+    "eurostat:nuts_2021_id":"079008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079008",
+    "eurostat:population":2912,
+    "eurostat:population_year":2020,
     "geom:area":0.003794,
-    "geom:area_square_m":36683338.545221,
+    "geom:area_square_m":36683338.545219,
     "geom:bbox":"16.4281316841,38.5502483827,16.5732017146,38.594081851",
     "geom:latitude":38.569495,
     "geom:longitude":16.511168,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079008",
+        "eurostat:nuts_2021_id":"079008"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"eaff6ecf041ae15644b069fc7779d02b",
+    "wof:geomhash":"91a43af5de0db2d0e559dfcef468b340",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404459063,
-    "wof:lastmodified":1566723734,
+    "wof:lastmodified":1684353685,
     "wof:name":"Badolato",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":2912,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

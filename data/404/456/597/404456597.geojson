@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Racale",
+    "eurostat:nuts_2021_id":"075063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075063",
+    "eurostat:population":10886,
+    "eurostat:population_year":2020,
     "geom:area":0.002525,
-    "geom:area_square_m":23927801.960154,
+    "geom:area_square_m":23927801.960161,
     "geom:bbox":"18.0229394191,39.9356108505,18.1281476865,39.9875363678",
     "geom:latitude":39.960911,
     "geom:longitude":18.068701,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075063",
+        "eurostat:nuts_2021_id":"075063",
         "gn:id":6541740,
         "gp:id":12681316,
         "qs_pg:id":948924
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b82cdb3cd71a1010d5c318858e9c916",
+    "wof:geomhash":"2e5a2aef000c15fa06b4cdb71a2183e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456597,
-    "wof:lastmodified":1582328060,
+    "wof:lastmodified":1684353628,
     "wof:name":"Racale",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":10886,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

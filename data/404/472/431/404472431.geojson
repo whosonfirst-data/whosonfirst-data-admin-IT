@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel Bolognese",
+    "eurostat:nuts_2021_id":"039006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039006",
+    "eurostat:population":9599,
+    "eurostat:population_year":2020,
     "geom:area":0.003651,
-    "geom:area_square_m":32295997.846237,
+    "geom:area_square_m":32295997.846232,
     "geom:bbox":"11.7360466328,44.2863654701,11.8481581158,44.3646894178",
     "geom:latitude":44.320731,
     "geom:longitude":11.787146,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039006",
+        "eurostat:nuts_2021_id":"039006",
         "gn:id":6538484,
         "gp:id":12678167,
         "qs_pg:id":289672
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"644b0bd2a2509dc151e5c5d7b49008ab",
+    "wof:geomhash":"96b3cee7ae9e7bc719b103b7d86165ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472431,
-    "wof:lastmodified":1582327887,
+    "wof:lastmodified":1684353961,
     "wof:name":"Castel Bolognese",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":9599,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

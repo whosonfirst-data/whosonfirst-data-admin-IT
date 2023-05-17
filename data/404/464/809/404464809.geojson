@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parghelia",
+    "eurostat:nuts_2021_id":"102026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102026",
+    "eurostat:population":1277,
+    "eurostat:population_year":2020,
     "geom:area":0.000816,
-    "geom:area_square_m":7878899.851268,
+    "geom:area_square_m":7878899.851269,
     "geom:bbox":"15.9064641787,38.6622853136,15.9693626954,38.7029308515",
     "geom:latitude":38.680835,
     "geom:longitude":15.936695,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102026",
+        "eurostat:nuts_2021_id":"102026"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"875a3aa61daf1dee458de26abb515a33",
+    "wof:geomhash":"60a5a809bbe26ed6c29873a8ef118d85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404464809,
-    "wof:lastmodified":1566723241,
+    "wof:lastmodified":1684353817,
     "wof:name":"Parghelia",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":1277,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

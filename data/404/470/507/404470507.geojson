@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coseano",
+    "eurostat:nuts_2021_id":"030031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030031",
+    "eurostat:population":2123,
+    "eurostat:population_year":2020,
     "geom:area":0.002763,
-    "geom:area_square_m":23702274.48005,
+    "geom:area_square_m":23702274.480047,
     "geom:bbox":"12.9688319562,46.0437767642,13.0530492589,46.1138359393",
     "geom:latitude":46.081028,
     "geom:longitude":13.010721,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030031",
+        "eurostat:nuts_2021_id":"030031",
         "gn:id":6538365,
         "gp:id":12678692,
         "qs_pg:id":245181
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"347fda6d12865d0f59cc120c872d8bd9",
+    "wof:geomhash":"96e60da18bac3f260ccfb06ceb0ae700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470507,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353923,
     "wof:name":"Coseano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2123,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

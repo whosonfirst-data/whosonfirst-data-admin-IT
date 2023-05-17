@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fordongianus",
+    "eurostat:nuts_2021_id":"095020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095020",
+    "eurostat:population":870,
+    "eurostat:population_year":2020,
     "geom:area":0.004167,
-    "geom:area_square_m":39474409.407502,
+    "geom:area_square_m":39474409.407499,
     "geom:bbox":"8.77722039602,39.9390776621,8.84773194268,40.0396727893",
     "geom:latitude":39.991656,
     "geom:longitude":8.814284,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095020",
+        "eurostat:nuts_2021_id":"095020",
         "gn:id":6539358,
         "gp:id":12679349,
         "qs_pg:id":1310883
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73fa2f971f92ea6a4d0b4319eb10901f",
+    "wof:geomhash":"8df2e4945460af9f28e5d85f3da5b8f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467007,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353863,
     "wof:name":"Fordongianus",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":870,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

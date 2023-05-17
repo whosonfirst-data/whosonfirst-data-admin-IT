@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marentino",
+    "eurostat:nuts_2021_id":"001144",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001144",
+    "eurostat:population":1304,
+    "eurostat:population_year":2020,
     "geom:area":0.001287,
-    "geom:area_square_m":11241829.930387,
+    "geom:area_square_m":11241829.930389,
     "geom:bbox":"7.85929336621,45.0366401685,7.89802935407,45.0959959702",
     "geom:latitude":45.065346,
     "geom:longitude":7.87943,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001144",
+        "eurostat:nuts_2021_id":"001144",
         "gn:id":6543782,
         "gp:id":20076483,
         "qs_pg:id":1149912
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4f92ce725f7fcf38bdcc27212633edc",
+    "wof:geomhash":"1217ab0e28657ad43066bc752ba73bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456497,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353626,
     "wof:name":"Marentino",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1304,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

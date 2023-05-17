@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avola",
+    "eurostat:nuts_2021_id":"089002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089002",
+    "eurostat:population":31145,
+    "eurostat:population_year":2020,
     "geom:area":0.007495,
-    "geom:area_square_m":74085836.053429,
+    "geom:area_square_m":74085836.05344,
     "geom:bbox":"15.0669965089,36.8749152653,15.1903917888,36.9735713695",
     "geom:latitude":36.927137,
     "geom:longitude":15.1191,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089002",
+        "eurostat:nuts_2021_id":"089002",
         "gn:id":6540854,
         "gp:id":12676373,
         "qs_pg:id":891643
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82851e890a9eb553d738ddb0547b7a2c",
+    "wof:geomhash":"55c37cd2e9a56f17fb0f8c81ebeb5058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466675,
-    "wof:lastmodified":1582328186,
+    "wof:lastmodified":1684353855,
     "wof:name":"Avola",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":31145,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

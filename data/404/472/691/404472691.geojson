@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agliana",
+    "eurostat:nuts_2021_id":"047002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047002",
+    "eurostat:population":18207,
+    "eurostat:population_year":2020,
     "geom:area":0.001309,
-    "geom:area_square_m":11659863.411558,
+    "geom:area_square_m":11659863.411559,
     "geom:bbox":"10.9791109456,43.8697514222,11.0248711914,43.9219433137",
     "geom:latitude":43.895657,
     "geom:longitude":11.001044,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047002",
+        "eurostat:nuts_2021_id":"047002",
         "gn:id":6538551,
         "gp:id":12675816,
         "qs_pg:id":885675
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"485b3c6709fe258bd19ebf464f26525d",
+    "wof:geomhash":"71324f21fd03ab14cc1a46dbe97ad47d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404472691,
-    "wof:lastmodified":1582327904,
+    "wof:lastmodified":1684353967,
     "wof:name":"Agliana",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":18207,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

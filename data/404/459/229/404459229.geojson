@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belpasso",
+    "eurostat:nuts_2021_id":"087007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087007",
+    "eurostat:population":28072,
+    "eurostat:population_year":2020,
     "geom:area":0.016853,
-    "geom:area_square_m":165265799.360171,
+    "geom:area_square_m":165265799.360248,
     "geom:bbox":"14.8418499168,37.4054651801,15.0183894632,37.7512093728",
     "geom:latitude":37.528754,
     "geom:longitude":14.937337,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087007",
+        "eurostat:nuts_2021_id":"087007",
         "gn:id":6541966,
         "gp:id":12676690,
         "qs_pg:id":1317376
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"118ddd0e49be94e22b72496cf32ea9dc",
+    "wof:geomhash":"3c4e09b5c6e70fbf61fdeefa8e2313d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459229,
-    "wof:lastmodified":1582328155,
+    "wof:lastmodified":1684353689,
     "wof:name":"Belpasso",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":28072,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

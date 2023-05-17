@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campagnatico",
+    "eurostat:nuts_2021_id":"053002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053002",
+    "eurostat:population":2365,
+    "eurostat:population_year":2020,
     "geom:area":0.017869,
-    "geom:area_square_m":161977702.143003,
+    "geom:area_square_m":161977702.14301,
     "geom:bbox":"11.1489757627,42.7805976374,11.3746164953,42.9384975933",
     "geom:latitude":42.853792,
     "geom:longitude":11.251015,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_053002",
+        "eurostat:nuts_2021_id":"053002"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"79d2930fc5e2d5065967f9dd47d984ef",
+    "wof:geomhash":"007e72897d5c579f919994453c4c597d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404463883,
-    "wof:lastmodified":1566723193,
+    "wof:lastmodified":1684353789,
     "wof:name":"Campagnatico",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":2365,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

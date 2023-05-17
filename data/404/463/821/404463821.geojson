@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiusi",
+    "eurostat:nuts_2021_id":"052011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052011",
+    "eurostat:population":8314,
+    "eurostat:population_year":2020,
     "geom:area":0.006419,
-    "geom:area_square_m":58020366.351685,
+    "geom:area_square_m":58020366.351672,
     "geom:bbox":"11.8564489134,42.9762109183,11.9824923358,43.0757622487",
     "geom:latitude":43.030207,
     "geom:longitude":11.929194,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052011",
+        "eurostat:nuts_2021_id":"052011",
         "gn:id":6539740,
         "gp:id":12678635,
         "qs_pg:id":192006
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd20cabacbf166f9e2d6ef5f1a11de43",
+    "wof:geomhash":"5681a78ffad15f6f43cc3cfba6748822",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463821,
-    "wof:lastmodified":1582327767,
+    "wof:lastmodified":1684353787,
     "wof:name":"Chiusi",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":8314,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

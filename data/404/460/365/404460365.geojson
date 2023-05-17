@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miagliano",
+    "eurostat:nuts_2021_id":"096034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096034",
+    "eurostat:population":580,
+    "eurostat:population_year":2020,
     "geom:area":0.000077,
     "geom:area_square_m":666791.404461,
     "geom:bbox":"8.03612769326,45.608218998,8.04783314657,45.6270419093",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096034",
+        "eurostat:nuts_2021_id":"096034",
         "gn:id":3173476,
         "gp:id":20075965,
         "qs_pg:id":1181301
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad2381f2563c7b233b5072aabe5a0df6",
+    "wof:geomhash":"576862b88fcc923cf92c694894af64c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460365,
-    "wof:lastmodified":1582327994,
+    "wof:lastmodified":1684353716,
     "wof:name":"Miagliano",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":580,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

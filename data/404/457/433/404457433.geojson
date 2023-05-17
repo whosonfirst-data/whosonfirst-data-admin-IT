@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villar Perosa",
+    "eurostat:nuts_2021_id":"001307",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001307",
+    "eurostat:population":3990,
+    "eurostat:population_year":2020,
     "geom:area":0.001302,
-    "geom:area_square_m":11402418.178811,
+    "geom:area_square_m":11402418.178809,
     "geom:bbox":"7.23572449753,44.893013364,7.27870630012,44.9461860875",
     "geom:latitude":44.919482,
     "geom:longitude":7.259562,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001307",
+        "eurostat:nuts_2021_id":"001307",
         "gn:id":6541798,
         "gp:id":12682444,
         "qs_pg:id":1013783
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbc26e2853364f67b2b960ad760f8591",
+    "wof:geomhash":"1066ec22131d7b19399e6e0d45ee9f15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457433,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353649,
     "wof:name":"Villar Perosa",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3990,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

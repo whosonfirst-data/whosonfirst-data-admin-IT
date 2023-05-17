@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carbonia",
+    "eurostat:nuts_2021_id":"111009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111009",
+    "eurostat:population":27611,
+    "eurostat:population_year":2020,
     "geom:area":0.015188,
-    "geom:area_square_m":145536047.525299,
+    "geom:area_square_m":145536047.525301,
     "geom:bbox":"8.43549057964,39.1305429357,8.60756802199,39.2832833735",
     "geom:latitude":39.201521,
     "geom:longitude":8.523932,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111009",
+        "eurostat:nuts_2021_id":"111009",
         "gn:id":6539583,
         "gp:id":12676389,
         "qs_pg:id":50707
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1804989da1e87e7252832dee78bf4a82",
+    "wof:geomhash":"1995e727373e0516348e49663a90b35a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404467341,
-    "wof:lastmodified":1582327976,
+    "wof:lastmodified":1684353872,
     "wof:name":"Carbonia",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":27611,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

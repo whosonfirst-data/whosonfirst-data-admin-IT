@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni Bianco",
+    "eurostat:nuts_2021_id":"016188",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016188",
+    "eurostat:population":4732,
+    "eurostat:population_year":2020,
     "geom:area":0.003598,
     "geom:area_square_m":30976043.387437,
     "geom:bbox":"9.60692004061,45.8528808604,9.68775384969,45.9181895784",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016188",
+        "eurostat:nuts_2021_id":"016188",
         "gn:id":6536549,
         "gp:id":12679708,
         "qs_pg:id":1196009
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"456e70dd2fd955f76701982d79c70852",
+    "wof:geomhash":"13d521532c79b485cc445e3bf3c0856b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466119,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353843,
     "wof:name":"San Giovanni Bianco",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4732,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

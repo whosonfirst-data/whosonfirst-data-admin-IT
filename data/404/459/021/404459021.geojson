@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spezzano Albanese",
+    "eurostat:nuts_2021_id":"078142",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078142",
+    "eurostat:population":6919,
+    "eurostat:population_year":2020,
     "geom:area":0.003358,
     "geom:area_square_m":31949222.723816,
     "geom:bbox":"16.2772885473,39.650554383,16.362416438,39.7237369184",
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078142",
+        "eurostat:nuts_2021_id":"078142"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7b81bf642e17da695a9afdee8ac37fc1",
+    "wof:geomhash":"3b2246979f028673a7d7ecd90ae6da1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404459021,
-    "wof:lastmodified":1566723750,
+    "wof:lastmodified":1684353684,
     "wof:name":"Spezzano Albanese",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":6919,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaiba",
+    "eurostat:nuts_2021_id":"029025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029025",
+    "eurostat:population":981,
+    "eurostat:population_year":2020,
     "geom:area":0.001365,
-    "geom:area_square_m":11946369.928848,
+    "geom:area_square_m":11946369.92885,
     "geom:bbox":"11.457317419,44.9359751754,11.5237494569,44.9777491846",
     "geom:latitude":44.950953,
     "geom:longitude":11.485757,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029025",
+        "eurostat:nuts_2021_id":"029025",
         "gn:id":6541011,
         "gp:id":20076714,
         "qs_pg:id":50879
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46fd3e86d4a944d2bfc37eea955236ad",
+    "wof:geomhash":"104b057e8f30e6ff51488353cbd19b44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470379,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353920,
     "wof:name":"Gaiba",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":981,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

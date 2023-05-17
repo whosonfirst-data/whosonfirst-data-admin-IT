@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Cipriano Picentino",
+    "eurostat:nuts_2021_id":"065118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065118",
+    "eurostat:population":6601,
+    "eurostat:population_year":2020,
     "geom:area":0.001843,
     "geom:area_square_m":17276450.805686,
     "geom:bbox":"14.8477796401,40.663210587,14.8978103849,40.7373495302",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065118",
+        "eurostat:nuts_2021_id":"065118",
         "gn:id":6537412,
         "gp:id":12681594,
         "qs_pg:id":1143657
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba9192fe730462d1ee5395bc8a4dfec4",
+    "wof:geomhash":"6087776b45d84e4df4df0a51585879f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465727,
-    "wof:lastmodified":1582327848,
+    "wof:lastmodified":1684353836,
     "wof:name":"San Cipriano Picentino",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":6601,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

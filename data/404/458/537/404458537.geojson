@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brugnato",
+    "eurostat:nuts_2021_id":"011007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011007",
+    "eurostat:population":1290,
+    "eurostat:population_year":2020,
     "geom:area":0.001342,
     "geom:area_square_m":11886444.5822,
     "geom:bbox":"9.69479820543,44.2193735603,9.76232632269,44.2577493919",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011007",
+        "eurostat:nuts_2021_id":"011007",
         "gn:id":6536472,
         "gp:id":12677140,
         "qs_pg:id":1163421
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e29ac64d09c26643f3ae3996c1f75295",
+    "wof:geomhash":"f289f011fedd98c246ec408fcd2dcbc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458537,
-    "wof:lastmodified":1582327950,
+    "wof:lastmodified":1684353671,
     "wof:name":"Brugnato",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":1290,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

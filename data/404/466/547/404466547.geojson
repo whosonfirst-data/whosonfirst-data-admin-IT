@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milena",
+    "eurostat:nuts_2021_id":"085010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085010",
+    "eurostat:population":2888,
+    "eurostat:population_year":2020,
     "geom:area":0.002499,
-    "geom:area_square_m":24530004.457607,
+    "geom:area_square_m":24530004.457608,
     "geom:bbox":"13.70646821,37.4269948206,13.7724834104,37.487814826",
     "geom:latitude":37.45895,
     "geom:longitude":13.739259,
@@ -68,6 +80,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -75,9 +89,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_085010",
+        "eurostat:nuts_2021_id":"085010"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3d6d8897f57fbab0804909386b544421",
+    "wof:geomhash":"e947543af1c7ec3990d40ab4686742a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +105,12 @@
         }
     ],
     "wof:id":404466547,
-    "wof:lastmodified":1566723796,
+    "wof:lastmodified":1684353852,
     "wof:name":"Milena",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":2888,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

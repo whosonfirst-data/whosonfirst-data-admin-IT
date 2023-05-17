@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chies d'Alpago",
+    "eurostat:nuts_2021_id":"025012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025012",
+    "eurostat:population":1297,
+    "eurostat:population_year":2020,
     "geom:area":0.005234,
-    "geom:area_square_m":44820161.834793,
+    "geom:area_square_m":44820161.834794,
     "geom:bbox":"12.3700277389,46.1328577425,12.4988983337,46.2112454816",
     "geom:latitude":46.172741,
     "geom:longitude":12.426689,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025012",
+        "eurostat:nuts_2021_id":"025012",
         "gn:id":6540218,
         "gp:id":12678608,
         "qs_pg:id":233484
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6ce8f9e256f3eb532f7b73990ef34c3",
+    "wof:geomhash":"38cc74402ca8cbe35f7647461e21cb46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469867,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353911,
     "wof:name":"Chies D'Alpago",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1297,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

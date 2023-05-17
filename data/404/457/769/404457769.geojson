@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Momo",
+    "eurostat:nuts_2021_id":"003100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003100",
+    "eurostat:population":2481,
+    "eurostat:population_year":2020,
     "geom:area":0.002721,
     "geom:area_square_m":23555306.461275,
     "geom:bbox":"8.52623894233,45.544950829,8.60049925934,45.5994901086",
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003100",
+        "eurostat:nuts_2021_id":"003100",
         "gn:id":6540935,
         "gp:id":12676041,
         "qs_pg:id":38776
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6d31855ac7524c72084e403b27953da",
+    "wof:geomhash":"ce953957011460213ec3cbf8f880f3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404457769,
-    "wof:lastmodified":1582328109,
+    "wof:lastmodified":1684353656,
     "wof:name":"Momo",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":2481,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cunico",
+    "eurostat:nuts_2021_id":"005051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005051",
+    "eurostat:population":452,
+    "eurostat:population_year":2020,
     "geom:area":0.000767,
     "geom:area_square_m":6698680.319983,
     "geom:bbox":"8.06780866855,45.0293456616,8.11578428556,45.0543751506",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005051",
+        "eurostat:nuts_2021_id":"005051",
         "gn:id":6536049,
         "gp:id":12679037,
         "qs_pg:id":334028
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"478f644fdb31d48463afbe47bb3aeaaa",
+    "wof:geomhash":"aa8c699a8442c30de4bb72a1e347adc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456023,
-    "wof:lastmodified":1582328049,
+    "wof:lastmodified":1684353615,
     "wof:name":"Cunico",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":452,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

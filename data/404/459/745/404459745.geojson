@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gradara",
+    "eurostat:nuts_2021_id":"041020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041020",
+    "eurostat:population":4897,
+    "eurostat:population_year":2020,
     "geom:area":0.001962,
-    "geom:area_square_m":17467243.054981,
+    "geom:area_square_m":17467243.054982,
     "geom:bbox":"12.732812679,43.9145798933,12.8202656021,43.952967215",
     "geom:latitude":43.932715,
     "geom:longitude":12.774724,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041020",
+        "eurostat:nuts_2021_id":"041020",
         "gn:id":6541052,
         "gp:id":12680526,
         "qs_pg:id":190785
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44231004ce9286ecbb4de5b56c8ef2f1",
+    "wof:geomhash":"1d7ace43a5d2d85cf0162214b82e23bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459745,
-    "wof:lastmodified":1582328178,
+    "wof:lastmodified":1684353700,
     "wof:name":"Gradara",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":4897,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

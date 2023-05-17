@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Copertino",
+    "eurostat:nuts_2021_id":"075022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075022",
+    "eurostat:population":23653,
+    "eurostat:population_year":2020,
     "geom:area":0.006113,
-    "geom:area_square_m":57671276.842351,
+    "geom:area_square_m":57671276.842339,
     "geom:bbox":"17.9840991795,40.2207823256,18.1081780342,40.3186192522",
     "geom:latitude":40.269402,
     "geom:longitude":18.051624,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075022",
+        "eurostat:nuts_2021_id":"075022",
         "gn:id":6538969,
         "gp:id":12678886,
         "qs_pg:id":1194926
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fdd6b53383f34328bdbe0c9e15e690db",
+    "wof:geomhash":"3ec14d641897ed15bc3b5660b1f78dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463311,
-    "wof:lastmodified":1582327787,
+    "wof:lastmodified":1684353777,
     "wof:name":"Copertino",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":23653,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cornale e Bastida",
+    "eurostat:nuts_2021_id":"018191",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018191",
+    "eurostat:population":848,
+    "eurostat:population_year":2020,
     "geom:area":0.000242,
     "geom:area_square_m":2110983.664812,
     "geom:bbox":"8.88767110879,45.0363001914,8.92004405916,45.0583599659",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018191",
+        "eurostat:nuts_2021_id":"018191",
         "gn:id":6541427,
         "gp:id":20076300,
         "qs_pg:id":1263358
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e59dab856bdf5aff23152a5e360cd1eb",
+    "wof:geomhash":"3c295f5966a44f8b02bd3004bd01fa24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471401,
-    "wof:lastmodified":1582327715,
+    "wof:lastmodified":1684353939,
     "wof:name":"Cornale",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":848,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

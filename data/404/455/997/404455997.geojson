@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiusano d'Asti",
+    "eurostat:nuts_2021_id":"005038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005038",
+    "eurostat:population":229,
+    "eurostat:population_year":2020,
     "geom:area":0.000276,
     "geom:area_square_m":2413545.002377,
     "geom:bbox":"8.10570612257,44.9741961391,8.13456927431,44.9946864628",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005038",
+        "eurostat:nuts_2021_id":"005038",
         "gn:id":6543487,
         "gp:id":20075842,
         "qs_pg:id":50320
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16b89e195b66a98f4ff21fd469ea0e14",
+    "wof:geomhash":"b48dd07962222017efcd4e70abf80dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404455997,
-    "wof:lastmodified":1582327810,
+    "wof:lastmodified":1684353615,
     "wof:name":"Chiusano D'Asti",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

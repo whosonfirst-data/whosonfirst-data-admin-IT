@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cesena",
+    "eurostat:nuts_2021_id":"040007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040007",
+    "eurostat:population":97190,
+    "eurostat:population_year":2020,
     "geom:area":0.028029,
-    "geom:area_square_m":248766789.196618,
+    "geom:area_square_m":248766789.196566,
     "geom:bbox":"12.094612443,44.0202655206,12.3622421876,44.2331647552",
     "geom:latitude":44.130377,
     "geom:longitude":12.235031,
@@ -242,6 +254,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -249,9 +263,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_040007",
+        "eurostat:nuts_2021_id":"040007"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7152d850e02701ecdcdd2e43011320fc",
+    "wof:geomhash":"d88d54726486d6231cb1cf829d79a609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -262,10 +279,12 @@
         }
     ],
     "wof:id":404472469,
-    "wof:lastmodified":1566723378,
+    "wof:lastmodified":1684353962,
     "wof:name":"Cesena",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":97190,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

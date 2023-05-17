@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busano",
+    "eurostat:nuts_2021_id":"001043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001043",
+    "eurostat:population":1637,
+    "eurostat:population_year":2020,
     "geom:area":0.000582,
-    "geom:area_square_m":5055839.80099,
+    "geom:area_square_m":5055839.800991,
     "geom:bbox":"7.64839900339,45.2955564352,7.67173755623,45.3407417589",
     "geom:latitude":45.322209,
     "geom:longitude":7.661175,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001043",
+        "eurostat:nuts_2021_id":"001043",
         "gn:id":6537262,
         "gp:id":12677196,
         "qs_pg:id":946837
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9196c3b3fae364a4407790621e1710d2",
+    "wof:geomhash":"19b243d8d63f265ecc5735be2af5e9e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456271,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353620,
     "wof:name":"Busano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1637,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

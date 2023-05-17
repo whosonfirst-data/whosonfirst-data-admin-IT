@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beregazzo con Figliaro",
+    "eurostat:nuts_2021_id":"013022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013022",
+    "eurostat:population":2780,
+    "eurostat:population_year":2020,
     "geom:area":0.00044,
-    "geom:area_square_m":3798871.832036,
+    "geom:area_square_m":3798871.832035,
     "geom:bbox":"8.93263382803,45.7554638153,8.9699204384,45.786525385",
     "geom:latitude":45.772403,
     "geom:longitude":8.95196,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013022",
+        "eurostat:nuts_2021_id":"013022",
         "gn:id":6542527,
         "gp:id":20076072,
         "qs_pg:id":269665
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3df5dff28c8a531f34a502447048a80",
+    "wof:geomhash":"e89cbd85de315965bfd3f9cd6b5c3540",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404467959,
-    "wof:lastmodified":1582327979,
+    "wof:lastmodified":1684353882,
     "wof:name":"Beregazzo Con Figliaro",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":2780,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

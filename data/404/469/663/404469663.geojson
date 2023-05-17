@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brenzone sul Garda",
+    "eurostat:nuts_2021_id":"023014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023014",
+    "eurostat:population":2484,
+    "eurostat:population_year":2020,
     "geom:area":0.005961,
-    "geom:area_square_m":51480864.595705,
+    "geom:area_square_m":51480864.595702,
     "geom:bbox":"10.6895417998,45.6545663201,10.8322025665,45.7406822953",
     "geom:latitude":45.694928,
     "geom:longitude":10.765552,
@@ -90,6 +102,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023014",
+        "eurostat:nuts_2021_id":"023014",
         "gn:id":3181558,
         "gp:id":12676776,
         "qs_pg:id":1059595
@@ -106,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d78fa7f698fbe59d2baa66cb18ae3d7",
+    "wof:geomhash":"5430d1d3f60c4a1a727282c9566a84fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404469663,
-    "wof:lastmodified":1582328039,
+    "wof:lastmodified":1684353908,
     "wof:name":"Brenzone",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":2484,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

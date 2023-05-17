@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armento",
+    "eurostat:nuts_2021_id":"076005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076005",
+    "eurostat:population":580,
+    "eurostat:population_year":2020,
     "geom:area":0.006197,
-    "geom:area_square_m":58440396.374304,
+    "geom:area_square_m":58440396.374296,
     "geom:bbox":"16.0177544841,40.25630983,16.1234727984,40.3542329365",
     "geom:latitude":40.303729,
     "geom:longitude":16.070206,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076005",
+        "eurostat:nuts_2021_id":"076005",
         "gn:id":6538992,
         "gp:id":12676247,
         "qs_pg:id":231475
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4fea1b3214132c00288c64a3cc32fb51",
+    "wof:geomhash":"dd35098f30c6bbdd922ad86d3c96e344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463401,
-    "wof:lastmodified":1582327768,
+    "wof:lastmodified":1684353779,
     "wof:name":"Armento",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":580,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

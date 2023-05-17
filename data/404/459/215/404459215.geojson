@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aci Bonaccorsi",
+    "eurostat:nuts_2021_id":"087001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087001",
+    "eurostat:population":3542,
+    "eurostat:population_year":2020,
     "geom:area":0.000175,
-    "geom:area_square_m":1712688.071515,
+    "geom:area_square_m":1712688.071514,
     "geom:bbox":"15.099230199,37.5859947567,15.1154334496,37.6066084107",
     "geom:latitude":37.595466,
     "geom:longitude":15.108108,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087001",
+        "eurostat:nuts_2021_id":"087001",
         "gn:id":6537800,
         "gp:id":12675737,
         "qs_pg:id":979965
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03bcebd0b20e7bf6dceb10df708e1f99",
+    "wof:geomhash":"96b79a167505a33c93d23867bf4c583f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459215,
-    "wof:lastmodified":1582328170,
+    "wof:lastmodified":1684353689,
     "wof:name":"Aci Bonaccorsi",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":3542,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_088002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiaramonte Gulfi",
+    "eurostat:nuts_2021_id":"088002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG18",
+    "eurostat:nuts_2021_level_lau":"088002",
+    "eurostat:population":8084,
+    "eurostat:population_year":2020,
     "geom:area":0.012832,
-    "geom:area_square_m":126645274.849927,
+    "geom:area_square_m":126645274.849893,
     "geom:bbox":"14.5437220317,36.9858639115,14.7356349068,37.1066587542",
     "geom:latitude":37.044454,
     "geom:longitude":14.654186,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_088002",
+        "eurostat:nuts_2021_id":"088002",
         "gn:id":6537813,
         "gp:id":12678597,
         "qs_pg:id":1059628
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d872b2c0ae5090a312d175d6201095f4",
+    "wof:geomhash":"f11b5ee501d2bc7c43167f50ada46521",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466647,
-    "wof:lastmodified":1582328202,
+    "wof:lastmodified":1684353854,
     "wof:name":"Chiaramonte Gulfi",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":8084,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

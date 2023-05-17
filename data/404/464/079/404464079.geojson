@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belvedere Marittimo",
+    "eurostat:nuts_2021_id":"078015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078015",
+    "eurostat:population":9266,
+    "eurostat:population_year":2020,
     "geom:area":0.003861,
-    "geom:area_square_m":36765370.072099,
+    "geom:area_square_m":36765370.072098,
     "geom:bbox":"15.831829314,39.5933246755,15.9220984483,39.6730584407",
     "geom:latitude":39.63952,
     "geom:longitude":15.872642,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078015",
+        "eurostat:nuts_2021_id":"078015"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ff2f1a13958a8943f459b718396fcc5e",
+    "wof:geomhash":"4939d384546e1676b7917bad0e555527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464079,
-    "wof:lastmodified":1566723214,
+    "wof:lastmodified":1684353796,
     "wof:name":"Belvedere Marittimo",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":9266,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

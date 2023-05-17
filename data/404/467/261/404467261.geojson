@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Triei",
+    "eurostat:nuts_2021_id":"091097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091097",
+    "eurostat:population":1096,
+    "eurostat:population_year":2020,
     "geom:area":0.003482,
-    "geom:area_square_m":32971720.878978,
+    "geom:area_square_m":32971720.878976,
     "geom:bbox":"9.54501752549,39.9877841306,9.67087274048,40.0521677348",
     "geom:latitude":40.019173,
     "geom:longitude":9.622934,
@@ -170,6 +182,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -177,9 +191,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_091097",
+        "eurostat:nuts_2021_id":"091097"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b1987e72f765b6495b67ac77d761d2b4",
+    "wof:geomhash":"7323a2a429ff69927b1f56800faaa05f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,10 +207,12 @@
         }
     ],
     "wof:id":404467261,
-    "wof:lastmodified":1566723472,
+    "wof:lastmodified":1684353870,
     "wof:name":"Triei",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1096,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

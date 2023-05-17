@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Basciano",
+    "eurostat:nuts_2021_id":"067005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067005",
+    "eurostat:population":2362,
+    "eurostat:population_year":2020,
     "geom:area":0.002062,
     "geom:area_square_m":18768929.480722,
     "geom:bbox":"13.7065619306,42.5530669458,13.7599276747,42.6176150802",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067005",
+        "eurostat:nuts_2021_id":"067005",
         "gn:id":6540714,
         "gp:id":12676607,
         "qs_pg:id":393746
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c6018162d37f495ac6c2205739e0eaf",
+    "wof:geomhash":"433956f6a45ccbe9274e987d410d0ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462321,
-    "wof:lastmodified":1582327874,
+    "wof:lastmodified":1684353756,
     "wof:name":"Basciano",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":2362,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

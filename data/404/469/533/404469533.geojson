@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino in Strada",
+    "eurostat:nuts_2021_id":"098048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098048",
+    "eurostat:population":3752,
+    "eurostat:population_year":2020,
     "geom:area":0.001509,
-    "geom:area_square_m":13129293.259192,
+    "geom:area_square_m":13129293.259193,
     "geom:bbox":"9.50241850277,45.2538542299,9.56921818674,45.3007003556",
     "geom:latitude":45.27613,
     "geom:longitude":9.536421,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098048",
+        "eurostat:nuts_2021_id":"098048",
         "gn:id":6543354,
         "gp:id":12682678,
         "qs_pg:id":466637
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2a6ace2d098c267d9eee0cc44ed1340",
+    "wof:geomhash":"a20b2e42f97f5a062b5ed2a562309880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469533,
-    "wof:lastmodified":1582328023,
+    "wof:lastmodified":1684353905,
     "wof:name":"San Martino In Strada",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":3752,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

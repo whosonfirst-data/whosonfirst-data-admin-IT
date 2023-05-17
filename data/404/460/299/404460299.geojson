@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biella",
+    "eurostat:nuts_2021_id":"096004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096004",
+    "eurostat:population":43812,
+    "eurostat:population_year":2020,
     "geom:area":0.005387,
     "geom:area_square_m":46612457.002474,
     "geom:bbox":"7.93516629155,45.5368206188,8.09627511017,45.6456210852",
@@ -203,6 +215,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -211,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096004",
+        "eurostat:nuts_2021_id":"096004",
         "gn:id":6539582,
         "gp:id":20075954,
         "qs_pg:id":1094870
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d307fd9f2666710be2b77a9100902322",
+    "wof:geomhash":"5c3086bbfef162fb6a672d2e396c7f03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":404460299,
-    "wof:lastmodified":1582328018,
+    "wof:lastmodified":1684353715,
     "wof:name":"Biella",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":43812,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

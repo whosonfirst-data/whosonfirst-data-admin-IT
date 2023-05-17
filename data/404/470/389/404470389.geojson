@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loreo",
+    "eurostat:nuts_2021_id":"029030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029030",
+    "eurostat:population":3392,
+    "eurostat:population_year":2020,
     "geom:area":0.004549,
-    "geom:area_square_m":39728397.395419,
+    "geom:area_square_m":39728397.395422,
     "geom:bbox":"12.1365762906,45.0211650996,12.2471764116,45.108244672",
     "geom:latitude":45.067299,
     "geom:longitude":12.190416,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029030",
+        "eurostat:nuts_2021_id":"029030",
         "gn:id":6538354,
         "gp:id":12677230,
         "qs_pg:id":922462
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8309a40dd7bc8376efebc504139b9d8b",
+    "wof:geomhash":"6fa3727bbd51a235a512b863ff708e08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404470389,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353921,
     "wof:name":"Loreo",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":3392,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

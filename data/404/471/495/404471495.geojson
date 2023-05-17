@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecalvo Versiggia",
+    "eurostat:nuts_2021_id":"018096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018096",
+    "eurostat:population":520,
+    "eurostat:population_year":2020,
     "geom:area":0.001302,
-    "geom:area_square_m":11388117.527832,
+    "geom:area_square_m":11388117.527831,
     "geom:bbox":"9.24690268274,44.9515599798,9.29946546686,44.9991202201",
     "geom:latitude":44.977617,
     "geom:longitude":9.275576,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018096",
+        "eurostat:nuts_2021_id":"018096",
         "gn:id":6542594,
         "gp:id":12680318,
         "qs_pg:id":204089
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b13be886c692cc02837883159b1fa87e",
+    "wof:geomhash":"2b3b2022b104e799f8ab5e9e6f078608",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471495,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353941,
     "wof:name":"Montecalvo Versiggia",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":520,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

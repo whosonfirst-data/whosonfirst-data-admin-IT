@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santopadre",
+    "eurostat:nuts_2021_id":"060069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060069",
+    "eurostat:population":1277,
+    "eurostat:population_year":2020,
     "geom:area":0.002326,
-    "geom:area_square_m":21506669.405268,
+    "geom:area_square_m":21506669.405263,
     "geom:bbox":"13.5974302224,41.568201312,13.6674656312,41.6232924707",
     "geom:latitude":41.599613,
     "geom:longitude":13.639698,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060069",
+        "eurostat:nuts_2021_id":"060069",
         "gn:id":6542260,
         "gp:id":12681866,
         "qs_pg:id":1004478
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88fdd6d6ba9315fd688c4ef105ce6300",
+    "wof:geomhash":"91c609d4b9fb824dd8c028295d60081c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462017,
-    "wof:lastmodified":1582327868,
+    "wof:lastmodified":1684353751,
     "wof:name":"Santopadre",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":1277,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mogorella",
+    "eurostat:nuts_2021_id":"095028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095028",
+    "eurostat:population":432,
+    "eurostat:population_year":2020,
     "geom:area":0.001798,
-    "geom:area_square_m":17059301.587047,
+    "geom:area_square_m":17059301.587044,
     "geom:bbox":"8.83461088844,39.8413629083,8.88320399138,39.9006467545",
     "geom:latitude":39.86978,
     "geom:longitude":8.858543,
@@ -173,6 +185,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -180,9 +194,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_095028",
+        "eurostat:nuts_2021_id":"095028"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cbce44ae94bee5fb947a2a00e56ed935",
+    "wof:geomhash":"13cb0573121733a37719b6b279813e37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +210,12 @@
         }
     ],
     "wof:id":404467025,
-    "wof:lastmodified":1566723470,
+    "wof:lastmodified":1684353864,
     "wof:name":"Mogorella",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":432,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

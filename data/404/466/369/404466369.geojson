@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Salvatore di Fitalia",
+    "eurostat:nuts_2021_id":"083082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083082",
+    "eurostat:population":1219,
+    "eurostat:population_year":2020,
     "geom:area":0.001531,
-    "geom:area_square_m":14905461.303854,
+    "geom:area_square_m":14905461.303862,
     "geom:bbox":"14.7582196454,38.0386189531,14.8134495624,38.0916059364",
     "geom:latitude":38.06366,
     "geom:longitude":14.783711,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_083082",
+        "eurostat:nuts_2021_id":"083082"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"269dbd389084ef1733ecc4c04a9d4ce1",
+    "wof:geomhash":"bad041d325c042ca910e12a75aecb662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404466369,
-    "wof:lastmodified":1566723783,
+    "wof:lastmodified":1684353848,
     "wof:name":"San Salvatore Di Fitalia",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1219,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cernusco sul Naviglio",
+    "eurostat:nuts_2021_id":"015070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015070",
+    "eurostat:population":34980,
+    "eurostat:population_year":2020,
     "geom:area":0.001524,
-    "geom:area_square_m":13201160.391925,
+    "geom:area_square_m":13201160.391928,
     "geom:bbox":"9.29905780115,45.5002432769,9.36727266186,45.5479453719",
     "geom:latitude":45.526041,
     "geom:longitude":9.332243,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015070",
+        "eurostat:nuts_2021_id":"015070",
         "gn:id":6539481,
         "gp:id":12678521,
         "qs_pg:id":1150638
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0109747f0de0a618d38a8507b765f113",
+    "wof:geomhash":"d1da4e785b16985e3dc8fed695b3b223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468367,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353888,
     "wof:name":"Cernusco Sul Naviglio",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":34980,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

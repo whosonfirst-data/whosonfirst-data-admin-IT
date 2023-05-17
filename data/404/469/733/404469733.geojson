@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verona",
+    "eurostat:nuts_2021_id":"023091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023091",
+    "eurostat:population":259608,
+    "eurostat:population_year":2020,
     "geom:area":0.022883,
-    "geom:area_square_m":198505367.046778,
+    "geom:area_square_m":198505367.046792,
     "geom:bbox":"10.8768181395,45.3493791375,11.124399015,45.5417983972",
     "geom:latitude":45.448682,
     "geom:longitude":11.002259,
@@ -344,6 +356,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -352,6 +366,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023091",
+        "eurostat:nuts_2021_id":"023091",
         "gn:id":6541865,
         "gp:id":12676363,
         "qs_pg:id":1175546
@@ -360,7 +376,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cd965a4c489cf4243f7745692944488",
+    "wof:geomhash":"44b859860e2c3c216408860ad4695a62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -371,10 +387,12 @@
         }
     ],
     "wof:id":404469733,
-    "wof:lastmodified":1582328034,
+    "wof:lastmodified":1684353909,
     "wof:name":"Verona",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":259608,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

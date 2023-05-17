@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marano Ticino",
+    "eurostat:nuts_2021_id":"003091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003091",
+    "eurostat:population":1639,
+    "eurostat:population_year":2020,
     "geom:area":0.000899,
-    "geom:area_square_m":7776124.40737,
+    "geom:area_square_m":7776124.407369,
     "geom:bbox":"8.59460074198,45.6168842733,8.66598612342,45.642389973",
     "geom:latitude":45.630334,
     "geom:longitude":8.629918,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003091",
+        "eurostat:nuts_2021_id":"003091",
         "gn:id":6539551,
         "gp:id":12680151,
         "qs_pg:id":289753
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e4ee990db3501c3ddad7f940be39dfd5",
+    "wof:geomhash":"a8abbb309221c2c02ad94e92f9c1d718",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457757,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353656,
     "wof:name":"Marano Ticino",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1639,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

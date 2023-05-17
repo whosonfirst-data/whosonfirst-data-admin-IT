@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villalago",
+    "eurostat:nuts_2021_id":"066103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066103",
+    "eurostat:population":529,
+    "eurostat:population_year":2020,
     "geom:area":0.003593,
-    "geom:area_square_m":33048427.912439,
+    "geom:area_square_m":33048427.912444,
     "geom:bbox":"13.7777332377,41.8986881603,13.8660874257,41.9697420546",
     "geom:latitude":41.934902,
     "geom:longitude":13.821854,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066103",
+        "eurostat:nuts_2021_id":"066103",
         "gn:id":6537452,
         "gp:id":12682458,
         "qs_pg:id":194720
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f2c96170b83dc6b9c665ce0ab81d4ea",
+    "wof:geomhash":"f822a333a430f5e802b65e1d0ff6ebe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462299,
-    "wof:lastmodified":1582327872,
+    "wof:lastmodified":1684353756,
     "wof:name":"Villalago",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":529,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

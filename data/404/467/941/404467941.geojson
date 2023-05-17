@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anzano del Parco",
+    "eurostat:nuts_2021_id":"013009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013009",
+    "eurostat:population":1835,
+    "eurostat:population_year":2020,
     "geom:area":0.000376,
     "geom:area_square_m":3240078.908854,
     "geom:bbox":"9.18874557733,45.7604555826,9.22561965338,45.7790176693",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013009",
+        "eurostat:nuts_2021_id":"013009",
         "gn:id":6537092,
         "gp:id":12676132,
         "qs_pg:id":1026040
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"126f315d550b3f350f4c3203787532b5",
+    "wof:geomhash":"b2c6e47a603f0b84926e17e3acb6737d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404467941,
-    "wof:lastmodified":1582327976,
+    "wof:lastmodified":1684353882,
     "wof:name":"Anzano Del Parco",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1835,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

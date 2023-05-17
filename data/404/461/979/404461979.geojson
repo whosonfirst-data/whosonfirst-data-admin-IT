@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piedimonte San Germano",
+    "eurostat:nuts_2021_id":"060052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060052",
+    "eurostat:population":6464,
+    "eurostat:population_year":2020,
     "geom:area":0.001862,
-    "geom:area_square_m":17248583.580075,
+    "geom:area_square_m":17248583.580087,
     "geom:bbox":"13.7276005533,41.4415244191,13.7676961601,41.522267712",
     "geom:latitude":41.484581,
     "geom:longitude":13.749603,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_060052",
+        "eurostat:nuts_2021_id":"060052"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"39ef78725fe1390cc08ea8e32a156fb7",
+    "wof:geomhash":"de6338c534f07396ffc9729a4e74e21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404461979,
-    "wof:lastmodified":1566723697,
+    "wof:lastmodified":1684353750,
     "wof:name":"Piedimonte San Germano",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":6464,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azzone",
+    "eurostat:nuts_2021_id":"016017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016017",
+    "eurostat:population":388,
+    "eurostat:population_year":2020,
     "geom:area":0.002008,
-    "geom:area_square_m":17258766.336018,
+    "geom:area_square_m":17258766.336019,
     "geom:bbox":"10.0992061016,45.9377950205,10.1788718025,45.99558595",
     "geom:latitude":45.974057,
     "geom:longitude":10.132836,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016017",
+        "eurostat:nuts_2021_id":"016017",
         "gn:id":6536529,
         "gp:id":12676385,
         "qs_pg:id":946788
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54dc33c41b773c8cc9cd04c978140d94",
+    "wof:geomhash":"600fe340eb76447eb313eda6f84ef666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468639,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353892,
     "wof:name":"Azzone",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":388,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_038007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Copparo",
+    "eurostat:nuts_2021_id":"038007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH56",
+    "eurostat:nuts_2021_level_lau":"038007",
+    "eurostat:population":16071,
+    "eurostat:population_year":2020,
     "geom:area":0.01788,
-    "geom:area_square_m":156599698.231453,
+    "geom:area_square_m":156599698.231451,
     "geom:bbox":"11.7379497529,44.8244062255,12.0032643839,44.9592749388",
     "geom:latitude":44.902385,
     "geom:longitude":11.860894,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_038007",
+        "eurostat:nuts_2021_id":"038007",
         "gn:id":6540430,
         "gp:id":12676053,
         "qs_pg:id":213718
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31142ad92c344342f5e571ec6d8e85d9",
+    "wof:geomhash":"83f1d5191e925050fcfdd7a1656d09df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472373,
-    "wof:lastmodified":1582327907,
+    "wof:lastmodified":1684353959,
     "wof:name":"Copparo",
     "wof:parent_id":85685359,
     "wof:placetype":"localadmin",
+    "wof:population":16071,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

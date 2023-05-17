@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quarto d'Altino",
+    "eurostat:nuts_2021_id":"027031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027031",
+    "eurostat:population":8081,
+    "eurostat:population_year":2020,
     "geom:area":0.003262,
-    "geom:area_square_m":28237723.598104,
+    "geom:area_square_m":28237723.598103,
     "geom:bbox":"12.3353875986,45.5312391835,12.5054598146,45.5907344545",
     "geom:latitude":45.560496,
     "geom:longitude":12.409136,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027031",
+        "eurostat:nuts_2021_id":"027031",
         "gn:id":6538320,
         "gp:id":12679743,
         "qs_pg:id":248776
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05ff3abe98433a4a5ecebdebfcd99d19",
+    "wof:geomhash":"eacfc161230994973c6d6af32f58916d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470171,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353917,
     "wof:name":"Quarto D'Altino",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":8081,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

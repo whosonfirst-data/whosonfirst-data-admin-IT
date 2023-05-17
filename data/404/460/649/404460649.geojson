@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Tammaro",
+    "eurostat:nuts_2021_id":"061085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061085",
+    "eurostat:population":5787,
+    "eurostat:population_year":2020,
     "geom:area":0.003945,
-    "geom:area_square_m":36778209.909518,
+    "geom:area_square_m":36778209.909513,
     "geom:bbox":"14.1401248251,41.0359055322,14.2405019368,41.094467412",
     "geom:latitude":41.063905,
     "geom:longitude":14.194821,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061085",
+        "eurostat:nuts_2021_id":"061085",
         "gn:id":6538729,
         "gp:id":12677669,
         "qs_pg:id":190429
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"671ef32886dd3940f6aa5c94ebc2cf04",
+    "wof:geomhash":"3401787d245bcac8e91614620214ee95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460649,
-    "wof:lastmodified":1582328012,
+    "wof:lastmodified":1684353723,
     "wof:name":"San Tammaro",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":5787,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

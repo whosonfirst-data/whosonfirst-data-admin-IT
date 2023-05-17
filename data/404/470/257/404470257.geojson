@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalserugo",
+    "eurostat:nuts_2021_id":"028028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028028",
+    "eurostat:population":5384,
+    "eurostat:population_year":2020,
     "geom:area":0.001778,
     "geom:area_square_m":15462676.230637,
     "geom:bbox":"11.8945234452,45.2742380922,11.9411917491,45.3330067449",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028028",
+        "eurostat:nuts_2021_id":"028028",
         "gn:id":6541002,
         "gp:id":12677989,
         "qs_pg:id":1150681
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9f8ed3630c52ee41af376add16c0f60",
+    "wof:geomhash":"13cb447083163b2adf7f9bc2abae3d63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470257,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353918,
     "wof:name":"Casalserugo",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":5384,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

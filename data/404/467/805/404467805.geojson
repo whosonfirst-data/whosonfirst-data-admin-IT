@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavena Ponte Tresa",
+    "eurostat:nuts_2021_id":"012086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012086",
+    "eurostat:population":6035,
+    "eurostat:population_year":2020,
     "geom:area":0.000516,
     "geom:area_square_m":4435148.72524,
     "geom:bbox":"8.8440894124,45.9432343057,8.88318328854,45.9750525909",
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_012086",
+        "eurostat:nuts_2021_id":"012086"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3cc2f486eb3d2f733ea2c31ac9601105",
+    "wof:geomhash":"eb0768c62318134099160ec75f6d5378",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404467805,
-    "wof:lastmodified":1566723475,
+    "wof:lastmodified":1684353880,
     "wof:name":"Lavena Ponte Tresa",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":6035,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

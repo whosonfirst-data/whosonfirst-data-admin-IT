@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sestri Levante",
+    "eurostat:nuts_2021_id":"010059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010059",
+    "eurostat:population":18082,
+    "eurostat:population_year":2020,
     "geom:area":0.003793,
-    "geom:area_square_m":33576183.470141,
+    "geom:area_square_m":33576183.470142,
     "geom:bbox":"9.3842278832,44.2380851295,9.471609693,44.3262660226",
     "geom:latitude":44.286556,
     "geom:longitude":9.428624,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010059",
+        "eurostat:nuts_2021_id":"010059",
         "gn:id":6540153,
         "gp:id":12678422,
         "qs_pg:id":1112537
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"573d991eb7e1e5209d819408eb094c28",
+    "wof:geomhash":"771f870bdaa68030fc9afb96c5437b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404458503,
-    "wof:lastmodified":1582327939,
+    "wof:lastmodified":1684353671,
     "wof:name":"Sestri Levante",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":18082,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

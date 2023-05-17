@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauro",
+    "eurostat:nuts_2021_id":"064043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064043",
+    "eurostat:population":3429,
+    "eurostat:population_year":2020,
     "geom:area":0.001201,
-    "geom:area_square_m":11227057.866226,
+    "geom:area_square_m":11227057.866228,
     "geom:bbox":"14.5949161894,40.8455976987,14.6492382654,40.9002506015",
     "geom:latitude":40.872353,
     "geom:longitude":14.617143,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064043",
+        "eurostat:nuts_2021_id":"064043",
         "gn:id":6539997,
         "gp:id":20076944,
         "qs_pg:id":1299332
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"167f68f09f6a34c0c0290af7975b90cc",
+    "wof:geomhash":"8ad173aa02d58090cc47172ad992d405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465291,
-    "wof:lastmodified":1582327843,
+    "wof:lastmodified":1684353829,
     "wof:name":"Lauro",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3429,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

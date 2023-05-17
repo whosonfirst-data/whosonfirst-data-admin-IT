@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caorle",
+    "eurostat:nuts_2021_id":"027005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027005",
+    "eurostat:population":11476,
+    "eurostat:population_year":2020,
     "geom:area":0.017727,
-    "geom:area_square_m":153260082.663358,
+    "geom:area_square_m":153260082.663362,
     "geom:bbox":"12.7413898177,45.5565640179,12.98818573,45.7185019452",
     "geom:latitude":45.63974,
     "geom:longitude":12.869817,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027005",
+        "eurostat:nuts_2021_id":"027005",
         "gn:id":6540392,
         "gp:id":12677220,
         "qs_pg:id":39527
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"da1585ad836392c2987f0e6ed0790160",
+    "wof:geomhash":"860e1b9b2b859e81709a9c3eaf74fbe1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404458739,
-    "wof:lastmodified":1582327937,
+    "wof:lastmodified":1684353676,
     "wof:name":"Caorle",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":11476,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

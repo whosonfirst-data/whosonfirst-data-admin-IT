@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocchetta Belbo",
+    "eurostat:nuts_2021_id":"004193",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004193",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.000512,
     "geom:area_square_m":4501506.883453,
     "geom:bbox":"8.15221534902,44.6252321485,8.19709219908,44.6518366164",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004193",
+        "eurostat:nuts_2021_id":"004193",
         "gn:id":6542370,
         "gp:id":20075804,
         "qs_pg:id":281079
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"966f58ff1f0de548c8e6f9ece357ed86",
+    "wof:geomhash":"1cbaaf51edb8ec9a0da32d1bfd75523b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455783,
-    "wof:lastmodified":1582327815,
+    "wof:lastmodified":1684353610,
     "wof:name":"Rocchetta Belbo",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

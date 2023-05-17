@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Voltaggio",
+    "eurostat:nuts_2021_id":"006190",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006190",
+    "eurostat:population":709,
+    "eurostat:population_year":2020,
     "geom:area":0.00592,
-    "geom:area_square_m":52117050.878134,
+    "geom:area_square_m":52117050.878135,
     "geom:bbox":"8.7964246535,44.5506137572,8.9052529032,44.6457580534",
     "geom:latitude":44.602623,
     "geom:longitude":8.845502,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006190",
+        "eurostat:nuts_2021_id":"006190",
         "gn:id":6537026,
         "gp:id":12680373,
         "qs_pg:id":41499
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3041832101fcdf539b19adca9a19481",
+    "wof:geomhash":"7be1be408872bdf57395524d2e52f3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460289,
-    "wof:lastmodified":1582327999,
+    "wof:lastmodified":1684353714,
     "wof:name":"Voltaggio",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":709,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

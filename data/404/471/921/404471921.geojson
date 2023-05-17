@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cairo Montenotte",
+    "eurostat:nuts_2021_id":"009015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009015",
+    "eurostat:population":12841,
+    "eurostat:population_year":2020,
     "geom:area":0.01135,
-    "geom:area_square_m":100274545.141108,
+    "geom:area_square_m":100274545.141109,
     "geom:bbox":"8.20711770476,44.3464688818,8.43110090849,44.4559230316",
     "geom:latitude":44.400253,
     "geom:longitude":8.312068,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009015",
+        "eurostat:nuts_2021_id":"009015",
         "gn:id":6536080,
         "gp:id":12677275,
         "qs_pg:id":1315675
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b3a9625dac0a132c3e9297081d23ef6",
+    "wof:geomhash":"596c060ecd511b6605e3340739dc302e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404471921,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353948,
     "wof:name":"Cairo Montenotte",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":12841,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

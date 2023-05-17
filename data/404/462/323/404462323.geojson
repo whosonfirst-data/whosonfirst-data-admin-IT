@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellante",
+    "eurostat:nuts_2021_id":"067006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067006",
+    "eurostat:population":6960,
+    "eurostat:population_year":2020,
     "geom:area":0.005485,
-    "geom:area_square_m":49813151.472605,
+    "geom:area_square_m":49813151.472602,
     "geom:bbox":"13.7501494904,42.7005835534,13.8633389969,42.7835225298",
     "geom:latitude":42.740986,
     "geom:longitude":13.810162,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067006",
+        "eurostat:nuts_2021_id":"067006",
         "gn:id":6540715,
         "gp:id":12676673,
         "qs_pg:id":1018022
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c93026fc5eab151b1590c45743934b62",
+    "wof:geomhash":"1a90cfd2048378f72932884eb40e9ded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462323,
-    "wof:lastmodified":1582327860,
+    "wof:lastmodified":1684353756,
     "wof:name":"Bellante",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":6960,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

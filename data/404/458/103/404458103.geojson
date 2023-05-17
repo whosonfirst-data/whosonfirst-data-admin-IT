@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deruta",
+    "eurostat:nuts_2021_id":"054017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054017",
+    "eurostat:population":9587,
+    "eurostat:population_year":2020,
     "geom:area":0.004907,
-    "geom:area_square_m":44386057.538787,
+    "geom:area_square_m":44386057.538776,
     "geom:bbox":"12.3622909744,42.9302793641,12.4775674209,43.0239329304",
     "geom:latitude":42.982082,
     "geom:longitude":12.41544,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054017",
+        "eurostat:nuts_2021_id":"054017",
         "gn:id":6536871,
         "gp:id":20076774,
         "qs_pg:id":1120161
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e74e6ba547d532e887b8c33e1839bc3e",
+    "wof:geomhash":"8b10bfc76c6604abd994ea85ca770671",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404458103,
-    "wof:lastmodified":1582327936,
+    "wof:lastmodified":1684353663,
     "wof:name":"Deruta",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":9587,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

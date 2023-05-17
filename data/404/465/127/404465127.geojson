@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Qualiano",
+    "eurostat:nuts_2021_id":"063062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063062",
+    "eurostat:population":25706,
+    "eurostat:population_year":2020,
     "geom:area":0.000791,
-    "geom:area_square_m":7388072.876261,
+    "geom:area_square_m":7388072.876259,
     "geom:bbox":"14.1080726319,40.9116081687,14.1641950662,40.9352231281",
     "geom:latitude":40.922866,
     "geom:longitude":14.133755,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_063062",
+        "eurostat:nuts_2021_id":"063062"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a6b148a6551a12fff9df3e0b478fa8ff",
+    "wof:geomhash":"6d78fc470e36c4942da90f1f573ff338",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404465127,
-    "wof:lastmodified":1566723288,
+    "wof:lastmodified":1684353826,
     "wof:name":"Qualiano",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":25706,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cimolais",
+    "eurostat:nuts_2021_id":"093014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093014",
+    "eurostat:population":355,
+    "eurostat:population_year":2020,
     "geom:area":0.011771,
-    "geom:area_square_m":100506832.532356,
+    "geom:area_square_m":100506832.532357,
     "geom:bbox":"12.3815114278,46.2387831185,12.5420634774,46.412200358",
     "geom:latitude":46.328159,
     "geom:longitude":12.460431,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093014",
+        "eurostat:nuts_2021_id":"093014",
         "gn:id":6539327,
         "gp:id":12678089,
         "qs_pg:id":1295948
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87b3b3dc9a0be44ef1db9d9c3500e320",
+    "wof:geomhash":"06390ab0944fccca7152a0ec37f18ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459131,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353686,
     "wof:name":"Cimolais",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":355,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

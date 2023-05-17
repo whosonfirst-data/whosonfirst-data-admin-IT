@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Budrio",
+    "eurostat:nuts_2021_id":"037008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037008",
+    "eurostat:population":18545,
+    "eurostat:population_year":2020,
     "geom:area":0.013611,
-    "geom:area_square_m":119914938.433943,
+    "geom:area_square_m":119914938.433953,
     "geom:bbox":"11.4591856155,44.4821507699,11.6308184592,44.6462271761",
     "geom:latitude":44.562606,
     "geom:longitude":11.54624,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037008",
+        "eurostat:nuts_2021_id":"037008",
         "gn:id":6539713,
         "gp:id":12677165,
         "qs_pg:id":190391
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90bd2cae80f9ee5f8a3c34b1e013a62f",
+    "wof:geomhash":"058f586a04d1753c8597ba92d9d5f70e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472241,
-    "wof:lastmodified":1582327898,
+    "wof:lastmodified":1684353955,
     "wof:name":"Budrio",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":18545,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

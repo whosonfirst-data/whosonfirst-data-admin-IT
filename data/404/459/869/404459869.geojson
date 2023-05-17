@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelbellino",
+    "eurostat:nuts_2021_id":"042008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042008",
+    "eurostat:population":5042,
+    "eurostat:population_year":2020,
     "geom:area":0.000672,
     "geom:area_square_m":6024468.260793,
     "geom:bbox":"13.1333078935,43.4821597199,13.1938139814,43.5062961146",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042008",
+        "eurostat:nuts_2021_id":"042008",
         "gn:id":6538508,
         "gp:id":12678213,
         "qs_pg:id":191710
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2535f04583e9faba9543b8c1a30636de",
+    "wof:geomhash":"3f7aac8e99681b8bcd5be6e486c90860",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459869,
-    "wof:lastmodified":1582328161,
+    "wof:lastmodified":1684353703,
     "wof:name":"Castelbellino",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":5042,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

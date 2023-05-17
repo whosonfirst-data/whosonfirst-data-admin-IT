@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tricase",
+    "eurostat:nuts_2021_id":"075088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075088",
+    "eurostat:population":17340,
+    "eurostat:population_year":2020,
     "geom:area":0.004498,
     "geom:area_square_m":42646321.31306,
     "geom:bbox":"18.3088077661,39.9032080771,18.4033206025,39.978929744",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075088",
+        "eurostat:nuts_2021_id":"075088",
         "gn:id":6540769,
         "gp:id":12677610,
         "qs_pg:id":39761
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13ceb64687f52762ae02fb1a5371923a",
+    "wof:geomhash":"a14247956c13f51e57688ec4fe937ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456653,
-    "wof:lastmodified":1582328067,
+    "wof:lastmodified":1684353629,
     "wof:name":"Tricase",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":17340,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

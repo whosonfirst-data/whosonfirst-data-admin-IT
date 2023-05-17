@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pagnona",
+    "eurostat:nuts_2021_id":"097063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097063",
+    "eurostat:population":345,
+    "eurostat:population_year":2020,
     "geom:area":0.00107,
-    "geom:area_square_m":9181959.162801,
+    "geom:area_square_m":9181959.162799,
     "geom:bbox":"9.38166415219,46.0556727826,9.43089760457,46.0961672475",
     "geom:latitude":46.075337,
     "geom:longitude":9.406393,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097063",
+        "eurostat:nuts_2021_id":"097063",
         "gn:id":6540891,
         "gp:id":12680874,
         "qs_pg:id":103806
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed9ddcb24192c27aca300a9efef3653c",
+    "wof:geomhash":"c44da883fda2749f2f1a848cd05c2368",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469363,
-    "wof:lastmodified":1582328025,
+    "wof:lastmodified":1684353903,
     "wof:name":"Pagnona",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":345,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

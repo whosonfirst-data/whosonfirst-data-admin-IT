@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dogna",
+    "eurostat:nuts_2021_id":"030033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030033",
+    "eurostat:population":157,
+    "eurostat:population_year":2020,
     "geom:area":0.008224,
-    "geom:area_square_m":70056795.093943,
+    "geom:area_square_m":70056795.093945,
     "geom:bbox":"13.227561183,46.4214806086,13.4611968725,46.5094432271",
     "geom:latitude":46.455367,
     "geom:longitude":13.356844,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030033",
+        "eurostat:nuts_2021_id":"030033",
         "gn:id":6539647,
         "gp:id":12678625,
         "qs_pg:id":40417
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0edbe2aeb4969ee6a7c1819e95b5714d",
+    "wof:geomhash":"4317d2ad7495de3547e717e2341576d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470511,
-    "wof:lastmodified":1582327746,
+    "wof:lastmodified":1684353923,
     "wof:name":"Dogna",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":157,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

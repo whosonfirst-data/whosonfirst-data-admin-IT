@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Filignano",
+    "eurostat:nuts_2021_id":"094019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094019",
+    "eurostat:population":610,
+    "eurostat:population_year":2020,
     "geom:area":0.003321,
-    "geom:area_square_m":30725418.50302,
+    "geom:area_square_m":30725418.503022,
     "geom:bbox":"13.9977716999,41.5305172408,14.0899347763,41.624554126",
     "geom:latitude":41.565479,
     "geom:longitude":14.043444,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094019",
+        "eurostat:nuts_2021_id":"094019",
         "gn:id":6541373,
         "gp:id":12678486,
         "qs_pg:id":1142959
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edb5ba70a918fbed00a63656853ec8f9",
+    "wof:geomhash":"886476f1d7df8c1f30bc92125c889bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462881,
-    "wof:lastmodified":1582327855,
+    "wof:lastmodified":1684353768,
     "wof:name":"Filignano",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":610,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

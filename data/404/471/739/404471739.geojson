@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Lagarina",
+    "eurostat:nuts_2021_id":"022222",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022222",
+    "eurostat:population":3801,
+    "eurostat:population_year":2020,
     "geom:area":0.0028,
-    "geom:area_square_m":24076511.475345,
+    "geom:area_square_m":24076511.475353,
     "geom:bbox":"10.9743262085,45.9094308977,11.0578103526,45.981473446",
     "geom:latitude":45.942954,
     "geom:longitude":11.02011,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022222",
+        "eurostat:nuts_2021_id":"022222",
         "gn:id":6540970,
         "gp:id":12682441,
         "qs_pg:id":194708
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ede980cd4da2c756d0114220f6c3481",
+    "wof:geomhash":"637fbf22f83bb3cafed54f6840b9e15e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471739,
-    "wof:lastmodified":1582327710,
+    "wof:lastmodified":1684353944,
     "wof:name":"Villa Lagarina",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":3801,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

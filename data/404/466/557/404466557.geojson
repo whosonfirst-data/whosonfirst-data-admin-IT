@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riesi",
+    "eurostat:nuts_2021_id":"085015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085015",
+    "eurostat:population":11110,
+    "eurostat:population_year":2020,
     "geom:area":0.006779,
-    "geom:area_square_m":66689451.903714,
+    "geom:area_square_m":66689451.903731,
     "geom:bbox":"14.0191418674,37.2493128076,14.1543690584,37.3454056716",
     "geom:latitude":37.29356,
     "geom:longitude":14.089696,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085015",
+        "eurostat:nuts_2021_id":"085015",
         "gn:id":6539181,
         "gp:id":12680331,
         "qs_pg:id":41475
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a39d97e9c18de2c2a6f2d2625e7dc9fe",
+    "wof:geomhash":"a3f0c92fe3ea172ade2b6460510551a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466557,
-    "wof:lastmodified":1582328184,
+    "wof:lastmodified":1684353852,
     "wof:name":"Riesi",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":11110,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avetrana",
+    "eurostat:nuts_2021_id":"073001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073001",
+    "eurostat:population":6505,
+    "eurostat:population_year":2020,
     "geom:area":0.007763,
-    "geom:area_square_m":73152396.394541,
+    "geom:area_square_m":73152396.394551,
     "geom:bbox":"17.6857969436,40.3103883276,17.8002683421,40.396931434",
     "geom:latitude":40.3544,
     "geom:longitude":17.744364,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073001",
+        "eurostat:nuts_2021_id":"073001",
         "gn:id":6541735,
         "gp:id":12676364,
         "qs_pg:id":1112517
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dfc25754d551bcf6de7de6481fcdbe19",
+    "wof:geomhash":"cf588763c79f060ab6af053a1d732c30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404456837,
-    "wof:lastmodified":1582328067,
+    "wof:lastmodified":1684353634,
     "wof:name":"Avetrana",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":6505,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

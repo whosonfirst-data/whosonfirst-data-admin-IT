@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orsenigo",
+    "eurostat:nuts_2021_id":"013170",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013170",
+    "eurostat:population":2703,
+    "eurostat:population_year":2020,
     "geom:area":0.000516,
     "geom:area_square_m":4453846.348452,
     "geom:bbox":"9.14928993302,45.7626933006,9.19608138423,45.7930048108",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013170",
+        "eurostat:nuts_2021_id":"013170",
         "gn:id":6541491,
         "gp:id":12680806,
         "qs_pg:id":41827
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be6a32f14c4807224251622b1518ec5b",
+    "wof:geomhash":"8fc33fddcfdd5437a90c1514bb1b71e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463473,
-    "wof:lastmodified":1582327782,
+    "wof:lastmodified":1684353781,
     "wof:name":"Orsenigo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":2703,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

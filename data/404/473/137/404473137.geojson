@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lana/Lana",
+    "eurostat:nuts_2021_id":"021041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021041",
+    "eurostat:population":12467,
+    "eurostat:population_year":2020,
     "geom:area":0.004242,
-    "geom:area_square_m":36037867.904313,
+    "geom:area_square_m":36037867.904321,
     "geom:bbox":"11.0778720508,46.5602549892,11.1944198403,46.6418321714",
     "geom:latitude":46.603459,
     "geom:longitude":11.144091,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021041",
+        "eurostat:nuts_2021_id":"021041",
         "gn:id":6535904,
         "gp:id":12677050,
         "qs_pg:id":628359
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7afbf045e020e06fa1565235d9d62bc7",
+    "wof:geomhash":"cbb7da22e58795501904a56921318854",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404473137,
-    "wof:lastmodified":1582327925,
+    "wof:lastmodified":1684353980,
     "wof:name":"Lana",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":12467,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

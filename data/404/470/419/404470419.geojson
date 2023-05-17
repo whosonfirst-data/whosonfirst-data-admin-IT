@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Bellino",
+    "eurostat:nuts_2021_id":"029043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029043",
+    "eurostat:population":1067,
+    "eurostat:population_year":2020,
     "geom:area":0.001813,
-    "geom:area_square_m":15846523.794999,
+    "geom:area_square_m":15846523.794998,
     "geom:bbox":"11.5520040721,44.9942526547,11.6278425893,45.0460889635",
     "geom:latitude":45.026329,
     "geom:longitude":11.588481,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029043",
+        "eurostat:nuts_2021_id":"029043",
         "gn:id":6538358,
         "gp:id":12681573,
         "qs_pg:id":42397
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f81a9426d04e554b8ee04a22f5cbac2",
+    "wof:geomhash":"02fbe2a0e862995ac054eb7fe732268a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470419,
-    "wof:lastmodified":1582327750,
+    "wof:lastmodified":1684353921,
     "wof:name":"San Bellino",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":1067,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quartucciu",
+    "eurostat:nuts_2021_id":"092105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092105",
+    "eurostat:population":13132,
+    "eurostat:population_year":2020,
     "geom:area":0.002917,
-    "geom:area_square_m":27930926.120899,
+    "geom:area_square_m":27930926.120898,
     "geom:bbox":"9.15340562533,39.2364962392,9.38414928979,39.2871049855",
     "geom:latitude":39.258037,
     "geom:longitude":9.26448,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092105",
+        "eurostat:nuts_2021_id":"092105",
         "gn:id":6539321,
         "gp:id":20076844,
         "qs_pg:id":1292386
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dbe2ed5e38a73491769c8b38a9ffb79b",
+    "wof:geomhash":"801ab49aef52b814a8cb3e5c1a719b23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404466927,
-    "wof:lastmodified":1582328209,
+    "wof:lastmodified":1684353862,
     "wof:name":"Quartucciu",
     "wof:parent_id":1360702173,
     "wof:placetype":"localadmin",
+    "wof:population":13132,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

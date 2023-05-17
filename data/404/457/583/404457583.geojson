@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rassa",
+    "eurostat:nuts_2021_id":"002110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002110",
+    "eurostat:population":62,
+    "eurostat:population_year":2020,
     "geom:area":0.005007,
-    "geom:area_square_m":43197450.370272,
+    "geom:area_square_m":43197450.370271,
     "geom:bbox":"7.92712927146,45.718546951,8.0251877617,45.787206736",
     "geom:latitude":45.750944,
     "geom:longitude":7.978341,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002110",
+        "eurostat:nuts_2021_id":"002110",
         "gn:id":6543414,
         "gp:id":20075700,
         "qs_pg:id":1189894
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f127532c234c816789edef3cdb122b1",
+    "wof:geomhash":"ca19217ceca0e97ed65157f6f0617f3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404457583,
-    "wof:lastmodified":1582328120,
+    "wof:lastmodified":1684353653,
     "wof:name":"Rassa",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":62,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Besnate",
+    "eurostat:nuts_2021_id":"012012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012012",
+    "eurostat:population":5557,
+    "eurostat:population_year":2020,
     "geom:area":0.000864,
-    "geom:area_square_m":7465533.646157,
+    "geom:area_square_m":7465533.646156,
     "geom:bbox":"8.7410837158,45.6851653458,8.78114968507,45.7178359712",
     "geom:latitude":45.70137,
     "geom:longitude":8.762957,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012012",
+        "eurostat:nuts_2021_id":"012012",
         "gn:id":6536478,
         "gp:id":12676751,
         "qs_pg:id":1018618
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15cd51a1b5f062afd176183ec544d0f3",
+    "wof:geomhash":"e9af69a99052c1b7f62911e3ac2dbbee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467399,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353873,
     "wof:name":"Besnate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":5557,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

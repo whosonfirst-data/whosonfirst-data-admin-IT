@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Firenzuola",
+    "eurostat:nuts_2021_id":"048018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048018",
+    "eurostat:population":4517,
+    "eurostat:population_year":2020,
     "geom:area":0.030585,
-    "geom:area_square_m":271423268.748558,
+    "geom:area_square_m":271423268.748573,
     "geom:bbox":"11.1936570932,44.0435720924,11.524320287,44.2398721343",
     "geom:latitude":44.135972,
     "geom:longitude":11.375457,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048018",
+        "eurostat:nuts_2021_id":"048018",
         "gn:id":6536821,
         "gp:id":12676402,
         "qs_pg:id":1163415
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2d50ba3b7942f217f692cd22dfc2d35",
+    "wof:geomhash":"42ef4d252e155151379b16e377a49806",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472773,
-    "wof:lastmodified":1582327908,
+    "wof:lastmodified":1684353969,
     "wof:name":"Firenzuola",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":4517,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

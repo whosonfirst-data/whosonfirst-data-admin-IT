@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lucera",
+    "eurostat:nuts_2021_id":"071028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071028",
+    "eurostat:population":32506,
+    "eurostat:population_year":2020,
     "geom:area":0.036417,
-    "geom:area_square_m":337268187.177613,
+    "geom:area_square_m":337268187.177608,
     "geom:bbox":"15.1904922653,41.3921825293,15.4787807845,41.6004114044",
     "geom:latitude":41.497445,
     "geom:longitude":15.351928,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071028",
+        "eurostat:nuts_2021_id":"071028",
         "gn:id":6537538,
         "gp:id":12680033,
         "qs_pg:id":41282
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c2a0811d04a32fee22370c99fb710ba",
+    "wof:geomhash":"0129b8501a57b48d8f147d0fdda23f78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404458905,
-    "wof:lastmodified":1582327952,
+    "wof:lastmodified":1684353681,
     "wof:name":"Lucera",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":32506,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Irsina",
+    "eurostat:nuts_2021_id":"077013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077013",
+    "eurostat:population":4632,
+    "eurostat:population_year":2020,
     "geom:area":0.027855,
-    "geom:area_square_m":260943424.001274,
+    "geom:area_square_m":260943424.001238,
     "geom:bbox":"16.1149711511,40.6661462356,16.4002364701,40.8379794366",
     "geom:latitude":40.745947,
     "geom:longitude":16.250861,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077013",
+        "eurostat:nuts_2021_id":"077013",
         "gn:id":6537647,
         "gp:id":12679776,
         "qs_pg:id":1016006
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2d3eebf5f06cacaa513c648a5374119",
+    "wof:geomhash":"8a35bf9bb3efaeffad7c23f73fd82d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464003,
-    "wof:lastmodified":1582327804,
+    "wof:lastmodified":1684353794,
     "wof:name":"Irsina",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":4632,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

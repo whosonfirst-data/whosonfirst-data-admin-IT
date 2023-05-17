@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spessa",
+    "eurostat:nuts_2021_id":"018152",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018152",
+    "eurostat:population":526,
+    "eurostat:population_year":2020,
     "geom:area":0.0014,
-    "geom:area_square_m":12214390.026657,
+    "geom:area_square_m":12214390.026656,
     "geom:bbox":"9.30066047159,45.1024119663,9.36051419495,45.1403405929",
     "geom:latitude":45.118687,
     "geom:longitude":9.333981,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018152",
+        "eurostat:nuts_2021_id":"018152",
         "gn:id":6543204,
         "gp:id":20076325,
         "qs_pg:id":1094959
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e959528af08c1dfb86ac8beafc5f9e8b",
+    "wof:geomhash":"6d6328cf303bb229eef5d61465988b31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468719,
-    "wof:lastmodified":1582328091,
+    "wof:lastmodified":1684353893,
     "wof:name":"Spessa",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":526,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

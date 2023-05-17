@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dugenta",
+    "eurostat:nuts_2021_id":"062027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062027",
+    "eurostat:population":2751,
+    "eurostat:population_year":2020,
     "geom:area":0.001714,
-    "geom:area_square_m":15962586.358141,
+    "geom:area_square_m":15962586.35814,
     "geom:bbox":"14.4231536872,41.1162484955,14.4939945449,41.1569114242",
     "geom:latitude":41.138715,
     "geom:longitude":14.454825,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062027",
+        "eurostat:nuts_2021_id":"062027",
         "gn:id":6538742,
         "gp:id":12679129,
         "qs_pg:id":1059634
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ac59a63fc242833fad5cc9411a5f940",
+    "wof:geomhash":"d91e1d8e299a72936e773de8a507d56b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460753,
-    "wof:lastmodified":1582327995,
+    "wof:lastmodified":1684353724,
     "wof:name":"Dugenta",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2751,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

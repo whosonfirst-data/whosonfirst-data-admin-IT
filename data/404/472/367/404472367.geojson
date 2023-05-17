@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_038004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cento",
+    "eurostat:nuts_2021_id":"038004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH56",
+    "eurostat:nuts_2021_level_lau":"038004",
+    "eurostat:population":35449,
+    "eurostat:population_year":2020,
     "geom:area":0.00736,
-    "geom:area_square_m":64604792.430319,
+    "geom:area_square_m":64604792.430322,
     "geom:bbox":"11.2461410414,44.7055570762,11.3871560375,44.8384592183",
     "geom:latitude":44.775692,
     "geom:longitude":11.307961,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_038004",
+        "eurostat:nuts_2021_id":"038004",
         "gn:id":6541038,
         "gp:id":12678468,
         "qs_pg:id":885747
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"347ddee2b610b69e8660ff96e9e2b7c9",
+    "wof:geomhash":"71f0fd7f304d82f4b1967bbe0d964379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404472367,
-    "wof:lastmodified":1582327896,
+    "wof:lastmodified":1684353959,
     "wof:name":"Cento",
     "wof:parent_id":85685359,
     "wof:placetype":"localadmin",
+    "wof:population":35449,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bresso",
+    "eurostat:nuts_2021_id":"015032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015032",
+    "eurostat:population":26410,
+    "eurostat:population_year":2020,
     "geom:area":0.00039,
-    "geom:area_square_m":3377660.989932,
+    "geom:area_square_m":3377660.989934,
     "geom:bbox":"9.17916406903,45.5270803532,9.21146384941,45.5461621119",
     "geom:latitude":45.536418,
     "geom:longitude":9.195474,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015032",
+        "eurostat:nuts_2021_id":"015032",
         "gn:id":6540583,
         "gp:id":12677101,
         "qs_pg:id":891338
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37c8197f4046b1ea27d73bedb90ce34f",
+    "wof:geomhash":"58cfb6192c8eef738c6fa4f34e1b9984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404468323,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353887,
     "wof:name":"Bresso",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":26410,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

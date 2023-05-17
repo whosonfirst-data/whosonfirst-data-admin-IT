@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gurro",
+    "eurostat:nuts_2021_id":"103036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103036",
+    "eurostat:population":193,
+    "eurostat:population_year":2020,
     "geom:area":0.001546,
-    "geom:area_square_m":13263209.45143,
+    "geom:area_square_m":13263209.451429,
     "geom:bbox":"8.51128340201,46.0601234126,8.59348461999,46.0959018396",
     "geom:latitude":46.080463,
     "geom:longitude":8.546695,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103036",
+        "eurostat:nuts_2021_id":"103036",
         "gn:id":6543705,
         "gp:id":12682164,
         "qs_pg:id":948791
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50816b4a1e8f54009991902c037ed14e",
+    "wof:geomhash":"82b23a0ff0db72a26c5b0f3bc66ee77b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459507,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353695,
     "wof:name":"Gurro",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":193,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

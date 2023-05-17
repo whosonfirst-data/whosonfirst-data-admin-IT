@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Godiasco Salice Terme",
+    "eurostat:nuts_2021_id":"018073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018073",
+    "eurostat:population":3243,
+    "eurostat:population_year":2020,
     "geom:area":0.00235,
-    "geom:area_square_m":20583179.768248,
+    "geom:area_square_m":20583179.768245,
     "geom:bbox":"9.01761096025,44.8613156785,9.11153423378,44.9178688374",
     "geom:latitude":44.889088,
     "geom:longitude":9.06642,
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018073",
+        "eurostat:nuts_2021_id":"018073",
         "gn:id":6536558,
         "gp:id":12679618,
         "qs_pg:id":1310465
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6782188f73d5a6c9ac197e91f683faf0",
+    "wof:geomhash":"73a4d47259927c0d91bf024ab40cfa01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404471443,
-    "wof:lastmodified":1582327726,
+    "wof:lastmodified":1684353940,
     "wof:name":"Godiasco",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":3243,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

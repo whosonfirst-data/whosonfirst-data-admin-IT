@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tonara",
+    "eurostat:nuts_2021_id":"091093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091093",
+    "eurostat:population":1888,
+    "eurostat:population_year":2020,
     "geom:area":0.005492,
-    "geom:area_square_m":52004443.420792,
+    "geom:area_square_m":52004443.420791,
     "geom:bbox":"9.12503166113,39.9756875376,9.22272806191,40.060269067",
     "geom:latitude":40.021598,
     "geom:longitude":9.170893,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091093",
+        "eurostat:nuts_2021_id":"091093",
         "gn:id":6541370,
         "gp:id":12682152,
         "qs_pg:id":1095234
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"552697b188ae109f27d8a324f12cf45b",
+    "wof:geomhash":"6f68f38f01f6adf0202dccae2b724eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404460583,
-    "wof:lastmodified":1582328021,
+    "wof:lastmodified":1684353721,
     "wof:name":"Tonara",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1888,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

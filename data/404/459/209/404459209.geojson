@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Troina",
+    "eurostat:nuts_2021_id":"086018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086018",
+    "eurostat:population":8952,
+    "eurostat:population_year":2020,
     "geom:area":0.017116,
-    "geom:area_square_m":167312713.027194,
+    "geom:area_square_m":167312713.027206,
     "geom:bbox":"14.5298382687,37.6722585507,14.7448226818,37.8364437811",
     "geom:latitude":37.765457,
     "geom:longitude":14.640621,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_086018",
+        "eurostat:nuts_2021_id":"086018"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b78b41add338764910871ebd065d713a",
+    "wof:geomhash":"715fe991372e39f67b9e9ea3f378e4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404459209,
-    "wof:lastmodified":1566723751,
+    "wof:lastmodified":1684353689,
     "wof:name":"Troina",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":8952,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

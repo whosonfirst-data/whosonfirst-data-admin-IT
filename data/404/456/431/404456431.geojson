@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giaglione",
+    "eurostat:nuts_2021_id":"001114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001114",
+    "eurostat:population":602,
+    "eurostat:population_year":2020,
     "geom:area":0.00382,
     "geom:area_square_m":33316072.596538,
     "geom:bbox":"6.88423144335,45.129100793,7.03856829594,45.1711288904",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001114",
+        "eurostat:nuts_2021_id":"001114",
         "gn:id":6543377,
         "gp:id":12679754,
         "qs_pg:id":1004452
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7fad0fae93009a46b32e285a32ba39c",
+    "wof:geomhash":"7b59896365bb4452dd2ccd525bd8e178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456431,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353624,
     "wof:name":"Giaglione",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":602,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

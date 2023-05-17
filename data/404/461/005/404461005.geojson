@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petriolo",
+    "eurostat:nuts_2021_id":"043036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043036",
+    "eurostat:population":1881,
+    "eurostat:population_year":2020,
     "geom:area":0.001729,
-    "geom:area_square_m":15581044.192353,
+    "geom:area_square_m":15581044.19235,
     "geom:bbox":"13.4265665923,43.1982021742,13.4940997961,43.2400041568",
     "geom:latitude":43.219804,
     "geom:longitude":13.459515,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043036",
+        "eurostat:nuts_2021_id":"043036",
         "gn:id":6539956,
         "gp:id":12681016,
         "qs_pg:id":1293156
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb1333eb55c659301da29e5e8a58440a",
+    "wof:geomhash":"17e1dd9e0d9cd24e331dff645ca9a4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461005,
-    "wof:lastmodified":1582328145,
+    "wof:lastmodified":1684353729,
     "wof:name":"Petriolo",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":1881,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bevagna",
+    "eurostat:nuts_2021_id":"054004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054004",
+    "eurostat:population":4919,
+    "eurostat:population_year":2020,
     "geom:area":0.006193,
-    "geom:area_square_m":56056394.499546,
+    "geom:area_square_m":56056394.49955,
     "geom:bbox":"12.5178825844,42.8996663391,12.6396417,42.9909547597",
     "geom:latitude":42.944942,
     "geom:longitude":12.579199,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054004",
+        "eurostat:nuts_2021_id":"054004",
         "gn:id":6536864,
         "gp:id":12676760,
         "qs_pg:id":1295829
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c977904e4e053bd94a81e20bce9ea64e",
+    "wof:geomhash":"6a59b403b020540b5a3d20ec2117c3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459607,
-    "wof:lastmodified":1582328175,
+    "wof:lastmodified":1684353697,
     "wof:name":"Bevagna",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":4919,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

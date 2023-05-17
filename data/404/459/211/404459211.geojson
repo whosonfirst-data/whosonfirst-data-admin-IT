@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valguarnera Caropepe",
+    "eurostat:nuts_2021_id":"086019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086019",
+    "eurostat:population":7424,
+    "eurostat:population_year":2020,
     "geom:area":0.000955,
-    "geom:area_square_m":9364507.948719,
+    "geom:area_square_m":9364507.948718,
     "geom:bbox":"14.3746378991,37.4884693814,14.4075532431,37.539463466",
     "geom:latitude":37.509694,
     "geom:longitude":14.39101,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086019",
+        "eurostat:nuts_2021_id":"086019",
         "gn:id":6537799,
         "gp:id":12682338,
         "qs_pg:id":1163580
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3366468b1cb9bfc523ab2ca95aa0a794",
+    "wof:geomhash":"24e681ce9b0c540814c36ca4b9a5ff5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459211,
-    "wof:lastmodified":1582328156,
+    "wof:lastmodified":1684353689,
     "wof:name":"Valguarnera Caropepe",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":7424,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

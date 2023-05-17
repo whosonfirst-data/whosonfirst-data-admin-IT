@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Attimis",
+    "eurostat:nuts_2021_id":"030007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030007",
+    "eurostat:population":1710,
+    "eurostat:population_year":2020,
     "geom:area":0.003866,
-    "geom:area_square_m":33092245.38682,
+    "geom:area_square_m":33092245.386819,
     "geom:bbox":"13.2786791109,46.1482436397,13.3877262751,46.2336856812",
     "geom:latitude":46.189841,
     "geom:longitude":13.333141,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030007",
+        "eurostat:nuts_2021_id":"030007",
         "gn:id":6536300,
         "gp:id":12676332,
         "qs_pg:id":934695
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d4234da0e0c592266f52d8ec16a4d74",
+    "wof:geomhash":"277e32611a1b87b5a93e75128c308c09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470455,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353922,
     "wof:name":"Attimis",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1710,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

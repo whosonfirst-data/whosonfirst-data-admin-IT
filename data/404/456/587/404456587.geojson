@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perosa Argentina",
+    "eurostat:nuts_2021_id":"001184",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001184",
+    "eurostat:population":3169,
+    "eurostat:population_year":2020,
     "geom:area":0.002978,
-    "geom:area_square_m":26042606.639233,
+    "geom:area_square_m":26042606.639235,
     "geom:bbox":"7.13734730683,44.952352328,7.23197584189,45.0072294713",
     "geom:latitude":44.982088,
     "geom:longitude":7.188055,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001184",
+        "eurostat:nuts_2021_id":"001184",
         "gn:id":6541721,
         "gp:id":12678640,
         "qs_pg:id":1142972
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0a9caf5d85fc4e1536f3abeb0795005",
+    "wof:geomhash":"b7019b483a9923705e247e4b36d66084",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456587,
-    "wof:lastmodified":1582328058,
+    "wof:lastmodified":1684353627,
     "wof:name":"Perosa Argentina",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3169,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

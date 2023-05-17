@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carpi",
+    "eurostat:nuts_2021_id":"036005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036005",
+    "eurostat:population":72627,
+    "eurostat:population_year":2020,
     "geom:area":0.014965,
-    "geom:area_square_m":131297922.916119,
+    "geom:area_square_m":131297922.916146,
     "geom:bbox":"10.8150472121,44.7133837003,11.0081439641,44.8903806526",
     "geom:latitude":44.801583,
     "geom:longitude":10.892601,
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036005",
+        "eurostat:nuts_2021_id":"036005",
         "gn:id":6538450,
         "gp:id":12677027,
         "qs_pg:id":388631
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"815a80ec2b3143131e238ff2fc170169",
+    "wof:geomhash":"170531b0c355534670ac7d0a16a5e9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404457123,
-    "wof:lastmodified":1582328118,
+    "wof:lastmodified":1684353643,
     "wof:name":"Carpi",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":72627,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

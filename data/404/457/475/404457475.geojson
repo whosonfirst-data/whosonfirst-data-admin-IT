@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgo d'Ale",
+    "eurostat:nuts_2021_id":"002015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002015",
+    "eurostat:population":2320,
+    "eurostat:population_year":2020,
     "geom:area":0.004547,
-    "geom:area_square_m":39508693.916074,
+    "geom:area_square_m":39508693.916073,
     "geom:bbox":"8.00801896454,45.3139944037,8.12626289063,45.4066469792",
     "geom:latitude":45.350259,
     "geom:longitude":8.05321,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002015",
+        "eurostat:nuts_2021_id":"002015",
         "gn:id":6538100,
         "gp:id":12676941,
         "qs_pg:id":904971
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c272b9e60205f4b46bd38d37e3e92c02",
+    "wof:geomhash":"9d89b85389e6e176ecce1d91891a645a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457475,
-    "wof:lastmodified":1582328113,
+    "wof:lastmodified":1684353650,
     "wof:name":"Borgo D'Ale",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":2320,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

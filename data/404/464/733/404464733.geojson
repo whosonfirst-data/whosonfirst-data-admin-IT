@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca di Neto",
+    "eurostat:nuts_2021_id":"101019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101019",
+    "eurostat:population":5592,
+    "eurostat:population_year":2020,
     "geom:area":0.004633,
-    "geom:area_square_m":44398956.624774,
+    "geom:area_square_m":44398956.624772,
     "geom:bbox":"16.9316978886,39.162627974,17.0936316234,39.2177252973",
     "geom:latitude":39.188894,
     "geom:longitude":17.007915,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101019",
+        "eurostat:nuts_2021_id":"101019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"84c88c90e6f303c7ccfa4621550b8cda",
+    "wof:geomhash":"a639377e720ef12a8799726f1a2d8646",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464733,
-    "wof:lastmodified":1566723229,
+    "wof:lastmodified":1684353815,
     "wof:name":"Rocca Di Neto",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":5592,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

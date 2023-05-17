@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiumara",
+    "eurostat:nuts_2021_id":"080034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080034",
+    "eurostat:population":890,
+    "eurostat:population_year":2020,
     "geom:area":0.000673,
-    "geom:area_square_m":6533617.15036,
+    "geom:area_square_m":6533617.150362,
     "geom:bbox":"15.6793088773,38.202823593,15.7204335474,38.2317294361",
     "geom:latitude":38.21596,
     "geom:longitude":15.699832,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_080034",
+        "eurostat:nuts_2021_id":"080034"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"353fb21d4bd9432cb9d5adfe9d151e67",
+    "wof:geomhash":"925fa594ce2f5662c63f3a67995c8fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464549,
-    "wof:lastmodified":1566723245,
+    "wof:lastmodified":1684353809,
     "wof:name":"Fiumara",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":890,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

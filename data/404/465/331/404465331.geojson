@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montoro",
+    "eurostat:nuts_2021_id":"064121",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064121",
+    "eurostat:population":19620,
+    "eurostat:population_year":2020,
     "geom:area":0.002089,
-    "geom:area_square_m":19544470.026495,
+    "geom:area_square_m":19544470.026497,
     "geom:bbox":"14.7302986206,40.7998871527,14.7946424023,40.8588664887",
     "geom:latitude":40.826643,
     "geom:longitude":14.764622,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064121",
+        "eurostat:nuts_2021_id":"064121",
         "gp:id":12681051,
         "qs_pg:id":255231
     },
@@ -155,7 +171,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9fc50c0b84c577d2b1f955fc0b2d97b4",
+    "wof:geomhash":"edee51f6d8e92af9102eb273b2ad7dec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":404465331,
-    "wof:lastmodified":1582327825,
+    "wof:lastmodified":1684353830,
     "wof:name":"Montoro Inferiore",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":19620,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

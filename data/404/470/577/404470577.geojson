@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mortegliano",
+    "eurostat:nuts_2021_id":"030062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030062",
+    "eurostat:population":4909,
+    "eurostat:population_year":2020,
     "geom:area":0.003481,
-    "geom:area_square_m":29927927.510404,
+    "geom:area_square_m":29927927.510399,
     "geom:bbox":"13.1406212043,45.9236293953,13.2505595514,45.9737938829",
     "geom:latitude":45.949646,
     "geom:longitude":13.195439,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030062",
+        "eurostat:nuts_2021_id":"030062",
         "gn:id":6538376,
         "gp:id":12679896,
         "qs_pg:id":1163511
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"286fb4495c7c7191c36f4fe7f41c1544",
+    "wof:geomhash":"f9d90aedffed8f454f74afb0f9053ab6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470577,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353924,
     "wof:name":"Mortegliano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":4909,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

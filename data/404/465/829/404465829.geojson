@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carona",
+    "eurostat:nuts_2021_id":"016056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016056",
+    "eurostat:population":300,
+    "eurostat:population_year":2020,
     "geom:area":0.005134,
-    "geom:area_square_m":44079123.017469,
+    "geom:area_square_m":44079123.017468,
     "geom:bbox":"9.76272439015,46.0023215475,9.9107883599,46.0511624383",
     "geom:latitude":46.027174,
     "geom:longitude":9.835327,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016056",
+        "eurostat:nuts_2021_id":"016056",
         "gn:id":6539621,
         "gp:id":12676482,
         "qs_pg:id":238910
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"827e9d4988d02e456e1c8be6e41d49e7",
+    "wof:geomhash":"e6792cca2dbe92d9e3d48fb9fab651db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404465829,
-    "wof:lastmodified":1582327828,
+    "wof:lastmodified":1684353838,
     "wof:name":"Carona",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

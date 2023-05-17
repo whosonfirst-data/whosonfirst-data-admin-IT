@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capracotta",
+    "eurostat:nuts_2021_id":"094006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094006",
+    "eurostat:population":837,
+    "eurostat:population_year":2020,
     "geom:area":0.004593,
-    "geom:area_square_m":42318260.100621,
+    "geom:area_square_m":42318260.100627,
     "geom:bbox":"14.2326031111,41.784712769,14.3417455907,41.8625787705",
     "geom:latitude":41.826644,
     "geom:longitude":14.281843,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094006",
+        "eurostat:nuts_2021_id":"094006",
         "gn:id":6537943,
         "gp:id":12677601,
         "qs_pg:id":221127
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0464ad01acbd23e3a7afe5daa534f51a",
+    "wof:geomhash":"1a07b1c5d7c62aea41cf2de18241519d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462851,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353767,
     "wof:name":"Capracotta",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":837,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

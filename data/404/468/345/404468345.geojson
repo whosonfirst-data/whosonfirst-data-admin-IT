@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canegrate",
+    "eurostat:nuts_2021_id":"015046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015046",
+    "eurostat:population":12637,
+    "eurostat:population_year":2020,
     "geom:area":0.000606,
-    "geom:area_square_m":5246104.801137,
+    "geom:area_square_m":5246104.801136,
     "geom:bbox":"8.90399624944,45.5485423225,8.947881341,45.5805714183",
     "geom:latitude":45.565895,
     "geom:longitude":8.92523,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015046",
+        "eurostat:nuts_2021_id":"015046",
         "gn:id":6536499,
         "gp:id":12677504,
         "qs_pg:id":332246
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2aa88d0a8499913f1f6040fb623821b1",
+    "wof:geomhash":"1153a56997cc55f44a7f9c5dcd19ecca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468345,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353887,
     "wof:name":"Canegrate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":12637,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viticuso",
+    "eurostat:nuts_2021_id":"060091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060091",
+    "eurostat:population":308,
+    "eurostat:population_year":2020,
     "geom:area":0.002242,
-    "geom:area_square_m":20760013.578226,
+    "geom:area_square_m":20760013.57822,
     "geom:bbox":"13.9379507362,41.4966514336,14.0277159918,41.5484510269",
     "geom:latitude":41.521587,
     "geom:longitude":13.981168,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060091",
+        "eurostat:nuts_2021_id":"060091",
         "gn:id":6537002,
         "gp:id":12682509,
         "qs_pg:id":77197
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fbd166c322545ec27258d66c25c259e8",
+    "wof:geomhash":"4ff2eea7b91003997283f38cac3872ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462067,
-    "wof:lastmodified":1582327872,
+    "wof:lastmodified":1684353752,
     "wof:name":"Viticuso",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":308,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

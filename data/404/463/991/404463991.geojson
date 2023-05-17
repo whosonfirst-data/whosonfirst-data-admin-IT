@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Craco",
+    "eurostat:nuts_2021_id":"077007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077007",
+    "eurostat:population":668,
+    "eurostat:population_year":2020,
     "geom:area":0.008096,
-    "geom:area_square_m":76270763.44254,
+    "geom:area_square_m":76270763.442553,
     "geom:bbox":"16.3675859974,40.316185435,16.5194068894,40.4203514891",
     "geom:latitude":40.36968,
     "geom:longitude":16.431371,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077007",
+        "eurostat:nuts_2021_id":"077007",
         "gn:id":6537645,
         "gp:id":12678984,
         "qs_pg:id":40627
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ab5a6041132308c734f9fc719f1c3e6",
+    "wof:geomhash":"0f69ceecde8f4c63b140729f26f126b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404463991,
-    "wof:lastmodified":1582327762,
+    "wof:lastmodified":1684353793,
     "wof:name":"Craco",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":668,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

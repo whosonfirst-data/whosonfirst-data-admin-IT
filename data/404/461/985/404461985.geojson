@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pofi",
+    "eurostat:nuts_2021_id":"060055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060055",
+    "eurostat:population":4059,
+    "eurostat:population_year":2020,
     "geom:area":0.003303,
-    "geom:area_square_m":30562019.28922,
+    "geom:area_square_m":30562019.289223,
     "geom:bbox":"13.3790741085,41.5231751191,13.4772367286,41.5939820558",
     "geom:latitude":41.553874,
     "geom:longitude":13.420427,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060055",
+        "eurostat:nuts_2021_id":"060055",
         "gn:id":6536991,
         "gp:id":12681155,
         "qs_pg:id":242303
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3333a4288f002ba28d352a4c1560bdb0",
+    "wof:geomhash":"201fb440a82de4266c78c886d5daf3c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461985,
-    "wof:lastmodified":1582328135,
+    "wof:lastmodified":1684353750,
     "wof:name":"Pofi",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":4059,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

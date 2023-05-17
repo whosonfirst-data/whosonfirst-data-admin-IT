@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calenzano",
+    "eurostat:nuts_2021_id":"048005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048005",
+    "eurostat:population":18111,
+    "eurostat:population_year":2020,
     "geom:area":0.008625,
-    "geom:area_square_m":76844724.156931,
+    "geom:area_square_m":76844724.156941,
     "geom:bbox":"11.1345027309,43.8385394113,11.2619650257,43.957771611",
     "geom:latitude":43.901424,
     "geom:longitude":11.193974,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048005",
+        "eurostat:nuts_2021_id":"048005",
         "gn:id":6541087,
         "gp:id":12677318,
         "qs_pg:id":885696
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d495e13c153960c3c8c486feb44a4be",
+    "wof:geomhash":"196956e6335bc48f640d3474b0d3be40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472747,
-    "wof:lastmodified":1582327891,
+    "wof:lastmodified":1684353968,
     "wof:name":"Calenzano",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":18111,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

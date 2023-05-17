@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauriano",
+    "eurostat:nuts_2021_id":"001129",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001129",
+    "eurostat:population":1494,
+    "eurostat:population_year":2020,
     "geom:area":0.001636,
     "geom:area_square_m":14268064.503572,
     "geom:bbox":"7.96532821197,45.123814686,8.0123682617,45.1806387977",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001129",
+        "eurostat:nuts_2021_id":"001129",
         "gn:id":6540912,
         "gp:id":12679891,
         "qs_pg:id":234959
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7ef6070d491482df7d28e70df75c763",
+    "wof:geomhash":"a923f8bafdc7e83e5d90875615a796d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456465,
-    "wof:lastmodified":1582328055,
+    "wof:lastmodified":1684353625,
     "wof:name":"Lauriano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1494,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

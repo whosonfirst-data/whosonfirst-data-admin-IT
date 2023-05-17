@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lirio",
+    "eurostat:nuts_2021_id":"018082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018082",
+    "eurostat:population":125,
+    "eurostat:population_year":2020,
     "geom:area":0.000199,
     "geom:area_square_m":1743300.715712,
     "geom:bbox":"9.24667727217,44.9901092586,9.27086724643,45.0061520344",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_018082",
+        "eurostat:nuts_2021_id":"018082"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a2d05ea758c4874f86c7174513ae3f64",
+    "wof:geomhash":"c2b68191297185c7ca274845cbeb4724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404471463,
-    "wof:lastmodified":1566723099,
+    "wof:lastmodified":1684353940,
     "wof:name":"Lirio",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

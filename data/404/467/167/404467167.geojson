@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Al\u00e0 dei Sardi",
+    "eurostat:nuts_2021_id":"090002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090002",
+    "eurostat:population":1832,
+    "eurostat:population_year":2020,
     "geom:area":0.021106,
-    "geom:area_square_m":197918516.562931,
+    "geom:area_square_m":197918516.562938,
     "geom:bbox":"9.22559725231,40.5944355847,9.46510111066,40.7463939566",
     "geom:latitude":40.678735,
     "geom:longitude":9.343167,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090002",
+        "eurostat:nuts_2021_id":"090002",
         "gn:id":6539218,
         "gp:id":12675869,
         "qs_pg:id":1142768
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fbc5ef9e6c7030b9b409433d16fc0ad3",
+    "wof:geomhash":"c97b506d21b2a3b155ed01937bc5a3c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404467167,
-    "wof:lastmodified":1582327968,
+    "wof:lastmodified":1684353866,
     "wof:name":"Al\u00e0 Dei Sardi",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1832,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

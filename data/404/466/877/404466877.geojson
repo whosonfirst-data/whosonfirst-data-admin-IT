@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selargius",
+    "eurostat:nuts_2021_id":"092068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092068",
+    "eurostat:population":29202,
+    "eurostat:population_year":2020,
     "geom:area":0.002787,
-    "geom:area_square_m":26673813.012472,
+    "geom:area_square_m":26673813.012471,
     "geom:bbox":"9.09827471084,39.2441209103,9.18197772317,39.3236738214",
     "geom:latitude":39.279719,
     "geom:longitude":9.140448,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092068",
+        "eurostat:nuts_2021_id":"092068",
         "gn:id":6537912,
         "gp:id":12681947,
         "qs_pg:id":885830
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1a902e01c8427478016d99cb959c753",
+    "wof:geomhash":"34f8dd9b0a16f4d4265aaf3102cb756b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404466877,
-    "wof:lastmodified":1582328201,
+    "wof:lastmodified":1684353860,
     "wof:name":"Selargius",
     "wof:parent_id":1360702173,
     "wof:placetype":"localadmin",
+    "wof:population":29202,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

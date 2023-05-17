@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agosta",
+    "eurostat:nuts_2021_id":"058002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058002",
+    "eurostat:population":1738,
+    "eurostat:population_year":2020,
     "geom:area":0.00103,
-    "geom:area_square_m":9467538.789376,
+    "geom:area_square_m":9467538.789375,
     "geom:bbox":"13.0180279419,41.9509063118,13.0618027566,42.0020671958",
     "geom:latitude":41.979328,
     "geom:longitude":13.040167,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058002",
+        "eurostat:nuts_2021_id":"058002",
         "gn:id":6536938,
         "gp:id":12675831,
         "qs_pg:id":203685
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92567852714426a4296844d9410dd43e",
+    "wof:geomhash":"c88d0e71d49338b1ca290243dea61261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404461519,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353740,
     "wof:name":"Agosta",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":1738,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

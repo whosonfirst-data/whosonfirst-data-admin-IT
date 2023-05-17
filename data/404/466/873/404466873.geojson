@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vito",
+    "eurostat:nuts_2021_id":"111066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111066",
+    "eurostat:population":3564,
+    "eurostat:population_year":2020,
     "geom:area":0.024245,
-    "geom:area_square_m":231617204.206221,
+    "geom:area_square_m":231617204.206227,
     "geom:bbox":"9.40970346206,39.2617025633,9.60643777551,39.5466882542",
     "geom:latitude":39.414033,
     "geom:longitude":9.503188,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111066",
+        "eurostat:nuts_2021_id":"111066",
         "gn:id":6539879,
         "gp:id":12677803,
         "qs_pg:id":1258833
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"731b1def76557a8c9537a56c18008110",
+    "wof:geomhash":"4644811cad96032f423cbd6d36ff51df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466873,
-    "wof:lastmodified":1582328187,
+    "wof:lastmodified":1684353860,
     "wof:name":"San Vito",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":3564,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

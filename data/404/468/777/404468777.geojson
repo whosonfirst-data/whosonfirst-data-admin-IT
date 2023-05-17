@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vigevano",
+    "eurostat:nuts_2021_id":"018177",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018177",
+    "eurostat:population":63623,
+    "eurostat:population_year":2020,
     "geom:area":0.009343,
-    "geom:area_square_m":81248412.762454,
+    "geom:area_square_m":81248412.762452,
     "geom:bbox":"8.78743317018,45.2604475452,8.98298304413,45.3546910982",
     "geom:latitude":45.307708,
     "geom:longitude":8.868174,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018177",
+        "eurostat:nuts_2021_id":"018177",
         "gn:id":6540634,
         "gp:id":12682418,
         "qs_pg:id":1150794
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3611680fcecc2d1b37395d2bfa32f115",
+    "wof:geomhash":"e7b9eaf398b3700ff26a64cc7ac9ac03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404468777,
-    "wof:lastmodified":1582328083,
+    "wof:lastmodified":1684353894,
     "wof:name":"Vigevano",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":63623,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

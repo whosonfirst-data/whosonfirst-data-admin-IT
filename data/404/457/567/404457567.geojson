@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pezzana",
+    "eurostat:nuts_2021_id":"002093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002093",
+    "eurostat:population":1291,
+    "eurostat:population_year":2020,
     "geom:area":0.001991,
-    "geom:area_square_m":17326709.158262,
+    "geom:area_square_m":17326709.158264,
     "geom:bbox":"8.45375246826,45.2407074466,8.54366099919,45.2791197682",
     "geom:latitude":45.260623,
     "geom:longitude":8.499152,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_002093",
+        "eurostat:nuts_2021_id":"002093"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f93fcb2f3677349eb2a58dd2118e7588",
+    "wof:geomhash":"e83374bc5a569d142720d2c8759ecd99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404457567,
-    "wof:lastmodified":1566723643,
+    "wof:lastmodified":1684353652,
     "wof:name":"Pezzana",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":1291,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

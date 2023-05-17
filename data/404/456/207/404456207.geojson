@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bairo",
+    "eurostat:nuts_2021_id":"001015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001015",
+    "eurostat:population":802,
+    "eurostat:population_year":2020,
     "geom:area":0.000814,
     "geom:area_square_m":7073964.156251,
     "geom:bbox":"7.73129177953,45.3574183009,7.76774101729,45.3929051222",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001015",
+        "eurostat:nuts_2021_id":"001015",
         "gn:id":6543039,
         "gp:id":20076444,
         "qs_pg:id":1295764
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"402d87e5527e03179165528848a4f958",
+    "wof:geomhash":"891cc883a94035c6ba8d08e86a2b88a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456207,
-    "wof:lastmodified":1582328066,
+    "wof:lastmodified":1684353618,
     "wof:name":"Bairo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":802,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

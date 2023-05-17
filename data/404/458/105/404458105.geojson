@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foligno",
+    "eurostat:nuts_2021_id":"054018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054018",
+    "eurostat:population":56939,
+    "eurostat:population_year":2020,
     "geom:area":0.02916,
-    "geom:area_square_m":263805378.764032,
+    "geom:area_square_m":263805378.764011,
     "geom:bbox":"12.6116626519,42.9040141719,12.9515056248,43.0720819896",
     "geom:latitude":42.976765,
     "geom:longitude":12.791022,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054018",
+        "eurostat:nuts_2021_id":"054018",
         "gn:id":6538616,
         "gp:id":12676104,
         "qs_pg:id":1257368
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8cb1d2e637786d2ddb06a45f528d44f",
+    "wof:geomhash":"84c2d1576e8e0f7c03e18598b314f21c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404458105,
-    "wof:lastmodified":1582327938,
+    "wof:lastmodified":1684353663,
     "wof:name":"Foligno",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":56939,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

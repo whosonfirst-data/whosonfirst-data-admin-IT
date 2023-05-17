@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Urbano",
+    "eurostat:nuts_2021_id":"028084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028084",
+    "eurostat:population":1937,
+    "eurostat:population_year":2020,
     "geom:area":0.00365,
-    "geom:area_square_m":31841304.066326,
+    "geom:area_square_m":31841304.066329,
     "geom:bbox":"11.5668661116,45.1082699966,11.6890102867,45.1650556774",
     "geom:latitude":45.132963,
     "geom:longitude":11.631446,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028084",
+        "eurostat:nuts_2021_id":"028084",
         "gn:id":6540269,
         "gp:id":12677238,
         "qs_pg:id":1009287
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f6173a9a93809ca0872d4c4e1035b3e",
+    "wof:geomhash":"e2a7efd92afeea084165768e1f71f701",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404458391,
-    "wof:lastmodified":1582327936,
+    "wof:lastmodified":1684353669,
     "wof:name":"Sant'Urbano",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":1937,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

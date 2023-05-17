@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pagno",
+    "eurostat:nuts_2021_id":"004158",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004158",
+    "eurostat:population":568,
+    "eurostat:population_year":2020,
     "geom:area":0.000984,
-    "geom:area_square_m":8665555.930185,
+    "geom:area_square_m":8665555.930184,
     "geom:bbox":"7.39808003628,44.583782073,7.45137168764,44.6282045894",
     "geom:latitude":44.607929,
     "geom:longitude":7.428751,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004158",
+        "eurostat:nuts_2021_id":"004158",
         "gn:id":6543457,
         "gp:id":20075785,
         "qs_pg:id":1117710
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cbde0211dc635e9b76d51d70d4f8af7",
+    "wof:geomhash":"b2d29d60de703009c0966cf5a223c5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455703,
-    "wof:lastmodified":1582327817,
+    "wof:lastmodified":1684353609,
     "wof:name":"Pagno",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":568,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

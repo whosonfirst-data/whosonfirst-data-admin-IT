@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Carcina",
+    "eurostat:nuts_2021_id":"017199",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017199",
+    "eurostat:population":10766,
+    "eurostat:population_year":2020,
     "geom:area":0.001642,
-    "geom:area_square_m":14195279.85167,
+    "geom:area_square_m":14195279.851671,
     "geom:bbox":"10.1608691457,45.6181444943,10.2321368143,45.6577886549",
     "geom:latitude":45.636341,
     "geom:longitude":10.191554,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017199",
+        "eurostat:nuts_2021_id":"017199",
         "gn:id":3164284,
         "gp:id":12682434,
         "qs_pg:id":1072669
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef1494789344a1268a35ae26d568258c",
+    "wof:geomhash":"94a356cd6ecc22cd2292bb4a9d39db75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471371,
-    "wof:lastmodified":1582327720,
+    "wof:lastmodified":1684353939,
     "wof:name":"Villa Carcina",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":10766,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

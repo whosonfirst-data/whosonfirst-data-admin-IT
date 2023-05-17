@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcamo",
+    "eurostat:nuts_2021_id":"081001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081001",
+    "eurostat:population":45406,
+    "eurostat:population_year":2020,
     "geom:area":0.01339,
-    "geom:area_square_m":130537880.203507,
+    "geom:area_square_m":130537880.20356,
     "geom:bbox":"12.8964065504,37.8970616875,13.0534899782,38.0402825779",
     "geom:latitude":37.963828,
     "geom:longitude":12.974138,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081001",
+        "eurostat:nuts_2021_id":"081001",
         "gn:id":6541958,
         "gp:id":12675930,
         "qs_pg:id":1208212
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2180596765fe63c09490bee4eb3877dc",
+    "wof:geomhash":"32b40a0d32a8547a730ab523ee760cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404464865,
-    "wof:lastmodified":1582327805,
+    "wof:lastmodified":1684353818,
     "wof:name":"Alcamo",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":45406,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

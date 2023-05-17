@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnolo di Po",
+    "eurostat:nuts_2021_id":"029005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029005",
+    "eurostat:population":1203,
+    "eurostat:population_year":2020,
     "geom:area":0.002409,
-    "geom:area_square_m":21066839.998104,
+    "geom:area_square_m":21066839.998107,
     "geom:bbox":"11.4591331233,44.9757475506,11.545200011,45.0362380235",
     "geom:latitude":44.999856,
     "geom:longitude":11.502448,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029005",
+        "eurostat:nuts_2021_id":"029005",
         "gn:id":6543576,
         "gp:id":12675895,
         "qs_pg:id":959353
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afdc12acb33e2d66b6fd3c5d6757f21f",
+    "wof:geomhash":"1a1e1e35fcedd28f1342dc5cfe90f08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404458451,
-    "wof:lastmodified":1582327957,
+    "wof:lastmodified":1684353670,
     "wof:name":"Bagnolo Di Po",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":1203,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

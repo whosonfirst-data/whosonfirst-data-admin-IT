@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pazzano",
+    "eurostat:nuts_2021_id":"080058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080058",
+    "eurostat:population":520,
+    "eurostat:population_year":2020,
     "geom:area":0.001592,
     "geom:area_square_m":15411378.236269,
     "geom:bbox":"16.3827742,38.4404173249,16.4633014735,38.4952701937",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080058",
+        "eurostat:nuts_2021_id":"080058",
         "gn:id":6537716,
         "gp:id":12676827,
         "qs_pg:id":50735
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"376f25b75e8e9ce7b7a7c9dc6e6ab3d6",
+    "wof:geomhash":"7bdc9f2d2665c6150634fafa3159c9cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464603,
-    "wof:lastmodified":1582327797,
+    "wof:lastmodified":1684353810,
     "wof:name":"Pazzano",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":520,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

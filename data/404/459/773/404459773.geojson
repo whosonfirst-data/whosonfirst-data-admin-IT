@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecopiolo",
+    "eurostat:nuts_2021_id":"041033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041033",
+    "eurostat:population":1069,
+    "eurostat:population_year":2020,
     "geom:area":0.004004,
-    "geom:area_square_m":35708939.849203,
+    "geom:area_square_m":35708939.8492,
     "geom:bbox":"12.3159504622,43.7995741498,12.4036735884,43.8965240023",
     "geom:latitude":43.839936,
     "geom:longitude":12.364801,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041033",
+        "eurostat:nuts_2021_id":"041033",
         "gp:id":12677357,
         "qs_pg:id":45011
     },
@@ -149,7 +165,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ebc49b3f3eee2179654948f05ed976c",
+    "wof:geomhash":"a20514554d0bff5955e4484591c2b098",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404459773,
-    "wof:lastmodified":1582328178,
+    "wof:lastmodified":1684353701,
     "wof:name":"Montecopiolo",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1069,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

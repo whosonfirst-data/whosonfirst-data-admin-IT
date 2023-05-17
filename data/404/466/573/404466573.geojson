@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villalba",
+    "eurostat:nuts_2021_id":"085022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085022",
+    "eurostat:population":1526,
+    "eurostat:population_year":2020,
     "geom:area":0.004253,
-    "geom:area_square_m":41643515.505945,
+    "geom:area_square_m":41643515.505939,
     "geom:bbox":"13.8105623268,37.6024632132,13.9046729827,37.6751796385",
     "geom:latitude":37.644612,
     "geom:longitude":13.861478,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085022",
+        "eurostat:nuts_2021_id":"085022",
         "gn:id":6540847,
         "gp:id":12682459,
         "qs_pg:id":1293265
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03dea3056bca418657b7492660a3324a",
+    "wof:geomhash":"ef2a7ebc9768956f0f59d98d11f50304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404466573,
-    "wof:lastmodified":1582328197,
+    "wof:lastmodified":1684353852,
     "wof:name":"Villalba",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":1526,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

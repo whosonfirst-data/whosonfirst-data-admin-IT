@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nicolosi",
+    "eurostat:nuts_2021_id":"087031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087031",
+    "eurostat:population":7551,
+    "eurostat:population_year":2020,
     "geom:area":0.004328,
-    "geom:area_square_m":42370937.608007,
+    "geom:area_square_m":42370937.607996,
     "geom:bbox":"14.9875240938,37.5969578453,15.0492413005,37.7511516919",
     "geom:latitude":37.655549,
     "geom:longitude":15.013674,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_087031",
+        "eurostat:nuts_2021_id":"087031"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8fd0c97d6b3eb2bcdf8e1b00ebb2a0b0",
+    "wof:geomhash":"108b5699398f07982963d70525202f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404466583,
-    "wof:lastmodified":1566723799,
+    "wof:lastmodified":1684353852,
     "wof:name":"Nicolosi",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":7551,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

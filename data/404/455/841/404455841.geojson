@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serravalle Langhe",
+    "eurostat:nuts_2021_id":"004219",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004219",
+    "eurostat:population":300,
+    "eurostat:population_year":2020,
     "geom:area":0.001009,
-    "geom:area_square_m":8887277.581158,
+    "geom:area_square_m":8887277.581157,
     "geom:bbox":"8.04215406452,44.5414939621,8.09303066507,44.5748083048",
     "geom:latitude":44.558493,
     "geom:longitude":8.066252,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004219",
+        "eurostat:nuts_2021_id":"004219",
         "gn:id":6540949,
         "gp:id":12681984,
         "qs_pg:id":948653
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6705362d407fc46f4abe00f904f687d0",
+    "wof:geomhash":"1bcf019ff6399caf0dc90e20bf8b7e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455841,
-    "wof:lastmodified":1582327818,
+    "wof:lastmodified":1684353611,
     "wof:name":"Serravalle Langhe",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

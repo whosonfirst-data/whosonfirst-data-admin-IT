@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lapio",
+    "eurostat:nuts_2021_id":"064042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064042",
+    "eurostat:population":1491,
+    "eurostat:population_year":2020,
     "geom:area":0.001623,
-    "geom:area_square_m":15147065.574541,
+    "geom:area_square_m":15147065.57454,
     "geom:bbox":"14.8959784334,40.9438691078,14.9682136479,41.0046596895",
     "geom:latitude":40.977807,
     "geom:longitude":14.936069,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064042",
+        "eurostat:nuts_2021_id":"064042",
         "gn:id":6539996,
         "gp:id":12679867,
         "qs_pg:id":1205812
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"946a2c51f0f299a27b89c095bd1c200a",
+    "wof:geomhash":"933b28fdc73a59226802ba9e7db15124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465289,
-    "wof:lastmodified":1582327829,
+    "wof:lastmodified":1684353829,
     "wof:name":"Lapio",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1491,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

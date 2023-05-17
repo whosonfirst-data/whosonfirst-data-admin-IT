@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oschiri",
+    "eurostat:nuts_2021_id":"090049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090049",
+    "eurostat:population":3142,
+    "eurostat:population_year":2020,
     "geom:area":0.023001,
-    "geom:area_square_m":215535515.492965,
+    "geom:area_square_m":215535515.492975,
     "geom:bbox":"9.00239461126,40.6460980053,9.23091931976,40.8332397758",
     "geom:latitude":40.727073,
     "geom:longitude":9.101813,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090049",
+        "eurostat:nuts_2021_id":"090049",
         "gn:id":6539235,
         "gp:id":12680822,
         "qs_pg:id":41839
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"410e5fa30a9e3005c63381f178015ed0",
+    "wof:geomhash":"0fa6638c1415437596b3409789d28ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467201,
-    "wof:lastmodified":1582327987,
+    "wof:lastmodified":1684353868,
     "wof:name":"Oschiri",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":3142,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

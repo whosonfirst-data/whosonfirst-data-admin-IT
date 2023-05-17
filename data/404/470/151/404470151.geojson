@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meolo",
+    "eurostat:nuts_2021_id":"027022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027022",
+    "eurostat:population":6329,
+    "eurostat:population_year":2020,
     "geom:area":0.003067,
-    "geom:area_square_m":26524812.329489,
+    "geom:area_square_m":26524812.329487,
     "geom:bbox":"12.4239144952,45.5718289303,12.504459012,45.6450284971",
     "geom:latitude":45.6142,
     "geom:longitude":12.462509,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027022",
+        "eurostat:nuts_2021_id":"027022",
         "gn:id":6538316,
         "gp:id":12680285,
         "qs_pg:id":1186392
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9a5ba9dfcd98fcacb42b1c158d144e0",
+    "wof:geomhash":"6280ad5a778d071468196b6ebdf70f20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470151,
-    "wof:lastmodified":1582327738,
+    "wof:lastmodified":1684353916,
     "wof:name":"Meolo",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":6329,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

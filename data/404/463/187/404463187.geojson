@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bari",
+    "eurostat:nuts_2021_id":"072006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072006",
+    "eurostat:population":322316,
+    "eurostat:population_year":2020,
     "geom:area":0.012459,
-    "geom:area_square_m":116088718.749628,
+    "geom:area_square_m":116088718.749625,
     "geom:bbox":"16.7173662394,41.0144803902,17.0334676828,41.169692674",
     "geom:latitude":41.10299,
     "geom:longitude":16.845838,
@@ -353,6 +365,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -361,6 +375,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072006",
+        "eurostat:nuts_2021_id":"072006",
         "gn:id":6542001,
         "gp:id":12676579,
         "qs_pg:id":1102001
@@ -369,7 +385,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"17d79b0d536de2a9722a718b21d2d458",
+    "wof:geomhash":"63ddf288ad25506127e3f43171fdddb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -380,10 +396,12 @@
         }
     ],
     "wof:id":404463187,
-    "wof:lastmodified":1582327773,
+    "wof:lastmodified":1684353774,
     "wof:name":"Bari",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":322316,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

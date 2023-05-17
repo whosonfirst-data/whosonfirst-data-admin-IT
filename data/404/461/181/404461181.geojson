@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Urano",
+    "eurostat:nuts_2021_id":"109024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109024",
+    "eurostat:population":8083,
+    "eurostat:population_year":2020,
     "geom:area":0.001846,
-    "geom:area_square_m":16641266.490354,
+    "geom:area_square_m":16641266.490355,
     "geom:bbox":"13.6360910458,43.1732495511,13.7104393547,43.2191026225",
     "geom:latitude":43.196905,
     "geom:longitude":13.672425,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109024",
+        "eurostat:nuts_2021_id":"109024",
         "gn:id":6539731,
         "gp:id":12680383,
         "qs_pg:id":400085
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a78434174bf05f5139162bb0db9f4ae",
+    "wof:geomhash":"dbebe584e6c0c86cbe0d58c40a2dd039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461181,
-    "wof:lastmodified":1582328135,
+    "wof:lastmodified":1684353733,
     "wof:name":"Monte Urano",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":8083,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

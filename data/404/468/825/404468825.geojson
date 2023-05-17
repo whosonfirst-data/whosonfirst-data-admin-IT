@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvatone",
+    "eurostat:nuts_2021_id":"019009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019009",
+    "eurostat:population":1171,
+    "eurostat:population_year":2020,
     "geom:area":0.001568,
-    "geom:area_square_m":13676471.576167,
+    "geom:area_square_m":13676471.576165,
     "geom:bbox":"10.4158598198,45.112881719,10.492521054,45.1475054499",
     "geom:latitude":45.130586,
     "geom:longitude":10.451818,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019009",
+        "eurostat:nuts_2021_id":"019009",
         "gn:id":6540362,
         "gp:id":12677349,
         "qs_pg:id":1026003
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f03856566cad7eedfc58917480546ba",
+    "wof:geomhash":"be0f77dd0fc1ef4849fa44dde544d9b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468825,
-    "wof:lastmodified":1582328088,
+    "wof:lastmodified":1684353895,
     "wof:name":"Calvatone",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1171,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino in Pensilis",
+    "eurostat:nuts_2021_id":"070069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070069",
+    "eurostat:population":4694,
+    "eurostat:population_year":2020,
     "geom:area":0.010855,
-    "geom:area_square_m":99971599.928049,
+    "geom:area_square_m":99971599.928048,
     "geom:bbox":"14.9341743545,41.7824790208,15.1204991897,41.913219366",
     "geom:latitude":41.854384,
     "geom:longitude":15.035636,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070069",
+        "eurostat:nuts_2021_id":"070069",
         "gn:id":6537525,
         "gp:id":12681699,
         "qs_pg:id":1020011
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e71c8b07e1ca2dc0173477ecf8fa812e",
+    "wof:geomhash":"f4f7ec5d48a85b86e8cc5aa4f95fd790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458829,
-    "wof:lastmodified":1582327940,
+    "wof:lastmodified":1684353678,
     "wof:name":"San Martino In Pensilis",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":4694,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

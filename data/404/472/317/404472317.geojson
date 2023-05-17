@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte San Pietro",
+    "eurostat:nuts_2021_id":"037042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037042",
+    "eurostat:population":10795,
+    "eurostat:population_year":2020,
     "geom:area":0.008441,
-    "geom:area_square_m":74541816.996972,
+    "geom:area_square_m":74541816.996967,
     "geom:bbox":"11.088499329,44.34803225,11.2007320764,44.5091908516",
     "geom:latitude":44.426111,
     "geom:longitude":11.146013,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037042",
+        "eurostat:nuts_2021_id":"037042",
         "gn:id":6536353,
         "gp:id":12676062,
         "qs_pg:id":1212486
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9cee5540eeec04b766162588794b8760",
+    "wof:geomhash":"7bf3780513204c18492298bdc94e83ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472317,
-    "wof:lastmodified":1582327908,
+    "wof:lastmodified":1684353958,
     "wof:name":"Monte San Pietro",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":10795,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

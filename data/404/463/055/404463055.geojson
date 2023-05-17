@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Letino",
+    "eurostat:nuts_2021_id":"061044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061044",
+    "eurostat:population":666,
+    "eurostat:population_year":2020,
     "geom:area":0.00339,
-    "geom:area_square_m":31421068.065613,
+    "geom:area_square_m":31421068.065615,
     "geom:bbox":"14.2271176925,41.426119483,14.3592233398,41.4771615618",
     "geom:latitude":41.449346,
     "geom:longitude":14.293763,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061044",
+        "eurostat:nuts_2021_id":"061044",
         "gn:id":6543715,
         "gp:id":12679936,
         "qs_pg:id":1180466
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e60867ef1aa45cfe6fce38772910502a",
+    "wof:geomhash":"45dcfff48f26f6e08f320b241fd5f229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463055,
-    "wof:lastmodified":1582327770,
+    "wof:lastmodified":1684353771,
     "wof:name":"Letino",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":666,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

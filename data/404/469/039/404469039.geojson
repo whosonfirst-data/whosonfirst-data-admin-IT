@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ticengo",
+    "eurostat:nuts_2021_id":"019104",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019104",
+    "eurostat:population":420,
+    "eurostat:population_year":2020,
     "geom:area":0.000918,
-    "geom:area_square_m":7969673.055514,
+    "geom:area_square_m":7969673.055515,
     "geom:bbox":"9.80310296347,45.3567909845,9.84302104327,45.4100473416",
     "geom:latitude":45.381815,
     "geom:longitude":9.821779,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019104",
+        "eurostat:nuts_2021_id":"019104",
         "gn:id":6536582,
         "gp:id":12682179,
         "qs_pg:id":42852
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7303909c20acb1ac522609d0308242c7",
+    "wof:geomhash":"623ada49f2cda76d02a9501b335e74f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469039,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353898,
     "wof:name":"Ticengo",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

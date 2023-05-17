@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016250",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medolago",
+    "eurostat:nuts_2021_id":"016250",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016250",
+    "eurostat:population":2402,
+    "eurostat:population_year":2020,
     "geom:area":0.000439,
     "geom:area_square_m":3792007.846006,
     "geom:bbox":"9.47372287784,45.6634798356,9.51745062913,45.6829631988",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016250",
+        "eurostat:nuts_2021_id":"016250",
         "gn:id":6539492,
         "gp:id":12680257,
         "qs_pg:id":204083
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eda8fbc0126aeda4a39f9fd967c1e378",
+    "wof:geomhash":"e545c4388b9ced60f1fb688871a3e537",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470921,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353930,
     "wof:name":"Medolago",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":2402,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

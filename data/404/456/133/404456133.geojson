@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Paolo Solbrito",
+    "eurostat:nuts_2021_id":"005101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005101",
+    "eurostat:population":1209,
+    "eurostat:population_year":2020,
     "geom:area":0.001354,
-    "geom:area_square_m":11851411.578492,
+    "geom:area_square_m":11851411.578491,
     "geom:bbox":"7.95670125483,44.9326176722,8.00416908911,44.9739950718",
     "geom:latitude":44.951719,
     "geom:longitude":7.980758,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005101",
+        "eurostat:nuts_2021_id":"005101",
         "gn:id":6542847,
         "gp:id":12679130,
         "qs_pg:id":40707
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a07a0263c162428e88b51303b01c0316",
+    "wof:geomhash":"c84a23a4885fca80808f5f7496ab2bec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456133,
-    "wof:lastmodified":1582328047,
+    "wof:lastmodified":1684353617,
     "wof:name":"San Paolo Solbrito",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1209,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

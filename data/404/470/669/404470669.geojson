@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pietro al Natisone",
+    "eurostat:nuts_2021_id":"030103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030103",
+    "eurostat:population":2113,
+    "eurostat:population_year":2020,
     "geom:area":0.002785,
-    "geom:area_square_m":23859006.718479,
+    "geom:area_square_m":23859006.718477,
     "geom:bbox":"13.4498801124,46.0950496728,13.5360114603,46.1799136745",
     "geom:latitude":46.137479,
     "geom:longitude":13.498189,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030103",
+        "eurostat:nuts_2021_id":"030103",
         "gn:id":6541018,
         "gp:id":12676384,
         "qs_pg:id":1014280
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76e5def228bea946ed35fc3ebb6ae7c0",
+    "wof:geomhash":"a5cf2b382ea10fd7a646dee281aebf18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470669,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353925,
     "wof:name":"San Pietro Al Natisone",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2113,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

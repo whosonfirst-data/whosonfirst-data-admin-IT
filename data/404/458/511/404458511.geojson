@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tribogna",
+    "eurostat:nuts_2021_id":"010063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010063",
+    "eurostat:population":592,
+    "eurostat:population_year":2020,
     "geom:area":0.000807,
-    "geom:area_square_m":7129687.383121,
+    "geom:area_square_m":7129687.383123,
     "geom:bbox":"9.16313186141,44.3963720323,9.21178721765,44.4350921212",
     "geom:latitude":44.417124,
     "geom:longitude":9.187198,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010063",
+        "eurostat:nuts_2021_id":"010063",
         "gn:id":6542758,
         "gp:id":12679240,
         "qs_pg:id":49325
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc8e202a0161e2658b11f71c03ae0d5b",
+    "wof:geomhash":"99a013cb34c494114acabc09d6a49bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458511,
-    "wof:lastmodified":1582327949,
+    "wof:lastmodified":1684353671,
     "wof:name":"Tribogna",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":592,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

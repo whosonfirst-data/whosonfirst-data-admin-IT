@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quadrelle",
+    "eurostat:nuts_2021_id":"064076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064076",
+    "eurostat:population":1881,
+    "eurostat:population_year":2020,
     "geom:area":0.000738,
-    "geom:area_square_m":6889646.038168,
+    "geom:area_square_m":6889646.038166,
     "geom:bbox":"14.6335773688,40.9436394412,14.7084830211,40.964226956",
     "geom:latitude":40.953122,
     "geom:longitude":14.672134,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_064076",
+        "eurostat:nuts_2021_id":"064076"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"eca4183316b714bfe8811c9f57e008b8",
+    "wof:geomhash":"724558361c03fbe498940621309ec6f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404465365,
-    "wof:lastmodified":1566723273,
+    "wof:lastmodified":1684353830,
     "wof:name":"Quadrelle",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1881,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

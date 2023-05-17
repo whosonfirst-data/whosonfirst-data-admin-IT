@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnara di Romagna",
+    "eurostat:nuts_2021_id":"039003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039003",
+    "eurostat:population":2416,
+    "eurostat:population_year":2020,
     "geom:area":0.001124,
     "geom:area_square_m":9933376.308178,
     "geom:bbox":"11.8093402189,44.3748429359,11.8610503461,44.4140222815",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039003",
+        "eurostat:nuts_2021_id":"039003",
         "gn:id":6541042,
         "gp:id":12676426,
         "qs_pg:id":191334
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c4be33bcadbb66c4c04eb32d63321e5",
+    "wof:geomhash":"fc494c219b2e4cb11653ff4fdfd55e2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472423,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353960,
     "wof:name":"Bagnara Di Romagna",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":2416,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

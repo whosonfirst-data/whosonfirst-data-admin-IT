@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pietro Infine",
+    "eurostat:nuts_2021_id":"061079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061079",
+    "eurostat:population":883,
+    "eurostat:population_year":2020,
     "geom:area":0.001473,
-    "geom:area_square_m":13652127.275256,
+    "geom:area_square_m":13652127.275253,
     "geom:bbox":"13.9313035211,41.4308881486,14.0093046784,41.4640990408",
     "geom:latitude":41.447129,
     "geom:longitude":13.975971,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061079",
+        "eurostat:nuts_2021_id":"061079",
         "gn:id":6538727,
         "gp:id":12681734,
         "qs_pg:id":537974
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"798941dfd82b20bba3a192f67bb4a205",
+    "wof:geomhash":"5ddd86b3f72ca3f9cc38b7c85a02755a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460635,
-    "wof:lastmodified":1582328003,
+    "wof:lastmodified":1684353722,
     "wof:name":"San Pietro Infine",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":883,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

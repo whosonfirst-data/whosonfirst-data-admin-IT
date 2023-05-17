@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Falciano del Massico",
+    "eurostat:nuts_2021_id":"061101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061101",
+    "eurostat:population":3492,
+    "eurostat:population_year":2020,
     "geom:area":0.004994,
-    "geom:area_square_m":46500331.587996,
+    "geom:area_square_m":46500331.587991,
     "geom:bbox":"13.9118426475,41.1004886789,14.0318132337,41.1907541862",
     "geom:latitude":41.141757,
     "geom:longitude":13.963248,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061101",
+        "eurostat:nuts_2021_id":"061101",
         "gn:id":6543611,
         "gp:id":12679184,
         "qs_pg:id":536960
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"054323fc1afb4fb5da7850c09153bc07",
+    "wof:geomhash":"bbe1d46d75b07742dac8e7872a4fa2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460685,
-    "wof:lastmodified":1582328012,
+    "wof:lastmodified":1684353723,
     "wof:name":"Falciano Del Massico",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":3492,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

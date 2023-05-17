@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tollo",
+    "eurostat:nuts_2021_id":"069090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069090",
+    "eurostat:population":4031,
+    "eurostat:population_year":2020,
     "geom:area":0.001628,
-    "geom:area_square_m":14877981.773679,
+    "geom:area_square_m":14877981.773678,
     "geom:bbox":"14.2936835705,42.3192329144,14.3421324671,42.3714060856",
     "geom:latitude":42.344586,
     "geom:longitude":14.318573,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069090",
+        "eurostat:nuts_2021_id":"069090",
         "gn:id":6541933,
         "gp:id":12682193,
         "qs_pg:id":1196518
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51ef70cb28878c9108428ebdd26735d5",
+    "wof:geomhash":"af853d0042f57393039b904fe0f9863c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462721,
-    "wof:lastmodified":1582327873,
+    "wof:lastmodified":1684353763,
     "wof:name":"Tollo",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":4031,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

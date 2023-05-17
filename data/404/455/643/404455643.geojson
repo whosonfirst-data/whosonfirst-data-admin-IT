@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monesiglio",
+    "eurostat:nuts_2021_id":"004131",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004131",
+    "eurostat:population":610,
+    "eurostat:population_year":2020,
     "geom:area":0.001464,
-    "geom:area_square_m":12915694.307863,
+    "geom:area_square_m":12915694.307862,
     "geom:bbox":"8.09685979603,44.4415451483,8.15212139549,44.4847001214",
     "geom:latitude":44.464149,
     "geom:longitude":8.122193,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004131",
+        "eurostat:nuts_2021_id":"004131",
         "gn:id":6538155,
         "gp:id":12680409,
         "qs_pg:id":1004458
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e78901ee00a43e7cb1057627eb2a0459",
+    "wof:geomhash":"544d75c5b04d468a9d551a47c79e7dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455643,
-    "wof:lastmodified":1582327811,
+    "wof:lastmodified":1684353607,
     "wof:name":"Monesiglio",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":610,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

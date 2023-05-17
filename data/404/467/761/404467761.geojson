@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fagnano Olona",
+    "eurostat:nuts_2021_id":"012067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012067",
+    "eurostat:population":12479,
+    "eurostat:population_year":2020,
     "geom:area":0.001003,
     "geom:area_square_m":8667839.232483,
     "geom:bbox":"8.84535870921,45.6420062242,8.89869628568,45.6819230126",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012067",
+        "eurostat:nuts_2021_id":"012067",
         "gn:id":6536120,
         "gp:id":12679178,
         "qs_pg:id":236853
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"80422a8b626432a526a7f16b7c1aeb71",
+    "wof:geomhash":"d0bde226a2f79c3046dd207de9fd726c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467761,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353879,
     "wof:name":"Fagnano Olona",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":12479,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

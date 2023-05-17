@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmonte Calabro",
+    "eurostat:nuts_2021_id":"078013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078013",
+    "eurostat:population":1916,
+    "eurostat:population_year":2020,
     "geom:area":0.002478,
-    "geom:area_square_m":23757591.243067,
+    "geom:area_square_m":23757591.243076,
     "geom:bbox":"16.0624174761,39.1473746097,16.135920063,39.2119950798",
     "geom:latitude":39.173653,
     "geom:longitude":16.097692,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078013",
+        "eurostat:nuts_2021_id":"078013"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4747b3586c1d90e2ecebdd886d2ff533",
+    "wof:geomhash":"05b05e0dfee91c4a8cdb4723eaa6687f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464073,
-    "wof:lastmodified":1566723234,
+    "wof:lastmodified":1684353796,
     "wof:name":"Belmonte Calabro",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1916,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

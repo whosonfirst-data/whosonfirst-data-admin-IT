@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noventa Padovana",
+    "eurostat:nuts_2021_id":"028058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028058",
+    "eurostat:population":11570,
+    "eurostat:population_year":2020,
     "geom:area":0.000814,
     "geom:area_square_m":7064457.228689,
     "geom:bbox":"11.9324122714,45.4029980066,12.0041011737,45.4231179436",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028058",
+        "eurostat:nuts_2021_id":"028058",
         "gn:id":3172174,
         "gp:id":12682629,
         "qs_pg:id":190950
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71efca6ed53888f2828ab414439c4fd7",
+    "wof:geomhash":"9f6f826ea1a4be1d51ab8d18f8cfe278",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470325,
-    "wof:lastmodified":1582327747,
+    "wof:lastmodified":1684353919,
     "wof:name":"Noventa Padovana",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":11570,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

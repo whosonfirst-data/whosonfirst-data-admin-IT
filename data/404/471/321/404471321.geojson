@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seniga",
+    "eurostat:nuts_2021_id":"017177",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017177",
+    "eurostat:population":1455,
+    "eurostat:population_year":2020,
     "geom:area":0.001556,
-    "geom:area_square_m":13549881.936282,
+    "geom:area_square_m":13549881.936284,
     "geom:bbox":"10.151175788,45.2246370094,10.2280388014,45.2682373124",
     "geom:latitude":45.245778,
     "geom:longitude":10.188898,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017177",
+        "eurostat:nuts_2021_id":"017177",
         "gn:id":6540619,
         "gp:id":12681345,
         "qs_pg:id":270668
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a008043eb9a7aec72870077fe69dce0a",
+    "wof:geomhash":"3261e9a364a1a3f4d254d09e9ff54e32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471321,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353938,
     "wof:name":"Seniga",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1455,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

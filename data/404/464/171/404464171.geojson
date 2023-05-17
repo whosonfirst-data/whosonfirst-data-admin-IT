@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Francavilla Marittima",
+    "eurostat:nuts_2021_id":"078056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078056",
+    "eurostat:population":2870,
+    "eurostat:population_year":2020,
     "geom:area":0.003441,
-    "geom:area_square_m":32688592.768352,
+    "geom:area_square_m":32688592.768355,
     "geom:bbox":"16.3155777525,39.7626828929,16.4523290555,39.8504318795",
     "geom:latitude":39.806206,
     "geom:longitude":16.38531,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078056",
+        "eurostat:nuts_2021_id":"078056"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f98fdac09b28ca3e97ebd91127b0c520",
+    "wof:geomhash":"f6ed60330c1b89ce2e5e1d6398c82646",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464171,
-    "wof:lastmodified":1566723251,
+    "wof:lastmodified":1684353799,
     "wof:name":"Francavilla Marittima",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2870,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

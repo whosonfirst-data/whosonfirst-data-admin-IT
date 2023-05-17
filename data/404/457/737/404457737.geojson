@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ghemme",
+    "eurostat:nuts_2021_id":"003073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003073",
+    "eurostat:population":3467,
+    "eurostat:population_year":2020,
     "geom:area":0.002382,
     "geom:area_square_m":20612569.486878,
     "geom:bbox":"8.39121397754,45.5607959163,8.46498403058,45.6310111767",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003073",
+        "eurostat:nuts_2021_id":"003073",
         "gn:id":6538130,
         "gp:id":12679550,
         "qs_pg:id":1009318
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6685c1cc4af655addcbfc4c76c5c7c21",
+    "wof:geomhash":"16e8864b8c22fedd605d21b8bece3048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457737,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353656,
     "wof:name":"Ghemme",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":3467,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

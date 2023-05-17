@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pantelleria",
+    "eurostat:nuts_2021_id":"081014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081014",
+    "eurostat:population":7683,
+    "eurostat:population_year":2020,
     "geom:area":0.008526,
-    "geom:area_square_m":84428775.298555,
+    "geom:area_square_m":84428812.545805,
     "geom:bbox":"11.925639,36.734013,12.057044,36.839399",
     "geom:latitude":36.787331,
     "geom:longitude":11.99444,
@@ -218,6 +230,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -226,6 +240,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081014",
+        "eurostat:nuts_2021_id":"081014",
         "gn:id":6539114,
         "gp:id":12679804,
         "qs_pg:id":41130
@@ -234,7 +250,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49119048c586734522878edc38d8f228",
+    "wof:geomhash":"e33b33dd582294e3491f6b81cfc049fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,10 +261,12 @@
         }
     ],
     "wof:id":404464893,
-    "wof:lastmodified":1636496847,
+    "wof:lastmodified":1684353820,
     "wof:name":"Pantelleria",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":7683,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

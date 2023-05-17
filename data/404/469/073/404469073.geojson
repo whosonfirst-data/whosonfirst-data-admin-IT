@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio Bigarello",
+    "eurostat:nuts_2021_id":"020057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020057",
+    "eurostat:population":11880,
+    "eurostat:population_year":2020,
     "geom:area":0.003091,
     "geom:area_square_m":26943116.449127,
     "geom:bbox":"10.8611884165,45.1556499732,10.9603941769,45.2139809037",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020057",
+        "eurostat:nuts_2021_id":"020057",
         "gn:id":6542739,
         "gp:id":12679522,
         "qs_pg:id":245245
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95bc0eb140808986a76dd7fc9aa6f6af",
+    "wof:geomhash":"a6258738b712b6717820d8edbd0b6ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469073,
-    "wof:lastmodified":1582328036,
+    "wof:lastmodified":1684353899,
     "wof:name":"Bigarello",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":11880,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

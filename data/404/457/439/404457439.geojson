@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinovo",
+    "eurostat:nuts_2021_id":"001309",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001309",
+    "eurostat:population":15245,
+    "eurostat:population_year":2020,
     "geom:area":0.002019,
-    "geom:area_square_m":17665251.771539,
+    "geom:area_square_m":17665251.771546,
     "geom:bbox":"7.59944759328,44.925944434,7.65759892656,44.9843208966",
     "geom:latitude":44.955366,
     "geom:longitude":7.629006,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001309",
+        "eurostat:nuts_2021_id":"001309",
         "gn:id":3164070,
         "gp:id":20076533,
         "qs_pg:id":234988
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f61b0deb61bda07fce77fd02422cf13",
+    "wof:geomhash":"7f02d94aaa6f5c48cbfd3ea8c1b6194e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457439,
-    "wof:lastmodified":1582328102,
+    "wof:lastmodified":1684353649,
     "wof:name":"Vinovo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":15245,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

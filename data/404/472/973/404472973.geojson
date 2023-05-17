@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arezzo",
+    "eurostat:nuts_2021_id":"051002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051002",
+    "eurostat:population":99258,
+    "eurostat:population_year":2020,
     "geom:area":0.04275,
-    "geom:area_square_m":383791452.610185,
+    "geom:area_square_m":383791428.631398,
     "geom:bbox":"11.740605,43.327586,12.077896,43.557507",
     "geom:latitude":43.445078,
     "geom:longitude":11.904388,
@@ -266,6 +278,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -274,6 +288,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051002",
+        "eurostat:nuts_2021_id":"051002",
         "gn:id":6542153,
         "gp:id":12676212,
         "qs_pg:id":1310846
@@ -282,7 +298,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6dedbd74df71c12eaedf9aa6ae2c60c",
+    "wof:geomhash":"da331ffbafc982c99ebc9abc06ffd69b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -293,10 +309,12 @@
         }
     ],
     "wof:id":404472973,
-    "wof:lastmodified":1636496850,
+    "wof:lastmodified":1684353974,
     "wof:name":"Arezzo",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":99258,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

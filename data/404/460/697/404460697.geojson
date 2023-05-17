@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amorosi",
+    "eurostat:nuts_2021_id":"062002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062002",
+    "eurostat:population":2702,
+    "eurostat:population_year":2020,
     "geom:area":0.001199,
-    "geom:area_square_m":11158908.592635,
+    "geom:area_square_m":11158908.592634,
     "geom:bbox":"14.4424080911,41.1743657087,14.4879143729,41.2227333522",
     "geom:latitude":41.202567,
     "geom:longitude":14.465946,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062002",
+        "eurostat:nuts_2021_id":"062002",
         "gn:id":6538734,
         "gp:id":12676064,
         "qs_pg:id":385991
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"259091e6966526f8670a27e299b56c09",
+    "wof:geomhash":"b51331d2855e3249ed297fcef2f68e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460697,
-    "wof:lastmodified":1582328015,
+    "wof:lastmodified":1684353723,
     "wof:name":"Amorosi",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2702,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paupisi",
+    "eurostat:nuts_2021_id":"062049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062049",
+    "eurostat:population":1663,
+    "eurostat:population_year":2020,
     "geom:area":0.00073,
     "geom:area_square_m":6792023.819827,
     "geom:bbox":"14.6266981596,41.1884075187,14.6739593516,41.2195552772",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062049",
+        "eurostat:nuts_2021_id":"062049",
         "gn:id":6537331,
         "gp:id":12680956,
         "qs_pg:id":1207833
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1cd273cc1c03881c5eae743836aa21ef",
+    "wof:geomhash":"02ebfa565b8bc63cf81576b86b80387f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404460803,
-    "wof:lastmodified":1582328002,
+    "wof:lastmodified":1684353725,
     "wof:name":"Paupisi",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1663,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

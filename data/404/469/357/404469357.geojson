@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliveto Lario",
+    "eurostat:nuts_2021_id":"097060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097060",
+    "eurostat:population":1242,
+    "eurostat:population_year":2020,
     "geom:area":0.001822,
-    "geom:area_square_m":15671642.356968,
+    "geom:area_square_m":15671642.356966,
     "geom:bbox":"9.25616665524,45.8923944459,9.31433381498,45.9670412123",
     "geom:latitude":45.930696,
     "geom:longitude":9.285194,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097060",
+        "eurostat:nuts_2021_id":"097060",
         "gn:id":6536413,
         "gp:id":12680758,
         "qs_pg:id":103764
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65a7c3a9c5c669c0cba4e0f36b1e1d6a",
+    "wof:geomhash":"322fde40a7cbd287f22220c76b958394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469357,
-    "wof:lastmodified":1582328034,
+    "wof:lastmodified":1684353903,
     "wof:name":"Oliveto Lario",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":1242,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oulx",
+    "eurostat:nuts_2021_id":"001175",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001175",
+    "eurostat:population":3316,
+    "eurostat:population_year":2020,
     "geom:area":0.011397,
-    "geom:area_square_m":99576604.179406,
+    "geom:area_square_m":99576604.179403,
     "geom:bbox":"6.70347571599,44.9868567357,6.91772507103,45.1138752683",
     "geom:latitude":45.044441,
     "geom:longitude":6.799124,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001175",
+        "eurostat:nuts_2021_id":"001175",
         "gn:id":6540100,
         "gp:id":12675703,
         "qs_pg:id":1163405
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16f772491c78f4974341d12687b0cc61",
+    "wof:geomhash":"12b951a7c6979f46eb79de1d412dd763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456567,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353627,
     "wof:name":"Oulx",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3316,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

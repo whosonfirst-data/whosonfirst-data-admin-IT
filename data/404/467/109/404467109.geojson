@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terralba",
+    "eurostat:nuts_2021_id":"095065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095065",
+    "eurostat:population":10101,
+    "eurostat:population_year":2020,
     "geom:area":0.005235,
-    "geom:area_square_m":49793547.833377,
+    "geom:area_square_m":49793547.833373,
     "geom:bbox":"8.50023942988,39.6845228002,8.6710166944,39.7667639488",
     "geom:latitude":39.714732,
     "geom:longitude":8.595555,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095065",
+        "eurostat:nuts_2021_id":"095065",
         "gn:id":6539377,
         "gp:id":12682165,
         "qs_pg:id":496799
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6373839bc052afb2348d77f35356cb2f",
+    "wof:geomhash":"442494e730587d16ac3eb4c8dc34ec4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467109,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353865,
     "wof:name":"Terralba",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":10101,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

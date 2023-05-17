@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelnuovo Berardenga",
+    "eurostat:nuts_2021_id":"052006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052006",
+    "eurostat:population":9058,
+    "eurostat:population_year":2020,
     "geom:area":0.019651,
-    "geom:area_square_m":176645595.481879,
+    "geom:area_square_m":176645595.481867,
     "geom:bbox":"11.3044137755,43.2949952773,11.6004284652,43.4291567512",
     "geom:latitude":43.365577,
     "geom:longitude":11.450005,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052006",
+        "eurostat:nuts_2021_id":"052006",
         "gn:id":6538596,
         "gp:id":12678283,
         "qs_pg:id":1193816
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc3f996481ae196ac3f51c1d03ac2279",
+    "wof:geomhash":"76ca226764e62f4b3a0afd06765fe3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463811,
-    "wof:lastmodified":1582327765,
+    "wof:lastmodified":1684353786,
     "wof:name":"Castelnuovo Berardenga",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":9058,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

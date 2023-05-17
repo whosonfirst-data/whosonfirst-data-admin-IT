@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aquila d'Arroscia",
+    "eurostat:nuts_2021_id":"008003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008003",
+    "eurostat:population":153,
+    "eurostat:population_year":2020,
     "geom:area":0.001131,
-    "geom:area_square_m":10047140.216188,
+    "geom:area_square_m":10047140.216187,
     "geom:bbox":"7.96469073548,44.0725590599,8.02962220327,44.1147461477",
     "geom:latitude":44.095443,
     "geom:longitude":8.003658,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_008003",
+        "eurostat:nuts_2021_id":"008003"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1a7b0c8d17ddaf70e98ad345114addaa",
+    "wof:geomhash":"372f4597caab4f583f90a008cd07d34e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404470831,
-    "wof:lastmodified":1566723155,
+    "wof:lastmodified":1684353928,
     "wof:name":"Aquila D'Arroscia",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":153,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

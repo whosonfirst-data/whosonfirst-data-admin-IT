@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malfa",
+    "eurostat:nuts_2021_id":"083043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083043",
+    "eurostat:population":987,
+    "eurostat:population_year":2020,
     "geom:area":0.000898,
-    "geom:area_square_m":8681141.294973,
+    "geom:area_square_m":8681141.294974,
     "geom:bbox":"14.7984494451,38.5647046098,14.8725085119,38.5838877663",
     "geom:latitude":38.574749,
     "geom:longitude":14.831382,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083043",
+        "eurostat:nuts_2021_id":"083043",
         "gn:id":6539154,
         "gp:id":12680107,
         "qs_pg:id":1310901
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f73a27782c2b5c31e4b035c641e370a",
+    "wof:geomhash":"9b72f2cea932e4a9b34473f04c0358da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466281,
-    "wof:lastmodified":1582328189,
+    "wof:lastmodified":1684353846,
     "wof:name":"Malfa",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":987,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bacoli",
+    "eurostat:nuts_2021_id":"063006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063006",
+    "eurostat:population":26112,
+    "eurostat:population_year":2020,
     "geom:area":0.001432,
-    "geom:area_square_m":13400506.923354,
+    "geom:area_square_m":13400506.923359,
     "geom:bbox":"14.0421582018,40.7777481676,14.0910876464,40.8460414793",
     "geom:latitude":40.815783,
     "geom:longitude":14.065056,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063006",
+        "eurostat:nuts_2021_id":"063006",
         "gn:id":6542059,
         "gp:id":12676388,
         "qs_pg:id":1163414
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b63d1d720016ce25c6e980422fd53636",
+    "wof:geomhash":"f9cd74d03391344ff99e709fc07b671c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404460881,
-    "wof:lastmodified":1582328000,
+    "wof:lastmodified":1684353726,
     "wof:name":"Bacoli",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":26112,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neviano",
+    "eurostat:nuts_2021_id":"075053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075053",
+    "eurostat:population":5112,
+    "eurostat:population_year":2020,
     "geom:area":0.001698,
-    "geom:area_square_m":16057781.995233,
+    "geom:area_square_m":16057781.995231,
     "geom:bbox":"18.0922043566,40.0740450292,18.1553262922,40.119762384",
     "geom:latitude":40.097498,
     "geom:longitude":18.125909,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075053",
+        "eurostat:nuts_2021_id":"075053",
         "gn:id":6541265,
         "gp:id":12680672,
         "qs_pg:id":204131
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f036c8c7f2a4c907429f33641b022002",
+    "wof:geomhash":"7c68a52dfe7cae9e97a15470c2c5d40b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458975,
-    "wof:lastmodified":1582327964,
+    "wof:lastmodified":1684353683,
     "wof:name":"Neviano",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":5112,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

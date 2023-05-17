@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galliate Lombardo",
+    "eurostat:nuts_2021_id":"012071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012071",
+    "eurostat:population":996,
+    "eurostat:population_year":2020,
     "geom:area":0.000379,
-    "geom:area_square_m":3269772.224308,
+    "geom:area_square_m":3269772.224307,
     "geom:bbox":"8.75803936695,45.779111858,8.78516999999,45.8011063263",
     "geom:latitude":45.789766,
     "geom:longitude":8.771486,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012071",
+        "eurostat:nuts_2021_id":"012071",
         "gn:id":6543090,
         "gp:id":20076042,
         "qs_pg:id":1163795
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36d3c4da1b02a19fe9c8342a2af048df",
+    "wof:geomhash":"890f264eb7195d544ec90141a8f6a2d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467771,
-    "wof:lastmodified":1582327977,
+    "wof:lastmodified":1684353879,
     "wof:name":"Galliate Lombardo",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":996,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

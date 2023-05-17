@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bregnano",
+    "eurostat:nuts_2021_id":"013028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013028",
+    "eurostat:population":6579,
+    "eurostat:population_year":2020,
     "geom:area":0.000714,
-    "geom:area_square_m":6164481.207176,
+    "geom:area_square_m":6164481.207174,
     "geom:bbox":"9.04570023016,45.6723406318,9.06881735587,45.7172081331",
     "geom:latitude":45.695082,
     "geom:longitude":9.057306,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013028",
+        "eurostat:nuts_2021_id":"013028",
         "gn:id":3181581,
         "gp:id":12681713,
         "qs_pg:id":1093152
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20cc6fad4e434e944a9ef951781187fc",
+    "wof:geomhash":"d2b43de56af030ad0babdbdfb64028ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404467971,
-    "wof:lastmodified":1582327977,
+    "wof:lastmodified":1684353882,
     "wof:name":"Bregnano",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":6579,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

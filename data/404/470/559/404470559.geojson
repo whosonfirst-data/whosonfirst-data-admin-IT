@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malborghetto Valbruna",
+    "eurostat:nuts_2021_id":"030054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030054",
+    "eurostat:population":908,
+    "eurostat:population_year":2020,
     "geom:area":0.014529,
-    "geom:area_square_m":123647351.476191,
+    "geom:area_square_m":123647351.476187,
     "geom:bbox":"13.3481282112,46.4167037418,13.5222060675,46.5793500786",
     "geom:latitude":46.509465,
     "geom:longitude":13.43959,
@@ -153,6 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030054",
+        "eurostat:nuts_2021_id":"030054",
         "gn:id":6536247,
         "gp:id":12680103,
         "qs_pg:id":537281
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"355386adc1ef58c1113e8a4b4fd0a741",
+    "wof:geomhash":"b3418a2362bef304f1d3146aabe929ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404470559,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353924,
     "wof:name":"Malborghetto Valbruna",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":908,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

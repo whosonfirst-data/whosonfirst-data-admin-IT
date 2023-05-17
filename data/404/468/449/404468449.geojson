@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mediglia",
+    "eurostat:nuts_2021_id":"015139",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015139",
+    "eurostat:population":12294,
+    "eurostat:population_year":2020,
     "geom:area":0.002525,
-    "geom:area_square_m":21922658.897407,
+    "geom:area_square_m":21922658.897409,
     "geom:bbox":"9.29641865458,45.3845981259,9.38662198332,45.4371040252",
     "geom:latitude":45.410075,
     "geom:longitude":9.338507,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015139",
+        "eurostat:nuts_2021_id":"015139",
         "gn:id":6542302,
         "gp:id":12681700,
         "qs_pg:id":999137
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af77251c87e6daf23c4626f3b4922602",
+    "wof:geomhash":"83e036caa1efbd92252635897a3add45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468449,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353889,
     "wof:name":"Mediglia",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":12294,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

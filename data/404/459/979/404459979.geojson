@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albera Ligure",
+    "eurostat:nuts_2021_id":"006002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006002",
+    "eurostat:population":293,
+    "eurostat:population_year":2020,
     "geom:area":0.002413,
-    "geom:area_square_m":21202387.621853,
+    "geom:area_square_m":21202387.621854,
     "geom:bbox":"9.04628854418,44.6857603645,9.15672871743,44.7269617043",
     "geom:latitude":44.708004,
     "geom:longitude":9.103557,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006002",
+        "eurostat:nuts_2021_id":"006002",
         "gn:id":6543509,
         "gp:id":12682524,
         "qs_pg:id":949040
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6ac669ec038d9dea7a3f05870ed2522",
+    "wof:geomhash":"7655d5e996506ea9632db1c47f8dcf9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459979,
-    "wof:lastmodified":1582328163,
+    "wof:lastmodified":1684353706,
     "wof:name":"Albera Ligure",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":293,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

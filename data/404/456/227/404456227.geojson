@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beinasco",
+    "eurostat:nuts_2021_id":"001024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001024",
+    "eurostat:population":17856,
+    "eurostat:population_year":2020,
     "geom:area":0.000769,
     "geom:area_square_m":6723213.657872,
     "geom:bbox":"7.571409,44.997778,7.612199,45.034471",
@@ -149,14 +161,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227493,
-        85685169
+        85685169,
+        404227493
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001024",
+        "eurostat:nuts_2021_id":"001024",
         "gn:id":6538038,
         "gp:id":12676654,
         "qs_pg:id":240800
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af290ef09a366ac2e529b55bfc72bede",
+    "wof:geomhash":"2ec88b4a6b9abf574c46eabd22049e60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456227,
-    "wof:lastmodified":1608041559,
+    "wof:lastmodified":1684353619,
     "wof:name":"Beinasco",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":17856,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

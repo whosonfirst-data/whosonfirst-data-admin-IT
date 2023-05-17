@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lioni",
+    "eurostat:nuts_2021_id":"064044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064044",
+    "eurostat:population":6130,
+    "eurostat:population_year":2020,
     "geom:area":0.004939,
     "geom:area_square_m":46183632.843748,
     "geom:bbox":"15.1391513698,40.8144911704,15.2442451294,40.9067976549",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064044",
+        "eurostat:nuts_2021_id":"064044",
         "gn:id":6540690,
         "gp:id":12679975,
         "qs_pg:id":1292720
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"768df9cccefd81e3224ca00e4d034f0d",
+    "wof:geomhash":"55a0fe0571101476d66f1d273f6f01d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465293,
-    "wof:lastmodified":1582327832,
+    "wof:lastmodified":1684353829,
     "wof:name":"Lioni",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":6130,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

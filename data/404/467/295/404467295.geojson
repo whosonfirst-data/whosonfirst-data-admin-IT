@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pabillonis",
+    "eurostat:nuts_2021_id":"111052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111052",
+    "eurostat:population":2684,
+    "eurostat:population_year":2020,
     "geom:area":0.003928,
-    "geom:area_square_m":37419710.765953,
+    "geom:area_square_m":37419710.765954,
     "geom:bbox":"8.67136479123,39.5620416544,8.75020333117,39.6453259118",
     "geom:latitude":39.607765,
     "geom:longitude":8.71174,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111052",
+        "eurostat:nuts_2021_id":"111052",
         "gn:id":6539295,
         "gp:id":12680856,
         "qs_pg:id":1137075
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fce454413ed6e30a02b45b67683cae61",
+    "wof:geomhash":"d9b46a1d5cad9315b5b8367c44633c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404467295,
-    "wof:lastmodified":1582327972,
+    "wof:lastmodified":1684353871,
     "wof:name":"Pabillonis",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":2684,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

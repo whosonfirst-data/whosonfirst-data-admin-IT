@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Senales/Schnals",
+    "eurostat:nuts_2021_id":"021091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021091",
+    "eurostat:population":1245,
+    "eurostat:population_year":2020,
     "geom:area":0.024702,
-    "geom:area_square_m":209364822.896808,
+    "geom:area_square_m":209364822.8968,
     "geom:bbox":"10.7282554936,46.6591348112,11.0390646333,46.7963697847",
     "geom:latitude":46.729892,
     "geom:longitude":10.872751,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021091",
+        "eurostat:nuts_2021_id":"021091",
         "gn:id":3166751,
         "gp:id":12675900,
         "qs_pg:id":75978
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e81089d9b6093da5bccc9e9213dff20f",
+    "wof:geomhash":"a4357d2bd4c0e091fada50ab57faf6ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404473245,
-    "wof:lastmodified":1582327915,
+    "wof:lastmodified":1684353984,
     "wof:name":"Senales",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1245,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giuliano del Sannio",
+    "eurostat:nuts_2021_id":"070067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070067",
+    "eurostat:population":950,
+    "eurostat:population_year":2020,
     "geom:area":0.00258,
-    "geom:area_square_m":23907783.914583,
+    "geom:area_square_m":23907783.914581,
     "geom:bbox":"14.5776332175,41.4370964628,14.6690281818,41.4871852181",
     "geom:latitude":41.462815,
     "geom:longitude":14.630545,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070067",
+        "eurostat:nuts_2021_id":"070067",
         "gn:id":6541245,
         "gp:id":12681653,
         "qs_pg:id":1296953
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b53ac65dec1e5aae1acd3418ae4107c6",
+    "wof:geomhash":"7465b32b70e0756053de55459960444e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404458825,
-    "wof:lastmodified":1582327956,
+    "wof:lastmodified":1684353678,
     "wof:name":"San Giuliano Del Sannio",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":950,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

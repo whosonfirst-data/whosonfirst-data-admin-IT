@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calestano",
+    "eurostat:nuts_2021_id":"034008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034008",
+    "eurostat:population":2105,
+    "eurostat:population_year":2020,
     "geom:area":0.006504,
-    "geom:area_square_m":57271481.261117,
+    "geom:area_square_m":57271481.261111,
     "geom:bbox":"10.0446618178,44.5410620899,10.2114478628,44.6446091256",
     "geom:latitude":44.590218,
     "geom:longitude":10.130739,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034008",
+        "eurostat:nuts_2021_id":"034008",
         "gn:id":6538419,
         "gp:id":12677320,
         "qs_pg:id":291418
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc24296d13db22dec802e7227c1b73fa",
+    "wof:geomhash":"8745ad2c19329eaae8976aeead537476",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472157,
-    "wof:lastmodified":1582327878,
+    "wof:lastmodified":1684353953,
     "wof:name":"Calestano",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":2105,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caselle Landi",
+    "eurostat:nuts_2021_id":"098011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098011",
+    "eurostat:population":1537,
+    "eurostat:population_year":2020,
     "geom:area":0.002975,
-    "geom:area_square_m":25966148.122214,
+    "geom:area_square_m":25966148.122212,
     "geom:bbox":"9.7674774328,45.0525728097,9.84893710962,45.1299651781",
     "geom:latitude":45.098232,
     "geom:longitude":9.808137,
@@ -263,6 +275,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -271,6 +285,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098011",
+        "eurostat:nuts_2021_id":"098011",
         "gn:id":6543683,
         "gp:id":20076395,
         "qs_pg:id":974836
@@ -279,7 +295,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9d77b3d41bfc636857a9e17c45f683a",
+    "wof:geomhash":"fded95156d98e4b271855678a4000753",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -290,10 +306,12 @@
         }
     ],
     "wof:id":404469449,
-    "wof:lastmodified":1582328026,
+    "wof:lastmodified":1684353904,
     "wof:name":"Caselle Landi",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":1537,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

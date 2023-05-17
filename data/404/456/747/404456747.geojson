@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rosignano Monferrato",
+    "eurostat:nuts_2021_id":"006149",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006149",
+    "eurostat:population":1498,
+    "eurostat:population_year":2020,
     "geom:area":0.002205,
-    "geom:area_square_m":19252847.813446,
+    "geom:area_square_m":19252847.813448,
     "geom:bbox":"8.38492766547,45.0405032634,8.45728122693,45.1005244279",
     "geom:latitude":45.07292,
     "geom:longitude":8.415974,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006149",
+        "eurostat:nuts_2021_id":"006149",
         "gn:id":6542887,
         "gp:id":20075940,
         "qs_pg:id":334726
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48cb7ec73c0701143c6bb0688d101b93",
+    "wof:geomhash":"790d515a8c28e193ad542f1b34547532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404456747,
-    "wof:lastmodified":1582328056,
+    "wof:lastmodified":1684353632,
     "wof:name":"Rosignano Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1498,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

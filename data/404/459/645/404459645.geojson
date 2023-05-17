@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel Giorgio",
+    "eurostat:nuts_2021_id":"055009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055009",
+    "eurostat:population":2099,
+    "eurostat:population_year":2020,
     "geom:area":0.004627,
-    "geom:area_square_m":42048795.447015,
+    "geom:area_square_m":42048795.447019,
     "geom:bbox":"11.9261728894,42.6622372296,12.0309058532,42.7386869668",
     "geom:latitude":42.700743,
     "geom:longitude":11.982739,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055009",
+        "eurostat:nuts_2021_id":"055009",
         "gn:id":6539746,
         "gp:id":12677819,
         "qs_pg:id":1003429
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c68c5c3d80bbd77d3ebe483016235c36",
+    "wof:geomhash":"2947ce7cdd305360fd7b685a4ead9ddd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459645,
-    "wof:lastmodified":1582328157,
+    "wof:lastmodified":1684353698,
     "wof:name":"Castel Giorgio",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":2099,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

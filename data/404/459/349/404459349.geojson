@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rh\u00eames-Saint-Georges",
+    "eurostat:nuts_2021_id":"007056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007056",
+    "eurostat:population":169,
+    "eurostat:population_year":2020,
     "geom:area":0.004194,
-    "geom:area_square_m":36265749.64339,
+    "geom:area_square_m":36265749.643389,
     "geom:bbox":"7.10049729265,45.5882257153,7.18449581598,45.669363151",
     "geom:latitude":45.627312,
     "geom:longitude":7.145257,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007056",
+        "eurostat:nuts_2021_id":"007056"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6bc6474175a47c4ec1a024d37ac2a598",
+    "wof:geomhash":"86c4f7d7c2c1f03e7d3ec517fce5eeb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459349,
-    "wof:lastmodified":1566723739,
+    "wof:lastmodified":1684353692,
     "wof:name":"Rhemes-Saint-Georges",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":169,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savigliano",
+    "eurostat:nuts_2021_id":"004215",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004215",
+    "eurostat:population":21665,
+    "eurostat:population_year":2020,
     "geom:area":0.012568,
-    "geom:area_square_m":110616366.830857,
+    "geom:area_square_m":110616366.830852,
     "geom:bbox":"7.55705871601,44.5364933829,7.7136673151,44.6888002298",
     "geom:latitude":44.621198,
     "geom:longitude":7.636573,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004215",
+        "eurostat:nuts_2021_id":"004215",
         "gn:id":6540134,
         "gp:id":20075811,
         "qs_pg:id":225159
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4fa26745432dc8e0c60e8fe0997abe37",
+    "wof:geomhash":"cacfbb61428d6b4223dbaaebb2dceaa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404455831,
-    "wof:lastmodified":1582327820,
+    "wof:lastmodified":1684353611,
     "wof:name":"Savigliano",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":21665,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

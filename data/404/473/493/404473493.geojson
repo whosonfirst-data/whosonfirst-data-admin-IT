@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fornace",
+    "eurostat:nuts_2021_id":"022089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022089",
+    "eurostat:population":1319,
+    "eurostat:population_year":2020,
     "geom:area":0.000841,
     "geom:area_square_m":7207349.911771,
     "geom:bbox":"11.1867753357,46.1059989569,11.2231574177,46.1444229069",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022089",
+        "eurostat:nuts_2021_id":"022089",
         "gn:id":6543247,
         "gp:id":20076617,
         "qs_pg:id":468012
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b92c3bfbad644ce2761e0bd815a8c4d6",
+    "wof:geomhash":"1806b8bbba48e80e6c9d1438fd030215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404473493,
-    "wof:lastmodified":1582327929,
+    "wof:lastmodified":1684353989,
     "wof:name":"Fornace",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1319,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

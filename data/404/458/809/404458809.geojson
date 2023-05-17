@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccavivara",
+    "eurostat:nuts_2021_id":"070060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070060",
+    "eurostat:population":658,
+    "eurostat:population_year":2020,
     "geom:area":0.002271,
-    "geom:area_square_m":20919342.772299,
+    "geom:area_square_m":20919342.772292,
     "geom:bbox":"14.5706944126,41.8057227063,14.6402175843,41.8700441515",
     "geom:latitude":41.831825,
     "geom:longitude":14.608372,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070060",
+        "eurostat:nuts_2021_id":"070060",
         "gn:id":6538912,
         "gp:id":12681449,
         "qs_pg:id":1263172
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bec1104f10a098f45dc821f2b350c31",
+    "wof:geomhash":"fdbe75c35f05b11f89e3810b2740e190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458809,
-    "wof:lastmodified":1582327957,
+    "wof:lastmodified":1684353678,
     "wof:name":"Roccavivara",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":658,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

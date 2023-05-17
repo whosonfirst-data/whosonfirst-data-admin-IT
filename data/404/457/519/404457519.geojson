@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Crova",
+    "eurostat:nuts_2021_id":"002052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002052",
+    "eurostat:population":408,
+    "eurostat:population_year":2020,
     "geom:area":0.00161,
-    "geom:area_square_m":13994922.021111,
+    "geom:area_square_m":13994922.021112,
     "geom:bbox":"8.19998562271,45.2887501063,8.27943969855,45.3450173789",
     "geom:latitude":45.319321,
     "geom:longitude":8.238232,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002052",
+        "eurostat:nuts_2021_id":"002052",
         "gn:id":6538103,
         "gp:id":12679026,
         "qs_pg:id":1016789
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51fc989e03238092d3d9e3dfa06ef55c",
+    "wof:geomhash":"dc5030227a4084b3319999a8a7bfc50c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457519,
-    "wof:lastmodified":1582328105,
+    "wof:lastmodified":1684353651,
     "wof:name":"Crova",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":408,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pordenone",
+    "eurostat:nuts_2021_id":"093033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093033",
+    "eurostat:population":51714,
+    "eurostat:population_year":2020,
     "geom:area":0.004429,
-    "geom:area_square_m":38076340.058561,
+    "geom:area_square_m":38076340.058549,
     "geom:bbox":"12.6107833177,45.9023040843,12.7026728665,46.0032181091",
     "geom:latitude":45.953814,
     "geom:longitude":12.657242,
@@ -203,6 +215,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -211,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093033",
+        "eurostat:nuts_2021_id":"093033",
         "gn:id":6540112,
         "gp:id":12678948,
         "qs_pg:id":1108485
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89e6a9aece71538fd5bae820cbd9ca29",
+    "wof:geomhash":"5e3bbba6d796466a9bd179fe2319489f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":404459171,
-    "wof:lastmodified":1582328180,
+    "wof:lastmodified":1684353687,
     "wof:name":"Pordenone",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":51714,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

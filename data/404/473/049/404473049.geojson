@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andriano/Andrian",
+    "eurostat:nuts_2021_id":"021002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021002",
+    "eurostat:population":1038,
+    "eurostat:population_year":2020,
     "geom:area":0.000573,
     "geom:area_square_m":4879416.831589,
     "geom:bbox":"11.2065588196,46.5050989654,11.2496018231,46.5290389038",
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021002",
+        "eurostat:nuts_2021_id":"021002"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e4dc6d83fa80d6e9fc109eebf9125a58",
+    "wof:geomhash":"905da66dd98e30a4af2a02a62cf9b3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473049,
-    "wof:lastmodified":1566723396,
+    "wof:lastmodified":1684353976,
     "wof:name":"Andriano",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1038,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

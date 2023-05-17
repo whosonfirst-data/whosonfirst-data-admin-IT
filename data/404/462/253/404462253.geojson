@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca Pia",
+    "eurostat:nuts_2021_id":"066083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066083",
+    "eurostat:population":180,
+    "eurostat:population_year":2020,
     "geom:area":0.004862,
-    "geom:area_square_m":44744377.26049,
+    "geom:area_square_m":44744377.260492,
     "geom:bbox":"13.9431892759,41.8613223954,14.0298584706,41.9591658794",
     "geom:latitude":41.90529,
     "geom:longitude":13.98723,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066083",
+        "eurostat:nuts_2021_id":"066083",
         "gn:id":6538852,
         "gp:id":12681425,
         "qs_pg:id":233488
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24ad6899ade37a9f9c24d5abba2968d5",
+    "wof:geomhash":"63a2da7fb491bfc7e23b2bfbac2a82c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462253,
-    "wof:lastmodified":1582327870,
+    "wof:lastmodified":1684353755,
     "wof:name":"Rocca Pia",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":180,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

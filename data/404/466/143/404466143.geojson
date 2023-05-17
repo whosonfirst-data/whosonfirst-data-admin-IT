@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serina",
+    "eurostat:nuts_2021_id":"016199",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016199",
+    "eurostat:population":2062,
+    "eurostat:population_year":2020,
     "geom:area":0.003171,
-    "geom:area_square_m":27293810.453368,
+    "geom:area_square_m":27293810.453364,
     "geom:bbox":"9.69608036149,45.8395979754,9.77770183199,45.9326502171",
     "geom:latitude":45.88597,
     "geom:longitude":9.734698,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016199",
+        "eurostat:nuts_2021_id":"016199",
         "gn:id":6536154,
         "gp:id":12681966,
         "qs_pg:id":243074
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12641259f74b45d62d310b494990c65c",
+    "wof:geomhash":"73b2d2be6887bd05cbdc1e08cd3dd907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404466143,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353843,
     "wof:name":"Serina",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":2062,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

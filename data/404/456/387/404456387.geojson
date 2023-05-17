@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cossano Canavese",
+    "eurostat:nuts_2021_id":"001095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001095",
+    "eurostat:population":463,
+    "eurostat:population_year":2020,
     "geom:area":0.000372,
     "geom:area_square_m":3233236.175365,
     "geom:bbox":"7.98385446492,45.375629827,8.01260836757,45.3983512098",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001095",
+        "eurostat:nuts_2021_id":"001095",
         "gn:id":6543257,
         "gp:id":20076466,
         "qs_pg:id":1026055
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1571222697eacde89ebd8c1c0323f1b",
+    "wof:geomhash":"62bf8dd6793a554fec716d71d20c7fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456387,
-    "wof:lastmodified":1582328071,
+    "wof:lastmodified":1684353622,
     "wof:name":"Cossano Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":463,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

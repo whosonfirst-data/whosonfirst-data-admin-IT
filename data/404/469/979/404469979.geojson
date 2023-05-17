@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle di Cadore",
+    "eurostat:nuts_2021_id":"025063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025063",
+    "eurostat:population":1870,
+    "eurostat:population_year":2020,
     "geom:area":0.004751,
     "geom:area_square_m":40507388.609096,
     "geom:bbox":"12.2262383764,46.3556685723,12.3618044267,46.4496314582",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025063",
+        "eurostat:nuts_2021_id":"025063",
         "gn:id":6536636,
         "gp:id":12682381,
         "qs_pg:id":42980
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"674c4e361ee51bf3c47ab3f62de4c303",
+    "wof:geomhash":"24e195b7bdac4e45468bede74d8f5da4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469979,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353913,
     "wof:name":"Valle Di Cadore",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1870,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

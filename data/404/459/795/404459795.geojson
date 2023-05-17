@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pennabilli",
+    "eurostat:nuts_2021_id":"099024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099024",
+    "eurostat:population":2697,
+    "eurostat:population_year":2020,
     "geom:area":0.0078,
-    "geom:area_square_m":69606059.556294,
+    "geom:area_square_m":69606059.556286,
     "geom:bbox":"12.1942757875,43.7449974431,12.3479102906,43.8669930699",
     "geom:latitude":43.806837,
     "geom:longitude":12.273445,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099024",
+        "eurostat:nuts_2021_id":"099024"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"fd526f33078c840db9d901c6e80551ae",
+    "wof:geomhash":"355c43a9c5619762beb44819bba2aa87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404459795,
-    "wof:lastmodified":1566723746,
+    "wof:lastmodified":1684353701,
     "wof:name":"Pennabilli",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":2697,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

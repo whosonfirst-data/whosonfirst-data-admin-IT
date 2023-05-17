@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_074003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceglie Messapica",
+    "eurostat:nuts_2021_id":"074003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF44",
+    "eurostat:nuts_2021_level_lau":"074003",
+    "eurostat:population":19501,
+    "eurostat:population_year":2020,
     "geom:area":0.013888,
-    "geom:area_square_m":130304867.337997,
+    "geom:area_square_m":130304867.338008,
     "geom:bbox":"17.4172058876,40.595046751,17.6346596276,40.6966684345",
     "geom:latitude":40.6434,
     "geom:longitude":17.514656,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_074003",
+        "eurostat:nuts_2021_id":"074003",
         "gn:id":6537572,
         "gp:id":12678439,
         "qs_pg:id":40300
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"154a70162c0824b53f99a0a4c1a2a91a",
+    "wof:geomhash":"b0e25110b4a88b79ff30df5457ea1abe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456907,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353636,
     "wof:name":"Ceglie Messapica",
     "wof:parent_id":85685543,
     "wof:placetype":"localadmin",
+    "wof:population":19501,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

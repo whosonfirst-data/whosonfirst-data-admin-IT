@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ton",
+    "eurostat:nuts_2021_id":"022200",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022200",
+    "eurostat:population":1310,
+    "eurostat:population_year":2020,
     "geom:area":0.003068,
-    "geom:area_square_m":26224608.553788,
+    "geom:area_square_m":26224608.553791,
     "geom:bbox":"11.0583086906,46.2309749636,11.1389241694,46.2900729793",
     "geom:latitude":46.262572,
     "geom:longitude":11.096982,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022200",
+        "eurostat:nuts_2021_id":"022200",
         "gn:id":6542639,
         "gp:id":20076654,
         "qs_pg:id":334837
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91552d4a4a06a27c4af343241cbb059e",
+    "wof:geomhash":"81b9ed3a73ce3c33f24226a7c88cc9c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404471693,
-    "wof:lastmodified":1582327716,
+    "wof:lastmodified":1684353944,
     "wof:name":"Ton",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1310,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

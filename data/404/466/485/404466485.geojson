@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Naro",
+    "eurostat:nuts_2021_id":"084026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084026",
+    "eurostat:population":7346,
+    "eurostat:population_year":2020,
     "geom:area":0.021006,
-    "geom:area_square_m":206645650.343534,
+    "geom:area_square_m":206645650.343535,
     "geom:bbox":"13.697214307,37.20401094,13.9943610421,37.3478711654",
     "geom:latitude":37.289289,
     "geom:longitude":13.821486,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084026",
+        "eurostat:nuts_2021_id":"084026",
         "gn:id":6540842,
         "gp:id":20077055,
         "qs_pg:id":1123068
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b42fffd96c6cc7064d4ab22f6d28c6c5",
+    "wof:geomhash":"128245bd232cf2f85b033128c455a21a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466485,
-    "wof:lastmodified":1582328186,
+    "wof:lastmodified":1684353850,
     "wof:name":"Naro",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":7346,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

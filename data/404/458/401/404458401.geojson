@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teolo",
+    "eurostat:nuts_2021_id":"028089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028089",
+    "eurostat:population":9038,
+    "eurostat:population_year":2020,
     "geom:area":0.003582,
-    "geom:area_square_m":31121829.094697,
+    "geom:area_square_m":31121829.094688,
     "geom:bbox":"11.651146487,45.3160872753,11.768456931,45.3953036297",
     "geom:latitude":45.356774,
     "geom:longitude":11.708275,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028089",
+        "eurostat:nuts_2021_id":"028089",
         "gn:id":6536293,
         "gp:id":20076708,
         "qs_pg:id":50885
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb38fb28d2fba687895a2e84255ba4e0",
+    "wof:geomhash":"861c60e508c100505367d7499584191a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458401,
-    "wof:lastmodified":1582327943,
+    "wof:lastmodified":1684353669,
     "wof:name":"Teolo",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":9038,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

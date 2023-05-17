@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scopa",
+    "eurostat:nuts_2021_id":"002134",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002134",
+    "eurostat:population":372,
+    "eurostat:population_year":2020,
     "geom:area":0.002609,
-    "geom:area_square_m":22496535.648695,
+    "geom:area_square_m":22496535.648693,
     "geom:bbox":"8.07953378752,45.7588761696,8.16707845406,45.8137075154",
     "geom:latitude":45.786781,
     "geom:longitude":8.126115,
@@ -86,6 +98,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -94,6 +108,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002134",
+        "eurostat:nuts_2021_id":"002134",
         "gn:id":6543416,
         "gp:id":12682591,
         "qs_pg:id":417335
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd5c6bef8e212a7dbd481e6c51fd11c9",
+    "wof:geomhash":"78acdb565e7e59a8fdf89d090edfd492",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404457619,
-    "wof:lastmodified":1582328099,
+    "wof:lastmodified":1684353653,
     "wof:name":"Scopa",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":372,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

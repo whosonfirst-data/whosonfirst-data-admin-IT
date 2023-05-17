@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve di Teco",
+    "eurostat:nuts_2021_id":"008042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008042",
+    "eurostat:population":1346,
+    "eurostat:population_year":2020,
     "geom:area":0.004552,
     "geom:area_square_m":40451632.845849,
     "geom:bbox":"7.84224868431,43.9970555866,7.95200205845,44.100998984",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008042",
+        "eurostat:nuts_2021_id":"008042",
         "gn:id":6541485,
         "gp:id":12681107,
         "qs_pg:id":1163531
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db68096a4c32fc06bba25d5662ad19fe",
+    "wof:geomhash":"14ef730d7dd803990a6509451fe8e896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471831,
-    "wof:lastmodified":1582327728,
+    "wof:lastmodified":1684353946,
     "wof:name":"Pieve Di Teco",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":1346,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

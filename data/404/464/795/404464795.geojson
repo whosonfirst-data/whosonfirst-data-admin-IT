@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maierato",
+    "eurostat:nuts_2021_id":"102020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102020",
+    "eurostat:population":2120,
+    "eurostat:population_year":2020,
     "geom:area":0.0041,
-    "geom:area_square_m":39551436.385087,
+    "geom:area_square_m":39551436.385084,
     "geom:bbox":"16.1525924657,38.6977205813,16.2794163748,38.7621728701",
     "geom:latitude":38.723288,
     "geom:longitude":16.221369,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102020",
+        "eurostat:nuts_2021_id":"102020"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bd6ca6c8178e1a97f574e09e470c26c5",
+    "wof:geomhash":"aff8bbe1e6764fa910477da4c1c4f3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464795,
-    "wof:lastmodified":1566723233,
+    "wof:lastmodified":1684353817,
     "wof:name":"Maierato",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":2120,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

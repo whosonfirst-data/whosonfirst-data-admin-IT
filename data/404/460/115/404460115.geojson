@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cremolino",
+    "eurostat:nuts_2021_id":"006063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006063",
+    "eurostat:population":1036,
+    "eurostat:population_year":2020,
     "geom:area":0.001633,
-    "geom:area_square_m":14369013.913337,
+    "geom:area_square_m":14369013.913336,
     "geom:bbox":"8.53405937785,44.6151083865,8.61978408642,44.651559703",
     "geom:latitude":44.631922,
     "geom:longitude":8.575605,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006063",
+        "eurostat:nuts_2021_id":"006063",
         "gn:id":6538193,
         "gp:id":12678991,
         "qs_pg:id":287954
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f24f465b87e330702d55ce9d80dc1ac0",
+    "wof:geomhash":"236e9d2b6d7d7200621d0b360fa160d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460115,
-    "wof:lastmodified":1582328019,
+    "wof:lastmodified":1684353710,
     "wof:name":"Cremolino",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1036,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martirano",
+    "eurostat:nuts_2021_id":"079073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079073",
+    "eurostat:population":857,
+    "eurostat:population_year":2020,
     "geom:area":0.001537,
-    "geom:area_square_m":14755206.741364,
+    "geom:area_square_m":14755206.741374,
     "geom:bbox":"16.2129382021,39.0330884581,16.2771024942,39.1033421628",
     "geom:latitude":39.073076,
     "geom:longitude":16.248823,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079073",
+        "eurostat:nuts_2021_id":"079073"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e5a183cf9bcf36db6f565dbd9c126d20",
+    "wof:geomhash":"fa49ee6e3fa8def415bf4987ea4b13d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464381,
-    "wof:lastmodified":1566723250,
+    "wof:lastmodified":1684353804,
     "wof:name":"Martirano",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":857,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

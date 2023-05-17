@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santadi",
+    "eurostat:nuts_2021_id":"111068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111068",
+    "eurostat:population":3296,
+    "eurostat:population_year":2020,
     "geom:area":0.012136,
-    "geom:area_square_m":116486518.18892,
+    "geom:area_square_m":116486518.188918,
     "geom:bbox":"8.67817672883,39.0286071395,8.85319172181,39.1300255322",
     "geom:latitude":39.081613,
     "geom:longitude":8.75998,
@@ -167,6 +179,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -174,9 +188,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_111068",
+        "eurostat:nuts_2021_id":"111068"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"90102905e1f9036ae6847075fa4b5e73",
+    "wof:geomhash":"e4c3cf7431df65b6fac47646aa7f5878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,10 +204,12 @@
         }
     ],
     "wof:id":404467375,
-    "wof:lastmodified":1566723497,
+    "wof:lastmodified":1684353873,
     "wof:name":"Santadi",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":3296,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marano Lagunare",
+    "eurostat:nuts_2021_id":"030056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030056",
+    "eurostat:population":1782,
+    "eurostat:population_year":2020,
     "geom:area":0.009901,
-    "geom:area_square_m":85453772.362363,
+    "geom:area_square_m":85453772.362374,
     "geom:bbox":"13.0646485152,45.6854507543,13.2458672187,45.7750202217",
     "geom:latitude":45.731214,
     "geom:longitude":13.156573,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030056",
+        "eurostat:nuts_2021_id":"030056",
         "gn:id":6538373,
         "gp:id":20076720,
         "qs_pg:id":1311203
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39f917e8caea1ccf1b849caf644f4699",
+    "wof:geomhash":"506f0ea2851a0d4ccd234c5c098d6a22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470563,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353924,
     "wof:name":"Marano Lagunare",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1782,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

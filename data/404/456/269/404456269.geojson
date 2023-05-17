@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burolo",
+    "eurostat:nuts_2021_id":"001042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001042",
+    "eurostat:population":1135,
+    "eurostat:population_year":2020,
     "geom:area":0.000631,
-    "geom:area_square_m":5467048.35375,
+    "geom:area_square_m":5467048.353751,
     "geom:bbox":"7.91264308665,45.4648539244,7.94270980113,45.5028936531",
     "geom:latitude":45.483822,
     "geom:longitude":7.927333,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001042",
+        "eurostat:nuts_2021_id":"001042",
         "gn:id":6537261,
         "gp:id":12677192,
         "qs_pg:id":1295855
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"672d3e697fa519904c0027abb3eece3a",
+    "wof:geomhash":"cb2585ff250bb67eefbcbe9e1e9e1e15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456269,
-    "wof:lastmodified":1582328054,
+    "wof:lastmodified":1684353620,
     "wof:name":"Burolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1135,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

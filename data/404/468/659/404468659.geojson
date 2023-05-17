@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bianzano",
+    "eurostat:nuts_2021_id":"016026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016026",
+    "eurostat:population":590,
+    "eurostat:population_year":2020,
     "geom:area":0.000772,
     "geom:area_square_m":6659440.072774,
     "geom:bbox":"9.86740546989,45.7626496714,9.92781586944,45.7865036433",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016026",
+        "eurostat:nuts_2021_id":"016026",
         "gn:id":6542942,
         "gp:id":20076155,
         "qs_pg:id":245191
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d322bc7e90aa1872bd23285c5756200",
+    "wof:geomhash":"4737cf8c23f9f62aea120c1b6245c317",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468659,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353892,
     "wof:name":"Bianzano",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":590,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

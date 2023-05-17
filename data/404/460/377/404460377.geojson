@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Occhieppo Inferiore",
+    "eurostat:nuts_2021_id":"096040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096040",
+    "eurostat:population":3852,
+    "eurostat:population_year":2020,
     "geom:area":0.000469,
     "geom:area_square_m":4057997.291605,
     "geom:bbox":"8.00884130755,45.5281919946,8.03441089293,45.5588558929",
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096040",
+        "eurostat:nuts_2021_id":"096040",
         "gn:id":6537991,
         "gp:id":12680731,
         "qs_pg:id":907071
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f2e9dfec8c4ce4de44061f39de0871b",
+    "wof:geomhash":"92e6ba14890105751ea09314dcd34f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404460377,
-    "wof:lastmodified":1582328005,
+    "wof:lastmodified":1684353716,
     "wof:name":"Occhieppo Inferiore",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":3852,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

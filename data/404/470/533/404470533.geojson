@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gemona del Friuli",
+    "eurostat:nuts_2021_id":"030043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030043",
+    "eurostat:population":10778,
+    "eurostat:population_year":2020,
     "geom:area":0.006533,
-    "geom:area_square_m":55824087.949021,
+    "geom:area_square_m":55824087.949027,
     "geom:bbox":"13.0920337246,46.2394223254,13.24686994,46.3254279398",
     "geom:latitude":46.290454,
     "geom:longitude":13.15777,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030043",
+        "eurostat:nuts_2021_id":"030043",
         "gn:id":6540233,
         "gp:id":12677076,
         "qs_pg:id":1108157
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"caea3ea2e2d39f594a281db0af69a685",
+    "wof:geomhash":"d123476aa79e7a7cfa7f797d0ff82653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470533,
-    "wof:lastmodified":1582327736,
+    "wof:lastmodified":1684353923,
     "wof:name":"Gemona Del Friuli",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":10778,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

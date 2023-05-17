@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiopris-Viscone",
+    "eurostat:nuts_2021_id":"030024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030024",
+    "eurostat:population":651,
+    "eurostat:population_year":2020,
     "geom:area":0.001066,
     "geom:area_square_m":9168041.783384,
     "geom:bbox":"13.3660730081,45.9129515492,13.4234361018,45.9497871362",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030024",
+        "eurostat:nuts_2021_id":"030024",
         "gn:id":6535946,
         "gp:id":20076717,
         "qs_pg:id":1189980
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85b935e2ecde213c9372b1fd88c5fdca",
+    "wof:geomhash":"0e07a64c0cf6364925702fe1ab5ca899",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470491,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353922,
     "wof:name":"Chiopris-Viscone",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":651,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

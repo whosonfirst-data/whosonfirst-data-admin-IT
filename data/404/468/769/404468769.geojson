@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verretto",
+    "eurostat:nuts_2021_id":"018174",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018174",
+    "eurostat:population":375,
+    "eurostat:population_year":2020,
     "geom:area":0.00031,
     "geom:area_square_m":2704936.071769,
     "geom:bbox":"9.09734218842,45.0289129307,9.11998842425,45.0502662835",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018174",
+        "eurostat:nuts_2021_id":"018174",
         "gn:id":6542651,
         "gp:id":20076335,
         "qs_pg:id":1070804
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7339279bf2bb2905b5617622d3f96f78",
+    "wof:geomhash":"694d5610280bb1d7de5593d33dbce80e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468769,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353894,
     "wof:name":"Verretto",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":375,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

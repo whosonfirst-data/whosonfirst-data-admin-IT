@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calto",
+    "eurostat:nuts_2021_id":"029008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029008",
+    "eurostat:population":686,
+    "eurostat:population_year":2020,
     "geom:area":0.001238,
-    "geom:area_square_m":10823737.983811,
+    "geom:area_square_m":10823737.983809,
     "geom:bbox":"11.3272577814,44.9737785851,11.3912000269,45.019791791",
     "geom:latitude":44.995457,
     "geom:longitude":11.357669,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029008",
+        "eurostat:nuts_2021_id":"029008",
         "gn:id":6540400,
         "gp:id":12677343,
         "qs_pg:id":1009285
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"368bb1d5a15dbb72c87b5071a4c2a30b",
+    "wof:geomhash":"eb074ae1d389b6516dd09348ae1ab81c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458457,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353670,
     "wof:name":"Calto",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":686,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

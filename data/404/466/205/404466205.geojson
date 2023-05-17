@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capo d'Orlando",
+    "eurostat:nuts_2021_id":"083009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083009",
+    "eurostat:population":13249,
+    "eurostat:population_year":2020,
     "geom:area":0.001475,
-    "geom:area_square_m":14341209.227363,
+    "geom:area_square_m":14341209.227362,
     "geom:bbox":"14.7051561577,38.1084033304,14.7912427601,38.1658577939",
     "geom:latitude":38.14018,
     "geom:longitude":14.740764,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083009",
+        "eurostat:nuts_2021_id":"083009",
         "gn:id":6542102,
         "gp:id":12676632,
         "qs_pg:id":1112518
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"175c2fc993c51163612369b74c11b2f0",
+    "wof:geomhash":"0d4998dfda3204fcb8612d8218b8f873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466205,
-    "wof:lastmodified":1582328193,
+    "wof:lastmodified":1684353844,
     "wof:name":"Capo D'Orlando",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":13249,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

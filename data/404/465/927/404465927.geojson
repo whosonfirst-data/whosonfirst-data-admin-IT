@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontanella",
+    "eurostat:nuts_2021_id":"016101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016101",
+    "eurostat:population":4726,
+    "eurostat:population_year":2020,
     "geom:area":0.002049,
-    "geom:area_square_m":17769443.726476,
+    "geom:area_square_m":17769443.726477,
     "geom:bbox":"9.77870562874,45.4222597827,9.83318379656,45.4820033589",
     "geom:latitude":45.4549,
     "geom:longitude":9.803967,
@@ -77,6 +89,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -84,9 +98,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_016101",
+        "eurostat:nuts_2021_id":"016101"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8a9199ee4bbc8e2fc72cd8652172f1fe",
+    "wof:geomhash":"73b1663f4329bffd634cca591908b826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +114,12 @@
         }
     ],
     "wof:id":404465927,
-    "wof:lastmodified":1566723304,
+    "wof:lastmodified":1684353840,
     "wof:name":"Fontanella",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4726,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stenico",
+    "eurostat:nuts_2021_id":"022182",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022182",
+    "eurostat:population":1205,
+    "eurostat:population_year":2020,
     "geom:area":0.00572,
-    "geom:area_square_m":49042911.092401,
+    "geom:area_square_m":49042911.092398,
     "geom:bbox":"10.7846001157,46.0370299057,10.9045389115,46.1895897856",
     "geom:latitude":46.097167,
     "geom:longitude":10.840325,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022182",
+        "eurostat:nuts_2021_id":"022182",
         "gn:id":6538221,
         "gp:id":12676078,
         "qs_pg:id":946752
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a4a83c512355ce652f40839da1d2d8a",
+    "wof:geomhash":"8b8190504182080e5a94574ad963d3da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471657,
-    "wof:lastmodified":1582327718,
+    "wof:lastmodified":1684353943,
     "wof:name":"Stenico",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1205,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

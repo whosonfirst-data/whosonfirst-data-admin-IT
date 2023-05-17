@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Offlaga",
+    "eurostat:nuts_2021_id":"017122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017122",
+    "eurostat:population":4077,
+    "eurostat:population_year":2020,
     "geom:area":0.002648,
-    "geom:area_square_m":22996092.295877,
+    "geom:area_square_m":22996092.295874,
     "geom:bbox":"10.0606544842,45.3524297752,10.1634467145,45.4050031125",
     "geom:latitude":45.382562,
     "geom:longitude":10.110549,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017122",
+        "eurostat:nuts_2021_id":"017122",
         "gn:id":6540612,
         "gp:id":12678654,
         "qs_pg:id":1158660
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d66ad785dffcea62abddc838ea88d58",
+    "wof:geomhash":"5899b1b9387acac860ecb898061b1d86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471197,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353935,
     "wof:name":"Offlaga",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4077,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

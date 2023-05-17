@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Cosmo Albanese",
+    "eurostat:nuts_2021_id":"078113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078113",
+    "eurostat:population":601,
+    "eurostat:population_year":2020,
     "geom:area":0.001202,
-    "geom:area_square_m":11455802.071379,
+    "geom:area_square_m":11455802.071371,
     "geom:bbox":"16.403775689,39.5674943641,16.444519179,39.6317000364",
     "geom:latitude":39.600914,
     "geom:longitude":16.421991,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078113",
+        "eurostat:nuts_2021_id":"078113"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"133e8c312550a27b9869c650b4b22082",
+    "wof:geomhash":"351f49de84a545a719a17e8cd7dac22f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464299,
-    "wof:lastmodified":1566723245,
+    "wof:lastmodified":1684353802,
     "wof:name":"San Cosmo Albanese",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":601,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

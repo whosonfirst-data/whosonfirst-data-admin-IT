@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Bonifacio",
+    "eurostat:nuts_2021_id":"023069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023069",
+    "eurostat:population":21536,
+    "eurostat:population_year":2020,
     "geom:area":0.003883,
-    "geom:area_square_m":33717019.531043,
+    "geom:area_square_m":33717019.531041,
     "geom:bbox":"11.2219693177,45.3569465679,11.3459741593,45.4337374037",
     "geom:latitude":45.396823,
     "geom:longitude":11.286579,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023069",
+        "eurostat:nuts_2021_id":"023069",
         "gn:id":6540979,
         "gp:id":12679661,
         "qs_pg:id":430729
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"019219da789896276575c62de90fb14c",
+    "wof:geomhash":"da83e98f12f4e392682e006fa47ec331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458055,
-    "wof:lastmodified":1582327945,
+    "wof:lastmodified":1684353662,
     "wof:name":"San Bonifacio",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":21536,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

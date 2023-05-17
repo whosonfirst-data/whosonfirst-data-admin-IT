@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sommacampagna",
+    "eurostat:nuts_2021_id":"023082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023082",
+    "eurostat:population":14835,
+    "eurostat:population_year":2020,
     "geom:area":0.004693,
-    "geom:area_square_m":40747015.688219,
+    "geom:area_square_m":40747015.688221,
     "geom:bbox":"10.7753656527,45.3674891739,10.9161260181,45.4283569379",
     "geom:latitude":45.401011,
     "geom:longitude":10.84545,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023082",
+        "eurostat:nuts_2021_id":"023082",
         "gn:id":6540980,
         "gp:id":12682045,
         "qs_pg:id":1060870
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e15a40349a3d91690bf350f70f37628",
+    "wof:geomhash":"ff42635df2c5aecb81e058f3a2db7921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469713,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353909,
     "wof:name":"Sommacampagna",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":14835,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vasanello",
+    "eurostat:nuts_2021_id":"056055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056055",
+    "eurostat:population":3970,
+    "eurostat:population_year":2020,
     "geom:area":0.003165,
-    "geom:area_square_m":28887691.497241,
+    "geom:area_square_m":28887691.497234,
     "geom:bbox":"12.2986126151,42.3852982932,12.3832274739,42.4527780585",
     "geom:latitude":42.420272,
     "geom:longitude":12.34077,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056055",
+        "eurostat:nuts_2021_id":"056055",
         "gn:id":6536913,
         "gp:id":20076855,
         "qs_pg:id":50981
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16268398247358fbd42a9dff1e6e16ae",
+    "wof:geomhash":"2a6bc54b2b619d979eff663b4a41dfda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461339,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353737,
     "wof:name":"Vasanello",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":3970,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

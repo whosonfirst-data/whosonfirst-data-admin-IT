@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernate Ticino",
+    "eurostat:nuts_2021_id":"015019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015019",
+    "eurostat:population":3059,
+    "eurostat:population_year":2020,
     "geom:area":0.001401,
-    "geom:area_square_m":12144241.585786,
+    "geom:area_square_m":12144241.585788,
     "geom:bbox":"8.78752973896,45.4540981998,8.83933187881,45.5012751434",
     "geom:latitude":45.477348,
     "geom:longitude":8.811939,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015019",
+        "eurostat:nuts_2021_id":"015019",
         "gn:id":6537108,
         "gp:id":12676728,
         "qs_pg:id":39198
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"680e9ccf22979d1fe4ee2e5e127f85b0",
+    "wof:geomhash":"0b53477d6193ba64a848b85a6e2d13ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468313,
-    "wof:lastmodified":1582328083,
+    "wof:lastmodified":1684353887,
     "wof:name":"Bernate Ticino",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":3059,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

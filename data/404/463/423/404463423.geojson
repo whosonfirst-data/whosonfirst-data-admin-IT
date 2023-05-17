@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvello",
+    "eurostat:nuts_2021_id":"076015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076015",
+    "eurostat:population":1851,
+    "eurostat:population_year":2020,
     "geom:area":0.01121,
-    "geom:area_square_m":105481387.100569,
+    "geom:area_square_m":105481387.100555,
     "geom:bbox":"15.7675128224,40.3844957713,15.9313445046,40.5106550653",
     "geom:latitude":40.447701,
     "geom:longitude":15.861295,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076015",
+        "eurostat:nuts_2021_id":"076015",
         "gn:id":6540772,
         "gp:id":12677350,
         "qs_pg:id":1092910
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b40d6f1dc0b05f2e9f84fb5bf598f4ef",
+    "wof:geomhash":"e61bcf79ff0da249420084d518b10f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404463423,
-    "wof:lastmodified":1582327768,
+    "wof:lastmodified":1684353780,
     "wof:name":"Calvello",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":1851,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

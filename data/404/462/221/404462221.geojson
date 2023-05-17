@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pescina",
+    "eurostat:nuts_2021_id":"066069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066069",
+    "eurostat:population":3949,
+    "eurostat:population_year":2020,
     "geom:area":0.005288,
-    "geom:area_square_m":48585774.420883,
+    "geom:area_square_m":48585774.420892,
     "geom:bbox":"13.5516383337,41.9716404463,13.7078525632,42.064002858",
     "geom:latitude":42.0103,
     "geom:longitude":13.645893,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066069",
+        "eurostat:nuts_2021_id":"066069",
         "gn:id":6538851,
         "gp:id":12681002,
         "qs_pg:id":498449
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6b5fe883db007c96dbbf863d6dc0504",
+    "wof:geomhash":"9b2e56b7d3a988afed58f6f60d9f6054",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462221,
-    "wof:lastmodified":1582327854,
+    "wof:lastmodified":1684353754,
     "wof:name":"Pescina",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":3949,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

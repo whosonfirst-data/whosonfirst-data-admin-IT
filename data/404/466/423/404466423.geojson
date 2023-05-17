@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terme Vigliatore",
+    "eurostat:nuts_2021_id":"083106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083106",
+    "eurostat:population":7366,
+    "eurostat:population_year":2020,
     "geom:area":0.001351,
-    "geom:area_square_m":13136164.688321,
+    "geom:area_square_m":13136164.688318,
     "geom:bbox":"15.119302322,38.1068349436,15.1871126509,38.1516977618",
     "geom:latitude":38.13098,
     "geom:longitude":15.152204,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083106",
+        "eurostat:nuts_2021_id":"083106",
         "gn:id":6542807,
         "gp:id":12681028,
         "qs_pg:id":289774
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"897cebb9f8aa156d2639966316ec05e4",
+    "wof:geomhash":"3d04620acaccc6a5ae64085253f87597",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404466423,
-    "wof:lastmodified":1582328189,
+    "wof:lastmodified":1684353849,
     "wof:name":"Terme Vigliatore",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":7366,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

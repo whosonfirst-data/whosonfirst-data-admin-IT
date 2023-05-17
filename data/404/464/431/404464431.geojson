@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Satriano",
+    "eurostat:nuts_2021_id":"079123",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079123",
+    "eurostat:population":3440,
+    "eurostat:population_year":2020,
     "geom:area":0.002169,
-    "geom:area_square_m":20939466.463352,
+    "geom:area_square_m":20939466.463338,
     "geom:bbox":"16.4148097677,38.6117450418,16.5587457867,38.685281644",
     "geom:latitude":38.656864,
     "geom:longitude":16.473645,
@@ -41,6 +53,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -48,9 +62,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079123",
+        "eurostat:nuts_2021_id":"079123"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"205d55d15b2c4689350ec1c3b42a51a0",
+    "wof:geomhash":"e3d4e19c4a3a1bfa6b76d966071fa193",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,10 +78,12 @@
         }
     ],
     "wof:id":404464431,
-    "wof:lastmodified":1566723221,
+    "wof:lastmodified":1684353806,
     "wof:name":"Satriano",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":3440,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

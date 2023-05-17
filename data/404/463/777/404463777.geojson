@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve Santo Stefano",
+    "eurostat:nuts_2021_id":"051030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051030",
+    "eurostat:population":3060,
+    "eurostat:population_year":2020,
     "geom:area":0.01741,
     "geom:area_square_m":155692498.542467,
     "geom:bbox":"11.9735745354,43.5917177046,12.1675239113,43.7664939212",
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051030",
+        "eurostat:nuts_2021_id":"051030",
         "gn:id":6538592,
         "gp:id":12678487,
         "qs_pg:id":1142964
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edf29c62cb61ed881b1dbc107491e578",
+    "wof:geomhash":"32f4b40f24d748c7b2b59131a576884c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404463777,
-    "wof:lastmodified":1582327776,
+    "wof:lastmodified":1684353786,
     "wof:name":"Pieve Santo Stefano",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":3060,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

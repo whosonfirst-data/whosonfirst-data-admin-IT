@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rubiana",
+    "eurostat:nuts_2021_id":"001229",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001229",
+    "eurostat:population":2385,
+    "eurostat:population_year":2020,
     "geom:area":0.003084,
-    "geom:area_square_m":26889161.553237,
+    "geom:area_square_m":26889161.553231,
     "geom:bbox":"7.33231019919,45.1266961824,7.41950324843,45.1852483784",
     "geom:latitude":45.156043,
     "geom:longitude":7.374807,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001229",
+        "eurostat:nuts_2021_id":"001229",
         "gn:id":6537285,
         "gp:id":12681509,
         "qs_pg:id":209215
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98d3e7d5d3b86d42f3810af3494ce07c",
+    "wof:geomhash":"117810bf1fdf9bccc1439557217ea8d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457259,
-    "wof:lastmodified":1582328102,
+    "wof:lastmodified":1684353646,
     "wof:name":"Rubiana",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":2385,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

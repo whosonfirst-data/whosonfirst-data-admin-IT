@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calco",
+    "eurostat:nuts_2021_id":"097012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097012",
+    "eurostat:population":5428,
+    "eurostat:population_year":2020,
     "geom:area":0.000531,
-    "geom:area_square_m":4581863.288639,
+    "geom:area_square_m":4581863.288637,
     "geom:bbox":"9.40130633991,45.7147026922,9.45071199797,45.7345842553",
     "geom:latitude":45.725343,
     "geom:longitude":9.425736,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097012",
+        "eurostat:nuts_2021_id":"097012",
         "gn:id":6535345,
         "gp:id":20076372,
         "qs_pg:id":238816
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66868cd57fd7d6a6fcbdbab5fd21db9b",
+    "wof:geomhash":"c0dd338ea0a317e8d6ccbf74accbfa56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469249,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353901,
     "wof:name":"Calco",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":5428,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alzano Scrivia",
+    "eurostat:nuts_2021_id":"006008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006008",
+    "eurostat:population":364,
+    "eurostat:population_year":2020,
     "geom:area":0.000243,
-    "geom:area_square_m":2124057.443404,
+    "geom:area_square_m":2124057.443403,
     "geom:bbox":"8.86081837461,45.0073566295,8.89777462702,45.0281903844",
     "geom:latitude":45.018009,
     "geom:longitude":8.879096,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006008",
+        "eurostat:nuts_2021_id":"006008",
         "gn:id":6543510,
         "gp:id":12680378,
         "qs_pg:id":41500
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"975ea3c28793bf0b42fdedcf2e94fc26",
+    "wof:geomhash":"88879bbe0a74a78b4ee115aa3b91241d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459993,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353706,
     "wof:name":"Alzano Scrivia",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":364,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

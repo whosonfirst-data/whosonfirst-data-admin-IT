@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arzergrande",
+    "eurostat:nuts_2021_id":"028007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028007",
+    "eurostat:population":4859,
+    "eurostat:population_year":2020,
     "geom:area":0.001563,
     "geom:area_square_m":13604384.889765,
     "geom:bbox":"12.0310661311,45.2469918974,12.091222875,45.2825423406",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028007",
+        "eurostat:nuts_2021_id":"028007",
         "gn:id":6538328,
         "gp:id":12676299,
         "qs_pg:id":245179
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d1c43e5a96273eb786c00adc283834cf",
+    "wof:geomhash":"c6e8560b252db71e4d13c0805f68c1c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470213,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353918,
     "wof:name":"Arzergrande",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":4859,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

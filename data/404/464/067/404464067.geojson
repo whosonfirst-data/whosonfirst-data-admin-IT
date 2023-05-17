@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amantea",
+    "eurostat:nuts_2021_id":"078010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078010",
+    "eurostat:population":14075,
+    "eurostat:population_year":2020,
     "geom:area":0.003041,
-    "geom:area_square_m":29185077.111464,
+    "geom:area_square_m":29185077.111475,
     "geom:bbox":"16.0652716561,39.0487036317,16.1285043989,39.1532982462",
     "geom:latitude":39.101898,
     "geom:longitude":16.094216,
@@ -152,6 +164,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -159,9 +173,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078010",
+        "eurostat:nuts_2021_id":"078010"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7bb4348483851385f01da9b1add77c70",
+    "wof:geomhash":"780b6afe1a071eb267118a8e86046cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +189,12 @@
         }
     ],
     "wof:id":404464067,
-    "wof:lastmodified":1566723245,
+    "wof:lastmodified":1684353796,
     "wof:name":"Amantea",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":14075,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

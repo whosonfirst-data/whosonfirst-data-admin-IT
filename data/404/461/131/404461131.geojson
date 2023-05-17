@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amandola",
+    "eurostat:nuts_2021_id":"109002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109002",
+    "eurostat:population":3471,
+    "eurostat:population_year":2020,
     "geom:area":0.007653,
-    "geom:area_square_m":69218883.035071,
+    "geom:area_square_m":69218883.035088,
     "geom:bbox":"13.2503303283,42.9513710405,13.4166689475,43.0430385528",
     "geom:latitude":42.989264,
     "geom:longitude":13.350038,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109002",
+        "eurostat:nuts_2021_id":"109002",
         "gn:id":6538529,
         "gp:id":12676044,
         "qs_pg:id":76006
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c36470bbfbb3a7cec0d16bb9281ce83",
+    "wof:geomhash":"37766829e1d79f152755cfca409b7f52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461131,
-    "wof:lastmodified":1582328137,
+    "wof:lastmodified":1684353732,
     "wof:name":"Amandola",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":3471,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

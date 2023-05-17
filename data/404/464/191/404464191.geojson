@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lappano",
+    "eurostat:nuts_2021_id":"078065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078065",
+    "eurostat:population":909,
+    "eurostat:population_year":2020,
     "geom:area":0.001264,
-    "geom:area_square_m":12090376.412144,
+    "geom:area_square_m":12090376.412142,
     "geom:bbox":"16.2680180715,39.3121407184,16.369928573,39.3465725568",
     "geom:latitude":39.329181,
     "geom:longitude":16.314744,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078065",
+        "eurostat:nuts_2021_id":"078065"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bc35e281b40b88293e0d6feb05839c27",
+    "wof:geomhash":"5b865d735b67c77cd1406f4fbeb0303b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464191,
-    "wof:lastmodified":1566723230,
+    "wof:lastmodified":1684353799,
     "wof:name":"Lappano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":909,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

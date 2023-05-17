@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sansepolcro",
+    "eurostat:nuts_2021_id":"051034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051034",
+    "eurostat:population":15731,
+    "eurostat:population_year":2020,
     "geom:area":0.010156,
-    "geom:area_square_m":90956494.216424,
+    "geom:area_square_m":90956494.216425,
     "geom:bbox":"12.0461010228,43.527584149,12.2138748792,43.6530027502",
     "geom:latitude":43.589536,
     "geom:longitude":12.137186,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051034",
+        "eurostat:nuts_2021_id":"051034",
         "gn:id":6541100,
         "gp:id":12679185,
         "qs_pg:id":536965
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"006778315d9867055777a858e7fc2dc7",
+    "wof:geomhash":"35d825116565491a11a486656e4a7c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404463785,
-    "wof:lastmodified":1582327774,
+    "wof:lastmodified":1684353786,
     "wof:name":"Sansepolcro",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":15731,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

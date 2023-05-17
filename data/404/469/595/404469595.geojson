@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carate Brianza",
+    "eurostat:nuts_2021_id":"108015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108015",
+    "eurostat:population":18046,
+    "eurostat:population_year":2020,
     "geom:area":0.001146,
-    "geom:area_square_m":9901854.961597,
+    "geom:area_square_m":9901854.961596,
     "geom:bbox":"9.21157784431,45.6516713553,9.26141177199,45.7005771157",
     "geom:latitude":45.673221,
     "geom:longitude":9.237682,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108015",
+        "eurostat:nuts_2021_id":"108015",
         "gn:id":3180581,
         "gp:id":12677642,
         "qs_pg:id":248687
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d966a8d8c29e988c106b79e4a7981a6b",
+    "wof:geomhash":"c68ace953109d5db4018dd46c3169ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469595,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353906,
     "wof:name":"Carate Brianza",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":18046,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

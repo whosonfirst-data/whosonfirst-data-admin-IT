@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grandola ed Uniti",
+    "eurostat:nuts_2021_id":"013111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013111",
+    "eurostat:population":1325,
+    "eurostat:population_year":2020,
     "geom:area":0.001966,
-    "geom:area_square_m":16872243.37921,
+    "geom:area_square_m":16872243.379211,
     "geom:bbox":"9.1659369331,46.0021148674,9.22437005941,46.1006148931",
     "geom:latitude":46.043731,
     "geom:longitude":9.194638,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013111",
+        "eurostat:nuts_2021_id":"013111",
         "gn:id":6542538,
         "gp:id":12680648,
         "qs_pg:id":41708
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e4e368aedc1b88355bcdceb16ffef05",
+    "wof:geomhash":"c2a8ab6666c2ab24b6f986a3bf75d072",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468099,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353884,
     "wof:name":"Grandola Ed Uniti",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1325,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bariano",
+    "eurostat:nuts_2021_id":"016020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016020",
+    "eurostat:population":4237,
+    "eurostat:population_year":2020,
     "geom:area":0.000815,
-    "geom:area_square_m":7063610.051104,
+    "geom:area_square_m":7063610.051105,
     "geom:bbox":"9.68780730287,45.4981866055,9.72616781306,45.5297862474",
     "geom:latitude":45.513531,
     "geom:longitude":9.709269,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016020",
+        "eurostat:nuts_2021_id":"016020",
         "gn:id":6543144,
         "gp:id":20076151,
         "qs_pg:id":236406
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aa1e0b9d2d3eb4b2a03d7fdd2aa1b7cb",
+    "wof:geomhash":"834fd0e2d6a2ba7cc96c2c83fb667434",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468645,
-    "wof:lastmodified":1582328078,
+    "wof:lastmodified":1684353892,
     "wof:name":"Bariano",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4237,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

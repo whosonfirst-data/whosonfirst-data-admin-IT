@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frassino",
+    "eurostat:nuts_2021_id":"004092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004092",
+    "eurostat:population":269,
+    "eurostat:population_year":2020,
     "geom:area":0.001928,
     "geom:area_square_m":16981644.436817,
     "geom:bbox":"7.24538554055,44.5342587545,7.29636916272,44.5929738406",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004092",
+        "eurostat:nuts_2021_id":"004092",
         "gn:id":6540105,
         "gp:id":12679412,
         "qs_pg:id":961695
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b60492ae697d5535f0319b795c7b3939",
+    "wof:geomhash":"4c3e8dac21c2237864d2202d41492e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455555,
-    "wof:lastmodified":1582327816,
+    "wof:lastmodified":1684353606,
     "wof:name":"Frassino",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":269,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

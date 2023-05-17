@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Teresa Gallura",
+    "eurostat:nuts_2021_id":"090063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090063",
+    "eurostat:population":5308,
+    "eurostat:population_year":2020,
     "geom:area":0.010989,
-    "geom:area_square_m":102237002.000925,
+    "geom:area_square_m":102237002.000909,
     "geom:bbox":"9.13809010383,41.1487536851,9.31457658528,41.2591345953",
     "geom:latitude":41.202553,
     "geom:longitude":9.226453,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090063",
+        "eurostat:nuts_2021_id":"090063",
         "gn:id":6539238,
         "gp:id":20076811,
         "qs_pg:id":50946
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"187638d7054e099967b22bc5dde0c278",
+    "wof:geomhash":"d000e6b97fded0c24c7da3edb54803e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467211,
-    "wof:lastmodified":1582327969,
+    "wof:lastmodified":1684353868,
     "wof:name":"Santa Teresa Gallura",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":5308,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

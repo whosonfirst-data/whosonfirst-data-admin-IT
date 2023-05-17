@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scaldasole",
+    "eurostat:nuts_2021_id":"018147",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018147",
+    "eurostat:population":887,
+    "eurostat:population_year":2020,
     "geom:area":0.001325,
     "geom:area_square_m":11558017.053201,
     "geom:bbox":"8.86750944124,45.1164782019,8.93603804662,45.1485140924",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018147",
+        "eurostat:nuts_2021_id":"018147",
         "gn:id":6540207,
         "gp:id":12681909,
         "qs_pg:id":1143696
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0746adf7b9b006665d0f4c41a445358e",
+    "wof:geomhash":"3b3407edc5da2a0596684755d0cbd36f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468709,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353893,
     "wof:name":"Scaldasole",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":887,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

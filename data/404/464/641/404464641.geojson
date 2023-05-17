@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pietro di Carid\u00e0",
+    "eurostat:nuts_2021_id":"080075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080075",
+    "eurostat:population":1085,
+    "eurostat:population_year":2020,
     "geom:area":0.004921,
-    "geom:area_square_m":47622443.239268,
+    "geom:area_square_m":47622443.239251,
     "geom:bbox":"16.0937592531,38.4521534376,16.2651550394,38.5435095808",
     "geom:latitude":38.490734,
     "geom:longitude":16.189795,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080075",
+        "eurostat:nuts_2021_id":"080075",
         "gn:id":6543638,
         "qs_pg:id":628453
     },
@@ -53,7 +69,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83c386fe447ec434b87df334bd5448ad",
+    "wof:geomhash":"9e72c3d9b0877aa36da9e8226fd0e4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +80,12 @@
         }
     ],
     "wof:id":404464641,
-    "wof:lastmodified":1582327803,
+    "wof:lastmodified":1684353812,
     "wof:name":"San Pietro Di Carid\u00e0",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":1085,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

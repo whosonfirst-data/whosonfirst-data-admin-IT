@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collebeato",
+    "eurostat:nuts_2021_id":"017057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017057",
+    "eurostat:population":4598,
+    "eurostat:population_year":2020,
     "geom:area":0.000608,
-    "geom:area_square_m":5260845.025889,
+    "geom:area_square_m":5260845.025888,
     "geom:bbox":"10.1892946238,45.5699546668,10.2220659783,45.6009054119",
     "geom:latitude":45.584842,
     "geom:longitude":10.207991,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017057",
+        "eurostat:nuts_2021_id":"017057",
         "gn:id":6542596,
         "gp:id":12682617,
         "qs_pg:id":195640
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2130ba186961c774a09e82657091d27e",
+    "wof:geomhash":"f91d8cb644d062f5baa7de0e7d653ded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404471051,
-    "wof:lastmodified":1582327731,
+    "wof:lastmodified":1684353932,
     "wof:name":"Collebeato",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4598,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

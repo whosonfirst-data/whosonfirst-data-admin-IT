@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marzano Appio",
+    "eurostat:nuts_2021_id":"061050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061050",
+    "eurostat:population":2127,
+    "eurostat:population_year":2020,
     "geom:area":0.003033,
-    "geom:area_square_m":28166191.669882,
+    "geom:area_square_m":28166191.669875,
     "geom:bbox":"14.0000092834,41.2877682227,14.1000336412,41.3480640724",
     "geom:latitude":41.319541,
     "geom:longitude":14.050888,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061050",
+        "eurostat:nuts_2021_id":"061050",
         "gn:id":6542185,
         "gp:id":12677268,
         "qs_pg:id":39565
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4ba72a29d26ad6731392f35458a28ee",
+    "wof:geomhash":"8bc0ab2816e1396715c9e769b6a8478d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404463067,
-    "wof:lastmodified":1582327786,
+    "wof:lastmodified":1684353771,
     "wof:name":"Marzano Appio",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":2127,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_045017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zeri",
+    "eurostat:nuts_2021_id":"045017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI11",
+    "eurostat:nuts_2021_level_lau":"045017",
+    "eurostat:population":1004,
+    "eurostat:population_year":2020,
     "geom:area":0.008319,
     "geom:area_square_m":73567341.337237,
     "geom:bbox":"9.68674826105,44.282606111,9.85062191195,44.3905028596",
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_045017",
+        "eurostat:nuts_2021_id":"045017",
         "gn:id":3163884,
         "gp:id":12677019,
         "qs_pg:id":39386
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6967f82ff92090745bc2abe726f23f42",
+    "wof:geomhash":"2fd135f69a99ad1a3909c338f8e40990",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404472607,
-    "wof:lastmodified":1582327905,
+    "wof:lastmodified":1684353965,
     "wof:name":"Zeri",
     "wof:parent_id":85685395,
     "wof:placetype":"localadmin",
+    "wof:population":1004,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

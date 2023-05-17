@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortacesus",
+    "eurostat:nuts_2021_id":"111051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111051",
+    "eurostat:population":882,
+    "eurostat:population_year":2020,
     "geom:area":0.002477,
-    "geom:area_square_m":23624189.139838,
+    "geom:area_square_m":23624189.139836,
     "geom:bbox":"9.05110372928,39.4839837469,9.12564769319,39.5537751818",
     "geom:latitude":39.523112,
     "geom:longitude":9.088436,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111051",
+        "eurostat:nuts_2021_id":"111051",
         "gn:id":6539294,
         "gp:id":12680811,
         "qs_pg:id":41823
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb1952cec419a1ef469ae6a462e6134f",
+    "wof:geomhash":"642c2b2aba5eeb74b4ba75c6115cf49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466853,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353860,
     "wof:name":"Ortacesus",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":882,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

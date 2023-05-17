@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gergei",
+    "eurostat:nuts_2021_id":"111025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111025",
+    "eurostat:population":1177,
+    "eurostat:population_year":2020,
     "geom:area":0.003802,
-    "geom:area_square_m":36173821.407,
+    "geom:area_square_m":36173821.406998,
     "geom:bbox":"9.04763272044,39.6579849825,9.11961518948,39.7460095699",
     "geom:latitude":39.695549,
     "geom:longitude":9.079673,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111025",
+        "eurostat:nuts_2021_id":"111025",
         "gn:id":6539256,
         "gp:id":12679541,
         "qs_pg:id":1009316
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6fece1fcddef2d9f4f28fad708e307d9",
+    "wof:geomhash":"4c1f91c4a96f24a1585698bfaf2c5b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466943,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353862,
     "wof:name":"Gergei",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1177,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

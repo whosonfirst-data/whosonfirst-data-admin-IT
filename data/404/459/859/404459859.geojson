@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbara",
+    "eurostat:nuts_2021_id":"042004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042004",
+    "eurostat:population":1303,
+    "eurostat:population_year":2020,
     "geom:area":0.001228,
     "geom:area_square_m":10998914.985488,
     "geom:bbox":"12.9961001285,43.5652356496,13.0580283938,43.6013977022",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042004",
+        "eurostat:nuts_2021_id":"042004",
         "gn:id":6543588,
         "gp:id":20076785,
         "qs_pg:id":1019680
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"397d370789bd1b4e570a01c7a9ea231c",
+    "wof:geomhash":"7d3f305ef0059ca4476e0c63474ad830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459859,
-    "wof:lastmodified":1582328159,
+    "wof:lastmodified":1684353703,
     "wof:name":"Barbara",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":1303,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

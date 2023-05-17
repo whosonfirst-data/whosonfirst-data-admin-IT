@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marene",
+    "eurostat:nuts_2021_id":"004117",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004117",
+    "eurostat:population":3290,
+    "eurostat:population_year":2020,
     "geom:area":0.003291,
-    "geom:area_square_m":28943211.464993,
+    "geom:area_square_m":28943211.464991,
     "geom:bbox":"7.6968668437,44.6203304459,7.76743809333,44.6912192298",
     "geom:latitude":44.657982,
     "geom:longitude":7.732415,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004117",
+        "eurostat:nuts_2021_id":"004117",
         "gn:id":6540131,
         "gp:id":12680165,
         "qs_pg:id":1019934
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"177f06cd7bdfb28b2fd7664d1954d0e5",
+    "wof:geomhash":"2f7b581f1c5693ca7e80aa568a360dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455611,
-    "wof:lastmodified":1582327812,
+    "wof:lastmodified":1684353607,
     "wof:name":"Marene",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":3290,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

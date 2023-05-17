@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgo Pace",
+    "eurostat:nuts_2021_id":"041006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041006",
+    "eurostat:population":552,
+    "eurostat:population_year":2020,
     "geom:area":0.006266,
     "geom:area_square_m":56069892.082213,
     "geom:bbox":"12.185516291,43.5901479501,12.3214382513,43.7007907294",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041006",
+        "eurostat:nuts_2021_id":"041006",
         "gn:id":6540443,
         "gp:id":12681562,
         "qs_pg:id":1026046
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6180eb25151cc5bc5cfe127bf6fc3526",
+    "wof:geomhash":"2d3163fd62f581bc6c925b4cd44c1bd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459713,
-    "wof:lastmodified":1582328163,
+    "wof:lastmodified":1684353699,
     "wof:name":"Borgo Pace",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":552,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

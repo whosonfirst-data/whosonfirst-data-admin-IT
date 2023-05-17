@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvene",
+    "eurostat:nuts_2021_id":"024020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024020",
+    "eurostat:population":1324,
+    "eurostat:population_year":2020,
     "geom:area":0.001327,
-    "geom:area_square_m":11444120.522226,
+    "geom:area_square_m":11444120.52222,
     "geom:bbox":"11.4943397065,45.7553104801,11.5278325167,45.8132330453",
     "geom:latitude":45.784447,
     "geom:longitude":11.510431,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024020",
+        "eurostat:nuts_2021_id":"024020",
         "gn:id":6536616,
         "gp:id":12677351,
         "qs_pg:id":1193659
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77e0db9e812f60c94ea74dfbb657eeac",
+    "wof:geomhash":"9b0048046c785ba0e61597f26c417b80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469793,
-    "wof:lastmodified":1582328034,
+    "wof:lastmodified":1684353910,
     "wof:name":"Calvene",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":1324,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

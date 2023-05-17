@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgoricco",
+    "eurostat:nuts_2021_id":"028013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028013",
+    "eurostat:population":8902,
+    "eurostat:population_year":2020,
     "geom:area":0.002348,
-    "geom:area_square_m":20337799.392778,
+    "geom:area_square_m":20337799.392776,
     "geom:bbox":"11.921332771,45.5119196608,12.0079226633,45.5578815411",
     "geom:latitude":45.534977,
     "geom:longitude":11.96882,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028013",
+        "eurostat:nuts_2021_id":"028013",
         "gn:id":6541505,
         "gp:id":12676988,
         "qs_pg:id":466563
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86172f086304622a157377484bbf378d",
+    "wof:geomhash":"c24538fa5b73bae172f51ebc92d5d6fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470227,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353918,
     "wof:name":"Borgoricco",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":8902,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

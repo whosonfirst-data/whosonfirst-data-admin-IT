@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cintano",
+    "eurostat:nuts_2021_id":"001084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001084",
+    "eurostat:population":245,
+    "eurostat:population_year":2020,
     "geom:area":0.000568,
-    "geom:area_square_m":4926294.686696,
+    "geom:area_square_m":4926294.686695,
     "geom:bbox":"7.65834208326,45.4118222105,7.69849912611,45.4639782666",
     "geom:latitude":45.441238,
     "geom:longitude":7.681493,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001084",
+        "eurostat:nuts_2021_id":"001084",
         "gn:id":6540910,
         "gp:id":12678671,
         "qs_pg:id":40444
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f99c8c9e46ff09213e0227517f13b7b0",
+    "wof:geomhash":"589a763aa32554ada71046384c5dd2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456363,
-    "wof:lastmodified":1582328048,
+    "wof:lastmodified":1684353622,
     "wof:name":"Cintano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

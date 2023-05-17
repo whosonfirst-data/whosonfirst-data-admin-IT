@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Onore",
+    "eurostat:nuts_2021_id":"016149",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016149",
+    "eurostat:population":907,
+    "eurostat:population_year":2020,
     "geom:area":0.001367,
-    "geom:area_square_m":11761909.816001,
+    "geom:area_square_m":11761909.816,
     "geom:bbox":"9.99764337924,45.8705854265,10.0586598476,45.9148425815",
     "geom:latitude":45.888388,
     "geom:longitude":10.027055,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016149",
+        "eurostat:nuts_2021_id":"016149",
         "gn:id":6543750,
         "gp:id":20076200,
         "qs_pg:id":1289873
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce8f814d5825810a30ce8f809402ba9f",
+    "wof:geomhash":"83242e305fe0f1bfc555d0c955c9e385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404466033,
-    "wof:lastmodified":1582328207,
+    "wof:lastmodified":1684353841,
     "wof:name":"Onore",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

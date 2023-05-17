@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mendicino",
+    "eurostat:nuts_2021_id":"078079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078079",
+    "eurostat:population":9451,
+    "eurostat:population_year":2020,
     "geom:area":0.003692,
-    "geom:area_square_m":35349396.541926,
+    "geom:area_square_m":35349396.541913,
     "geom:bbox":"16.1255194142,39.2076944692,16.2406659689,39.3010972284",
     "geom:latitude":39.253526,
     "geom:longitude":16.174563,
@@ -122,6 +134,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -129,9 +143,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078079",
+        "eurostat:nuts_2021_id":"078079"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"13aa6c2083fe43880710fbd896dad83a",
+    "wof:geomhash":"f2863e169da144e267b3ee417c461f56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404464223,
-    "wof:lastmodified":1566723236,
+    "wof:lastmodified":1684353800,
     "wof:name":"Mendicino",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":9451,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

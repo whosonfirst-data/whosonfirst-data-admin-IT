@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alimena",
+    "eurostat:nuts_2021_id":"082002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082002",
+    "eurostat:population":1915,
+    "eurostat:population_year":2020,
     "geom:area":0.006071,
-    "geom:area_square_m":59419077.463627,
+    "geom:area_square_m":59419077.463631,
     "geom:bbox":"14.0561364837,37.6114971256,14.1762089055,37.7367427267",
     "geom:latitude":37.676243,
     "geom:longitude":14.121879,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082002",
+        "eurostat:nuts_2021_id":"082002",
         "gn:id":6539116,
         "gp:id":12675959,
         "qs_pg:id":38706
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2deb8aef79268e3d54a389313dd6da0b",
+    "wof:geomhash":"7c18241bb4b246ae7894e216b873a916",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464917,
-    "wof:lastmodified":1582327807,
+    "wof:lastmodified":1684353821,
     "wof:name":"Alimena",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1915,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

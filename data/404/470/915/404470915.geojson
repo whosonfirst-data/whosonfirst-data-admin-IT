@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algua",
+    "eurostat:nuts_2021_id":"016248",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016248",
+    "eurostat:population":658,
+    "eurostat:population_year":2020,
     "geom:area":0.000964,
-    "geom:area_square_m":8309826.424897,
+    "geom:area_square_m":8309826.424898,
     "geom:bbox":"9.70108542095,45.7862976235,9.76844507769,45.8489821834",
     "geom:latitude":45.818273,
     "geom:longitude":9.730671,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016248",
+        "eurostat:nuts_2021_id":"016248",
         "gn:id":6542588,
         "gp:id":20076237,
         "qs_pg:id":1003924
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"902a304979d4c0638c141f04515de633",
+    "wof:geomhash":"d26d6f91fd68c2a8569de480e05cbbbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470915,
-    "wof:lastmodified":1582327745,
+    "wof:lastmodified":1684353930,
     "wof:name":"Algua",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":658,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

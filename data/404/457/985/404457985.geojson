@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grezzana",
+    "eurostat:nuts_2021_id":"023038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023038",
+    "eurostat:population":10838,
+    "eurostat:population_year":2020,
     "geom:area":0.005703,
-    "geom:area_square_m":49383667.312065,
+    "geom:area_square_m":49383667.312064,
     "geom:bbox":"10.9718308301,45.5074933692,11.0724285171,45.6155919965",
     "geom:latitude":45.547169,
     "geom:longitude":11.017407,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023038",
+        "eurostat:nuts_2021_id":"023038",
         "gn:id":6538239,
         "gp:id":12678033,
         "qs_pg:id":241575
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67ad377c12d3901af0dc8b3e1c096f05",
+    "wof:geomhash":"ed6e7bf284f1756ee406bf0893fa9c51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457985,
-    "wof:lastmodified":1582328107,
+    "wof:lastmodified":1684353661,
     "wof:name":"Grezzana",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":10838,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

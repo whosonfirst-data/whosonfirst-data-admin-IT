@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guardistallo",
+    "eurostat:nuts_2021_id":"050015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050015",
+    "eurostat:population":1216,
+    "eurostat:population_year":2020,
     "geom:area":0.002621,
     "geom:area_square_m":23581501.909598,
     "geom:bbox":"10.5482440336,43.2902301857,10.6844066387,43.3342420347",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050015",
+        "eurostat:nuts_2021_id":"050015",
         "gn:id":6536835,
         "gp:id":12679727,
         "qs_pg:id":1187928
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72fd04c99217a65a081fdb51953f1467",
+    "wof:geomhash":"0ca39b6b833aef04ed3da63ee43e25ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472913,
-    "wof:lastmodified":1582327893,
+    "wof:lastmodified":1684353973,
     "wof:name":"Guardistallo",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":1216,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

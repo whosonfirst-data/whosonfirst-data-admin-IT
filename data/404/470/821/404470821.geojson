@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zoppola",
+    "eurostat:nuts_2021_id":"093051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093051",
+    "eurostat:population":8489,
+    "eurostat:population_year":2020,
     "geom:area":0.005279,
-    "geom:area_square_m":45367628.262402,
+    "geom:area_square_m":45367628.262415,
     "geom:bbox":"12.6938855314,45.9348096897,12.8340567749,46.0274576855",
     "geom:latitude":45.971456,
     "geom:longitude":12.77812,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093051",
+        "eurostat:nuts_2021_id":"093051",
         "gn:id":6537940,
         "gp:id":12678371,
         "qs_pg:id":1193846
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2fbe33c1190dc089f045a04596ddd99",
+    "wof:geomhash":"ba0c216d54672762e20cf090c816ad3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470821,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353928,
     "wof:name":"Zoppola",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":8489,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

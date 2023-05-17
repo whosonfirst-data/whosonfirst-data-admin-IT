@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solarino",
+    "eurostat:nuts_2021_id":"089018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089018",
+    "eurostat:population":7885,
+    "eurostat:population_year":2020,
     "geom:area":0.001311,
-    "geom:area_square_m":12932363.287333,
+    "geom:area_square_m":12932363.287335,
     "geom:bbox":"15.0703002026,37.0893126508,15.1484111054,37.1163982617",
     "geom:latitude":37.102661,
     "geom:longitude":15.110116,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089018",
+        "eurostat:nuts_2021_id":"089018",
         "gn:id":6539215,
         "gp:id":12682031,
         "qs_pg:id":1095232
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"861ab2c591f085b88ab275d9c7c1cb63",
+    "wof:geomhash":"001669776952893b122f492594885963",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466711,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353856,
     "wof:name":"Solarino",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":7885,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

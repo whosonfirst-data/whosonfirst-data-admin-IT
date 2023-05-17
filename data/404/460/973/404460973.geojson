@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loro Piceno",
+    "eurostat:nuts_2021_id":"043022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043022",
+    "eurostat:population":2263,
+    "eurostat:population_year":2020,
     "geom:area":0.003597,
-    "geom:area_square_m":32445574.846859,
+    "geom:area_square_m":32445574.846862,
     "geom:bbox":"13.3771997189,43.1280030227,13.4621797691,43.2068913814",
     "geom:latitude":43.164995,
     "geom:longitude":13.418962,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043022",
+        "eurostat:nuts_2021_id":"043022",
         "gn:id":6536786,
         "gp:id":12680017,
         "qs_pg:id":976595
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81272ea55dc0f6c66e943a0a2eec0464",
+    "wof:geomhash":"2ca59e305d8c3ee2f6d85dc40d74b292",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404460973,
-    "wof:lastmodified":1582328019,
+    "wof:lastmodified":1684353728,
     "wof:name":"Loro Piceno",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":2263,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

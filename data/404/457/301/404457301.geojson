@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Maurizio Canavese",
+    "eurostat:nuts_2021_id":"001248",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001248",
+    "eurostat:population":10335,
+    "eurostat:population_year":2020,
     "geom:area":0.001987,
-    "geom:area_square_m":17315265.667529,
+    "geom:area_square_m":17315265.66753,
     "geom:bbox":"7.59270551065,45.1804224042,7.68798259651,45.2299650277",
     "geom:latitude":45.204481,
     "geom:longitude":7.635798,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001248",
+        "eurostat:nuts_2021_id":"001248",
         "gn:id":6536045,
         "gp:id":12681706,
         "qs_pg:id":276368
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca526002e59576c53e36f957f5ae0a92",
+    "wof:geomhash":"4910d0ade96590f308a294b2234ebc25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457301,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353647,
     "wof:name":"San Maurizio Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":10335,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

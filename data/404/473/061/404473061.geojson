@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbiano/Barbian",
+    "eurostat:nuts_2021_id":"021007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021007",
+    "eurostat:population":1754,
+    "eurostat:population_year":2020,
     "geom:area":0.002878,
-    "geom:area_square_m":24447197.005204,
+    "geom:area_square_m":24447197.005208,
     "geom:bbox":"11.4485334344,46.5794254636,11.5385112832,46.6336332219",
     "geom:latitude":46.606636,
     "geom:longitude":11.492386,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021007",
+        "eurostat:nuts_2021_id":"021007",
         "gn:id":3183323,
         "gp:id":20076582,
         "qs_pg:id":938052
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"797795b6ef3694b92a1d65d202446ba8",
+    "wof:geomhash":"be9c0b8a71f7caf8aedadf3dcd108b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404473061,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353976,
     "wof:name":"Barbiano",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1754,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

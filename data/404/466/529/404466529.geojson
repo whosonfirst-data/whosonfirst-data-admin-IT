@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bompensiere",
+    "eurostat:nuts_2021_id":"085002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085002",
+    "eurostat:population":526,
+    "eurostat:population_year":2020,
     "geom:area":0.002024,
-    "geom:area_square_m":19866430.744665,
+    "geom:area_square_m":19866430.744664,
     "geom:bbox":"13.7591807886,37.4335127725,13.8126453177,37.4993734645",
     "geom:latitude":37.462859,
     "geom:longitude":13.784899,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085002",
+        "eurostat:nuts_2021_id":"085002",
         "gn:id":6539177,
         "gp:id":12676513,
         "qs_pg:id":946795
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78502f231138f2cdf62736b30d34bdf5",
+    "wof:geomhash":"6a6b0a35c7abfdc92b93103976df69e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404466529,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353851,
     "wof:name":"Bompensiere",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":526,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

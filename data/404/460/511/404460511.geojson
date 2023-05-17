@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lei",
+    "eurostat:nuts_2021_id":"091038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091038",
+    "eurostat:population":490,
+    "eurostat:population_year":2020,
     "geom:area":0.002027,
-    "geom:area_square_m":19109790.175677,
+    "geom:area_square_m":19109790.175684,
     "geom:bbox":"8.86753525335,40.2689067068,8.95702696894,40.3459335084",
     "geom:latitude":40.313134,
     "geom:longitude":8.915676,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091038",
+        "eurostat:nuts_2021_id":"091038",
         "gn:id":6541365,
         "gp:id":12679911,
         "qs_pg:id":1016004
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ddbc047c3cb6f085f85df28a0691936",
+    "wof:geomhash":"e8fd400df44b0160aa8e7d6490935c23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404460511,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353719,
     "wof:name":"Lei",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":490,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

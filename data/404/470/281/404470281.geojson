@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galliera Veneta",
+    "eurostat:nuts_2021_id":"028039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028039",
+    "eurostat:population":7145,
+    "eurostat:population_year":2020,
     "geom:area":0.001034,
-    "geom:area_square_m":8930325.038044,
+    "geom:area_square_m":8930325.038045,
     "geom:bbox":"11.7993210864,45.6531471241,11.848601461,45.6871548896",
     "geom:latitude":45.669146,
     "geom:longitude":11.82182,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028039",
+        "eurostat:nuts_2021_id":"028039",
         "gn:id":6541822,
         "gp:id":12680622,
         "qs_pg:id":1078565
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9aca236ed4d27e5904110c271e7ff993",
+    "wof:geomhash":"529cf5751cea78354bfe5fcc31815316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470281,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353919,
     "wof:name":"Galliera Veneta",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":7145,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Segrate",
+    "eurostat:nuts_2021_id":"015205",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015205",
+    "eurostat:population":36579,
+    "eurostat:population_year":2020,
     "geom:area":0.002014,
-    "geom:area_square_m":17462079.109085,
+    "geom:area_square_m":17462079.109087,
     "geom:bbox":"9.2581446686,45.4549615511,9.3135515229,45.5099962584",
     "geom:latitude":45.484215,
     "geom:longitude":9.285475,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015205",
+        "eurostat:nuts_2021_id":"015205",
         "gn:id":6541663,
         "gp:id":12680711,
         "qs_pg:id":1293153
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27a91c69eb41ff70c737977f224095db",
+    "wof:geomhash":"2bc257c76f8966a5e53664318931ddbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404468547,
-    "wof:lastmodified":1582328091,
+    "wof:lastmodified":1684353890,
     "wof:name":"Segrate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":36579,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

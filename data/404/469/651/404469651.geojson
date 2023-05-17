@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonavigo",
+    "eurostat:nuts_2021_id":"023009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023009",
+    "eurostat:population":1990,
+    "eurostat:population_year":2020,
     "geom:area":0.002062,
-    "geom:area_square_m":17955151.480216,
+    "geom:area_square_m":17955151.480219,
     "geom:bbox":"11.2663924607,45.2127076401,11.3260326533,45.2757581592",
     "geom:latitude":45.246076,
     "geom:longitude":11.295904,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023009",
+        "eurostat:nuts_2021_id":"023009",
         "gn:id":6540971,
         "gp:id":12676727,
         "qs_pg:id":234943
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41024b6e755dc88a5330cff2a3f9cb45",
+    "wof:geomhash":"def2499ddcfbae9f6f8b8595dd256023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469651,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353907,
     "wof:name":"Bonavigo",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":1990,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

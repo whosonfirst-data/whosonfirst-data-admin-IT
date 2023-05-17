@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albonese",
+    "eurostat:nuts_2021_id":"018003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018003",
+    "eurostat:population":534,
+    "eurostat:population_year":2020,
     "geom:area":0.000497,
     "geom:area_square_m":4321768.771017,
     "geom:bbox":"8.68888007921,45.2809601393,8.72398642719,45.3025933375",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018003",
+        "eurostat:nuts_2021_id":"018003",
         "gn:id":6540623,
         "gp:id":12675927,
         "qs_pg:id":956483
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e52cf3a007f1a3ac61262e35d0f9fcf8",
+    "wof:geomhash":"e1a4b41a7d431809a5a2b3b571c544c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459967,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353706,
     "wof:name":"Albonese",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":534,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

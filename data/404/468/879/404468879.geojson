@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corte de' Frati",
+    "eurostat:nuts_2021_id":"019033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019033",
+    "eurostat:population":1359,
+    "eurostat:population_year":2020,
     "geom:area":0.00234,
-    "geom:area_square_m":20375724.130832,
+    "geom:area_square_m":20375724.130834,
     "geom:bbox":"10.0674822335,45.2020656867,10.1450434141,45.2510342456",
     "geom:latitude":45.226855,
     "geom:longitude":10.105243,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019033",
+        "eurostat:nuts_2021_id":"019033",
         "gn:id":6543216,
         "gp:id":12675946,
         "qs_pg:id":203695
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4f852333ebdd49d387c47d016938698",
+    "wof:geomhash":"9d3ac17f9aaa547086c5ed934e30e9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468879,
-    "wof:lastmodified":1582328086,
+    "wof:lastmodified":1684353896,
     "wof:name":"Corte De' Frati",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1359,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

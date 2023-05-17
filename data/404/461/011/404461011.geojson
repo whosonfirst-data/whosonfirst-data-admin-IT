@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pioraco",
+    "eurostat:nuts_2021_id":"043039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043039",
+    "eurostat:population":1037,
+    "eurostat:population_year":2020,
     "geom:area":0.00215,
     "geom:area_square_m":19383975.153624,
     "geom:bbox":"12.9498636378,43.162926474,13.0405727741,43.2067078447",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043039",
+        "eurostat:nuts_2021_id":"043039",
         "gn:id":6538523,
         "gp:id":12681129,
         "qs_pg:id":1263156
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9322b4f520709b43bca30902e71b8e44",
+    "wof:geomhash":"948c7a66d3e3e8c26be1d8579439350e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461011,
-    "wof:lastmodified":1582328141,
+    "wof:lastmodified":1684353729,
     "wof:name":"Pioraco",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":1037,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

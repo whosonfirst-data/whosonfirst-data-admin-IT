@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pocenia",
+    "eurostat:nuts_2021_id":"030075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030075",
+    "eurostat:population":2440,
+    "eurostat:population_year":2020,
     "geom:area":0.002773,
-    "geom:area_square_m":23886038.115881,
+    "geom:area_square_m":23886038.115886,
     "geom:bbox":"13.0811118614,45.8127344639,13.1629294729,45.8898129249",
     "geom:latitude":45.852482,
     "geom:longitude":13.118031,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030075",
+        "eurostat:nuts_2021_id":"030075",
         "gn:id":6536315,
         "gp:id":12680925,
         "qs_pg:id":1163805
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a76b79dc487a2ac6c6b1708ed7770091",
+    "wof:geomhash":"cb5378a4a6054f8ad167645d16404c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470605,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353924,
     "wof:name":"Pocenia",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2440,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

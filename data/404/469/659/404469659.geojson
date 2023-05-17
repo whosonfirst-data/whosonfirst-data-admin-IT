@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bovolone",
+    "eurostat:nuts_2021_id":"023012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023012",
+    "eurostat:population":16142,
+    "eurostat:population_year":2020,
     "geom:area":0.004732,
-    "geom:area_square_m":41187008.266716,
+    "geom:area_square_m":41187008.266722,
     "geom:bbox":"11.0628492413,45.2224794649,11.168704187,45.3176386483",
     "geom:latitude":45.264213,
     "geom:longitude":11.116648,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023012",
+        "eurostat:nuts_2021_id":"023012",
         "gn:id":6538234,
         "gp:id":12677056,
         "qs_pg:id":1292132
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5258db90999c81f2bbb1c1acf765381",
+    "wof:geomhash":"b46b0d5a554670a2974b1c97b6137635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469659,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353907,
     "wof:name":"Bovolone",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":16142,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

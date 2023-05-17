@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Appiano Gentile",
+    "eurostat:nuts_2021_id":"013010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013010",
+    "eurostat:population":7767,
+    "eurostat:population_year":2020,
     "geom:area":0.001482,
-    "geom:area_square_m":12788257.646199,
+    "geom:area_square_m":12788257.646198,
     "geom:bbox":"8.93921298801,45.7147059332,8.99901452122,45.759805016",
     "geom:latitude":45.736151,
     "geom:longitude":8.968083,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013010",
+        "eurostat:nuts_2021_id":"013010",
         "gn:id":6536493,
         "gp:id":12676153,
         "qs_pg:id":76033
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32dd2b2488036610c1ae3685c2ea93cb",
+    "wof:geomhash":"52995aa06bf21314028bfefbd0a0fee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404467943,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353882,
     "wof:name":"Appiano Gentile",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":7767,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

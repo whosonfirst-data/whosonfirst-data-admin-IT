@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belforte all'Isauro",
+    "eurostat:nuts_2021_id":"041005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041005",
+    "eurostat:population":742,
+    "eurostat:population_year":2020,
     "geom:area":0.001371,
-    "geom:area_square_m":12255151.020099,
+    "geom:area_square_m":12255151.020101,
     "geom:bbox":"12.3330422826,43.6831607814,12.399087538,43.7392398278",
     "geom:latitude":43.712237,
     "geom:longitude":12.365215,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041005",
+        "eurostat:nuts_2021_id":"041005",
         "gn:id":6536289,
         "gp:id":12676662,
         "qs_pg:id":961610
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0baa4677c29852c4aab1e76bfec924db",
+    "wof:geomhash":"cc73473841f9ba7250889495cf166fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459711,
-    "wof:lastmodified":1582328179,
+    "wof:lastmodified":1684353699,
     "wof:name":"Belforte All'Isauro",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":742,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

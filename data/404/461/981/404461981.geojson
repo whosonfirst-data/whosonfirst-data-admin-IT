@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piglio",
+    "eurostat:nuts_2021_id":"060053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060053",
+    "eurostat:population":4530,
+    "eurostat:population_year":2020,
     "geom:area":0.003826,
-    "geom:area_square_m":35256903.233264,
+    "geom:area_square_m":35256903.23326,
     "geom:bbox":"13.1024297563,41.7826149749,13.2018196538,41.8502167432",
     "geom:latitude":41.821249,
     "geom:longitude":13.146212,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060053",
+        "eurostat:nuts_2021_id":"060053",
         "gn:id":6541895,
         "gp:id":12681114,
         "qs_pg:id":1173137
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"612e01352fc5c52ed51c1a6a45c5d725",
+    "wof:geomhash":"f15ee0d9376810ad5558933658b0bd69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461981,
-    "wof:lastmodified":1582328150,
+    "wof:lastmodified":1684353750,
     "wof:name":"Piglio",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":4530,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

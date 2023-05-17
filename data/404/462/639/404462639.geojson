@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montelapiano",
+    "eurostat:nuts_2021_id":"069053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069053",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.000894,
-    "geom:area_square_m":8223184.554763,
+    "geom:area_square_m":8223184.554762,
     "geom:bbox":"14.3034592908,41.9477886821,14.3488121561,41.9846567581",
     "geom:latitude":41.967792,
     "geom:longitude":14.330957,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069053",
+        "eurostat:nuts_2021_id":"069053",
         "gn:id":6537485,
         "gp:id":12680520,
         "qs_pg:id":41599
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc7a35cc728ccdd0a57a3d231248c487",
+    "wof:geomhash":"d6d671fc0af42c39f186a18d197e56ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462639,
-    "wof:lastmodified":1582327870,
+    "wof:lastmodified":1684353762,
     "wof:name":"Montelapiano",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzomaggiore",
+    "eurostat:nuts_2021_id":"090059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090059",
+    "eurostat:population":2520,
+    "eurostat:population_year":2020,
     "geom:area":0.008358,
-    "geom:area_square_m":78749008.959808,
+    "geom:area_square_m":78749008.959801,
     "geom:bbox":"8.56885524959,40.2968355081,8.69904522057,40.4383646195",
     "geom:latitude":40.360895,
     "geom:longitude":8.64719,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090059",
+        "eurostat:nuts_2021_id":"090059",
         "gn:id":6539237,
         "gp:id":12681258,
         "qs_pg:id":242304
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5a8f7badafd16e23a87a93ddf5fb199",
+    "wof:geomhash":"be01353b6b26b36c8b711c7df1c3ac41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466819,
-    "wof:lastmodified":1582328188,
+    "wof:lastmodified":1684353859,
     "wof:name":"Pozzomaggiore",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2520,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

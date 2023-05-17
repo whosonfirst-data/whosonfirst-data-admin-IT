@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gubbio",
+    "eurostat:nuts_2021_id":"054024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054024",
+    "eurostat:population":31324,
+    "eurostat:population_year":2020,
     "geom:area":0.05828,
-    "geom:area_square_m":524199578.319939,
+    "geom:area_square_m":524199578.319949,
     "geom:bbox":"12.3739364301,43.1939347952,12.7096875553,43.5018492841",
     "geom:latitude":43.331023,
     "geom:longitude":12.54664,
@@ -194,6 +206,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -202,6 +216,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054024",
+        "eurostat:nuts_2021_id":"054024",
         "gn:id":6541111,
         "gp:id":12676399,
         "qs_pg:id":1079223
@@ -210,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a82b4b761685a4b87a56887ee4a361ca",
+    "wof:geomhash":"c875919a07cba726244562078688d494",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,10 +237,12 @@
         }
     ],
     "wof:id":404458117,
-    "wof:lastmodified":1582327949,
+    "wof:lastmodified":1684353664,
     "wof:name":"Gubbio",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":31324,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

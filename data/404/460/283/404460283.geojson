@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Visone",
+    "eurostat:nuts_2021_id":"006187",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006187",
+    "eurostat:population":1207,
+    "eurostat:population_year":2020,
     "geom:area":0.001426,
-    "geom:area_square_m":12545325.085236,
+    "geom:area_square_m":12545325.085235,
     "geom:bbox":"8.47991579202,44.6291121367,8.52986008511,44.6765738231",
     "geom:latitude":44.653905,
     "geom:longitude":8.508341,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006187",
+        "eurostat:nuts_2021_id":"006187",
         "gn:id":6543053,
         "gp:id":12682506,
         "qs_pg:id":43072
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7e9d30928d0d7f112e03b868223194a",
+    "wof:geomhash":"a626474df996eaa607d3a455e48a3845",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460283,
-    "wof:lastmodified":1582328011,
+    "wof:lastmodified":1684353714,
     "wof:name":"Visone",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1207,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

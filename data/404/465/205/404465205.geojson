@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ariano Irpino",
+    "eurostat:nuts_2021_id":"064005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064005",
+    "eurostat:population":21995,
+    "eurostat:population_year":2020,
     "geom:area":0.019923,
-    "geom:area_square_m":185449699.894875,
+    "geom:area_square_m":185449699.894874,
     "geom:bbox":"14.9897099788,41.0808085943,15.2237641254,41.2647769898",
     "geom:latitude":41.16862,
     "geom:longitude":15.111137,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064005",
+        "eurostat:nuts_2021_id":"064005",
         "gn:id":6538773,
         "gp:id":12676227,
         "qs_pg:id":1163411
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59f98e5da64682c9696aa9dc499dcd18",
+    "wof:geomhash":"ae24ae61d9b8b6246ccfda11127f477c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404465205,
-    "wof:lastmodified":1582327833,
+    "wof:lastmodified":1684353828,
     "wof:name":"Ariano Irpino",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":21995,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

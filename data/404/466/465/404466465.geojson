@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Favara",
+    "eurostat:nuts_2021_id":"084017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084017",
+    "eurostat:population":31751,
+    "eurostat:population_year":2020,
     "geom:area":0.008294,
-    "geom:area_square_m":81564800.637089,
+    "geom:area_square_m":81564800.637125,
     "geom:bbox":"13.6097604183,37.239217621,13.7356502365,37.3914586368",
     "geom:latitude":37.318274,
     "geom:longitude":13.67259,
@@ -101,6 +113,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -109,6 +123,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084017",
+        "eurostat:nuts_2021_id":"084017",
         "gn:id":6541339,
         "gp:id":12679222,
         "qs_pg:id":1208473
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"038227b3c17ad2619520294be657089b",
+    "wof:geomhash":"66198b4c46ab735877003eb0933c740c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404466465,
-    "wof:lastmodified":1582328193,
+    "wof:lastmodified":1684353850,
     "wof:name":"Favara",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":31751,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

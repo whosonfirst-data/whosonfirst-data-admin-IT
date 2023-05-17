@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Samugheo",
+    "eurostat:nuts_2021_id":"095045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095045",
+    "eurostat:population":2926,
+    "eurostat:population_year":2020,
     "geom:area":0.008573,
-    "geom:area_square_m":81268947.286928,
+    "geom:area_square_m":81268947.286936,
     "geom:bbox":"8.87826848646,39.8894030316,9.0179929108,39.9963211561",
     "geom:latitude":39.948011,
     "geom:longitude":8.948609,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095045",
+        "eurostat:nuts_2021_id":"095045",
         "gn:id":6539369,
         "gp:id":12681563,
         "qs_pg:id":1196078
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ffc5b4c330bfec612482231d52d29ace",
+    "wof:geomhash":"9706f2039aedbd1de5d39fc2b65e994c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467063,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353864,
     "wof:name":"Samugheo",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":2926,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

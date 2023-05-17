@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecatini-Terme",
+    "eurostat:nuts_2021_id":"047011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047011",
+    "eurostat:population":20995,
+    "eurostat:population_year":2020,
     "geom:area":0.00198,
     "geom:area_square_m":17643596.604343,
     "geom:bbox":"10.7572661862,43.8515663354,10.8202551069,43.9284514192",
@@ -41,6 +53,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -49,6 +63,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047011",
+        "eurostat:nuts_2021_id":"047011",
         "gn:id":6535985,
         "gp:id":12680485,
         "qs_pg:id":1292230
@@ -57,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5727b76cc4a300f34d9fb57b53a60fd2",
+    "wof:geomhash":"1dbe0ce3a93f321eaf2d6685242ddbeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404472711,
-    "wof:lastmodified":1582327909,
+    "wof:lastmodified":1684353968,
     "wof:name":"Montecatini-Terme",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":20995,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

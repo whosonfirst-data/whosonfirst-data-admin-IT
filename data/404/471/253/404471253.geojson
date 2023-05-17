@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poncarale",
+    "eurostat:nuts_2021_id":"017147",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017147",
+    "eurostat:population":5245,
+    "eurostat:population_year":2020,
     "geom:area":0.001455,
     "geom:area_square_m":12622237.472659,
     "geom:bbox":"10.1464518883,45.4406451744,10.219625282,45.4759494345",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017147",
+        "eurostat:nuts_2021_id":"017147",
         "gn:id":6540615,
         "gp:id":12681202,
         "qs_pg:id":280885
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c8f28e5337426b9dac02e39139f1fda",
+    "wof:geomhash":"14d3969a1a00ca1a9e4420a401ac76da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471253,
-    "wof:lastmodified":1582327729,
+    "wof:lastmodified":1684353936,
     "wof:name":"Poncarale",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":5245,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

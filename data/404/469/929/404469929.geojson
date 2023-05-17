@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte nelle Alpi",
+    "eurostat:nuts_2021_id":"025040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025040",
+    "eurostat:population":8141,
+    "eurostat:population_year":2020,
     "geom:area":0.006767,
-    "geom:area_square_m":57953929.906263,
+    "geom:area_square_m":57953929.90627,
     "geom:bbox":"12.2293971799,46.0903244433,12.3433886882,46.2236725933",
     "geom:latitude":46.166505,
     "geom:longitude":12.293439,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025040",
+        "eurostat:nuts_2021_id":"025040",
         "gn:id":6536383,
         "gp:id":12677257,
         "qs_pg:id":1207725
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32ec2f54514421b2386f176804b6a9c9",
+    "wof:geomhash":"4b9d65170b8ad79c488b87f89fbcf72c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469929,
-    "wof:lastmodified":1582328041,
+    "wof:lastmodified":1684353912,
     "wof:name":"Ponte Nelle Alpi",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":8141,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

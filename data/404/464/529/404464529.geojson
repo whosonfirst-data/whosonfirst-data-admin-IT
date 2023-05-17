@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caulonia",
+    "eurostat:nuts_2021_id":"080025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080025",
+    "eurostat:population":7091,
+    "eurostat:population_year":2020,
     "geom:area":0.010394,
-    "geom:area_square_m":100734284.218595,
+    "geom:area_square_m":100734284.218683,
     "geom:bbox":"16.3093589664,38.3303743852,16.4871799542,38.4784037204",
     "geom:latitude":38.39449,
     "geom:longitude":16.400144,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080025",
+        "eurostat:nuts_2021_id":"080025",
         "gn:id":6539098,
         "gp:id":12678393,
         "qs_pg:id":247799
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71aa43500c467390d1a443c342c5ebcf",
+    "wof:geomhash":"baf78aa2d9d2916e0c27c23a97f76564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464529,
-    "wof:lastmodified":1582327798,
+    "wof:lastmodified":1684353808,
     "wof:name":"Caulonia",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":7091,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

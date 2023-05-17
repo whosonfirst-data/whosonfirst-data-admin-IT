@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conselice",
+    "eurostat:nuts_2021_id":"039008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039008",
+    "eurostat:population":9709,
+    "eurostat:population_year":2020,
     "geom:area":0.006812,
-    "geom:area_square_m":60050367.780453,
+    "geom:area_square_m":60050367.780446,
     "geom:bbox":"11.7787494715,44.468712296,11.9162968958,44.5791375616",
     "geom:latitude":44.527233,
     "geom:longitude":11.833716,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039008",
+        "eurostat:nuts_2021_id":"039008",
         "gn:id":6540433,
         "gp:id":12678868,
         "qs_pg:id":390379
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f753d76d38d7137d4e97276f582c992",
+    "wof:geomhash":"6a05284063932b0a0fb2bcf0e932c490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472435,
-    "wof:lastmodified":1582327905,
+    "wof:lastmodified":1684353961,
     "wof:name":"Conselice",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":9709,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

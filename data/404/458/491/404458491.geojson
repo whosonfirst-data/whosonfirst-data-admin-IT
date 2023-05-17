@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Margherita Ligure",
+    "eurostat:nuts_2021_id":"010054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010054",
+    "eurostat:population":8973,
+    "eurostat:population_year":2020,
     "geom:area":0.001134,
     "geom:area_square_m":10032877.942937,
     "geom:bbox":"9.16885421578,44.3101727751,9.22164512326,44.3459790502",
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010054",
+        "eurostat:nuts_2021_id":"010054",
         "gn:id":6537065,
         "gp:id":12680926,
         "qs_pg:id":41932
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3439ab0d4d7f14407a1129bfcd1a499d",
+    "wof:geomhash":"8b44653e13fca94bc6e6d6c7933f6c88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404458491,
-    "wof:lastmodified":1582327946,
+    "wof:lastmodified":1684353671,
     "wof:name":"Santa Margherita Ligure",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":8973,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

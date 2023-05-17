@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_110002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barletta",
+    "eurostat:nuts_2021_id":"110002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF48",
+    "eurostat:nuts_2021_level_lau":"110002",
+    "eurostat:population":94316,
+    "eurostat:population_year":2020,
     "geom:area":0.015923,
-    "geom:area_square_m":147945335.947732,
+    "geom:area_square_m":147945177.503049,
     "geom:bbox":"16.067107,41.229476,16.354911,41.360196",
     "geom:latitude":41.28902,
     "geom:longitude":16.216289,
@@ -212,6 +224,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -220,6 +234,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_110002",
+        "eurostat:nuts_2021_id":"110002",
         "gn:id":6537546,
         "gp:id":12676586,
         "qs_pg:id":894963
@@ -228,7 +244,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc67715c88d123f277fd3aa4fa8fad0f",
+    "wof:geomhash":"6344fe0cf09541014d045a390b69cec5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -239,10 +255,12 @@
         }
     ],
     "wof:id":404456677,
-    "wof:lastmodified":1636496853,
+    "wof:lastmodified":1684353630,
     "wof:name":"Barletta",
     "wof:parent_id":85685731,
     "wof:placetype":"localadmin",
+    "wof:population":94316,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

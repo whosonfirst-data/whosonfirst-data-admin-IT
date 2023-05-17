@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ugento",
+    "eurostat:nuts_2021_id":"075090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075090",
+    "eurostat:population":12360,
+    "eurostat:population_year":2020,
     "geom:area":0.010426,
-    "geom:area_square_m":98877008.89756,
+    "geom:area_square_m":98877008.897531,
     "geom:bbox":"18.0860303648,39.847073143,18.2243555194,39.9951368072",
     "geom:latitude":39.916868,
     "geom:longitude":18.162787,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075090",
+        "eurostat:nuts_2021_id":"075090",
         "gn:id":6541269,
         "gp:id":12679525,
         "qs_pg:id":1195299
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8fa4a2cb4c54362bd39728f575434f4",
+    "wof:geomhash":"ac28e4f2c335307093ac1d1b53edd32a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456657,
-    "wof:lastmodified":1582328054,
+    "wof:lastmodified":1684353629,
     "wof:name":"Ugento",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":12360,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

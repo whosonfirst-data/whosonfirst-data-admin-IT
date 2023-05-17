@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni Rotondo",
+    "eurostat:nuts_2021_id":"071046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071046",
+    "eurostat:population":27011,
+    "eurostat:population_year":2020,
     "geom:area":0.028111,
-    "geom:area_square_m":259706293.198701,
+    "geom:area_square_m":259706293.198721,
     "geom:bbox":"15.6362013965,41.5134840174,15.8747199527,41.7644293953",
     "geom:latitude":41.656008,
     "geom:longitude":15.750382,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071046",
+        "eurostat:nuts_2021_id":"071046",
         "gn:id":6540744,
         "gp:id":12679594,
         "qs_pg:id":1195336
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"273f19b55f5b41cb0ca05cc3672edb2f",
+    "wof:geomhash":"637daaa5c0b38ad22ee3340fa39de774",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404458941,
-    "wof:lastmodified":1582327947,
+    "wof:lastmodified":1684353682,
     "wof:name":"San Giovanni Rotondo",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":27011,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

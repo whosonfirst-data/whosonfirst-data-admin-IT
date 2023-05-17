@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montanera",
+    "eurostat:nuts_2021_id":"004136",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004136",
+    "eurostat:population":741,
+    "eurostat:population_year":2020,
     "geom:area":0.001315,
-    "geom:area_square_m":11609776.574656,
+    "geom:area_square_m":11609776.574657,
     "geom:bbox":"7.64267592334,44.4403071296,7.7093315129,44.4778306715",
     "geom:latitude":44.458373,
     "geom:longitude":7.674612,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004136",
+        "eurostat:nuts_2021_id":"004136",
         "gn:id":6543454,
         "gp:id":20075779,
         "qs_pg:id":498367
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eae15d3fa5f541be0f3e514f81964b22",
+    "wof:geomhash":"9e78b411d3f9bfc288e409ba551f1a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455655,
-    "wof:lastmodified":1582327819,
+    "wof:lastmodified":1684353608,
     "wof:name":"Montanera",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":741,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

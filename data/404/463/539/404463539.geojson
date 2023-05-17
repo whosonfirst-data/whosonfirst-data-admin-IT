@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ronco Briantino",
+    "eurostat:nuts_2021_id":"108038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108038",
+    "eurostat:population":3540,
+    "eurostat:population_year":2020,
     "geom:area":0.000343,
     "geom:area_square_m":2964104.401111,
     "geom:bbox":"9.3853177411,45.6558191824,9.42134967972,45.6769357114",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108038",
+        "eurostat:nuts_2021_id":"108038",
         "gn:id":6543135,
         "gp:id":12682670,
         "qs_pg:id":1153181
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2233cc19829b3c85319f2926149ad0d2",
+    "wof:geomhash":"fb64063e32cda26f953b3bce8425866f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463539,
-    "wof:lastmodified":1582327777,
+    "wof:lastmodified":1684353782,
     "wof:name":"Ronco Briantino",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":3540,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

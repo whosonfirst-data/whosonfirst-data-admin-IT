@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Battaglia Terme",
+    "eurostat:nuts_2021_id":"028011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028011",
+    "eurostat:population":3900,
+    "eurostat:population_year":2020,
     "geom:area":0.000714,
-    "geom:area_square_m":6213039.086216,
+    "geom:area_square_m":6213039.086215,
     "geom:bbox":"11.7577261872,45.2713218197,11.7938071879,45.3115281991",
     "geom:latitude":45.294807,
     "geom:longitude":11.777688,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028011",
+        "eurostat:nuts_2021_id":"028011",
         "gn:id":6536665,
         "gp:id":12676635,
         "qs_pg:id":225373
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a029b37dfa1b32ef16c7397ac59c925e",
+    "wof:geomhash":"10e0c988f4c8e29de36964b4fcfcb588",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470223,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353918,
     "wof:name":"Battaglia Terme",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3900,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

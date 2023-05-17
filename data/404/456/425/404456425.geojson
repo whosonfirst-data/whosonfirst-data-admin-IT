@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gassino Torinese",
+    "eurostat:nuts_2021_id":"001112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001112",
+    "eurostat:population":9500,
+    "eurostat:population_year":2020,
     "geom:area":0.002347,
-    "geom:area_square_m":20478652.220278,
+    "geom:area_square_m":20478652.220277,
     "geom:bbox":"7.80192826549,45.0776242716,7.8741821431,45.1542072707",
     "geom:latitude":45.117704,
     "geom:longitude":7.838309,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001112",
+        "eurostat:nuts_2021_id":"001112",
         "gn:id":6537275,
         "gp:id":12679507,
         "qs_pg:id":247033
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6889b26e6d2f871aaee4aefdd861371b",
+    "wof:geomhash":"2ad494d169f6ab9a70af1ad0f32ffa22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456425,
-    "wof:lastmodified":1582328049,
+    "wof:lastmodified":1684353624,
     "wof:name":"Gassino Torinese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":9500,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

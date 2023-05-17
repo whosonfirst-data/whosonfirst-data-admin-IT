@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guardavalle",
+    "eurostat:nuts_2021_id":"079061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079061",
+    "eurostat:population":4410,
+    "eurostat:population_year":2020,
     "geom:area":0.006164,
-    "geom:area_square_m":59644302.251332,
+    "geom:area_square_m":59644302.251347,
     "geom:bbox":"16.4060251402,38.4632813619,16.5820623396,38.5632513798",
     "geom:latitude":38.507092,
     "geom:longitude":16.50053,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079061",
+        "eurostat:nuts_2021_id":"079061"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"411d8759e8645e189adda44799ceaba6",
+    "wof:geomhash":"468660ddf96104edab9ccdc100c26f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464367,
-    "wof:lastmodified":1566723232,
+    "wof:lastmodified":1684353804,
     "wof:name":"Guardavalle",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":4410,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

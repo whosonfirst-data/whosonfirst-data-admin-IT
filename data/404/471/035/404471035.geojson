@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceto",
+    "eurostat:nuts_2021_id":"017050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017050",
+    "eurostat:population":1814,
+    "eurostat:population_year":2020,
     "geom:area":0.003753,
-    "geom:area_square_m":32240161.820775,
+    "geom:area_square_m":32240161.820773,
     "geom:bbox":"10.3348841319,45.9591586946,10.4721805339,46.0273172833",
     "geom:latitude":45.993923,
     "geom:longitude":10.411509,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017050",
+        "eurostat:nuts_2021_id":"017050",
         "gn:id":6536171,
         "gp:id":12678569,
         "qs_pg:id":203929
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d55f81efc1be10b9e6da002eeb11ba8",
+    "wof:geomhash":"1ce98c2db30fa148c42a024d65d98417",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404471035,
-    "wof:lastmodified":1582327729,
+    "wof:lastmodified":1684353932,
     "wof:name":"Ceto",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1814,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

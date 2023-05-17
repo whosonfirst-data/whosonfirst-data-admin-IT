@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Botrugno",
+    "eurostat:nuts_2021_id":"075009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075009",
+    "eurostat:population":2694,
+    "eurostat:population_year":2020,
     "geom:area":0.001014,
     "geom:area_square_m":9597959.990753,
     "geom:bbox":"18.265009275,40.031241469,18.3410910024,40.0817237619",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_075009",
+        "eurostat:nuts_2021_id":"075009"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bf21de6c3773563e595b4a5ff1938648",
+    "wof:geomhash":"045cde501c5f1553b3882d9ea64494af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404463281,
-    "wof:lastmodified":1566723176,
+    "wof:lastmodified":1684353776,
     "wof:name":"Botrugno",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":2694,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

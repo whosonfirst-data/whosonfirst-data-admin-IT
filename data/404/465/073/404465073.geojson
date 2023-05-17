@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terrasini",
+    "eurostat:nuts_2021_id":"082071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082071",
+    "eurostat:population":12676,
+    "eurostat:population_year":2020,
     "geom:area":0.002034,
-    "geom:area_square_m":19788367.909256,
+    "geom:area_square_m":19788367.909259,
     "geom:bbox":"13.0523192422,38.0799329372,13.1085201184,38.1595968531",
     "geom:latitude":38.117829,
     "geom:longitude":13.083357,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082071",
+        "eurostat:nuts_2021_id":"082071",
         "gn:id":6537752,
         "gp:id":12682167,
         "qs_pg:id":42848
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61721b8df025afebda3f08dd83137f45",
+    "wof:geomhash":"e25ea7c59b847b551e3b6989b7c73388",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465073,
-    "wof:lastmodified":1582327839,
+    "wof:lastmodified":1684353825,
     "wof:name":"Terrasini",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":12676,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

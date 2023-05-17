@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Angolo Terme",
+    "eurostat:nuts_2021_id":"017006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017006",
+    "eurostat:population":2344,
+    "eurostat:population_year":2020,
     "geom:area":0.003546,
-    "geom:area_square_m":30506836.127131,
+    "geom:area_square_m":30506836.127133,
     "geom:bbox":"10.0906977821,45.8685336535,10.1788228605,45.9380976306",
     "geom:latitude":45.906957,
     "geom:longitude":10.132338,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017006",
+        "eurostat:nuts_2021_id":"017006",
         "gn:id":6540182,
         "gp:id":12676096,
         "qs_pg:id":271936
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ceffe35199813b007e7e839453af40e",
+    "wof:geomhash":"444449ce7ba0e226f6e0ae1513eb3ed3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470937,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353930,
     "wof:name":"Angolo Terme",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2344,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

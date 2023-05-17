@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pornassio",
+    "eurostat:nuts_2021_id":"008046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008046",
+    "eurostat:population":670,
+    "eurostat:population_year":2020,
     "geom:area":0.003059,
-    "geom:area_square_m":27175156.664399,
+    "geom:area_square_m":27175156.664401,
     "geom:bbox":"7.81572049461,44.0365146912,7.8915401314,44.1209253091",
     "geom:latitude":44.075899,
     "geom:longitude":7.859669,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008046",
+        "eurostat:nuts_2021_id":"008046",
         "gn:id":6536115,
         "gp:id":20076416,
         "qs_pg:id":1095600
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"313cc71f0844ab3446dbf36d161f6188",
+    "wof:geomhash":"de60c02de9e5b012eca8e26546673fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471841,
-    "wof:lastmodified":1582327725,
+    "wof:lastmodified":1684353946,
     "wof:name":"Pornassio",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":670,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

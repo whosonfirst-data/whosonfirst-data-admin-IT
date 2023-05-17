@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riola Sardo",
+    "eurostat:nuts_2021_id":"095043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095043",
+    "eurostat:population":2101,
+    "eurostat:population_year":2020,
     "geom:area":0.005077,
-    "geom:area_square_m":48098435.99287,
+    "geom:area_square_m":48098435.992866,
     "geom:bbox":"8.40958711544,39.9561794418,8.56809313211,40.0265441617",
     "geom:latitude":39.991563,
     "geom:longitude":8.492584,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095043",
+        "eurostat:nuts_2021_id":"095043",
         "gn:id":6537975,
         "gp:id":20076849,
         "qs_pg:id":213903
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aaf67054ff9df4b87148a05433205ed0",
+    "wof:geomhash":"b7655814ca0de625cb19da553a1e07e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404467059,
-    "wof:lastmodified":1582327986,
+    "wof:lastmodified":1684353864,
     "wof:name":"Riola Sardo",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":2101,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

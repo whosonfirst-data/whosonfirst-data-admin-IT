@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scorz\u00e8",
+    "eurostat:nuts_2021_id":"027037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027037",
+    "eurostat:population":19070,
+    "eurostat:population_year":2020,
     "geom:area":0.003835,
-    "geom:area_square_m":33189046.964237,
+    "geom:area_square_m":33189046.964241,
     "geom:bbox":"12.0722922804,45.5457821678,12.2123831323,45.6142744772",
     "geom:latitude":45.575925,
     "geom:longitude":12.141243,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027037",
+        "eurostat:nuts_2021_id":"027037",
         "gn:id":6538323,
         "gp:id":12677013,
         "qs_pg:id":1286531
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"decf58750372af7c42a54f915caf0150",
+    "wof:geomhash":"efdf41fe9f63f0375c23de196fc4f855",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470183,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353917,
     "wof:name":"Scorz\u00e8",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":19070,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

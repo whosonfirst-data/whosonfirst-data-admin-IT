@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Gennaro Vesuviano",
+    "eurostat:nuts_2021_id":"063066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063066",
+    "eurostat:population":12173,
+    "eurostat:population_year":2020,
     "geom:area":0.000746,
     "geom:area_square_m":6974422.356104,
     "geom:bbox":"14.5083755748,40.8318506632,14.5435557315,40.8756770043",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063066",
+        "eurostat:nuts_2021_id":"063066",
         "gn:id":6542062,
         "gp:id":12681625,
         "qs_pg:id":212131
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0f72049da977fd2f212a720f60a9fc4",
+    "wof:geomhash":"b859a7fe561d23755f1deb3215c3791d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465135,
-    "wof:lastmodified":1582327824,
+    "wof:lastmodified":1684353826,
     "wof:name":"San Gennaro Vesuviano",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":12173,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

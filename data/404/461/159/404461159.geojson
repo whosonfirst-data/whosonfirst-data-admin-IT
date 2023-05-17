@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montefortino",
+    "eurostat:nuts_2021_id":"109015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109015",
+    "eurostat:population":1108,
+    "eurostat:population_year":2020,
     "geom:area":0.00865,
-    "geom:area_square_m":78309711.639116,
+    "geom:area_square_m":78309711.639099,
     "geom:bbox":"13.2161066933,42.8901307307,13.4112769459,42.9672513888",
     "geom:latitude":42.934746,
     "geom:longitude":13.307132,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109015",
+        "eurostat:nuts_2021_id":"109015",
         "gn:id":6541074,
         "gp:id":12678561,
         "qs_pg:id":1296416
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"391985f68ca41bfcdcfe76d1e384c5d8",
+    "wof:geomhash":"5916f222d23c635176508cdbaa56daf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461159,
-    "wof:lastmodified":1582328124,
+    "wof:lastmodified":1684353733,
     "wof:name":"Montefortino",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":1108,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Besano",
+    "eurostat:nuts_2021_id":"012011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012011",
+    "eurostat:population":2549,
+    "eurostat:population_year":2020,
     "geom:area":0.000398,
     "geom:area_square_m":3426673.914886,
     "geom:bbox":"8.88245234458,45.8725228955,8.92374061168,45.9011236149",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012011",
+        "eurostat:nuts_2021_id":"012011",
         "gn:id":6542052,
         "gp:id":20076014,
         "qs_pg:id":999001
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93a1952d2f809a71206d5b2175e6be10",
+    "wof:geomhash":"d89dbc3ce3f7e41ba52095815d0bbeb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404467397,
-    "wof:lastmodified":1582327968,
+    "wof:lastmodified":1684353873,
     "wof:name":"Besano",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":2549,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

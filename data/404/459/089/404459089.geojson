@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_032002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monrupino-Repentabor",
+    "eurostat:nuts_2021_id":"032002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH44",
+    "eurostat:nuts_2021_level_lau":"032002",
+    "eurostat:population":863,
+    "eurostat:population_year":2020,
     "geom:area":0.001453,
-    "geom:area_square_m":12547903.537815,
+    "geom:area_square_m":12547903.537814,
     "geom:bbox":"13.7735244793,45.6895408816,13.8358980486,45.7460532387",
     "geom:latitude":45.717354,
     "geom:longitude":13.802993,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_032002",
+        "eurostat:nuts_2021_id":"032002",
         "gn:id":3173130,
         "gp:id":12680422,
         "qs_pg:id":1150767
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"810cc01bfbb955e0181d340557e941cd",
+    "wof:geomhash":"71b3c2c65a7d3bed7275dfc90d2ff2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404459089,
-    "wof:lastmodified":1582328170,
+    "wof:lastmodified":1684353685,
     "wof:name":"Monrupino",
     "wof:parent_id":85685329,
     "wof:placetype":"localadmin",
+    "wof:population":863,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

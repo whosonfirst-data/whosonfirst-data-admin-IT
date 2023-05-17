@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apiro",
+    "eurostat:nuts_2021_id":"043002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043002",
+    "eurostat:population":2126,
+    "eurostat:population_year":2020,
     "geom:area":0.005962,
-    "geom:area_square_m":53581251.716582,
+    "geom:area_square_m":53581251.716578,
     "geom:bbox":"13.0515043685,43.323074954,13.1618122602,43.4360487735",
     "geom:latitude":43.381651,
     "geom:longitude":13.108123,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043002",
+        "eurostat:nuts_2021_id":"043002",
         "gn:id":6536784,
         "gp:id":12676147,
         "qs_pg:id":416439
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09e954c37446bc1b4466e15e6b5ad9c0",
+    "wof:geomhash":"548f8635c3f9720ab9640179a8f83b52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404458593,
-    "wof:lastmodified":1582327936,
+    "wof:lastmodified":1684353673,
     "wof:name":"Apiro",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":2126,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

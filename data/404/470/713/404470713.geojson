@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trasaghis",
+    "eurostat:nuts_2021_id":"030124",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030124",
+    "eurostat:population":2171,
+    "eurostat:population_year":2020,
     "geom:area":0.009075,
-    "geom:area_square_m":77537332.753865,
+    "geom:area_square_m":77537332.753864,
     "geom:bbox":"12.9536589623,46.2329320761,13.112744495,46.3397180848",
     "geom:latitude":46.294816,
     "geom:longitude":13.02951,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030124",
+        "eurostat:nuts_2021_id":"030124",
         "gn:id":6538398,
         "gp:id":12675940,
         "qs_pg:id":1142775
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81525a4883ac3805da35f4c90d518a36",
+    "wof:geomhash":"03e06d3d29d1ec005c70183eee55d704",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470713,
-    "wof:lastmodified":1582327745,
+    "wof:lastmodified":1684353926,
     "wof:name":"Trasaghis",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2171,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

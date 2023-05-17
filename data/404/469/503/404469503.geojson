@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maleo",
+    "eurostat:nuts_2021_id":"098035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098035",
+    "eurostat:population":3083,
+    "eurostat:population_year":2020,
     "geom:area":0.002272,
-    "geom:area_square_m":19804515.922905,
+    "geom:area_square_m":19804515.922906,
     "geom:bbox":"9.72734918614,45.1388652434,9.80498679348,45.1906132018",
     "geom:latitude":45.162613,
     "geom:longitude":9.763682,
@@ -153,6 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098035",
+        "eurostat:nuts_2021_id":"098035",
         "gn:id":6539417,
         "gp:id":12679870,
         "qs_pg:id":968670
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9bf7789e147713abdcc0fcbd647eeba3",
+    "wof:geomhash":"a835f52513d090c68d4b95f01cd7d9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404469503,
-    "wof:lastmodified":1582328025,
+    "wof:lastmodified":1684353905,
     "wof:name":"Maleo",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":3083,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

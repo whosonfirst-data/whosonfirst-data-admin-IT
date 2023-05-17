@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calascio",
+    "eurostat:nuts_2021_id":"066014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066014",
+    "eurostat:population":136,
+    "eurostat:population_year":2020,
     "geom:area":0.004298,
-    "geom:area_square_m":39270138.128313,
+    "geom:area_square_m":39270138.128317,
     "geom:bbox":"13.6600955722,42.3021628445,13.7423817903,42.4431285854",
     "geom:latitude":42.363714,
     "geom:longitude":13.691574,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066014",
+        "eurostat:nuts_2021_id":"066014",
         "gn:id":6541453,
         "gp:id":12677291,
         "qs_pg:id":1310865
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ffbd08e013503a68bab677220a137ec",
+    "wof:geomhash":"cf5ce35bdddc87f872f320fb368aa964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462099,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353752,
     "wof:name":"Calascio",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

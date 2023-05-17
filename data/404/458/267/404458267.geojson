@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013233",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Val Rezzo",
+    "eurostat:nuts_2021_id":"013233",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013233",
+    "eurostat:population":162,
+    "eurostat:population_year":2020,
     "geom:area":0.000769,
     "geom:area_square_m":6600953.119444,
     "geom:bbox":"9.07767915867,46.0554561856,9.12379440409,46.0850125243",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013233",
+        "eurostat:nuts_2021_id":"013233",
         "gn:id":6542546,
         "gp:id":20076132,
         "qs_pg:id":50495
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd7e9b75c66f53f2d16957a4ba65ec59",
+    "wof:geomhash":"f175528f7c4d668f5bf37397b150a527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404458267,
-    "wof:lastmodified":1582327945,
+    "wof:lastmodified":1684353667,
     "wof:name":"Val Rezzo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":162,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

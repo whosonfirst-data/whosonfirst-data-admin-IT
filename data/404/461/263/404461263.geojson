@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Civita Castellana",
+    "eurostat:nuts_2021_id":"056021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056021",
+    "eurostat:population":15991,
+    "eurostat:population_year":2020,
     "geom:area":0.009184,
-    "geom:area_square_m":83995171.698001,
+    "geom:area_square_m":83995171.69798,
     "geom:bbox":"12.3561220499,42.2475295271,12.5196785589,42.3588656329",
     "geom:latitude":42.30114,
     "geom:longitude":12.437204,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056021",
+        "eurostat:nuts_2021_id":"056021",
         "gn:id":6541123,
         "gp:id":12676921,
         "qs_pg:id":885686
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f76148a90ac23496e470d305871598e4",
+    "wof:geomhash":"07ae3ebeda97344efa0b5bffef196836",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404461263,
-    "wof:lastmodified":1582328146,
+    "wof:lastmodified":1684353735,
     "wof:name":"Civita Castellana",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":15991,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

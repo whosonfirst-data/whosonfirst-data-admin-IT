@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erli",
+    "eurostat:nuts_2021_id":"009028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009028",
+    "eurostat:population":223,
+    "eurostat:population_year":2020,
     "geom:area":0.001883,
     "geom:area_square_m":16708860.7358,
     "geom:bbox":"8.04295129103,44.1204023078,8.11372373855,44.1753343469",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009028",
+        "eurostat:nuts_2021_id":"009028",
         "gn:id":6536082,
         "gp:id":12676722,
         "qs_pg:id":399930
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf24071b73a3fc9a008fd0b39d40e21a",
+    "wof:geomhash":"a1a2e7e8b756cbf2097a1aa0e06f5987",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467453,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353874,
     "wof:name":"Erli",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

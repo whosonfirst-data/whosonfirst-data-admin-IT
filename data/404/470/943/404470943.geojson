@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnolo Mella",
+    "eurostat:nuts_2021_id":"017009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017009",
+    "eurostat:population":12619,
+    "eurostat:population_year":2020,
     "geom:area":0.003606,
-    "geom:area_square_m":31293852.723256,
+    "geom:area_square_m":31293852.723248,
     "geom:bbox":"10.1352990248,45.3902447897,10.2337712954,45.4502675446",
     "geom:latitude":45.421569,
     "geom:longitude":10.183564,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017009",
+        "eurostat:nuts_2021_id":"017009",
         "gn:id":6540604,
         "gp:id":12676465,
         "qs_pg:id":1163546
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee1995f3c8a13afc3381388f6494a8b7",
+    "wof:geomhash":"f1641977acd09bb9131cd51d614798e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470943,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353930,
     "wof:name":"Bagnolo Mella",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":12619,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

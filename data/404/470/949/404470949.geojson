@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barghe",
+    "eurostat:nuts_2021_id":"017012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017012",
+    "eurostat:population":1159,
+    "eurostat:population_year":2020,
     "geom:area":0.000635,
-    "geom:area_square_m":5481949.007561,
+    "geom:area_square_m":5481949.007559,
     "geom:bbox":"10.3846354014,45.6622179377,10.4276671128,45.6976816588",
     "geom:latitude":45.682237,
     "geom:longitude":10.406522,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017012",
+        "eurostat:nuts_2021_id":"017012",
         "gn:id":6536166,
         "gp:id":12676576,
         "qs_pg:id":203738
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84575fea02180f4a4f2de344e72f6bcb",
+    "wof:geomhash":"d9bcd1058c23cfe62e7bc27c685d46fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470949,
-    "wof:lastmodified":1582327746,
+    "wof:lastmodified":1684353930,
     "wof:name":"Barghe",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1159,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

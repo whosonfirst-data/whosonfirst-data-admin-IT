@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio di Lomellina",
+    "eurostat:nuts_2021_id":"018136",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018136",
+    "eurostat:population":1060,
+    "eurostat:population_year":2020,
     "geom:area":0.002916,
-    "geom:area_square_m":25416723.783315,
+    "geom:area_square_m":25416723.783314,
     "geom:bbox":"8.73662769621,45.1441666601,8.82559590573,45.205784349",
     "geom:latitude":45.174341,
     "geom:longitude":8.784371,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_018136",
+        "eurostat:nuts_2021_id":"018136"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3caa5a2ca78ab7cf2c11ddaeba9eee1d",
+    "wof:geomhash":"cd829d0136ced9aef16aaf2222a86322",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404471585,
-    "wof:lastmodified":1566723124,
+    "wof:lastmodified":1684353942,
     "wof:name":"San Giorgio Di Lomellina",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1060,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

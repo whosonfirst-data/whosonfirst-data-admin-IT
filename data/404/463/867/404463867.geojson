@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarteano",
+    "eurostat:nuts_2021_id":"052031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052031",
+    "eurostat:population":4625,
+    "eurostat:population_year":2020,
     "geom:area":0.009354,
-    "geom:area_square_m":84620646.483678,
+    "geom:area_square_m":84620646.483679,
     "geom:bbox":"11.7574111568,42.9123566886,11.917523722,43.0312596028",
     "geom:latitude":42.981715,
     "geom:longitude":11.840143,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052031",
+        "eurostat:nuts_2021_id":"052031",
         "gn:id":6538604,
         "gp:id":12678347,
         "qs_pg:id":1315719
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46731d89f2e1e48824a3b02d5b5b336b",
+    "wof:geomhash":"13511f4bd6bd2a4c8344fb4fa7a56bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463867,
-    "wof:lastmodified":1582327771,
+    "wof:lastmodified":1684353788,
     "wof:name":"Sarteano",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":4625,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

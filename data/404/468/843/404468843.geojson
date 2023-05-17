@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casale Cremasco-Vidolasco",
+    "eurostat:nuts_2021_id":"019017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019017",
+    "eurostat:population":1876,
+    "eurostat:population_year":2020,
     "geom:area":0.001058,
-    "geom:area_square_m":9179524.511226,
+    "geom:area_square_m":9179524.511225,
     "geom:bbox":"9.69933179777,45.4137752479,9.73531785977,45.4610292569",
     "geom:latitude":45.440741,
     "geom:longitude":9.717694,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019017",
+        "eurostat:nuts_2021_id":"019017",
         "gn:id":6535994,
         "gp:id":12678184,
         "qs_pg:id":1020160
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3cdcb6d887ba56ab270d3eca81ae992",
+    "wof:geomhash":"325f32146ff60d7de68c0b8bb0aadbfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404468843,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353895,
     "wof:name":"Casale Cremasco-Vidolasco",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1876,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

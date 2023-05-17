@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camagna Monferrato",
+    "eurostat:nuts_2021_id":"006026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006026",
+    "eurostat:population":478,
+    "eurostat:population_year":2020,
     "geom:area":0.001057,
-    "geom:area_square_m":9236378.596337,
+    "geom:area_square_m":9236378.596336,
     "geom:bbox":"8.41373568769,44.9974823881,8.4549397521,45.0446183703",
     "geom:latitude":45.021606,
     "geom:longitude":8.434288,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006026",
+        "eurostat:nuts_2021_id":"006026",
         "gn:id":6543512,
         "gp:id":12679407,
         "qs_pg:id":1016791
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd9d42050d240652b447d5c2686e3b34",
+    "wof:geomhash":"b8beda8c27668f087c908a1032204608",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460033,
-    "wof:lastmodified":1582328017,
+    "wof:lastmodified":1684353708,
     "wof:name":"Camagna Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":478,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

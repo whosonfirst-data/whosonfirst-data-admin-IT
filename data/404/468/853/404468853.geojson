@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalmaggiore",
+    "eurostat:nuts_2021_id":"019021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019021",
+    "eurostat:population":15481,
+    "eurostat:population_year":2020,
     "geom:area":0.007366,
-    "geom:area_square_m":64422803.769461,
+    "geom:area_square_m":64422803.769473,
     "geom:bbox":"10.3825750183,44.9371590113,10.5975053313,45.04341697",
     "geom:latitude":44.986935,
     "geom:longitude":10.454361,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019021",
+        "eurostat:nuts_2021_id":"019021",
         "gn:id":6541567,
         "gp:id":12677978,
         "qs_pg:id":241659
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ec2cb1ebd5d573238b8d21913df23d6",
+    "wof:geomhash":"3126d0e5e87373b76a72953d925092f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468853,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353895,
     "wof:name":"Casalmaggiore",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":15481,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

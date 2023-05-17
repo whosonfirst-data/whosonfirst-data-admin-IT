@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teano",
+    "eurostat:nuts_2021_id":"061091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061091",
+    "eurostat:population":11952,
+    "eurostat:population_year":2020,
     "geom:area":0.009572,
-    "geom:area_square_m":88994003.909064,
+    "geom:area_square_m":88994003.909061,
     "geom:bbox":"13.9872009006,41.1756749736,14.1301687624,41.2946109051",
     "geom:latitude":41.245095,
     "geom:longitude":14.059369,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061091",
+        "eurostat:nuts_2021_id":"061091",
         "gn:id":6537311,
         "gp:id":12677935,
         "qs_pg:id":50891
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9647150f7bb64c3e26434514f93fb3b",
+    "wof:geomhash":"3040b8c65b8459fad3c55b18df50c17c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404460663,
-    "wof:lastmodified":1582328015,
+    "wof:lastmodified":1684353723,
     "wof:name":"Teano",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":11952,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

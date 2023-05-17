@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gragnano Trebbiense",
+    "eurostat:nuts_2021_id":"033024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033024",
+    "eurostat:population":4578,
+    "eurostat:population_year":2020,
     "geom:area":0.003954,
-    "geom:area_square_m":34563674.947107,
+    "geom:area_square_m":34563674.947111,
     "geom:bbox":"9.5100597853,44.9787244953,9.61553049128,45.0433476033",
     "geom:latitude":45.00985,
     "geom:longitude":9.558568,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033024",
+        "eurostat:nuts_2021_id":"033024",
         "gn:id":6538413,
         "gp:id":12677974,
         "qs_pg:id":50906
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb7ea38d3c33f3ab53fec73f3e285329",
+    "wof:geomhash":"4ae9f929717e34eb3e5074029b816d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404472085,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353952,
     "wof:name":"Gragnano Trebbiense",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":4578,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

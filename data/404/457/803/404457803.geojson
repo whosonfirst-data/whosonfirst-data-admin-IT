@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romagnano Sesia",
+    "eurostat:nuts_2021_id":"003130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003130",
+    "eurostat:population":3860,
+    "eurostat:population_year":2020,
     "geom:area":0.002076,
     "geom:area_square_m":17948686.157374,
     "geom:bbox":"8.34655632554,45.5924552055,8.43252421228,45.6528250835",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003130",
+        "eurostat:nuts_2021_id":"003130",
         "gn:id":6539558,
         "gp:id":12681464,
         "qs_pg:id":537883
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3d3453c8d20199d9352c577c56ea41e",
+    "wof:geomhash":"435e9826520874e4556bccbf3fed33ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457803,
-    "wof:lastmodified":1582328102,
+    "wof:lastmodified":1684353657,
     "wof:name":"Romagnano Sesia",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":3860,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

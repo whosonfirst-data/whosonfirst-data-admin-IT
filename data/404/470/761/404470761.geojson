@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorizia",
+    "eurostat:nuts_2021_id":"031007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031007",
+    "eurostat:population":34034,
+    "eurostat:population_year":2020,
     "geom:area":0.004777,
-    "geom:area_square_m":41069674.822939,
+    "geom:area_square_m":41069672.297358,
     "geom:bbox":"13.54821,45.906517,13.642961,45.989462",
     "geom:latitude":45.944044,
     "geom:longitude":13.598723,
@@ -351,6 +363,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -359,6 +373,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031007",
+        "eurostat:nuts_2021_id":"031007",
         "gn:id":6541866,
         "gp:id":12679635,
         "qs_pg:id":41018
@@ -367,7 +383,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5418d70a5f4dedf2d6bbe3acffd51b48",
+    "wof:geomhash":"fd24f7ed5b3d988ad7fd2c3bb8027c7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,10 +394,12 @@
         }
     ],
     "wof:id":404470761,
-    "wof:lastmodified":1636496845,
+    "wof:lastmodified":1684353927,
     "wof:name":"Gorizia",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":34034,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

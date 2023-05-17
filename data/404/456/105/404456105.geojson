@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quaranti",
+    "eurostat:nuts_2021_id":"005088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005088",
+    "eurostat:population":166,
+    "eurostat:population_year":2020,
     "geom:area":0.000325,
     "geom:area_square_m":2854294.449172,
     "geom:bbox":"8.43832334552,44.7363988769,8.461905636,44.7603402152",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005088",
+        "eurostat:nuts_2021_id":"005088",
         "gn:id":6542410,
         "gp:id":20075862,
         "qs_pg:id":50335
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3459152dd106936c1002d9585bfce246",
+    "wof:geomhash":"b5a955b4cacad146f2f50d29dc8d2a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456105,
-    "wof:lastmodified":1582328047,
+    "wof:lastmodified":1684353617,
     "wof:name":"Quaranti",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":166,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

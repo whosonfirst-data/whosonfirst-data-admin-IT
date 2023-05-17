@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arsi\u00e8",
+    "eurostat:nuts_2021_id":"025004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025004",
+    "eurostat:population":2237,
+    "eurostat:population_year":2020,
     "geom:area":0.007516,
-    "geom:area_square_m":64587153.144007,
+    "geom:area_square_m":64587153.144014,
     "geom:bbox":"11.666720234,45.9219852569,11.8040041393,46.0270027511",
     "geom:latitude":45.977436,
     "geom:longitude":11.743253,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025004",
+        "eurostat:nuts_2021_id":"025004",
         "gn:id":6539688,
         "gp:id":12676273,
         "qs_pg:id":1027772
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"baa50451632ac4aa9dc4d12132263119",
+    "wof:geomhash":"d7c40f3ea643c54227b5ea1c19f2d7e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469849,
-    "wof:lastmodified":1582328037,
+    "wof:lastmodified":1684353911,
     "wof:name":"Arsi\u00e8",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":2237,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

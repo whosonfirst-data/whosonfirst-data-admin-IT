@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roncaro",
+    "eurostat:nuts_2021_id":"018129",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018129",
+    "eurostat:population":1558,
+    "eurostat:population_year":2020,
     "geom:area":0.000579,
     "geom:area_square_m":5043942.642701,
     "geom:bbox":"9.24900614528,45.2174672164,9.29099590525,45.2405935151",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_018129",
+        "eurostat:nuts_2021_id":"018129"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ae8bdd7e185e3dc26aa301f556cfda2b",
+    "wof:geomhash":"58ea178cd280385a1ca49c5319a3dc33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404471569,
-    "wof:lastmodified":1566723087,
+    "wof:lastmodified":1684353942,
     "wof:name":"Roncaro",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1558,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

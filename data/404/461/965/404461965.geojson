@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paliano",
+    "eurostat:nuts_2021_id":"060046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060046",
+    "eurostat:population":8146,
+    "eurostat:population_year":2020,
     "geom:area":0.007635,
-    "geom:area_square_m":70397711.228089,
+    "geom:area_square_m":70397711.228093,
     "geom:bbox":"12.9919378241,41.7189087329,13.1085379347,41.8324260319",
     "geom:latitude":41.784635,
     "geom:longitude":13.052356,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060046",
+        "eurostat:nuts_2021_id":"060046",
         "gn:id":6538709,
         "gp:id":12680888,
         "qs_pg:id":240808
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b90adc2b3fe8f2188d093aad6f762dc4",
+    "wof:geomhash":"59b64d13a8c5aa0abc42a4b5f22b9aba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461965,
-    "wof:lastmodified":1582328124,
+    "wof:lastmodified":1684353750,
     "wof:name":"Paliano",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":8146,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

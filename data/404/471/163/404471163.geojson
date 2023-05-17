@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazzano",
+    "eurostat:nuts_2021_id":"017107",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017107",
+    "eurostat:population":12481,
+    "eurostat:population_year":2020,
     "geom:area":0.001811,
-    "geom:area_square_m":15699988.56172,
+    "geom:area_square_m":15699988.561721,
     "geom:bbox":"10.3228002118,45.4715455872,10.3824263752,45.5343255952",
     "geom:latitude":45.499351,
     "geom:longitude":10.354262,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017107",
+        "eurostat:nuts_2021_id":"017107",
         "gn:id":6542298,
         "gp:id":20076259,
         "qs_pg:id":345890
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"997cbd782e2d1c5c00bfb6dfba6408a8",
+    "wof:geomhash":"825531a027d4d50925d227988af97d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471163,
-    "wof:lastmodified":1582327723,
+    "wof:lastmodified":1684353935,
     "wof:name":"Mazzano",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":12481,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

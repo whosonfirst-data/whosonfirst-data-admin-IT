@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venzone",
+    "eurostat:nuts_2021_id":"030131",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030131",
+    "eurostat:population":1998,
+    "eurostat:population_year":2020,
     "geom:area":0.006364,
-    "geom:area_square_m":54323266.502613,
+    "geom:area_square_m":54323266.502616,
     "geom:bbox":"13.0959902545,46.3126538548,13.254912277,46.3899610305",
     "geom:latitude":46.347502,
     "geom:longitude":13.165257,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030131",
+        "eurostat:nuts_2021_id":"030131",
         "gn:id":6536696,
         "gp:id":12677711,
         "qs_pg:id":1163442
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3e76341090fe64e5a2546f7a78ae454",
+    "wof:geomhash":"51f971800d68f63758952cdbdc9b2fee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470729,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353927,
     "wof:name":"Venzone",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1998,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

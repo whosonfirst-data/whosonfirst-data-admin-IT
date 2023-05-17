@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stalett\u00ec",
+    "eurostat:nuts_2021_id":"079143",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079143",
+    "eurostat:population":2388,
+    "eurostat:population_year":2020,
     "geom:area":0.001243,
     "geom:area_square_m":11982102.297685,
     "geom:bbox":"16.5151201109,38.7406387757,16.5722593536,38.7830048306",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079143",
+        "eurostat:nuts_2021_id":"079143"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7fe075501ca439f60af287ab77dca906",
+    "wof:geomhash":"68d90863114eab90ff0babae1ddf2ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464459,
-    "wof:lastmodified":1566723244,
+    "wof:lastmodified":1684353806,
     "wof:name":"Stalett\u00ec",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":2388,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

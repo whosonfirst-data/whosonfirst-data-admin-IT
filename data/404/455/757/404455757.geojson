@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rittana",
+    "eurostat:nuts_2021_id":"004182",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004182",
+    "eurostat:population":109,
+    "eurostat:population_year":2020,
     "geom:area":0.001282,
     "geom:area_square_m":11333811.573478,
     "geom:bbox":"7.33098847074,44.3412975267,7.41548373168,44.3771490574",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004182",
+        "eurostat:nuts_2021_id":"004182",
         "gn:id":6542438,
         "gp:id":20075797,
         "qs_pg:id":202086
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46c48118097ed98c4e500e897f64cc13",
+    "wof:geomhash":"30c324aaf33d4389616fe4b613b6aa13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455757,
-    "wof:lastmodified":1582327817,
+    "wof:lastmodified":1684353610,
     "wof:name":"Rittana",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

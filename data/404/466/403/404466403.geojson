@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taormina",
+    "eurostat:nuts_2021_id":"083097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083097",
+    "eurostat:population":10844,
+    "eurostat:population_year":2020,
     "geom:area":0.001335,
-    "geom:area_square_m":13039185.231781,
+    "geom:area_square_m":13039185.231774,
     "geom:bbox":"15.2228192291,37.8174745876,15.3055916857,37.8781339514",
     "geom:latitude":37.845448,
     "geom:longitude":15.265184,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083097",
+        "eurostat:nuts_2021_id":"083097",
         "gn:id":6537773,
         "gp:id":12678191,
         "qs_pg:id":1137064
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"674e187a9f3254992f7218dd6cc1b6f0",
+    "wof:geomhash":"101d07cf5c4061875de82df4399e42e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404466403,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353848,
     "wof:name":"Taormina",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":10844,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

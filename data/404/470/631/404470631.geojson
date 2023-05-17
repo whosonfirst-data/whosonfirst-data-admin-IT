@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pulfero",
+    "eurostat:nuts_2021_id":"030086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030086",
+    "eurostat:population":876,
+    "eurostat:population_year":2020,
     "geom:area":0.00566,
-    "geom:area_square_m":48454937.6675,
+    "geom:area_square_m":48454937.667508,
     "geom:bbox":"13.4232396341,46.13237717,13.5297041045,46.2264107986",
     "geom:latitude":46.187642,
     "geom:longitude":13.474801,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_030086",
+        "eurostat:nuts_2021_id":"030086"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"34bcb880659aa8f88afba03c9fbe9bb2",
+    "wof:geomhash":"242196805b53f0de73259bcc8ea3b3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404470631,
-    "wof:lastmodified":1566723159,
+    "wof:lastmodified":1684353925,
     "wof:name":"Pulfero",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":876,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldino/Aldein",
+    "eurostat:nuts_2021_id":"021001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021001",
+    "eurostat:population":1656,
+    "eurostat:population_year":2020,
     "geom:area":0.007328,
-    "geom:area_square_m":62533731.224346,
+    "geom:area_square_m":62533731.224358,
     "geom:bbox":"11.313528518,46.3208489469,11.4796167936,46.4012954547",
     "geom:latitude":46.359513,
     "geom:longitude":11.392317,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021001",
+        "eurostat:nuts_2021_id":"021001",
         "gp:id":12679622,
         "qs_pg:id":1169221
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f344347a390f353d832d7773cc17392",
+    "wof:geomhash":"cd1a764393b5b5b2f702ff1132e3e763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473047,
-    "wof:lastmodified":1582327917,
+    "wof:lastmodified":1684353976,
     "wof:name":"Aldino",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1656,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

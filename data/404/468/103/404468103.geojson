@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Griante",
+    "eurostat:nuts_2021_id":"013113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013113",
+    "eurostat:population":620,
+    "eurostat:population_year":2020,
     "geom:area":0.000761,
-    "geom:area_square_m":6535442.700561,
+    "geom:area_square_m":6535442.70056,
     "geom:bbox":"9.21726056691,45.9811591269,9.26462336813,46.0097320317",
     "geom:latitude":45.99907,
     "geom:longitude":9.240198,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013113",
+        "eurostat:nuts_2021_id":"013113",
         "gn:id":6541584,
         "gp:id":12679680,
         "qs_pg:id":41047
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f1f4c5a54aeb5d90deb14387d86bf938",
+    "wof:geomhash":"3d62395a4473c1b56bcc7eebb7731504",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468103,
-    "wof:lastmodified":1582328074,
+    "wof:lastmodified":1684353884,
     "wof:name":"Griante",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":620,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

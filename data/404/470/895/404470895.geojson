@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016239",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa d'Alm\u00e8",
+    "eurostat:nuts_2021_id":"016239",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016239",
+    "eurostat:population":6683,
+    "eurostat:population_year":2020,
     "geom:area":0.000751,
-    "geom:area_square_m":6475797.257678,
+    "geom:area_square_m":6475797.257679,
     "geom:bbox":"9.60326361993,45.737863531,9.64486727772,45.7664877498",
     "geom:latitude":45.753335,
     "geom:longitude":9.623229,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016239",
+        "eurostat:nuts_2021_id":"016239",
         "gn:id":6536163,
         "gp:id":12675971,
         "qs_pg:id":1192899
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"914cfbdf2feb578544c48542a1abe511",
+    "wof:geomhash":"22915a852469c1bd078a1b29ac489737",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470895,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353929,
     "wof:name":"Villa D'Alm\u00e8",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":6683,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

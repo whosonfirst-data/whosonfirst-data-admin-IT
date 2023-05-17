@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Putignano",
+    "eurostat:nuts_2021_id":"072036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072036",
+    "eurostat:population":26508,
+    "eurostat:population_year":2020,
     "geom:area":0.010581,
-    "geom:area_square_m":98978046.780891,
+    "geom:area_square_m":98978046.780916,
     "geom:bbox":"16.9788667987,40.8003949402,17.1955174437,40.8936505181",
     "geom:latitude":40.842471,
     "geom:longitude":17.088272,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072036",
+        "eurostat:nuts_2021_id":"072036",
         "gn:id":6538946,
         "gp:id":12681294,
         "qs_pg:id":1187980
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33656bbc8f77729966be2a1c98b2345a",
+    "wof:geomhash":"d1bd80860ac81b300f467140537a157c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463245,
-    "wof:lastmodified":1582327766,
+    "wof:lastmodified":1684353776,
     "wof:name":"Putignano",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":26508,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abbasanta",
+    "eurostat:nuts_2021_id":"095001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095001",
+    "eurostat:population":2643,
+    "eurostat:population_year":2020,
     "geom:area":0.004214,
-    "geom:area_square_m":39838081.448668,
+    "geom:area_square_m":39838081.448669,
     "geom:bbox":"8.71544251994,40.103758997,8.83151740836,40.1793275822",
     "geom:latitude":40.140105,
     "geom:longitude":8.769983,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095001",
+        "eurostat:nuts_2021_id":"095001",
         "gn:id":6537958,
         "gp:id":12675707,
         "qs_pg:id":248323
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b20073a9b0f37b1ca478aba51e8f5dea",
+    "wof:geomhash":"71e2a0ba2686304b252882989262afb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466965,
-    "wof:lastmodified":1582328183,
+    "wof:lastmodified":1684353863,
     "wof:name":"Abbasanta",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":2643,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piombino",
+    "eurostat:nuts_2021_id":"049012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049012",
+    "eurostat:population":33348,
+    "eurostat:population_year":2020,
     "geom:area":0.014337,
     "geom:area_square_m":129709946.347014,
     "geom:bbox":"10.4828469247,42.9195936142,10.7516760859,43.0259755714",
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -186,6 +200,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049012",
+        "eurostat:nuts_2021_id":"049012",
         "gn:id":6541646,
         "gp:id":12677656,
         "qs_pg:id":50830
@@ -194,7 +210,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d33f0c7894828ec039b4de7dd8cb20db",
+    "wof:geomhash":"ac89eeb1a5d0fbf139ee70719b0256c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,10 +220,12 @@
         }
     ],
     "wof:id":404472863,
-    "wof:lastmodified":1582327905,
+    "wof:lastmodified":1684353971,
     "wof:name":"Piombino",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":33348,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

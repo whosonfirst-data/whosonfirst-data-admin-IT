@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palata",
+    "eurostat:nuts_2021_id":"070050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070050",
+    "eurostat:population":1648,
+    "eurostat:population_year":2020,
     "geom:area":0.004729,
-    "geom:area_square_m":43540712.939333,
+    "geom:area_square_m":43540712.939315,
     "geom:bbox":"14.7620372128,41.8310548586,14.8847568099,41.9210244842",
     "geom:latitude":41.87444,
     "geom:longitude":14.818182,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070050",
+        "eurostat:nuts_2021_id":"070050",
         "gn:id":6539833,
         "gp:id":12680879,
         "qs_pg:id":1009338
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72186307c8975db0cb4ec811c9c6ceda",
+    "wof:geomhash":"583c8bfb2e2142c946fc792af19a07d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404458787,
-    "wof:lastmodified":1582327962,
+    "wof:lastmodified":1684353677,
     "wof:name":"Palata",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1648,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

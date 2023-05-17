@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oppido Lucano",
+    "eurostat:nuts_2021_id":"076056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076056",
+    "eurostat:population":3685,
+    "eurostat:population_year":2020,
     "geom:area":0.005807,
-    "geom:area_square_m":54384645.050149,
+    "geom:area_square_m":54384645.050146,
     "geom:bbox":"15.9535684845,40.7380230678,16.1301531696,40.7919238011",
     "geom:latitude":40.764228,
     "geom:longitude":16.035026,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076056",
+        "eurostat:nuts_2021_id":"076056",
         "gn:id":6542068,
         "gp:id":12680780,
         "qs_pg:id":947181
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3be6fe9434cd2b139bd7684c45e09e5e",
+    "wof:geomhash":"6333c196ec2b981b6ac77c05151e6ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404456989,
-    "wof:lastmodified":1582328071,
+    "wof:lastmodified":1684353639,
     "wof:name":"Oppido Lucano",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":3685,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

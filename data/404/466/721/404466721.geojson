@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anela",
+    "eurostat:nuts_2021_id":"090004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090004",
+    "eurostat:population":611,
+    "eurostat:population_year":2020,
     "geom:area":0.00392,
-    "geom:area_square_m":36879704.895136,
+    "geom:area_square_m":36879704.895139,
     "geom:bbox":"8.96462793532,40.414092388,9.10458396916,40.4942618227",
     "geom:latitude":40.453179,
     "geom:longitude":9.031645,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090004",
+        "eurostat:nuts_2021_id":"090004",
         "gn:id":6540855,
         "gp:id":12676089,
         "qs_pg:id":1187817
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be0c565375e3f49eb237b32e80653af4",
+    "wof:geomhash":"cd0689e4a3ee08b752f357635bb35ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404466721,
-    "wof:lastmodified":1582328210,
+    "wof:lastmodified":1684353856,
     "wof:name":"Anela",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":611,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

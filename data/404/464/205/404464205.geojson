@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maier\u00e0",
+    "eurostat:nuts_2021_id":"078071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078071",
+    "eurostat:population":1198,
+    "eurostat:population_year":2020,
     "geom:area":0.001853,
-    "geom:area_square_m":17628151.820109,
+    "geom:area_square_m":17628151.820116,
     "geom:bbox":"15.8308848874,39.6819552455,15.9230960515,39.7223973295",
     "geom:latitude":39.706404,
     "geom:longitude":15.869403,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078071",
+        "eurostat:nuts_2021_id":"078071"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4ee69829a2f415668d5c5a5b37debe96",
+    "wof:geomhash":"d4fc668af564e0fb5318072c406970d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404464205,
-    "wof:lastmodified":1566723223,
+    "wof:lastmodified":1684353800,
     "wof:name":"Maier\u00e0",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Donori",
+    "eurostat:nuts_2021_id":"111017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111017",
+    "eurostat:population":2029,
+    "eurostat:population_year":2020,
     "geom:area":0.003697,
-    "geom:area_square_m":35306752.411246,
+    "geom:area_square_m":35306752.411247,
     "geom:bbox":"9.08297573831,39.4120776106,9.1852689225,39.4701736758",
     "geom:latitude":39.441228,
     "geom:longitude":9.134025,
@@ -167,6 +179,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -174,9 +188,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_111017",
+        "eurostat:nuts_2021_id":"111017"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d98b818d42f4f14f31aa9a0e25a14a4e",
+    "wof:geomhash":"68c6328699fa86ad1b0250a2eb0843ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,10 +204,12 @@
         }
     ],
     "wof:id":404460615,
-    "wof:lastmodified":1566723527,
+    "wof:lastmodified":1684353722,
     "wof:name":"Donori",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":2029,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

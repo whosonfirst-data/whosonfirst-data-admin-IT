@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mapello",
+    "eurostat:nuts_2021_id":"016132",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016132",
+    "eurostat:population":6925,
+    "eurostat:population_year":2020,
     "geom:area":0.001001,
     "geom:area_square_m":8644042.85218,
     "geom:bbox":"9.51609683577,45.6907640438,9.56591673303,45.7267736933",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016132",
+        "eurostat:nuts_2021_id":"016132",
         "gn:id":6541590,
         "gp:id":12679988,
         "qs_pg:id":190726
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a17fe6e1efd8a480b33a34bd738ead66",
+    "wof:geomhash":"ab878ce3943239e1c02a00ad26b1e878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404465997,
-    "wof:lastmodified":1582327826,
+    "wof:lastmodified":1684353841,
     "wof:name":"Mapello",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":6925,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

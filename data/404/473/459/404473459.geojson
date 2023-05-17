@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Denno",
+    "eurostat:nuts_2021_id":"022074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022074",
+    "eurostat:population":1240,
+    "eurostat:population_year":2020,
     "geom:area":0.001243,
-    "geom:area_square_m":10620215.776539,
+    "geom:area_square_m":10620215.776542,
     "geom:bbox":"10.9661681067,46.2559228201,11.0657995543,46.2996526834",
     "geom:latitude":46.2732,
     "geom:longitude":11.020808,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022074",
+        "eurostat:nuts_2021_id":"022074",
         "gn:id":6537254,
         "gp:id":12679073,
         "qs_pg:id":203970
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e63ac73715086f70c1ac1f478d5592f",
+    "wof:geomhash":"410e69aebe3a3d4809018172e343fb9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473459,
-    "wof:lastmodified":1582327931,
+    "wof:lastmodified":1684353989,
     "wof:name":"Denno",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1240,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

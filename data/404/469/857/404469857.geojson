@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borca di Cadore",
+    "eurostat:nuts_2021_id":"025007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025007",
+    "eurostat:population":820,
+    "eurostat:population_year":2020,
     "geom:area":0.00313,
     "geom:area_square_m":26671154.744991,
     "geom:bbox":"12.0990424861,46.4149266471,12.2622122898,46.4537747369",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025007",
+        "eurostat:nuts_2021_id":"025007",
         "gn:id":6536214,
         "gp:id":12676902,
         "qs_pg:id":39319
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0a65e35003fefa3d59ee67e1335a0c0",
+    "wof:geomhash":"7065c03cafd407256f4e27c24073f885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469857,
-    "wof:lastmodified":1582328028,
+    "wof:lastmodified":1684353911,
     "wof:name":"Borca Di Cadore",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":820,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

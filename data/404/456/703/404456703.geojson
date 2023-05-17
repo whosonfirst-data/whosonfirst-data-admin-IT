@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Caterina Albanese",
+    "eurostat:nuts_2021_id":"078129",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078129",
+    "eurostat:population":1192,
+    "eurostat:population_year":2020,
     "geom:area":0.001803,
-    "geom:area_square_m":17183796.132489,
+    "geom:area_square_m":17183796.132486,
     "geom:bbox":"16.0580377422,39.5633512268,16.1195612667,39.6246167541",
     "geom:latitude":39.595551,
     "geom:longitude":16.087158,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078129",
+        "eurostat:nuts_2021_id":"078129"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7f24ab0234ab62b491bb8a20a4a51ea4",
+    "wof:geomhash":"4bc72db082434b9ad763e756a6f9af9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404456703,
-    "wof:lastmodified":1566723594,
+    "wof:lastmodified":1684353631,
     "wof:name":"Santa Caterina Albanese",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1192,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

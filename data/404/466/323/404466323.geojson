@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Novara di Sicilia",
+    "eurostat:nuts_2021_id":"083062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083062",
+    "eurostat:population":1251,
+    "eurostat:population_year":2020,
     "geom:area":0.005014,
-    "geom:area_square_m":48842160.735923,
+    "geom:area_square_m":48842160.735926,
     "geom:bbox":"15.084233787,37.9718202801,15.169009362,38.074571958",
     "geom:latitude":38.016186,
     "geom:longitude":15.129027,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083062",
+        "eurostat:nuts_2021_id":"083062",
         "gn:id":6539156,
         "gp:id":12676406,
         "qs_pg:id":976123
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ba99ad1144452f9730bd6547b3d6d98",
+    "wof:geomhash":"9123431b60ca55d5eba50447032378d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466323,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353847,
     "wof:name":"Novara Di Sicilia",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1251,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

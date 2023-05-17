@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mineo",
+    "eurostat:nuts_2021_id":"087027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087027",
+    "eurostat:population":5251,
+    "eurostat:population_year":2020,
     "geom:area":0.024901,
-    "geom:area_square_m":244911130.4215,
+    "geom:area_square_m":244911130.421509,
     "geom:bbox":"14.4887232007,37.2048219139,14.7573549195,37.3878475258",
     "geom:latitude":37.304675,
     "geom:longitude":14.641772,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087027",
+        "eurostat:nuts_2021_id":"087027",
         "gn:id":6537806,
         "gp:id":12676953,
         "qs_pg:id":234655
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"925594bca24f0cba1b853721e2b4ec54",
+    "wof:geomhash":"463d0c47e47a8726672b204a754325a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459275,
-    "wof:lastmodified":1582328159,
+    "wof:lastmodified":1684353690,
     "wof:name":"Mineo",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":5251,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_032005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sgonico",
+    "eurostat:nuts_2021_id":"032005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH44",
+    "eurostat:nuts_2021_level_lau":"032005",
+    "eurostat:population":2030,
+    "eurostat:population_year":2020,
     "geom:area":0.003621,
-    "geom:area_square_m":31250022.411838,
+    "geom:area_square_m":31250022.411833,
     "geom:bbox":"13.6987901806,45.6997742953,13.7896089005,45.7692001224",
     "geom:latitude":45.733823,
     "geom:longitude":13.745313,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_032005",
+        "eurostat:nuts_2021_id":"032005",
         "gn:id":3166565,
         "gp:id":12676479,
         "qs_pg:id":248445
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3da403250dfd20cab941c7919d55e44e",
+    "wof:geomhash":"cc1018729b62b14917eb13bdb4331f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404459097,
-    "wof:lastmodified":1582328161,
+    "wof:lastmodified":1684353685,
     "wof:name":"Sgonico",
     "wof:parent_id":85685329,
     "wof:placetype":"localadmin",
+    "wof:population":2030,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

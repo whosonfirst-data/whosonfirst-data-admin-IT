@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ome",
+    "eurostat:nuts_2021_id":"017123",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017123",
+    "eurostat:population":3208,
+    "eurostat:population_year":2020,
     "geom:area":0.001137,
     "geom:area_square_m":9831619.218893,
     "geom:bbox":"10.1034495566,45.6100292209,10.1449264757,45.6536137266",
@@ -50,6 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -58,6 +72,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017123",
+        "eurostat:nuts_2021_id":"017123",
         "gn:id":6542607,
         "gp:id":20076265,
         "qs_pg:id":906270
@@ -66,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1930429b437ea1bd3642c815a3014624",
+    "wof:geomhash":"4cb449673d5d97460f3306546fcde38f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404471199,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353935,
     "wof:name":"Ome",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":3208,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

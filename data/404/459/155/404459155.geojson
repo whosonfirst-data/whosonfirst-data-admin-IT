@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meduno",
+    "eurostat:nuts_2021_id":"093026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093026",
+    "eurostat:population":1543,
+    "eurostat:population_year":2020,
     "geom:area":0.003679,
-    "geom:area_square_m":31473027.168307,
+    "geom:area_square_m":31473027.168305,
     "geom:bbox":"12.7301226796,46.1795491183,12.8329872576,46.2538890717",
     "geom:latitude":46.225207,
     "geom:longitude":12.788614,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093026",
+        "eurostat:nuts_2021_id":"093026",
         "gn:id":6537933,
         "gp:id":12680260,
         "qs_pg:id":51251
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9892e739a458dcfc60e86d08f039ed36",
+    "wof:geomhash":"9e5135f326d0bd0a850becbc016a725a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459155,
-    "wof:lastmodified":1582328169,
+    "wof:lastmodified":1684353687,
     "wof:name":"Meduno",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":1543,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fascia",
+    "eurostat:nuts_2021_id":"010022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010022",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.001276,
     "geom:area_square_m":11239728.25942,
     "geom:bbox":"9.19807274542,44.543178391,9.27113369302,44.595745537",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010022",
+        "eurostat:nuts_2021_id":"010022",
         "gn:id":6536084,
         "gp:id":12679213,
         "qs_pg:id":231981
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bcc209fd15039828197c3ac32fe079f",
+    "wof:geomhash":"ba29ed71dab46dcdf6aaa80c6a287052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471969,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353949,
     "wof:name":"Fascia",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

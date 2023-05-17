@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corbara",
+    "eurostat:nuts_2021_id":"065047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065047",
+    "eurostat:population":2525,
+    "eurostat:population_year":2020,
     "geom:area":0.000714,
-    "geom:area_square_m":6692655.837198,
+    "geom:area_square_m":6692655.837201,
     "geom:bbox":"14.5769449182,40.6939672023,14.6106139138,40.7293721604",
     "geom:latitude":40.712114,
     "geom:longitude":14.593118,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065047",
+        "eurostat:nuts_2021_id":"065047",
         "gn:id":6540004,
         "gp:id":12678891,
         "qs_pg:id":1163481
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07f7fc65e3dd63a3bccb42fe43561943",
+    "wof:geomhash":"5b0fa8ddaaad45f9e1b9136a504ef399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404465567,
-    "wof:lastmodified":1582327825,
+    "wof:lastmodified":1684353834,
     "wof:name":"Corbara",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2525,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

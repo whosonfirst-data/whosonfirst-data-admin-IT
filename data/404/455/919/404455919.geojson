@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aramengo",
+    "eurostat:nuts_2021_id":"005004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005004",
+    "eurostat:population":567,
+    "eurostat:population_year":2020,
     "geom:area":0.001306,
     "geom:area_square_m":11395150.197612,
     "geom:bbox":"7.96555427162,45.07682136,8.02878383673,45.123814686",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005004",
+        "eurostat:nuts_2021_id":"005004",
         "gn:id":6543478,
         "gp:id":20075828,
         "qs_pg:id":202085
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8a39f29c20cf5d2b4190099e5c9d4cd",
+    "wof:geomhash":"72de26071bc0aa79b58397b7645e68a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455919,
-    "wof:lastmodified":1582327822,
+    "wof:lastmodified":1684353613,
     "wof:name":"Aramengo",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":567,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

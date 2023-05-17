@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amblar-Don",
+    "eurostat:nuts_2021_id":"022237",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022237",
+    "eurostat:population":541,
+    "eurostat:population_year":2020,
     "geom:area":0.001737,
-    "geom:area_square_m":14814516.791336,
+    "geom:area_square_m":14814516.791343,
     "geom:bbox":"11.1260024727,46.3589918029,11.2076150439,46.406522865",
     "geom:latitude":46.387062,
     "geom:longitude":11.177647,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022237",
+        "eurostat:nuts_2021_id":"022237",
         "gn:id":6543232,
         "gp:id":20076591,
         "qs_pg:id":499590
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fff2ce98cfb940bf5d3c4e09aa385d3",
+    "wof:geomhash":"4a63e8f0ac9551aea02d32a7683e05e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404473315,
-    "wof:lastmodified":1582327921,
+    "wof:lastmodified":1684353986,
     "wof:name":"Amblar",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":541,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelfranco in Miscano",
+    "eurostat:nuts_2021_id":"062016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062016",
+    "eurostat:population":863,
+    "eurostat:population_year":2020,
     "geom:area":0.004639,
-    "geom:area_square_m":43099142.813989,
+    "geom:area_square_m":43099142.813985,
     "geom:bbox":"15.0551651004,41.2528037226,15.1492335535,41.3324186368",
     "geom:latitude":41.291058,
     "geom:longitude":15.100731,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062016",
+        "eurostat:nuts_2021_id":"062016",
         "gn:id":6537320,
         "gp:id":12678231,
         "qs_pg:id":1142926
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4995ad4c0ed5d48ede1f352b6057123c",
+    "wof:geomhash":"3f9dfeb534b07077093fe4acc26e1be3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404460727,
-    "wof:lastmodified":1582328022,
+    "wof:lastmodified":1684353724,
     "wof:name":"Castelfranco In Miscano",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":863,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merana",
+    "eurostat:nuts_2021_id":"006093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006093",
+    "eurostat:population":181,
+    "eurostat:population_year":2020,
     "geom:area":0.001042,
     "geom:area_square_m":9188001.03732,
     "geom:bbox":"8.26147446256,44.4963101166,8.32126312681,44.5349219927",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006093",
+        "eurostat:nuts_2021_id":"006093",
         "gn:id":6543529,
         "gp:id":20075914,
         "qs_pg:id":1025577
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8c54bcc63441c41022b107fd58538c9",
+    "wof:geomhash":"2ac9caf227210d9f450edfe27e02f88f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460183,
-    "wof:lastmodified":1582328020,
+    "wof:lastmodified":1684353712,
     "wof:name":"Merana",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":181,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

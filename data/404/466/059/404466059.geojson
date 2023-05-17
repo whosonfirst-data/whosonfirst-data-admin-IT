@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedrengo",
+    "eurostat:nuts_2021_id":"016160",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016160",
+    "eurostat:population":6026,
+    "eurostat:population_year":2020,
     "geom:area":0.000416,
-    "geom:area_square_m":3594269.868073,
+    "geom:area_square_m":3594269.868072,
     "geom:bbox":"9.71987969013,45.686582336,9.75981445397,45.7054396638",
     "geom:latitude":45.695433,
     "geom:longitude":9.74028,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016160",
+        "eurostat:nuts_2021_id":"016160",
         "gn:id":6542559,
         "gp:id":12682612,
         "qs_pg:id":1174477
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df0b8a2b762048c889ebcd635c3a31d8",
+    "wof:geomhash":"18b4f7041ed107832e7b1094e92194ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466059,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353842,
     "wof:name":"Pedrengo",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":6026,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

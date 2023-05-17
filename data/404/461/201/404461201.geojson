@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto San Giorgio",
+    "eurostat:nuts_2021_id":"109033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109033",
+    "eurostat:population":16101,
+    "eurostat:population_year":2020,
     "geom:area":0.000971,
-    "geom:area_square_m":8752508.317099,
+    "geom:area_square_m":8752508.3171,
     "geom:bbox":"13.7605199784,43.1615491398,13.8137325545,43.198964971",
     "geom:latitude":43.17801,
     "geom:longitude":13.786586,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109033",
+        "eurostat:nuts_2021_id":"109033",
         "gn:id":6536802,
         "gp:id":20076799,
         "qs_pg:id":1115299
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8badbb75bb48d9846651e64633762333",
+    "wof:geomhash":"6540a76881f7da012b058f7645e783e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461201,
-    "wof:lastmodified":1582328145,
+    "wof:lastmodified":1684353734,
     "wof:name":"Porto San Giorgio",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":16101,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casier",
+    "eurostat:nuts_2021_id":"026010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026010",
+    "eurostat:population":11409,
+    "eurostat:population_year":2020,
     "geom:area":0.001548,
-    "geom:area_square_m":13384581.93258,
+    "geom:area_square_m":13384581.932583,
     "geom:bbox":"12.2395201799,45.6062805343,12.3125431409,45.6479700489",
     "geom:latitude":45.628252,
     "geom:longitude":12.26895,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026010",
+        "eurostat:nuts_2021_id":"026010",
         "gn:id":6536269,
         "gp:id":12678867,
         "qs_pg:id":190609
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b6f58d8a4a6e3340fb850708fa98783",
+    "wof:geomhash":"2cc5e3e5a63e8aa0045d2e09976ba932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470015,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353914,
     "wof:name":"Casier",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":11409,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

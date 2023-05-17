@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_038001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argenta",
+    "eurostat:nuts_2021_id":"038001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH56",
+    "eurostat:nuts_2021_level_lau":"038001",
+    "eurostat:population":21365,
+    "eurostat:population_year":2020,
     "geom:area":0.035322,
-    "geom:area_square_m":310869158.828059,
+    "geom:area_square_m":310869158.828077,
     "geom:bbox":"11.6146270139,44.5456586476,12.1538493206,44.7282999464",
     "geom:latitude":44.622141,
     "geom:longitude":11.889144,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_038001",
+        "eurostat:nuts_2021_id":"038001",
         "gn:id":6536746,
         "gp:id":12676217,
         "qs_pg:id":1192920
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce59d64569d8e75b89035d01c35a211b",
+    "wof:geomhash":"efed05c05c428f3124d52c2fb00427fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404472361,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353959,
     "wof:name":"Argenta",
     "wof:parent_id":85685359,
     "wof:placetype":"localadmin",
+    "wof:population":21365,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

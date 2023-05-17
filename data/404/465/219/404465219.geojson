@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bisaccia",
+    "eurostat:nuts_2021_id":"064011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064011",
+    "eurostat:population":3719,
+    "eurostat:population_year":2020,
     "geom:area":0.010867,
-    "geom:area_square_m":101398045.385105,
+    "geom:area_square_m":101398045.385122,
     "geom:bbox":"15.2950545042,40.9460038927,15.4384776252,41.0807466122",
     "geom:latitude":41.008105,
     "geom:longitude":15.3649,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064011",
+        "eurostat:nuts_2021_id":"064011",
         "gn:id":6539994,
         "gp:id":12676807,
         "qs_pg:id":1292662
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41c84d04d90c5b56239b9f6352344cfc",
+    "wof:geomhash":"51193d122028641603fa375d544120bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465219,
-    "wof:lastmodified":1582327829,
+    "wof:lastmodified":1684353828,
     "wof:name":"Bisaccia",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3719,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

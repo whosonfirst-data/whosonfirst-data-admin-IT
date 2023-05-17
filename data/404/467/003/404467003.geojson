@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabras",
+    "eurostat:nuts_2021_id":"095018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095018",
+    "eurostat:population":9043,
+    "eurostat:population_year":2020,
     "geom:area":0.010782,
-    "geom:area_square_m":102231106.152486,
+    "geom:area_square_m":102231106.152484,
     "geom:bbox":"8.27504059121,39.8577745009,8.57242843906,39.99769539",
     "geom:latitude":39.934573,
     "geom:longitude":8.465673,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095018",
+        "eurostat:nuts_2021_id":"095018",
         "gn:id":2525479,
         "gp:id":12679110,
         "qs_pg:id":466602
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07ded38c5f201bbe36cc97d4f19ea671",
+    "wof:geomhash":"d40377e39a04821d70361d00a691080c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404467003,
-    "wof:lastmodified":1582327985,
+    "wof:lastmodified":1684353863,
     "wof:name":"Cabras",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":9043,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

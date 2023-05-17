@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marradi",
+    "eurostat:nuts_2021_id":"048026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048026",
+    "eurostat:population":3014,
+    "eurostat:population_year":2020,
     "geom:area":0.017299,
-    "geom:area_square_m":153711092.333647,
+    "geom:area_square_m":153711092.333664,
     "geom:bbox":"11.4991509979,43.9906484276,11.7529969938,44.1260435533",
     "geom:latitude":44.061747,
     "geom:longitude":11.634151,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048026",
+        "eurostat:nuts_2021_id":"048026",
         "gn:id":6538561,
         "gp:id":12675718,
         "qs_pg:id":208997
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05f99dc8e41968e85a996283dfb2cef5",
+    "wof:geomhash":"85cbbb1b4144803c8932952ad116240a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404472791,
-    "wof:lastmodified":1582327879,
+    "wof:lastmodified":1684353969,
     "wof:name":"Marradi",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":3014,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

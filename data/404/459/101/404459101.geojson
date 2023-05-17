@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andreis",
+    "eurostat:nuts_2021_id":"093001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093001",
+    "eurostat:population":244,
+    "eurostat:population_year":2020,
     "geom:area":0.003138,
-    "geom:area_square_m":26854809.325411,
+    "geom:area_square_m":26854809.325406,
     "geom:bbox":"12.5833087245,46.1785586929,12.6597370634,46.243226944",
     "geom:latitude":46.209841,
     "geom:longitude":12.621942,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093001",
+        "eurostat:nuts_2021_id":"093001",
         "gn:id":6537925,
         "gp:id":12676084,
         "qs_pg:id":1260251
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a4213b79c511b824e2917027b060845",
+    "wof:geomhash":"3b4043270e18269902a6b49a0841bd37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459101,
-    "wof:lastmodified":1582328169,
+    "wof:lastmodified":1684353686,
     "wof:name":"Andreis",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":244,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

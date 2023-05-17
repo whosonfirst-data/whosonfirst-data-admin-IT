@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dalmine",
+    "eurostat:nuts_2021_id":"016091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016091",
+    "eurostat:population":23669,
+    "eurostat:population_year":2020,
     "geom:area":0.001364,
-    "geom:area_square_m":11789062.312532,
+    "geom:area_square_m":11789062.312533,
     "geom:bbox":"9.56534204065,45.6325368874,9.63204698096,45.6615448017",
     "geom:latitude":45.646495,
     "geom:longitude":9.599728,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016091",
+        "eurostat:nuts_2021_id":"016091",
         "gn:id":6536541,
         "gp:id":12679053,
         "qs_pg:id":1108502
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86d8261a26ccb7a329aaf5a5ed2ad8c4",
+    "wof:geomhash":"e16c87bba76355c5d65ab316d622a60d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465907,
-    "wof:lastmodified":1582327825,
+    "wof:lastmodified":1684353839,
     "wof:name":"Dalmine",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":23669,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

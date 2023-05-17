@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Entratico",
+    "eurostat:nuts_2021_id":"016094",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016094",
+    "eurostat:population":2010,
+    "eurostat:population_year":2020,
     "geom:area":0.000479,
-    "geom:area_square_m":4138369.905397,
+    "geom:area_square_m":4138369.905398,
     "geom:bbox":"9.85951166116,45.6903523349,9.89726038855,45.714709788",
     "geom:latitude":45.702804,
     "geom:longitude":9.881758,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016094",
+        "eurostat:nuts_2021_id":"016094",
         "gn:id":6542949,
         "gp:id":20076179,
         "qs_pg:id":205096
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47eaa73709c9febf7964ffa336d610c2",
+    "wof:geomhash":"7e4c3946fc8c1ddda62dfbb78a840053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465915,
-    "wof:lastmodified":1582327834,
+    "wof:lastmodified":1684353839,
     "wof:name":"Entratico",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":2010,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001299",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vigone",
+    "eurostat:nuts_2021_id":"001299",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001299",
+    "eurostat:population":5131,
+    "eurostat:population_year":2020,
     "geom:area":0.004686,
-    "geom:area_square_m":41086314.936045,
+    "geom:area_square_m":41086314.936042,
     "geom:bbox":"7.42842034566,44.8119292691,7.5644533073,44.8646236681",
     "geom:latitude":44.837464,
     "geom:longitude":7.496492,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001299",
+        "eurostat:nuts_2021_id":"001299",
         "gn:id":6538093,
         "gp:id":12682430,
         "qs_pg:id":1297061
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c46d60dc87a464c9c961cf6770ed2737",
+    "wof:geomhash":"64a8772293e7e75d5788f9657e734307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457415,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353649,
     "wof:name":"Vigone",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":5131,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

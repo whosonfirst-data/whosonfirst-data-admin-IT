@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vicoforte",
+    "eurostat:nuts_2021_id":"004242",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004242",
+    "eurostat:population":3162,
+    "eurostat:population_year":2020,
     "geom:area":0.002907,
-    "geom:area_square_m":25700281.720358,
+    "geom:area_square_m":25700281.720357,
     "geom:bbox":"7.83301287201,44.3276580772,7.90253431824,44.3944003609",
     "geom:latitude":44.363351,
     "geom:longitude":7.866262,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004242",
+        "eurostat:nuts_2021_id":"004242",
         "gn:id":6543475,
         "gp:id":20075822,
         "qs_pg:id":499540
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce73dae11f82cd41379096f34cf5ef36",
+    "wof:geomhash":"8018dea1c274639ea7988871c47e01ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455893,
-    "wof:lastmodified":1582327814,
+    "wof:lastmodified":1684353612,
     "wof:name":"Vicoforte",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":3162,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

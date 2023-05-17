@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salara",
+    "eurostat:nuts_2021_id":"029042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029042",
+    "eurostat:population":1115,
+    "eurostat:population_year":2020,
     "geom:area":0.001615,
     "geom:area_square_m":14127662.192087,
     "geom:bbox":"11.3835595916,44.9673284475,11.4629259388,45.002503275",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029042",
+        "eurostat:nuts_2021_id":"029042",
         "gn:id":6538357,
         "gp:id":12678732,
         "qs_pg:id":1142993
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ccd35d76feb6a91dacc1354f84ca9367",
+    "wof:geomhash":"48decc53913d32d95f4bed8094f33ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470417,
-    "wof:lastmodified":1582327750,
+    "wof:lastmodified":1684353921,
     "wof:name":"Salara",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":1115,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

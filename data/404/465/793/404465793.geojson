@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torchiara",
+    "eurostat:nuts_2021_id":"065147",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065147",
+    "eurostat:population":1850,
+    "eurostat:population_year":2020,
     "geom:area":0.000891,
-    "geom:area_square_m":8404742.780159,
+    "geom:area_square_m":8404742.78016,
     "geom:bbox":"15.0124500304,40.3023835267,15.0865118412,40.3312702744",
     "geom:latitude":40.318761,
     "geom:longitude":15.050082,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065147",
+        "eurostat:nuts_2021_id":"065147",
         "gn:id":6537422,
         "gp:id":12678885,
         "qs_pg:id":40572
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35e1fc7a42213797c8baddc8b663c6ca",
+    "wof:geomhash":"f57ec7f071a64d854cfbfca331a06ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465793,
-    "wof:lastmodified":1582327837,
+    "wof:lastmodified":1684353837,
     "wof:name":"Torchiara",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":1850,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

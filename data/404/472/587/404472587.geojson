@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_045008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fosdinovo",
+    "eurostat:nuts_2021_id":"045008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI11",
+    "eurostat:nuts_2021_level_lau":"045008",
+    "eurostat:population":4750,
+    "eurostat:population_year":2020,
     "geom:area":0.005473,
-    "geom:area_square_m":48561585.481308,
+    "geom:area_square_m":48561585.4813,
     "geom:bbox":"9.97521016376,44.0926361522,10.0960851228,44.1808955672",
     "geom:latitude":44.143623,
     "geom:longitude":10.027193,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_045008",
+        "eurostat:nuts_2021_id":"045008",
         "gn:id":6536809,
         "gp:id":12677685,
         "qs_pg:id":1102034
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4e7daf50808eae18f17ce2505a8b064",
+    "wof:geomhash":"555db9a4fe49f5c1a2852b7b5437b4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404472587,
-    "wof:lastmodified":1582327893,
+    "wof:lastmodified":1684353965,
     "wof:name":"Fosdinovo",
     "wof:parent_id":85685395,
     "wof:placetype":"localadmin",
+    "wof:population":4750,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

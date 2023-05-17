@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casteldaccia",
+    "eurostat:nuts_2021_id":"082023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082023",
+    "eurostat:population":11682,
+    "eurostat:population_year":2020,
     "geom:area":0.003469,
-    "geom:area_square_m":33795344.746876,
+    "geom:area_square_m":33795344.74689,
     "geom:bbox":"13.4870296186,37.9561050922,13.6006692446,38.0646577493",
     "geom:latitude":38.008977,
     "geom:longitude":13.539455,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082023",
+        "eurostat:nuts_2021_id":"082023",
         "gn:id":6537739,
         "gp:id":12676019,
         "qs_pg:id":203701
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37218d48fb305f3f59944492ab00eec2",
+    "wof:geomhash":"5c722bd0dc7705e50330f2dd1ad415ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464965,
-    "wof:lastmodified":1582327793,
+    "wof:lastmodified":1684353822,
     "wof:name":"Casteldaccia",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":11682,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

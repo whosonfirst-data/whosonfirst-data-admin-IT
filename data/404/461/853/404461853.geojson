@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sonnino",
+    "eurostat:nuts_2021_id":"059029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059029",
+    "eurostat:population":7503,
+    "eurostat:population_year":2020,
     "geom:area":0.006856,
-    "geom:area_square_m":63590040.333026,
+    "geom:area_square_m":63590040.333027,
     "geom:bbox":"13.1825321884,41.3543392904,13.3065676888,41.4504759444",
     "geom:latitude":41.400966,
     "geom:longitude":13.234036,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059029",
+        "eurostat:nuts_2021_id":"059029",
         "gn:id":6540531,
         "gp:id":12682049,
         "qs_pg:id":1314971
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cfeb5c0c3b94ef899efb1390889e0f6b",
+    "wof:geomhash":"a0d3fdc5a80bbb58f95c4a512da93c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461853,
-    "wof:lastmodified":1582328144,
+    "wof:lastmodified":1684353747,
     "wof:name":"Sonnino",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":7503,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

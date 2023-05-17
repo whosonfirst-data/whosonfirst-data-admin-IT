@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aviano",
+    "eurostat:nuts_2021_id":"093004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093004",
+    "eurostat:population":9130,
+    "eurostat:population_year":2020,
     "geom:area":0.013171,
-    "geom:area_square_m":112953622.784094,
+    "geom:area_square_m":112953622.784099,
     "geom:bbox":"12.489032045,46.0190839269,12.6779766786,46.147314776",
     "geom:latitude":46.088931,
     "geom:longitude":12.583429,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093004",
+        "eurostat:nuts_2021_id":"093004",
         "gn:id":6540298,
         "gp:id":12676365,
         "qs_pg:id":468070
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed015ddb5a3ae97eb74f43fd7bc023d6",
+    "wof:geomhash":"00c35f8abbaed194ed10e22b22253532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459107,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353686,
     "wof:name":"Aviano",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":9130,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

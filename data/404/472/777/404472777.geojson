@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gambassi Terme",
+    "eurostat:nuts_2021_id":"048020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048020",
+    "eurostat:population":4790,
+    "eurostat:population_year":2020,
     "geom:area":0.009258,
-    "geom:area_square_m":83011863.808273,
+    "geom:area_square_m":83011863.808271,
     "geom:bbox":"10.8513452371,43.4522855236,11.0340319561,43.5921082233",
     "geom:latitude":43.517209,
     "geom:longitude":10.947492,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048020",
+        "eurostat:nuts_2021_id":"048020",
         "gn:id":6542212,
         "gp:id":12676394,
         "qs_pg:id":1108041
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acfdd16550b90e877a81bac1c4be7d36",
+    "wof:geomhash":"8786a13419df6ec871cd752c3602afd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472777,
-    "wof:lastmodified":1582327893,
+    "wof:lastmodified":1684353969,
     "wof:name":"Gambassi Terme",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":4790,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

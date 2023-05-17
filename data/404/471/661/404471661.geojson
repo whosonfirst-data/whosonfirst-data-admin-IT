@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strembo",
+    "eurostat:nuts_2021_id":"022184",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022184",
+    "eurostat:population":592,
+    "eurostat:population_year":2020,
     "geom:area":0.004468,
-    "geom:area_square_m":38254016.205169,
+    "geom:area_square_m":38254016.205171,
     "geom:bbox":"10.5906467128,46.1108149475,10.755688143,46.223841338",
     "geom:latitude":46.173379,
     "geom:longitude":10.647322,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022184",
+        "eurostat:nuts_2021_id":"022184",
         "gn:id":6543548,
         "gp:id":12676649,
         "qs_pg:id":416464
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f758116b03af8f1753add81b3de2f15d",
+    "wof:geomhash":"5e02f8482e062b21c29f693b259bf9c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471661,
-    "wof:lastmodified":1582327718,
+    "wof:lastmodified":1684353943,
     "wof:name":"Strembo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":592,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

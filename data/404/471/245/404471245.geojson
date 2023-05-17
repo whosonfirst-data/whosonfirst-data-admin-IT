@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pisogne",
+    "eurostat:nuts_2021_id":"017143",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017143",
+    "eurostat:population":7904,
+    "eurostat:population_year":2020,
     "geom:area":0.0057,
-    "geom:area_square_m":49142555.843905,
+    "geom:area_square_m":49142555.843908,
     "geom:bbox":"10.0599220229,45.7611035157,10.2115465151,45.83448304",
     "geom:latitude":45.796875,
     "geom:longitude":10.13772,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017143",
+        "eurostat:nuts_2021_id":"017143",
         "gn:id":6540192,
         "gp:id":12679663,
         "qs_pg:id":41037
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2e3aeac5768ee1ddab0fde7f92479b4",
+    "wof:geomhash":"fb92d1422f286e912620f0f8acceecc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471245,
-    "wof:lastmodified":1582327713,
+    "wof:lastmodified":1684353936,
     "wof:name":"Pisogne",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":7904,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

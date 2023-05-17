@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Siro",
+    "eurostat:nuts_2021_id":"013248",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013248",
+    "eurostat:population":1752,
+    "eurostat:population_year":2020,
     "geom:area":0.002186,
-    "geom:area_square_m":18756547.362577,
+    "geom:area_square_m":18756547.362579,
     "geom:bbox":"9.21981589035,46.0323417081,9.29081925326,46.0816680359",
     "geom:latitude":46.061022,
     "geom:longitude":9.258033,
@@ -222,6 +234,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -230,6 +244,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013248",
+        "eurostat:nuts_2021_id":"013248",
         "gn:id":6542502,
         "gp:id":56071155,
         "qs_pg:id":248720
@@ -238,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f01961801b3f92479ca4fa01d5be74e9",
+    "wof:geomhash":"71ba56e6d9be9550d2c406a7239da000",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -249,10 +265,12 @@
         }
     ],
     "wof:id":404458643,
-    "wof:lastmodified":1582327940,
+    "wof:lastmodified":1684353674,
     "wof:name":"San Siro",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1752,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

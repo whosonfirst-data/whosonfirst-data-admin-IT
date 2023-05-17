@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Careri",
+    "eurostat:nuts_2021_id":"080023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080023",
+    "eurostat:population":2203,
+    "eurostat:population_year":2020,
     "geom:area":0.00389,
-    "geom:area_square_m":37813113.044641,
+    "geom:area_square_m":37813113.044631,
     "geom:bbox":"15.9909549321,38.1510606498,16.120068069,38.2146502363",
     "geom:latitude":38.183111,
     "geom:longitude":16.066439,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080023",
+        "eurostat:nuts_2021_id":"080023",
         "gn:id":6540811,
         "gp:id":12680656,
         "qs_pg:id":400103
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f171deafc5671be5fb3927606d6ff0d",
+    "wof:geomhash":"035a3d120cae69e77d056ce7dcb29c14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464523,
-    "wof:lastmodified":1582327807,
+    "wof:lastmodified":1684353808,
     "wof:name":"Careri",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":2203,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

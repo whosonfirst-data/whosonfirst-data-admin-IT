@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caramanico Terme",
+    "eurostat:nuts_2021_id":"068007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068007",
+    "eurostat:population":1890,
+    "eurostat:population_year":2020,
     "geom:area":0.009225,
-    "geom:area_square_m":84571741.566677,
+    "geom:area_square_m":84571741.566679,
     "geom:bbox":"13.956617168,42.098643627,14.1186490106,42.2124567001",
     "geom:latitude":42.150415,
     "geom:longitude":14.030101,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068007",
+        "eurostat:nuts_2021_id":"068007",
         "gn:id":6541213,
         "gp:id":12677637,
         "qs_pg:id":248778
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"902381d915b4db03b1882cff6f8009ca",
+    "wof:geomhash":"ffc5990004fa9802bd1bb89f2335733a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462431,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353758,
     "wof:name":"Caramanico Terme",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":1890,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

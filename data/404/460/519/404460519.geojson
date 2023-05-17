@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lula",
+    "eurostat:nuts_2021_id":"091043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091043",
+    "eurostat:population":1318,
+    "eurostat:population_year":2020,
     "geom:area":0.015804,
-    "geom:area_square_m":148665195.133521,
+    "geom:area_square_m":148665195.133514,
     "geom:bbox":"9.41119393179,40.3881224052,9.60347353269,40.550894605",
     "geom:latitude":40.467682,
     "geom:longitude":9.504304,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091043",
+        "eurostat:nuts_2021_id":"091043",
         "gn:id":6537858,
         "gp:id":12680042,
         "qs_pg:id":1180467
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3612029d0c3d2d2dc17fabfce80eda41",
+    "wof:geomhash":"934e99d127445227e75628835502e47f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460519,
-    "wof:lastmodified":1582328005,
+    "wof:lastmodified":1684353720,
     "wof:name":"Lula",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1318,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

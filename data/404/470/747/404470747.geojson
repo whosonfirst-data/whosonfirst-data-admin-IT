@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capriva del Friuli",
+    "eurostat:nuts_2021_id":"031001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031001",
+    "eurostat:population":1641,
+    "eurostat:population_year":2020,
     "geom:area":0.000732,
     "geom:area_square_m":6291162.249879,
     "geom:bbox":"13.4911174472,45.9326623071,13.5320911082,45.9625199537",
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031001",
+        "eurostat:nuts_2021_id":"031001",
         "gn:id":6536697,
         "gp:id":20076731,
         "qs_pg:id":202150
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b365ded6a1c3a3a8830df4d0d18db63",
+    "wof:geomhash":"bf74b8816f8a6bbb35d45bd3f559b7b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404470747,
-    "wof:lastmodified":1582327745,
+    "wof:lastmodified":1684353927,
     "wof:name":"Capriva Del Friuli",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":1641,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

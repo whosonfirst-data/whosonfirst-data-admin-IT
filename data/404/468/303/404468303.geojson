@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bareggio",
+    "eurostat:nuts_2021_id":"015012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015012",
+    "eurostat:population":17344,
+    "eurostat:population_year":2020,
     "geom:area":0.001311,
-    "geom:area_square_m":11367759.029631,
+    "geom:area_square_m":11367759.029633,
     "geom:bbox":"8.97422344287,45.4518029363,9.02325639443,45.5047158468",
     "geom:latitude":45.474627,
     "geom:longitude":8.999679,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015012",
+        "eurostat:nuts_2021_id":"015012",
         "gn:id":6542012,
         "gp:id":12676569,
         "qs_pg:id":430723
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16645bf5b6e16cdb11d8dbb8fc848a2b",
+    "wof:geomhash":"d83a694f1a8a4168611d035ba6fa9fb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468303,
-    "wof:lastmodified":1582328084,
+    "wof:lastmodified":1684353887,
     "wof:name":"Bareggio",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":17344,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

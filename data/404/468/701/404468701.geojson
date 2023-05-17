@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Angelo Lomellina",
+    "eurostat:nuts_2021_id":"018144",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018144",
+    "eurostat:population":793,
+    "eurostat:population_year":2020,
     "geom:area":0.001204,
-    "geom:area_square_m":10481979.133795,
+    "geom:area_square_m":10481979.133794,
     "geom:bbox":"8.62507408475,45.2152995999,8.66451616922,45.2637426745",
     "geom:latitude":45.2383,
     "geom:longitude":8.644943,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018144",
+        "eurostat:nuts_2021_id":"018144",
         "gn:id":6542220,
         "gp:id":12681815,
         "qs_pg:id":1207895
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d2e6a5633e61ea37f7dc5493c90616f",
+    "wof:geomhash":"d8d56df4288167f5259b9a0d403283e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468701,
-    "wof:lastmodified":1582328075,
+    "wof:lastmodified":1684353893,
     "wof:name":"Sant'Angelo Lomellina",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":793,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

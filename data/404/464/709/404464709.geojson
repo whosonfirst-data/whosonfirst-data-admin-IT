@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cir\u00f2 Marina",
+    "eurostat:nuts_2021_id":"101008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101008",
+    "eurostat:population":14547,
+    "eurostat:population_year":2020,
     "geom:area":0.004308,
-    "geom:area_square_m":41181925.725677,
+    "geom:area_square_m":41181925.72568,
     "geom:bbox":"17.0630894182,39.3210136405,17.1569573879,39.4158280295",
     "geom:latitude":39.365459,
     "geom:longitude":17.108821,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101008",
+        "eurostat:nuts_2021_id":"101008"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4456bfc227e4b0d5d0f267c6f6f8dd69",
+    "wof:geomhash":"c56d5c76905531ce5960d1dab35863b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464709,
-    "wof:lastmodified":1566723211,
+    "wof:lastmodified":1684353814,
     "wof:name":"Cir\u00f2 Marina",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":14547,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

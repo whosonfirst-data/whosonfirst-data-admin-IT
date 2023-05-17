@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdagno",
+    "eurostat:nuts_2021_id":"024111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024111",
+    "eurostat:population":26075,
+    "eurostat:population_year":2020,
     "geom:area":0.005796,
-    "geom:area_square_m":50101637.122021,
+    "geom:area_square_m":50101637.122023,
     "geom:bbox":"11.2262903899,45.5984298487,11.3317713334,45.6908284427",
     "geom:latitude":45.646969,
     "geom:longitude":11.284661,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024111",
+        "eurostat:nuts_2021_id":"024111",
         "gn:id":6539686,
         "gp:id":20076684,
         "qs_pg:id":1314389
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b0411f63e6c5f92a5fac0b35ddf3cbd",
+    "wof:geomhash":"7de09d62392cdbb3f5a868589029dd90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463745,
-    "wof:lastmodified":1582327789,
+    "wof:lastmodified":1684353785,
     "wof:name":"Valdagno",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":26075,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

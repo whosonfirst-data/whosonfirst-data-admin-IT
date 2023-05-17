@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Premana",
+    "eurostat:nuts_2021_id":"097069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097069",
+    "eurostat:population":2205,
+    "eurostat:population_year":2020,
     "geom:area":0.003913,
-    "geom:area_square_m":33580772.916943,
+    "geom:area_square_m":33580772.916942,
     "geom:bbox":"9.40406876048,46.0209142847,9.51003394975,46.0860905146",
     "geom:latitude":46.053547,
     "geom:longitude":9.459155,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097069",
+        "eurostat:nuts_2021_id":"097069",
         "gn:id":3169863,
         "gp:id":12676004,
         "qs_pg:id":1252513
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b319961813adefd4a27c26705746b41",
+    "wof:geomhash":"f62ddbaab82754dccda09914e300b1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469377,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353903,
     "wof:name":"Premana",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":2205,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

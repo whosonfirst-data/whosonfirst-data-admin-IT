@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelnuovo Nigra",
+    "eurostat:nuts_2021_id":"001067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001067",
+    "eurostat:population":414,
+    "eurostat:population_year":2020,
     "geom:area":0.003266,
-    "geom:area_square_m":28326395.872126,
+    "geom:area_square_m":28326395.872113,
     "geom:bbox":"7.63608574661,45.4093068211,7.7201405752,45.5047963563",
     "geom:latitude":45.466361,
     "geom:longitude":7.679088,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001067",
+        "eurostat:nuts_2021_id":"001067",
         "gn:id":6540909,
         "gp:id":20076457,
         "qs_pg:id":933320
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae448701fe04d856caad1a1ce1a0a582",
+    "wof:geomhash":"9cf5fa001eb3110d179b7daf9a911b77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456325,
-    "wof:lastmodified":1582328058,
+    "wof:lastmodified":1684353621,
     "wof:name":"Castelnuovo Nigra",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":414,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

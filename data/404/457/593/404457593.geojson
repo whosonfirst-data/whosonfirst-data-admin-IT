@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rive",
+    "eurostat:nuts_2021_id":"002115",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002115",
+    "eurostat:population":451,
+    "eurostat:population_year":2020,
     "geom:area":0.001078,
-    "geom:area_square_m":9395306.139595,
+    "geom:area_square_m":9395306.139596,
     "geom:bbox":"8.38623661289,45.1942796489,8.45521345867,45.223221734",
     "geom:latitude":45.209526,
     "geom:longitude":8.416718,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002115",
+        "eurostat:nuts_2021_id":"002115",
         "gn:id":6539805,
         "gp:id":12681399,
         "qs_pg:id":887323
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7bc860bf151ddaf9f098e690f67c9298",
+    "wof:geomhash":"7b8727a6716c729427fc8ebd530ff195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404457593,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353653,
     "wof:name":"Rive",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":451,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

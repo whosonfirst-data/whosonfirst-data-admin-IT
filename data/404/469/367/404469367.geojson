@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pasturo",
+    "eurostat:nuts_2021_id":"097065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097065",
+    "eurostat:population":1961,
+    "eurostat:population_year":2020,
     "geom:area":0.00253,
     "geom:area_square_m":21749276.650842,
     "geom:bbox":"9.38622470854,45.9219707046,9.45363041564,45.9745102544",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097065",
+        "eurostat:nuts_2021_id":"097065",
         "gn:id":6543337,
         "gp:id":12682665,
         "qs_pg:id":103848
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82649a8e8155e8d87563f4fa2e3ca02c",
+    "wof:geomhash":"91e77e1b274d3e354a87baec8fc2402d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469367,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353903,
     "wof:name":"Pasturo",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":1961,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

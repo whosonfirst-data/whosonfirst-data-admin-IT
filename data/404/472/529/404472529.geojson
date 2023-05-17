@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cattolica",
+    "eurostat:nuts_2021_id":"099002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099002",
+    "eurostat:population":17098,
+    "eurostat:population_year":2020,
     "geom:area":0.000694,
-    "geom:area_square_m":6175209.163244,
+    "geom:area_square_m":6175209.163246,
     "geom:bbox":"12.7094801486,43.939743717,12.7557071044,43.9733248043",
     "geom:latitude":43.95891,
     "geom:longitude":12.735517,
@@ -155,6 +167,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -162,9 +176,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099002",
+        "eurostat:nuts_2021_id":"099002"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"553ba13248e1a83b5580a651187acc17",
+    "wof:geomhash":"61d2fa7851ffc539c1a988616ea61e82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +192,12 @@
         }
     ],
     "wof:id":404472529,
-    "wof:lastmodified":1566723365,
+    "wof:lastmodified":1684353964,
     "wof:name":"Cattolica",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":17098,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

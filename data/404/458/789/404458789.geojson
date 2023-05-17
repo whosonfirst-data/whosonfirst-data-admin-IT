@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petacciato",
+    "eurostat:nuts_2021_id":"070051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070051",
+    "eurostat:population":3724,
+    "eurostat:population_year":2020,
     "geom:area":0.003829,
-    "geom:area_square_m":35174356.053757,
+    "geom:area_square_m":35174356.053756,
     "geom:bbox":"14.8058868214,41.9748795867,14.9002851957,42.0474606277",
     "geom:latitude":42.011825,
     "geom:longitude":14.847647,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070051",
+        "eurostat:nuts_2021_id":"070051",
         "gn:id":6540738,
         "gp:id":20076896,
         "qs_pg:id":51008
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"22455f2117b92cc163797df7191c20cc",
+    "wof:geomhash":"46289e9e4fac33a2a77603283de98dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458789,
-    "wof:lastmodified":1582327962,
+    "wof:lastmodified":1684353677,
     "wof:name":"Petacciato",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":3724,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

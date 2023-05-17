@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boretto",
+    "eurostat:nuts_2021_id":"035005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035005",
+    "eurostat:population":5331,
+    "eurostat:population_year":2020,
     "geom:area":0.002063,
-    "geom:area_square_m":18071497.903566,
+    "geom:area_square_m":18071497.903569,
     "geom:bbox":"10.5257571007,44.8767923094,10.5957583814,44.915303748",
     "geom:latitude":44.895129,
     "geom:longitude":10.561178,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035005",
+        "eurostat:nuts_2021_id":"035005",
         "gn:id":6536713,
         "gp:id":12676909,
         "qs_pg:id":103767
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"180afec0d64f9814a6fd72fe921554ff",
+    "wof:geomhash":"e60225e9cebaf6ce3bc0fcdc291b2112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467649,
-    "wof:lastmodified":1582327983,
+    "wof:lastmodified":1684353878,
     "wof:name":"Boretto",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":5331,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

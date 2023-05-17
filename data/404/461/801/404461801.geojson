@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cori",
+    "eurostat:nuts_2021_id":"059006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059006",
+    "eurostat:population":10740,
+    "eurostat:population_year":2020,
     "geom:area":0.009204,
-    "geom:area_square_m":85041996.611813,
+    "geom:area_square_m":85041996.611802,
     "geom:bbox":"12.8366535232,41.5955389434,12.9872735373,41.7147914225",
     "geom:latitude":41.646778,
     "geom:longitude":12.905821,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059006",
+        "eurostat:nuts_2021_id":"059006",
         "gn:id":6538694,
         "gp:id":12678904,
         "qs_pg:id":51123
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ceb0d4499ca01339504792e15c2342e",
+    "wof:geomhash":"f373b13568aa667b7688a464bcca565a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404461801,
-    "wof:lastmodified":1582328146,
+    "wof:lastmodified":1684353746,
     "wof:name":"Cori",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":10740,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pareto",
+    "eurostat:nuts_2021_id":"006125",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006125",
+    "eurostat:population":539,
+    "eurostat:population_year":2020,
     "geom:area":0.004728,
-    "geom:area_square_m":41684050.364999,
+    "geom:area_square_m":41684050.364996,
     "geom:bbox":"8.34299858783,44.4742895484,8.46988856423,44.5486773539",
     "geom:latitude":44.516754,
     "geom:longitude":8.40387,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006125",
+        "eurostat:nuts_2021_id":"006125",
         "gn:id":6543535,
         "gp:id":20075930,
         "qs_pg:id":1025578
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e68d782b54fedabb323fd02df66a6d5",
+    "wof:geomhash":"84601788b921373b10dd9d4f94bd6b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404460255,
-    "wof:lastmodified":1582328018,
+    "wof:lastmodified":1684353714,
     "wof:name":"Pareto",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":539,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

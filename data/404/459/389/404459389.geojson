@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villeneuve",
+    "eurostat:nuts_2021_id":"007074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007074",
+    "eurostat:population":1250,
+    "eurostat:population_year":2020,
     "geom:area":0.001017,
-    "geom:area_square_m":8780574.470944,
+    "geom:area_square_m":8780574.470945,
     "geom:bbox":"7.1837108493,45.6506673337,7.23158531834,45.7125319428",
     "geom:latitude":45.690882,
     "geom:longitude":7.20831,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007074",
+        "eurostat:nuts_2021_id":"007074",
         "gn:id":6543066,
         "gp:id":12682494,
         "qs_pg:id":1188000
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0deddd198f1ad9ead42f3f3682a50e3a",
+    "wof:geomhash":"44ac2cb9cf7ec3de66108c0303e69255",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404459389,
-    "wof:lastmodified":1582328177,
+    "wof:lastmodified":1684353692,
     "wof:name":"Villeneuve",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1250,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

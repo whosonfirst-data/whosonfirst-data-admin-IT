@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorbolo Mezzani",
+    "eurostat:nuts_2021_id":"034051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034051",
+    "eurostat:population":12720,
+    "eurostat:population_year":2020,
     "geom:area":0.004481,
-    "geom:area_square_m":39268632.200622,
+    "geom:area_square_m":39268632.200625,
     "geom:bbox":"10.3844743275,44.8195901871,10.4898508459,44.9112734293",
     "geom:latitude":44.864267,
     "geom:longitude":10.435059,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034051",
+        "eurostat:nuts_2021_id":"034051",
         "gn:id":6539703,
         "gp:id":12677863,
         "qs_pg:id":1142909
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7551ed70caf426a6c612eac2c77a34b1",
+    "wof:geomhash":"034547f5a67a731cbe9075c10651361d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467615,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353877,
     "wof:name":"Sorbolo",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":12720,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

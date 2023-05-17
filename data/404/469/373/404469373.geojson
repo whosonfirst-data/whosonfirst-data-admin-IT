@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perledo",
+    "eurostat:nuts_2021_id":"097067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097067",
+    "eurostat:population":894,
+    "eurostat:population_year":2020,
     "geom:area":0.001591,
-    "geom:area_square_m":13661884.451838,
+    "geom:area_square_m":13661884.451837,
     "geom:bbox":"9.26099530289,45.9966256402,9.33433803489,46.0408478892",
     "geom:latitude":46.019377,
     "geom:longitude":9.296644,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097067",
+        "eurostat:nuts_2021_id":"097067",
         "gn:id":6543339,
         "gp:id":12681344,
         "qs_pg:id":103849
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ed38c478ba58070044af4fdf7f2bd04",
+    "wof:geomhash":"3029dd115c642f3477e7dd9c817c7961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469373,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353903,
     "wof:name":"Perledo",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":894,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

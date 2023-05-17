@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Anna d'Alfaedo",
+    "eurostat:nuts_2021_id":"023078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023078",
+    "eurostat:population":2540,
+    "eurostat:population_year":2020,
     "geom:area":0.005012,
-    "geom:area_square_m":43337424.031444,
+    "geom:area_square_m":43337424.03144,
     "geom:bbox":"10.905506768,45.5796488197,10.9865113392,45.7018011322",
     "geom:latitude":45.6312,
     "geom:longitude":10.950122,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023078",
+        "eurostat:nuts_2021_id":"023078",
         "gn:id":6540378,
         "gp:id":12681821,
         "qs_pg:id":334195
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1447d65d2a62fc872a488db7258c9b63",
+    "wof:geomhash":"d48595ddd17d0e327bb42aaa570f3104",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458075,
-    "wof:lastmodified":1582327955,
+    "wof:lastmodified":1684353662,
     "wof:name":"Sant'Anna D'Alfaedo",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":2540,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

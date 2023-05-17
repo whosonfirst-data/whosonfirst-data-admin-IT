@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Settimo Torinese",
+    "eurostat:nuts_2021_id":"001265",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001265",
+    "eurostat:population":46925,
+    "eurostat:population_year":2020,
     "geom:area":0.003705,
-    "geom:area_square_m":32313927.941082,
+    "geom:area_square_m":32313927.941083,
     "geom:bbox":"7.714918252,45.1113688253,7.83212119554,45.1750580254",
     "geom:latitude":45.145652,
     "geom:longitude":7.771436,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001265",
+        "eurostat:nuts_2021_id":"001265",
         "gn:id":6540923,
         "gp:id":12681996,
         "qs_pg:id":234703
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7194241fa4acc1740538b8a1f762daa8",
+    "wof:geomhash":"f3ca9cf82eac232c8f1bc7a68de93c00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404457339,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353647,
     "wof:name":"Settimo Torinese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":46925,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

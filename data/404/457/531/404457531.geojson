@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gattinara",
+    "eurostat:nuts_2021_id":"002061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002061",
+    "eurostat:population":7771,
+    "eurostat:population_year":2020,
     "geom:area":0.003886,
-    "geom:area_square_m":33613840.73768,
+    "geom:area_square_m":33613840.737677,
     "geom:bbox":"8.31923923462,45.5710961031,8.39440275051,45.645124829",
     "geom:latitude":45.604258,
     "geom:longitude":8.357473,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002061",
+        "eurostat:nuts_2021_id":"002061",
         "gn:id":6540103,
         "gp:id":12679509,
         "qs_pg:id":1095082
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46086ce41feb44a0244bf607d206ed57",
+    "wof:geomhash":"47f389f8901b6df49a1a7c045294bae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457531,
-    "wof:lastmodified":1582328110,
+    "wof:lastmodified":1684353652,
     "wof:name":"Gattinara",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":7771,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

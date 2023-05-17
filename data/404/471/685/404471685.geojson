@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terzolas",
+    "eurostat:nuts_2021_id":"022195",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022195",
+    "eurostat:population":642,
+    "eurostat:population_year":2020,
     "geom:area":0.000653,
-    "geom:area_square_m":5576449.339051,
+    "geom:area_square_m":5576449.33905,
     "geom:bbox":"10.9131767235,46.3373195572,10.9498422132,46.3887093043",
     "geom:latitude":46.359478,
     "geom:longitude":10.931409,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022195",
+        "eurostat:nuts_2021_id":"022195",
         "gn:id":6542693,
         "gp:id":12677314,
         "qs_pg:id":39592
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f82a64fc229cd174bacf160ac862c3ab",
+    "wof:geomhash":"417db772226ce89eb102f8a9e138b27c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471685,
-    "wof:lastmodified":1582327726,
+    "wof:lastmodified":1684353944,
     "wof:name":"Terzolas",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":642,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

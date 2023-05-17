@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre San Giorgio",
+    "eurostat:nuts_2021_id":"004228",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004228",
+    "eurostat:population":731,
+    "eurostat:population_year":2020,
     "geom:area":0.000613,
-    "geom:area_square_m":5381390.147358,
+    "geom:area_square_m":5381390.14736,
     "geom:bbox":"7.51606598698,44.7108426947,7.54145477514,44.7462012991",
     "geom:latitude":44.728178,
     "geom:longitude":7.528165,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004228",
+        "eurostat:nuts_2021_id":"004228",
         "gn:id":6542840,
         "gp:id":20075817,
         "qs_pg:id":205049
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d8e0086bb86b300794d06fe0add4aca",
+    "wof:geomhash":"c94acc6c0f1e2ad1bcf7217ec3b75872",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455861,
-    "wof:lastmodified":1582327813,
+    "wof:lastmodified":1684353612,
     "wof:name":"Torre San Giorgio",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":731,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

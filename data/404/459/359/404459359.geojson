@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Nicolas",
+    "eurostat:nuts_2021_id":"007061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007061",
+    "eurostat:population":314,
+    "eurostat:population_year":2020,
     "geom:area":0.001787,
-    "geom:area_square_m":15426448.16221,
+    "geom:area_square_m":15426448.162208,
     "geom:bbox":"7.12697683309,45.706696928,7.20372818355,45.7559583674",
     "geom:latitude":45.726497,
     "geom:longitude":7.162893,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007061",
+        "eurostat:nuts_2021_id":"007061"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"461f4cdd84de17a5173c156028c8d9fa",
+    "wof:geomhash":"6316b0144c259a2b29a06298a0dbd597",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459359,
-    "wof:lastmodified":1566723742,
+    "wof:lastmodified":1684353692,
     "wof:name":"Saint-Nicolas",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":314,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

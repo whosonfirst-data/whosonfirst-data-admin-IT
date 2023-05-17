@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apollosa",
+    "eurostat:nuts_2021_id":"062004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062004",
+    "eurostat:population":2588,
+    "eurostat:population_year":2020,
     "geom:area":0.002252,
-    "geom:area_square_m":20991464.815048,
+    "geom:area_square_m":20991464.81505,
     "geom:bbox":"14.6668407716,41.0589626301,14.7443347178,41.1196355198",
     "geom:latitude":41.090539,
     "geom:longitude":14.703749,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_062004",
+        "eurostat:nuts_2021_id":"062004"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"94ab4d16b0be314dca77de0c55cd2f3a",
+    "wof:geomhash":"57b3072dfb4687c96cb6013bbda52b92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404460701,
-    "wof:lastmodified":1566723500,
+    "wof:lastmodified":1684353723,
     "wof:name":"Apollosa",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2588,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

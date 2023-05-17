@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conzano",
+    "eurostat:nuts_2021_id":"006061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006061",
+    "eurostat:population":955,
+    "eurostat:population_year":2020,
     "geom:area":0.001327,
     "geom:area_square_m":11595485.961269,
     "geom:bbox":"8.44144806643,45.009160565,8.48541160066,45.0600177021",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006061",
+        "eurostat:nuts_2021_id":"006061",
         "gn:id":6542418,
         "gp:id":20075902,
         "qs_pg:id":1197090
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42026941ba3f6cfba0902e88f921100b",
+    "wof:geomhash":"7297dbeea6bc5a8ac41ce99e060590b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460111,
-    "wof:lastmodified":1582328006,
+    "wof:lastmodified":1684353710,
     "wof:name":"Conzano",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":955,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

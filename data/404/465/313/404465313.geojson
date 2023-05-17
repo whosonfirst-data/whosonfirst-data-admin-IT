@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montefalcione",
+    "eurostat:nuts_2021_id":"064053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064053",
+    "eurostat:population":3235,
+    "eurostat:population_year":2020,
     "geom:area":0.001628,
-    "geom:area_square_m":15195790.158843,
+    "geom:area_square_m":15195790.158842,
     "geom:bbox":"14.8555436207,40.9467474432,14.9153856899,40.9915969607",
     "geom:latitude":40.968384,
     "geom:longitude":14.887774,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064053",
+        "eurostat:nuts_2021_id":"064053",
         "gn:id":6538789,
         "gp:id":12680497,
         "qs_pg:id":537448
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f9e44696ab322644e30ed800f4c1db2",
+    "wof:geomhash":"e0ea296afae1e5b7565882287c486e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465313,
-    "wof:lastmodified":1582327836,
+    "wof:lastmodified":1684353829,
     "wof:name":"Montefalcione",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3235,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Basilio",
+    "eurostat:nuts_2021_id":"111061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111061",
+    "eurostat:population":1191,
+    "eurostat:population_year":2020,
     "geom:area":0.004678,
-    "geom:area_square_m":44620853.677904,
+    "geom:area_square_m":44620853.677909,
     "geom:bbox":"9.16326471504,39.4858432886,9.25306698574,39.5553060327",
     "geom:latitude":39.519597,
     "geom:longitude":9.209292,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111061",
+        "eurostat:nuts_2021_id":"111061",
         "gn:id":6539877,
         "gp:id":12681571,
         "qs_pg:id":1196080
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b10494e65b9b0f958b890a99ae431dc9",
+    "wof:geomhash":"1a8cfb092baaddf4bee000518328f926",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466863,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353860,
     "wof:name":"San Basilio",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1191,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Majano",
+    "eurostat:nuts_2021_id":"030053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030053",
+    "eurostat:population":5911,
+    "eurostat:population_year":2020,
     "geom:area":0.00329,
-    "geom:area_square_m":28161090.919852,
+    "geom:area_square_m":28161090.919856,
     "geom:bbox":"13.0222476063,46.1545239447,13.1076557538,46.218646641",
     "geom:latitude":46.187052,
     "geom:longitude":13.063992,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030053",
+        "eurostat:nuts_2021_id":"030053",
         "gn:id":6543578,
         "gp:id":12678027,
         "qs_pg:id":1172853
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa0bc112b9e95479c48cfe005a17151e",
+    "wof:geomhash":"07ec296ee1b57cc2f7097f3035700900",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470555,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353923,
     "wof:name":"Majano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":5911,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

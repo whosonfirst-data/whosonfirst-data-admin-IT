@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chianche",
+    "eurostat:nuts_2021_id":"064027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064027",
+    "eurostat:population":459,
+    "eurostat:population_year":2020,
     "geom:area":0.000704,
-    "geom:area_square_m":6566241.832237,
+    "geom:area_square_m":6566241.832236,
     "geom:bbox":"14.7704023074,41.0177965537,14.8079683712,41.060320494",
     "geom:latitude":41.041932,
     "geom:longitude":14.788526,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064027",
+        "eurostat:nuts_2021_id":"064027",
         "gn:id":6537361,
         "gp:id":12676424,
         "qs_pg:id":1316433
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b6e625dd35d49802f57d2fe74ecc059",
+    "wof:geomhash":"d50ec2568d2bdde5eeabd77881a980cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465255,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353828,
     "wof:name":"Chianche",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":459,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

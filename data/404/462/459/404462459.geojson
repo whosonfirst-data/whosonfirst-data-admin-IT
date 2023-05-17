@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Farindola",
+    "eurostat:nuts_2021_id":"068019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068019",
+    "eurostat:population":1418,
+    "eurostat:population_year":2020,
     "geom:area":0.00496,
-    "geom:area_square_m":45263399.718158,
+    "geom:area_square_m":45263399.718161,
     "geom:bbox":"13.7653323519,42.3724880943,13.8716963353,42.4731479178",
     "geom:latitude":42.432155,
     "geom:longitude":13.813637,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_068019",
+        "eurostat:nuts_2021_id":"068019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"83e9cf791a1d6ed260e3790804ad1756",
+    "wof:geomhash":"b19cc7d6dcb8063b6bf869d85fc8d7f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404462459,
-    "wof:lastmodified":1566723338,
+    "wof:lastmodified":1684353759,
     "wof:name":"Farindola",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":1418,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Subiaco",
+    "eurostat:nuts_2021_id":"058103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058103",
+    "eurostat:population":8800,
+    "eurostat:population_year":2020,
     "geom:area":0.00685,
-    "geom:area_square_m":63010934.399402,
+    "geom:area_square_m":63010934.399407,
     "geom:bbox":"13.0508683587,41.8930001883,13.2039589835,41.9684283684",
     "geom:latitude":41.935474,
     "geom:longitude":13.11623,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058103",
+        "eurostat:nuts_2021_id":"058103",
         "gn:id":6540526,
         "gp:id":12682113,
         "qs_pg:id":218680
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f8da768905f19d20b92e3c8931ea962",
+    "wof:geomhash":"82ad1ef6aeb9e270d9dd1521dce0e7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404461747,
-    "wof:lastmodified":1582328134,
+    "wof:lastmodified":1684353745,
     "wof:name":"Subiaco",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":8800,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

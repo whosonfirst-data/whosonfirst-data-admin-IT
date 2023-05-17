@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivalta di Torino",
+    "eurostat:nuts_2021_id":"001214",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001214",
+    "eurostat:population":20267,
+    "eurostat:population_year":2020,
     "geom:area":0.002868,
-    "geom:area_square_m":25065511.167217,
+    "geom:area_square_m":25065511.167214,
     "geom:bbox":"7.47134111911,44.9832396984,7.56860010029,45.0485642633",
     "geom:latitude":45.022467,
     "geom:longitude":7.520128,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001214",
+        "eurostat:nuts_2021_id":"001214"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5bfb96a890a93da2a8ceb309bc84f45f",
+    "wof:geomhash":"411b3f567e276f918ea71f2d1cca04da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404457225,
-    "wof:lastmodified":1566723671,
+    "wof:lastmodified":1684353645,
     "wof:name":"Rivalta Di Torino",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":20267,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

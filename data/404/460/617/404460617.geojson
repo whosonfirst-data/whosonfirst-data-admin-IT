@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gesico",
+    "eurostat:nuts_2021_id":"111026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111026",
+    "eurostat:population":808,
+    "eurostat:population_year":2020,
     "geom:area":0.00269,
     "geom:area_square_m":25619969.413872,
     "geom:bbox":"9.0352970513,39.5991012527,9.13801677216,39.6408201844",
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111026",
+        "eurostat:nuts_2021_id":"111026",
         "gn:id":6537897,
         "gp:id":12679544,
         "qs_pg:id":1196001
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acf89933ac76e22d2d846f6cedd679df",
+    "wof:geomhash":"4a59703847a8ab6bfe3ce092feace756",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404460617,
-    "wof:lastmodified":1582327998,
+    "wof:lastmodified":1684353722,
     "wof:name":"Gesico",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":808,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

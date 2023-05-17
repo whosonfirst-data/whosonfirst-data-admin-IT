@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agrate Brianza",
+    "eurostat:nuts_2021_id":"108001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108001",
+    "eurostat:population":15605,
+    "eurostat:population_year":2020,
     "geom:area":0.001294,
     "geom:area_square_m":11200889.106527,
     "geom:bbox":"9.31950766018,45.5587078613,9.40389376498,45.5905420176",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108001",
+        "eurostat:nuts_2021_id":"108001",
         "gn:id":3183417,
         "gp:id":12675833,
         "qs_pg:id":1229766
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1f56be0463920822a4052e3c66210847",
+    "wof:geomhash":"76491b06f5d960548027ec436b166361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469563,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353906,
     "wof:name":"Agrate Brianza",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":15605,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

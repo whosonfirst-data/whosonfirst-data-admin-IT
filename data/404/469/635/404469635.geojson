@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albaredo d'Adige",
+    "eurostat:nuts_2021_id":"023002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023002",
+    "eurostat:population":5246,
+    "eurostat:population_year":2020,
     "geom:area":0.003241,
     "geom:area_square_m":28190974.454269,
     "geom:bbox":"11.2543245035,45.2652224661,11.3380583466,45.332720327",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023002",
+        "eurostat:nuts_2021_id":"023002",
         "gn:id":6538230,
         "gp:id":12675889,
         "qs_pg:id":332569
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee17cde8528c878deb5037c9bbcebeb3",
+    "wof:geomhash":"d29533542261c9e64e1e977365665290",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469635,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353907,
     "wof:name":"Albaredo D'Adige",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":5246,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

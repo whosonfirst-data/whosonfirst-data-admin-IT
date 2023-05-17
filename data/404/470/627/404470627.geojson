@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prepotto",
+    "eurostat:nuts_2021_id":"030085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030085",
+    "eurostat:population":740,
+    "eurostat:population_year":2020,
     "geom:area":0.003857,
-    "geom:area_square_m":33082474.814841,
+    "geom:area_square_m":33082474.814838,
     "geom:bbox":"13.4528686197,46.0054337071,13.6026164629,46.1169360616",
     "geom:latitude":46.072644,
     "geom:longitude":13.511396,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030085",
+        "eurostat:nuts_2021_id":"030085",
         "gn:id":6539936,
         "gp:id":20076723,
         "qs_pg:id":968858
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86a896625b22e6c486fec001d9d7fbe5",
+    "wof:geomhash":"99bfef9b5f5448bc7937a06be15f55b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470627,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353925,
     "wof:name":"Prepotto",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

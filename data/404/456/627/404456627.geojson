@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soleto",
+    "eurostat:nuts_2021_id":"075076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075076",
+    "eurostat:population":5341,
+    "eurostat:population_year":2020,
     "geom:area":0.003176,
-    "geom:area_square_m":29992695.445276,
+    "geom:area_square_m":29992695.445283,
     "geom:bbox":"18.1555791225,40.1582998999,18.2416191545,40.2441308791",
     "geom:latitude":40.198207,
     "geom:longitude":18.19753,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075076",
+        "eurostat:nuts_2021_id":"075076",
         "gn:id":6538986,
         "gp:id":12682040,
         "qs_pg:id":42747
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea092005e2b043ae66edeb53d9f934c6",
+    "wof:geomhash":"324a1a3127ac6e5e9f62b29ba11664a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404456627,
-    "wof:lastmodified":1582328051,
+    "wof:lastmodified":1684353628,
     "wof:name":"Soleto",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":5341,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

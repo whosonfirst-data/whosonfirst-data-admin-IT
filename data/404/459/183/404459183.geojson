@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Catenanuova",
+    "eurostat:nuts_2021_id":"086006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086006",
+    "eurostat:population":4636,
+    "eurostat:population_year":2020,
     "geom:area":0.001139,
-    "geom:area_square_m":11159140.665144,
+    "geom:area_square_m":11159140.665147,
     "geom:bbox":"14.670175609,37.5513774395,14.7238780569,37.5884528654",
     "geom:latitude":37.571063,
     "geom:longitude":14.694135,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086006",
+        "eurostat:nuts_2021_id":"086006",
         "gn:id":6539186,
         "gp:id":12677534,
         "qs_pg:id":907379
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf2aa7c592235fbebb010330f681b77a",
+    "wof:geomhash":"94e24ec0e9f620abcf4a2705ef00d6c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459183,
-    "wof:lastmodified":1582328177,
+    "wof:lastmodified":1684353688,
     "wof:name":"Catenanuova",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":4636,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

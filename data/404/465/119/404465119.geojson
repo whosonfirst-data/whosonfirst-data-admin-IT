@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portici",
+    "eurostat:nuts_2021_id":"063059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063059",
+    "eurostat:population":53724,
+    "eurostat:population_year":2020,
     "geom:area":0.000489,
-    "geom:area_square_m":4580549.016966,
+    "geom:area_square_m":4580549.016971,
     "geom:bbox":"14.319817,40.804376,14.360388,40.830166",
     "geom:latitude":40.818836,
     "geom:longitude":14.341879,
@@ -191,14 +203,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227525,
-        85685487
+        85685487,
+        404227525
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063059",
+        "eurostat:nuts_2021_id":"063059",
         "gn:id":6538768,
         "gp:id":12681231,
         "qs_pg:id":1093130
@@ -210,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a46cb275316b671cee875b17f71edf3",
+    "wof:geomhash":"33a2d365c08b8632ca4e1c2c118e1dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,10 +237,12 @@
         }
     ],
     "wof:id":404465119,
-    "wof:lastmodified":1608040041,
+    "wof:lastmodified":1684353826,
     "wof:name":"Portici",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":53724,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viareggio",
+    "eurostat:nuts_2021_id":"046033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046033",
+    "eurostat:population":61989,
+    "eurostat:population_year":2020,
     "geom:area":0.003631,
-    "geom:area_square_m":32372758.793267,
+    "geom:area_square_m":32372758.793259,
     "geom:bbox":"10.2277899171,43.8156308283,10.3114861858,43.896456057",
     "geom:latitude":43.854432,
     "geom:longitude":10.267539,
@@ -197,6 +209,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -205,6 +219,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046033",
+        "eurostat:nuts_2021_id":"046033",
         "gn:id":6541645,
         "gp:id":12682218,
         "qs_pg:id":538195
@@ -213,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7be4ee5667e867b2a0957791c7a4947c",
+    "wof:geomhash":"b2d6def1b7d8972a7b161c3047d965be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404472683,
-    "wof:lastmodified":1582327901,
+    "wof:lastmodified":1684353967,
     "wof:name":"Viareggio",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":61989,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

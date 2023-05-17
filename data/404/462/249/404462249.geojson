@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca di Cambio",
+    "eurostat:nuts_2021_id":"066081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066081",
+    "eurostat:population":480,
+    "eurostat:population_year":2020,
     "geom:area":0.003004,
-    "geom:area_square_m":27507116.984904,
+    "geom:area_square_m":27507116.984907,
     "geom:bbox":"13.4361698956,42.1961851186,13.5166368095,42.2587471388",
     "geom:latitude":42.229246,
     "geom:longitude":13.473914,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066081",
+        "eurostat:nuts_2021_id":"066081",
         "gn:id":6537443,
         "gp:id":12679336,
         "qs_pg:id":40813
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a6bbe93d1082d5a4d17135be6864863",
+    "wof:geomhash":"327ed1b7cd7e11bb758792dc3d08c753",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404462249,
-    "wof:lastmodified":1582327868,
+    "wof:lastmodified":1684353755,
     "wof:name":"Rocca Di Cambio",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":480,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

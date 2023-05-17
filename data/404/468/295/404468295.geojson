@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arconate",
+    "eurostat:nuts_2021_id":"015007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015007",
+    "eurostat:population":6694,
+    "eurostat:population_year":2020,
     "geom:area":0.000971,
     "geom:area_square_m":8408600.085836,
     "geom:bbox":"8.81569519012,45.5251654608,8.86541425813,45.5603963406",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015007",
+        "eurostat:nuts_2021_id":"015007",
         "gn:id":6536133,
         "gp:id":12676196,
         "qs_pg:id":276720
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dedb76732f2991c1ff71ba6ed8c6464f",
+    "wof:geomhash":"d50ecf69105967cdad849e3a87ef42d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468295,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353887,
     "wof:name":"Arconate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":6694,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

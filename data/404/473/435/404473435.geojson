@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cloz",
+    "eurostat:nuts_2021_id":"022063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022063",
+    "eurostat:population":654,
+    "eurostat:population_year":2020,
     "geom:area":0.000961,
-    "geom:area_square_m":8192290.314084,
+    "geom:area_square_m":8192290.314088,
     "geom:bbox":"11.0529554535,46.4048639892,11.0975986204,46.4460741658",
     "geom:latitude":46.422586,
     "geom:longitude":11.075343,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022063",
+        "eurostat:nuts_2021_id":"022063",
         "gn:id":6537253,
         "gp:id":20076607,
         "qs_pg:id":50809
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b4c94788f67801ad4db471b7a281df3",
+    "wof:geomhash":"4576c59c13987870dcd726325ad6c10d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473435,
-    "wof:lastmodified":1582327931,
+    "wof:lastmodified":1684353989,
     "wof:name":"Cloz",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":654,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

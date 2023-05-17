@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bodio Lomnago",
+    "eurostat:nuts_2021_id":"012016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012016",
+    "eurostat:population":2215,
+    "eurostat:population_year":2020,
     "geom:area":0.000468,
     "geom:area_square_m":4032323.640394,
     "geom:bbox":"8.73993705639,45.7750175386,8.76229264577,45.8055644922",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012016",
+        "eurostat:nuts_2021_id":"012016",
         "gn:id":6542505,
         "gp:id":20076016,
         "qs_pg:id":334695
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"424f6cb251a975e9e79a312c88230f6e",
+    "wof:geomhash":"86682e3b2173931794f68000602345ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467409,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353873,
     "wof:name":"Bodio Lomnago",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":2215,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

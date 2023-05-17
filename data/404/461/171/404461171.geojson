@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montelparo",
+    "eurostat:nuts_2021_id":"109020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109020",
+    "eurostat:population":735,
+    "eurostat:population_year":2020,
     "geom:area":0.002382,
-    "geom:area_square_m":21534396.103775,
+    "geom:area_square_m":21534396.103774,
     "geom:bbox":"13.518460944,42.9879499373,13.5833541848,43.0448380811",
     "geom:latitude":43.013409,
     "geom:longitude":13.546528,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109020",
+        "eurostat:nuts_2021_id":"109020",
         "gn:id":6538539,
         "gp:id":12680466,
         "qs_pg:id":51261
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aeaf0a73eb353c6fe05a6d3493c66716",
+    "wof:geomhash":"8469d0de5aa6f3a686a41ab17f805fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461171,
-    "wof:lastmodified":1582328151,
+    "wof:lastmodified":1684353733,
     "wof:name":"Montelparo",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":735,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

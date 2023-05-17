@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Recale",
+    "eurostat:nuts_2021_id":"061067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061067",
+    "eurostat:population":7820,
+    "eurostat:population_year":2020,
     "geom:area":0.000343,
     "geom:area_square_m":3202322.353774,
     "geom:bbox":"14.2911959205,41.0477122665,14.3192256077,41.069029204",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061067",
+        "eurostat:nuts_2021_id":"061067",
         "gn:id":6537013,
         "gp:id":12682588,
         "qs_pg:id":43118
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8ab5c18a4f038faaa25a833c7ed5150",
+    "wof:geomhash":"76e7fbbef94586fc2337cdab56bcf0bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463107,
-    "wof:lastmodified":1582327778,
+    "wof:lastmodified":1684353772,
     "wof:name":"Recale",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":7820,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agnone",
+    "eurostat:nuts_2021_id":"094002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094002",
+    "eurostat:population":4901,
+    "eurostat:population_year":2020,
     "geom:area":0.010449,
-    "geom:area_square_m":96320200.627513,
+    "geom:area_square_m":96320200.627507,
     "geom:bbox":"14.2919098921,41.7241959019,14.4548184898,41.8798873921",
     "geom:latitude":41.800967,
     "geom:longitude":14.360356,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094002",
+        "eurostat:nuts_2021_id":"094002",
         "gn:id":6540872,
         "gp:id":12675828,
         "qs_pg:id":239151
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f832fc47fd006adc470bc0b13ebe05e",
+    "wof:geomhash":"c8d4c41552611b41e29e1b352de389be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462843,
-    "wof:lastmodified":1582327856,
+    "wof:lastmodified":1684353767,
     "wof:name":"Agnone",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":4901,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

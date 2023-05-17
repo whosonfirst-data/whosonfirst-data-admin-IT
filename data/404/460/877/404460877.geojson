@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anacapri",
+    "eurostat:nuts_2021_id":"063004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063004",
+    "eurostat:population":7042,
+    "eurostat:population_year":2020,
     "geom:area":0.000685,
-    "geom:area_square_m":6433659.957767,
+    "geom:area_square_m":6433659.957769,
     "geom:bbox":"14.195780252,40.5358389202,14.2324699473,40.5619434824",
     "geom:latitude":40.549315,
     "geom:longitude":14.213205,
@@ -155,6 +167,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -162,9 +176,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_063004",
+        "eurostat:nuts_2021_id":"063004"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"469f500ff00a09f16cf4e75259a24b62",
+    "wof:geomhash":"5da3f4f1c79016f95db0c7e9011f8371",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +192,12 @@
         }
     ],
     "wof:id":404460877,
-    "wof:lastmodified":1566723525,
+    "wof:lastmodified":1684353726,
     "wof:name":"Anacapri",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":7042,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

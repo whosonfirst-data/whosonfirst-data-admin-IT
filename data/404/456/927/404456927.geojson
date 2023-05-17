@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_074012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostuni",
+    "eurostat:nuts_2021_id":"074012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF44",
+    "eurostat:nuts_2021_level_lau":"074012",
+    "eurostat:population":31083,
+    "eurostat:population_year":2020,
     "geom:area":0.023757,
-    "geom:area_square_m":222607773.942508,
+    "geom:area_square_m":222607773.94255,
     "geom:bbox":"17.36604941,40.6416366453,17.6769761156,40.8143383868",
     "geom:latitude":40.729984,
     "geom:longitude":17.54883,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_074012",
+        "eurostat:nuts_2021_id":"074012",
         "gn:id":6538961,
         "gp:id":12680841,
         "qs_pg:id":41858
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cccaf8e242a0d405ed4fdc78f956175a",
+    "wof:geomhash":"5afc5705cf81e662d6c910bd2b7cb9f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456927,
-    "wof:lastmodified":1582328070,
+    "wof:lastmodified":1684353637,
     "wof:name":"Ostuni",
     "wof:parent_id":85685543,
     "wof:placetype":"localadmin",
+    "wof:population":31083,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

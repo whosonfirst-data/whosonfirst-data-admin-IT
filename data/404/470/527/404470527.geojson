@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forni Avoltri",
+    "eurostat:nuts_2021_id":"030040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030040",
+    "eurostat:population":551,
+    "eurostat:population_year":2020,
     "geom:area":0.009468,
-    "geom:area_square_m":80442778.173712,
+    "geom:area_square_m":80442778.173705,
     "geom:bbox":"12.7275071186,46.5439725902,12.8985649797,46.6478011229",
     "geom:latitude":46.599146,
     "geom:longitude":12.794855,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_030040",
+        "eurostat:nuts_2021_id":"030040"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8796917eb2a6df16c426bf02c08ca71d",
+    "wof:geomhash":"83c3026d62b160ab9284dd146310e4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404470527,
-    "wof:lastmodified":1566723144,
+    "wof:lastmodified":1684353923,
     "wof:name":"Forni Avoltri",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":551,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

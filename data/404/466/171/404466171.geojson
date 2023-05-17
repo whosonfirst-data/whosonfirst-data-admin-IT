@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tavernola Bergamasca",
+    "eurostat:nuts_2021_id":"016211",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016211",
+    "eurostat:population":2018,
+    "eurostat:population_year":2020,
     "geom:area":0.001291,
-    "geom:area_square_m":11152142.695738,
+    "geom:area_square_m":11152142.695736,
     "geom:bbox":"10.0145730488,45.6785175896,10.0655603399,45.7250515696",
     "geom:latitude":45.703304,
     "geom:longitude":10.045553,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016211",
+        "eurostat:nuts_2021_id":"016211",
         "gn:id":6540180,
         "gp:id":12682144,
         "qs_pg:id":209232
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47c89a9b40d2a23c4f3cbfda47b8aa87",
+    "wof:geomhash":"ad2b3444b3e568284561a22a2d3dc294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404466171,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353844,
     "wof:name":"Tavernola Bergamasca",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":2018,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

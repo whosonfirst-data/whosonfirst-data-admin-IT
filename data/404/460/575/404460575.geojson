@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siniscola",
+    "eurostat:nuts_2021_id":"091085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091085",
+    "eurostat:population":11559,
+    "eurostat:population_year":2020,
     "geom:area":0.02089,
-    "geom:area_square_m":196300757.199455,
+    "geom:area_square_m":196300757.199478,
     "geom:bbox":"9.57972753865,40.4720388266,9.82708872731,40.6146110609",
     "geom:latitude":40.541552,
     "geom:longitude":9.716513,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091085",
+        "eurostat:nuts_2021_id":"091085",
         "gn:id":6539876,
         "gp:id":20076827,
         "qs_pg:id":248823
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5877199c736ade4ad81a5901cf034a03",
+    "wof:geomhash":"0b7c4e92393865e26462691f1af21f30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460575,
-    "wof:lastmodified":1582328006,
+    "wof:lastmodified":1684353721,
     "wof:name":"Siniscola",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":11559,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

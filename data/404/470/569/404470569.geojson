@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moggio Udinese",
+    "eurostat:nuts_2021_id":"030059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030059",
+    "eurostat:population":1676,
+    "eurostat:population_year":2020,
     "geom:area":0.016651,
-    "geom:area_square_m":141832283.599955,
+    "geom:area_square_m":141832283.599946,
     "geom:bbox":"13.1019298516,46.3648907587,13.2772006532,46.5720433341",
     "geom:latitude":46.458902,
     "geom:longitude":13.193617,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030059",
+        "eurostat:nuts_2021_id":"030059",
         "gn:id":6536249,
         "gp:id":12679667,
         "qs_pg:id":41042
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db02c07e0ba5dad895791a13dbd509bd",
+    "wof:geomhash":"58085076099fcfad0a3d09780b6e0c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470569,
-    "wof:lastmodified":1582327736,
+    "wof:lastmodified":1684353924,
     "wof:name":"Moggio Udinese",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1676,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

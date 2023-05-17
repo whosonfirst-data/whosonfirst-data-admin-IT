@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bogogno",
+    "eurostat:nuts_2021_id":"003021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003021",
+    "eurostat:population":1275,
+    "eurostat:population_year":2020,
     "geom:area":0.000983,
-    "geom:area_square_m":8496709.784926,
+    "geom:area_square_m":8496709.784927,
     "geom:bbox":"8.5164249175,45.6446111731,8.55929482989,45.6803469064",
     "geom:latitude":45.662123,
     "geom:longitude":8.53467,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003021",
+        "eurostat:nuts_2021_id":"003021",
         "gn:id":6543269,
         "gp:id":20075707,
         "qs_pg:id":1158769
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8dbed0ffb3021c72c4ce3afa850a8577",
+    "wof:geomhash":"c0d3a4e8214d1c76b0f9f2b5d6524413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457665,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353655,
     "wof:name":"Bogogno",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1275,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

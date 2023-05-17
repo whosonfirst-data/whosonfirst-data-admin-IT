@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Samatzai",
+    "eurostat:nuts_2021_id":"111060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111060",
+    "eurostat:population":1615,
+    "eurostat:population_year":2020,
     "geom:area":0.003265,
-    "geom:area_square_m":31157227.952244,
+    "geom:area_square_m":31157227.952246,
     "geom:bbox":"9.00724089004,39.4460825429,9.09813275211,39.529873913",
     "geom:latitude":39.483451,
     "geom:longitude":9.043319,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111060",
+        "eurostat:nuts_2021_id":"111060",
         "gn:id":6537907,
         "gp:id":12681555,
         "qs_pg:id":209220
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b54aff3525b3a3e59e9dd917d5eb89cb",
+    "wof:geomhash":"85198a6c662e9652953d188736115b33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466861,
-    "wof:lastmodified":1582328190,
+    "wof:lastmodified":1684353860,
     "wof:name":"Samatzai",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1615,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pignataro Maggiore",
+    "eurostat:nuts_2021_id":"061060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061060",
+    "eurostat:population":5830,
+    "eurostat:population_year":2020,
     "geom:area":0.003461,
-    "geom:area_square_m":32216039.262311,
+    "geom:area_square_m":32216039.262315,
     "geom:bbox":"14.0781515415,41.1260598202,14.189156264,41.2129535795",
     "geom:latitude":41.169892,
     "geom:longitude":14.139708,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061060",
+        "eurostat:nuts_2021_id":"061060",
         "gn:id":6539458,
         "gp:id":12681116,
         "qs_pg:id":947276
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9535f1e61ae091152cbc80ae808c8bb",
+    "wof:geomhash":"09d968b0ce74b909ef55b54f0ad49d0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463091,
-    "wof:lastmodified":1582327768,
+    "wof:lastmodified":1684353772,
     "wof:name":"Pignataro Maggiore",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":5830,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

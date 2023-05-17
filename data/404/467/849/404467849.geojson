@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mornago",
+    "eurostat:nuts_2021_id":"012106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012106",
+    "eurostat:population":4968,
+    "eurostat:population_year":2020,
     "geom:area":0.001416,
-    "geom:area_square_m":12216964.690258,
+    "geom:area_square_m":12216964.690255,
     "geom:bbox":"8.72451483765,45.710764314,8.78065820822,45.7613739031",
     "geom:latitude":45.736904,
     "geom:longitude":8.750883,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012106",
+        "eurostat:nuts_2021_id":"012106",
         "gn:id":6536106,
         "gp:id":12677271,
         "qs_pg:id":39564
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3ac6d6fce82a624354a94aeeb5d991e",
+    "wof:geomhash":"350595d0e157d41217d63388603d56b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467849,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353880,
     "wof:name":"Mornago",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":4968,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

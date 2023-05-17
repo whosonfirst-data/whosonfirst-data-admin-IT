@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ripe San Ginesio",
+    "eurostat:nuts_2021_id":"043045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043045",
+    "eurostat:population":840,
+    "eurostat:population_year":2020,
     "geom:area":0.001123,
-    "geom:area_square_m":10128522.419643,
+    "geom:area_square_m":10128522.419644,
     "geom:bbox":"13.3439104786,43.1287175726,13.4039236155,43.1578141332",
     "geom:latitude":43.142627,
     "geom:longitude":13.3732,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043045",
+        "eurostat:nuts_2021_id":"043045",
         "gn:id":6536791,
         "gp:id":12680074,
         "qs_pg:id":41308
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5548b4405b527db64dc57442682504a",
+    "wof:geomhash":"5f123128a0d55d80d4230c6b299887e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461025,
-    "wof:lastmodified":1582328128,
+    "wof:lastmodified":1684353729,
     "wof:name":"Ripe San Ginesio",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":840,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

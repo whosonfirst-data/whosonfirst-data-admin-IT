@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca Canterano",
+    "eurostat:nuts_2021_id":"058084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058084",
+    "eurostat:population":188,
+    "eurostat:population_year":2020,
     "geom:area":0.001717,
-    "geom:area_square_m":15784069.276311,
+    "geom:area_square_m":15784069.276312,
     "geom:bbox":"12.9764038339,41.9360771798,13.0511154945,41.9854429704",
     "geom:latitude":41.961878,
     "geom:longitude":13.012795,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_058084",
+        "eurostat:nuts_2021_id":"058084"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8a8e2fe4ef8d393931afcb1846f8824b",
+    "wof:geomhash":"8602beccc335bd51503febe2d1a52d80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404461705,
-    "wof:lastmodified":1566723701,
+    "wof:lastmodified":1684353743,
     "wof:name":"Rocca Canterano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

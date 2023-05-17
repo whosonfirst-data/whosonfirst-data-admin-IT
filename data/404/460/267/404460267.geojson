@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alluvioni Piovera",
+    "eurostat:nuts_2021_id":"006192",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006192",
+    "eurostat:population":1689,
+    "eurostat:population_year":2020,
     "geom:area":0.001786,
-    "geom:area_square_m":15624522.78689,
+    "geom:area_square_m":15624522.786893,
     "geom:bbox":"8.7067135732,44.9264204944,8.76668477408,44.9795410842",
     "geom:latitude":44.95271,
     "geom:longitude":8.74072,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006192",
+        "eurostat:nuts_2021_id":"006192",
         "gn:id":6542885,
         "gp:id":20075933,
         "qs_pg:id":295363
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61b5a69efd0c87a449ac49a05c1dc4d3",
+    "wof:geomhash":"94b948a43be224b417cb0efa796c3fde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404460267,
-    "wof:lastmodified":1582328003,
+    "wof:lastmodified":1684353714,
     "wof:name":"Piovera",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1689,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

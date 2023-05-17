@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montegabbione",
+    "eurostat:nuts_2021_id":"055020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055020",
+    "eurostat:population":1157,
+    "eurostat:population_year":2020,
     "geom:area":0.005624,
-    "geom:area_square_m":50934233.898602,
+    "geom:area_square_m":50934233.898603,
     "geom:bbox":"12.0665404191,42.8741111219,12.1793210341,42.9430946026",
     "geom:latitude":42.910735,
     "geom:longitude":12.119995,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055020",
+        "eurostat:nuts_2021_id":"055020",
         "gn:id":6536891,
         "gp:id":12678173,
         "qs_pg:id":1163459
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86d35d5214e437fbc597f9b641c3e741",
+    "wof:geomhash":"330fb1bc1f24ff392c45da8a247191c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404459671,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353698,
     "wof:name":"Montegabbione",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":1157,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

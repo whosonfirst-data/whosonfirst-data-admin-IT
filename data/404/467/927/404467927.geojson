@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sangiano",
+    "eurostat:nuts_2021_id":"012141",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012141",
+    "eurostat:population":1490,
+    "eurostat:population_year":2020,
     "geom:area":0.000258,
-    "geom:area_square_m":2217133.707577,
+    "geom:area_square_m":2217133.707576,
     "geom:bbox":"8.6247127283,45.8659064475,8.64158085757,45.8887269344",
     "geom:latitude":45.877818,
     "geom:longitude":8.63299,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012141",
+        "eurostat:nuts_2021_id":"012141",
         "gn:id":6543098,
         "gp:id":12682599,
         "qs_pg:id":908075
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"053e28e190166c5b9c91cf24e5a2677b",
+    "wof:geomhash":"95dbc9bc35e8c92584bb1524531d9ea1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404467927,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353881,
     "wof:name":"Sangiano",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":1490,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

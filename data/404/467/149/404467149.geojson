@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magomadas",
+    "eurostat:nuts_2021_id":"095083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095083",
+    "eurostat:population":629,
+    "eurostat:population_year":2020,
     "geom:area":0.000956,
-    "geom:area_square_m":9017224.80216,
+    "geom:area_square_m":9017224.802161,
     "geom:bbox":"8.47600921989,40.241231837,8.55615918594,40.2720580387",
     "geom:latitude":40.258579,
     "geom:longitude":8.513597,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095083",
+        "eurostat:nuts_2021_id":"095083",
         "gn:id":6541775,
         "gp:id":12680095,
         "qs_pg:id":111346
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8cc48f07cee8bacfa8bdaff836025df",
+    "wof:geomhash":"fc5249829c50237b8cf8cd0590ad3832",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467149,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353866,
     "wof:name":"Magomadas",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":629,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

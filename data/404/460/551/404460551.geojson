@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orosei",
+    "eurostat:nuts_2021_id":"091063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091063",
+    "eurostat:population":7012,
+    "eurostat:population_year":2020,
     "geom:area":0.009661,
-    "geom:area_square_m":90962199.792456,
+    "geom:area_square_m":90962199.792478,
     "geom:bbox":"9.64486932464,40.3305333927,9.80903705304,40.4774734518",
     "geom:latitude":40.405833,
     "geom:longitude":9.724089,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091063",
+        "eurostat:nuts_2021_id":"091063",
         "gn:id":6539875,
         "gp:id":12680180,
         "qs_pg:id":537303
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9bda3fba786e122eb26a5a9a1f4fc16d",
+    "wof:geomhash":"319c9c115fc5de588844476c575675f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460551,
-    "wof:lastmodified":1582327993,
+    "wof:lastmodified":1684353720,
     "wof:name":"Orosei",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":7012,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

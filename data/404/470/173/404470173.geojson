@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salzano",
+    "eurostat:nuts_2021_id":"027032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027032",
+    "eurostat:population":12982,
+    "eurostat:population_year":2020,
     "geom:area":0.001978,
     "geom:area_square_m":17133322.147935,
     "geom:bbox":"12.0761909802,45.5112467566,12.1430897302,45.5575477228",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027032",
+        "eurostat:nuts_2021_id":"027032",
         "gn:id":6538321,
         "gp:id":12681553,
         "qs_pg:id":1139768
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e62ac9e4e790a327f24f2017bf0bc07f",
+    "wof:geomhash":"dee784e0196500591dc4ffc1d442e90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470173,
-    "wof:lastmodified":1582327745,
+    "wof:lastmodified":1684353917,
     "wof:name":"Salzano",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":12982,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

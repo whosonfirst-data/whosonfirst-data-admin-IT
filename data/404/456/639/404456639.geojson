@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Surano",
+    "eurostat:nuts_2021_id":"075082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075082",
+    "eurostat:population":1592,
+    "eurostat:population_year":2020,
     "geom:area":0.000934,
-    "geom:area_square_m":8847430.712025,
+    "geom:area_square_m":8847430.712031,
     "geom:bbox":"18.3141170883,39.9964360991,18.3661219559,40.0429823776",
     "geom:latitude":40.021338,
     "geom:longitude":18.33534,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075082",
+        "eurostat:nuts_2021_id":"075082",
         "gn:id":6541742,
         "gp:id":12682122,
         "qs_pg:id":42820
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff98754644f39c1efb38de84ab0cc9f1",
+    "wof:geomhash":"713009744aaa162391d96308574938bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456639,
-    "wof:lastmodified":1582328067,
+    "wof:lastmodified":1684353629,
     "wof:name":"Surano",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":1592,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

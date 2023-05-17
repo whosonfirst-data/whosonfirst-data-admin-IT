@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taglio di Po",
+    "eurostat:nuts_2021_id":"029046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029046",
+    "eurostat:population":8135,
+    "eurostat:population_year":2020,
     "geom:area":0.008963,
-    "geom:area_square_m":78446512.760144,
+    "geom:area_square_m":78446512.760153,
     "geom:bbox":"12.0940174789,44.8178856972,12.3913786946,45.0278778899",
     "geom:latitude":44.942248,
     "geom:longitude":12.25621,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029046",
+        "eurostat:nuts_2021_id":"029046",
         "gn:id":6536685,
         "gp:id":12675896,
         "qs_pg:id":1313965
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a4a902f03c59d60c52466a5da0cfc511",
+    "wof:geomhash":"a4128e08ae74c495edf3f37fea03bcf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470425,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353921,
     "wof:name":"Taglio Di Po",
     "wof:parent_id":85685359,
     "wof:placetype":"localadmin",
+    "wof:population":8135,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

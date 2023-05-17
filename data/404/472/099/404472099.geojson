@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ottone",
+    "eurostat:nuts_2021_id":"033030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033030",
+    "eurostat:population":463,
+    "eurostat:population_year":2020,
     "geom:area":0.01123,
-    "geom:area_square_m":98823764.030306,
+    "geom:area_square_m":98823764.030302,
     "geom:bbox":"9.19795669112,44.5767288581,9.40590512035,44.6741760597",
     "geom:latitude":44.626505,
     "geom:longitude":9.301267,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033030",
+        "eurostat:nuts_2021_id":"033030",
         "gn:id":6539655,
         "gp:id":12676280,
         "qs_pg:id":421298
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e902de8662eb8708eecc791a2639bff",
+    "wof:geomhash":"1015cd560a02a814c7115c2702985f16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404472099,
-    "wof:lastmodified":1582327887,
+    "wof:lastmodified":1684353952,
     "wof:name":"Ottone",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":463,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

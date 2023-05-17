@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tricesimo",
+    "eurostat:nuts_2021_id":"030127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030127",
+    "eurostat:population":7693,
+    "eurostat:population_year":2020,
     "geom:area":0.002056,
-    "geom:area_square_m":17608709.731314,
+    "geom:area_square_m":17608709.731312,
     "geom:bbox":"13.1588539013,46.130410387,13.2381285654,46.1907753412",
     "geom:latitude":46.159513,
     "geom:longitude":13.207742,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030127",
+        "eurostat:nuts_2021_id":"030127",
         "gn:id":6541603,
         "gp:id":12679386,
         "qs_pg:id":190640
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e43913978d116d6dc61d6d8d193e86e6",
+    "wof:geomhash":"83f7bac3d28aa13d2d53983e08541780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470721,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353926,
     "wof:name":"Tricesimo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":7693,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

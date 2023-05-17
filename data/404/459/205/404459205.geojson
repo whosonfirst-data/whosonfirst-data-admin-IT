@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Regalbuto",
+    "eurostat:nuts_2021_id":"086016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086016",
+    "eurostat:population":6993,
+    "eurostat:population_year":2020,
     "geom:area":0.017296,
-    "geom:area_square_m":169317820.964058,
+    "geom:area_square_m":169317820.964065,
     "geom:bbox":"14.541258912,37.5634987942,14.7500058549,37.7363906664",
     "geom:latitude":37.655647,
     "geom:longitude":14.638448,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_086016",
+        "eurostat:nuts_2021_id":"086016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d7e4c248f428dbb56f5dd0f7ad4147de",
+    "wof:geomhash":"2fa440891b1887f2a5fb90229725bf9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404459205,
-    "wof:lastmodified":1566723735,
+    "wof:lastmodified":1684353688,
     "wof:name":"Regalbuto",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":6993,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

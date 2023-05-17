@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Crespina Lorenzana",
+    "eurostat:nuts_2021_id":"050041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050041",
+    "eurostat:population":5414,
+    "eurostat:population_year":2020,
     "geom:area":0.003023,
-    "geom:area_square_m":27069412.014151,
+    "geom:area_square_m":27069412.014147,
     "geom:bbox":"10.4999582419,43.5561071967,10.5791966023,43.6309760223",
     "geom:latitude":43.597221,
     "geom:longitude":10.546506,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050041",
+        "eurostat:nuts_2021_id":"050041",
         "gn:id":6538575,
         "gp:id":12678458,
         "qs_pg:id":1163463
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"088805580157551c3ebf938897c9aeb8",
+    "wof:geomhash":"d87a5f90d0ebe3846f5a26edb313c6fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472909,
-    "wof:lastmodified":1582327877,
+    "wof:lastmodified":1684353973,
     "wof:name":"Crespina",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":5414,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

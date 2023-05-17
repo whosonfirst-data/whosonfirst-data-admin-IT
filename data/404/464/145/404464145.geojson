@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cosenza",
+    "eurostat:nuts_2021_id":"078045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078045",
+    "eurostat:population":66457,
+    "eurostat:population_year":2020,
     "geom:area":0.003917,
-    "geom:area_square_m":37495261.047157,
+    "geom:area_square_m":37495261.047168,
     "geom:bbox":"16.2175227489,39.2296285857,16.3235625377,39.3325472325",
     "geom:latitude":39.278444,
     "geom:longitude":16.271378,
@@ -230,6 +242,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -237,9 +251,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078045",
+        "eurostat:nuts_2021_id":"078045"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d296d562d28aab556696bdfbeccdabb1",
+    "wof:geomhash":"3ba8c692c57126190dbaded34568df94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,10 +267,12 @@
         }
     ],
     "wof:id":404464145,
-    "wof:lastmodified":1566723224,
+    "wof:lastmodified":1684353798,
     "wof:name":"Cosenza",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":66457,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

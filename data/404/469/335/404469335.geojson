@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moggio",
+    "eurostat:nuts_2021_id":"097050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097050",
+    "eurostat:population":480,
+    "eurostat:population_year":2020,
     "geom:area":0.001559,
-    "geom:area_square_m":13408047.563454,
+    "geom:area_square_m":13408047.563453,
     "geom:bbox":"9.47923799623,45.8837067755,9.54025500816,45.9429444988",
     "geom:latitude":45.917087,
     "geom:longitude":9.507352,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097050",
+        "eurostat:nuts_2021_id":"097050",
         "gn:id":3173320,
         "gp:id":12680359,
         "qs_pg:id":1059647
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce01416ddf1a3267b59756faa3ad151e",
+    "wof:geomhash":"272c4ce8070b88aa3d9966ff81052f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469335,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353903,
     "wof:name":"Moggio",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":480,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morolo",
+    "eurostat:nuts_2021_id":"060045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060045",
+    "eurostat:population":3243,
+    "eurostat:population_year":2020,
     "geom:area":0.002865,
-    "geom:area_square_m":26476697.986594,
+    "geom:area_square_m":26476697.986592,
     "geom:bbox":"13.1540161482,41.6167205281,13.233973149,41.672914845",
     "geom:latitude":41.64091,
     "geom:longitude":13.190701,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060045",
+        "eurostat:nuts_2021_id":"060045",
         "gn:id":6536987,
         "gp:id":12680599,
         "qs_pg:id":1187951
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74dcf8a30f463afcc565eb83e9738a17",
+    "wof:geomhash":"99e07fc224e77b8e0f6803b9b247b25c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461963,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353750,
     "wof:name":"Morolo",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":3243,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

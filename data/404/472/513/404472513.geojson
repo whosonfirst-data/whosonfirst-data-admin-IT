@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Sofia",
+    "eurostat:nuts_2021_id":"040043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040043",
+    "eurostat:population":4080,
+    "eurostat:population_year":2020,
     "geom:area":0.016672,
-    "geom:area_square_m":148506776.736899,
+    "geom:area_square_m":148506776.73689,
     "geom:bbox":"11.7081339751,43.8450556185,12.0523183488,43.9808250947",
     "geom:latitude":43.914372,
     "geom:longitude":11.850801,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040043",
+        "eurostat:nuts_2021_id":"040043",
         "gn:id":6539949,
         "gp:id":12677418,
         "qs_pg:id":536274
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74bb8b2931280711cdebd416d04fe19c",
+    "wof:geomhash":"d71c36ada4165f7bb92b0ad9fb7ad46b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404472513,
-    "wof:lastmodified":1582327907,
+    "wof:lastmodified":1684353963,
     "wof:name":"Santa Sofia",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":4080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

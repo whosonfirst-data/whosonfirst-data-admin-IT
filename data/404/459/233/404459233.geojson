@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bronte",
+    "eurostat:nuts_2021_id":"087009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087009",
+    "eurostat:population":18702,
+    "eurostat:population_year":2020,
     "geom:area":0.025518,
-    "geom:area_square_m":249308366.554657,
+    "geom:area_square_m":249308366.554651,
     "geom:bbox":"14.714169617,37.7110067751,14.9942962311,37.9532355075",
     "geom:latitude":37.805237,
     "geom:longitude":14.839422,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087009",
+        "eurostat:nuts_2021_id":"087009",
         "gn:id":6539194,
         "gp:id":12677127,
         "qs_pg:id":39472
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9002090c9f73f7429bfb503876467d0e",
+    "wof:geomhash":"8495efb27f53538c122e7aba3e689891",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404459233,
-    "wof:lastmodified":1582328162,
+    "wof:lastmodified":1684353689,
     "wof:name":"Bronte",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":18702,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

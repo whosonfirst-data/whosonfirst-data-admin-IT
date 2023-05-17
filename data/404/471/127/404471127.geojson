@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lograto",
+    "eurostat:nuts_2021_id":"017091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017091",
+    "eurostat:population":3842,
+    "eurostat:population_year":2020,
     "geom:area":0.001432,
-    "geom:area_square_m":12413204.956849,
+    "geom:area_square_m":12413204.95685,
     "geom:bbox":"10.0435675503,45.4616082791,10.1063090177,45.5082950768",
     "geom:latitude":45.487766,
     "geom:longitude":10.069085,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017091",
+        "eurostat:nuts_2021_id":"017091",
         "gn:id":6536183,
         "gp:id":12679996,
         "qs_pg:id":291446
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c1f1bc93aa6ccb69f0569fe78cc8a84",
+    "wof:geomhash":"848889b0b92dbd03de1fab4489c95fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471127,
-    "wof:lastmodified":1582327720,
+    "wof:lastmodified":1684353934,
     "wof:name":"Lograto",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":3842,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

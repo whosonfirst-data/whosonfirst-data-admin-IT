@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massino Visconti",
+    "eurostat:nuts_2021_id":"003093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003093",
+    "eurostat:population":1107,
+    "eurostat:population_year":2020,
     "geom:area":0.000795,
-    "geom:area_square_m":6853138.524363,
+    "geom:area_square_m":6853138.524364,
     "geom:bbox":"8.50538761762,45.8092044953,8.54760647691,45.8406415948",
     "geom:latitude":45.826724,
     "geom:longitude":8.52974,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003093",
+        "eurostat:nuts_2021_id":"003093",
         "gn:id":6543804,
         "gp:id":20075717,
         "qs_pg:id":1118878
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b012e3556cf6921adb517899f8af8f8",
+    "wof:geomhash":"62d7c87be3899f707dd0b1e06171eb84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457761,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353656,
     "wof:name":"Massino Visconti",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1107,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

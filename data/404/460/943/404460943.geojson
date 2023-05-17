@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giugliano in Campania",
+    "eurostat:nuts_2021_id":"063034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063034",
+    "eurostat:population":125058,
+    "eurostat:population_year":2020,
     "geom:area":0.010079,
-    "geom:area_square_m":94157048.920062,
+    "geom:area_square_m":94157048.920079,
     "geom:bbox":"14.0178394578,40.8688058478,14.2232643433,40.9791390915",
     "geom:latitude":40.929099,
     "geom:longitude":14.10173,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063034",
+        "eurostat:nuts_2021_id":"063034",
         "gn:id":6541164,
         "gp:id":12679600,
         "qs_pg:id":1059639
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b168408a4660a55fc1aaaeeceb16b529",
+    "wof:geomhash":"10539eabe4712b869a28b36ff8188866",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460943,
-    "wof:lastmodified":1582328021,
+    "wof:lastmodified":1684353727,
     "wof:name":"Giugliano In Campania",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":125058,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

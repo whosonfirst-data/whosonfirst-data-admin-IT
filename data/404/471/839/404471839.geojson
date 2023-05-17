@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontedassio",
+    "eurostat:nuts_2021_id":"008045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008045",
+    "eurostat:population":2311,
+    "eurostat:population_year":2020,
     "geom:area":0.001493,
-    "geom:area_square_m":13296134.22887,
+    "geom:area_square_m":13296134.228871,
     "geom:bbox":"7.96121635326,43.9194463654,8.03340629412,43.9609589499",
     "geom:latitude":43.938955,
     "geom:longitude":7.999935,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008045",
+        "eurostat:nuts_2021_id":"008045",
         "gn:id":6537044,
         "gp:id":12681214,
         "qs_pg:id":1143289
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"178eac4591d8ad11b5156018dc63aca0",
+    "wof:geomhash":"fe0e76b6fb2f7e51e62d782745d0050a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471839,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353946,
     "wof:name":"Pontedassio",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":2311,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

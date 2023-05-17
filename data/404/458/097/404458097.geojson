@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corciano",
+    "eurostat:nuts_2021_id":"054015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054015",
+    "eurostat:population":21469,
+    "eurostat:population_year":2020,
     "geom:area":0.007042,
-    "geom:area_square_m":63552883.530989,
+    "geom:area_square_m":63552883.530977,
     "geom:bbox":"12.2433366439,43.0581075438,12.3409161244,43.1971972698",
     "geom:latitude":43.128746,
     "geom:longitude":12.290553,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054015",
+        "eurostat:nuts_2021_id":"054015",
         "gn:id":6536870,
         "gp:id":12678895,
         "qs_pg:id":1079228
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d179fc5dfa40dfe6da11e9c8fb2e5f11",
+    "wof:geomhash":"eb795d55b604f9a53e5188ded8923693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458097,
-    "wof:lastmodified":1582327945,
+    "wof:lastmodified":1684353663,
     "wof:name":"Corciano",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":21469,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Croce di Magliano",
+    "eurostat:nuts_2021_id":"070072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070072",
+    "eurostat:population":4199,
+    "eurostat:population_year":2020,
     "geom:area":0.005742,
-    "geom:area_square_m":53004985.948488,
+    "geom:area_square_m":53004985.948492,
     "geom:bbox":"14.9567495909,41.6853638379,15.1616388615,41.7415517346",
     "geom:latitude":41.712738,
     "geom:longitude":15.049999,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070072",
+        "eurostat:nuts_2021_id":"070072",
         "gn:id":6541729,
         "gp:id":12681844,
         "qs_pg:id":948611
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6805d39c7fb2e632eb8a825062387153",
+    "wof:geomhash":"42882f8f062424406d23e8c60bd78275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404458835,
-    "wof:lastmodified":1582327944,
+    "wof:lastmodified":1684353679,
     "wof:name":"Santa Croce Di Magliano",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":4199,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

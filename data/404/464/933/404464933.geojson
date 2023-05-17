@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmonte Mezzagno",
+    "eurostat:nuts_2021_id":"082009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082009",
+    "eurostat:population":11144,
+    "eurostat:population_year":2020,
     "geom:area":0.002998,
     "geom:area_square_m":29194452.068977,
     "geom:bbox":"13.3489453121,38.0024830482,13.4288540796,38.072037921",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_082009",
+        "eurostat:nuts_2021_id":"082009"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"dd6990d096f45413b217d6910afcd7ab",
+    "wof:geomhash":"1f97ca698d1ec8f5bca847caada481aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464933,
-    "wof:lastmodified":1566723233,
+    "wof:lastmodified":1684353821,
     "wof:name":"Belmonte Mezzagno",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":11144,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

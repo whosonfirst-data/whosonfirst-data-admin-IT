@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgone Susa",
+    "eurostat:nuts_2021_id":"001032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001032",
+    "eurostat:population":2210,
+    "eurostat:population_year":2020,
     "geom:area":0.000568,
-    "geom:area_square_m":4952542.576162,
+    "geom:area_square_m":4952542.57616,
     "geom:bbox":"7.21582733849,45.1118256861,7.27475144549,45.1324855104",
     "geom:latitude":45.121632,
     "geom:longitude":7.245123,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001032",
+        "eurostat:nuts_2021_id":"001032",
         "gn:id":6541431,
         "gp:id":12676980,
         "qs_pg:id":1142827
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9363a32d66e14fce11ee40281eb7091c",
+    "wof:geomhash":"6954b175b89ae778a1ea7f74bcb86e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456245,
-    "wof:lastmodified":1582328050,
+    "wof:lastmodified":1684353619,
     "wof:name":"Borgone Susa",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":2210,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

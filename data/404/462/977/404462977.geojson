@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvi Risorta",
+    "eurostat:nuts_2021_id":"061010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061010",
+    "eurostat:population":5611,
+    "eurostat:population_year":2020,
     "geom:area":0.001707,
-    "geom:area_square_m":15878036.435306,
+    "geom:area_square_m":15878036.435307,
     "geom:bbox":"14.0896732114,41.1461778211,14.1617537329,41.2338664399",
     "geom:latitude":41.208202,
     "geom:longitude":14.126435,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061010",
+        "eurostat:nuts_2021_id":"061010",
         "gp:id":12677355,
         "qs_pg:id":331
     },
@@ -167,7 +183,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c38369bb4f3a06c2c74b8f46557a16be",
+    "wof:geomhash":"59bbea6816b403b7e5f9a6a3b93ec558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,10 +194,12 @@
         }
     ],
     "wof:id":404462977,
-    "wof:lastmodified":1582327859,
+    "wof:lastmodified":1684353770,
     "wof:name":"Calvi Risorta",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":5611,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

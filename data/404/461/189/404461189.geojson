@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moresco",
+    "eurostat:nuts_2021_id":"109028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109028",
+    "eurostat:population":547,
+    "eurostat:population_year":2020,
     "geom:area":0.0007,
-    "geom:area_square_m":6321461.246934,
+    "geom:area_square_m":6321461.246932,
     "geom:bbox":"13.7264782839,43.0661180826,13.776714381,43.0902960917",
     "geom:latitude":43.078597,
     "geom:longitude":13.749111,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_109028",
+        "eurostat:nuts_2021_id":"109028"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"21dd0744e9036b55c1b4c9f5095f0c4d",
+    "wof:geomhash":"059f40530c54687019b1e74f4e163036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404461189,
-    "wof:lastmodified":1566723697,
+    "wof:lastmodified":1684353734,
     "wof:name":"Moresco",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":547,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

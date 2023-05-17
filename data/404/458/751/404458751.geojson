@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cona",
+    "eurostat:nuts_2021_id":"027010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027010",
+    "eurostat:population":2921,
+    "eurostat:population_year":2020,
     "geom:area":0.007449,
-    "geom:area_square_m":64927233.936857,
+    "geom:area_square_m":64927233.936859,
     "geom:bbox":"11.9729817585,45.1469795493,12.1769636018,45.2103515693",
     "geom:latitude":45.17884,
     "geom:longitude":12.080835,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027010",
+        "eurostat:nuts_2021_id":"027010",
         "gn:id":6536277,
         "gp:id":12676838,
         "qs_pg:id":287919
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9bd41e7e7b75ff334aa29cc3b1eb9ed3",
+    "wof:geomhash":"435fd309bab7a058974d29ef1839fffc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404458751,
-    "wof:lastmodified":1582327951,
+    "wof:lastmodified":1684353676,
     "wof:name":"Cona",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":2921,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

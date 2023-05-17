@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnasco",
+    "eurostat:nuts_2021_id":"004008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004008",
+    "eurostat:population":1017,
+    "eurostat:population_year":2020,
     "geom:area":0.003492,
-    "geom:area_square_m":30908152.224582,
+    "geom:area_square_m":30908152.224589,
     "geom:bbox":"8.00204817087,44.2530517286,8.09072491677,44.3310150572",
     "geom:latitude":44.293048,
     "geom:longitude":8.0474,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004008",
+        "eurostat:nuts_2021_id":"004008",
         "gn:id":6538140,
         "gp:id":12676428,
         "qs_pg:id":1092868
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b61fc7d1be13198b82b3dc353d6428ae",
+    "wof:geomhash":"8ac2a0d41ef5a964d48a0b17839c9280",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457861,
-    "wof:lastmodified":1582328101,
+    "wof:lastmodified":1684353658,
     "wof:name":"Bagnasco",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":1017,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Accadia",
+    "eurostat:nuts_2021_id":"071001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071001",
+    "eurostat:population":2277,
+    "eurostat:population_year":2020,
     "geom:area":0.003278,
-    "geom:area_square_m":30509788.450655,
+    "geom:area_square_m":30509788.450663,
     "geom:bbox":"15.2829997129,41.1490556759,15.363724733,41.2178147502",
     "geom:latitude":41.18105,
     "geom:longitude":15.32872,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071001",
+        "eurostat:nuts_2021_id":"071001",
         "gn:id":6537531,
         "gp:id":12675724,
         "qs_pg:id":38559
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95504763f5e88d00515608245f7d4b00",
+    "wof:geomhash":"5a785d1634263d282b7aee574045df99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463143,
-    "wof:lastmodified":1582327775,
+    "wof:lastmodified":1684353773,
     "wof:name":"Accadia",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":2277,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

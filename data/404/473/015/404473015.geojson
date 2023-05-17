@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorano",
+    "eurostat:nuts_2021_id":"053026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053026",
+    "eurostat:population":3180,
+    "eurostat:population_year":2020,
     "geom:area":0.019171,
-    "geom:area_square_m":174210997.958854,
+    "geom:area_square_m":174210997.958872,
     "geom:bbox":"11.5796401449,42.6161702815,11.8196368778,42.7798456353",
     "geom:latitude":42.700579,
     "geom:longitude":11.711837,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053026",
+        "eurostat:nuts_2021_id":"053026",
         "gn:id":6539743,
         "gp:id":12678237,
         "qs_pg:id":1295730
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e89e9563b5474148b6f1695239a1591",
+    "wof:geomhash":"2424979845ed3fa1302369e5c452deba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404473015,
-    "wof:lastmodified":1582327914,
+    "wof:lastmodified":1684353975,
     "wof:name":"Sorano",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":3180,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

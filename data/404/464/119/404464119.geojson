@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrovillari",
+    "eurostat:nuts_2021_id":"078033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078033",
+    "eurostat:population":21619,
+    "eurostat:population_year":2020,
     "geom:area":0.013622,
-    "geom:area_square_m":129390083.180154,
+    "geom:area_square_m":129390083.180164,
     "geom:bbox":"16.1738929121,39.7100025571,16.3005717404,39.9082762618",
     "geom:latitude":39.811493,
     "geom:longitude":16.237044,
@@ -152,6 +164,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -159,9 +173,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078033",
+        "eurostat:nuts_2021_id":"078033"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1008bf6402f61d8b43b56df163a5b50d",
+    "wof:geomhash":"ab98a715a8b5517e404a2f088022c6f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +189,12 @@
         }
     ],
     "wof:id":404464119,
-    "wof:lastmodified":1566723228,
+    "wof:lastmodified":1684353797,
     "wof:name":"Castrovillari",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":21619,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

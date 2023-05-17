@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cardano al Campo",
+    "eurostat:nuts_2021_id":"012032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012032",
+    "eurostat:population":14854,
+    "eurostat:population_year":2020,
     "geom:area":0.001088,
-    "geom:area_square_m":9405632.527031,
+    "geom:area_square_m":9405632.527032,
     "geom:bbox":"8.72350108086,45.6336806095,8.78788292623,45.6602886643",
     "geom:latitude":45.645122,
     "geom:longitude":8.75681,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012032",
+        "eurostat:nuts_2021_id":"012032",
         "gn:id":6542308,
         "gp:id":20076026,
         "qs_pg:id":248317
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8261be92b3a536ab7738f2f747aa14d0",
+    "wof:geomhash":"d2fbc183e784e57780c86930207000bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404467683,
-    "wof:lastmodified":1582327985,
+    "wof:lastmodified":1684353878,
     "wof:name":"Cardano Al Campo",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":14854,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

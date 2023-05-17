@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nuragus",
+    "eurostat:nuts_2021_id":"111045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111045",
+    "eurostat:population":862,
+    "eurostat:population_year":2020,
     "geom:area":0.002094,
-    "geom:area_square_m":19896575.900518,
+    "geom:area_square_m":19896575.90052,
     "geom:bbox":"9.00330784926,39.7501612969,9.08419340592,39.8031116578",
     "geom:latitude":39.773544,
     "geom:longitude":9.044922,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111045",
+        "eurostat:nuts_2021_id":"111045",
         "gn:id":6537861,
         "gp:id":12680723,
         "qs_pg:id":1102191
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4579117aea17635aedae70a679aca03e",
+    "wof:geomhash":"4ccdf19a81b953bd135d74c96cf93e85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466947,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353862,
     "wof:name":"Nuragus",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":862,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

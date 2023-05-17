@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torregrotta",
+    "eurostat:nuts_2021_id":"083098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083098",
+    "eurostat:population":7358,
+    "eurostat:population_year":2020,
     "geom:area":0.000421,
-    "geom:area_square_m":4095642.197436,
+    "geom:area_square_m":4095642.197437,
     "geom:bbox":"15.3404246718,38.1838346446,15.3658044679,38.2177607193",
     "geom:latitude":38.200529,
     "geom:longitude":15.352161,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083098",
+        "eurostat:nuts_2021_id":"083098",
         "gn:id":6541766,
         "gp:id":20077050,
         "qs_pg:id":205218
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eeddcdf0fc1f59b68e277e12b3ced4f5",
+    "wof:geomhash":"379be36aedd35a581bbc037d15df2b94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466405,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353848,
     "wof:name":"Torregrotta",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":7358,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

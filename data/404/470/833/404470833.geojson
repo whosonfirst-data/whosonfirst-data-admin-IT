@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armo",
+    "eurostat:nuts_2021_id":"008004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008004",
+    "eurostat:population":117,
+    "eurostat:population_year":2020,
     "geom:area":0.001135,
-    "geom:area_square_m":10079200.635452,
+    "geom:area_square_m":10079200.635451,
     "geom:bbox":"7.88096114226,44.0800022309,7.93545866602,44.1102730644",
     "geom:latitude":44.095815,
     "geom:longitude":7.907087,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008004",
+        "eurostat:nuts_2021_id":"008004",
         "gn:id":6543067,
         "gp:id":12680354,
         "qs_pg:id":41485
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24b9e9b2275fb63f8ca939e15036092f",
+    "wof:geomhash":"9e6f8bb6db21833f040b8f6b73567006",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470833,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353928,
     "wof:name":"Armo",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":117,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

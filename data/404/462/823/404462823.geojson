@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Larino",
+    "eurostat:nuts_2021_id":"070031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070031",
+    "eurostat:population":6606,
+    "eurostat:population_year":2020,
     "geom:area":0.009571,
-    "geom:area_square_m":88186292.088362,
+    "geom:area_square_m":88186292.088363,
     "geom:bbox":"14.8544791994,41.764366624,14.9817358315,41.8965340016",
     "geom:latitude":41.828471,
     "geom:longitude":14.918463,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070031",
+        "eurostat:nuts_2021_id":"070031",
         "gn:id":6541725,
         "gp:id":12679875,
         "qs_pg:id":41173
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57991b37c9fbfdb372ca684bd8b53439",
+    "wof:geomhash":"47801754ff0d0f261a0daf99e8385e82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462823,
-    "wof:lastmodified":1582327867,
+    "wof:lastmodified":1684353766,
     "wof:name":"Larino",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":6606,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

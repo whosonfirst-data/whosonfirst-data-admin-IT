@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forte dei Marmi",
+    "eurostat:nuts_2021_id":"046013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046013",
+    "eurostat:population":7113,
+    "eurostat:population_year":2020,
     "geom:area":0.000996,
     "geom:area_square_m":8868318.779203,
     "geom:bbox":"10.14408,43.942648,10.200582,43.982647",
@@ -38,14 +50,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227511,
-        85685399
+        85685399,
+        404227511
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046013",
+        "eurostat:nuts_2021_id":"046013",
         "gn:id":6541880,
         "gp:id":12679373,
         "qs_pg:id":51154
@@ -57,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9fd8cac1e8913b8593caf512c8ce604",
+    "wof:geomhash":"c4f465519ed8bf8f723d9dcc7ef0610f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404472637,
-    "wof:lastmodified":1608041598,
+    "wof:lastmodified":1684353966,
     "wof:name":"Forte Dei Marmi",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":7113,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

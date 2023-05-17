@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baradili",
+    "eurostat:nuts_2021_id":"095010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095010",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.000586,
     "geom:area_square_m":5572829.238851,
     "geom:bbox":"8.8748777051,39.7090517933,8.91326398069,39.7415023468",
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095010",
+        "eurostat:nuts_2021_id":"095010",
         "gn:id":6537963,
         "gp:id":12676527,
         "qs_pg:id":1154056
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9fae6e48f1623fb839131e0a30108037",
+    "wof:geomhash":"67416698a8e237f5a9cfd954b207b519",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466985,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353863,
     "wof:name":"Baradili",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelguglielmo",
+    "eurostat:nuts_2021_id":"029011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029011",
+    "eurostat:population":1542,
+    "eurostat:population_year":2020,
     "geom:area":0.002513,
-    "geom:area_square_m":21966427.020642,
+    "geom:area_square_m":21966427.020641,
     "geom:bbox":"11.4955780818,44.9799923467,11.5960155996,45.0434650891",
     "geom:latitude":45.01161,
     "geom:longitude":11.547095,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029011",
+        "eurostat:nuts_2021_id":"029011",
         "gn:id":6538347,
         "gp:id":12677229,
         "qs_pg:id":961630
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7eabfb493a218bc872779e645db3a13e",
+    "wof:geomhash":"56b502107f118cd0e98c088dc917699b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404470351,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353920,
     "wof:name":"Castelguglielmo",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":1542,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

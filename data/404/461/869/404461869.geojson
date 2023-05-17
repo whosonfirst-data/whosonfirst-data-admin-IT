@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alatri",
+    "eurostat:nuts_2021_id":"060003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060003",
+    "eurostat:population":28435,
+    "eurostat:population_year":2020,
     "geom:area":0.010466,
-    "geom:area_square_m":96588025.290531,
+    "geom:area_square_m":96588025.290556,
     "geom:bbox":"13.2811632926,41.6542328974,13.4876386359,41.8227793909",
     "geom:latitude":41.727989,
     "geom:longitude":13.360467,
@@ -260,6 +272,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -268,6 +282,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060003",
+        "eurostat:nuts_2021_id":"060003",
         "gn:id":6541894,
         "gp:id":12675875,
         "qs_pg:id":242333
@@ -276,7 +292,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e282b5591d8b4db0902931cf20db18e5",
+    "wof:geomhash":"9491f2349112a819421907bae8217578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -287,10 +303,12 @@
         }
     ],
     "wof:id":404461869,
-    "wof:lastmodified":1582328131,
+    "wof:lastmodified":1684353748,
     "wof:name":"Alatri",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":28435,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

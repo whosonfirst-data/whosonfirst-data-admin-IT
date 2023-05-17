@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Podenzano",
+    "eurostat:nuts_2021_id":"033035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033035",
+    "eurostat:population":9196,
+    "eurostat:population_year":2020,
     "geom:area":0.005061,
-    "geom:area_square_m":44272965.265588,
+    "geom:area_square_m":44272965.265582,
     "geom:bbox":"9.64708813658,44.9280634361,9.76048344656,45.0070263473",
     "geom:latitude":44.970468,
     "geom:longitude":9.702299,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033035",
+        "eurostat:nuts_2021_id":"033035",
         "gn:id":6538415,
         "gp:id":12679740,
         "qs_pg:id":332713
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d89a0e6d912e8bf0be995f10c555fff7",
+    "wof:geomhash":"0cc6e09f5572d49e5e2c09e331e54b97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404472111,
-    "wof:lastmodified":1582327891,
+    "wof:lastmodified":1684353952,
     "wof:name":"Podenzano",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":9196,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

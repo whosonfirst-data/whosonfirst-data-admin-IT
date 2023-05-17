@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macomer",
+    "eurostat:nuts_2021_id":"091044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091044",
+    "eurostat:population":9786,
+    "eurostat:population_year":2020,
     "geom:area":0.013013,
-    "geom:area_square_m":122731707.000311,
+    "geom:area_square_m":122731707.000297,
     "geom:bbox":"8.66743158301,40.2031972465,8.86401176622,40.4131761926",
     "geom:latitude":40.291727,
     "geom:longitude":8.75924,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091044",
+        "eurostat:nuts_2021_id":"091044",
         "gn:id":6541367,
         "gp:id":12680077,
         "qs_pg:id":231990
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ece394b0dbed8330baf35617940e66b4",
+    "wof:geomhash":"20cbc0145aa4945e0f335c88be59b944",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404460521,
-    "wof:lastmodified":1582328005,
+    "wof:lastmodified":1684353720,
     "wof:name":"Macomer",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":9786,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

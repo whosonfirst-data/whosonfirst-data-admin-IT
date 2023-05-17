@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Termini Imerese",
+    "eurostat:nuts_2021_id":"082070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082070",
+    "eurostat:population":25889,
+    "eurostat:population_year":2020,
     "geom:area":0.007988,
-    "geom:area_square_m":77880829.716889,
+    "geom:area_square_m":77880829.716886,
     "geom:bbox":"13.6210712511,37.9101182998,13.8429335851,38.0013825803",
     "geom:latitude":37.959912,
     "geom:longitude":13.740746,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082070",
+        "eurostat:nuts_2021_id":"082070",
         "gn:id":6539140,
         "gp:id":12682161,
         "qs_pg:id":1095244
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d71d9bfcc927d96b20f4eef4d6fec71",
+    "wof:geomhash":"253d363183fc496290252757c7bb3dba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465071,
-    "wof:lastmodified":1582327829,
+    "wof:lastmodified":1684353825,
     "wof:name":"Termini Imerese",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":25889,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

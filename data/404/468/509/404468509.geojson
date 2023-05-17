@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pregnana Milanese",
+    "eurostat:nuts_2021_id":"015179",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015179",
+    "eurostat:population":7385,
+    "eurostat:population_year":2020,
     "geom:area":0.000585,
-    "geom:area_square_m":5067120.525792,
+    "geom:area_square_m":5067120.525791,
     "geom:bbox":"8.98211936476,45.5000077244,9.02608826855,45.5335466303",
     "geom:latitude":45.515619,
     "geom:longitude":9.005967,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015179",
+        "eurostat:nuts_2021_id":"015179",
         "gn:id":6543744,
         "gp:id":12682365,
         "qs_pg:id":1056504
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"605430a08418cf021b3cc0ed202772cb",
+    "wof:geomhash":"fcb2c6ff045f86b0ea5c517ee4f49769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468509,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353890,
     "wof:name":"Pregnana Milanese",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":7385,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

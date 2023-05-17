@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_038023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Voghiera",
+    "eurostat:nuts_2021_id":"038023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH56",
+    "eurostat:nuts_2021_level_lau":"038023",
+    "eurostat:population":3679,
+    "eurostat:population_year":2020,
     "geom:area":0.004582,
-    "geom:area_square_m":40227592.683321,
+    "geom:area_square_m":40227592.683312,
     "geom:bbox":"11.694142615,44.7136960083,11.7900821888,44.8039653455",
     "geom:latitude":44.761995,
     "geom:longitude":11.737816,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_038023",
+        "eurostat:nuts_2021_id":"038023",
         "gn:id":6543016,
         "gp:id":12679713,
         "qs_pg:id":1187927
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7b0e5ed113e4b02221d57c3154d503e",
+    "wof:geomhash":"edf7b6ed5c2d5e79d5f67b2c6572b803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472409,
-    "wof:lastmodified":1582327887,
+    "wof:lastmodified":1684353960,
     "wof:name":"Voghiera",
     "wof:parent_id":85685359,
     "wof:placetype":"localadmin",
+    "wof:population":3679,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

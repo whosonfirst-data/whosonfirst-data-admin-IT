@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ranzo",
+    "eurostat:nuts_2021_id":"008048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008048",
+    "eurostat:population":551,
+    "eurostat:population_year":2020,
     "geom:area":0.00122,
     "geom:area_square_m":10842571.216031,
     "geom:bbox":"7.98272196405,44.0456736658,8.03899205939,44.0956354021",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008048",
+        "eurostat:nuts_2021_id":"008048",
         "gn:id":6542497,
         "gp:id":20076417,
         "qs_pg:id":205142
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"743de4fa613b18c3abad92275d025c5f",
+    "wof:geomhash":"81a0ffcdc7ec2e2277abfaffbebd8c81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471845,
-    "wof:lastmodified":1582327713,
+    "wof:lastmodified":1684353947,
     "wof:name":"Ranzo",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":551,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

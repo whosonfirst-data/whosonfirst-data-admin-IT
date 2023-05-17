@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vito al Tagliamento",
+    "eurostat:nuts_2021_id":"093041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093041",
+    "eurostat:population":15246,
+    "eurostat:population_year":2020,
     "geom:area":0.00705,
-    "geom:area_square_m":60652308.003819,
+    "geom:area_square_m":60652308.003822,
     "geom:bbox":"12.7858794818,45.8760866244,12.9396671275,45.9633748189",
     "geom:latitude":45.914417,
     "geom:longitude":12.861699,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093041",
+        "eurostat:nuts_2021_id":"093041",
         "gn:id":6539332,
         "gp:id":12677930,
         "qs_pg:id":1059615
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6e6d615aa3cf014160324d9ea3041ec",
+    "wof:geomhash":"0832b7569f888fbb23737049c3ef24d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470799,
-    "wof:lastmodified":1582327736,
+    "wof:lastmodified":1684353928,
     "wof:name":"San Vito Al Tagliamento",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":15246,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

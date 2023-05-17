@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tessennano",
+    "eurostat:nuts_2021_id":"056051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056051",
+    "eurostat:population":306,
+    "eurostat:population_year":2020,
     "geom:area":0.001612,
     "geom:area_square_m":14700915.434971,
     "geom:bbox":"11.7578857902,42.4296271987,11.8081617968,42.4951288586",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056051",
+        "eurostat:nuts_2021_id":"056051",
         "gn:id":6536910,
         "gp:id":12682171,
         "qs_pg:id":42847
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2c848069e186639b1e17bcb1feaca83",
+    "wof:geomhash":"cb3c19637cca2a70eaaf98105ca7640e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461331,
-    "wof:lastmodified":1582328123,
+    "wof:lastmodified":1684353737,
     "wof:name":"Tessennano",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":306,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

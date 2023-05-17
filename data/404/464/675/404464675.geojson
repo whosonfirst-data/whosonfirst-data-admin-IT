@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Staiti",
+    "eurostat:nuts_2021_id":"080090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080090",
+    "eurostat:population":212,
+    "eurostat:population_year":2020,
     "geom:area":0.001659,
-    "geom:area_square_m":16160282.082705,
+    "geom:area_square_m":16160282.082712,
     "geom:bbox":"15.9986707169,37.9725597799,16.0842496262,38.0220760983",
     "geom:latitude":38.00436,
     "geom:longitude":16.041429,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080090",
+        "eurostat:nuts_2021_id":"080090",
         "gn:id":6537724,
         "gp:id":20077016,
         "qs_pg:id":51066
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e11d028a7d4d6b0f7c0be3da269703d3",
+    "wof:geomhash":"e109e45f7add08d96a91ae03b04bde56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464675,
-    "wof:lastmodified":1582327794,
+    "wof:lastmodified":1684353813,
     "wof:name":"Staiti",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":212,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

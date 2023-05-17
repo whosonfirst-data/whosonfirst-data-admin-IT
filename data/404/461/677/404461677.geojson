@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nettuno",
+    "eurostat:nuts_2021_id":"058072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058072",
+    "eurostat:population":50153,
+    "eurostat:population_year":2020,
     "geom:area":0.007711,
-    "geom:area_square_m":71435755.747605,
+    "geom:area_square_m":71435755.747596,
     "geom:bbox":"12.6183541259,41.4075335952,12.7781071003,41.5403022343",
     "geom:latitude":41.47735,
     "geom:longitude":12.692426,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058072",
+        "eurostat:nuts_2021_id":"058072",
         "gn:id":6542044,
         "gp:id":12679208,
         "qs_pg:id":1069199
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d32412dd6ea0c79e7a094583970d489",
+    "wof:geomhash":"b7fb8528c4e5121ad932849c33c2adc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404461677,
-    "wof:lastmodified":1582328143,
+    "wof:lastmodified":1684353743,
     "wof:name":"Nettuno",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":50153,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

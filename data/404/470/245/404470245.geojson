@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candiana",
+    "eurostat:nuts_2021_id":"028021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028021",
+    "eurostat:population":2294,
+    "eurostat:population_year":2020,
     "geom:area":0.00255,
-    "geom:area_square_m":22207191.077652,
+    "geom:area_square_m":22207191.077653,
     "geom:bbox":"11.9387618346,45.1965326053,12.0192765611,45.2499457986",
     "geom:latitude":45.222524,
     "geom:longitude":11.982855,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028021",
+        "eurostat:nuts_2021_id":"028021",
         "gn:id":6536668,
         "gp:id":12677495,
         "qs_pg:id":1195869
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5091079dc516d80693a8b71e45434844",
+    "wof:geomhash":"3194f8f533c529e7914ceb04a403aa07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470245,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353918,
     "wof:name":"Candiana",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":2294,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

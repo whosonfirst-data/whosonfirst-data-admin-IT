@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trento",
+    "eurostat:nuts_2021_id":"022205",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022205",
+    "eurostat:population":118902,
+    "eurostat:population_year":2020,
     "geom:area":0.018359,
-    "geom:area_square_m":157520403.253557,
+    "geom:area_square_m":157520323.461667,
     "geom:bbox":"11.021495,45.975888,11.193857,46.152101",
     "geom:latitude":46.061487,
     "geom:longitude":11.110784,
@@ -266,6 +278,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -274,6 +288,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022205",
+        "eurostat:nuts_2021_id":"022205",
         "gn:id":6541469,
         "gp:id":12676608,
         "qs_pg:id":1150555
@@ -282,7 +298,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f90c5cfb2723cfedaca481230470b8d6",
+    "wof:geomhash":"8f8287cd38445ecf122f495435cc4e11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -293,10 +309,12 @@
         }
     ],
     "wof:id":404471703,
-    "wof:lastmodified":1636496844,
+    "wof:lastmodified":1684353944,
     "wof:name":"Trento",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":118902,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

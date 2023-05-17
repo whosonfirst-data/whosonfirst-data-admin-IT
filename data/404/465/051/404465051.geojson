@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccamena",
+    "eurostat:nuts_2021_id":"082061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082061",
+    "eurostat:population":1429,
+    "eurostat:population_year":2020,
     "geom:area":0.003442,
-    "geom:area_square_m":33616128.209753,
+    "geom:area_square_m":33616128.209749,
     "geom:bbox":"13.1194279408,37.7797073301,13.2092482706,37.8636000629",
     "geom:latitude":37.830221,
     "geom:longitude":13.165612,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082061",
+        "eurostat:nuts_2021_id":"082061",
         "gn:id":6539137,
         "gp:id":12681438,
         "qs_pg:id":1102215
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13a7dec074dafa2bb106e9f8e6f5d816",
+    "wof:geomhash":"426b0aec86c57e76718429d3df8a070a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465051,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353824,
     "wof:name":"Roccamena",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1429,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

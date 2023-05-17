@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magnano",
+    "eurostat:nuts_2021_id":"096030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096030",
+    "eurostat:population":386,
+    "eurostat:population_year":2020,
     "geom:area":0.001215,
-    "geom:area_square_m":10539098.304314,
+    "geom:area_square_m":10539098.304311,
     "geom:bbox":"7.96550066913,45.4466962659,8.04205176554,45.4861155523",
     "geom:latitude":45.469301,
     "geom:longitude":8.003753,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096030",
+        "eurostat:nuts_2021_id":"096030",
         "gn:id":6543318,
         "gp:id":20075964,
         "qs_pg:id":982568
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0cb6fe531147822cbac406b7f735527c",
+    "wof:geomhash":"67b23423803ff9acecf6e465a003d665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404460357,
-    "wof:lastmodified":1582328009,
+    "wof:lastmodified":1684353716,
     "wof:name":"Magnano",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":386,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

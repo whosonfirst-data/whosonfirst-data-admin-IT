@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corno di Rosazzo",
+    "eurostat:nuts_2021_id":"030030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030030",
+    "eurostat:population":3117,
+    "eurostat:population_year":2020,
     "geom:area":0.001463,
-    "geom:area_square_m":12564982.154582,
+    "geom:area_square_m":12564982.154586,
     "geom:bbox":"13.4208154764,45.9681844886,13.468252706,46.0254713818",
     "geom:latitude":45.999561,
     "geom:longitude":13.442796,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030030",
+        "eurostat:nuts_2021_id":"030030",
         "gn:id":6536310,
         "gp:id":12678919,
         "qs_pg:id":1072463
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6ced0e80de51eee478ac9f40c2e2aa2",
+    "wof:geomhash":"ce59ac2ffe0eaeaaec37037d73a429e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470505,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353923,
     "wof:name":"Corno Di Rosazzo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":3117,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

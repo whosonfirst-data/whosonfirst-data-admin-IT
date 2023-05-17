@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montanaso Lombardo",
+    "eurostat:nuts_2021_id":"098040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098040",
+    "eurostat:population":2255,
+    "eurostat:population_year":2020,
     "geom:area":0.001094,
     "geom:area_square_m":9507305.552808,
     "geom:bbox":"9.42895815698,45.3241076013,9.49672610691,45.3500463494",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098040",
+        "eurostat:nuts_2021_id":"098040",
         "gn:id":6539418,
         "gp:id":12680444,
         "qs_pg:id":1187945
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b813f05cbc034a2c37e5be4e11cc281",
+    "wof:geomhash":"d7dbf1e10c18ec72047c55abd1ca2db7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469515,
-    "wof:lastmodified":1582328044,
+    "wof:lastmodified":1684353905,
     "wof:name":"Montanaso Lombardo",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":2255,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

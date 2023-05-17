@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lazise",
+    "eurostat:nuts_2021_id":"023043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023043",
+    "eurostat:population":7028,
+    "eurostat:population_year":2020,
     "geom:area":0.00727,
-    "geom:area_square_m":63026826.687675,
+    "geom:area_square_m":63026826.68768,
     "geom:bbox":"10.6376687261,45.4372550717,10.7832510298,45.5197655836",
     "geom:latitude":45.485817,
     "geom:longitude":10.710823,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023043",
+        "eurostat:nuts_2021_id":"023043",
         "gn:id":6538241,
         "gp:id":12678756,
         "qs_pg:id":1194743
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d56c1251fcdfa89d65165d96b2c5f254",
+    "wof:geomhash":"a5cb98734b81343885bda6bb39b9135b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457997,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353661,
     "wof:name":"Lazise",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":7028,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanusei",
+    "eurostat:nuts_2021_id":"091037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091037",
+    "eurostat:population":5283,
+    "eurostat:population_year":2020,
     "geom:area":0.005596,
-    "geom:area_square_m":53158617.532521,
+    "geom:area_square_m":53158617.532522,
     "geom:bbox":"9.49025032233,39.6029916078,9.65543437619,39.8941968324",
     "geom:latitude":39.799293,
     "geom:longitude":9.575412,
@@ -185,6 +197,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -193,6 +207,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091037",
+        "eurostat:nuts_2021_id":"091037",
         "gn:id":6539587,
         "gp:id":12679864,
         "qs_pg:id":537169
@@ -201,7 +217,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2bc01e1dabe5a1cd47cb453beb9a9613",
+    "wof:geomhash":"94806f52ef57e2210906a4759f82120b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,10 +228,12 @@
         }
     ],
     "wof:id":404467241,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353870,
     "wof:name":"Lanusei",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":5283,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

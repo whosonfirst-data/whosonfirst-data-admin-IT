@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Grimano Terme",
+    "eurostat:nuts_2021_id":"041035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041035",
+    "eurostat:population":1112,
+    "eurostat:population_year":2020,
     "geom:area":0.002681,
-    "geom:area_square_m":23896640.784987,
+    "geom:area_square_m":23896640.78499,
     "geom:bbox":"12.400672783,43.835869992,12.4901748357,43.8969203987",
     "geom:latitude":43.865231,
     "geom:longitude":12.457725,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041035",
+        "eurostat:nuts_2021_id":"041035",
         "gn:id":6542712,
         "gp:id":12680290,
         "qs_pg:id":342919
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7083fa025e83a48fc4e949e1725ecfe1",
+    "wof:geomhash":"51e3aaaa0ac0aedba865c4701ea07997",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459779,
-    "wof:lastmodified":1582328166,
+    "wof:lastmodified":1684353701,
     "wof:name":"Monte Grimano Terme",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1112,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

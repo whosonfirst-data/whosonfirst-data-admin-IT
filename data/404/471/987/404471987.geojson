@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lorsica",
+    "eurostat:nuts_2021_id":"010030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010030",
+    "eurostat:population":422,
+    "eurostat:population_year":2020,
     "geom:area":0.002005,
-    "geom:area_square_m":17696695.171768,
+    "geom:area_square_m":17696695.17177,
     "geom:bbox":"9.21261244057,44.4185577318,9.30613433483,44.5016304563",
     "geom:latitude":44.454277,
     "geom:longitude":9.25875,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010030",
+        "eurostat:nuts_2021_id":"010030",
         "gn:id":6539460,
         "gp:id":20076440,
         "qs_pg:id":1166780
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2fa19e1bbd646f362834846a42bad3f5",
+    "wof:geomhash":"71baf4164f2a6de57f9d34a3b61dbd6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471987,
-    "wof:lastmodified":1582327732,
+    "wof:lastmodified":1684353950,
     "wof:name":"Lorsica",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":422,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muscoline",
+    "eurostat:nuts_2021_id":"017116",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017116",
+    "eurostat:population":2675,
+    "eurostat:population_year":2020,
     "geom:area":0.001162,
-    "geom:area_square_m":10060028.183611,
+    "geom:area_square_m":10060028.18361,
     "geom:bbox":"10.4365394469,45.5384332516,10.4915032118,45.5774147069",
     "geom:latitude":45.55792,
     "geom:longitude":10.467289,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017116",
+        "eurostat:nuts_2021_id":"017116",
         "gn:id":6542771,
         "gp:id":12677754,
         "qs_pg:id":1163447
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"883b8ac1d8143c618e65a683bc1e0a4f",
+    "wof:geomhash":"6af41e66767a2eede5a3d970b4c1d075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471183,
-    "wof:lastmodified":1582327732,
+    "wof:lastmodified":1684353935,
     "wof:name":"Muscoline",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2675,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

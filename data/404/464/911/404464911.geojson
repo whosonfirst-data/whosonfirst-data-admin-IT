@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vita",
+    "eurostat:nuts_2021_id":"081023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081023",
+    "eurostat:population":1897,
+    "eurostat:population_year":2020,
     "geom:area":0.00093,
-    "geom:area_square_m":9080192.724738,
+    "geom:area_square_m":9080192.724736,
     "geom:bbox":"12.808382881,37.8389466908,12.8615905279,37.8789478959",
     "geom:latitude":37.862843,
     "geom:longitude":12.837644,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081023",
+        "eurostat:nuts_2021_id":"081023",
         "gn:id":6539115,
         "gp:id":12682508,
         "qs_pg:id":498899
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ba0c3bc5bdbba011cb916339992a89a",
+    "wof:geomhash":"ac68f7a4537e7bead081c31ecfb2048d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464911,
-    "wof:lastmodified":1582327806,
+    "wof:lastmodified":1684353821,
     "wof:name":"Vita",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":1897,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lucito",
+    "eurostat:nuts_2021_id":"070033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070033",
+    "eurostat:population":630,
+    "eurostat:population_year":2020,
     "geom:area":0.0034,
-    "geom:area_square_m":31372490.529676,
+    "geom:area_square_m":31372490.529673,
     "geom:bbox":"14.6217191891,41.6827683082,14.7331672069,41.7561810685",
     "geom:latitude":41.727834,
     "geom:longitude":14.668049,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070033",
+        "eurostat:nuts_2021_id":"070033",
         "gn:id":6538906,
         "gp:id":12680037,
         "qs_pg:id":1009323
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25133dbbebdacfb627baef127e259dd4",
+    "wof:geomhash":"1add69c3a7fb9992000ef7051d6390f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462827,
-    "wof:lastmodified":1582327852,
+    "wof:lastmodified":1684353766,
     "wof:name":"Lucito",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":630,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mezzomerico",
+    "eurostat:nuts_2021_id":"003097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003097",
+    "eurostat:population":1237,
+    "eurostat:population_year":2020,
     "geom:area":0.000891,
-    "geom:area_square_m":7707018.771415,
+    "geom:area_square_m":7707018.771414,
     "geom:bbox":"8.58228777095,45.6027248902,8.62395939316,45.6402836849",
     "geom:latitude":45.620663,
     "geom:longitude":8.600129,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003097",
+        "eurostat:nuts_2021_id":"003097",
         "gn:id":6539553,
         "gp:id":12680315,
         "qs_pg:id":906993
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36bfee4334351b7b2d86cf19ecdc58ba",
+    "wof:geomhash":"6a6e2953e26ead98d9464ff723140bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457765,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353656,
     "wof:name":"Mezzomerico",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1237,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

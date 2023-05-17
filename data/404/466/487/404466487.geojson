@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palma di Montechiaro",
+    "eurostat:nuts_2021_id":"084027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084027",
+    "eurostat:population":22262,
+    "eurostat:population_year":2020,
     "geom:area":0.007792,
-    "geom:area_square_m":76758932.878722,
+    "geom:area_square_m":76758932.878714,
     "geom:bbox":"13.6633678847,37.1401037206,13.8396392615,37.2222434394",
     "geom:latitude":37.181965,
     "geom:longitude":13.766081,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084027",
+        "eurostat:nuts_2021_id":"084027",
         "gn:id":6540843,
         "gp:id":12680182,
         "qs_pg:id":248685
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6aae84c4a296f9e238647aea91eaa0a",
+    "wof:geomhash":"29df5e26a9a7fc498c6122dfa1e3cf34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466487,
-    "wof:lastmodified":1582328204,
+    "wof:lastmodified":1684353850,
     "wof:name":"Palma Di Montechiaro",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":22262,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

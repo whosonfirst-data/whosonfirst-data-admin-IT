@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morino",
+    "eurostat:nuts_2021_id":"066057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066057",
+    "eurostat:population":1388,
+    "eurostat:population_year":2020,
     "geom:area":0.005544,
-    "geom:area_square_m":51067758.948746,
+    "geom:area_square_m":51067758.94874,
     "geom:bbox":"13.3668997541,41.803026592,13.5125278381,41.8869737475",
     "geom:latitude":41.842652,
     "geom:longitude":13.442955,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066057",
+        "eurostat:nuts_2021_id":"066057",
         "gn:id":6543624,
         "gp:id":12681349,
         "qs_pg:id":209139
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f075ec14782c6360bb317c4c094d28e",
+    "wof:geomhash":"13a7e97ddbb8b7607ee31aab616bca81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404462195,
-    "wof:lastmodified":1582327850,
+    "wof:lastmodified":1684353754,
     "wof:name":"Morino",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":1388,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

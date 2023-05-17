@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morgex",
+    "eurostat:nuts_2021_id":"007044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007044",
+    "eurostat:population":2123,
+    "eurostat:population_year":2020,
     "geom:area":0.005046,
-    "geom:area_square_m":43536005.556286,
+    "geom:area_square_m":43536005.55629,
     "geom:bbox":"6.97345500563,45.6962136658,7.0602397483,45.8110891226",
     "geom:latitude":45.75399,
     "geom:longitude":7.019243,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007044",
+        "eurostat:nuts_2021_id":"007044",
         "gn:id":6536462,
         "gp:id":12678577,
         "qs_pg:id":536748
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ecc28ba4e321db6a658ebe0825fee72e",
+    "wof:geomhash":"3448f7867a943b2a81e2e30549f3074f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459321,
-    "wof:lastmodified":1582328178,
+    "wof:lastmodified":1684353691,
     "wof:name":"Morgex",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":2123,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

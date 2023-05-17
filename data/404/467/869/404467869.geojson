@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rancio Valcuvia",
+    "eurostat:nuts_2021_id":"012115",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012115",
+    "eurostat:population":930,
+    "eurostat:population_year":2020,
     "geom:area":0.000516,
-    "geom:area_square_m":4441187.252842,
+    "geom:area_square_m":4441187.252843,
     "geom:bbox":"8.7523169282,45.8951933679,8.79385306574,45.9290664609",
     "geom:latitude":45.912898,
     "geom:longitude":8.773703,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012115",
+        "eurostat:nuts_2021_id":"012115",
         "gn:id":6537084,
         "gp:id":12681323,
         "qs_pg:id":1019712
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3551732f2d6f50915987c3c81ab1f0e4",
+    "wof:geomhash":"d4ae6a2b9c71a6ddea66c232ef743840",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467869,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353881,
     "wof:name":"Rancio Valcuvia",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":930,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

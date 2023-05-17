@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni Ilarione",
+    "eurostat:nuts_2021_id":"023070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023070",
+    "eurostat:population":5008,
+    "eurostat:population_year":2020,
     "geom:area":0.002926,
-    "geom:area_square_m":25347001.878202,
+    "geom:area_square_m":25347001.878203,
     "geom:bbox":"11.2000160444,45.4934266798,11.281398741,45.5604690825",
     "geom:latitude":45.526496,
     "geom:longitude":11.236497,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023070",
+        "eurostat:nuts_2021_id":"023070",
         "gn:id":6542021,
         "gp:id":12677044,
         "qs_pg:id":1248484
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41f050379cdae1c2a9612d36a5ddc3c6",
+    "wof:geomhash":"3a8b3a1ccd8cf8d455b220d195efee0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458057,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353662,
     "wof:name":"San Giovanni Ilarione",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":5008,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

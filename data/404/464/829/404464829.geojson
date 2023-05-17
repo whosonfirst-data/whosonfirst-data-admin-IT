@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Nicola da Crissa",
+    "eurostat:nuts_2021_id":"102035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102035",
+    "eurostat:population":1267,
+    "eurostat:population_year":2020,
     "geom:area":0.00199,
-    "geom:area_square_m":19207098.814527,
+    "geom:area_square_m":19207098.814521,
     "geom:bbox":"16.2488942305,38.6527915481,16.3455151261,38.6962879592",
     "geom:latitude":38.672472,
     "geom:longitude":16.294447,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102035",
+        "eurostat:nuts_2021_id":"102035"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c92ef5644050166ef4f345b828b25849",
+    "wof:geomhash":"c9fa47356dafb5059d437fd60e9ae89c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464829,
-    "wof:lastmodified":1566723213,
+    "wof:lastmodified":1684353818,
     "wof:name":"San Nicola Da Crissa",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":1267,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

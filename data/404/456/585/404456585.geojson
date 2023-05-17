@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pecetto Torinese",
+    "eurostat:nuts_2021_id":"001183",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001183",
+    "eurostat:population":4102,
+    "eurostat:population_year":2020,
     "geom:area":0.001048,
-    "geom:area_square_m":9158632.460512,
+    "geom:area_square_m":9158632.460508,
     "geom:bbox":"7.72248510622,44.9888376482,7.77567068281,45.044702344",
     "geom:latitude":45.01807,
     "geom:longitude":7.752808,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001183",
+        "eurostat:nuts_2021_id":"001183",
         "gn:id":6542156,
         "gp:id":12680961,
         "qs_pg:id":496781
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ccc1508d849c821fe62da6fd405c44c",
+    "wof:geomhash":"d19692a9bea71549f45da9ede5a24896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404456585,
-    "wof:lastmodified":1582328069,
+    "wof:lastmodified":1684353627,
     "wof:name":"Pecetto Torinese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4102,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

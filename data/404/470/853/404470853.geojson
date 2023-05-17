@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Treviglio",
+    "eurostat:nuts_2021_id":"016219",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016219",
+    "eurostat:population":30630,
+    "eurostat:population_year":2020,
     "geom:area":0.003714,
-    "geom:area_square_m":32170844.79973,
+    "geom:area_square_m":32170844.799733,
     "geom:bbox":"9.54686512846,45.498326099,9.63427692585,45.5698573455",
     "geom:latitude":45.530563,
     "geom:longitude":9.594514,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016219",
+        "eurostat:nuts_2021_id":"016219",
         "gn:id":6536160,
         "gp:id":12682265,
         "qs_pg:id":1078588
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4b07189dbdcb977b44e699cd2098c45",
+    "wof:geomhash":"79d69c8299da6ed81d929ffafc4273a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404470853,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353929,
     "wof:name":"Treviglio",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":30630,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

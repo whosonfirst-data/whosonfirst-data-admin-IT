@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laerru",
+    "eurostat:nuts_2021_id":"090034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090034",
+    "eurostat:population":881,
+    "eurostat:population_year":2020,
     "geom:area":0.00212,
-    "geom:area_square_m":19842115.158625,
+    "geom:area_square_m":19842115.158626,
     "geom:bbox":"8.80484415169,40.7908434282,8.88052941183,40.8314295819",
     "geom:latitude":40.812358,
     "geom:longitude":8.841533,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090034",
+        "eurostat:nuts_2021_id":"090034",
         "gn:id":6539229,
         "gp:id":12679841,
         "qs_pg:id":41146
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"330c44791592be610cb89aa142959403",
+    "wof:geomhash":"6c3e356ae171665822f48dea1456255a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466779,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353858,
     "wof:name":"Laerru",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":881,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brennero/Brenner",
+    "eurostat:nuts_2021_id":"021010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021010",
+    "eurostat:population":2252,
+    "eurostat:population_year":2020,
     "geom:area":0.013508,
-    "geom:area_square_m":113992587.424292,
+    "geom:area_square_m":113992587.424294,
     "geom:bbox":"11.2413327761,46.9209087396,11.5381561062,47.0110016855",
     "geom:latitude":46.962663,
     "geom:longitude":11.398695,
@@ -48,6 +60,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021010",
+        "eurostat:nuts_2021_id":"021010",
         "gp:id":12677089,
         "qs_pg:id":1097075
     },
@@ -63,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87dcdb7c287061c9dfed7d1b0a5e6b4a",
+    "wof:geomhash":"ba0cd87f2135d5ade3f1f198f47b60dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +90,12 @@
         }
     ],
     "wof:id":404473067,
-    "wof:lastmodified":1582327931,
+    "wof:lastmodified":1684353977,
     "wof:name":"Brennero",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2252,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

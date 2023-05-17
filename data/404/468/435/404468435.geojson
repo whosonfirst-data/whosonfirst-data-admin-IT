@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lentate sul Seveso",
+    "eurostat:nuts_2021_id":"108054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108054",
+    "eurostat:population":15964,
+    "eurostat:population_year":2020,
     "geom:area":0.001615,
-    "geom:area_square_m":13956196.933479,
+    "geom:area_square_m":13956196.933475,
     "geom:bbox":"9.08833086237,45.6530423627,9.15418564557,45.6974382978",
     "geom:latitude":45.676792,
     "geom:longitude":9.119306,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108054",
+        "eurostat:nuts_2021_id":"108054",
         "gn:id":6536514,
         "qs_pg:id":1037334
     },
@@ -53,7 +69,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"661726b136deee49042183ee6922a330",
+    "wof:geomhash":"e394c18accc743828629e6b0d14e69c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +80,12 @@
         }
     ],
     "wof:id":404468435,
-    "wof:lastmodified":1582328090,
+    "wof:lastmodified":1684353889,
     "wof:name":"Lentate Sul Seveso",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":15964,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

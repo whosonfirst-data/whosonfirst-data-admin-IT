@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vendemiano",
+    "eurostat:nuts_2021_id":"026076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026076",
+    "eurostat:population":9942,
+    "eurostat:population_year":2020,
     "geom:area":0.002143,
-    "geom:area_square_m":18446395.603481,
+    "geom:area_square_m":18446395.603485,
     "geom:bbox":"12.3125879417,45.8594057227,12.3930943819,45.9115950285",
     "geom:latitude":45.883026,
     "geom:longitude":12.349251,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026076",
+        "eurostat:nuts_2021_id":"026076",
         "gn:id":6540286,
         "gp:id":12677576,
         "qs_pg:id":203840
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"310c461fc6e2fca585702e9464d63ea9",
+    "wof:geomhash":"6543371f22765f12f650a37a3998c1a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458685,
-    "wof:lastmodified":1582327954,
+    "wof:lastmodified":1684353675,
     "wof:name":"San Vendemiano",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":9942,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

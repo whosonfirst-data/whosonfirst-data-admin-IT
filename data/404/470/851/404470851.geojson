@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trescore Balneario",
+    "eurostat:nuts_2021_id":"016218",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016218",
+    "eurostat:population":9771,
+    "eurostat:population_year":2020,
     "geom:area":0.001562,
-    "geom:area_square_m":13492126.218828,
+    "geom:area_square_m":13492126.218825,
     "geom:bbox":"9.8194808254,45.6658409999,9.89272981036,45.7299551358",
     "geom:latitude":45.699104,
     "geom:longitude":9.851315,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016218",
+        "eurostat:nuts_2021_id":"016218",
         "gn:id":6541708,
         "gp:id":12682260,
         "qs_pg:id":27735
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a92e796cc051ec4b09224b088fcd217",
+    "wof:geomhash":"fcc1092611e5503022f9ff92e27ac8cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470851,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353929,
     "wof:name":"Trescore Balneario",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":9771,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

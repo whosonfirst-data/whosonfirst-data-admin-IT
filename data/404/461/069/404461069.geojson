@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castignano",
+    "eurostat:nuts_2021_id":"044012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044012",
+    "eurostat:population":2682,
+    "eurostat:population_year":2020,
     "geom:area":0.004267,
-    "geom:area_square_m":38626296.555379,
+    "geom:area_square_m":38626296.555377,
     "geom:bbox":"13.5772500548,42.8937971366,13.6715924068,42.9714015201",
     "geom:latitude":42.936449,
     "geom:longitude":13.625433,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044012",
+        "eurostat:nuts_2021_id":"044012",
         "gn:id":6539730,
         "gp:id":12678364,
         "qs_pg:id":248781
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d17a8421df4513fc3c12a6840da4448e",
+    "wof:geomhash":"eb8ea74a8a8f54e3a542a6eff7fecd0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461069,
-    "wof:lastmodified":1582328146,
+    "wof:lastmodified":1684353731,
     "wof:name":"Castignano",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":2682,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

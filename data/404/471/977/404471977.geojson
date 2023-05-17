@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorreto",
+    "eurostat:nuts_2021_id":"010026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010026",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.002141,
-    "geom:area_square_m":18852416.207912,
+    "geom:area_square_m":18852416.207915,
     "geom:bbox":"9.20301819742,44.5780554405,9.29748657129,44.6197008876",
     "geom:latitude":44.598475,
     "geom:longitude":9.240948,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010026",
+        "eurostat:nuts_2021_id":"010026",
         "gn:id":6537062,
         "gp:id":12679326,
         "qs_pg:id":1169163
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eba7f95421b83acd197ba2916726c3b9",
+    "wof:geomhash":"be398ccba1426238e8b155029b8a9177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471977,
-    "wof:lastmodified":1582327719,
+    "wof:lastmodified":1684353949,
     "wof:name":"Gorreto",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

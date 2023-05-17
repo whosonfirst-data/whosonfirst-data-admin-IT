@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colle Brianza",
+    "eurostat:nuts_2021_id":"097024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097024",
+    "eurostat:population":1745,
+    "eurostat:population_year":2020,
     "geom:area":0.000963,
-    "geom:area_square_m":8305027.810184,
+    "geom:area_square_m":8305027.810183,
     "geom:bbox":"9.35196477785,45.7446041863,9.40962096953,45.7792488127",
     "geom:latitude":45.76016,
     "geom:longitude":9.377218,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097024",
+        "eurostat:nuts_2021_id":"097024",
         "gn:id":6542819,
         "gp:id":20076375,
         "qs_pg:id":378418
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc12be8592f5c1487b298c81b56a0f36",
+    "wof:geomhash":"04f670efaed46889c33d02d5df30027d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469275,
-    "wof:lastmodified":1582328028,
+    "wof:lastmodified":1684353902,
     "wof:name":"Colle Brianza",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":1745,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

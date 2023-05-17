@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnolo Piemonte",
+    "eurostat:nuts_2021_id":"004009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004009",
+    "eurostat:population":5900,
+    "eurostat:population_year":2020,
     "geom:area":0.00719,
     "geom:area_square_m":63139478.554556,
     "geom:bbox":"7.14946200176,44.7187898494,7.349645056,44.7831119334",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004009",
+        "eurostat:nuts_2021_id":"004009",
         "gn:id":6541451,
         "gp:id":12676463,
         "qs_pg:id":1317089
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3887a1eed09425e817a179dd182388f",
+    "wof:geomhash":"22e5c8b6ab64393f635bf5ecf159b644",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457863,
-    "wof:lastmodified":1582328118,
+    "wof:lastmodified":1684353658,
     "wof:name":"Bagnolo Piemonte",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":5900,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

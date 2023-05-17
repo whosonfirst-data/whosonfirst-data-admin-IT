@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valgoglio",
+    "eurostat:nuts_2021_id":"016225",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016225",
+    "eurostat:population":595,
+    "eurostat:population_year":2020,
     "geom:area":0.003705,
-    "geom:area_square_m":31836702.218108,
+    "geom:area_square_m":31836702.218109,
     "geom:bbox":"9.824858172,45.9553349362,9.92470853751,46.0119294462",
     "geom:latitude":45.983828,
     "geom:longitude":9.879087,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016225",
+        "eurostat:nuts_2021_id":"016225",
         "gn:id":6542578,
         "gp:id":20076231,
         "qs_pg:id":202106
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"821663822d108f2924cdb4b1b69a4461",
+    "wof:geomhash":"b81b4f2f7f22baff714d7aa29eb2c70d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470867,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353929,
     "wof:name":"Valgoglio",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":595,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

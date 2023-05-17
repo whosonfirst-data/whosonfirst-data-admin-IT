@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Annicco",
+    "eurostat:nuts_2021_id":"019003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019003",
+    "eurostat:population":2011,
+    "eurostat:population_year":2020,
     "geom:area":0.002202,
-    "geom:area_square_m":19169181.178307,
+    "geom:area_square_m":19169181.17831,
     "geom:bbox":"9.85061011918,45.2241034362,9.91877888112,45.2796754074",
     "geom:latitude":45.252493,
     "geom:longitude":9.882736,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_019003",
+        "eurostat:nuts_2021_id":"019003"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"912d7c518c406c6de917874b22d42299",
+    "wof:geomhash":"022b71da955c5fb8c93ba84692ed7d92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404468813,
-    "wof:lastmodified":1566723634,
+    "wof:lastmodified":1684353895,
     "wof:name":"Annicco",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":2011,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontestura",
+    "eurostat:nuts_2021_id":"006133",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006133",
+    "eurostat:population":1375,
+    "eurostat:population_year":2020,
     "geom:area":0.002166,
-    "geom:area_square_m":18890602.412026,
+    "geom:area_square_m":18890602.412021,
     "geom:bbox":"8.29721078613,45.1107283412,8.36277480406,45.1584879946",
     "geom:latitude":45.134896,
     "geom:longitude":8.328688,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006133",
+        "eurostat:nuts_2021_id":"006133",
         "gn:id":6540313,
         "gp:id":12681220,
         "qs_pg:id":998687
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57435efe781f841fecd1ff99e8e63455",
+    "wof:geomhash":"7707448427a203beff0bb88c2aea6389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456711,
-    "wof:lastmodified":1582328072,
+    "wof:lastmodified":1684353631,
     "wof:name":"Pontestura",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1375,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Favignana",
+    "eurostat:nuts_2021_id":"081009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081009",
+    "eurostat:population":4313,
+    "eurostat:population_year":2020,
     "geom:area":0.003923,
-    "geom:area_square_m":38249388.82583,
+    "geom:area_square_m":38249388.825827,
     "geom:bbox":"12.0278573194,37.9036274831,12.4267386138,38.0206511507",
     "geom:latitude":37.952747,
     "geom:longitude":12.236823,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081009",
+        "eurostat:nuts_2021_id":"081009",
         "gn:id":6539113,
         "gp:id":12677793,
         "qs_pg:id":1095049
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f35a9aa01b61c07d89c6be468f2d1e0",
+    "wof:geomhash":"19e61af74c806d6f12544c504680cab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404464883,
-    "wof:lastmodified":1582327802,
+    "wof:lastmodified":1684353819,
     "wof:name":"Favignana",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":4313,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

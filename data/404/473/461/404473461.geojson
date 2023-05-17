@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022233",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dimaro Folgarida",
+    "eurostat:nuts_2021_id":"022233",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022233",
+    "eurostat:population":2110,
+    "eurostat:population_year":2020,
     "geom:area":0.003243,
-    "geom:area_square_m":27712373.617668,
+    "geom:area_square_m":27712373.617674,
     "geom:bbox":"10.8360093763,46.2509658757,10.9151343826,46.3344448831",
     "geom:latitude":46.289853,
     "geom:longitude":10.877724,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022233",
+        "eurostat:nuts_2021_id":"022233",
         "gn:id":6536593,
         "gp:id":12679083,
         "qs_pg:id":1163489
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04229cf225f195c85be91ab81f763c25",
+    "wof:geomhash":"c374bcc006c1a51c22bc70e12fc65d69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404473461,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353989,
     "wof:name":"Dimaro",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":2110,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

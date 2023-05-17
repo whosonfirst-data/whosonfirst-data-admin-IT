@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Balestrino",
+    "eurostat:nuts_2021_id":"009008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009008",
+    "eurostat:population":537,
+    "eurostat:population_year":2020,
     "geom:area":0.001268,
-    "geom:area_square_m":11259275.801245,
+    "geom:area_square_m":11259275.801246,
     "geom:bbox":"8.14276652534,44.1087095799,8.19689750959,44.1402867038",
     "geom:latitude":44.124048,
     "geom:longitude":8.16814,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009008",
+        "eurostat:nuts_2021_id":"009008",
         "gn:id":6540320,
         "gp:id":12676494,
         "qs_pg:id":1092881
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d72b7ef7ce70e4032992f8324915eb7",
+    "wof:geomhash":"74130f4a3790795ea79026a533dfd68c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471905,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353948,
     "wof:name":"Balestrino",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":537,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

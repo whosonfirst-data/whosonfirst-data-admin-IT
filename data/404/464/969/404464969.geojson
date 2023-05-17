@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castronovo di Sicilia",
+    "eurostat:nuts_2021_id":"082025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082025",
+    "eurostat:population":2944,
+    "eurostat:population_year":2020,
     "geom:area":0.020472,
-    "geom:area_square_m":200296371.095016,
+    "geom:area_square_m":200296371.095017,
     "geom:bbox":"13.4535584754,37.6353923123,13.7445177626,37.7726445804",
     "geom:latitude":37.697477,
     "geom:longitude":13.598336,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082025",
+        "eurostat:nuts_2021_id":"082025",
         "gn:id":6536404,
         "gp:id":12676960,
         "qs_pg:id":209018
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"103ef35af129baab319e3d86c1d51556",
+    "wof:geomhash":"521b80b3f698b866da1435aa53d2e968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404464969,
-    "wof:lastmodified":1582327800,
+    "wof:lastmodified":1684353822,
     "wof:name":"Castronovo Di Sicilia",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":2944,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noto",
+    "eurostat:nuts_2021_id":"089013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089013",
+    "eurostat:population":24154,
+    "eurostat:population_year":2020,
     "geom:area":0.055767,
-    "geom:area_square_m":551352879.713542,
+    "geom:area_square_m":551352879.713533,
     "geom:bbox":"14.8681924634,36.7037311363,15.1833006073,37.0762241049",
     "geom:latitude":36.912341,
     "geom:longitude":15.019879,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089013",
+        "eurostat:nuts_2021_id":"089013",
         "gn:id":6540064,
         "gp:id":20077071,
         "qs_pg:id":395535
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aad5172d5a0609b8174759e9b9cb5212",
+    "wof:geomhash":"f3b6a13447fa6e418cf893221dffee76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466699,
-    "wof:lastmodified":1582328205,
+    "wof:lastmodified":1684353855,
     "wof:name":"Noto",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":24154,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

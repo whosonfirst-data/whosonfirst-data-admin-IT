@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Denice",
+    "eurostat:nuts_2021_id":"006065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006065",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.000846,
     "geom:area_square_m":7452266.382451,
     "geom:bbox":"8.31401611303,44.5876918412,8.35489753396,44.6230906786",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006065",
+        "eurostat:nuts_2021_id":"006065",
         "gn:id":6543523,
         "gp:id":20075905,
         "qs_pg:id":1103140
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"801d5088ea3ccde42687e7e7cc19de92",
+    "wof:geomhash":"9fe86c1b2aab28d97f759a7acde00789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460121,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353710,
     "wof:name":"Denice",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

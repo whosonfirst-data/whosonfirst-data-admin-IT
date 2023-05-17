@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camastra",
+    "eurostat:nuts_2021_id":"084008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084008",
+    "eurostat:population":2012,
+    "eurostat:population_year":2020,
     "geom:area":0.001651,
-    "geom:area_square_m":16249970.133332,
+    "geom:area_square_m":16249970.133329,
     "geom:bbox":"13.7844792537,37.2125842257,13.8276762816,37.2833226954",
     "geom:latitude":37.251,
     "geom:longitude":13.806199,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084008",
+        "eurostat:nuts_2021_id":"084008",
         "gn:id":6541338,
         "gp:id":12677365,
         "qs_pg:id":1142866
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa5be58b43e88ada0322d33dd4cb5c5e",
+    "wof:geomhash":"ab30ffc2a687be36eb4e4428fe67206a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466445,
-    "wof:lastmodified":1582328204,
+    "wof:lastmodified":1684353849,
     "wof:name":"Camastra",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":2012,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

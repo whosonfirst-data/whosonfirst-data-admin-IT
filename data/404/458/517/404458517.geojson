@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valbrevenna",
+    "eurostat:nuts_2021_id":"010065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010065",
+    "eurostat:population":764,
+    "eurostat:population_year":2020,
     "geom:area":0.00393,
-    "geom:area_square_m":34627760.897026,
+    "geom:area_square_m":34627760.897028,
     "geom:bbox":"9.01817507834,44.5327793584,9.15693419819,44.5819504113",
     "geom:latitude":44.557458,
     "geom:longitude":9.086541,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010065",
+        "eurostat:nuts_2021_id":"010065",
         "gn:id":6542759,
         "gp:id":12680930,
         "qs_pg:id":41930
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8c82aa423a142811f0972191cd7e332",
+    "wof:geomhash":"de0e4ea91e1f1b12f5c555a2282936c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458517,
-    "wof:lastmodified":1582327946,
+    "wof:lastmodified":1684353671,
     "wof:name":"Valbrevenna",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":764,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Clemente",
+    "eurostat:nuts_2021_id":"099016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099016",
+    "eurostat:population":5653,
+    "eurostat:population_year":2020,
     "geom:area":0.002317,
-    "geom:area_square_m":20630010.303593,
+    "geom:area_square_m":20630010.303595,
     "geom:bbox":"12.5989711733,43.9038812417,12.6792121899,43.958398368",
     "geom:latitude":43.931265,
     "geom:longitude":12.632128,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099016",
+        "eurostat:nuts_2021_id":"099016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8b6cd034a944adabc19bbbf7c4a49526",
+    "wof:geomhash":"8d88f998af562965e48a684ad8fc7f69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404472561,
-    "wof:lastmodified":1566723347,
+    "wof:lastmodified":1684353964,
     "wof:name":"San Clemente",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":5653,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

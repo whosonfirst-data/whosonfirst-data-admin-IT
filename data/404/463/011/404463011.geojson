@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castello del Matese",
+    "eurostat:nuts_2021_id":"061025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061025",
+    "eurostat:population":1425,
+    "eurostat:population_year":2020,
     "geom:area":0.002334,
-    "geom:area_square_m":21652070.568349,
+    "geom:area_square_m":21652070.568348,
     "geom:bbox":"14.3625911186,41.3605267286,14.4824853208,41.4260463617",
     "geom:latitude":41.390124,
     "geom:longitude":14.428472,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061025",
+        "eurostat:nuts_2021_id":"061025",
         "gn:id":6543607,
         "gp:id":20076913,
         "qs_pg:id":52054
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f5c4ca33c2bac4fbceb161777042a9a5",
+    "wof:geomhash":"3f34c729f7cbebe0868c829f4f18475b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404463011,
-    "wof:lastmodified":1582327781,
+    "wof:lastmodified":1684353770,
     "wof:name":"Castello Del Matese",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":1425,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

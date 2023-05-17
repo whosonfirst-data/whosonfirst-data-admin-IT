@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trivolzio",
+    "eurostat:nuts_2021_id":"018163",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018163",
+    "eurostat:population":2330,
+    "eurostat:population_year":2020,
     "geom:area":0.00044,
     "geom:area_square_m":3825825.398522,
     "geom:bbox":"9.0318178463,45.2493567399,9.0622005262,45.2749294083",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018163",
+        "eurostat:nuts_2021_id":"018163",
         "gn:id":6543207,
         "gp:id":20076331,
         "qs_pg:id":345911
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d13d7d9bdc94d068bb05e8d992327c2",
+    "wof:geomhash":"8d1a80f9dd70b0c89d9c222b8ee586dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468745,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353894,
     "wof:name":"Trivolzio",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":2330,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

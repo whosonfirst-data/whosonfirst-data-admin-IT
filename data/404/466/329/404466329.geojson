@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pace del Mela",
+    "eurostat:nuts_2021_id":"083064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083064",
+    "eurostat:population":6209,
+    "eurostat:population_year":2020,
     "geom:area":0.001244,
-    "geom:area_square_m":12087366.850588,
+    "geom:area_square_m":12087366.85059,
     "geom:bbox":"15.2832689108,38.1600426973,15.3245788414,38.2120942132",
     "geom:latitude":38.187524,
     "geom:longitude":15.305181,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083064",
+        "eurostat:nuts_2021_id":"083064",
         "gn:id":2523941,
         "gp:id":12680857,
         "qs_pg:id":935101
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2622d6510f946bd3fdf8d235c1036ac1",
+    "wof:geomhash":"c3d94ac5c5d070d63ca49b41d1f87c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404466329,
-    "wof:lastmodified":1582328209,
+    "wof:lastmodified":1684353847,
     "wof:name":"Pace Del Mela",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":6209,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

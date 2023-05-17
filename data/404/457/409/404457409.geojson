@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vialfr\u00e8",
+    "eurostat:nuts_2021_id":"001296",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001296",
+    "eurostat:population":248,
+    "eurostat:population_year":2020,
     "geom:area":0.000534,
     "geom:area_square_m":4637727.341425,
     "geom:bbox":"7.78916859373,45.3557544414,7.833789289,45.3878464533",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001296",
+        "eurostat:nuts_2021_id":"001296",
         "gn:id":6543795,
         "gp:id":20076529,
         "qs_pg:id":1149929
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c38051737f7fa9b728cdd189991ced37",
+    "wof:geomhash":"892bbb1118729d12788b5ea43b13ee79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457409,
-    "wof:lastmodified":1582328103,
+    "wof:lastmodified":1684353649,
     "wof:name":"Vialfr\u00e8",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":248,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

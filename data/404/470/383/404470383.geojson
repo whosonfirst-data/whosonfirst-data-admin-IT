@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giacciano con Baruchella",
+    "eurostat:nuts_2021_id":"029027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029027",
+    "eurostat:population":2074,
+    "eurostat:population_year":2020,
     "geom:area":0.002104,
-    "geom:area_square_m":18378574.771266,
+    "geom:area_square_m":18378574.771263,
     "geom:bbox":"11.3606356837,45.0358828834,11.4727264559,45.0997731964",
     "geom:latitude":45.064273,
     "geom:longitude":11.440677,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029027",
+        "eurostat:nuts_2021_id":"029027",
         "gn:id":6542174,
         "gp:id":12676596,
         "qs_pg:id":946798
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc0176bf1624a80f9a98d4b0645f751c",
+    "wof:geomhash":"72ea4aa2476e3c254a94ecf9c90d86dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470383,
-    "wof:lastmodified":1582327745,
+    "wof:lastmodified":1684353920,
     "wof:name":"Giacciano Con Baruchella",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":2074,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

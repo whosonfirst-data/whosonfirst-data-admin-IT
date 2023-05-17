@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camino",
+    "eurostat:nuts_2021_id":"006027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006027",
+    "eurostat:population":733,
+    "eurostat:population_year":2020,
     "geom:area":0.002112,
     "geom:area_square_m":18410885.376514,
     "geom:bbox":"8.236674903,45.1433904378,8.32161617121,45.1810771432",
@@ -119,6 +131,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -127,6 +141,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006027",
+        "eurostat:nuts_2021_id":"006027",
         "gn:id":6539912,
         "gp:id":12677385,
         "qs_pg:id":1195854
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ecd0036dba54b126e2af8be9e7f55743",
+    "wof:geomhash":"a2298fad357a6fde934f185238a3c2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404460035,
-    "wof:lastmodified":1582328016,
+    "wof:lastmodified":1684353708,
     "wof:name":"Camino",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":733,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

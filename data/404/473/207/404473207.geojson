@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Renon/Ritten",
+    "eurostat:nuts_2021_id":"021072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021072",
+    "eurostat:population":7966,
+    "eurostat:population_year":2020,
     "geom:area":0.013063,
-    "geom:area_square_m":111074894.789037,
+    "geom:area_square_m":111074894.789048,
     "geom:bbox":"11.3538375393,46.4921795967,11.5235433295,46.6336332219",
     "geom:latitude":46.553866,
     "geom:longitude":11.436175,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021072",
+        "eurostat:nuts_2021_id":"021072",
         "gp:id":12676340,
         "qs_pg:id":887936
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3b77d0af8d57e3c111903897233f656",
+    "wof:geomhash":"557c318a1abf39bb0a7526cb156b8f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473207,
-    "wof:lastmodified":1582327929,
+    "wof:lastmodified":1684353982,
     "wof:name":"Renon",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":7966,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valstrona",
+    "eurostat:nuts_2021_id":"103069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103069",
+    "eurostat:population":1209,
+    "eurostat:population_year":2020,
     "geom:area":0.006023,
-    "geom:area_square_m":51804520.326006,
+    "geom:area_square_m":51804520.326004,
     "geom:bbox":"8.20407729903,45.8886842758,8.35769864033,45.9571481268",
     "geom:latitude":45.926571,
     "geom:longitude":8.282648,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103069",
+        "eurostat:nuts_2021_id":"103069",
         "gn:id":6542830,
         "gp:id":20075993,
         "qs_pg:id":50409
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9d0456f23101a229883f1d2b0dbefc3",
+    "wof:geomhash":"e0577c9476d908d12ea2b3957dd6211f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459581,
-    "wof:lastmodified":1582328164,
+    "wof:lastmodified":1684353696,
     "wof:name":"Valstrona",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":1209,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

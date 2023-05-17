@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Butera",
+    "eurostat:nuts_2021_id":"085003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085003",
+    "eurostat:population":4411,
+    "eurostat:population_year":2020,
     "geom:area":0.030167,
-    "geom:area_square_m":297159280.876564,
+    "geom:area_square_m":297159280.876586,
     "geom:bbox":"13.9822596029,37.1020725682,14.2997331869,37.2905307208",
     "geom:latitude":37.191715,
     "geom:longitude":14.129289,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085003",
+        "eurostat:nuts_2021_id":"085003",
         "gn:id":6537787,
         "gp:id":12677879,
         "qs_pg:id":39931
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5519d21a3b6944e8d8b1acc5e5db7398",
+    "wof:geomhash":"60147356d1dccff08b80556b7bb93455",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466531,
-    "wof:lastmodified":1582328199,
+    "wof:lastmodified":1684353851,
     "wof:name":"Butera",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":4411,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

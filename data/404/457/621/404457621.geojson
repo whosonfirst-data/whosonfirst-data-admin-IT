@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scopello",
+    "eurostat:nuts_2021_id":"002135",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002135",
+    "eurostat:population":365,
+    "eurostat:population_year":2020,
     "geom:area":0.002113,
-    "geom:area_square_m":18224349.849445,
+    "geom:area_square_m":18224349.849443,
     "geom:bbox":"8.05901703215,45.718734004,8.1408455409,45.7974793251",
     "geom:latitude":45.762025,
     "geom:longitude":8.092858,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002135",
+        "eurostat:nuts_2021_id":"002135",
         "gn:id":6539806,
         "gp:id":12681931,
         "qs_pg:id":42659
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d66c89749d3ead08810bc9b97443831",
+    "wof:geomhash":"bb2025b75181b991b1c19238f1d77c90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457621,
-    "wof:lastmodified":1582328099,
+    "wof:lastmodified":1684353653,
     "wof:name":"Scopello",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":365,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

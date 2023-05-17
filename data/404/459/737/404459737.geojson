@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frontino",
+    "eurostat:nuts_2021_id":"041017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041017",
+    "eurostat:population":288,
+    "eurostat:population_year":2020,
     "geom:area":0.001158,
-    "geom:area_square_m":10337688.853864,
+    "geom:area_square_m":10337688.853862,
     "geom:bbox":"12.3222964182,43.7510682981,12.38849301,43.7835285627",
     "geom:latitude":43.766084,
     "geom:longitude":12.3628,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041017",
+        "eurostat:nuts_2021_id":"041017",
         "gn:id":6536763,
         "gp:id":12677723,
         "qs_pg:id":786278
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69f9b135cd070874c16e45cbbe1939a5",
+    "wof:geomhash":"627cd305748f3e1cdf01689ddf161cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404459737,
-    "wof:lastmodified":1582328154,
+    "wof:lastmodified":1684353700,
     "wof:name":"Frontino",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":288,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

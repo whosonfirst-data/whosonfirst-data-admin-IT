@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavalese",
+    "eurostat:nuts_2021_id":"022050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022050",
+    "eurostat:population":4112,
+    "eurostat:population_year":2020,
     "geom:area":0.005293,
-    "geom:area_square_m":45261009.303333,
+    "geom:area_square_m":45261009.303342,
     "geom:bbox":"11.4327493139,46.199201185,11.5225379903,46.2966891453",
     "geom:latitude":46.247834,
     "geom:longitude":11.474569,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022050",
+        "eurostat:nuts_2021_id":"022050",
         "gn:id":6540228,
         "gp:id":12678400,
         "qs_pg:id":40267
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a0890a2e0ada7dfe6c5af100c3508a1",
+    "wof:geomhash":"01717c5ac9fe8af02fd4ba370305eade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404473407,
-    "wof:lastmodified":1582327919,
+    "wof:lastmodified":1684353988,
     "wof:name":"Cavalese",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":4112,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

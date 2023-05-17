@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sennariolo",
+    "eurostat:nuts_2021_id":"095055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095055",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.001653,
-    "geom:area_square_m":15608621.195823,
+    "geom:area_square_m":15608621.195822,
     "geom:bbox":"8.49216400875,40.1949871095,8.57317993772,40.2355227999",
     "geom:latitude":40.216476,
     "geom:longitude":8.535236,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095055",
+        "eurostat:nuts_2021_id":"095055",
         "gn:id":6537977,
         "gp:id":12681961,
         "qs_pg:id":538086
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04e690572394581e3c28636013776085",
+    "wof:geomhash":"4f57d3aba7aae35275ee5ba1666b4c54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467087,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353865,
     "wof:name":"Sennariolo",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

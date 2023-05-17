@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melissa",
+    "eurostat:nuts_2021_id":"101014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101014",
+    "eurostat:population":3398,
+    "eurostat:population_year":2020,
     "geom:area":0.005333,
-    "geom:area_square_m":51022880.609636,
+    "geom:area_square_m":51022880.609635,
     "geom:bbox":"16.9678778281,39.267658146,17.1139024143,39.3397308821",
     "geom:latitude":39.304421,
     "geom:longitude":17.044157,
@@ -80,6 +92,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -87,9 +101,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101014",
+        "eurostat:nuts_2021_id":"101014"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"206fd4a8ec4098145abeb289ce5616e4",
+    "wof:geomhash":"cf968230a52be52b85827c79aa5488ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +117,12 @@
         }
     ],
     "wof:id":404464721,
-    "wof:lastmodified":1566723247,
+    "wof:lastmodified":1684353814,
     "wof:name":"Melissa",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":3398,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

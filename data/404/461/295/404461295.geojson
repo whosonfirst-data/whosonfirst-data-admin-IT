@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manciano",
+    "eurostat:nuts_2021_id":"053014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053014",
+    "eurostat:population":7228,
+    "eurostat:population_year":2020,
     "geom:area":0.040833,
-    "geom:area_square_m":371827824.135131,
+    "geom:area_square_m":371827824.135104,
     "geom:bbox":"11.2827798195,42.4341103655,11.6218345794,42.7123772767",
     "geom:latitude":42.571968,
     "geom:longitude":11.492759,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_053014",
+        "eurostat:nuts_2021_id":"053014"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7b2dfc461599a89ea8a3a3da0376334f",
+    "wof:geomhash":"af445e5594d9f35d53bb4bab633aa3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404461295,
-    "wof:lastmodified":1566723692,
+    "wof:lastmodified":1684353736,
     "wof:name":"Manciano",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":7228,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

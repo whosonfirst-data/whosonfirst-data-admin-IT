@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Celle Ligure",
+    "eurostat:nuts_2021_id":"009022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009022",
+    "eurostat:population":5068,
+    "eurostat:population_year":2020,
     "geom:area":0.00108,
-    "geom:area_square_m":9548948.196507,
+    "geom:area_square_m":9548948.196508,
     "geom:bbox":"8.51526574633,44.331257302,8.56518282805,44.37785475",
     "geom:latitude":44.352762,
     "geom:longitude":8.53698,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009022",
+        "eurostat:nuts_2021_id":"009022",
         "gn:id":6541514,
         "gp:id":12677074,
         "qs_pg:id":50764
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50a9f34c18822c833f72e4c1cee29d02",
+    "wof:geomhash":"38cee5f5d3b3f0291ddf71f78fe1c79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404467439,
-    "wof:lastmodified":1582327972,
+    "wof:lastmodified":1684353874,
     "wof:name":"Celle Ligure",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":5068,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

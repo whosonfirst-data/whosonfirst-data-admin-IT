@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casorezzo",
+    "eurostat:nuts_2021_id":"015058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015058",
+    "eurostat:population":5469,
+    "eurostat:population_year":2020,
     "geom:area":0.00076,
     "geom:area_square_m":6585435.002082,
     "geom:bbox":"8.88221785791,45.5151840524,8.93259773442,45.5382929236",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015058",
+        "eurostat:nuts_2021_id":"015058",
         "gn:id":6536501,
         "gp:id":12678129,
         "qs_pg:id":203893
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"422eb7f820b7cec434256297c74f4ece",
+    "wof:geomhash":"5999da970d0d667e120107ad69aff056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468355,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353887,
     "wof:name":"Casorezzo",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":5469,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

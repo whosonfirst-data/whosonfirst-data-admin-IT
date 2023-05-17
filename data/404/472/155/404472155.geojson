@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busseto",
+    "eurostat:nuts_2021_id":"034007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034007",
+    "eurostat:population":6875,
+    "eurostat:population_year":2020,
     "geom:area":0.00874,
-    "geom:area_square_m":76475833.449481,
+    "geom:area_square_m":76475833.449476,
     "geom:bbox":"9.98720765202,44.8878810565,10.1459075835,45.0121707192",
     "geom:latitude":44.95874,
     "geom:longitude":10.0603,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034007",
+        "eurostat:nuts_2021_id":"034007",
         "gn:id":6537582,
         "gp:id":12676617,
         "qs_pg:id":1163418
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc9de815d4024081b428b4bbe0234c4a",
+    "wof:geomhash":"44be69f90f8bc5149c3435064053d952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472155,
-    "wof:lastmodified":1582327896,
+    "wof:lastmodified":1684353953,
     "wof:name":"Busseto",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":6875,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

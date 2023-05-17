@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sestu",
+    "eurostat:nuts_2021_id":"092074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092074",
+    "eurostat:population":21162,
+    "eurostat:population_year":2020,
     "geom:area":0.005047,
-    "geom:area_square_m":48283810.174017,
+    "geom:area_square_m":48283810.174016,
     "geom:bbox":"9.02833756542,39.2706649682,9.13384382835,39.3531210238",
     "geom:latitude":39.315765,
     "geom:longitude":9.083356,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092074",
+        "eurostat:nuts_2021_id":"092074",
         "gn:id":6539304,
         "gp:id":12681994,
         "qs_pg:id":1108950
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c49e9ab9c32a897fc1643fa94cfdbdbc",
+    "wof:geomhash":"109e65772896dbb3412bdbb50c936e56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404466887,
-    "wof:lastmodified":1582328187,
+    "wof:lastmodified":1684353861,
     "wof:name":"Sestu",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":21162,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

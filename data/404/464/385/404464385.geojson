@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martirano Lombardo",
+    "eurostat:nuts_2021_id":"079074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079074",
+    "eurostat:population":1016,
+    "eurostat:population_year":2020,
     "geom:area":0.002047,
-    "geom:area_square_m":19653948.99238,
+    "geom:area_square_m":19653948.992378,
     "geom:bbox":"16.1888407429,39.0201529336,16.2565143322,39.0850447933",
     "geom:latitude":39.060127,
     "geom:longitude":16.22575,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079074",
+        "eurostat:nuts_2021_id":"079074"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"774c9d60ae3f50842895df97225b35d8",
+    "wof:geomhash":"83c724e492da0db7520c8c52d060319e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464385,
-    "wof:lastmodified":1566723226,
+    "wof:lastmodified":1684353804,
     "wof:name":"Martirano Lombardo",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":1016,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

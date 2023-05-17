@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brenta",
+    "eurostat:nuts_2021_id":"012019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012019",
+    "eurostat:population":1723,
+    "eurostat:population_year":2020,
     "geom:area":0.000485,
-    "geom:area_square_m":4175476.737917,
+    "geom:area_square_m":4175476.737918,
     "geom:bbox":"8.67355132272,45.8906106732,8.70108502923,45.9241598078",
     "geom:latitude":45.906274,
     "geom:longitude":8.686731,
@@ -107,6 +119,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -115,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012019",
+        "eurostat:nuts_2021_id":"012019",
         "gn:id":6542899,
         "gp:id":20076018,
         "qs_pg:id":999002
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3a95cfa7b7a9438b192288f764f705d",
+    "wof:geomhash":"eed0501381188af13070e75daa53c4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404467415,
-    "wof:lastmodified":1582327971,
+    "wof:lastmodified":1684353873,
     "wof:name":"Brenta",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":1723,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

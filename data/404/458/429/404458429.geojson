@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa del Conte",
+    "eurostat:nuts_2021_id":"028101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028101",
+    "eurostat:population":5604,
+    "eurostat:population_year":2020,
     "geom:area":0.002,
-    "geom:area_square_m":17301549.80611,
+    "geom:area_square_m":17301549.806115,
     "geom:bbox":"11.8338789516,45.561643723,11.8820462935,45.6286760999",
     "geom:latitude":45.592019,
     "geom:longitude":11.858688,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028101",
+        "eurostat:nuts_2021_id":"028101",
         "gn:id":6536677,
         "gp:id":12675709,
         "qs_pg:id":1212478
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3745ed8f23a42284c0fc7085e34bfa8c",
+    "wof:geomhash":"ed68f5b74b0bd56e4c31d28eb5730cad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458429,
-    "wof:lastmodified":1582327955,
+    "wof:lastmodified":1684353669,
     "wof:name":"Villa Del Conte",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":5604,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gargazzone/Gargazon",
+    "eurostat:nuts_2021_id":"021035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021035",
+    "eurostat:population":1751,
+    "eurostat:population_year":2020,
     "geom:area":0.000577,
     "geom:area_square_m":4901790.166449,
     "geom:bbox":"11.187233944,46.5638182255,11.2214751904,46.5892139589",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021035",
+        "eurostat:nuts_2021_id":"021035",
         "gp:id":12679499,
         "qs_pg:id":281254
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e0f3280abf22a1eda05cdbc5c76b687",
+    "wof:geomhash":"d3d1ffbccf4d87fc20ca6a704bec94af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473123,
-    "wof:lastmodified":1582327932,
+    "wof:lastmodified":1684353979,
     "wof:name":"Gargazzone",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1751,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

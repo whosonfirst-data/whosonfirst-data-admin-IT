@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antegnate",
+    "eurostat:nuts_2021_id":"016010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016010",
+    "eurostat:population":3224,
+    "eurostat:population_year":2020,
     "geom:area":0.00112,
     "geom:area_square_m":9711878.57324,
     "geom:bbox":"9.764774954,45.4699745005,9.82977483135,45.5017995873",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016010",
+        "eurostat:nuts_2021_id":"016010",
         "gn:id":6537144,
         "gp:id":12676114,
         "qs_pg:id":491799
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0790bd04ed216f052017d78f93ffda91",
+    "wof:geomhash":"6dced66d3b972bc1726dce3513e400eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468623,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353892,
     "wof:name":"Antegnate",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":3224,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

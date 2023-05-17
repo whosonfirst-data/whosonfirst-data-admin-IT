@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montenars",
+    "eurostat:nuts_2021_id":"030061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030061",
+    "eurostat:population":496,
+    "eurostat:population_year":2020,
     "geom:area":0.002399,
-    "geom:area_square_m":20505088.438308,
+    "geom:area_square_m":20505088.438312,
     "geom:bbox":"13.1534005371,46.234087244,13.2384262298,46.285595489",
     "geom:latitude":46.260765,
     "geom:longitude":13.193362,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030061",
+        "eurostat:nuts_2021_id":"030061",
         "gn:id":6536250,
         "gp:id":12679295,
         "qs_pg:id":1163585
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fad79ebfb36bdb7e363a9c2d5d9971e",
+    "wof:geomhash":"6ef311704968deea1bba258fd473bd9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470573,
-    "wof:lastmodified":1582327747,
+    "wof:lastmodified":1684353924,
     "wof:name":"Montenars",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":496,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

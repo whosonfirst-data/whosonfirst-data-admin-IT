@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cagnano Varano",
+    "eurostat:nuts_2021_id":"071008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071008",
+    "eurostat:population":6994,
+    "eurostat:population_year":2020,
     "geom:area":0.017962,
-    "geom:area_square_m":165456725.728473,
+    "geom:area_square_m":165456725.72849,
     "geom:bbox":"15.6321797477,41.7657559408,15.8447938797,41.9230312942",
     "geom:latitude":41.843906,
     "geom:longitude":15.734606,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071008",
+        "eurostat:nuts_2021_id":"071008",
         "gn:id":6541935,
         "gp:id":12677265,
         "qs_pg:id":39569
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"684813221094d3149787fd27502648d3",
+    "wof:geomhash":"ea2b48858b5f7ff9f0ca993b83042c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463157,
-    "wof:lastmodified":1582327761,
+    "wof:lastmodified":1684353773,
     "wof:name":"Cagnano Varano",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":6994,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Episcopia",
+    "eurostat:nuts_2021_id":"076030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076030",
+    "eurostat:population":1329,
+    "eurostat:population_year":2020,
     "geom:area":0.003,
-    "geom:area_square_m":28381557.870602,
+    "geom:area_square_m":28381557.870601,
     "geom:bbox":"16.0607192765,40.0482420755,16.1386451158,40.1039689759",
     "geom:latitude":40.076626,
     "geom:longitude":16.095849,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076030",
+        "eurostat:nuts_2021_id":"076030",
         "gn:id":6537616,
         "gp:id":12679145,
         "qs_pg:id":1000360
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2445f73ccd52ad4beb21b8623249f61",
+    "wof:geomhash":"9bae5c44b9959a72a33774295a15bd62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463929,
-    "wof:lastmodified":1582327787,
+    "wof:lastmodified":1684353791,
     "wof:name":"Episcopia",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":1329,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

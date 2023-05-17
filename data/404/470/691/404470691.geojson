@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taipana",
+    "eurostat:nuts_2021_id":"030113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030113",
+    "eurostat:population":565,
+    "eurostat:population_year":2020,
     "geom:area":0.007621,
-    "geom:area_square_m":65153803.913452,
+    "geom:area_square_m":65153803.913451,
     "geom:bbox":"13.2850924509,46.2106709007,13.4225565179,46.3061001778",
     "geom:latitude":46.26131,
     "geom:longitude":13.352109,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030113",
+        "eurostat:nuts_2021_id":"030113",
         "gn:id":6538395,
         "gp:id":12680062,
         "qs_pg:id":1155865
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6102d96dce448617c80ebb2ea15ca158",
+    "wof:geomhash":"037eb3272e37aec1f40a0cb8f95b1be8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470691,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353926,
     "wof:name":"Taipana",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":565,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

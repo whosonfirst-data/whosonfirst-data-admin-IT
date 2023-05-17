@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montespertoli",
+    "eurostat:nuts_2021_id":"048030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048030",
+    "eurostat:population":13432,
+    "eurostat:population_year":2020,
     "geom:area":0.013943,
-    "geom:area_square_m":124758380.190112,
+    "geom:area_square_m":124758380.190123,
     "geom:bbox":"10.9707276344,43.5848445182,11.1632294441,43.7083567108",
     "geom:latitude":43.647625,
     "geom:longitude":11.068174,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048030",
+        "eurostat:nuts_2021_id":"048030",
         "gn:id":6540471,
         "gp:id":12678058,
         "qs_pg:id":1193749
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca22b0e16123ce279bfba4d2689d4618",
+    "wof:geomhash":"e8619d03ab3c5a8067bb09b5aa93965f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472797,
-    "wof:lastmodified":1582327877,
+    "wof:lastmodified":1684353969,
     "wof:name":"Montespertoli",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":13432,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

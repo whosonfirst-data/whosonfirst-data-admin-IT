@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figline Vegliaturo",
+    "eurostat:nuts_2021_id":"078053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078053",
+    "eurostat:population":1152,
+    "eurostat:population_year":2020,
     "geom:area":0.000431,
-    "geom:area_square_m":4123867.707015,
+    "geom:area_square_m":4123867.707014,
     "geom:bbox":"16.3044265464,39.2126737261,16.3412930321,39.2341045688",
     "geom:latitude":39.224012,
     "geom:longitude":16.319507,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078053",
+        "eurostat:nuts_2021_id":"078053"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"15834d4056c12990b5232e11ec27e00f",
+    "wof:geomhash":"aa499805ecb3ff13e722f30668b31a82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464163,
-    "wof:lastmodified":1566723231,
+    "wof:lastmodified":1684353799,
     "wof:name":"Figline Vegliaturo",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1152,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

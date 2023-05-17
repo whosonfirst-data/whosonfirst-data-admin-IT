@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caprile",
+    "eurostat:nuts_2021_id":"096013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096013",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.001341,
-    "geom:area_square_m":11576590.766374,
+    "geom:area_square_m":11576590.766371,
     "geom:bbox":"8.10500191085,45.683454486,8.23456157546,45.7576289936",
     "geom:latitude":45.726993,
     "geom:longitude":8.166102,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096013",
+        "eurostat:nuts_2021_id":"096013",
         "gn:id":6542726,
         "gp:id":20075957,
         "qs_pg:id":1037441
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b575f1a30a7a1dd9f36f7985e943b6a",
+    "wof:geomhash":"b2d8c5dbfca87c6b06943442e4cdf799",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404460319,
-    "wof:lastmodified":1582328021,
+    "wof:lastmodified":1684353715,
     "wof:name":"Caprile",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

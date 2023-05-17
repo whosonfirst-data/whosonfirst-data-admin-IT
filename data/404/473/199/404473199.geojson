@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Proves/Proveis",
+    "eurostat:nuts_2021_id":"021069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021069",
+    "eurostat:population":256,
+    "eurostat:population_year":2020,
     "geom:area":0.002153,
-    "geom:area_square_m":18326656.187269,
+    "geom:area_square_m":18326656.187271,
     "geom:bbox":"10.9786804043,46.4463735695,11.0502144073,46.5146017695",
     "geom:latitude":46.4883,
     "geom:longitude":11.016581,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021069",
+        "eurostat:nuts_2021_id":"021069"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4c641d30b26af056abb29ddc1367c8c4",
+    "wof:geomhash":"42c049d734ed5539cceb9ce252836ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473199,
-    "wof:lastmodified":1566723408,
+    "wof:lastmodified":1684353982,
     "wof:name":"Proves",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":256,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

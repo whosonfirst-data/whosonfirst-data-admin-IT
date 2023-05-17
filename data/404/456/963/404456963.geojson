@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marsico Nuovo",
+    "eurostat:nuts_2021_id":"076045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076045",
+    "eurostat:population":4048,
+    "eurostat:population_year":2020,
     "geom:area":0.010637,
-    "geom:area_square_m":100130404.549934,
+    "geom:area_square_m":100130404.549928,
     "geom:bbox":"15.6480583489,40.3575084458,15.7999966839,40.4861826583",
     "geom:latitude":40.424042,
     "geom:longitude":15.732591,
@@ -122,6 +134,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -129,9 +143,12 @@
         404227529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_076045",
+        "eurostat:nuts_2021_id":"076045"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"763361711a48fed5958849dffb1277d0",
+    "wof:geomhash":"796e8dc8029de9f81901642ff1c9856a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404456963,
-    "wof:lastmodified":1566723574,
+    "wof:lastmodified":1684353638,
     "wof:name":"Marsico Nuovo",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":4048,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Virle Piemonte",
+    "eurostat:nuts_2021_id":"001310",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001310",
+    "eurostat:population":1152,
+    "eurostat:population_year":2020,
     "geom:area":0.001601,
-    "geom:area_square_m":14034622.331687,
+    "geom:area_square_m":14034622.331688,
     "geom:bbox":"7.54543566421,44.8435181725,7.60700874313,44.880215757",
     "geom:latitude":44.862029,
     "geom:longitude":7.576258,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001310",
+        "eurostat:nuts_2021_id":"001310",
         "gn:id":6539531,
         "gp:id":12682503,
         "qs_pg:id":43069
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9fb6036c3abebd462f8a5c2a1462fdf2",
+    "wof:geomhash":"b7125ba84a740039cf9bbe58bb3ebb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457441,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353650,
     "wof:name":"Virle Piemonte",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1152,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

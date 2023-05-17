@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tesero",
+    "eurostat:nuts_2021_id":"022196",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022196",
+    "eurostat:population":2999,
+    "eurostat:population_year":2020,
     "geom:area":0.0059,
-    "geom:area_square_m":50415408.547942,
+    "geom:area_square_m":50415408.547949,
     "geom:bbox":"11.4858499548,46.2019296747,11.5597423575,46.3541471447",
     "geom:latitude":46.287074,
     "geom:longitude":11.519972,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022196",
+        "eurostat:nuts_2021_id":"022196",
         "gn:id":6538224,
         "gp:id":12682089,
         "qs_pg:id":1163568
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9492b72f7f347db151fdd820e34792e",
+    "wof:geomhash":"4b29747f487b4b95ec7422968b0ff726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471687,
-    "wof:lastmodified":1582327714,
+    "wof:lastmodified":1684353944,
     "wof:name":"Tesero",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":2999,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

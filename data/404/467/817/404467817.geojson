@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luino",
+    "eurostat:nuts_2021_id":"012092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012092",
+    "eurostat:population":14575,
+    "eurostat:population_year":2020,
     "geom:area":0.002442,
-    "geom:area_square_m":20972315.437905,
+    "geom:area_square_m":20972315.437901,
     "geom:bbox":"8.71242784191,45.9683160733,8.79003447069,46.032091638",
     "geom:latitude":46.003778,
     "geom:longitude":8.752599,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012092",
+        "eurostat:nuts_2021_id":"012092",
         "gn:id":6540157,
         "gp:id":12680041,
         "qs_pg:id":1187930
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32533afd0f047e912207d10621ef6594",
+    "wof:geomhash":"5e25357ab87bfa5b35e6c562d2b9c144",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404467817,
-    "wof:lastmodified":1582327971,
+    "wof:lastmodified":1684353880,
     "wof:name":"Luino",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":14575,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

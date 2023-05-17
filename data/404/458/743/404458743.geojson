@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceggia",
+    "eurostat:nuts_2021_id":"027007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027007",
+    "eurostat:population":6131,
+    "eurostat:population_year":2020,
     "geom:area":0.00255,
     "geom:area_square_m":22026947.687307,
     "geom:bbox":"12.6009135903,45.6551581995,12.6861837521,45.7098858245",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027007",
+        "eurostat:nuts_2021_id":"027007",
         "gn:id":6536658,
         "gp:id":12678438,
         "qs_pg:id":1108399
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79c49991209412a351fcf7c90de6e0b8",
+    "wof:geomhash":"ed57ee4ebfeffd46eaeef9d8ad11a609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458743,
-    "wof:lastmodified":1582327960,
+    "wof:lastmodified":1684353676,
     "wof:name":"Ceggia",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":6131,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

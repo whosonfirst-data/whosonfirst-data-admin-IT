@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bolzano Novarese",
+    "eurostat:nuts_2021_id":"003022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003022",
+    "eurostat:population":1170,
+    "eurostat:population_year":2020,
     "geom:area":0.000382,
     "geom:area_square_m":3299171.063055,
     "geom:bbox":"8.43321395418,45.7513481022,8.46473892163,45.7717754388",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_003022",
+        "eurostat:nuts_2021_id":"003022"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"62bdb2b96f131834b355f1fbf42e9580",
+    "wof:geomhash":"6869638c7009e886f76cc59d4ea4298e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404457667,
-    "wof:lastmodified":1566723655,
+    "wof:lastmodified":1684353655,
     "wof:name":"Bolzano Novarese",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1170,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marostica",
+    "eurostat:nuts_2021_id":"024057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024057",
+    "eurostat:population":14105,
+    "eurostat:population_year":2020,
     "geom:area":0.004223,
-    "geom:area_square_m":36435386.117692,
+    "geom:area_square_m":36435386.117696,
     "geom:bbox":"11.5872489261,45.7014295703,11.695494728,45.7989065634",
     "geom:latitude":45.757961,
     "geom:longitude":11.647676,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024057",
+        "eurostat:nuts_2021_id":"024057",
         "gn:id":6536621,
         "gp:id":12679021,
         "qs_pg:id":40650
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35e22fb2a4935a573855a1dda0aaa46d",
+    "wof:geomhash":"62cc51b6c7a0a3080d03f38c16634e56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463625,
-    "wof:lastmodified":1582327780,
+    "wof:lastmodified":1684353783,
     "wof:name":"Marostica",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":14105,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

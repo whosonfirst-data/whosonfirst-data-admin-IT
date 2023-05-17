@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Bartolomeo al Mare",
+    "eurostat:nuts_2021_id":"008052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008052",
+    "eurostat:population":3062,
+    "eurostat:population_year":2020,
     "geom:area":0.001218,
-    "geom:area_square_m":10839986.252442,
+    "geom:area_square_m":10839986.252441,
     "geom:bbox":"8.07642533164,43.9169236964,8.12460135816,43.9632964001",
     "geom:latitude":43.943882,
     "geom:longitude":8.099308,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008052",
+        "eurostat:nuts_2021_id":"008052",
         "gn:id":6536463,
         "gp:id":12678593,
         "qs_pg:id":907126
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa7666d26c0e0ec8dce487586cc4a39b",
+    "wof:geomhash":"459652afc6c0084bb12e45788270bfef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471855,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353947,
     "wof:name":"San Bartolomeo Al Mare",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":3062,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

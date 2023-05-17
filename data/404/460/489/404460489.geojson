@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borore",
+    "eurostat:nuts_2021_id":"091011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091011",
+    "eurostat:population":2038,
+    "eurostat:population_year":2020,
     "geom:area":0.004518,
-    "geom:area_square_m":42665380.148878,
+    "geom:area_square_m":42665380.148888,
     "geom:bbox":"8.66879405721,40.1805049724,8.86126249822,40.2383757066",
     "geom:latitude":40.213843,
     "geom:longitude":8.78122,
@@ -167,6 +179,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -174,9 +188,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_091011",
+        "eurostat:nuts_2021_id":"091011"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e71324b6e049284ea142b014b243aebd",
+    "wof:geomhash":"a08147c1a73a8aa1c9dc76efb177ab80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,10 +204,12 @@
         }
     ],
     "wof:id":404460489,
-    "wof:lastmodified":1566723528,
+    "wof:lastmodified":1684353719,
     "wof:name":"Borore",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":2038,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

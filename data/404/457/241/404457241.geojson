@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca Canavese",
+    "eurostat:nuts_2021_id":"001221",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001221",
+    "eurostat:population":1716,
+    "eurostat:population_year":2020,
     "geom:area":0.001629,
-    "geom:area_square_m":14166628.539179,
+    "geom:area_square_m":14166628.539177,
     "geom:bbox":"7.54159138831,45.2803130057,7.60729187578,45.3390076732",
     "geom:latitude":45.308593,
     "geom:longitude":7.574996,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001221",
+        "eurostat:nuts_2021_id":"001221",
         "gn:id":6540663,
         "gp:id":12681418,
         "qs_pg:id":1013182
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30c060bec88d7e4a61cc50c5dcbf766e",
+    "wof:geomhash":"a440ee713e158f5f92ee02f088b73baa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457241,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353645,
     "wof:name":"Rocca Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1716,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

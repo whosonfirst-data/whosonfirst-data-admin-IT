@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_045005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comano",
+    "eurostat:nuts_2021_id":"045005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI11",
+    "eurostat:nuts_2021_level_lau":"045005",
+    "eurostat:population":690,
+    "eurostat:population_year":2020,
     "geom:area":0.006075,
-    "geom:area_square_m":53757053.898078,
+    "geom:area_square_m":53757053.898079,
     "geom:bbox":"10.073283853,44.2687064232,10.2033537529,44.3542475657",
     "geom:latitude":44.309928,
     "geom:longitude":10.133839,
@@ -110,6 +122,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -118,6 +132,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_045005",
+        "eurostat:nuts_2021_id":"045005",
         "gn:id":6543025,
         "gp:id":12678281,
         "qs_pg:id":427150
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78b535f46f20f6e34f4602521e765d0f",
+    "wof:geomhash":"6775f3db00c98efd38bf1c9878f7d1cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404472581,
-    "wof:lastmodified":1582327891,
+    "wof:lastmodified":1684353965,
     "wof:name":"Comano",
     "wof:parent_id":85685395,
     "wof:placetype":"localadmin",
+    "wof:population":690,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boroneddu",
+    "eurostat:nuts_2021_id":"095016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095016",
+    "eurostat:population":153,
+    "eurostat:population_year":2020,
     "geom:area":0.000485,
     "geom:area_square_m":4587612.61576,
     "geom:bbox":"8.85695140063,40.089207367,8.88192826641,40.1238015237",
@@ -173,6 +185,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -180,9 +194,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_095016",
+        "eurostat:nuts_2021_id":"095016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"22f707d2b998e008013e94e57ead8314",
+    "wof:geomhash":"70ea38b4f69b2d4fbfd2bc19167ab2eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +210,12 @@
         }
     ],
     "wof:id":404466999,
-    "wof:lastmodified":1566723766,
+    "wof:lastmodified":1684353863,
     "wof:name":"Boroneddu",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":153,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

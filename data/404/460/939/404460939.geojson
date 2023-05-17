@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frattamaggiore",
+    "eurostat:nuts_2021_id":"063032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063032",
+    "eurostat:population":29524,
+    "eurostat:population_year":2020,
     "geom:area":0.000572,
-    "geom:area_square_m":5341416.407336,
+    "geom:area_square_m":5341416.407339,
     "geom:bbox":"14.2592388206,40.9167225401,14.2896130495,40.95519785",
     "geom:latitude":40.936723,
     "geom:longitude":14.274595,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063032",
+        "eurostat:nuts_2021_id":"063032",
         "gn:id":6540683,
         "gp:id":12679418,
         "qs_pg:id":467854
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2019e32990def6de356a3f7faa657cb9",
+    "wof:geomhash":"2e3b5caab94148957b5f2252498d8485",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404460939,
-    "wof:lastmodified":1582327995,
+    "wof:lastmodified":1684353727,
     "wof:name":"Frattamaggiore",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":29524,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

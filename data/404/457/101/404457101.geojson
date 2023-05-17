@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scandiano",
+    "eurostat:nuts_2021_id":"035040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035040",
+    "eurostat:population":25896,
+    "eurostat:population_year":2020,
     "geom:area":0.005675,
-    "geom:area_square_m":49963198.119625,
+    "geom:area_square_m":49963198.119632,
     "geom:bbox":"10.6346653256,44.5392440521,10.7574164362,44.6467724147",
     "geom:latitude":44.598779,
     "geom:longitude":10.689968,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035040",
+        "eurostat:nuts_2021_id":"035040",
         "gn:id":6541832,
         "gp:id":12676186,
         "qs_pg:id":1037431
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5694bda83aac502dba6ecf8af0b7c48f",
+    "wof:geomhash":"f86bd5d037e44878f19c595d19cae083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457101,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353642,
     "wof:name":"Scandiano",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":25896,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

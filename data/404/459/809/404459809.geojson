@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piobbico",
+    "eurostat:nuts_2021_id":"041049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041049",
+    "eurostat:population":1878,
+    "eurostat:population_year":2020,
     "geom:area":0.005365,
-    "geom:area_square_m":48053929.610059,
+    "geom:area_square_m":48053929.610049,
     "geom:bbox":"12.4436642864,43.5458502838,12.5827110441,43.6219464937",
     "geom:latitude":43.584062,
     "geom:longitude":12.511884,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041049",
+        "eurostat:nuts_2021_id":"041049",
         "gn:id":6538501,
         "gp:id":12677665,
         "qs_pg:id":289641
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f9fab529a145961a707cad2e3f69727",
+    "wof:geomhash":"c130dacd4b0d72e3a260d8d89396578e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459809,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353702,
     "wof:name":"Piobbico",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1878,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

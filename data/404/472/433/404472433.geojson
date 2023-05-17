@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervia",
+    "eurostat:nuts_2021_id":"039007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039007",
+    "eurostat:population":28789,
+    "eurostat:population_year":2020,
     "geom:area":0.009262,
-    "geom:area_square_m":82034952.17873,
+    "geom:area_square_m":82034952.178725,
     "geom:bbox":"12.2282060693,44.190707526,12.3835882295,44.3082543174",
     "geom:latitude":44.251173,
     "geom:longitude":12.315063,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039007",
+        "eurostat:nuts_2021_id":"039007",
         "gn:id":6540432,
         "gp:id":12675934,
         "qs_pg:id":408756
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae3c11077970075d220f6f93179f11f3",
+    "wof:geomhash":"9412d0ee9fa383fd9e727c5cfa7e42bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404472433,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353961,
     "wof:name":"Cervia",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":28789,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

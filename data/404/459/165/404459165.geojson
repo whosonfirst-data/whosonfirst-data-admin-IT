@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinzano al Tagliamento",
+    "eurostat:nuts_2021_id":"093030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093030",
+    "eurostat:population":1530,
+    "eurostat:population_year":2020,
     "geom:area":0.002554,
-    "geom:area_square_m":21865842.308917,
+    "geom:area_square_m":21865842.308915,
     "geom:bbox":"12.8887884131,46.1461282691,12.9652538402,46.212449092",
     "geom:latitude":46.176657,
     "geom:longitude":12.932006,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093030",
+        "eurostat:nuts_2021_id":"093030",
         "gn:id":6537934,
         "gp:id":12681123,
         "qs_pg:id":42069
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca32c5a7893ccc5647861b254d252031",
+    "wof:geomhash":"ec4d6d4b313ee8c32cb5f72b3ef45f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459165,
-    "wof:lastmodified":1582328167,
+    "wof:lastmodified":1684353687,
     "wof:name":"Pinzano Al Tagliamento",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":1530,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

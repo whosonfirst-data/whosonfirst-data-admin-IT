@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bolzano/Bozen",
+    "eurostat:nuts_2021_id":"021008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021008",
+    "eurostat:population":107407,
+    "eurostat:population_year":2020,
     "geom:area":0.006127,
-    "geom:area_square_m":52160942.574111,
+    "geom:area_square_m":52160942.57411,
     "geom:bbox":"11.275449733,46.4449038982,11.4327866233,46.5303745185",
     "geom:latitude":46.485756,
     "geom:longitude":11.348739,
@@ -288,6 +300,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -296,6 +310,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021008",
+        "eurostat:nuts_2021_id":"021008",
         "gp:id":12676870,
         "qs_pg:id":222848
     },
@@ -303,7 +319,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1776972747beafbe7fbee6c29dec766a",
+    "wof:geomhash":"f356a12b454bbe14c44eb0060c72a52e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,10 +330,12 @@
         }
     ],
     "wof:id":404473063,
-    "wof:lastmodified":1582327919,
+    "wof:lastmodified":1684353977,
     "wof:name":"Bolzano",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":107407,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

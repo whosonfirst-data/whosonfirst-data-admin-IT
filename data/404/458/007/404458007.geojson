@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Minerbe",
+    "eurostat:nuts_2021_id":"023048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023048",
+    "eurostat:population":4562,
+    "eurostat:population_year":2020,
     "geom:area":0.003398,
-    "geom:area_square_m":29584132.764135,
+    "geom:area_square_m":29584132.764133,
     "geom:bbox":"11.3060895166,45.2179128604,11.4028612603,45.2736908239",
     "geom:latitude":45.249095,
     "geom:longitude":11.352951,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023048",
+        "eurostat:nuts_2021_id":"023048",
         "gn:id":6538242,
         "gp:id":12677887,
         "qs_pg:id":272334
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a605c09c43d60fb628808dc6d20b62af",
+    "wof:geomhash":"473fbb14232420c4fce8676d608d487c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458007,
-    "wof:lastmodified":1582327944,
+    "wof:lastmodified":1684353661,
     "wof:name":"Minerbe",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":4562,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

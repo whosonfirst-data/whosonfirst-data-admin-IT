@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barge",
+    "eurostat:nuts_2021_id":"004012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004012",
+    "eurostat:population":7549,
+    "eurostat:population_year":2020,
     "geom:area":0.009318,
-    "geom:area_square_m":81853203.572425,
+    "geom:area_square_m":81853203.57244,
     "geom:bbox":"7.20210564287,44.6759341783,7.47528897473,44.7784833493",
     "geom:latitude":44.728524,
     "geom:longitude":7.348465,
@@ -168,6 +180,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -176,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004012",
+        "eurostat:nuts_2021_id":"004012",
         "gn:id":6541848,
         "gp:id":12676575,
         "qs_pg:id":1009283
@@ -184,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9cfd8580c5650590490dd0a906c45167",
+    "wof:geomhash":"7cd4630b1591b434e26309c5803a929e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,10 +211,12 @@
         }
     ],
     "wof:id":404457871,
-    "wof:lastmodified":1582328114,
+    "wof:lastmodified":1684353658,
     "wof:name":"Barge",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":7549,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

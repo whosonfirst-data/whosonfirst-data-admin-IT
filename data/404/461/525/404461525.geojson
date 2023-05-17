@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allumiere",
+    "eurostat:nuts_2021_id":"058004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058004",
+    "eurostat:population":3914,
+    "eurostat:population_year":2020,
     "geom:area":0.010031,
-    "geom:area_square_m":91974106.11678,
+    "geom:area_square_m":91974106.116762,
     "geom:bbox":"11.822866581,42.0754040013,11.973568774,42.2222502877",
     "geom:latitude":42.141133,
     "geom:longitude":11.895393,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058004",
+        "eurostat:nuts_2021_id":"058004",
         "gn:id":6539976,
         "gp:id":12675968,
         "qs_pg:id":1187808
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"502bdce375dd67b38935d8dd1cdaecc0",
+    "wof:geomhash":"97f661b5612273b864c13df740c80ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404461525,
-    "wof:lastmodified":1582328149,
+    "wof:lastmodified":1684353740,
     "wof:name":"Allumiere",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":3914,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

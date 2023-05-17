@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vobarno",
+    "eurostat:nuts_2021_id":"017204",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017204",
+    "eurostat:population":8223,
+    "eurostat:population_year":2020,
     "geom:area":0.006148,
     "geom:area_square_m":53123736.805335,
     "geom:bbox":"10.4395518204,45.6232883039,10.553481869,45.7267316273",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017204",
+        "eurostat:nuts_2021_id":"017204",
         "gn:id":6540622,
         "gp:id":12678432,
         "qs_pg:id":203924
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57f0f6d5d1656990ac1255dbc739bb48",
+    "wof:geomhash":"e93e8cf428656fa8519cdfb6c19389b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404459957,
-    "wof:lastmodified":1582328167,
+    "wof:lastmodified":1684353705,
     "wof:name":"Vobarno",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":8223,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

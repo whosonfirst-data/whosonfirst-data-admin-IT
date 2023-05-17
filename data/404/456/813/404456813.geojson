@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valmacca",
+    "eurostat:nuts_2021_id":"006178",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006178",
+    "eurostat:population":982,
+    "eurostat:population_year":2020,
     "geom:area":0.001407,
     "geom:area_square_m":12276465.623682,
     "geom:bbox":"8.5710606799,45.0828328095,8.62384737991,45.1330049336",
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006178",
+        "eurostat:nuts_2021_id":"006178",
         "gn:id":6536453,
         "gp:id":12682354,
         "qs_pg:id":42940
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f294d9c12a4673b572bf3aeb212269bc",
+    "wof:geomhash":"6ea7cb81d2de19f8e0e87083b97718bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404456813,
-    "wof:lastmodified":1582328065,
+    "wof:lastmodified":1684353633,
     "wof:name":"Valmacca",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":982,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meda",
+    "eurostat:nuts_2021_id":"108030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108030",
+    "eurostat:population":23578,
+    "eurostat:population_year":2020,
     "geom:area":0.00096,
-    "geom:area_square_m":8295810.226033,
+    "geom:area_square_m":8295810.226034,
     "geom:bbox":"9.137952,45.648275,9.180063,45.685986",
     "geom:latitude":45.664311,
     "geom:longitude":9.157438,
@@ -107,14 +119,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227497,
-        85685723
+        85685723,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108030",
+        "eurostat:nuts_2021_id":"108030",
         "gn:id":6540586,
         "gp:id":12680254,
         "qs_pg:id":208926
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b762ae50090f728468bba7d8982fb30",
+    "wof:geomhash":"055b877a66ceef7ebe118ccb90828064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404469629,
-    "wof:lastmodified":1608041584,
+    "wof:lastmodified":1684353907,
     "wof:name":"Meda",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":23578,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

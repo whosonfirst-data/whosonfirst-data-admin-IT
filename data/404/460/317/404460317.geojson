@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candelo",
+    "eurostat:nuts_2021_id":"096012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096012",
+    "eurostat:population":7420,
+    "eurostat:population_year":2020,
     "geom:area":0.001743,
-    "geom:area_square_m":15097045.587882,
+    "geom:area_square_m":15097045.587883,
     "geom:bbox":"8.08567442104,45.5188918985,8.16917524042,45.5539605948",
     "geom:latitude":45.538207,
     "geom:longitude":8.124032,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096012",
+        "eurostat:nuts_2021_id":"096012",
         "gn:id":6539388,
         "gp:id":12677492,
         "qs_pg:id":536342
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2baa54bd0f147209eeb8d72163f6f403",
+    "wof:geomhash":"04e58020bff32f034d75119a4d036cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460317,
-    "wof:lastmodified":1582328020,
+    "wof:lastmodified":1684353715,
     "wof:name":"Candelo",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":7420,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

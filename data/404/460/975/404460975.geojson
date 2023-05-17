@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macerata",
+    "eurostat:nuts_2021_id":"043023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043023",
+    "eurostat:population":41163,
+    "eurostat:population_year":2020,
     "geom:area":0.010239,
-    "geom:area_square_m":92140319.156091,
+    "geom:area_square_m":92140319.156081,
     "geom:bbox":"13.3782097995,43.2506348768,13.5347293709,43.360198693",
     "geom:latitude":43.30354,
     "geom:longitude":13.451929,
@@ -191,6 +203,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -199,6 +213,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043023",
+        "eurostat:nuts_2021_id":"043023",
         "gn:id":6540106,
         "gp:id":12675712,
         "qs_pg:id":248194
@@ -207,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5c9266cf16f3af5096eeeef6111f143",
+    "wof:geomhash":"569dc25a7e7f74d846c47e0fb47dd463",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,10 +234,12 @@
         }
     ],
     "wof:id":404460975,
-    "wof:lastmodified":1582328021,
+    "wof:lastmodified":1684353728,
     "wof:name":"Macerata",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":41163,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

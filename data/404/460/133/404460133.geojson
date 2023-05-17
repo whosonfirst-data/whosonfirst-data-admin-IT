@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frascaro",
+    "eurostat:nuts_2021_id":"006071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006071",
+    "eurostat:population":440,
+    "eurostat:population_year":2020,
     "geom:area":0.000602,
     "geom:area_square_m":5279024.332698,
     "geom:bbox":"8.49115751188,44.7988959096,8.54427540412,44.831513684",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006071",
+        "eurostat:nuts_2021_id":"006071",
         "gn:id":6539914,
         "gp:id":20075908,
         "qs_pg:id":1149874
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"346fa6ab742e6202ee1d343a899a1116",
+    "wof:geomhash":"c7c7908f8efceacb3320d5e65026c221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460133,
-    "wof:lastmodified":1582327995,
+    "wof:lastmodified":1684353710,
     "wof:name":"Frascaro",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":440,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

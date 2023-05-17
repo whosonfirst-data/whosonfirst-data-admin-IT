@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004250",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vottignasco",
+    "eurostat:nuts_2021_id":"004250",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004250",
+    "eurostat:population":501,
+    "eurostat:population_year":2020,
     "geom:area":0.000917,
-    "geom:area_square_m":8077477.488554,
+    "geom:area_square_m":8077477.488552,
     "geom:bbox":"7.55337365575,44.5437190868,7.60205583592,44.5794621173",
     "geom:latitude":44.561676,
     "geom:longitude":7.579186,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004250",
+        "eurostat:nuts_2021_id":"004250",
         "gn:id":6543477,
         "gp:id":12681196,
         "qs_pg:id":42111
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f337f7895075630287b10235e23436b",
+    "wof:geomhash":"e549788dc0967469e7f8422816a45693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455911,
-    "wof:lastmodified":1582327821,
+    "wof:lastmodified":1684353613,
     "wof:name":"Vottignasco",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":501,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

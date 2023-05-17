@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgo Tossignano",
+    "eurostat:nuts_2021_id":"037007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037007",
+    "eurostat:population":3273,
+    "eurostat:population_year":2020,
     "geom:area":0.003299,
-    "geom:area_square_m":29207534.144174,
+    "geom:area_square_m":29207534.144171,
     "geom:bbox":"11.5559123694,44.2386313621,11.6658606335,44.303317805",
     "geom:latitude":44.27207,
     "geom:longitude":11.610818,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037007",
+        "eurostat:nuts_2021_id":"037007",
         "gn:id":6541029,
         "gp:id":12676946,
         "qs_pg:id":1195842
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b83db60a8bffe6d3fe8e5ec04be403dd",
+    "wof:geomhash":"7e453955272e679209de477a34ff0adc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472239,
-    "wof:lastmodified":1582327904,
+    "wof:lastmodified":1684353955,
     "wof:name":"Borgo Tossignano",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":3273,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

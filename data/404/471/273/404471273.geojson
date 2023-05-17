@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Provaglio d'Iseo",
+    "eurostat:nuts_2021_id":"017156",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017156",
+    "eurostat:population":7283,
+    "eurostat:population_year":2020,
     "geom:area":0.001866,
-    "geom:area_square_m":16132973.603822,
+    "geom:area_square_m":16132973.603826,
     "geom:bbox":"10.0170877883,45.6109387782,10.0873626969,45.6509636132",
     "geom:latitude":45.632468,
     "geom:longitude":10.053613,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017156",
+        "eurostat:nuts_2021_id":"017156",
         "gn:id":6542776,
         "gp:id":12679679,
         "qs_pg:id":1292191
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a27af6d2f12bf84257f1af2145c871b",
+    "wof:geomhash":"7e9dccea5d7745c96d9d937360285276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471273,
-    "wof:lastmodified":1582327713,
+    "wof:lastmodified":1684353937,
     "wof:name":"Provaglio D'Iseo",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":7283,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

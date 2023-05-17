@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guarene",
+    "eurostat:nuts_2021_id":"004101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004101",
+    "eurostat:population":3589,
+    "eurostat:population_year":2020,
     "geom:area":0.001529,
-    "geom:area_square_m":13426744.137659,
+    "geom:area_square_m":13426744.13766,
     "geom:bbox":"7.99874605734,44.7196274129,8.07382016261,44.7516208319",
     "geom:latitude":44.735727,
     "geom:longitude":8.033031,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004101",
+        "eurostat:nuts_2021_id":"004101",
         "gn:id":6543445,
         "gp:id":20075763,
         "qs_pg:id":1015358
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d3bf32a48cc04ab927ae0e3fd1ba402",
+    "wof:geomhash":"4434bfd1b686c23ad2874211deddb309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455575,
-    "wof:lastmodified":1582327815,
+    "wof:lastmodified":1684353606,
     "wof:name":"Guarene",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":3589,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

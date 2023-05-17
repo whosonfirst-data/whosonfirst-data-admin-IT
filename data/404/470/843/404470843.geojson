@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre Boldone",
+    "eurostat:nuts_2021_id":"016214",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016214",
+    "eurostat:population":8825,
+    "eurostat:population_year":2020,
     "geom:area":0.000403,
-    "geom:area_square_m":3478061.335721,
+    "geom:area_square_m":3478061.335722,
     "geom:bbox":"9.68632437182,45.7075929253,9.71946279696,45.7371724261",
     "geom:latitude":45.722138,
     "geom:longitude":9.701952,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016214",
+        "eurostat:nuts_2021_id":"016214",
         "gn:id":6536159,
         "gp:id":12682214,
         "qs_pg:id":289785
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a46c5a1a24b161cb37393932d1183227",
+    "wof:geomhash":"e111cc4d6e07d78fd96e83aca78955fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470843,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353928,
     "wof:name":"Torre Boldone",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":8825,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

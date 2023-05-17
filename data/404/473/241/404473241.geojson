@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selva dei Molini/M\u00fchlwald",
+    "eurostat:nuts_2021_id":"021088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021088",
+    "eurostat:population":1421,
+    "eurostat:population_year":2020,
     "geom:area":0.01237,
-    "geom:area_square_m":104481320.907816,
+    "geom:area_square_m":104481320.907815,
     "geom:bbox":"11.7356226856,46.862415991,11.9267261931,46.9921107237",
     "geom:latitude":46.916733,
     "geom:longitude":11.815523,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021088",
+        "eurostat:nuts_2021_id":"021088",
         "gp:id":12679868,
         "qs_pg:id":480008
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08e26b5e848d796f069205ab7389713f",
+    "wof:geomhash":"3caf8fcbb1a67e9763201bf8bf3de60a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473241,
-    "wof:lastmodified":1582327926,
+    "wof:lastmodified":1684353983,
     "wof:name":"Selva Dei Molini",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1421,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

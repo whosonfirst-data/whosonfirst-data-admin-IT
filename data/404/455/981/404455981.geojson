@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelnuovo Don Bosco",
+    "eurostat:nuts_2021_id":"005031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005031",
+    "eurostat:population":3126,
+    "eurostat:population_year":2020,
     "geom:area":0.002469,
-    "geom:area_square_m":21574275.848928,
+    "geom:area_square_m":21574275.848926,
     "geom:bbox":"7.9405984409,44.996304929,8.01805815979,45.071760164",
     "geom:latitude":45.03608,
     "geom:longitude":7.977477,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005031",
+        "eurostat:nuts_2021_id":"005031",
         "gn:id":6540952,
         "gp:id":12678302,
         "qs_pg:id":427151
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b53d11183fe6b48ca47097dbdc98cc7",
+    "wof:geomhash":"77db7802b82cb0e2fc9b4c65004fbce7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455981,
-    "wof:lastmodified":1582327823,
+    "wof:lastmodified":1684353614,
     "wof:name":"Castelnuovo Don Bosco",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":3126,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

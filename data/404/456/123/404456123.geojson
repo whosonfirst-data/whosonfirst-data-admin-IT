@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocchetta Tanaro",
+    "eurostat:nuts_2021_id":"005096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005096",
+    "eurostat:population":1416,
+    "eurostat:population_year":2020,
     "geom:area":0.001813,
-    "geom:area_square_m":15889081.00685,
+    "geom:area_square_m":15889081.006849,
     "geom:bbox":"8.3114357063,44.8383063289,8.3813253008,44.8760690952",
     "geom:latitude":44.857702,
     "geom:longitude":8.347205,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005096",
+        "eurostat:nuts_2021_id":"005096",
         "gn:id":6543500,
         "gp:id":20075869,
         "qs_pg:id":50344
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28d27fef630df5fefff770d6e7a6b42b",
+    "wof:geomhash":"44a4b1b779c7a1530ef32e5dfe79293c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456123,
-    "wof:lastmodified":1582328069,
+    "wof:lastmodified":1684353617,
     "wof:name":"Rocchetta Tanaro",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1416,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

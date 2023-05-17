@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rea",
+    "eurostat:nuts_2021_id":"018119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018119",
+    "eurostat:population":410,
+    "eurostat:population_year":2020,
     "geom:area":0.000247,
     "geom:area_square_m":2156743.655791,
     "geom:bbox":"9.14558269373,45.1000827465,9.16604130949,45.1333908601",
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018119",
+        "eurostat:nuts_2021_id":"018119",
         "gn:id":6543770,
         "gp:id":20076319,
         "qs_pg:id":486007
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6af1eb6ef94b74c9af88adf815a499ce",
+    "wof:geomhash":"3dce35fce1184e49481a4024a5df10b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404471545,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353941,
     "wof:name":"Rea",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":410,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savignone",
+    "eurostat:nuts_2021_id":"010057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010057",
+    "eurostat:population":3083,
+    "eurostat:population_year":2020,
     "geom:area":0.002465,
-    "geom:area_square_m":21717072.419591,
+    "geom:area_square_m":21717072.419587,
     "geom:bbox":"8.9529810884,44.5290708591,9.03088591975,44.5835388468",
     "geom:latitude":44.557012,
     "geom:longitude":8.989422,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010057",
+        "eurostat:nuts_2021_id":"010057",
         "gn:id":6543075,
         "gp:id":12680664,
         "qs_pg:id":204128
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57630f0232445ceeaac8ed4965442aa3",
+    "wof:geomhash":"f3776aaaa2e7e0db98ad99dde160e823",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458499,
-    "wof:lastmodified":1582327944,
+    "wof:lastmodified":1684353671,
     "wof:name":"Savignone",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":3083,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

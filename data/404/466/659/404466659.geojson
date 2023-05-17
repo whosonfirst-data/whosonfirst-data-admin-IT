@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_088007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monterosso Almo",
+    "eurostat:nuts_2021_id":"088007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG18",
+    "eurostat:nuts_2021_level_lau":"088007",
+    "eurostat:population":2886,
+    "eurostat:population_year":2020,
     "geom:area":0.005698,
-    "geom:area_square_m":56215437.873852,
+    "geom:area_square_m":56215437.873855,
     "geom:bbox":"14.6668949568,37.0206425404,14.7984603671,37.1271883122",
     "geom:latitude":37.076887,
     "geom:longitude":14.741153,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_088007",
+        "eurostat:nuts_2021_id":"088007",
         "gn:id":6537815,
         "gp:id":12680552,
         "qs_pg:id":1172536
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33b7c99753d7eb57d3741ea1c42e3e5f",
+    "wof:geomhash":"b57414a6950f00c8535f2fa35fac4efd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466659,
-    "wof:lastmodified":1582328192,
+    "wof:lastmodified":1684353854,
     "wof:name":"Monterosso Almo",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":2886,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

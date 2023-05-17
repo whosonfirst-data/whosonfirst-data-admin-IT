@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Smerillo",
+    "eurostat:nuts_2021_id":"109039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109039",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.001244,
     "geom:area_square_m":11246391.524564,
     "geom:bbox":"13.4057779381,42.9861146324,13.4559097212,43.0229738961",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109039",
+        "eurostat:nuts_2021_id":"109039",
         "gn:id":6543024,
         "gp:id":12680376,
         "qs_pg:id":41506
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee7f103b72fcc9197f4a61b33e2c4d11",
+    "wof:geomhash":"07361f97c3ecc5a3e1150d3e7ce1e637",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461213,
-    "wof:lastmodified":1582328143,
+    "wof:lastmodified":1684353734,
     "wof:name":"Smerillo",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

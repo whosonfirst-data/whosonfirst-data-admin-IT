@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rodello",
+    "eurostat:nuts_2021_id":"004196",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004196",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.00101,
-    "geom:area_square_m":8888012.716639,
+    "geom:area_square_m":8888012.716638,
     "geom:bbox":"8.04393035417,44.6077925881,8.08397881634,44.6508961048",
     "geom:latitude":44.62844,
     "geom:longitude":8.063296,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004196",
+        "eurostat:nuts_2021_id":"004196",
         "gn:id":6542373,
         "gp:id":20075807,
         "qs_pg:id":1198665
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3545cd194a5e9b627fd67ea9a5caabcd",
+    "wof:geomhash":"f65a87d1ea8d269da94e60913b18b66b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455789,
-    "wof:lastmodified":1582327823,
+    "wof:lastmodified":1684353610,
     "wof:name":"Rodello",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

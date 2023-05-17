@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nibbiola",
+    "eurostat:nuts_2021_id":"003104",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003104",
+    "eurostat:population":814,
+    "eurostat:population_year":2020,
     "geom:area":0.001304,
     "geom:area_square_m":11325382.89316,
     "geom:bbox":"8.62102435893,45.3515503746,8.67870525848,45.3890052474",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003104",
+        "eurostat:nuts_2021_id":"003104",
         "gn:id":6543429,
         "gp:id":20075720,
         "qs_pg:id":1016903
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32978c16067eebf398e71bf6489759c8",
+    "wof:geomhash":"bf9c78ecfe5e4ee59206bfbcd5f5f4c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457773,
-    "wof:lastmodified":1582328120,
+    "wof:lastmodified":1684353657,
     "wof:name":"Nibbiola",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":814,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

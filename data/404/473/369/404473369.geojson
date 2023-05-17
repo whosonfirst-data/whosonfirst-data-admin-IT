@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calceranica al Lago",
+    "eurostat:nuts_2021_id":"022032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022032",
+    "eurostat:population":1352,
+    "eurostat:population_year":2020,
     "geom:area":0.000394,
-    "geom:area_square_m":3386655.405097,
+    "geom:area_square_m":3386655.405096,
     "geom:bbox":"11.2321635714,45.9850797319,11.2619401854,46.0103653891",
     "geom:latitude":45.998666,
     "geom:longitude":11.243652,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022032",
+        "eurostat:nuts_2021_id":"022032",
         "gn:id":6543237,
         "gp:id":20076602,
         "qs_pg:id":1095048
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"456fa8a140e293aa0f73c459c38ede42",
+    "wof:geomhash":"e9248b524cef1126f04a3b35855609d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404473369,
-    "wof:lastmodified":1582327924,
+    "wof:lastmodified":1684353987,
     "wof:name":"Calceranica Al Lago",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1352,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

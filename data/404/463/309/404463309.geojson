@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collepasso",
+    "eurostat:nuts_2021_id":"075021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075021",
+    "eurostat:population":5819,
+    "eurostat:population_year":2020,
     "geom:area":0.001331,
-    "geom:area_square_m":12596711.481637,
+    "geom:area_square_m":12596711.48164,
     "geom:bbox":"18.142747961,40.0518519741,18.2011029869,40.0949924277",
     "geom:latitude":40.071688,
     "geom:longitude":18.17055,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075021",
+        "eurostat:nuts_2021_id":"075021",
         "gn:id":6537586,
         "gp:id":12678796,
         "qs_pg:id":260452
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7754df7ccb0fc03a5115d00932dd2c51",
+    "wof:geomhash":"2a8c85e7690779940164044a7ba09e48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463309,
-    "wof:lastmodified":1582327761,
+    "wof:lastmodified":1684353777,
     "wof:name":"Collepasso",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":5819,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

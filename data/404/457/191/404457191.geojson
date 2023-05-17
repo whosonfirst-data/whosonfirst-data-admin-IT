@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont-Canavese",
+    "eurostat:nuts_2021_id":"001199",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001199",
+    "eurostat:population":3210,
+    "eurostat:population_year":2020,
     "geom:area":0.002193,
-    "geom:area_square_m":19027573.4994,
+    "geom:area_square_m":19027573.499404,
     "geom:bbox":"7.54154300821,45.4090081345,7.63140405309,45.4643797885",
     "geom:latitude":45.433122,
     "geom:longitude":7.584146,
@@ -153,6 +165,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001199",
+        "eurostat:nuts_2021_id":"001199",
         "gn:id":6536030,
         "gp:id":12681205,
         "qs_pg:id":1156495
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21f8dbb877b6cde5248a665b13f90f07",
+    "wof:geomhash":"855263768b95507b56ede8d5c5ef116d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404457191,
-    "wof:lastmodified":1582328109,
+    "wof:lastmodified":1684353644,
     "wof:name":"Pont-Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3210,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

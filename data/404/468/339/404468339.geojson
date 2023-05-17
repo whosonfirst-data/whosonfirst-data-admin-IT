@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvignasco",
+    "eurostat:nuts_2021_id":"015042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015042",
+    "eurostat:population":1225,
+    "eurostat:population_year":2020,
     "geom:area":0.000198,
-    "geom:area_square_m":1724681.197377,
+    "geom:area_square_m":1724681.197378,
     "geom:bbox":"9.01387257881,45.3168984611,9.03513900453,45.3340639151",
     "geom:latitude":45.326748,
     "geom:longitude":9.025921,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015042",
+        "eurostat:nuts_2021_id":"015042",
         "gn:id":6542729,
         "gp:id":20076549,
         "qs_pg:id":246396
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"130ca10c6bf99476510218de660409c4",
+    "wof:geomhash":"1c9974065c65ad09903a7da36613fc94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468339,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353887,
     "wof:name":"Calvignasco",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":1225,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

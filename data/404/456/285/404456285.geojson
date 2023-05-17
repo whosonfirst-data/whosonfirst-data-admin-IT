@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campiglione Fenile",
+    "eurostat:nuts_2021_id":"001049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001049",
+    "eurostat:population":1339,
+    "eurostat:population_year":2020,
     "geom:area":0.001261,
-    "geom:area_square_m":11067146.124326,
+    "geom:area_square_m":11067146.124325,
     "geom:bbox":"7.28665811034,44.7869907989,7.35282659587,44.8219935544",
     "geom:latitude":44.804781,
     "geom:longitude":7.327181,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001049",
+        "eurostat:nuts_2021_id":"001049",
         "gn:id":6535988,
         "gp:id":12678248,
         "qs_pg:id":1158662
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"68cafd5311b2ba572f1a0174ffc05484",
+    "wof:geomhash":"dee827dc75739d6df1a6563d97e2cf8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456285,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353620,
     "wof:name":"Campiglione-Fenile",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1339,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

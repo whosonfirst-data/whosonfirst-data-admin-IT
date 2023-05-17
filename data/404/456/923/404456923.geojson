@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_074010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mesagne",
+    "eurostat:nuts_2021_id":"074010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF44",
+    "eurostat:nuts_2021_level_lau":"074010",
+    "eurostat:population":26465,
+    "eurostat:population_year":2020,
     "geom:area":0.013017,
-    "geom:area_square_m":122327945.956886,
+    "geom:area_square_m":122327945.956874,
     "geom:bbox":"17.7225825699,40.4565710373,17.8828662408,40.6103126763",
     "geom:latitude":40.538254,
     "geom:longitude":17.806118,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_074010",
+        "eurostat:nuts_2021_id":"074010",
         "gn:id":6541262,
         "gp:id":12680301,
         "qs_pg:id":248785
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b598e171926419e6ecd4419b667cebbe",
+    "wof:geomhash":"2e50953c1f141290d1a0fc2b5223e159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456923,
-    "wof:lastmodified":1582328057,
+    "wof:lastmodified":1684353637,
     "wof:name":"Mesagne",
     "wof:parent_id":85685543,
     "wof:placetype":"localadmin",
+    "wof:population":26465,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

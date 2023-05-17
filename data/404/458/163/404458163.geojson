@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giustino",
+    "eurostat:nuts_2021_id":"054044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054044",
+    "eurostat:population":11104,
+    "eurostat:population_year":2020,
     "geom:area":0.008902,
-    "geom:area_square_m":79765019.038989,
+    "geom:area_square_m":79765019.038994,
     "geom:bbox":"12.1530552279,43.4990102002,12.3114029345,43.610844194",
     "geom:latitude":43.55753,
     "geom:longitude":12.223302,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054044",
+        "eurostat:nuts_2021_id":"054044",
         "gn:id":6539970,
         "gp:id":12679853,
         "qs_pg:id":41158
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e59fb1db8418077c9f16db23ad7609ca",
+    "wof:geomhash":"38c7d67fd102efc253b712d0fb76d1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458163,
-    "wof:lastmodified":1582327952,
+    "wof:lastmodified":1684353665,
     "wof:name":"San Giustino",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":11104,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

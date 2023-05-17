@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cellio con Breia",
+    "eurostat:nuts_2021_id":"002171",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002171",
+    "eurostat:population":969,
+    "eurostat:population_year":2020,
     "geom:area":0.001163,
-    "geom:area_square_m":10032840.728722,
+    "geom:area_square_m":10032840.728725,
     "geom:bbox":"8.29008457002,45.7304663024,8.34016528128,45.7761731406",
     "geom:latitude":45.751301,
     "geom:longitude":8.317812,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002171",
+        "eurostat:nuts_2021_id":"002171",
         "gn:id":6541445,
         "gp:id":12678453,
         "qs_pg:id":1187893
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5f0dc611e5c6c41159538d0f826da06",
+    "wof:geomhash":"2fa618127c89f6530deb790e255f5c58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457501,
-    "wof:lastmodified":1582328108,
+    "wof:lastmodified":1684353651,
     "wof:name":"Cellio",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":969,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

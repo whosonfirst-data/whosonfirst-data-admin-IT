@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sori",
+    "eurostat:nuts_2021_id":"010060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010060",
+    "eurostat:population":4078,
+    "eurostat:population_year":2020,
     "geom:area":0.001477,
-    "geom:area_square_m":13050485.116996,
+    "geom:area_square_m":13050485.116997,
     "geom:bbox":"9.08889529222,44.364503606,9.13313784841,44.4148940425",
     "geom:latitude":44.392432,
     "geom:longitude":9.113064,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010060",
+        "eurostat:nuts_2021_id":"010060",
         "gn:id":6536102,
         "gp:id":12679846,
         "qs_pg:id":537163
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54d21e3c3dff5a8d5d9428d08250405a",
+    "wof:geomhash":"72ce5f08ea0132cc28f34c8fbf31d3da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404458505,
-    "wof:lastmodified":1582327937,
+    "wof:lastmodified":1684353671,
     "wof:name":"Sori",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":4078,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

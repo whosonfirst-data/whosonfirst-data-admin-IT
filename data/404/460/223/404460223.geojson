@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mornese",
+    "eurostat:nuts_2021_id":"006111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006111",
+    "eurostat:population":711,
+    "eurostat:population_year":2020,
     "geom:area":0.0015,
     "geom:area_square_m":13202853.69754,
     "geom:bbox":"8.73458035806,44.5834318425,8.7813126144,44.6547852125",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006111",
+        "eurostat:nuts_2021_id":"006111",
         "gn:id":6543533,
         "gp:id":12682583,
         "qs_pg:id":43119
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73b39326d615cef4a213914341528edb",
+    "wof:geomhash":"84cd6b0ba1225eac33137e9bb4efbc5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460223,
-    "wof:lastmodified":1582328013,
+    "wof:lastmodified":1684353713,
     "wof:name":"Mornese",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":711,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

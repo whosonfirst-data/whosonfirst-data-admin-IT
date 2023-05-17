@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiesco",
+    "eurostat:nuts_2021_id":"019043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019043",
+    "eurostat:population":1219,
+    "eurostat:population_year":2020,
     "geom:area":0.000941,
     "geom:area_square_m":8181393.298549,
     "geom:bbox":"9.75460620283,45.3165329515,9.8045750132,45.3532032353",
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019043",
+        "eurostat:nuts_2021_id":"019043",
         "gn:id":6543218,
         "gp:id":20076353,
         "qs_pg:id":1014324
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"043087946eeacdb8b81ee3472c527322",
+    "wof:geomhash":"b8d0075036769d5903a37df640874f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404468903,
-    "wof:lastmodified":1582328084,
+    "wof:lastmodified":1684353896,
     "wof:name":"Fiesco",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1219,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

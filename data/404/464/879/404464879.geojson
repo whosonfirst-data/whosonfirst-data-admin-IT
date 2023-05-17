@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Custonaci",
+    "eurostat:nuts_2021_id":"081007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081007",
+    "eurostat:population":5461,
+    "eurostat:population_year":2020,
     "geom:area":0.007164,
-    "geom:area_square_m":69736356.829543,
+    "geom:area_square_m":69736356.829538,
     "geom:bbox":"12.6456261096,38.0367878232,12.8115746562,38.1147901723",
     "geom:latitude":38.071751,
     "geom:longitude":12.716067,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081007",
+        "eurostat:nuts_2021_id":"081007",
         "gn:id":6537729,
         "gp:id":12676317,
         "qs_pg:id":1313969
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dcb474e4502f26a5f9abd9204cad358c",
+    "wof:geomhash":"30407b06ed27135a5417d3324078537a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464879,
-    "wof:lastmodified":1582327801,
+    "wof:lastmodified":1684353819,
     "wof:name":"Custonaci",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":5461,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

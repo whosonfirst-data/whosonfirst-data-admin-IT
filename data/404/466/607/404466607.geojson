@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Gregorio di Catania",
+    "eurostat:nuts_2021_id":"087042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087042",
+    "eurostat:population":11728,
+    "eurostat:population_year":2020,
     "geom:area":0.000572,
-    "geom:area_square_m":5610772.337149,
+    "geom:area_square_m":5610772.33715,
     "geom:bbox":"15.096715565,37.5397487873,15.1230093091,37.5755664175",
     "geom:latitude":37.557882,
     "geom:longitude":15.109048,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087042",
+        "eurostat:nuts_2021_id":"087042",
         "gn:id":6540851,
         "gp:id":12681658,
         "qs_pg:id":1196040
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d2bcb786907e3b125b2152d1ac745ce",
+    "wof:geomhash":"423e4d6656c37e019d34eb1a8df3a43a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466607,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353853,
     "wof:name":"San Gregorio Di Catania",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":11728,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

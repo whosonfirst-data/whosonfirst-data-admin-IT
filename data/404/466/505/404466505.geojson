@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Biagio Platani",
+    "eurostat:nuts_2021_id":"084035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084035",
+    "eurostat:population":3088,
+    "eurostat:population_year":2020,
     "geom:area":0.004334,
-    "geom:area_square_m":42513607.54931,
+    "geom:area_square_m":42513607.549329,
     "geom:bbox":"13.4814140139,37.4784871836,13.6054740598,37.5558774178",
     "geom:latitude":37.511599,
     "geom:longitude":13.542556,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084035",
+        "eurostat:nuts_2021_id":"084035",
         "gn:id":6541342,
         "gp:id":12681582,
         "qs_pg:id":42394
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23c52f6e5225591d33a15c80e2d1d213",
+    "wof:geomhash":"3056b63860e95e3ad1b87fc211297873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466505,
-    "wof:lastmodified":1582328183,
+    "wof:lastmodified":1684353851,
     "wof:name":"San Biagio Platani",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":3088,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

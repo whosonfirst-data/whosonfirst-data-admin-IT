@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallicano nel Lazio",
+    "eurostat:nuts_2021_id":"058040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058040",
+    "eurostat:population":6468,
+    "eurostat:population_year":2020,
     "geom:area":0.002783,
-    "geom:area_square_m":25621373.670236,
+    "geom:area_square_m":25621373.670232,
     "geom:bbox":"12.7415341991,41.8534886249,12.8449607116,41.9115655199",
     "geom:latitude":41.882658,
     "geom:longitude":12.790945,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_058040",
+        "eurostat:nuts_2021_id":"058040"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"59697e40fb7018323f69804f8b3b20d5",
+    "wof:geomhash":"3e5f610dac25e87ec8b74914ba6bed8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404461605,
-    "wof:lastmodified":1566723692,
+    "wof:lastmodified":1684353742,
     "wof:name":"Gallicano Nel Lazio",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":6468,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

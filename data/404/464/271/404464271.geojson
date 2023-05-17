@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Praia a Mare",
+    "eurostat:nuts_2021_id":"078101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078101",
+    "eurostat:population":6634,
+    "eurostat:population_year":2020,
     "geom:area":0.002466,
     "geom:area_square_m":23392615.142438,
     "geom:bbox":"15.7679679976,39.8611553893,15.8484816498,39.9326439928",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078101",
+        "eurostat:nuts_2021_id":"078101"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0d2929fa24838d2e2c12d11acdf23fac",
+    "wof:geomhash":"10617fe46073bd47bec57cf64fb913fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464271,
-    "wof:lastmodified":1566723238,
+    "wof:lastmodified":1684353801,
     "wof:name":"Praia A Mare",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":6634,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

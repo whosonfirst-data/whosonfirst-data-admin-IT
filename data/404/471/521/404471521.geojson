@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pancarana",
+    "eurostat:nuts_2021_id":"018108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018108",
+    "eurostat:population":313,
+    "eurostat:population_year":2020,
     "geom:area":0.000698,
-    "geom:area_square_m":6093526.036689,
+    "geom:area_square_m":6093526.036688,
     "geom:bbox":"9.02549587389,45.0603287434,9.06811132569,45.1027566566",
     "geom:latitude":45.075022,
     "geom:longitude":9.048611,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018108",
+        "eurostat:nuts_2021_id":"018108",
         "gn:id":6536567,
         "gp:id":12680308,
         "qs_pg:id":204091
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cf3f18bd04ee0e3368938a797a7ac35",
+    "wof:geomhash":"52a002a62e06864703170fef77974cac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471521,
-    "wof:lastmodified":1582327719,
+    "wof:lastmodified":1684353941,
     "wof:name":"Pancarana",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":313,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

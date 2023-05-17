@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Imola",
+    "eurostat:nuts_2021_id":"037032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037032",
+    "eurostat:population":70000,
+    "eurostat:population_year":2020,
     "geom:area":0.023147,
-    "geom:area_square_m":204539657.891118,
+    "geom:area_square_m":204539657.891024,
     "geom:bbox":"11.5840620465,44.282887801,11.8100097388,44.5685364388",
     "geom:latitude":44.387757,
     "geom:longitude":11.716021,
@@ -209,6 +221,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -217,6 +231,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037032",
+        "eurostat:nuts_2021_id":"037032",
         "gn:id":6541032,
         "gp:id":12676721,
         "qs_pg:id":1078470
@@ -225,7 +241,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9075671df0e2a888c29ca646a0bc5153",
+    "wof:geomhash":"c9ce9d3e8d93c0e8f9f6985c1b6ecbc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,10 +252,12 @@
         }
     ],
     "wof:id":404472295,
-    "wof:lastmodified":1582327886,
+    "wof:lastmodified":1684353957,
     "wof:name":"Imola",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":70000,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

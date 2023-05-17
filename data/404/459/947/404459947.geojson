@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villachiara",
+    "eurostat:nuts_2021_id":"017200",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017200",
+    "eurostat:population":1386,
+    "eurostat:population_year":2020,
     "geom:area":0.001938,
-    "geom:area_square_m":16838817.446726,
+    "geom:area_square_m":16838817.446721,
     "geom:bbox":"9.883377644,45.3279489155,9.94696585778,45.3847342641",
     "geom:latitude":45.354385,
     "geom:longitude":9.917684,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017200",
+        "eurostat:nuts_2021_id":"017200",
         "gn:id":6540621,
         "gp:id":12682451,
         "qs_pg:id":793915
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b144f263840117a5c54ecd73e1592fe",
+    "wof:geomhash":"fd9424f99e5beef8346c9dc5345e23e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404459947,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353705,
     "wof:name":"Villachiara",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1386,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villastellone",
+    "eurostat:nuts_2021_id":"001308",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001308",
+    "eurostat:population":4624,
+    "eurostat:population_year":2020,
     "geom:area":0.002266,
     "geom:area_square_m":19845717.966884,
     "geom:bbox":"7.70338291456,44.8852815919,7.78851666417,44.9398330572",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001308",
+        "eurostat:nuts_2021_id":"001308",
         "gn:id":6538095,
         "gp:id":12677811,
         "qs_pg:id":1193715
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a85eea9363ed11c7c237ddd2a8d559c",
+    "wof:geomhash":"802f445c1c422c19db5ffda7155c57b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457437,
-    "wof:lastmodified":1582328102,
+    "wof:lastmodified":1684353649,
     "wof:name":"Villastellone",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4624,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

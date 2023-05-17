@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bognanco",
+    "eurostat:nuts_2021_id":"103012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103012",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.006756,
-    "geom:area_square_m":57895889.263513,
+    "geom:area_square_m":57895889.263507,
     "geom:bbox":"8.1080879221,46.0930258443,8.25006225208,46.1814110559",
     "geom:latitude":46.128833,
     "geom:longitude":8.176442,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103012",
+        "eurostat:nuts_2021_id":"103012",
         "gn:id":3181941,
         "gp:id":20075985,
         "qs_pg:id":1189930
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46c53e781e8e0b07bbdf1d9126cbcc7f",
+    "wof:geomhash":"45264daed2fa32276018e72598ec45f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459453,
-    "wof:lastmodified":1582328162,
+    "wof:lastmodified":1684353694,
     "wof:name":"Bognanco",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

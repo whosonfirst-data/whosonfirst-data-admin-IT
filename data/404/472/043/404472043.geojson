@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bobbio",
+    "eurostat:nuts_2021_id":"033005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033005",
+    "eurostat:population":3548,
+    "eurostat:population_year":2020,
     "geom:area":0.012123,
-    "geom:area_square_m":106381177.940986,
+    "geom:area_square_m":106381177.940979,
     "geom:bbox":"9.28476762002,44.7245721758,9.48215850885,44.8572601786",
     "geom:latitude":44.792014,
     "geom:longitude":9.385932,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033005",
+        "eurostat:nuts_2021_id":"033005",
         "gn:id":6539653,
         "gp:id":12676840,
         "qs_pg:id":39272
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0fd04ad6c7557d2d8bc1f51af3382de",
+    "wof:geomhash":"9a2b4d6f76f11e8038da070ac1784f22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472043,
-    "wof:lastmodified":1582327900,
+    "wof:lastmodified":1684353951,
     "wof:name":"Bobbio",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":3548,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Settefrati",
+    "eurostat:nuts_2021_id":"060072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060072",
+    "eurostat:population":720,
+    "eurostat:population_year":2020,
     "geom:area":0.005463,
-    "geom:area_square_m":50444440.166016,
+    "geom:area_square_m":50444440.166009,
     "geom:bbox":"13.8153867255,41.6440327816,13.9107122235,41.735106656",
     "geom:latitude":41.688039,
     "geom:longitude":13.866335,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060072",
+        "eurostat:nuts_2021_id":"060072",
         "gn:id":6536996,
         "gp:id":12681083,
         "qs_pg:id":1016798
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11329fd164c1d5003353cd5e640a6756",
+    "wof:geomhash":"c0ef02a0aaa813d9825b773b96ecc280",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462023,
-    "wof:lastmodified":1582327853,
+    "wof:lastmodified":1684353751,
     "wof:name":"Settefrati",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":720,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

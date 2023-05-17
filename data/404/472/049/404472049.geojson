@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calendasco",
+    "eurostat:nuts_2021_id":"033008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033008",
+    "eurostat:population":2410,
+    "eurostat:population_year":2020,
     "geom:area":0.004225,
-    "geom:area_square_m":36883242.483903,
+    "geom:area_square_m":36883242.483896,
     "geom:bbox":"9.53726313861,45.0559499208,9.67694131026,45.1339969208",
     "geom:latitude":45.091231,
     "geom:longitude":9.608309,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033008",
+        "eurostat:nuts_2021_id":"033008",
         "gn:id":6541020,
         "gp:id":12677317,
         "qs_pg:id":418711
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6821a75e243e0ae462d9867f64ab0b2a",
+    "wof:geomhash":"971f51c7b812515bf00f3151e0ff092e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472049,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353951,
     "wof:name":"Calendasco",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":2410,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

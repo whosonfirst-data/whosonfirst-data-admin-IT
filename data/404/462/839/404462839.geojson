@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirabello Sannitico",
+    "eurostat:nuts_2021_id":"070038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070038",
+    "eurostat:population":2123,
+    "eurostat:population_year":2020,
     "geom:area":0.0023,
-    "geom:area_square_m":21298466.576082,
+    "geom:area_square_m":21298466.576077,
     "geom:bbox":"14.6247733883,41.4833479006,14.7038909618,41.5313545928",
     "geom:latitude":41.504818,
     "geom:longitude":14.664628,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070038",
+        "eurostat:nuts_2021_id":"070038",
         "gn:id":6537512,
         "gp:id":12680340,
         "qs_pg:id":1163520
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"993246e9fc496be5f891229e91880e17",
+    "wof:geomhash":"b0bdb12eddb5b757e68094507e2896a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462839,
-    "wof:lastmodified":1582327871,
+    "wof:lastmodified":1684353767,
     "wof:name":"Mirabello Sannitico",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":2123,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

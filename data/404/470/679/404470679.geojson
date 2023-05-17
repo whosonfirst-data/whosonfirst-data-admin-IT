@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savogna",
+    "eurostat:nuts_2021_id":"030108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030108",
+    "eurostat:population":361,
+    "eurostat:population_year":2020,
     "geom:area":0.002577,
-    "geom:area_square_m":22062176.353904,
+    "geom:area_square_m":22062176.3539,
     "geom:bbox":"13.5128712262,46.1466536816,13.5909237004,46.2134427569",
     "geom:latitude":46.183766,
     "geom:longitude":13.545755,
@@ -122,6 +134,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -130,6 +144,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030108",
+        "eurostat:nuts_2021_id":"030108",
         "gn:id":6539696,
         "gp:id":12678477,
         "qs_pg:id":976398
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83a92cdba66a83ae5526135f1e8c833d",
+    "wof:geomhash":"ebeb000ed964782a98e6a859e370b9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404470679,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353926,
     "wof:name":"Savogna",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":361,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

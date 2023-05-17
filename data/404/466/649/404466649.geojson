@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_088003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comiso",
+    "eurostat:nuts_2021_id":"088003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG18",
+    "eurostat:nuts_2021_level_lau":"088003",
+    "eurostat:population":31107,
+    "eurostat:population_year":2020,
     "geom:area":0.006583,
-    "geom:area_square_m":65034954.615302,
+    "geom:area_square_m":65034954.615274,
     "geom:bbox":"14.5289182589,36.9022406429,14.6497025348,37.040629013",
     "geom:latitude":36.963869,
     "geom:longitude":14.594174,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_088003",
+        "eurostat:nuts_2021_id":"088003",
         "gn:id":6541771,
         "gp:id":12678839,
         "qs_pg:id":1208842
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2069f12d53491f9503e53c71d533ac6a",
+    "wof:geomhash":"3c399929465c1940f0adf9ff60b0514d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466649,
-    "wof:lastmodified":1582328202,
+    "wof:lastmodified":1684353854,
     "wof:name":"Comiso",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":31107,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

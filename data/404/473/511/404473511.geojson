@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Imer",
+    "eurostat:nuts_2021_id":"022097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022097",
+    "eurostat:population":1173,
+    "eurostat:population_year":2020,
     "geom:area":0.003228,
-    "geom:area_square_m":27654410.22257,
+    "geom:area_square_m":27654410.222571,
     "geom:bbox":"11.7437695248,46.1020170778,11.8270772841,46.233731274",
     "geom:latitude":46.150241,
     "geom:longitude":11.786742,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022097",
+        "eurostat:nuts_2021_id":"022097",
         "gn:id":6543771,
         "gp:id":20076620,
         "qs_pg:id":1311216
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16efe484f7fe6cf4226d05098d5f245d",
+    "wof:geomhash":"811b1235a85dc8acaf73e8fd79809aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404473511,
-    "wof:lastmodified":1582327922,
+    "wof:lastmodified":1684353990,
     "wof:name":"Imer",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1173,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

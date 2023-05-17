@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frignano",
+    "eurostat:nuts_2021_id":"061037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061037",
+    "eurostat:population":9209,
+    "eurostat:population_year":2020,
     "geom:area":0.001051,
-    "geom:area_square_m":9807986.610327,
+    "geom:area_square_m":9807986.610325,
     "geom:bbox":"14.1649655858,40.9910419118,14.1936018262,41.0407173657",
     "geom:latitude":41.017117,
     "geom:longitude":14.179683,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061037",
+        "eurostat:nuts_2021_id":"061037",
         "gn:id":6542335,
         "gp:id":20076915,
         "qs_pg:id":51015
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad1f7e143ba8bea1c6e8aae2cb8e738f",
+    "wof:geomhash":"8b219e40e6dbac4eda39b1471b1c094b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463039,
-    "wof:lastmodified":1582327772,
+    "wof:lastmodified":1684353771,
     "wof:name":"Frignano",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":9209,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

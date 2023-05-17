@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rezzo",
+    "eurostat:nuts_2021_id":"008049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008049",
+    "eurostat:population":314,
+    "eurostat:population_year":2020,
     "geom:area":0.004197,
-    "geom:area_square_m":37319087.723238,
+    "geom:area_square_m":37319087.723237,
     "geom:bbox":"7.79984216851,43.9856862343,7.92554398856,44.0398718151",
     "geom:latitude":44.017468,
     "geom:longitude":7.859658,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008049",
+        "eurostat:nuts_2021_id":"008049",
         "gn:id":6540550,
         "gp:id":12681360,
         "qs_pg:id":1163538
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34bd9e9c79377266f033f1c6f8e71486",
+    "wof:geomhash":"9d6b0943994581c6b57d5e2292ddc8c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471847,
-    "wof:lastmodified":1582327727,
+    "wof:lastmodified":1684353947,
     "wof:name":"Rezzo",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":314,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

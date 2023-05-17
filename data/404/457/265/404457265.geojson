@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salbertrand",
+    "eurostat:nuts_2021_id":"001232",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001232",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
     "geom:area":0.004379,
-    "geom:area_square_m":38241522.058574,
+    "geom:area_square_m":38241522.058576,
     "geom:bbox":"6.83740743377,45.0373842521,6.93715112882,45.1116627467",
     "geom:latitude":45.075138,
     "geom:longitude":6.882669,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001232",
+        "eurostat:nuts_2021_id":"001232",
         "gn:id":6537286,
         "gp:id":12679132,
         "qs_pg:id":247007
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b897ee25638a6fc08bdaf6199dc5abd2",
+    "wof:geomhash":"1ab1d999d4c2c423d17b696686ecb96f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457265,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353646,
     "wof:name":"Salbertrand",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

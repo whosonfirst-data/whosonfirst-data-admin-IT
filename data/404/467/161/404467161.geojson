@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tinnura",
+    "eurostat:nuts_2021_id":"095088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095088",
+    "eurostat:population":241,
+    "eurostat:population_year":2020,
     "geom:area":0.000408,
-    "geom:area_square_m":3847618.56851,
+    "geom:area_square_m":3847618.568511,
     "geom:bbox":"8.53906285984,40.2587024989,8.58556839481,40.2799646696",
     "geom:latitude":40.269716,
     "geom:longitude":8.562569,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095088",
+        "eurostat:nuts_2021_id":"095088",
         "gn:id":6537882,
         "gp:id":20076828,
         "qs_pg:id":213902
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc2a29c98921280686c064e9acd8fe1d",
+    "wof:geomhash":"5724edaba60901e980891f9238d5ab7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467161,
-    "wof:lastmodified":1582327966,
+    "wof:lastmodified":1684353866,
     "wof:name":"Tinnura",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

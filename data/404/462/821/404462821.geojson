@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jelsi",
+    "eurostat:nuts_2021_id":"070030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070030",
+    "eurostat:population":1731,
+    "eurostat:population_year":2020,
     "geom:area":0.003088,
-    "geom:area_square_m":28592446.026347,
+    "geom:area_square_m":28592446.026348,
     "geom:bbox":"14.7663208176,41.4639578109,14.8345327932,41.5552079668",
     "geom:latitude":41.516999,
     "geom:longitude":14.79981,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070030",
+        "eurostat:nuts_2021_id":"070030",
         "gn:id":6541724,
         "gp:id":12679744,
         "qs_pg:id":787920
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddec0cc75a4a46837c0237c4055a1e57",
+    "wof:geomhash":"08e44161d66d938ca28e4ec3efc12ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462821,
-    "wof:lastmodified":1582327855,
+    "wof:lastmodified":1684353766,
     "wof:name":"Jelsi",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1731,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

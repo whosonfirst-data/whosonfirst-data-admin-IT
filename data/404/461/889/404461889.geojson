@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ausonia",
+    "eurostat:nuts_2021_id":"060012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060012",
+    "eurostat:population":2560,
+    "eurostat:population_year":2020,
     "geom:area":0.002106,
-    "geom:area_square_m":19552194.563,
+    "geom:area_square_m":19552194.562998,
     "geom:bbox":"13.7092459323,41.3147053497,13.7720123897,41.3742511885",
     "geom:latitude":41.348896,
     "geom:longitude":13.738898,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060012",
+        "eurostat:nuts_2021_id":"060012",
         "gn:id":6541141,
         "gp:id":12676346,
         "qs_pg:id":536082
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77fdda753f604b563728e3722053de0d",
+    "wof:geomhash":"b0b33fca99f6f785abb3b4bb51aae5c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404461889,
-    "wof:lastmodified":1582328127,
+    "wof:lastmodified":1684353748,
     "wof:name":"Ausonia",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":2560,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

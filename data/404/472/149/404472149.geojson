@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berceto",
+    "eurostat:nuts_2021_id":"034004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034004",
+    "eurostat:population":2002,
+    "eurostat:population_year":2020,
     "geom:area":0.01492,
-    "geom:area_square_m":131522708.816412,
+    "geom:area_square_m":131522708.81641,
     "geom:bbox":"9.88641524086,44.4632249027,10.0714731596,44.6064891119",
     "geom:latitude":44.530143,
     "geom:longitude":9.97604,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034004",
+        "eurostat:nuts_2021_id":"034004",
         "gn:id":6543011,
         "gp:id":12676711,
         "qs_pg:id":891325
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5ad5824161b699901e5010910ce76cd",
+    "wof:geomhash":"fd3f7f95a52f1147a3f80c6a296fb2aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404472149,
-    "wof:lastmodified":1582327909,
+    "wof:lastmodified":1684353953,
     "wof:name":"Berceto",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":2002,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saonara",
+    "eurostat:nuts_2021_id":"028085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028085",
+    "eurostat:population":10469,
+    "eurostat:population_year":2020,
     "geom:area":0.001555,
-    "geom:area_square_m":13506973.736885,
+    "geom:area_square_m":13506973.736883,
     "geom:bbox":"11.9540627303,45.3489724835,12.0121675489,45.401489912",
     "geom:latitude":45.375424,
     "geom:longitude":11.981789,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028085",
+        "eurostat:nuts_2021_id":"028085",
         "gn:id":6542301,
         "gp:id":12681522,
         "qs_pg:id":333193
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d95c02f1d26cc27c76cab15201d19cd",
+    "wof:geomhash":"ee0806c1fb99803e72988a52f66d8b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404458393,
-    "wof:lastmodified":1582327952,
+    "wof:lastmodified":1684353669,
     "wof:name":"Saonara",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":10469,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

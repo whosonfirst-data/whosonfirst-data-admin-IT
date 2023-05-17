@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acquafredda",
+    "eurostat:nuts_2021_id":"017001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017001",
+    "eurostat:population":1504,
+    "eurostat:population_year":2020,
     "geom:area":0.001096,
-    "geom:area_square_m":9529920.619742,
+    "geom:area_square_m":9529920.619741,
     "geom:bbox":"10.3858316084,45.2856483702,10.431591131,45.324025468",
     "geom:latitude":45.306542,
     "geom:longitude":10.408393,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017001",
+        "eurostat:nuts_2021_id":"017001",
         "gn:id":6540181,
         "gp:id":12675756,
         "qs_pg:id":203679
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efbf8273cd68ea7362f4d59f1b6fd840",
+    "wof:geomhash":"a95c800cfb9a6f6c80d73d8177360d05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404470925,
-    "wof:lastmodified":1582327747,
+    "wof:lastmodified":1684353930,
     "wof:name":"Acquafredda",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1504,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

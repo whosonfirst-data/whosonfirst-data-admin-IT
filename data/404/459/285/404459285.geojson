@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontainemore",
+    "eurostat:nuts_2021_id":"007028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007028",
+    "eurostat:population":430,
+    "eurostat:population_year":2020,
     "geom:area":0.003662,
     "geom:area_square_m":31655562.937774,
     "geom:bbox":"7.81545696584,45.6125134366,7.93954167553,45.6706715481",
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007028",
+        "eurostat:nuts_2021_id":"007028"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f1d49ca5c0b5e694be9e1d609b837039",
+    "wof:geomhash":"7ede6bf251f675f3052260fa49c59a64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404459285,
-    "wof:lastmodified":1566723749,
+    "wof:lastmodified":1684353691,
     "wof:name":"Fontainemore",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":430,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

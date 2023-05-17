@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Udine",
+    "eurostat:nuts_2021_id":"030129",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030129",
+    "eurostat:population":99051,
+    "eurostat:population_year":2020,
     "geom:area":0.006635,
-    "geom:area_square_m":56929114.198554,
+    "geom:area_square_m":56929137.120138,
     "geom:bbox":"13.184771,46.001738,13.294213,46.1171",
     "geom:latitude":46.064036,
     "geom:longitude":13.245634,
@@ -260,6 +272,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -268,6 +282,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030129",
+        "eurostat:nuts_2021_id":"030129",
         "gn:id":6540119,
         "gp:id":12679617,
         "qs_pg:id":41006
@@ -276,7 +292,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd4351a513a0db6ec0c1b157d6845eac",
+    "wof:geomhash":"76905ee01c08bf14a2194b6a0967efd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -287,10 +303,12 @@
         }
     ],
     "wof:id":404470725,
-    "wof:lastmodified":1636496845,
+    "wof:lastmodified":1684353926,
     "wof:name":"Udine",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":99051,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

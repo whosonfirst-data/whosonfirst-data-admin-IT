@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canistro",
+    "eurostat:nuts_2021_id":"066017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066017",
+    "eurostat:population":967,
+    "eurostat:population_year":2020,
     "geom:area":0.001722,
     "geom:area_square_m":15841143.935437,
     "geom:bbox":"13.3566147682,41.9117561758,13.4431551176,41.9584231813",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066017",
+        "eurostat:nuts_2021_id":"066017",
         "gn:id":6540291,
         "gp:id":12677512,
         "qs_pg:id":1163430
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b7011baf74e726b65522de8d23cae04b",
+    "wof:geomhash":"c15e32f314ea4095c1a8aeed2e553286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462105,
-    "wof:lastmodified":1582327851,
+    "wof:lastmodified":1684353752,
     "wof:name":"Canistro",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":967,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rutino",
+    "eurostat:nuts_2021_id":"065112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065112",
+    "eurostat:population":791,
+    "eurostat:population_year":2020,
     "geom:area":0.00102,
-    "geom:area_square_m":9622123.891584,
+    "geom:area_square_m":9622123.891583,
     "geom:bbox":"15.0626678289,40.2854829434,15.125112012,40.3142548324",
     "geom:latitude":40.301638,
     "geom:longitude":15.093639,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065112",
+        "eurostat:nuts_2021_id":"065112",
         "gn:id":6538828,
         "gp:id":12681516,
         "qs_pg:id":42340
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"907bf421293457f3435490c61cfe1b01",
+    "wof:geomhash":"64a79e0cd5eac5eb84e9ffff3d3d5f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465713,
-    "wof:lastmodified":1582327834,
+    "wof:lastmodified":1684353836,
     "wof:name":"Rutino",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":791,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

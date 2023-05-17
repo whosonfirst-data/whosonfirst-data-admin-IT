@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acerno",
+    "eurostat:nuts_2021_id":"065001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065001",
+    "eurostat:population":2613,
+    "eurostat:population_year":2020,
     "geom:area":0.007686,
-    "geom:area_square_m":72005365.244708,
+    "geom:area_square_m":72005365.244712,
     "geom:bbox":"15.0036800535,40.6970493034,15.1457925414,40.7817176209",
     "geom:latitude":40.741372,
     "geom:longitude":15.064826,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065001",
+        "eurostat:nuts_2021_id":"065001",
         "gn:id":6537389,
         "gp:id":12675735,
         "qs_pg:id":260447
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abe2dd5b79340949b9c7179ccae56073",
+    "wof:geomhash":"10b8ea6155ded2d3dee38fdeb67f710d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404465465,
-    "wof:lastmodified":1582327833,
+    "wof:lastmodified":1684353832,
     "wof:name":"Acerno",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2613,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

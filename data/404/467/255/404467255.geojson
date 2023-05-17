@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talana",
+    "eurostat:nuts_2021_id":"091088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091088",
+    "eurostat:population":975,
+    "eurostat:population_year":2020,
     "geom:area":0.012531,
-    "geom:area_square_m":118645607.059598,
+    "geom:area_square_m":118645607.059599,
     "geom:bbox":"9.40716021123,39.9736653374,9.62540631243,40.108938529",
     "geom:latitude":40.030966,
     "geom:longitude":9.497834,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091088",
+        "eurostat:nuts_2021_id":"091088",
         "gn:id":6540869,
         "gp:id":12682132,
         "qs_pg:id":498805
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"137c21ccd77ed2ee98e606d83fd92bdc",
+    "wof:geomhash":"1702021cc972297b30b18a02a232ef27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467255,
-    "wof:lastmodified":1582327988,
+    "wof:lastmodified":1684353870,
     "wof:name":"Talana",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":975,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

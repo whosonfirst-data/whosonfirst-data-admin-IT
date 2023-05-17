@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavasso Nuovo",
+    "eurostat:nuts_2021_id":"093012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093012",
+    "eurostat:population":1525,
+    "eurostat:population_year":2020,
     "geom:area":0.001233,
     "geom:area_square_m":10556928.456888,
     "geom:bbox":"12.7580459174,46.1634041819,12.8065993349,46.2143250928",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093012",
+        "eurostat:nuts_2021_id":"093012",
         "gn:id":6539326,
         "gp:id":12678412,
         "qs_pg:id":243058
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"478047bf79d3eedd3846b557e39ddaa5",
+    "wof:geomhash":"b2c3c740bb595cbd8e364d0728572407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459125,
-    "wof:lastmodified":1582328178,
+    "wof:lastmodified":1684353686,
     "wof:name":"Cavasso Nuovo",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":1525,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

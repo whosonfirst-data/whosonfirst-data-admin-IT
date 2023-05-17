@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccaforte Mondov\u00ec",
+    "eurostat:nuts_2021_id":"004190",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004190",
+    "eurostat:population":2121,
+    "eurostat:population_year":2020,
     "geom:area":0.009539,
-    "geom:area_square_m":84490420.812078,
+    "geom:area_square_m":84490420.812065,
     "geom:bbox":"7.68172773545,44.1646695193,7.78497556728,44.3352552295",
     "geom:latitude":44.250672,
     "geom:longitude":7.73162,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004190",
+        "eurostat:nuts_2021_id":"004190",
         "gn:id":6538159,
         "gp:id":12680058,
         "qs_pg:id":498418
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba3d83c913eec65d6a7c057120611fba",
+    "wof:geomhash":"3ef3d5accba11009503e93bbc271f73e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455775,
-    "wof:lastmodified":1582327822,
+    "wof:lastmodified":1684353610,
     "wof:name":"Roccaforte Mondov\u00ec",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2121,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

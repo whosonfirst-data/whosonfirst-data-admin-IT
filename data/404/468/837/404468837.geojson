@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cappella de' Picenardi",
+    "eurostat:nuts_2021_id":"019014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019014",
+    "eurostat:population":423,
+    "eurostat:population_year":2020,
     "geom:area":0.001625,
-    "geom:area_square_m":14174626.999323,
+    "geom:area_square_m":14174626.999321,
     "geom:bbox":"10.2004308502,45.123568363,10.2613507418,45.1735963423",
     "geom:latitude":45.145033,
     "geom:longitude":10.232751,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019014",
+        "eurostat:nuts_2021_id":"019014",
         "gn:id":6540638,
         "gp:id":12677596,
         "qs_pg:id":203837
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"531d65ae61c988e36863b632869e8432",
+    "wof:geomhash":"6f0ff0aa800cb12defec208b969fa7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468837,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353895,
     "wof:name":"Cappella De' Picenardi",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":423,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

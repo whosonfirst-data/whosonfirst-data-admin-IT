@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellamonte",
+    "eurostat:nuts_2021_id":"001066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001066",
+    "eurostat:population":9845,
+    "eurostat:population_year":2020,
     "geom:area":0.004451,
-    "geom:area_square_m":38641383.816693,
+    "geom:area_square_m":38641383.81669,
     "geom:bbox":"7.6657510625,45.3521287343,7.80331268208,45.5030736506",
     "geom:latitude":45.404664,
     "geom:longitude":7.715799,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001066",
+        "eurostat:nuts_2021_id":"001066",
         "gn:id":6538049,
         "gp:id":20076456,
         "qs_pg:id":317789
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ebed7891608baff9471dc0cc2518ca6a",
+    "wof:geomhash":"35a5893431f20173a97ef32a7771bef4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456323,
-    "wof:lastmodified":1582328056,
+    "wof:lastmodified":1684353621,
     "wof:name":"Castellamonte",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":9845,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

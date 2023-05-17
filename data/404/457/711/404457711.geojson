@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colazza",
+    "eurostat:nuts_2021_id":"003051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003051",
+    "eurostat:population":467,
+    "eurostat:population_year":2020,
     "geom:area":0.000366,
     "geom:area_square_m":3156801.004955,
     "geom:bbox":"8.4781197055,45.7774447838,8.50391224957,45.8030447457",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003051",
+        "eurostat:nuts_2021_id":"003051",
         "gn:id":6543271,
         "gp:id":20075711,
         "qs_pg:id":291466
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"954f14b85de9e2ef0c6c72be0f8f0e03",
+    "wof:geomhash":"cea4624f56441847762436b84fc940e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457711,
-    "wof:lastmodified":1582328121,
+    "wof:lastmodified":1684353656,
     "wof:name":"Colazza",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":467,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

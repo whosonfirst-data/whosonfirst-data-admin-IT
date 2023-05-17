@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tempio Pausania",
+    "eurostat:nuts_2021_id":"090070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090070",
+    "eurostat:population":13798,
+    "eurostat:population_year":2020,
     "geom:area":0.022564,
-    "geom:area_square_m":210732714.827394,
+    "geom:area_square_m":210732714.827392,
     "geom:bbox":"8.9876016813,40.7985981864,9.31660949599,41.1726036912",
     "geom:latitude":40.950173,
     "geom:longitude":9.136622,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090070",
+        "eurostat:nuts_2021_id":"090070",
         "gn:id":6539586,
         "gp:id":20076813,
         "qs_pg:id":50948
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8e5b0b9e70caf1a1d0ff3013b1a2713",
+    "wof:geomhash":"e9fe7f05daa9972ec6c9001b290e637c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404467217,
-    "wof:lastmodified":1582327971,
+    "wof:lastmodified":1684353869,
     "wof:name":"Tempio Pausania",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":13798,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

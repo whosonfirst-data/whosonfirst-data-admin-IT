@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pietro Viminario",
+    "eurostat:nuts_2021_id":"028079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028079",
+    "eurostat:population":3063,
+    "eurostat:population_year":2020,
     "geom:area":0.001524,
-    "geom:area_square_m":13271715.685652,
+    "geom:area_square_m":13271715.685653,
     "geom:bbox":"11.7902517126,45.2172051055,11.8523570419,45.2657111313",
     "geom:latitude":45.243024,
     "geom:longitude":11.825232,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028079",
+        "eurostat:nuts_2021_id":"028079",
         "gn:id":6540259,
         "gp:id":12679805,
         "qs_pg:id":204047
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f4c28de287455391fd87fa589e0b5d0",
+    "wof:geomhash":"1e227281096be4aa2d49a9521112cf67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458379,
-    "wof:lastmodified":1582327946,
+    "wof:lastmodified":1684353669,
     "wof:name":"San Pietro Viminario",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3063,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sortino",
+    "eurostat:nuts_2021_id":"089019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089019",
+    "eurostat:population":8414,
+    "eurostat:population_year":2020,
     "geom:area":0.009406,
     "geom:area_square_m":92714246.03433,
     "geom:bbox":"14.9523006024,37.0954008675,15.1331011309,37.1849293514",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089019",
+        "eurostat:nuts_2021_id":"089019",
         "gn:id":6539216,
         "gp:id":12680915,
         "qs_pg:id":41910
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1af1daee1e6e1611313516d739d4c3e5",
+    "wof:geomhash":"c3de9bcba14e737ff5eeded0b75173ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466713,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353856,
     "wof:name":"Sortino",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":8414,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

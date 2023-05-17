@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Fior",
+    "eurostat:nuts_2021_id":"026072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026072",
+    "eurostat:population":6950,
+    "eurostat:population_year":2020,
     "geom:area":0.002064,
-    "geom:area_square_m":17759485.078833,
+    "geom:area_square_m":17759485.078831,
     "geom:bbox":"12.3223725682,45.8686541006,12.4121168722,45.9330934997",
     "geom:latitude":45.905596,
     "geom:longitude":12.363433,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_026072",
+        "eurostat:nuts_2021_id":"026072"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e912924e210ad27f11414826266747ef",
+    "wof:geomhash":"f602e7deb9798e74482097ac597d8a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404458675,
-    "wof:lastmodified":1566723427,
+    "wof:lastmodified":1684353675,
     "wof:name":"San Fior",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":6950,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torricella Sicura",
+    "eurostat:nuts_2021_id":"067043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067043",
+    "eurostat:population":2572,
+    "eurostat:population_year":2020,
     "geom:area":0.005955,
-    "geom:area_square_m":54147088.824061,
+    "geom:area_square_m":54147088.824073,
     "geom:bbox":"13.5430956396,42.6308035629,13.675844846,42.7191586197",
     "geom:latitude":42.666407,
     "geom:longitude":13.602465,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067043",
+        "eurostat:nuts_2021_id":"067043",
         "gn:id":6540293,
         "gp:id":12678155,
         "qs_pg:id":1019862
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"070b9e0abb18e4e2130603b60199ead5",
+    "wof:geomhash":"0dfdd169b61c2733c264e7bed1cb3074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462407,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353758,
     "wof:name":"Torricella Sicura",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":2572,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

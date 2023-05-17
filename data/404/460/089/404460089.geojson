@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelletto Monferrato",
+    "eurostat:nuts_2021_id":"006051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006051",
+    "eurostat:population":1473,
+    "eurostat:population_year":2020,
     "geom:area":0.001093,
     "geom:area_square_m":9564395.168448,
     "geom:bbox":"8.51686697831,44.9566582224,8.59570730399,44.9864885743",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006051",
+        "eurostat:nuts_2021_id":"006051",
         "gn:id":6543520,
         "gp:id":20075898,
         "qs_pg:id":1103127
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f36467c30f50a7e3c0ef4f4bf0aea85",
+    "wof:geomhash":"1693ae77107db54e4e58b7a7f77c7887",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460089,
-    "wof:lastmodified":1582328011,
+    "wof:lastmodified":1684353709,
     "wof:name":"Castelletto Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1473,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

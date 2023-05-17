@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parma",
+    "eurostat:nuts_2021_id":"034027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034027",
+    "eurostat:population":198292,
+    "eurostat:population_year":2020,
     "geom:area":0.029651,
-    "geom:area_square_m":260190036.471696,
+    "geom:area_square_m":260190028.765802,
     "geom:bbox":"10.213585,44.662588,10.44266,44.900952",
     "geom:latitude":44.793654,
     "geom:longitude":10.327642,
@@ -302,6 +314,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -310,6 +324,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034027",
+        "eurostat:nuts_2021_id":"034027",
         "gn:id":6540120,
         "gp:id":12677687,
         "qs_pg:id":1310870
@@ -318,7 +334,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d846faf34980435921d265a17a11ced",
+    "wof:geomhash":"d064dba038b3527a339a8a559c256cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -329,10 +345,12 @@
         }
     ],
     "wof:id":404467593,
-    "wof:lastmodified":1636496851,
+    "wof:lastmodified":1684353877,
     "wof:name":"Parma",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":198292,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

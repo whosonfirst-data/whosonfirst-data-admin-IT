@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campogalliano",
+    "eurostat:nuts_2021_id":"036003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036003",
+    "eurostat:population":8724,
+    "eurostat:population_year":2020,
     "geom:area":0.004053,
-    "geom:area_square_m":35624871.454888,
+    "geom:area_square_m":35624871.454889,
     "geom:bbox":"10.806208315,44.6565099706,10.8857705657,44.7466289351",
     "geom:latitude":44.699654,
     "geom:longitude":10.84157,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036003",
+        "eurostat:nuts_2021_id":"036003",
         "gn:id":6540421,
         "gp:id":12677450,
         "qs_pg:id":1315716
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5728214097d26715fe6023f29c684a7d",
+    "wof:geomhash":"279142144852441c6cd7ba16f806839a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457119,
-    "wof:lastmodified":1582328107,
+    "wof:lastmodified":1684353642,
     "wof:name":"Campogalliano",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":8724,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

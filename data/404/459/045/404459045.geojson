@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verbicaro",
+    "eurostat:nuts_2021_id":"078153",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078153",
+    "eurostat:population":2819,
+    "eurostat:population_year":2020,
     "geom:area":0.003404,
-    "geom:area_square_m":32355497.416319,
+    "geom:area_square_m":32355497.416316,
     "geom:bbox":"15.8656178148,39.7368997775,16.0239183344,39.7828635348",
     "geom:latitude":39.759925,
     "geom:longitude":15.935236,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078153",
+        "eurostat:nuts_2021_id":"078153"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6bb29675de9ee97838d079a035500ffd",
+    "wof:geomhash":"b102d4d40be7d71df9348fccd5175560",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404459045,
-    "wof:lastmodified":1566723746,
+    "wof:lastmodified":1684353684,
     "wof:name":"Verbicaro",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2819,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrice",
+    "eurostat:nuts_2021_id":"060079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060079",
+    "eurostat:population":4826,
+    "eurostat:population_year":2020,
     "geom:area":0.001946,
     "geom:area_square_m":17990201.224549,
     "geom:bbox":"13.3698404589,41.5997221877,13.4299984392,41.6546521139",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060079",
+        "eurostat:nuts_2021_id":"060079",
         "gn:id":6538716,
         "gp:id":12682229,
         "qs_pg:id":948803
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b645c0d684e75816cf9f214cc0c51c8",
+    "wof:geomhash":"f8724b6e6c5a759ce4bd7c9133b3fce9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404462039,
-    "wof:lastmodified":1582327859,
+    "wof:lastmodified":1684353751,
     "wof:name":"Torrice",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":4826,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

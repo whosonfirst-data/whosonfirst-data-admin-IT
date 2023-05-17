@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Costigliole d'Asti",
+    "eurostat:nuts_2021_id":"005050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005050",
+    "eurostat:population":5755,
+    "eurostat:population_year":2020,
     "geom:area":0.004204,
-    "geom:area_square_m":36892047.354304,
+    "geom:area_square_m":36892047.354303,
     "geom:bbox":"8.12789152366,44.7495777614,8.23118861411,44.8286786366",
     "geom:latitude":44.784963,
     "geom:longitude":8.17789,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005050",
+        "eurostat:nuts_2021_id":"005050",
         "gn:id":6538175,
         "gp:id":12678975,
         "qs_pg:id":40623
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7cb6bb7c2505d0c19593fc4557cb92a8",
+    "wof:geomhash":"cfa1f342966e662153574e9f620f2c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404456021,
-    "wof:lastmodified":1582328065,
+    "wof:lastmodified":1684353615,
     "wof:name":"Costigliole D'Asti",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":5755,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

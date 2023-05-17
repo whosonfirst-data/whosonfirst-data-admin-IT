@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Alessio in Aspromonte",
+    "eurostat:nuts_2021_id":"080080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080080",
+    "eurostat:population":320,
+    "eurostat:population_year":2020,
     "geom:area":0.000407,
-    "geom:area_square_m":3959092.396017,
+    "geom:area_square_m":3959092.39602,
     "geom:bbox":"15.7447876077,38.1654653789,15.7741078038,38.1890006817",
     "geom:latitude":38.175651,
     "geom:longitude":15.761347,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080080",
+        "eurostat:nuts_2021_id":"080080",
         "gn:id":6541318,
         "gp:id":12681800,
         "qs_pg:id":42549
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4250f4a3004ad5a179f39c130db91719",
+    "wof:geomhash":"4b6590961c1eaf38ca2a8a2e85cd441f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404464651,
-    "wof:lastmodified":1582327796,
+    "wof:lastmodified":1684353812,
     "wof:name":"Sant'Alessio In Aspromonte",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":320,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

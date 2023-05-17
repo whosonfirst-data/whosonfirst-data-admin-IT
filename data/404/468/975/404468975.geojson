@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve San Giacomo",
+    "eurostat:nuts_2021_id":"019075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019075",
+    "eurostat:population":1597,
+    "eurostat:population_year":2020,
     "geom:area":0.001699,
-    "geom:area_square_m":14826380.743853,
+    "geom:area_square_m":14826380.743854,
     "geom:bbox":"10.1581287869,45.1034066411,10.2245387631,45.1497208413",
     "geom:latitude":45.127024,
     "geom:longitude":10.192121,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_019075",
+        "eurostat:nuts_2021_id":"019075"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9ff33eedacf1b5f078ed3b6203e8b303",
+    "wof:geomhash":"e2d58bbd005f9e21881462582faef981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404468975,
-    "wof:lastmodified":1566723642,
+    "wof:lastmodified":1684353897,
     "wof:name":"Pieve San Giacomo",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1597,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

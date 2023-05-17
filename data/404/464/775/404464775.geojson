@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Filadelfia",
+    "eurostat:nuts_2021_id":"102011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102011",
+    "eurostat:population":5094,
+    "eurostat:population_year":2020,
     "geom:area":0.003237,
-    "geom:area_square_m":31195762.797068,
+    "geom:area_square_m":31195675.132738,
     "geom:bbox":"16.257254,38.761509,16.362017,38.824357",
     "geom:latitude":38.789683,
     "geom:longitude":16.311168,
@@ -110,6 +122,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -117,9 +131,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102011",
+        "eurostat:nuts_2021_id":"102011"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ba962668972bc7dfe7e122a44b126059",
+    "wof:geomhash":"b1bd14b39cad0fb712196446d6f27085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +147,12 @@
         }
     ],
     "wof:id":404464775,
-    "wof:lastmodified":1636496848,
+    "wof:lastmodified":1684353816,
     "wof:name":"Filadelfia",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":5094,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

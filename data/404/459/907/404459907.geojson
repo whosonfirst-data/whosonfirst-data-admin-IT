@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monsano",
+    "eurostat:nuts_2021_id":"042025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042025",
+    "eurostat:population":3326,
+    "eurostat:population_year":2020,
     "geom:area":0.00163,
-    "geom:area_square_m":14606923.390954,
+    "geom:area_square_m":14606923.39095,
     "geom:bbox":"13.2299939565,43.5486912404,13.304958461,43.5855920906",
     "geom:latitude":43.567829,
     "geom:longitude":13.268576,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042025",
+        "eurostat:nuts_2021_id":"042025",
         "gn:id":6540450,
         "gp:id":12676920,
         "qs_pg:id":1195841
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"762506ec8fbfa097b63e820656363ac3",
+    "wof:geomhash":"b2497eb46363f50c3de469260de31356",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459907,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353704,
     "wof:name":"Monsano",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":3326,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellana Grotte",
+    "eurostat:nuts_2021_id":"072017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072017",
+    "eurostat:population":19562,
+    "eurostat:population_year":2020,
     "geom:area":0.007304,
-    "geom:area_square_m":68297835.375083,
+    "geom:area_square_m":68297835.375081,
     "geom:bbox":"17.1168609029,40.7992099523,17.2578079031,40.9235404174",
     "geom:latitude":40.867432,
     "geom:longitude":17.186335,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072017",
+        "eurostat:nuts_2021_id":"072017",
         "gn:id":6536401,
         "gp:id":12678246,
         "qs_pg:id":190544
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d9320fecda7b6185f7856f9103fdaf1",
+    "wof:geomhash":"95a837fedcf41f0d99ddcdcc86b416bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463205,
-    "wof:lastmodified":1582327772,
+    "wof:lastmodified":1684353774,
     "wof:name":"Castellana Grotte",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":19562,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

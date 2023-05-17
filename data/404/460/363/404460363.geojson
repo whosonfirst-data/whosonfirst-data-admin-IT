@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mezzana Mortigliengo",
+    "eurostat:nuts_2021_id":"096033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096033",
+    "eurostat:population":490,
+    "eurostat:population_year":2020,
     "geom:area":0.000498,
-    "geom:area_square_m":4302414.901013,
+    "geom:area_square_m":4302414.901012,
     "geom:bbox":"8.17395894937,45.6173769633,8.21214762652,45.6435240746",
     "geom:latitude":45.629109,
     "geom:longitude":8.189169,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096033",
+        "eurostat:nuts_2021_id":"096033",
         "gn:id":6542813,
         "gp:id":12682656,
         "qs_pg:id":1315041
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c472c3add487cf2da18ee1392e8708a2",
+    "wof:geomhash":"6867afd696a323dac6cafa4a3be25eab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404460363,
-    "wof:lastmodified":1582327996,
+    "wof:lastmodified":1684353716,
     "wof:name":"Mezzana Mortigliengo",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":490,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

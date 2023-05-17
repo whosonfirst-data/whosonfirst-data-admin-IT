@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Catanzaro",
+    "eurostat:nuts_2021_id":"079023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079023",
+    "eurostat:population":88313,
+    "eurostat:population_year":2020,
     "geom:area":0.011588,
-    "geom:area_square_m":111530699.390205,
+    "geom:area_square_m":111530732.093165,
     "geom:bbox":"16.538323,38.815274,16.685862,38.967501",
     "geom:latitude":38.889874,
     "geom:longitude":16.602614,
@@ -269,6 +281,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -276,9 +290,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079023",
+        "eurostat:nuts_2021_id":"079023"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f6474bb2de81678b3a105b4cc5b446af",
+    "wof:geomhash":"976b4437e603662da68200b94ef5e5fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -289,10 +306,12 @@
         }
     ],
     "wof:id":404464321,
-    "wof:lastmodified":1636496848,
+    "wof:lastmodified":1684353803,
     "wof:name":"Catanzaro",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":88313,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

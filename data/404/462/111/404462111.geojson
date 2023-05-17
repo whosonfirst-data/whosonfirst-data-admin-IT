@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capistrello",
+    "eurostat:nuts_2021_id":"066020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066020",
+    "eurostat:population":5038,
+    "eurostat:population_year":2020,
     "geom:area":0.006606,
-    "geom:area_square_m":60727071.170731,
+    "geom:area_square_m":60727071.170737,
     "geom:bbox":"13.3203571573,41.9209947735,13.4382926929,42.0372935462",
     "geom:latitude":41.9763,
     "geom:longitude":13.375894,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066020",
+        "eurostat:nuts_2021_id":"066020",
         "gn:id":6542097,
         "gp:id":20076880,
         "qs_pg:id":978433
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1275c586f84af1ffb753acb9d2f563e6",
+    "wof:geomhash":"5dd15f11ff533eeb37a78f5e7ea09fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462111,
-    "wof:lastmodified":1582327860,
+    "wof:lastmodified":1684353752,
     "wof:name":"Capistrello",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":5038,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

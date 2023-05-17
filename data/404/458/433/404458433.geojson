@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca Padovana",
+    "eurostat:nuts_2021_id":"028103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028103",
+    "eurostat:population":10476,
+    "eurostat:population_year":2020,
     "geom:area":0.002756,
-    "geom:area_square_m":23892214.887433,
+    "geom:area_square_m":23892214.887434,
     "geom:bbox":"11.7577622746,45.4447014623,11.8301558233,45.5236866027",
     "geom:latitude":45.479196,
     "geom:longitude":11.79084,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028103",
+        "eurostat:nuts_2021_id":"028103",
         "gn:id":6543007,
         "gp:id":12681219,
         "qs_pg:id":901552
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96f6d65a00cc8e8e434938bd6189ffd2",
+    "wof:geomhash":"2e18721e3cf5ac8a2eaad2882fd43f03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458433,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353670,
     "wof:name":"Villafranca Padovana",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":10476,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

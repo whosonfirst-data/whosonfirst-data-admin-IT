@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quero Vas",
+    "eurostat:nuts_2021_id":"025070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025070",
+    "eurostat:population":3161,
+    "eurostat:population_year":2020,
     "geom:area":0.003273,
-    "geom:area_square_m":28142073.03267,
+    "geom:area_square_m":28142073.032668,
     "geom:bbox":"11.8369106161,45.9070353815,11.9489432374,45.976941657",
     "geom:latitude":45.946112,
     "geom:longitude":11.901602,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025070",
+        "eurostat:nuts_2021_id":"025070",
         "gn:id":6538286,
         "gp:id":12681309,
         "qs_pg:id":204185
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9e71fade55cb40a2dedc9eef4087f62",
+    "wof:geomhash":"a8c793a3d5d5105b7fdb660f61c04a62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404469933,
-    "wof:lastmodified":1582328036,
+    "wof:lastmodified":1684353913,
     "wof:name":"Quero",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":3161,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

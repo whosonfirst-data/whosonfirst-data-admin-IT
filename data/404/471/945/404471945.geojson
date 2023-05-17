@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casarza Ligure",
+    "eurostat:nuts_2021_id":"010011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010011",
+    "eurostat:population":6771,
+    "eurostat:population_year":2020,
     "geom:area":0.00314,
-    "geom:area_square_m":27788369.198043,
+    "geom:area_square_m":27788369.198044,
     "geom:bbox":"9.43386208943,44.2521083159,9.52272224402,44.3268317522",
     "geom:latitude":44.292449,
     "geom:longitude":9.475525,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010011",
+        "eurostat:nuts_2021_id":"010011",
         "gn:id":6542451,
         "gp:id":12676578,
         "qs_pg:id":489869
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c12c6ce805e5aab791794a946060b5e",
+    "wof:geomhash":"8b51941a2e7bb7e6097bd36b6f95454c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471945,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353948,
     "wof:name":"Casarza Ligure",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":6771,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

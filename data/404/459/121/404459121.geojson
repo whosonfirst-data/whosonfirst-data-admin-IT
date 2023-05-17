@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casarsa della Delizia",
+    "eurostat:nuts_2021_id":"093010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093010",
+    "eurostat:population":8404,
+    "eurostat:population_year":2020,
     "geom:area":0.002372,
-    "geom:area_square_m":20389729.484989,
+    "geom:area_square_m":20389729.484987,
     "geom:bbox":"12.7889073556,45.9235869895,12.8692138479,45.9810007553",
     "geom:latitude":45.949461,
     "geom:longitude":12.83426,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093010",
+        "eurostat:nuts_2021_id":"093010",
         "gn:id":6539325,
         "gp:id":12678015,
         "qs_pg:id":40011
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a9801e3d3bdbaf64ba98bf8124812dd4",
+    "wof:geomhash":"98b09fb448b33049f262a71760623036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459121,
-    "wof:lastmodified":1582328166,
+    "wof:lastmodified":1684353686,
     "wof:name":"Casarsa Della Delizia",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":8404,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

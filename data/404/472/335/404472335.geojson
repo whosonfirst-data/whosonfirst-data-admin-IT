@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sala Bolognese",
+    "eurostat:nuts_2021_id":"037050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037050",
+    "eurostat:population":8471,
+    "eurostat:population_year":2020,
     "geom:area":0.005175,
-    "geom:area_square_m":45543012.632219,
+    "geom:area_square_m":45543012.632216,
     "geom:bbox":"11.2236556975,44.5757564733,11.3231539895,44.6834543683",
     "geom:latitude":44.62643,
     "geom:longitude":11.267863,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037050",
+        "eurostat:nuts_2021_id":"037050",
         "gn:id":6536347,
         "gp:id":12676447,
         "qs_pg:id":1252082
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e9a0b1aa59a4d9f3cf15e4cc32691a4",
+    "wof:geomhash":"04362358501c6e006882977857223c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472335,
-    "wof:lastmodified":1582327895,
+    "wof:lastmodified":1684353958,
     "wof:name":"Sala Bolognese",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":8471,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

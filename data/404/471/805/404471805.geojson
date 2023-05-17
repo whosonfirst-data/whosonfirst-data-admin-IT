@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Imperia",
+    "eurostat:nuts_2021_id":"008031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008031",
+    "eurostat:population":42614,
+    "eurostat:population_year":2020,
     "geom:area":0.005087,
-    "geom:area_square_m":45325908.961899,
+    "geom:area_square_m":45325908.96189,
     "geom:bbox":"7.94694966306,43.8603887349,8.07127499453,43.9454258178",
     "geom:latitude":43.899153,
     "geom:longitude":8.003826,
@@ -200,6 +212,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -208,6 +222,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008031",
+        "eurostat:nuts_2021_id":"008031",
         "gn:id":6541484,
         "gp:id":12676279,
         "qs_pg:id":1059584
@@ -216,7 +232,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"897e212ecfca895b2385980515bcdfa1",
+    "wof:geomhash":"4ca4c0e91d8ea8b53342779f2b7cb218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,10 +243,12 @@
         }
     ],
     "wof:id":404471805,
-    "wof:lastmodified":1582327719,
+    "wof:lastmodified":1684353946,
     "wof:name":"Imperia",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":42614,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lerici",
+    "eurostat:nuts_2021_id":"011016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011016",
+    "eurostat:population":10004,
+    "eurostat:population_year":2020,
     "geom:area":0.0018,
-    "geom:area_square_m":15987282.492031,
+    "geom:area_square_m":15987282.492032,
     "geom:bbox":"9.87817691167,44.047241335,9.96741971183,44.1009138589",
     "geom:latitude":44.078743,
     "geom:longitude":9.925661,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011016",
+        "eurostat:nuts_2021_id":"011016",
         "gn:id":6536473,
         "gp:id":12679253,
         "qs_pg:id":1112541
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e776e1d31ba0847bc68a151cbd6e7b0",
+    "wof:geomhash":"de38ce204e0db9ca439ed5a8c80e446c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404458557,
-    "wof:lastmodified":1582327938,
+    "wof:lastmodified":1684353672,
     "wof:name":"Lerici",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":10004,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

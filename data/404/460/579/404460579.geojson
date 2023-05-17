@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teti",
+    "eurostat:nuts_2021_id":"091090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091090",
+    "eurostat:population":641,
+    "eurostat:population_year":2020,
     "geom:area":0.004631,
-    "geom:area_square_m":43791584.285278,
+    "geom:area_square_m":43791584.28528,
     "geom:bbox":"9.04739544005,40.0612678068,9.13795476098,40.1610811535",
     "geom:latitude":40.119968,
     "geom:longitude":9.099013,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091090",
+        "eurostat:nuts_2021_id":"091090",
         "gn:id":6539269,
         "gp:id":12682173,
         "qs_pg:id":42853
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c07f4d0e3861f8318706eaf82a1591e4",
+    "wof:geomhash":"edbada43b7910b7628e192de06bad99f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404460579,
-    "wof:lastmodified":1582328020,
+    "wof:lastmodified":1684353721,
     "wof:name":"Teti",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":641,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

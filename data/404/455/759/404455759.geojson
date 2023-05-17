@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roaschia",
+    "eurostat:nuts_2021_id":"004183",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004183",
+    "eurostat:population":98,
+    "eurostat:population_year":2020,
     "geom:area":0.002687,
-    "geom:area_square_m":23800009.275313,
+    "geom:area_square_m":23800009.275309,
     "geom:bbox":"7.42315068562,44.217948895,7.48841408587,44.2928282419",
     "geom:latitude":44.256387,
     "geom:longitude":7.457009,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004183",
+        "eurostat:nuts_2021_id":"004183",
         "gn:id":6543463,
         "gp:id":12680102,
         "qs_pg:id":41324
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe4a3aafff0f745e2dc7d63cf26856b4",
+    "wof:geomhash":"fdce9fb1370cf996ec3fe4d8742acfb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455759,
-    "wof:lastmodified":1582327818,
+    "wof:lastmodified":1684353610,
     "wof:name":"Roaschia",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":98,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

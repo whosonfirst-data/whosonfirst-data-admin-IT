@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Diamante",
+    "eurostat:nuts_2021_id":"078048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078048",
+    "eurostat:population":5238,
+    "eurostat:population_year":2020,
     "geom:area":0.001272,
-    "geom:area_square_m":12102946.139103,
+    "geom:area_square_m":12102946.139102,
     "geom:bbox":"15.8000875157,39.6675974849,15.8424448801,39.7310054267",
     "geom:latitude":39.700323,
     "geom:longitude":15.823086,
@@ -77,6 +89,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -84,9 +98,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078048",
+        "eurostat:nuts_2021_id":"078048"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b5bb830d97048bd17d2d8c04ed2292b0",
+    "wof:geomhash":"d2823f104471e3fe00fc6dde3de3a907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +114,12 @@
         }
     ],
     "wof:id":404464153,
-    "wof:lastmodified":1566723229,
+    "wof:lastmodified":1684353798,
     "wof:name":"Diamante",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":5238,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

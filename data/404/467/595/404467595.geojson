@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pellegrino Parmense",
+    "eurostat:nuts_2021_id":"034028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034028",
+    "eurostat:population":983,
+    "eurostat:population_year":2020,
     "geom:area":0.009333,
-    "geom:area_square_m":81962764.283135,
+    "geom:area_square_m":81962764.283141,
     "geom:bbox":"9.83188756967,44.6982131807,9.98805211602,44.8077548424",
     "geom:latitude":44.74595,
     "geom:longitude":9.909154,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034028",
+        "eurostat:nuts_2021_id":"034028",
         "gn:id":6541025,
         "gp:id":12676753,
         "qs_pg:id":976146
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ce39575314921bee29fb81c5b6d7c58",
+    "wof:geomhash":"38b8bc97ecc762dd4846990530010939",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467595,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353877,
     "wof:name":"Pellegrino Parmense",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":983,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

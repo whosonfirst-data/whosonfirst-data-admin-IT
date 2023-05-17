@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malo",
+    "eurostat:nuts_2021_id":"024055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024055",
+    "eurostat:population":14800,
+    "eurostat:population_year":2020,
     "geom:area":0.003524,
-    "geom:area_square_m":30455727.946246,
+    "geom:area_square_m":30455727.946242,
     "geom:bbox":"11.3809858385,45.615994261,11.4791164948,45.6848848361",
     "geom:latitude":45.657346,
     "geom:longitude":11.423668,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024055",
+        "eurostat:nuts_2021_id":"024055",
         "gn:id":6540250,
         "gp:id":12680118,
         "qs_pg:id":1150764
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2e22440df0fe22c7fdfbdc5c8f6714a",
+    "wof:geomhash":"64f252af5a1738c6c8402921a9676c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404463621,
-    "wof:lastmodified":1582327766,
+    "wof:lastmodified":1684353783,
     "wof:name":"Malo",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":14800,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

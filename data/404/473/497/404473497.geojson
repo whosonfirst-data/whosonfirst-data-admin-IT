@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garniga Terme",
+    "eurostat:nuts_2021_id":"022091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022091",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.001525,
-    "geom:area_square_m":13096127.256894,
+    "geom:area_square_m":13096127.256893,
     "geom:bbox":"11.0446703735,45.9769560671,11.1012153757,46.0263550977",
     "geom:latitude":46.005078,
     "geom:longitude":11.073154,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022091",
+        "eurostat:nuts_2021_id":"022091",
         "gn:id":6542625,
         "gp:id":20076616,
         "qs_pg:id":220910
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"205900f0b15e55fb482c2f97734ab7e1",
+    "wof:geomhash":"c0d902660169e527546bb3d6f87ea203",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473497,
-    "wof:lastmodified":1582327918,
+    "wof:lastmodified":1684353989,
     "wof:name":"Garniga Terme",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

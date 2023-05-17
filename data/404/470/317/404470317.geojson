@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monselice",
+    "eurostat:nuts_2021_id":"028055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028055",
+    "eurostat:population":17385,
+    "eurostat:population_year":2020,
     "geom:area":0.005792,
-    "geom:area_square_m":50442054.029498,
+    "geom:area_square_m":50442054.029508,
     "geom:bbox":"11.6967161612,45.1874879068,11.8168033433,45.2867131336",
     "geom:latitude":45.228671,
     "geom:longitude":11.756891,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028055",
+        "eurostat:nuts_2021_id":"028055",
         "gn:id":6541005,
         "gp:id":12680164,
         "qs_pg:id":41365
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b6480adf3d7fb8454d190417d12bb49",
+    "wof:geomhash":"907284cbc37cba665158f5c60ade4cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470317,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353919,
     "wof:name":"Monselice",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":17385,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

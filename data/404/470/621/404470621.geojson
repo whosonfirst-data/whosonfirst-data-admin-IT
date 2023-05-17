@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Precenicco",
+    "eurostat:nuts_2021_id":"030082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030082",
+    "eurostat:population":1457,
+    "eurostat:population_year":2020,
     "geom:area":0.003144,
-    "geom:area_square_m":27122117.518129,
+    "geom:area_square_m":27122117.51812,
     "geom:bbox":"13.0268535524,45.7106600449,13.0926767358,45.8027347133",
     "geom:latitude":45.761759,
     "geom:longitude":13.060822,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030082",
+        "eurostat:nuts_2021_id":"030082",
         "gn:id":6538385,
         "gp:id":12677870,
         "qs_pg:id":536492
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d352b0052af9c521d09226e946c43fb7",
+    "wof:geomhash":"3c43d77f7c01d0944fa5be35e29e85bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470621,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353925,
     "wof:name":"Precenicco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1457,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

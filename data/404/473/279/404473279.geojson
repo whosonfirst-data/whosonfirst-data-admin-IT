@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdaora/Olang",
+    "eurostat:nuts_2021_id":"021106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021106",
+    "eurostat:population":3170,
+    "eurostat:population_year":2020,
     "geom:area":0.005774,
-    "geom:area_square_m":48925942.530449,
+    "geom:area_square_m":48925942.530443,
     "geom:bbox":"11.9589946902,46.7041906809,12.0846074539,46.7755732755",
     "geom:latitude":46.740509,
     "geom:longitude":12.023475,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021106",
+        "eurostat:nuts_2021_id":"021106",
         "gn:id":6535938,
         "gp:id":12682328,
         "qs_pg:id":538272
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c276301be4fa9104814fa9598932c0bc",
+    "wof:geomhash":"92dc89b49a739ccb4ad9fbf8d00336d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404473279,
-    "wof:lastmodified":1582327926,
+    "wof:lastmodified":1684353985,
     "wof:name":"Valdaora",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3170,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

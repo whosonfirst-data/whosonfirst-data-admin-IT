@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazara del Vallo",
+    "eurostat:nuts_2021_id":"081012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081012",
+    "eurostat:population":51573,
+    "eurostat:population_year":2020,
     "geom:area":0.02801,
-    "geom:area_square_m":274028645.955573,
+    "geom:area_square_m":274028645.955632,
     "geom:bbox":"12.5176291076,37.575417237,12.7600905756,37.8028652249",
     "geom:latitude":37.7018,
     "geom:longitude":12.64612,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_081012",
+        "eurostat:nuts_2021_id":"081012"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"87059485ef27edca73b50d4988306857",
+    "wof:geomhash":"adf6cb9a8c34227c2ee7ed5e718f2014",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464889,
-    "wof:lastmodified":1566723214,
+    "wof:lastmodified":1684353820,
     "wof:name":"Mazara Del Vallo",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":51573,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

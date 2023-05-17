@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio Morgeto",
+    "eurostat:nuts_2021_id":"080071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080071",
+    "eurostat:population":3023,
+    "eurostat:population_year":2020,
     "geom:area":0.003618,
-    "geom:area_square_m":35071310.987868,
+    "geom:area_square_m":35071310.98786,
     "geom:bbox":"16.0670750021,38.337001573,16.1742191876,38.4039631917",
     "geom:latitude":38.374996,
     "geom:longitude":16.121917,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080071",
+        "eurostat:nuts_2021_id":"080071",
         "gn:id":6541317,
         "gp:id":12676049,
         "qs_pg:id":961598
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c5c295e1305adaea4772cda2ce37d79",
+    "wof:geomhash":"44efabb8ac4c22f4bd85d6a21bd2419b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464631,
-    "wof:lastmodified":1582327806,
+    "wof:lastmodified":1684353811,
     "wof:name":"San Giorgio Morgeto",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":3023,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

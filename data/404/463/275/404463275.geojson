@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aradeo",
+    "eurostat:nuts_2021_id":"075006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075006",
+    "eurostat:population":9152,
+    "eurostat:population_year":2020,
     "geom:area":0.000894,
-    "geom:area_square_m":8451782.484665,
+    "geom:area_square_m":8451782.484669,
     "geom:bbox":"18.1165717175,40.1106712022,18.1537562412,40.1598350343",
     "geom:latitude":40.132202,
     "geom:longitude":18.133007,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075006",
+        "eurostat:nuts_2021_id":"075006",
         "gn:id":6538966,
         "gp:id":12676172,
         "qs_pg:id":203713
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67b4c7218fd2cd315dd6816bd26e9b98",
+    "wof:geomhash":"489715667dd65c1ab716ef09acb94ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463275,
-    "wof:lastmodified":1582327768,
+    "wof:lastmodified":1684353776,
     "wof:name":"Aradeo",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":9152,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

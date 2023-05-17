@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Golferenzo",
+    "eurostat:nuts_2021_id":"018074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018074",
+    "eurostat:population":189,
+    "eurostat:population_year":2020,
     "geom:area":0.000505,
     "geom:area_square_m":4414629.823239,
     "geom:bbox":"9.28724334186,44.9492096589,9.32463744561,44.9734905932",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_018074",
+        "eurostat:nuts_2021_id":"018074"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f8924018170a599d16c4971b3dc2645c",
+    "wof:geomhash":"c4de2e2c29ae74a1441d14a4df9c6111",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404471445,
-    "wof:lastmodified":1566723118,
+    "wof:lastmodified":1684353940,
     "wof:name":"Golferenzo",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":189,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

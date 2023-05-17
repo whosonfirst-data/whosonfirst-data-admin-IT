@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marano Marchesato",
+    "eurostat:nuts_2021_id":"078076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078076",
+    "eurostat:population":3436,
+    "eurostat:population_year":2020,
     "geom:area":0.000522,
-    "geom:area_square_m":4995311.652311,
+    "geom:area_square_m":4995311.65231,
     "geom:bbox":"16.1321888581,39.2985466331,16.1912656776,39.3244538889",
     "geom:latitude":39.309404,
     "geom:longitude":16.164677,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078076",
+        "eurostat:nuts_2021_id":"078076"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"291d7d8ee5b123f99dfa0d24f61dbf62",
+    "wof:geomhash":"69fd07cbc66723fae4a1585973dd1995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464215,
-    "wof:lastmodified":1566723236,
+    "wof:lastmodified":1684353800,
     "wof:name":"Marano Marchesato",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":3436,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

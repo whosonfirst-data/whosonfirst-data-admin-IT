@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bormio",
+    "eurostat:nuts_2021_id":"014009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014009",
+    "eurostat:population":4161,
+    "eurostat:population_year":2020,
     "geom:area":0.004858,
     "geom:area_square_m":41349384.315518,
     "geom:bbox":"10.3542077522,46.4442611103,10.4761679663,46.5412203236",
@@ -173,6 +185,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -180,9 +194,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_014009",
+        "eurostat:nuts_2021_id":"014009"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b46105e6c02b828c330b4bcd27ddab18",
+    "wof:geomhash":"337ceb3c9e981477ef33bbd3ff8269c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +210,12 @@
         }
     ],
     "wof:id":404463489,
-    "wof:lastmodified":1566723196,
+    "wof:lastmodified":1684353781,
     "wof:name":"Bormio",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":4161,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

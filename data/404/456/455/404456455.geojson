@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ivrea",
+    "eurostat:nuts_2021_id":"001125",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001125",
+    "eurostat:population":23338,
+    "eurostat:population_year":2020,
     "geom:area":0.003465,
-    "geom:area_square_m":30058558.613438,
+    "geom:area_square_m":30058558.613441,
     "geom:bbox":"7.84194917887,45.4131695593,7.93076941678,45.4901016735",
     "geom:latitude":45.453898,
     "geom:longitude":7.891099,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001125",
+        "eurostat:nuts_2021_id":"001125",
         "gn:id":3175385,
         "gp:id":12679248,
         "qs_pg:id":1314090
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5b51ae49005b81338c527f7260c0b50",
+    "wof:geomhash":"de43ba66c6ba6393f0eb39fc295bf89c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404456455,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353625,
     "wof:name":"Ivrea",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":23338,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

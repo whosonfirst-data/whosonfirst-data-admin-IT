@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ospedaletto",
+    "eurostat:nuts_2021_id":"022130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022130",
+    "eurostat:population":790,
+    "eurostat:population_year":2020,
     "geom:area":0.001946,
-    "geom:area_square_m":16705081.115672,
+    "geom:area_square_m":16705081.11567,
     "geom:bbox":"11.5436811861,46.0057128587,11.5998486321,46.0631857444",
     "geom:latitude":46.031452,
     "geom:longitude":11.570304,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022130",
+        "eurostat:nuts_2021_id":"022130",
         "gn:id":6539634,
         "gp:id":12680830,
         "qs_pg:id":41841
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff3f4a7eb89d9a08d6b0b702c9d99371",
+    "wof:geomhash":"dde229c39a12b01912602a995bf43791",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404473579,
-    "wof:lastmodified":1582327933,
+    "wof:lastmodified":1684353991,
     "wof:name":"Ospedaletto",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":790,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiavenna",
+    "eurostat:nuts_2021_id":"014018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014018",
+    "eurostat:population":7330,
+    "eurostat:population_year":2020,
     "geom:area":0.00126,
-    "geom:area_square_m":10756097.164985,
+    "geom:area_square_m":10756097.164984,
     "geom:bbox":"9.37480898646,46.3032381948,9.43855696079,46.356133581",
     "geom:latitude":46.326923,
     "geom:longitude":9.404952,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014018",
+        "eurostat:nuts_2021_id":"014018",
         "gn:id":6540093,
         "gp:id":12678604,
         "qs_pg:id":1163471
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb64f4d00ad55870616af0a85187eaae",
+    "wof:geomhash":"5424c98b513e901714433f87335f1292",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404463509,
-    "wof:lastmodified":1582327779,
+    "wof:lastmodified":1684353781,
     "wof:name":"Chiavenna",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":7330,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

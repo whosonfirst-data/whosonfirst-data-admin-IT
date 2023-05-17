@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montemonaco",
+    "eurostat:nuts_2021_id":"044044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044044",
+    "eurostat:population":558,
+    "eurostat:population_year":2020,
     "geom:area":0.007454,
-    "geom:area_square_m":67536202.765119,
+    "geom:area_square_m":67536202.765115,
     "geom:bbox":"13.2313940462,42.8161203386,13.3753859663,42.9254804099",
     "geom:latitude":42.88219,
     "geom:longitude":13.29551,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044044",
+        "eurostat:nuts_2021_id":"044044",
         "gn:id":6540463,
         "gp:id":12676027,
         "qs_pg:id":416437
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b153a3feaebaa06b0cb7d0fba36960bf",
+    "wof:geomhash":"78014e6e11326cc062a40d5123e31498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461105,
-    "wof:lastmodified":1582328124,
+    "wof:lastmodified":1684353732,
     "wof:name":"Montemonaco",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":558,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

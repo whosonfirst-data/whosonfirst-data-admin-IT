@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001261",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scarmagno",
+    "eurostat:nuts_2021_id":"001261",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001261",
+    "eurostat:population":826,
+    "eurostat:population_year":2020,
     "geom:area":0.000923,
-    "geom:area_square_m":8017819.974466,
+    "geom:area_square_m":8017819.97447,
     "geom:bbox":"7.83083613649,45.3563266005,7.86006005158,45.4095948992",
     "geom:latitude":45.381585,
     "geom:longitude":7.845232,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001261",
+        "eurostat:nuts_2021_id":"001261",
         "gn:id":6539524,
         "gp:id":12681918,
         "qs_pg:id":42640
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73e5e75ff3b1a4e05f07900e32bbf7d7",
+    "wof:geomhash":"678fcb55b1d374f2e17740130e0bed19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457331,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353647,
     "wof:name":"Scarmagno",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":826,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

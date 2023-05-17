@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loazzolo",
+    "eurostat:nuts_2021_id":"005060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005060",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.001683,
-    "geom:area_square_m":14801920.155116,
+    "geom:area_square_m":14801920.155121,
     "geom:bbox":"8.22276372922,44.6227351012,8.29238422845,44.6968215978",
     "geom:latitude":44.670971,
     "geom:longitude":8.256362,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005060",
+        "eurostat:nuts_2021_id":"005060",
         "gn:id":6543490,
         "gp:id":20075850,
         "qs_pg:id":50331
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13c01e94ab71fddcc2dabdbd667e6e51",
+    "wof:geomhash":"0daf556392a24325fe3c6803cc4678b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456043,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353616,
     "wof:name":"Loazzolo",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

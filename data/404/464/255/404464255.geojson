@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paterno Calabro",
+    "eurostat:nuts_2021_id":"078094",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078094",
+    "eurostat:population":1383,
+    "eurostat:population_year":2020,
     "geom:area":0.002502,
-    "geom:area_square_m":23968161.938792,
+    "geom:area_square_m":23968161.938798,
     "geom:bbox":"16.2352089707,39.1811070767,16.3054370616,39.2425842137",
     "geom:latitude":39.212742,
     "geom:longitude":16.268751,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078094",
+        "eurostat:nuts_2021_id":"078094"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5d4902ffab92a10c26a551c2ca3d368f",
+    "wof:geomhash":"a877f8c69d6f9e9b139471a1ebdddc53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464255,
-    "wof:lastmodified":1566723245,
+    "wof:lastmodified":1684353801,
     "wof:name":"Paterno Calabro",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1383,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antey-Saint-Andr\u00e9",
+    "eurostat:nuts_2021_id":"007002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007002",
+    "eurostat:population":553,
+    "eurostat:population_year":2020,
     "geom:area":0.001367,
-    "geom:area_square_m":11786507.073696,
+    "geom:area_square_m":11786507.073693,
     "geom:bbox":"7.58113428567,45.7651964926,7.62701891077,45.8478715898",
     "geom:latitude":45.808938,
     "geom:longitude":7.599506,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007002",
+        "eurostat:nuts_2021_id":"007002"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6b1c872d92d4d08ceb30abf43cc3718d",
+    "wof:geomhash":"33108d247dd9e64132fcd554988b1bec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404457927,
-    "wof:lastmodified":1566723677,
+    "wof:lastmodified":1684353660,
     "wof:name":"Antey-Saint-Andr\u00e8",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":553,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

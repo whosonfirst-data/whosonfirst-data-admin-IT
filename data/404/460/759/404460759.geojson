@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foglianise",
+    "eurostat:nuts_2021_id":"062030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062030",
+    "eurostat:population":3240,
+    "eurostat:population_year":2020,
     "geom:area":0.001256,
-    "geom:area_square_m":11694630.940086,
+    "geom:area_square_m":11694630.940084,
     "geom:bbox":"14.6578019009,41.141855268,14.7185882087,41.1751465621",
     "geom:latitude":41.159795,
     "geom:longitude":14.685689,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062030",
+        "eurostat:nuts_2021_id":"062030",
         "gn:id":6537324,
         "gp:id":12679310,
         "qs_pg:id":1108533
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb10fc356d06621dde707edab06e2df0",
+    "wof:geomhash":"9e93c04dcd2e0a1da560516152ffcbdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460759,
-    "wof:lastmodified":1582328011,
+    "wof:lastmodified":1684353724,
     "wof:name":"Foglianise",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":3240,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cernobbio",
+    "eurostat:nuts_2021_id":"013065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013065",
+    "eurostat:population":6653,
+    "eurostat:population_year":2020,
     "geom:area":0.001424,
-    "geom:area_square_m":12262351.404983,
+    "geom:area_square_m":12262351.404982,
     "geom:bbox":"9.04791597187,45.8293866052,9.0985701245,45.8855820144",
     "geom:latitude":45.85554,
     "geom:longitude":9.070784,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013065",
+        "eurostat:nuts_2021_id":"013065",
         "gn:id":6536495,
         "gp:id":12678520,
         "qs_pg:id":223831
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7cc8e7e2e75d62b445e3016a218ddc2b",
+    "wof:geomhash":"1d7010729e6657cdbc70f84996007226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468035,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353883,
     "wof:name":"Cernobbio",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":6653,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

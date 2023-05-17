@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Secinaro",
+    "eurostat:nuts_2021_id":"066097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066097",
+    "eurostat:population":331,
+    "eurostat:population_year":2020,
     "geom:area":0.003622,
-    "geom:area_square_m":33197930.045491,
+    "geom:area_square_m":33197930.04549,
     "geom:bbox":"13.5691841642,42.1303307249,13.7155544994,42.1841620077",
     "geom:latitude":42.156528,
     "geom:longitude":13.644446,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066097",
+        "eurostat:nuts_2021_id":"066097",
         "gn:id":6541208,
         "gp:id":12681937,
         "qs_pg:id":287922
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a060f577c2e8041e5ca7c4bb605c5098",
+    "wof:geomhash":"de8ac8c67f2e2d5c81cd5e225293566b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462285,
-    "wof:lastmodified":1582327868,
+    "wof:lastmodified":1684353755,
     "wof:name":"Secinaro",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

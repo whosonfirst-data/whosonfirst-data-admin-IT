@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarbasse",
+    "eurostat:nuts_2021_id":"001302",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001302",
+    "eurostat:population":3482,
+    "eurostat:population_year":2020,
     "geom:area":0.001189,
     "geom:area_square_m":10391039.612586,
     "geom:bbox":"7.44123128402,45.02750389,7.50350448166,45.0583239131",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001302",
+        "eurostat:nuts_2021_id":"001302",
         "gn:id":6543797,
         "gp:id":20076532,
         "qs_pg:id":202139
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"167c4ae1ead7a050a745f77eeab17820",
+    "wof:geomhash":"422239a2d378c6d44c8c8225e4a45616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457423,
-    "wof:lastmodified":1582328101,
+    "wof:lastmodified":1684353649,
     "wof:name":"Villarbasse",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3482,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

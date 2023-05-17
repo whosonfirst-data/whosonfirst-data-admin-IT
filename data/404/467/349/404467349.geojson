@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giba",
+    "eurostat:nuts_2021_id":"111028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111028",
+    "eurostat:population":1982,
+    "eurostat:population_year":2020,
     "geom:area":0.00317,
-    "geom:area_square_m":30436578.878508,
+    "geom:area_square_m":30436578.878509,
     "geom:bbox":"8.54729702651,39.0196824709,8.65652563396,39.0924360633",
     "geom:latitude":39.062016,
     "geom:longitude":8.60039,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111028",
+        "eurostat:nuts_2021_id":"111028",
         "gn:id":6539283,
         "gp:id":20076834,
         "qs_pg:id":50968
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a40a3e270215e7f80fd875283709c618",
+    "wof:geomhash":"debdb0a6da1ef18fb5ad668eb36194dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467349,
-    "wof:lastmodified":1582327977,
+    "wof:lastmodified":1684353872,
     "wof:name":"Giba",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1982,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Idro",
+    "eurostat:nuts_2021_id":"017082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017082",
+    "eurostat:population":1899,
+    "eurostat:population_year":2020,
     "geom:area":0.002648,
-    "geom:area_square_m":22846376.35179,
+    "geom:area_square_m":22846376.3518,
     "geom:bbox":"10.4432043562,45.7200271896,10.5516406749,45.8055989752",
     "geom:latitude":45.755961,
     "geom:longitude":10.497759,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017082",
+        "eurostat:nuts_2021_id":"017082",
         "gn:id":3175639,
         "gp:id":12679018,
         "qs_pg:id":209045
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40e95d75bf678290b0578fd8bfc2d516",
+    "wof:geomhash":"230a3baa2913eee570de3f26f902e815",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404471107,
-    "wof:lastmodified":1582327723,
+    "wof:lastmodified":1684353934,
     "wof:name":"Idro",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1899,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

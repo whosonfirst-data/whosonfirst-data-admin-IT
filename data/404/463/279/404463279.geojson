@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnolo del Salento",
+    "eurostat:nuts_2021_id":"075008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075008",
+    "eurostat:population":1815,
+    "eurostat:population_year":2020,
     "geom:area":0.000702,
-    "geom:area_square_m":6638605.425651,
+    "geom:area_square_m":6638605.425652,
     "geom:bbox":"18.3302721075,40.1353717477,18.3922863167,40.1636502469",
     "geom:latitude":40.147966,
     "geom:longitude":18.356883,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075008",
+        "eurostat:nuts_2021_id":"075008",
         "gn:id":6537583,
         "gp:id":12676457,
         "qs_pg:id":1009282
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2abfc40145e46329525caba7d1a5724b",
+    "wof:geomhash":"333f2f532d73ddf123dbe5ea829388d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463279,
-    "wof:lastmodified":1582327781,
+    "wof:lastmodified":1684353776,
     "wof:name":"Bagnolo Del Salento",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":1815,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponna",
+    "eurostat:nuts_2021_id":"013187",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013187",
+    "eurostat:population":233,
+    "eurostat:population_year":2020,
     "geom:area":0.000675,
     "geom:area_square_m":5802062.985136,
     "geom:bbox":"9.08006333955,45.9843851725,9.14745694258,46.0068528943",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013187",
+        "eurostat:nuts_2021_id":"013187",
         "gn:id":3170324,
         "gp:id":20076122,
         "qs_pg:id":1321481
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"beb3f2a71e231afca0c26c6c20e23b96",
+    "wof:geomhash":"d66126a33cb1315c0b21b32f9495c6cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458199,
-    "wof:lastmodified":1582327952,
+    "wof:lastmodified":1684353666,
     "wof:name":"Ponna",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

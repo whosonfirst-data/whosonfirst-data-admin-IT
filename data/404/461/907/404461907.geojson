@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelliri",
+    "eurostat:nuts_2021_id":"060020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060020",
+    "eurostat:population":3332,
+    "eurostat:population_year":2020,
     "geom:area":0.001652,
-    "geom:area_square_m":15258357.181727,
+    "geom:area_square_m":15258357.181729,
     "geom:bbox":"13.5058911887,41.6554461844,13.5597096725,41.7199960173",
     "geom:latitude":41.687678,
     "geom:longitude":13.533702,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060020",
+        "eurostat:nuts_2021_id":"060020",
         "gn:id":6536981,
         "gp:id":12678266,
         "qs_pg:id":1024947
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3fa388a273c597b94222c222ca38c58",
+    "wof:geomhash":"0ba708d4aeeef7f0db0af3bb760c45b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461907,
-    "wof:lastmodified":1582328123,
+    "wof:lastmodified":1684353748,
     "wof:name":"Castelliri",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":3332,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

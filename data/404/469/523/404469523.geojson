@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ossago Lodigiano",
+    "eurostat:nuts_2021_id":"098044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098044",
+    "eurostat:population":1421,
+    "eurostat:population_year":2020,
     "geom:area":0.001322,
-    "geom:area_square_m":11508435.374183,
+    "geom:area_square_m":11508435.374184,
     "geom:bbox":"9.50630346909,45.2253527532,9.56920089436,45.2613705886",
     "geom:latitude":45.243514,
     "geom:longitude":9.536643,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098044",
+        "eurostat:nuts_2021_id":"098044",
         "gn:id":6542238,
         "gp:id":12680835,
         "qs_pg:id":537609
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc781fb8a3ab1283b3f23b791b64e654",
+    "wof:geomhash":"d8d01a03c2c7ae932f979e2ef2db098d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469523,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353905,
     "wof:name":"Ossago Lodigiano",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":1421,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

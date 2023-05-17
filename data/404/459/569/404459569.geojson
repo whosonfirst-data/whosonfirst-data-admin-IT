@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stresa",
+    "eurostat:nuts_2021_id":"103064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103064",
+    "eurostat:population":4816,
+    "eurostat:population_year":2020,
     "geom:area":0.004102,
-    "geom:area_square_m":35302226.72386,
+    "geom:area_square_m":35302226.723865,
     "geom:bbox":"8.44639868903,45.8515395677,8.58697601104,45.9185707936",
     "geom:latitude":45.887018,
     "geom:longitude":8.525687,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103064",
+        "eurostat:nuts_2021_id":"103064",
         "gn:id":6539447,
         "gp:id":12682104,
         "qs_pg:id":248230
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ac38498b401f2be17f7a40d7f00bf62",
+    "wof:geomhash":"f9b7c48afbfaeb14b3487dd5105e9298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404459569,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353696,
     "wof:name":"Stresa",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":4816,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

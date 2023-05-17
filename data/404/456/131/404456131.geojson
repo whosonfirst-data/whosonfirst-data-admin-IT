@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Marzano Oliveto",
+    "eurostat:nuts_2021_id":"005100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005100",
+    "eurostat:population":1017,
+    "eurostat:population_year":2020,
     "geom:area":0.001101,
     "geom:area_square_m":9670639.02245,
     "geom:bbox":"8.27207350737,44.7344149628,8.32016968452,44.7742433123",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005100",
+        "eurostat:nuts_2021_id":"005100",
         "gn:id":6543502,
         "gp:id":20075872,
         "qs_pg:id":1198670
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf6b057be7e0dc622535999d2941be2d",
+    "wof:geomhash":"52f3d138a9ef84a042fe5414b20383ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456131,
-    "wof:lastmodified":1582328060,
+    "wof:lastmodified":1684353617,
     "wof:name":"San Marzano Oliveto",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1017,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

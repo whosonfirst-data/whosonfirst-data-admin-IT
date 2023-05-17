@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noasca",
+    "eurostat:nuts_2021_id":"001165",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001165",
+    "eurostat:population":110,
+    "eurostat:population_year":2020,
     "geom:area":0.008983,
-    "geom:area_square_m":77901202.718408,
+    "geom:area_square_m":77901202.718412,
     "geom:bbox":"7.22269332514,45.4104727468,7.36299038943,45.5172090423",
     "geom:latitude":45.465105,
     "geom:longitude":7.301904,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001165",
+        "eurostat:nuts_2021_id":"001165"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0803b5b3416ed0d3af710eb4b5db6abb",
+    "wof:geomhash":"4d947496483bfb2cffadaf4000cb4b87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404456545,
-    "wof:lastmodified":1566723590,
+    "wof:lastmodified":1684353627,
     "wof:name":"Noasca",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":110,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

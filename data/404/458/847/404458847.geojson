@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tavenna",
+    "eurostat:nuts_2021_id":"070077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070077",
+    "eurostat:population":640,
+    "eurostat:population_year":2020,
     "geom:area":0.002373,
-    "geom:area_square_m":21833240.559628,
+    "geom:area_square_m":21833240.559627,
     "geom:bbox":"14.7115738462,41.8929706231,14.8017071542,41.9495198386",
     "geom:latitude":41.917915,
     "geom:longitude":14.755344,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070077",
+        "eurostat:nuts_2021_id":"070077",
         "gn:id":6537529,
         "gp:id":12682142,
         "qs_pg:id":961765
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa9447c48bd7915c9efc20c81c299034",
+    "wof:geomhash":"2ebfbea34c999656576d7e9c430a32f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458847,
-    "wof:lastmodified":1582327955,
+    "wof:lastmodified":1684353679,
     "wof:name":"Tavenna",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

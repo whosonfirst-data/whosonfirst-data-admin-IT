@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Ippolito",
+    "eurostat:nuts_2021_id":"041058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041058",
+    "eurostat:population":1488,
+    "eurostat:population_year":2020,
     "geom:area":0.002215,
-    "geom:area_square_m":19807419.495187,
+    "geom:area_square_m":19807419.495192,
     "geom:bbox":"12.8479310561,43.6500545601,12.9143943402,43.7222872519",
     "geom:latitude":43.681973,
     "geom:longitude":12.880984,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041058",
+        "eurostat:nuts_2021_id":"041058",
         "gn:id":6539722,
         "gp:id":12677759,
         "qs_pg:id":203861
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"331013970af703fcb4175db67652e20e",
+    "wof:geomhash":"e6d9df4a172bd325dc695f5f890972f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404459831,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353702,
     "wof:name":"Sant'Ippolito",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1488,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

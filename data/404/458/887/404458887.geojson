@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerignola",
+    "eurostat:nuts_2021_id":"071020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071020",
+    "eurostat:population":58450,
+    "eurostat:population_year":2020,
     "geom:area":0.063364,
-    "geom:area_square_m":588813412.251267,
+    "geom:area_square_m":588813412.251273,
     "geom:bbox":"15.6935063507,41.1136384485,16.040325353,41.4764501336",
     "geom:latitude":41.278477,
     "geom:longitude":15.877422,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071020",
+        "eurostat:nuts_2021_id":"071020",
         "gn:id":6538923,
         "gp:id":12678511,
         "qs_pg:id":224037
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc3ff41d330a74f8ef51719a3eb44339",
+    "wof:geomhash":"341115ccd427e1c60e83e2c6bf427bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404458887,
-    "wof:lastmodified":1582327941,
+    "wof:lastmodified":1684353680,
     "wof:name":"Cerignola",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":58450,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

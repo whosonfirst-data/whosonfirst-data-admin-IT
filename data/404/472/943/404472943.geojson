@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponsacco",
+    "eurostat:nuts_2021_id":"050028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050028",
+    "eurostat:population":15614,
+    "eurostat:population_year":2020,
     "geom:area":0.002217,
-    "geom:area_square_m":19847769.982536,
+    "geom:area_square_m":19847769.982535,
     "geom:bbox":"10.600614672,43.5903381064,10.6671583938,43.6456011795",
     "geom:latitude":43.616485,
     "geom:longitude":10.635005,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050028",
+        "eurostat:nuts_2021_id":"050028",
         "gn:id":6538580,
         "gp:id":12681204,
         "qs_pg:id":289781
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2f8c435031b23fff58d68178be7f9ff",
+    "wof:geomhash":"7a67cdb93bf4675665ffab67a5fc97e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472943,
-    "wof:lastmodified":1582327909,
+    "wof:lastmodified":1684353973,
     "wof:name":"Ponsacco",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":15614,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Latera",
+    "eurostat:nuts_2021_id":"056032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056032",
+    "eurostat:population":798,
+    "eurostat:population_year":2020,
     "geom:area":0.00246,
-    "geom:area_square_m":22382609.244897,
+    "geom:area_square_m":22382609.244901,
     "geom:bbox":"11.7809453652,42.593355625,11.8440089468,42.6445431067",
     "geom:latitude":42.617957,
     "geom:longitude":11.81138,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056032",
+        "eurostat:nuts_2021_id":"056032",
         "gn:id":6538632,
         "gp:id":12679880,
         "qs_pg:id":1020005
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9e1e77ade0a39b2b0d15cb952750b91",
+    "wof:geomhash":"06897838e38fdebef3a3dc27398cb338",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461289,
-    "wof:lastmodified":1582328127,
+    "wof:lastmodified":1684353736,
     "wof:name":"Latera",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":798,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

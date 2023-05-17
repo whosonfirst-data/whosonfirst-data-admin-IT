@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Val Masino",
+    "eurostat:nuts_2021_id":"014074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014074",
+    "eurostat:population":868,
+    "eurostat:population_year":2020,
     "geom:area":0.013626,
     "geom:area_square_m":116510746.864034,
     "geom:bbox":"9.54721519097,46.1883855605,9.74929516905,46.3030789629",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014074",
+        "eurostat:nuts_2021_id":"014074",
         "gn:id":6542767,
         "gp:id":12676431,
         "qs_pg:id":891645
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b0f0331735dec27bc4ff72a9fa7d682",
+    "wof:geomhash":"09e4e80d4b8485c2b4aec0144e415b17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468279,
-    "wof:lastmodified":1582328086,
+    "wof:lastmodified":1684353886,
     "wof:name":"Val Masino",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":868,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

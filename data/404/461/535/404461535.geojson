@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ariccia",
+    "eurostat:nuts_2021_id":"058009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058009",
+    "eurostat:population":18618,
+    "eurostat:population_year":2020,
     "geom:area":0.002008,
-    "geom:area_square_m":18538937.878272,
+    "geom:area_square_m":18538937.87828,
     "geom:bbox":"12.6207162605,41.6542412832,12.7092963964,41.7396679436",
     "geom:latitude":41.704842,
     "geom:longitude":12.661077,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058009",
+        "eurostat:nuts_2021_id":"058009",
         "gn:id":6538668,
         "gp:id":12676024,
         "qs_pg:id":238781
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47564c54622a9d0ded85c20bedb13a97",
+    "wof:geomhash":"89cf4d1fbdca22531ee56abe1119ab3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404461535,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353740,
     "wof:name":"Ariccia",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":18618,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neirone",
+    "eurostat:nuts_2021_id":"010041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010041",
+    "eurostat:population":841,
+    "eurostat:population_year":2020,
     "geom:area":0.003422,
-    "geom:area_square_m":30199993.812176,
+    "geom:area_square_m":30199993.812179,
     "geom:bbox":"9.15289978088,44.4322709279,9.23428140699,44.4971003134",
     "geom:latitude":44.466387,
     "geom:longitude":9.189943,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010041",
+        "eurostat:nuts_2021_id":"010041",
         "gn:id":6536099,
         "gp:id":12679691,
         "qs_pg:id":1205777
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ae6251d354728bcb62844d8a8d33e29",
+    "wof:geomhash":"bc487833ae9d610fbe3d065a84e2c042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472011,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353950,
     "wof:name":"Neirone",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":841,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

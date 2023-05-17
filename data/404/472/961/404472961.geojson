@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terricciola",
+    "eurostat:nuts_2021_id":"050036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050036",
+    "eurostat:population":4498,
+    "eurostat:population_year":2020,
     "geom:area":0.004821,
-    "geom:area_square_m":43220244.161073,
+    "geom:area_square_m":43220244.161076,
     "geom:bbox":"10.6269123598,43.4878426953,10.7249122287,43.5762894772",
     "geom:latitude":43.53234,
     "geom:longitude":10.679222,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050036",
+        "eurostat:nuts_2021_id":"050036",
         "gn:id":6541095,
         "gp:id":12679810,
         "qs_pg:id":41133
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d43b96e1134cec827aa1ec9f08f361d6",
+    "wof:geomhash":"da95a1280d01bc31e468f3c6fd9bfe37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472961,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353974,
     "wof:name":"Terricciola",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":4498,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

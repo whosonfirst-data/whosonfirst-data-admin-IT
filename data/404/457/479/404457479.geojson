@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgo Vercelli",
+    "eurostat:nuts_2021_id":"002017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002017",
+    "eurostat:population":2211,
+    "eurostat:population_year":2020,
     "geom:area":0.002218,
-    "geom:area_square_m":19266556.016797,
+    "geom:area_square_m":19266556.016795,
     "geom:bbox":"8.42120027578,45.3348713172,8.49957377216,45.3843139855",
     "geom:latitude":45.360262,
     "geom:longitude":8.466119,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002017",
+        "eurostat:nuts_2021_id":"002017",
         "gn:id":6539903,
         "gp:id":12676970,
         "qs_pg:id":1059597
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05b9a0687ea77cc42103cc6bb3e32e04",
+    "wof:geomhash":"44d5da1ab738f439aee209561942926e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457479,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353650,
     "wof:name":"Borgo Vercelli",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":2211,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

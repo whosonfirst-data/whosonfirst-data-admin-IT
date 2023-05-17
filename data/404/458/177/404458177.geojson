@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spello",
+    "eurostat:nuts_2021_id":"054050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054050",
+    "eurostat:population":8464,
+    "eurostat:population_year":2020,
     "geom:area":0.006796,
-    "geom:area_square_m":61455180.561243,
+    "geom:area_square_m":61455180.56124,
     "geom:bbox":"12.5915515053,42.9640741488,12.7286951592,43.058329069",
     "geom:latitude":43.004695,
     "geom:longitude":12.665571,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054050",
+        "eurostat:nuts_2021_id":"054050",
         "gn:id":6540492,
         "gp:id":12678799,
         "qs_pg:id":1137066
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dcd4ecdf8027864521db52202db023ff",
+    "wof:geomhash":"dc6521e889e2a091db6dbceb4f276eef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458177,
-    "wof:lastmodified":1582327961,
+    "wof:lastmodified":1684353666,
     "wof:name":"Spello",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":8464,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alliste",
+    "eurostat:nuts_2021_id":"075004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075004",
+    "eurostat:population":6614,
+    "eurostat:population_year":2020,
     "geom:area":0.002445,
-    "geom:area_square_m":23179533.849754,
+    "geom:area_square_m":23179533.84974,
     "geom:bbox":"18.0451250409,39.9005945497,18.1321289761,39.9532736228",
     "geom:latitude":39.931803,
     "geom:longitude":18.087578,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075004",
+        "eurostat:nuts_2021_id":"075004",
         "gn:id":6537581,
         "gp:id":20076976,
         "qs_pg:id":289993
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3f641273481c5831a552636dbe3a8db",
+    "wof:geomhash":"508254be7534bc18c3cbe43a902bdcb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463271,
-    "wof:lastmodified":1582327782,
+    "wof:lastmodified":1684353776,
     "wof:name":"Alliste",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":6614,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

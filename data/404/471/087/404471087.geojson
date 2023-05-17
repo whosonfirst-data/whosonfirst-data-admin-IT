@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gambara",
+    "eurostat:nuts_2021_id":"017073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017073",
+    "eurostat:population":4660,
+    "eurostat:population_year":2020,
     "geom:area":0.003623,
-    "geom:area_square_m":31533686.770436,
+    "geom:area_square_m":31533686.770434,
     "geom:bbox":"10.2617445301,45.223896379,10.362015465,45.2875083648",
     "geom:latitude":45.257793,
     "geom:longitude":10.307541,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_017073",
+        "eurostat:nuts_2021_id":"017073"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d17cd67d419c324da0b65aaf0914e940",
+    "wof:geomhash":"f9004c62800841b95cf08f6d619673ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404471087,
-    "wof:lastmodified":1566723114,
+    "wof:lastmodified":1684353933,
     "wof:name":"Gambara",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4660,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

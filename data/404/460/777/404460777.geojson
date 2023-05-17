@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Limatola",
+    "eurostat:nuts_2021_id":"062038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062038",
+    "eurostat:population":4140,
+    "eurostat:population_year":2020,
     "geom:area":0.001963,
-    "geom:area_square_m":18280235.306881,
+    "geom:area_square_m":18280235.30688,
     "geom:bbox":"14.3520775362,41.1063479924,14.4401175996,41.161513621",
     "geom:latitude":41.134587,
     "geom:longitude":14.397854,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062038",
+        "eurostat:nuts_2021_id":"062038",
         "gn:id":6540675,
         "gp:id":12676352,
         "qs_pg:id":946786
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f47bb199f5fa77008dbcdfa5d73dda0",
+    "wof:geomhash":"0e871b06bb4bd71eef82663302c6bffd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460777,
-    "wof:lastmodified":1582328008,
+    "wof:lastmodified":1684353725,
     "wof:name":"Limatola",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":4140,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

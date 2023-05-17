@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Davagna",
+    "eurostat:nuts_2021_id":"010021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010021",
+    "eurostat:population":1842,
+    "eurostat:population_year":2020,
     "geom:area":0.002323,
-    "geom:area_square_m":20500052.915242,
+    "geom:area_square_m":20500052.915237,
     "geom:bbox":"9.03336806568,44.4396404379,9.12344207561,44.4877738857",
     "geom:latitude":44.464315,
     "geom:longitude":9.077347,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010021",
+        "eurostat:nuts_2021_id":"010021",
         "gn:id":6542452,
         "gp:id":12680584,
         "qs_pg:id":1208518
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96693be4199c01742d8a9fc81e3181fc",
+    "wof:geomhash":"88684f187d06e92ab809eee1915b6918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471967,
-    "wof:lastmodified":1582327723,
+    "wof:lastmodified":1684353949,
     "wof:name":"Davagna",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":1842,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

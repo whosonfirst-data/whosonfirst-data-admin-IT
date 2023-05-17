@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietraroja",
+    "eurostat:nuts_2021_id":"062051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062051",
+    "eurostat:population":516,
+    "eurostat:population_year":2020,
     "geom:area":0.003836,
-    "geom:area_square_m":35604504.35401,
+    "geom:area_square_m":35604504.353998,
     "geom:bbox":"14.5307924449,41.3168771021,14.6147516357,41.3921441006",
     "geom:latitude":41.351946,
     "geom:longitude":14.572605,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062051",
+        "eurostat:nuts_2021_id":"062051",
         "gn:id":6543278,
         "gp:id":12681092,
         "qs_pg:id":267605
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2048c03da575b0b494e1004a3371224",
+    "wof:geomhash":"283fffc56f3227befc45fffb8555f732",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460807,
-    "wof:lastmodified":1582328015,
+    "wof:lastmodified":1684353725,
     "wof:name":"Pietraroja",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":516,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

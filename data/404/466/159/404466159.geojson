@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spirano",
+    "eurostat:nuts_2021_id":"016206",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016206",
+    "eurostat:population":5736,
+    "eurostat:population_year":2020,
     "geom:area":0.001109,
-    "geom:area_square_m":9595874.920199,
+    "geom:area_square_m":9595874.9202,
     "geom:bbox":"9.65047528917,45.5611558636,9.68700534272,45.6030049727",
     "geom:latitude":45.581521,
     "geom:longitude":9.668088,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016206",
+        "eurostat:nuts_2021_id":"016206",
         "gn:id":6541670,
         "gp:id":12678031,
         "qs_pg:id":203885
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18e26bdd28f3c5434bc447d40c6e645b",
+    "wof:geomhash":"9a8e27f08a0d6b62885ada3869d134cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466159,
-    "wof:lastmodified":1582328183,
+    "wof:lastmodified":1684353844,
     "wof:name":"Spirano",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":5736,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

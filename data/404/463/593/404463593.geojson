@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallio",
+    "eurostat:nuts_2021_id":"024042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024042",
+    "eurostat:population":2380,
+    "eurostat:population_year":2020,
     "geom:area":0.005549,
-    "geom:area_square_m":47745578.488897,
+    "geom:area_square_m":47745578.488892,
     "geom:bbox":"11.5248180156,45.8579831965,11.6240634008,45.9556327641",
     "geom:latitude":45.903878,
     "geom:longitude":11.564197,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024042",
+        "eurostat:nuts_2021_id":"024042",
         "gn:id":6540984,
         "gp:id":12677846,
         "qs_pg:id":248034
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce624077fc2baeefa76198d032b267d3",
+    "wof:geomhash":"af8f702520b8f71a33d684a3112fad32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463593,
-    "wof:lastmodified":1582327761,
+    "wof:lastmodified":1684353783,
     "wof:name":"Gallio",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":2380,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

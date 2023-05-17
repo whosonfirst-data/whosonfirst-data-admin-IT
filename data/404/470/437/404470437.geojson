@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Marchesana",
+    "eurostat:nuts_2021_id":"029051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029051",
+    "eurostat:population":898,
+    "eurostat:population_year":2020,
     "geom:area":0.002059,
-    "geom:area_square_m":18001138.043286,
+    "geom:area_square_m":18001138.043285,
     "geom:bbox":"11.9270207209,44.9749933115,12.0045052572,45.0308636807",
     "geom:latitude":45.000377,
     "geom:longitude":11.96762,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029051",
+        "eurostat:nuts_2021_id":"029051",
         "gn:id":6541016,
         "gp:id":20076715,
         "qs_pg:id":50880
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac820f19ad903a84b789730cafcbcb18",
+    "wof:geomhash":"3b1c4933a536e078d31c6b84edb7c398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470437,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353921,
     "wof:name":"Villanova Marchesana",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":898,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

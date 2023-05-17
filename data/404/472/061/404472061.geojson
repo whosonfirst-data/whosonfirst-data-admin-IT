@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel San Giovanni",
+    "eurostat:nuts_2021_id":"033013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033013",
+    "eurostat:population":13915,
+    "eurostat:population_year":2020,
     "geom:area":0.005035,
-    "geom:area_square_m":43978463.884506,
+    "geom:area_square_m":43978463.884507,
     "geom:bbox":"9.36949403282,45.0188182545,9.48696555571,45.0987901804",
     "geom:latitude":45.058049,
     "geom:longitude":9.427731,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033013",
+        "eurostat:nuts_2021_id":"033013",
         "gn:id":6539940,
         "gp:id":12678196,
         "qs_pg:id":221596
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29d2ac932411573af97f4641ae3d6e14",
+    "wof:geomhash":"8e8f34eeb24d494f6c0b79de461c5751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472061,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353951,
     "wof:name":"Castel San Giovanni",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":13915,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

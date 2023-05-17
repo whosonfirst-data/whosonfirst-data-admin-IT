@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Basaluzzo",
+    "eurostat:nuts_2021_id":"006012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006012",
+    "eurostat:population":2068,
+    "eurostat:population_year":2020,
     "geom:area":0.001712,
-    "geom:area_square_m":15032919.141907,
+    "geom:area_square_m":15032919.141911,
     "geom:bbox":"8.67129142503,44.7457867122,8.74363692184,44.7902562197",
     "geom:latitude":44.767249,
     "geom:longitude":8.713825,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006012",
+        "eurostat:nuts_2021_id":"006012",
         "gn:id":6543511,
         "gp:id":12676604,
         "qs_pg:id":887642
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a70d5f320209c1865c3edbab2246d724",
+    "wof:geomhash":"8b31ea82160737955de71339cbe2ddba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460001,
-    "wof:lastmodified":1582328004,
+    "wof:lastmodified":1684353707,
     "wof:name":"Basaluzzo",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":2068,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

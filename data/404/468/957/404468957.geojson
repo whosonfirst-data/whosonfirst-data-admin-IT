@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pandino",
+    "eurostat:nuts_2021_id":"019067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019067",
+    "eurostat:population":9011,
+    "eurostat:population_year":2020,
     "geom:area":0.002565,
-    "geom:area_square_m":22262203.130116,
+    "geom:area_square_m":22262203.130119,
     "geom:bbox":"9.50461228414,45.3827412018,9.5750900803,45.4364611392",
     "geom:latitude":45.410436,
     "geom:longitude":9.539108,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019067",
+        "eurostat:nuts_2021_id":"019067",
         "gn:id":6537218,
         "gp:id":12680910,
         "qs_pg:id":1018026
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"907f68ce7f284f6ebaa73e731390265f",
+    "wof:geomhash":"679053b16b31c96b91a86fd7280f603f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468957,
-    "wof:lastmodified":1582328084,
+    "wof:lastmodified":1684353897,
     "wof:name":"Pandino",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":9011,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

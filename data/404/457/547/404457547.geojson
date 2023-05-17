@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Livorno Ferraris",
+    "eurostat:nuts_2021_id":"002071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002071",
+    "eurostat:population":4306,
+    "eurostat:population_year":2020,
     "geom:area":0.006657,
     "geom:area_square_m":57939535.157644,
     "geom:bbox":"8.0347027459,45.2210178454,8.19597652248,45.3127589326",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002071",
+        "eurostat:nuts_2021_id":"002071",
         "gn:id":6539542,
         "gp:id":12679982,
         "qs_pg:id":41255
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d72ac026b2083f280c2d6b841b8560d9",
+    "wof:geomhash":"a5c70df584ff6d041656a93fba9234f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457547,
-    "wof:lastmodified":1582328118,
+    "wof:lastmodified":1684353652,
     "wof:name":"Livorno Ferraris",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":4306,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mignano Monte Lungo",
+    "eurostat:nuts_2021_id":"061051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061051",
+    "eurostat:population":3074,
+    "eurostat:population_year":2020,
     "geom:area":0.005698,
-    "geom:area_square_m":52843216.527017,
+    "geom:area_square_m":52843216.527014,
     "geom:bbox":"13.910254963,41.3677523837,14.0424600005,41.4410729681",
     "geom:latitude":41.407694,
     "geom:longitude":13.97384,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_061051",
+        "eurostat:nuts_2021_id":"061051"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6f502dacc672614c7e6897ea03f7fa16",
+    "wof:geomhash":"bbd55bba31b451a81ab62a113cafbfcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404463071,
-    "wof:lastmodified":1566723175,
+    "wof:lastmodified":1684353771,
     "wof:name":"Mignano Monte Lungo",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":3074,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

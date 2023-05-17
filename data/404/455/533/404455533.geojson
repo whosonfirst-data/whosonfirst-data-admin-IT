@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dronero",
+    "eurostat:nuts_2021_id":"004082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004082",
+    "eurostat:population":7044,
+    "eurostat:population_year":2020,
     "geom:area":0.006669,
-    "geom:area_square_m":58860109.194946,
+    "geom:area_square_m":58860109.194943,
     "geom:bbox":"7.22923027052,44.4245445576,7.44558298562,44.4861440574",
     "geom:latitude":44.455174,
     "geom:longitude":7.329492,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004082",
+        "eurostat:nuts_2021_id":"004082",
         "gn:id":6541456,
         "gp:id":12677398,
         "qs_pg:id":1292137
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e02315e5d662842fc904bbb8c15537b4",
+    "wof:geomhash":"936e80966ebaea70eefa3db93ecd0238",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455533,
-    "wof:lastmodified":1582327809,
+    "wof:lastmodified":1684353605,
     "wof:name":"Dronero",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":7044,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

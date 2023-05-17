@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pollica",
+    "eurostat:nuts_2021_id":"065098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065098",
+    "eurostat:population":2284,
+    "eurostat:population_year":2020,
     "geom:area":0.002962,
-    "geom:area_square_m":27975122.487164,
+    "geom:area_square_m":27975122.487172,
     "geom:bbox":"15.0202602974,40.1643429179,15.0996756198,40.2370143292",
     "geom:latitude":40.19304,
     "geom:longitude":15.062218,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065098",
+        "eurostat:nuts_2021_id":"065098",
         "gn:id":6541187,
         "gp:id":12675729,
         "qs_pg:id":900300
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5e69007a8cd27b3415f49497f57b360",
+    "wof:geomhash":"ee53e2a03aa5707e59690461f9956fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465683,
-    "wof:lastmodified":1582327841,
+    "wof:lastmodified":1684353836,
     "wof:name":"Pollica",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2284,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerami",
+    "eurostat:nuts_2021_id":"086008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086008",
+    "eurostat:population":1916,
+    "eurostat:population_year":2020,
     "geom:area":0.009678,
-    "geom:area_square_m":94531113.611046,
+    "geom:area_square_m":94531113.611052,
     "geom:bbox":"14.4026518543,37.7552814004,14.5733210512,37.8797281191",
     "geom:latitude":37.818263,
     "geom:longitude":14.490836,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086008",
+        "eurostat:nuts_2021_id":"086008",
         "gn:id":6539187,
         "gp:id":12678482,
         "qs_pg:id":239794
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"08265480e326d9c63346941da995a042",
+    "wof:geomhash":"6b438dae762735d45b005da04d941754",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459187,
-    "wof:lastmodified":1582328163,
+    "wof:lastmodified":1684353688,
     "wof:name":"Cerami",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":1916,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

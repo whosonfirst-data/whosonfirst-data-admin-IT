@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grosseto",
+    "eurostat:nuts_2021_id":"053011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053011",
+    "eurostat:population":82378,
+    "eurostat:population_year":2020,
     "geom:area":0.052087,
-    "geom:area_square_m":472816675.868156,
+    "geom:area_square_m":472816707.721149,
     "geom:bbox":"10.878255,42.556048,11.230759,42.924007",
     "geom:latitude":42.767191,
     "geom:longitude":11.090251,
@@ -360,6 +372,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -368,6 +382,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053011",
+        "eurostat:nuts_2021_id":"053011",
         "gn:id":6541868,
         "gp:id":20076769,
         "qs_pg:id":1059759
@@ -376,7 +392,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"361b0872295a0e8ce0e685b55f45eada",
+    "wof:geomhash":"d06a47261cc94ec59a3afb8663dbbe89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -387,10 +403,12 @@
         }
     ],
     "wof:id":404463903,
-    "wof:lastmodified":1636496846,
+    "wof:lastmodified":1684353790,
     "wof:name":"Grosseto",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":82378,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

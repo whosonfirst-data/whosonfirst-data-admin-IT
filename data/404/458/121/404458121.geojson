@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lisciano Niccone",
+    "eurostat:nuts_2021_id":"054025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054025",
+    "eurostat:population":600,
+    "eurostat:population_year":2020,
     "geom:area":0.003896,
-    "geom:area_square_m":35092306.799125,
+    "geom:area_square_m":35092306.799126,
     "geom:bbox":"12.0942153627,43.2124548629,12.2077317236,43.2815655576",
     "geom:latitude":43.242564,
     "geom:longitude":12.161078,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054025",
+        "eurostat:nuts_2021_id":"054025",
         "gn:id":6543600,
         "gp:id":12678902,
         "qs_pg:id":976437
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74b53476a4abc14381a82f6e1b3cb3bf",
+    "wof:geomhash":"4b77377ded890c291b3938305884e39c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458121,
-    "wof:lastmodified":1582327949,
+    "wof:lastmodified":1684353664,
     "wof:name":"Lisciano Niccone",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":600,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

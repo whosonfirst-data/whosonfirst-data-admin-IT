@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varedo",
+    "eurostat:nuts_2021_id":"108045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108045",
+    "eurostat:population":13662,
+    "eurostat:population_year":2020,
     "geom:area":0.00056,
     "geom:area_square_m":4840775.361392,
     "geom:bbox":"9.14262264294,45.5877666833,9.18860793604,45.6093017506",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108045",
+        "eurostat:nuts_2021_id":"108045",
         "gn:id":6537137,
         "gp:id":12682370,
         "qs_pg:id":628429
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b3d9ba05453bce731c4e4f7a33aa032",
+    "wof:geomhash":"691039a46674fbdbf45f0993e5881567",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463553,
-    "wof:lastmodified":1582327780,
+    "wof:lastmodified":1684353782,
     "wof:name":"Varedo",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":13662,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varzo",
+    "eurostat:nuts_2021_id":"103071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103071",
+    "eurostat:population":2008,
+    "eurostat:population_year":2020,
     "geom:area":0.010946,
-    "geom:area_square_m":93604485.609717,
+    "geom:area_square_m":93604485.609704,
     "geom:bbox":"8.08046686185,46.1682585182,8.29114815655,46.3032232011",
     "geom:latitude":46.243357,
     "geom:longitude":8.197033,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103071",
+        "eurostat:nuts_2021_id":"103071",
         "gn:id":6538036,
         "gp:id":12675985,
         "qs_pg:id":1309519
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e32943a2b8252306289a7f074cc2c12b",
+    "wof:geomhash":"bb5b454aa4c1b95fea4f0ec460bd3caa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459585,
-    "wof:lastmodified":1582328176,
+    "wof:lastmodified":1684353696,
     "wof:name":"Varzo",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":2008,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nereto",
+    "eurostat:nuts_2021_id":"067031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067031",
+    "eurostat:population":5399,
+    "eurostat:population_year":2020,
     "geom:area":0.000769,
-    "geom:area_square_m":6978641.845849,
+    "geom:area_square_m":6978641.845848,
     "geom:bbox":"13.7932784403,42.8049683619,13.8341819488,42.8321110048",
     "geom:latitude":42.818057,
     "geom:longitude":13.81214,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067031",
+        "eurostat:nuts_2021_id":"067031",
         "gn:id":6538858,
         "gp:id":12680667,
         "qs_pg:id":163440
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a73fa19a42b50f25baec03c66682c9c",
+    "wof:geomhash":"88ff0c69a69ea8841f9b7ec17a92f058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462379,
-    "wof:lastmodified":1582327859,
+    "wof:lastmodified":1684353757,
     "wof:name":"Nereto",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":5399,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

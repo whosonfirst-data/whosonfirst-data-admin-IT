@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canneto Pavese",
+    "eurostat:nuts_2021_id":"018029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018029",
+    "eurostat:population":1369,
+    "eurostat:population_year":2020,
     "geom:area":0.000664,
-    "geom:area_square_m":5801902.683768,
+    "geom:area_square_m":5801902.683769,
     "geom:bbox":"9.26635860558,45.0338555162,9.30418294846,45.0622944985",
     "geom:latitude":45.047298,
     "geom:longitude":9.284264,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_018029",
+        "eurostat:nuts_2021_id":"018029"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0bd7126be02acef1f3f5216514c950d7",
+    "wof:geomhash":"65b2e32028fed50d52a2ad612c756669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404458329,
-    "wof:lastmodified":1566723456,
+    "wof:lastmodified":1684353668,
     "wof:name":"Canneto Pavese",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1369,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

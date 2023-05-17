@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pomarico",
+    "eurostat:nuts_2021_id":"077022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077022",
+    "eurostat:population":4001,
+    "eurostat:population_year":2020,
     "geom:area":0.013646,
-    "geom:area_square_m":128325536.902667,
+    "geom:area_square_m":128325536.902711,
     "geom:bbox":"16.4686565249,40.4158306308,16.6410222651,40.5578095225",
     "geom:latitude":40.492264,
     "geom:longitude":16.561943,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077022",
+        "eurostat:nuts_2021_id":"077022",
         "gn:id":6539026,
         "gp:id":12681194,
         "qs_pg:id":1016010
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c13be3242b22146c2003294c79a578c",
+    "wof:geomhash":"92a1bbfdb7683e50da49f1c6aa248ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464025,
-    "wof:lastmodified":1582327795,
+    "wof:lastmodified":1684353794,
     "wof:name":"Pomarico",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":4001,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Sant'Elpidio",
+    "eurostat:nuts_2021_id":"109034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109034",
+    "eurostat:population":26395,
+    "eurostat:population_year":2020,
     "geom:area":0.002003,
-    "geom:area_square_m":18042715.651715,
+    "geom:area_square_m":18042715.651722,
     "geom:bbox":"13.7121014045,43.2293985705,13.7777989666,43.2940517965",
     "geom:latitude":43.255086,
     "geom:longitude":13.745082,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109034",
+        "eurostat:nuts_2021_id":"109034",
         "gn:id":6541077,
         "gp:id":12681238,
         "qs_pg:id":248203
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ef845c673f58056bb96ebc634902c90",
+    "wof:geomhash":"52b6068bd51df4e02042dfe0fba8aaf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461203,
-    "wof:lastmodified":1582328131,
+    "wof:lastmodified":1684353734,
     "wof:name":"Porto Sant'Elpidio",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":26395,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

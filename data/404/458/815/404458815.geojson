@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Biase",
+    "eurostat:nuts_2021_id":"070063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070063",
+    "eurostat:population":149,
+    "eurostat:population_year":2020,
     "geom:area":0.001276,
-    "geom:area_square_m":11776377.97904,
+    "geom:area_square_m":11776377.979041,
     "geom:bbox":"14.5613650998,41.7080625905,14.614483322,41.7471056617",
     "geom:latitude":41.727373,
     "geom:longitude":14.588275,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070063",
+        "eurostat:nuts_2021_id":"070063",
         "gn:id":6540019,
         "gp:id":12681585,
         "qs_pg:id":42392
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05305bf7e9db617f3003996dd2626781",
+    "wof:geomhash":"a6f2bb1d0ccb0e98780b87f441eef9c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458815,
-    "wof:lastmodified":1582327955,
+    "wof:lastmodified":1684353678,
     "wof:name":"San Biase",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

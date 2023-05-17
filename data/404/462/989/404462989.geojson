@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capua",
+    "eurostat:nuts_2021_id":"061015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061015",
+    "eurostat:population":18141,
+    "eurostat:population_year":2020,
     "geom:area":0.005191,
-    "geom:area_square_m":48353761.806044,
+    "geom:area_square_m":48353761.806049,
     "geom:bbox":"14.1219333953,41.0878936849,14.3187194124,41.1485316582",
     "geom:latitude":41.115129,
     "geom:longitude":14.210123,
@@ -197,6 +209,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -205,6 +219,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061015",
+        "eurostat:nuts_2021_id":"061015",
         "gn:id":6541985,
         "gp:id":12677631,
         "qs_pg:id":1163437
@@ -213,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4e33217b398c70b55d4977017aee9e0",
+    "wof:geomhash":"ed1c99c80424cced684fb98e3fe9281f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404462989,
-    "wof:lastmodified":1582327873,
+    "wof:lastmodified":1684353770,
     "wof:name":"Capua",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":18141,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

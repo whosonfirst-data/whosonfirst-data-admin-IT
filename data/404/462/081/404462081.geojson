@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avezzano",
+    "eurostat:nuts_2021_id":"066006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066006",
+    "eurostat:population":42276,
+    "eurostat:population_year":2020,
     "geom:area":0.011288,
-    "geom:area_square_m":103670761.142642,
+    "geom:area_square_m":103670761.142644,
     "geom:bbox":"13.360305813,41.9816154051,13.510538831,42.0974357786",
     "geom:latitude":42.037162,
     "geom:longitude":13.446265,
@@ -227,6 +239,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -235,6 +249,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066006",
+        "eurostat:nuts_2021_id":"066006",
         "gn:id":6541691,
         "gp:id":12675893,
         "qs_pg:id":1059576
@@ -243,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f87624872041abf276c1cf373a691b3",
+    "wof:geomhash":"d88aff8dee1dce9c2173323619b184b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,10 +270,12 @@
         }
     ],
     "wof:id":404462081,
-    "wof:lastmodified":1582327867,
+    "wof:lastmodified":1684353752,
     "wof:name":"Avezzano",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":42276,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

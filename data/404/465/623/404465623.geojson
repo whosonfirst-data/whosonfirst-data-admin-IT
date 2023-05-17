@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecorvino Pugliano",
+    "eurostat:nuts_2021_id":"065072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065072",
+    "eurostat:population":11086,
+    "eurostat:population_year":2020,
     "geom:area":0.003059,
-    "geom:area_square_m":28693439.057011,
+    "geom:area_square_m":28693439.057019,
     "geom:bbox":"14.9030773731,40.6221165325,14.9726272317,40.6885307182",
     "geom:latitude":40.65623,
     "geom:longitude":14.939366,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065072",
+        "eurostat:nuts_2021_id":"065072"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"643416a33b91f608a4b738a11c99dd8e",
+    "wof:geomhash":"89142094401e96c4835e7441e3a13e91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404465623,
-    "wof:lastmodified":1566723296,
+    "wof:lastmodified":1684353835,
     "wof:name":"Montecorvino Pugliano",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":11086,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Santa Maria",
+    "eurostat:nuts_2021_id":"069102",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069102",
+    "eurostat:population":1276,
+    "eurostat:population_year":2020,
     "geom:area":0.001756,
-    "geom:area_square_m":16141285.224817,
+    "geom:area_square_m":16141285.224831,
     "geom:bbox":"14.3340265084,41.9231088222,14.3694641066,42.0143122854",
     "geom:latitude":41.96942,
     "geom:longitude":14.352773,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069102",
+        "eurostat:nuts_2021_id":"069102",
         "gn:id":6539831,
         "gp:id":12682446,
         "qs_pg:id":1026013
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c1fc723f9bc449171aa55346a9ee4cd",
+    "wof:geomhash":"23b3ff5434c03fff9922524d15c58015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462749,
-    "wof:lastmodified":1582327861,
+    "wof:lastmodified":1684353764,
     "wof:name":"Villa Santa Maria",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":1276,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

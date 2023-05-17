@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribera",
+    "eurostat:nuts_2021_id":"084033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084033",
+    "eurostat:population":18492,
+    "eurostat:population_year":2020,
     "geom:area":0.012038,
-    "geom:area_square_m":118148740.624689,
+    "geom:area_square_m":118148740.624688,
     "geom:bbox":"13.2009529158,37.3959510446,13.3829582631,37.5320367346",
     "geom:latitude":37.466681,
     "geom:longitude":13.288218,
@@ -107,6 +119,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -115,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084033",
+        "eurostat:nuts_2021_id":"084033",
         "gn:id":6539174,
         "gp:id":12681364,
         "qs_pg:id":537849
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"436652405c8f1be70a381de13f08024d",
+    "wof:geomhash":"8fea91b0d06c17ca7a36e3d436b0f603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404466501,
-    "wof:lastmodified":1582328197,
+    "wof:lastmodified":1684353850,
     "wof:name":"Ribera",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":18492,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Modena",
+    "eurostat:nuts_2021_id":"036023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036023",
+    "eurostat:population":186830,
+    "eurostat:population_year":2020,
     "geom:area":0.020785,
-    "geom:area_square_m":182856288.765454,
+    "geom:area_square_m":182856288.76545,
     "geom:bbox":"10.782009842,44.5629294831,11.0110066733,44.742417573",
     "geom:latitude":44.644059,
     "geom:longitude":10.915539,
@@ -278,6 +290,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -286,6 +300,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036023",
+        "eurostat:nuts_2021_id":"036023",
         "gn:id":6541461,
         "gp:id":12677170,
         "qs_pg:id":76230
@@ -294,7 +310,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cde8624c5ccd1a067aacadd25eb9d634",
+    "wof:geomhash":"ca86f7e21d2576ff085f5674a01ca051",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,10 +321,12 @@
         }
     ],
     "wof:id":404457163,
-    "wof:lastmodified":1582328110,
+    "wof:lastmodified":1684353644,
     "wof:name":"Modena",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":186830,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

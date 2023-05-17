@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietragalla",
+    "eurostat:nuts_2021_id":"076060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076060",
+    "eurostat:population":3992,
+    "eurostat:population_year":2020,
     "geom:area":0.006996,
-    "geom:area_square_m":65532689.970038,
+    "geom:area_square_m":65532689.970033,
     "geom:bbox":"15.7888905298,40.7018339061,15.9210488081,40.7926499131",
     "geom:latitude":40.756412,
     "geom:longitude":15.851882,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_076060",
+        "eurostat:nuts_2021_id":"076060"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"df665f104aebe54e9bb83af6c7d23355",
+    "wof:geomhash":"cac9954172a803bccaf85d15f51cf325",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404456997,
-    "wof:lastmodified":1566723575,
+    "wof:lastmodified":1684353639,
     "wof:name":"Pietragalla",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":3992,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

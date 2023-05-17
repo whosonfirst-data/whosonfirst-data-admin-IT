@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinci",
+    "eurostat:nuts_2021_id":"048050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048050",
+    "eurostat:population":14691,
+    "eurostat:population_year":2020,
     "geom:area":0.006059,
-    "geom:area_square_m":54095453.667555,
+    "geom:area_square_m":54095453.667551,
     "geom:bbox":"10.8539154751,43.7223413454,10.9798441736,43.8233872532",
     "geom:latitude":43.77338,
     "geom:longitude":10.931242,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048050",
+        "eurostat:nuts_2021_id":"048050",
         "gn:id":6538567,
         "gp:id":12681375,
         "qs_pg:id":1163541
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aa9ca2a08f6f8b777f17f42e914fc82a",
+    "wof:geomhash":"b863a60de38e2be160928aaa37b110af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404472835,
-    "wof:lastmodified":1582327886,
+    "wof:lastmodified":1684353970,
     "wof:name":"Vinci",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":14691,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

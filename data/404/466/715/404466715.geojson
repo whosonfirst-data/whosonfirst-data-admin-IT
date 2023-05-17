@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portopalo di Capo Passero",
+    "eurostat:nuts_2021_id":"089020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089020",
+    "eurostat:population":3867,
+    "eurostat:population_year":2020,
     "geom:area":0.001511,
-    "geom:area_square_m":14989283.010589,
+    "geom:area_square_m":14989283.010588,
     "geom:bbox":"15.0657876488,36.6440687943,15.1541148148,36.6915519414",
     "geom:latitude":36.672763,
     "geom:longitude":15.100914,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089020",
+        "eurostat:nuts_2021_id":"089020",
         "gn:id":6542237,
         "gp:id":20077074,
         "qs_pg:id":1298667
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c03ade9e859a64980d788a5e8949299a",
+    "wof:geomhash":"c7e9384323b924c88dff8d3e707e3a91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466715,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353856,
     "wof:name":"Portopalo Di Capo Passero",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":3867,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

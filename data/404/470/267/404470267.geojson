@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Codevigo",
+    "eurostat:nuts_2021_id":"028033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028033",
+    "eurostat:population":6399,
+    "eurostat:population_year":2020,
     "geom:area":0.008022,
-    "geom:area_square_m":69815297.772584,
+    "geom:area_square_m":69815297.772581,
     "geom:bbox":"12.0661476844,45.2112112494,12.2062505376,45.305006277",
     "geom:latitude":45.2652,
     "geom:longitude":12.141578,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028033",
+        "eurostat:nuts_2021_id":"028033",
         "gn:id":6536669,
         "gp:id":12678745,
         "qs_pg:id":1194505
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"776f6e0c7c5ad628ecfab46556159668",
+    "wof:geomhash":"33bcb087af15af89aff588e8bbf88ea6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470267,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353919,
     "wof:name":"Codevigo",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":6399,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallodoro",
+    "eurostat:nuts_2021_id":"083031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083031",
+    "eurostat:population":342,
+    "eurostat:population_year":2020,
     "geom:area":0.000703,
-    "geom:area_square_m":6858236.035028,
+    "geom:area_square_m":6858236.035032,
     "geom:bbox":"15.2848638794,37.8869101555,15.3288415754,37.9250321607",
     "geom:latitude":37.904735,
     "geom:longitude":15.305633,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083031",
+        "eurostat:nuts_2021_id":"083031",
         "gn:id":6539867,
         "gp:id":12679478,
         "qs_pg:id":246845
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a225274f32b73d5b2a4cf209d531a9c7",
+    "wof:geomhash":"57ed71243e10d608d688d32d9be2e091",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466253,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353845,
     "wof:name":"Gallodoro",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":342,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

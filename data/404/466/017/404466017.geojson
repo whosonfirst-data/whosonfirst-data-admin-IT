@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mozzanica",
+    "eurostat:nuts_2021_id":"016142",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016142",
+    "eurostat:population":4500,
+    "eurostat:population_year":2020,
     "geom:area":0.00109,
-    "geom:area_square_m":9450217.617574,
+    "geom:area_square_m":9450217.617575,
     "geom:bbox":"9.67197349262,45.4409584039,9.71660284673,45.4936060506",
     "geom:latitude":45.471264,
     "geom:longitude":9.689949,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016142",
+        "eurostat:nuts_2021_id":"016142",
         "gn:id":6537154,
         "gp:id":12680625,
         "qs_pg:id":888127
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2fc60e098c70cefbf13cc6d4f005f68",
+    "wof:geomhash":"6476a205bd8c85f134c4238094cd3d37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404466017,
-    "wof:lastmodified":1582328204,
+    "wof:lastmodified":1684353841,
     "wof:name":"Mozzanica",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4500,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

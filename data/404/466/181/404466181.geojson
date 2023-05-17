@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scillato",
+    "eurostat:nuts_2021_id":"082081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082081",
+    "eurostat:population":613,
+    "eurostat:population_year":2020,
     "geom:area":0.003233,
-    "geom:area_square_m":31559324.793243,
+    "geom:area_square_m":31559324.793237,
     "geom:bbox":"13.8632403187,37.8328051627,13.9736813316,37.8893013264",
     "geom:latitude":37.864375,
     "geom:longitude":13.92049,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082081",
+        "eurostat:nuts_2021_id":"082081",
         "gn:id":6537753,
         "gp:id":12681927,
         "qs_pg:id":42658
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d6a314fadf57af5e0e1cf6639df3b09",
+    "wof:geomhash":"2e55069c04e5028dac37929029e9f158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466181,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353844,
     "wof:name":"Scillato",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":613,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

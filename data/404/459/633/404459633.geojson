@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alviano",
+    "eurostat:nuts_2021_id":"055003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055003",
+    "eurostat:population":1428,
+    "eurostat:population_year":2020,
     "geom:area":0.002618,
-    "geom:area_square_m":23834110.442874,
+    "geom:area_square_m":23834110.442877,
     "geom:bbox":"12.2359158998,42.559178976,12.3456125887,42.6184794476",
     "geom:latitude":42.588714,
     "geom:longitude":12.279999,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055003",
+        "eurostat:nuts_2021_id":"055003",
         "gn:id":6539745,
         "gp:id":12676034,
         "qs_pg:id":248300
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6eeeab2081788fc85763f559d12eda20",
+    "wof:geomhash":"9cb3453e8d0ee0e69700c5de337463b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459633,
-    "wof:lastmodified":1582328159,
+    "wof:lastmodified":1684353697,
     "wof:name":"Alviano",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":1428,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

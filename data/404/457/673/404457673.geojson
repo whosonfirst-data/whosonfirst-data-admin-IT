@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgomanero",
+    "eurostat:nuts_2021_id":"003024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003024",
+    "eurostat:population":21715,
+    "eurostat:population_year":2020,
     "geom:area":0.003731,
-    "geom:area_square_m":32220012.219735,
+    "geom:area_square_m":32220012.219732,
     "geom:bbox":"8.40411664481,45.659882691,8.518574866,45.7375952985",
     "geom:latitude":45.697923,
     "geom:longitude":8.469537,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003024",
+        "eurostat:nuts_2021_id":"003024",
         "gn:id":6538124,
         "gp:id":12676975,
         "qs_pg:id":1032032
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fbb9d018e7485621ca71561ce21abb7e",
+    "wof:geomhash":"9ad742f05b3c1af742f40df16c5282e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457673,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353655,
     "wof:name":"Borgomanero",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":21715,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

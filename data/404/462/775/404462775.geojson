@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campomarino",
+    "eurostat:nuts_2021_id":"070010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070010",
+    "eurostat:population":7837,
+    "eurostat:population_year":2020,
     "geom:area":0.008276,
-    "geom:area_square_m":76151615.121675,
+    "geom:area_square_m":76151615.121685,
     "geom:bbox":"14.9896718898,41.8570825496,15.1419150732,41.9797726002",
     "geom:latitude":41.915063,
     "geom:longitude":15.073833,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070010",
+        "eurostat:nuts_2021_id":"070010",
         "gn:id":6538900,
         "gp:id":12677464,
         "qs_pg:id":399978
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"688c22ac317efcec244c19e618d46218",
+    "wof:geomhash":"1aca27303000c1b891650e6f110a869f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404462775,
-    "wof:lastmodified":1582327872,
+    "wof:lastmodified":1684353765,
     "wof:name":"Campomarino",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":7837,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

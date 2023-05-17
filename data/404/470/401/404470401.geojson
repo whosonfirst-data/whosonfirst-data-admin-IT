@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pettorazza Grimani",
+    "eurostat:nuts_2021_id":"029035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029035",
+    "eurostat:population":1528,
+    "eurostat:population_year":2020,
     "geom:area":0.002452,
     "geom:area_square_m":21396291.847636,
     "geom:bbox":"11.9550918205,45.0946120717,12.0463144618,45.1402357353",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029035",
+        "eurostat:nuts_2021_id":"029035",
         "gn:id":6538355,
         "gp:id":12679218,
         "qs_pg:id":1009313
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd141936f0639b18801d1854d369b7b2",
+    "wof:geomhash":"8fa90c20d80e387ef2d1802afd1fd887",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470401,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353921,
     "wof:name":"Pettorazza Grimani",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":1528,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rumo",
+    "eurostat:nuts_2021_id":"022163",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022163",
+    "eurostat:population":810,
+    "eurostat:population_year":2020,
     "geom:area":0.003614,
-    "geom:area_square_m":30784430.870579,
+    "geom:area_square_m":30784430.870577,
     "geom:bbox":"10.9309573517,46.4217519495,11.0478482478,46.4840362719",
     "geom:latitude":46.456095,
     "geom:longitude":10.988843,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022163",
+        "eurostat:nuts_2021_id":"022163",
         "gn:id":6542635,
         "gp:id":12680334,
         "qs_pg:id":1172950
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12286db48a2608a64d431d089cd0a404",
+    "wof:geomhash":"f815d6565e677067cc508e5d36857009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471613,
-    "wof:lastmodified":1582327725,
+    "wof:lastmodified":1684353943,
     "wof:name":"Rumo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":810,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

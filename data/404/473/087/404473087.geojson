@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelrotto/Kastelruth",
+    "eurostat:nuts_2021_id":"021019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021019",
+    "eurostat:population":6881,
+    "eurostat:population_year":2020,
     "geom:area":0.013826,
-    "geom:area_square_m":117579956.516459,
+    "geom:area_square_m":117579956.516451,
     "geom:bbox":"11.5121519191,46.4973958902,11.7158944665,46.5976802907",
     "geom:latitude":46.546421,
     "geom:longitude":11.61311,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021019",
+        "eurostat:nuts_2021_id":"021019",
         "gp:id":12677174,
         "qs_pg:id":1083889
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89bbbf02b9bb2be7e43494e24f337b71",
+    "wof:geomhash":"d136870bb26ac88ae505b239c49affc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473087,
-    "wof:lastmodified":1582327926,
+    "wof:lastmodified":1684353978,
     "wof:name":"Castelrotto",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":6881,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

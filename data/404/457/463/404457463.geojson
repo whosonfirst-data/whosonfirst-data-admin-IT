@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asigliano Vercellese",
+    "eurostat:nuts_2021_id":"002007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002007",
+    "eurostat:population":1420,
+    "eurostat:population_year":2020,
     "geom:area":0.003019,
-    "geom:area_square_m":26277217.346659,
+    "geom:area_square_m":26277217.346661,
     "geom:bbox":"8.3633974378,45.2409549746,8.45771402641,45.2875411576",
     "geom:latitude":45.264712,
     "geom:longitude":8.410948,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002007",
+        "eurostat:nuts_2021_id":"002007",
         "gn:id":6543410,
         "gp:id":12682633,
         "qs_pg:id":1144499
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"997ea1830dac05d0d20b48112a70b3e3",
+    "wof:geomhash":"66d8d8749f3b77572e79a80c3a62b54c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457463,
-    "wof:lastmodified":1582328102,
+    "wof:lastmodified":1684353650,
     "wof:name":"Asigliano Vercellese",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":1420,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

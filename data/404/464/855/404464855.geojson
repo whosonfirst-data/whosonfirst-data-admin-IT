@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vazzano",
+    "eurostat:nuts_2021_id":"102046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102046",
+    "eurostat:population":1000,
+    "eurostat:population_year":2020,
     "geom:area":0.002072,
-    "geom:area_square_m":20008616.903609,
+    "geom:area_square_m":20008616.903611,
     "geom:bbox":"16.1817199723,38.621307243,16.3049387463,38.6614577066",
     "geom:latitude":38.641811,
     "geom:longitude":16.244401,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102046",
+        "eurostat:nuts_2021_id":"102046"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4580ea6b3f0e1b3105641103e842e410",
+    "wof:geomhash":"a0bf8df24b35d92f0da542ba1292d418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464855,
-    "wof:lastmodified":1566723244,
+    "wof:lastmodified":1684353818,
     "wof:name":"Vazzano",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":1000,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

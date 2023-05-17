@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cir\u00f2",
+    "eurostat:nuts_2021_id":"101007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101007",
+    "eurostat:population":2643,
+    "eurostat:population_year":2020,
     "geom:area":0.007346,
-    "geom:area_square_m":70207786.524585,
+    "geom:area_square_m":70207786.524579,
     "geom:bbox":"16.9760306424,39.3277771682,17.0988510985,39.4393794123",
     "geom:latitude":39.383688,
     "geom:longitude":17.045304,
@@ -41,6 +53,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -48,9 +62,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101007",
+        "eurostat:nuts_2021_id":"101007"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0892b56698c4df4dcdc442484a7070e9",
+    "wof:geomhash":"362f1d5a8158a7172a73abb24ffac95c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,10 +78,12 @@
         }
     ],
     "wof:id":404464705,
-    "wof:lastmodified":1566723229,
+    "wof:lastmodified":1684353814,
     "wof:name":"Cir\u00f2",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":2643,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

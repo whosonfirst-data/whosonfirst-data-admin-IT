@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torreano",
+    "eurostat:nuts_2021_id":"030122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030122",
+    "eurostat:population":2085,
+    "eurostat:population_year":2020,
     "geom:area":0.004066,
-    "geom:area_square_m":34834189.096488,
+    "geom:area_square_m":34834189.096487,
     "geom:bbox":"13.3676852509,46.1036663823,13.4609601247,46.2063246282",
     "geom:latitude":46.145937,
     "geom:longitude":13.418707,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030122",
+        "eurostat:nuts_2021_id":"030122",
         "gn:id":6539698,
         "gp:id":12682190,
         "qs_pg:id":270707
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13def9c64ad9a8a8aba16d33bf51503e",
+    "wof:geomhash":"25130fecf128617c0d0e61b9727c8af1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470709,
-    "wof:lastmodified":1582327738,
+    "wof:lastmodified":1684353926,
     "wof:name":"Torreano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2085,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

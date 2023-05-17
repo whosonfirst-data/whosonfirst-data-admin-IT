@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drapia",
+    "eurostat:nuts_2021_id":"102009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102009",
+    "eurostat:population":2063,
+    "eurostat:population_year":2020,
     "geom:area":0.002217,
-    "geom:area_square_m":21405226.736906,
+    "geom:area_square_m":21405226.736911,
     "geom:bbox":"15.8714381651,38.6232714281,15.9562162992,38.6732978835",
     "geom:latitude":38.64831,
     "geom:longitude":15.91166,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102009",
+        "eurostat:nuts_2021_id":"102009"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"717b647f48f36267cf07ce2f0571972d",
+    "wof:geomhash":"ba63d9aa8fd3883f98416131c8a56060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464771,
-    "wof:lastmodified":1566723226,
+    "wof:lastmodified":1684353816,
     "wof:name":"Drapia",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":2063,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

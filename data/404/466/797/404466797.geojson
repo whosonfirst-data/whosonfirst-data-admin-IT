@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nulvi",
+    "eurostat:nuts_2021_id":"090046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090046",
+    "eurostat:population":2699,
+    "eurostat:population_year":2020,
     "geom:area":0.007195,
-    "geom:area_square_m":67349792.711906,
+    "geom:area_square_m":67349792.711899,
     "geom:bbox":"8.71072461849,40.7285826668,8.80686846167,40.8539530103",
     "geom:latitude":40.797139,
     "geom:longitude":8.755524,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090046",
+        "eurostat:nuts_2021_id":"090046",
         "gn:id":6539233,
         "gp:id":12680720,
         "qs_pg:id":1143231
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8383ed41dbb73b3fd4c6b8efbbe160e3",
+    "wof:geomhash":"517b6c4fe4f79c6f076f6333c619d964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466797,
-    "wof:lastmodified":1582328181,
+    "wof:lastmodified":1684353858,
     "wof:name":"Nulvi",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2699,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Paolo Bel Sito",
+    "eurostat:nuts_2021_id":"063069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063069",
+    "eurostat:population":3383,
+    "eurostat:population_year":2020,
     "geom:area":0.000314,
-    "geom:area_square_m":2931033.758761,
+    "geom:area_square_m":2931033.758762,
     "geom:bbox":"14.5342069976,40.9000102195,14.5654800952,40.9198452099",
     "geom:latitude":40.911065,
     "geom:longitude":14.550214,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063069",
+        "eurostat:nuts_2021_id":"063069",
         "gn:id":6537350,
         "gp:id":12681728,
         "qs_pg:id":1014471
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7119815a1a6f9955ca6f41ff13d210d9",
+    "wof:geomhash":"3d9b806fce37907627bf881cee276012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404465143,
-    "wof:lastmodified":1582327835,
+    "wof:lastmodified":1684353827,
     "wof:name":"San Paolo Bel Sito",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":3383,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

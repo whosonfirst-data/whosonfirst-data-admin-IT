@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cossombrato",
+    "eurostat:nuts_2021_id":"005049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005049",
+    "eurostat:population":521,
+    "eurostat:population_year":2020,
     "geom:area":0.000616,
     "geom:area_square_m":5390793.020377,
     "geom:bbox":"8.11984592243,44.9612641105,8.15960440732,45.001905442",
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_005049",
+        "eurostat:nuts_2021_id":"005049"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5147ece8082b61550884d4a67478dd37",
+    "wof:geomhash":"c54d60f903f32ddd4047a5d4ef27b155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404456019,
-    "wof:lastmodified":1566723599,
+    "wof:lastmodified":1684353615,
     "wof:name":"Cossombrato",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":521,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

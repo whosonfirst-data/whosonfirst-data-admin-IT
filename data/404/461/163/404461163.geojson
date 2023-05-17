@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Giberto",
+    "eurostat:nuts_2021_id":"109016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109016",
+    "eurostat:population":763,
+    "eurostat:population_year":2020,
     "geom:area":0.001382,
-    "geom:area_square_m":12478965.14279,
+    "geom:area_square_m":12478965.142791,
     "geom:bbox":"13.5953169353,43.0753146592,13.6527938853,43.12196937",
     "geom:latitude":43.094141,
     "geom:longitude":13.622126,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109016",
+        "eurostat:nuts_2021_id":"109016",
         "gn:id":6540462,
         "gp:id":12680460,
         "qs_pg:id":248640
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9a51224ff879f401e9e86c14c291017",
+    "wof:geomhash":"3ed960686b900e901a8ba100a87913d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461163,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353733,
     "wof:name":"Monte Giberto",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":763,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

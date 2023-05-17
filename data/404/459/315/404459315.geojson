@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Thuile",
+    "eurostat:nuts_2021_id":"007041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007041",
+    "eurostat:population":797,
+    "eurostat:population_year":2020,
     "geom:area":0.01452,
-    "geom:area_square_m":125396475.192558,
+    "geom:area_square_m":125396475.192561,
     "geom:bbox":"6.80866358366,45.6298387665,7.02835300841,45.7636290777",
     "geom:latitude":45.700822,
     "geom:longitude":6.92119,
@@ -95,6 +107,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -103,6 +117,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007041",
+        "eurostat:nuts_2021_id":"007041",
         "gn:id":6537032,
         "gp:id":12679830,
         "qs_pg:id":41142
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e6b847f6c471c65c398b24be6f54803",
+    "wof:geomhash":"b2157c26713ca07a43262dd0402857b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404459315,
-    "wof:lastmodified":1582328164,
+    "wof:lastmodified":1684353691,
     "wof:name":"La Thuile",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":797,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Isola",
+    "eurostat:nuts_2021_id":"017111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017111",
+    "eurostat:population":1688,
+    "eurostat:population_year":2020,
     "geom:area":0.001458,
-    "geom:area_square_m":12585491.262183,
+    "geom:area_square_m":12585491.262184,
     "geom:bbox":"10.0591717531,45.6891326651,10.1028097604,45.7306955165",
     "geom:latitude":45.709032,
     "geom:longitude":10.080105,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017111",
+        "eurostat:nuts_2021_id":"017111",
         "gn:id":6542769,
         "gp:id":12677755,
         "qs_pg:id":190428
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4b6120ad8d6f2c6cc19437a012db92f",
+    "wof:geomhash":"7c69854a474c31a4eaae9a35601c2b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471173,
-    "wof:lastmodified":1582327719,
+    "wof:lastmodified":1684353935,
     "wof:name":"Monte Isola",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1688,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

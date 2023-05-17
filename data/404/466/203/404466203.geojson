@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capizzi",
+    "eurostat:nuts_2021_id":"083008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083008",
+    "eurostat:population":2977,
+    "eurostat:population_year":2020,
     "geom:area":0.007149,
-    "geom:area_square_m":69786327.083364,
+    "geom:area_square_m":69786327.083362,
     "geom:bbox":"14.4062037266,37.8107727527,14.5729252077,37.9078393878",
     "geom:latitude":37.86706,
     "geom:longitude":14.487172,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083008",
+        "eurostat:nuts_2021_id":"083008",
         "gn:id":6537755,
         "gp:id":12677571,
         "qs_pg:id":1314069
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f568a6a56f531c30093c70b21940fc71",
+    "wof:geomhash":"f22a31f88fa9fa1b64f3be6cc7e06357",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466203,
-    "wof:lastmodified":1582328191,
+    "wof:lastmodified":1684353844,
     "wof:name":"Capizzi",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":2977,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

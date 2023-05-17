@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedavena",
+    "eurostat:nuts_2021_id":"025036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025036",
+    "eurostat:population":4377,
+    "eurostat:population_year":2020,
     "geom:area":0.002911,
-    "geom:area_square_m":24985516.945242,
+    "geom:area_square_m":24985516.945247,
     "geom:bbox":"11.8210025687,46.0112939754,11.8992590719,46.0799064573",
     "geom:latitude":46.043704,
     "geom:longitude":11.857207,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025036",
+        "eurostat:nuts_2021_id":"025036",
         "gn:id":6538285,
         "gp:id":12680700,
         "qs_pg:id":537494
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"17b011a4a8003a4d1f414d08f9236357",
+    "wof:geomhash":"c177b5bd6059e50376a3bb7f8ba81174",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469921,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353912,
     "wof:name":"Pedavena",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":4377,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genuri",
+    "eurostat:nuts_2021_id":"111024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111024",
+    "eurostat:population":307,
+    "eurostat:population_year":2020,
     "geom:area":0.00079,
     "geom:area_square_m":7513949.906874,
     "geom:bbox":"8.90180557293,39.723471449,8.94193754426,39.7582703431",
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111024",
+        "eurostat:nuts_2021_id":"111024",
         "gn:id":6539281,
         "gp:id":12679529,
         "qs_pg:id":1009315
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"425a755135c5f8af7197a3deb1dc22da",
+    "wof:geomhash":"90ada4b2d74e666bc7dc75588449ebbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467283,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353871,
     "wof:name":"Genuri",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":307,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foglizzo",
+    "eurostat:nuts_2021_id":"001106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001106",
+    "eurostat:population":2284,
+    "eurostat:population_year":2020,
     "geom:area":0.001795,
-    "geom:area_square_m":15617440.635789,
+    "geom:area_square_m":15617440.635792,
     "geom:bbox":"7.7906447599,45.2432569095,7.84712457946,45.2957812503",
     "geom:latitude":45.26728,
     "geom:longitude":7.823135,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001106",
+        "eurostat:nuts_2021_id":"001106",
         "gn:id":6538060,
         "gp:id":12679314,
         "qs_pg:id":40796
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"678d17d8ac6b2dca360498255e7e7ba8",
+    "wof:geomhash":"91785b1bafe233bb7cb9a07d7d941b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456413,
-    "wof:lastmodified":1582328050,
+    "wof:lastmodified":1684353623,
     "wof:name":"Foglizzo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":2284,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reggio nell'Emilia",
+    "eurostat:nuts_2021_id":"035033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035033",
+    "eurostat:population":172124,
+    "eurostat:population_year":2020,
     "geom:area":0.026198,
-    "geom:area_square_m":230270884.32966,
+    "geom:area_square_m":230270884.329656,
     "geom:bbox":"10.4908786392,44.6242353562,10.7734572619,44.774008263",
     "geom:latitude":44.697411,
     "geom:longitude":10.634725,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035033",
+        "eurostat:nuts_2021_id":"035033",
         "gn:id":6542002,
         "gp:id":12677235,
         "qs_pg:id":39543
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01731f919cd571e4a470d6b56a2f9821",
+    "wof:geomhash":"f11e8e4b2c41fbb1e49c57ec63940f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404457085,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353642,
     "wof:name":"Reggio Nell'Emilia",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":172124,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

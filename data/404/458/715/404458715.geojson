@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vedelago",
+    "eurostat:nuts_2021_id":"026089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026089",
+    "eurostat:population":16737,
+    "eurostat:population_year":2020,
     "geom:area":0.00714,
-    "geom:area_square_m":61671845.993085,
+    "geom:area_square_m":61671845.993082,
     "geom:bbox":"11.9493777261,45.6383034128,12.0768978946,45.7342166685",
     "geom:latitude":45.692066,
     "geom:longitude":12.022424,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026089",
+        "eurostat:nuts_2021_id":"026089",
         "gn:id":6538311,
         "gp:id":12675887,
         "qs_pg:id":190293
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11c26a7b842d852fc816eb37dbf08e8e",
+    "wof:geomhash":"2b09c8ad14258cfff4cce247178c3852",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458715,
-    "wof:lastmodified":1582327948,
+    "wof:lastmodified":1684353676,
     "wof:name":"Vedelago",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":16737,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

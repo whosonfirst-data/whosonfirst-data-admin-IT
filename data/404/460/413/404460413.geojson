@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sala Biellese",
+    "eurostat:nuts_2021_id":"096057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096057",
+    "eurostat:population":585,
+    "eurostat:population_year":2020,
     "geom:area":0.000925,
-    "geom:area_square_m":8016712.969291,
+    "geom:area_square_m":8016712.969289,
     "geom:bbox":"7.9206163843,45.4952792086,7.9876620807,45.5217461554",
     "geom:latitude":45.510332,
     "geom:longitude":7.958072,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096057",
+        "eurostat:nuts_2021_id":"096057",
         "gn:id":6540886,
         "gp:id":12681531,
         "qs_pg:id":490542
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33efb14b0955184e6aa4121a2d76c6d3",
+    "wof:geomhash":"de70159076242fd9cf34413eb60f089f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404460413,
-    "wof:lastmodified":1582327998,
+    "wof:lastmodified":1684353717,
     "wof:name":"Sala Biellese",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":585,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

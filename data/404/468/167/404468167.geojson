@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montano Lucino",
+    "eurostat:nuts_2021_id":"013154",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013154",
+    "eurostat:population":5340,
+    "eurostat:population_year":2020,
     "geom:area":0.000605,
-    "geom:area_square_m":5215267.425841,
+    "geom:area_square_m":5215267.425842,
     "geom:bbox":"9.00422673312,45.775319809,9.05135535834,45.8053841224",
     "geom:latitude":45.791338,
     "geom:longitude":9.03065,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013154",
+        "eurostat:nuts_2021_id":"013154",
         "gn:id":6542162,
         "gp:id":20076114,
         "qs_pg:id":972434
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"377ef6d60efddca55c9c779b8656bf6b",
+    "wof:geomhash":"ed6034fc2570b5de467c3858476aef8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404468167,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353884,
     "wof:name":"Montano Lucino",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":5340,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

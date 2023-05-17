@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Graniti",
+    "eurostat:nuts_2021_id":"083034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083034",
+    "eurostat:population":1455,
+    "eurostat:population_year":2020,
     "geom:area":0.001022,
-    "geom:area_square_m":9976736.997012,
+    "geom:area_square_m":9976736.997011,
     "geom:bbox":"15.1956677233,37.8601042759,15.2318165072,37.9206502899",
     "geom:latitude":37.889868,
     "geom:longitude":15.214669,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083034",
+        "eurostat:nuts_2021_id":"083034",
         "gn:id":6543644,
         "gp:id":12682585,
         "qs_pg:id":1143965
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72ab7709e00bc0dffa3e76f9a6d32360",
+    "wof:geomhash":"b27e31516d9bbee64c6746d864b6e3d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466261,
-    "wof:lastmodified":1582328190,
+    "wof:lastmodified":1684353845,
     "wof:name":"Graniti",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1455,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

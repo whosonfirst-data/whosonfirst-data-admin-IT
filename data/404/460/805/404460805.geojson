@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pesco Sannita",
+    "eurostat:nuts_2021_id":"062050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062050",
+    "eurostat:population":1922,
+    "eurostat:population_year":2020,
     "geom:area":0.002581,
-    "geom:area_square_m":24001474.0633,
+    "geom:area_square_m":24001474.063304,
     "geom:bbox":"14.789407881,41.1943479882,14.8616675745,41.2806816544",
     "geom:latitude":41.241865,
     "geom:longitude":14.824051,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062050",
+        "eurostat:nuts_2021_id":"062050",
         "gn:id":6537332,
         "gp:id":12681003,
         "qs_pg:id":498448
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f28f7e6bf56fc0ea2a72dbcfdcb81c8",
+    "wof:geomhash":"809563d0248751bc31fd5e5ca8caaadf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460805,
-    "wof:lastmodified":1582328004,
+    "wof:lastmodified":1684353725,
     "wof:name":"Pesco Sannita",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1922,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

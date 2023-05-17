@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ripalta Cremasca",
+    "eurostat:nuts_2021_id":"019081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019081",
+    "eurostat:population":3417,
+    "eurostat:population_year":2020,
     "geom:area":0.001353,
-    "geom:area_square_m":11762011.696914,
+    "geom:area_square_m":11762011.696912,
     "geom:bbox":"9.64920538408,45.3117645161,9.71783718781,45.3465226158",
     "geom:latitude":45.327824,
     "geom:longitude":9.682332,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019081",
+        "eurostat:nuts_2021_id":"019081",
         "gn:id":6536191,
         "gp:id":12681384,
         "qs_pg:id":333146
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc9c1b4f0ad00a00cd4017d003b24f86",
+    "wof:geomhash":"6d558fb89ea9c7b4be138e33fcaee14a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468987,
-    "wof:lastmodified":1582328091,
+    "wof:lastmodified":1684353897,
     "wof:name":"Ripalta Cremasca",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":3417,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

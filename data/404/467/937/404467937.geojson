@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alserio",
+    "eurostat:nuts_2021_id":"013006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013006",
+    "eurostat:population":1294,
+    "eurostat:population_year":2020,
     "geom:area":0.000231,
     "geom:area_square_m":1989071.690777,
     "geom:bbox":"9.19267184121,45.7726803747,9.21846215299,45.7887625829",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013006",
+        "eurostat:nuts_2021_id":"013006",
         "gn:id":6542912,
         "gp:id":20076068,
         "qs_pg:id":50460
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8afff4272d8510132305b37dc5533a2a",
+    "wof:geomhash":"cb3a41ac430c0a997f5225b5fc7710c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404467937,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353882,
     "wof:name":"Alserio",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1294,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

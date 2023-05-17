@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cellarengo",
+    "eurostat:nuts_2021_id":"005033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005033",
+    "eurostat:population":709,
+    "eurostat:population_year":2020,
     "geom:area":0.001236,
     "geom:area_square_m":10831579.41602,
     "geom:bbox":"7.88505621152,44.8463202321,7.9588824709,44.8970708392",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005033",
+        "eurostat:nuts_2021_id":"005033",
         "gn:id":6542387,
         "gp:id":20075838,
         "qs_pg:id":1016907
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c12c2a4573b2d3962dc5f374ccee5334",
+    "wof:geomhash":"12e6edc9dae22d0231a58c9f835596b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455985,
-    "wof:lastmodified":1582327815,
+    "wof:lastmodified":1684353614,
     "wof:name":"Cellarengo",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":709,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

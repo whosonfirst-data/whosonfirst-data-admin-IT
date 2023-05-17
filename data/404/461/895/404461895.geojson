@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Broccostella",
+    "eurostat:nuts_2021_id":"060015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060015",
+    "eurostat:population":2747,
+    "eurostat:population_year":2020,
     "geom:area":0.001272,
-    "geom:area_square_m":11743281.586981,
+    "geom:area_square_m":11743281.586986,
     "geom:bbox":"13.6172513762,41.6843471974,13.6810429702,41.7254428005",
     "geom:latitude":41.704618,
     "geom:longitude":13.649864,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060015",
+        "eurostat:nuts_2021_id":"060015",
         "gn:id":6542752,
         "gp:id":20076870,
         "qs_pg:id":1072191
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e18484bd9eb9cf30c93af9ee75fb96c",
+    "wof:geomhash":"f43ee4435e25fedf060b2670dc667856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461895,
-    "wof:lastmodified":1582328129,
+    "wof:lastmodified":1684353748,
     "wof:name":"Broccostella",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":2747,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

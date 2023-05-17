@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cossogno",
+    "eurostat:nuts_2021_id":"103023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103023",
+    "eurostat:population":672,
+    "eurostat:population_year":2020,
     "geom:area":0.004681,
-    "geom:area_square_m":40192010.020151,
+    "geom:area_square_m":40192010.020146,
     "geom:bbox":"8.41732166732,45.9587174226,8.52085783322,46.0606364166",
     "geom:latitude":46.018685,
     "geom:longitude":8.476546,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103023",
+        "eurostat:nuts_2021_id":"103023",
         "gn:id":6543704,
         "gp:id":12675977,
         "qs_pg:id":247740
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71108656f7c4318ce7ecd8be2cb9de28",
+    "wof:geomhash":"fb57441c134ae655ba9e02b72b2d43f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459477,
-    "wof:lastmodified":1582328157,
+    "wof:lastmodified":1684353694,
     "wof:name":"Cossogno",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":672,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

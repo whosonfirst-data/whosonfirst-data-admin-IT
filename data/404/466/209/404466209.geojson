@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caronia",
+    "eurostat:nuts_2021_id":"083011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083011",
+    "eurostat:population":3136,
+    "eurostat:population_year":2020,
     "geom:area":0.023188,
-    "geom:area_square_m":226023792.751426,
+    "geom:area_square_m":226023792.751435,
     "geom:bbox":"14.3860828465,37.8902309801,14.592541721,38.0583023554",
     "geom:latitude":37.973845,
     "geom:longitude":14.49155,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083011",
+        "eurostat:nuts_2021_id":"083011",
         "gn:id":6540828,
         "gp:id":12677715,
         "qs_pg:id":248779
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cd44cedc7dc77a4a32f7e31960370b5",
+    "wof:geomhash":"09db8e6f16f77f0e11a6e5d338f732ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466209,
-    "wof:lastmodified":1582328205,
+    "wof:lastmodified":1684353844,
     "wof:name":"Caronia",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":3136,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

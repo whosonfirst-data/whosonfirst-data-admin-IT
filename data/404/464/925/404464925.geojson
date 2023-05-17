@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altofonte",
+    "eurostat:nuts_2021_id":"082005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082005",
+    "eurostat:population":10015,
+    "eurostat:population_year":2020,
     "geom:area":0.003626,
-    "geom:area_square_m":35319902.755736,
+    "geom:area_square_m":35319902.755738,
     "geom:bbox":"13.2696113458,37.991926318,13.3585154722,38.0669861446",
     "geom:latitude":38.033433,
     "geom:longitude":13.319246,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082005",
+        "eurostat:nuts_2021_id":"082005",
         "gn:id":6537734,
         "gp:id":12676031,
         "qs_pg:id":1107987
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"675b3c3029dbeaba919dbd4d5ca6b4ae",
+    "wof:geomhash":"3121b40c3b367c8142c95c84aa9e6544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464925,
-    "wof:lastmodified":1582327799,
+    "wof:lastmodified":1684353821,
     "wof:name":"Altofonte",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":10015,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

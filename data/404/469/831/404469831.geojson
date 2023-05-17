@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaverla",
+    "eurostat:nuts_2021_id":"024118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024118",
+    "eurostat:population":6139,
+    "eurostat:population_year":2020,
     "geom:area":0.001822,
-    "geom:area_square_m":15749805.082555,
+    "geom:area_square_m":15749805.082554,
     "geom:bbox":"11.4520882422,45.6177045923,11.5335868505,45.6726719946",
     "geom:latitude":45.648283,
     "geom:longitude":11.498351,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024118",
+        "eurostat:nuts_2021_id":"024118",
         "gn:id":6536631,
         "gp:id":12682493,
         "qs_pg:id":1078594
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5154eeada83a30c10cc5e0abd573ea52",
+    "wof:geomhash":"a11f10e01e5598f4d04c86575bc49490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469831,
-    "wof:lastmodified":1582328039,
+    "wof:lastmodified":1684353911,
     "wof:name":"Villaverla",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":6139,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

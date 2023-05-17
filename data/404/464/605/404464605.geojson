@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Placanica",
+    "eurostat:nuts_2021_id":"080059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080059",
+    "eurostat:population":1111,
+    "eurostat:population_year":2020,
     "geom:area":0.003015,
-    "geom:area_square_m":29210939.407069,
+    "geom:area_square_m":29210939.407051,
     "geom:bbox":"16.4063375273,38.3840379909,16.4739869774,38.4633559664",
     "geom:latitude":38.424406,
     "geom:longitude":16.440026,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_080059",
+        "eurostat:nuts_2021_id":"080059"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"68c4a45b5e2d34de60b0ffbb877317fd",
+    "wof:geomhash":"195f3a088453bedb2ecccaae6db9eefd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464605,
-    "wof:lastmodified":1566723219,
+    "wof:lastmodified":1684353810,
     "wof:name":"Placanica",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":1111,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

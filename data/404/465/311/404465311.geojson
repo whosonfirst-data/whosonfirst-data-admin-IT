@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecalvo Irpino",
+    "eurostat:nuts_2021_id":"064052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064052",
+    "eurostat:population":3502,
+    "eurostat:population_year":2020,
     "geom:area":0.005766,
-    "geom:area_square_m":53642863.035577,
+    "geom:area_square_m":53642863.035582,
     "geom:bbox":"14.9570002357,41.1467584603,15.0821540741,41.2708878129",
     "geom:latitude":41.19991,
     "geom:longitude":15.027395,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064052",
+        "eurostat:nuts_2021_id":"064052",
         "gn:id":6540691,
         "gp:id":12680481,
         "qs_pg:id":41575
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5114b5dda89b7cab9c769612d7f8c14f",
+    "wof:geomhash":"d106fcb766bacb8eec9a4afe6b4336df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465311,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353829,
     "wof:name":"Montecalvo Irpino",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3502,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

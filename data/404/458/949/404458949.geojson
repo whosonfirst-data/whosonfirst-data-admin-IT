@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Nicandro Garganico",
+    "eurostat:nuts_2021_id":"071049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071049",
+    "eurostat:population":14778,
+    "eurostat:population_year":2020,
     "geom:area":0.01867,
-    "geom:area_square_m":171987413.615255,
+    "geom:area_square_m":171987413.61526,
     "geom:bbox":"15.4538345332,41.7249949032,15.6770679518,41.9289370438",
     "geom:latitude":41.843084,
     "geom:longitude":15.575176,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071049",
+        "eurostat:nuts_2021_id":"071049",
         "gn:id":6542195,
         "gp:id":12681795,
         "qs_pg:id":225385
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64fcb7acec91a0b99a38862bdfe36e8d",
+    "wof:geomhash":"bfa8b38e248ebdd99e4ae92578d29889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404458949,
-    "wof:lastmodified":1582327948,
+    "wof:lastmodified":1684353682,
     "wof:name":"San Nicandro Garganico",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":14778,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

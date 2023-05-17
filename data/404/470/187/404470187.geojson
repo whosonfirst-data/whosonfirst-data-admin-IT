@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stra",
+    "eurostat:nuts_2021_id":"027039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027039",
+    "eurostat:population":7666,
+    "eurostat:population_year":2020,
     "geom:area":0.001013,
-    "geom:area_square_m":8790567.561887,
+    "geom:area_square_m":8790567.561889,
     "geom:bbox":"11.9940090925,45.3965467971,12.0756778993,45.4250816829",
     "geom:latitude":45.410431,
     "geom:longitude":12.031205,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027039",
+        "eurostat:nuts_2021_id":"027039",
         "gn:id":6540393,
         "gp:id":12682100,
         "qs_pg:id":894464
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d67d5601912cd707617e5d3272aa817",
+    "wof:geomhash":"e31fea4abada33be6e569fd3713176f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470187,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353917,
     "wof:name":"Stra",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":7666,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

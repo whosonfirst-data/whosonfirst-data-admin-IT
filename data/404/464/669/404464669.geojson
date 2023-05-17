@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siderno",
+    "eurostat:nuts_2021_id":"080088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080088",
+    "eurostat:population":18127,
+    "eurostat:population_year":2020,
     "geom:area":0.003251,
-    "geom:area_square_m":31550154.155858,
+    "geom:area_square_m":31550154.155861,
     "geom:bbox":"16.2370370918,38.2498761711,16.320040777,38.3202066835",
     "geom:latitude":38.286388,
     "geom:longitude":16.275971,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080088",
+        "eurostat:nuts_2021_id":"080088",
         "gn:id":6540819,
         "gp:id":12677423,
         "qs_pg:id":1193656
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e905a07568b1c904afb992d5dd0af8d",
+    "wof:geomhash":"abf3b49d1edee2e6f6c5a0879e0697b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464669,
-    "wof:lastmodified":1582327796,
+    "wof:lastmodified":1684353813,
     "wof:name":"Siderno",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":18127,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

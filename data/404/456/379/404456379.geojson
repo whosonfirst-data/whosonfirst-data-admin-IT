@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colleretto Castelnuovo",
+    "eurostat:nuts_2021_id":"001091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001091",
+    "eurostat:population":302,
+    "eurostat:population_year":2020,
     "geom:area":0.000729,
-    "geom:area_square_m":6321336.166923,
+    "geom:area_square_m":6321336.166921,
     "geom:bbox":"7.644032143,45.4084701728,7.68588582664,45.4608634327",
     "geom:latitude":45.439226,
     "geom:longitude":7.66884,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001091",
+        "eurostat:nuts_2021_id":"001091",
         "gn:id":6543255,
         "gp:id":12678318,
         "qs_pg:id":40214
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b9da2511c7bd8f46dc6d828850c93038",
+    "wof:geomhash":"cdf43dd3e4013cca24330a946e89335c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456379,
-    "wof:lastmodified":1582328055,
+    "wof:lastmodified":1684353622,
     "wof:name":"Colleretto Castelnuovo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":302,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

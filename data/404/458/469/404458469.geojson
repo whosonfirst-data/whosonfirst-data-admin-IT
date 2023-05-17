@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portofino",
+    "eurostat:nuts_2021_id":"010044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010044",
+    "eurostat:population":377,
+    "eurostat:population_year":2020,
     "geom:area":0.000286,
-    "geom:area_square_m":2528187.848858,
+    "geom:area_square_m":2528187.848859,
     "geom:bbox":"9.18010702539,44.2984052277,9.21899325972,44.3221013765",
     "geom:latitude":44.309935,
     "geom:longitude":9.197308,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010044",
+        "eurostat:nuts_2021_id":"010044",
         "gn:id":6539777,
         "gp:id":12680988,
         "qs_pg:id":1102193
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"565303e271f9e3d02897f1f5ae90b25d",
+    "wof:geomhash":"2dd196cf96473d52beba168ab27cf226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404458469,
-    "wof:lastmodified":1582327957,
+    "wof:lastmodified":1684353670,
     "wof:name":"Portofino",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":377,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

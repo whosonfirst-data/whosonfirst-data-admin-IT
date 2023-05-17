@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marsciano",
+    "eurostat:nuts_2021_id":"054027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054027",
+    "eurostat:population":18503,
+    "eurostat:population_year":2020,
     "geom:area":0.017799,
-    "geom:area_square_m":161060269.444066,
+    "geom:area_square_m":161060269.444069,
     "geom:bbox":"12.2038011402,42.8778756022,12.4018932662,43.0442040337",
     "geom:latitude":42.962053,
     "geom:longitude":12.307581,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054027",
+        "eurostat:nuts_2021_id":"054027",
         "gn:id":6536874,
         "gp:id":20076775,
         "qs_pg:id":1198870
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e73ba018a7c191dfb74fb0953f0ed34",
+    "wof:geomhash":"cf272379df8167caf7c18697da47db8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458125,
-    "wof:lastmodified":1582327962,
+    "wof:lastmodified":1684353664,
     "wof:name":"Marsciano",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":18503,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

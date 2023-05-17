@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serra San Bruno",
+    "eurostat:nuts_2021_id":"102037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102037",
+    "eurostat:population":6549,
+    "eurostat:population_year":2020,
     "geom:area":0.004155,
-    "geom:area_square_m":40174025.639002,
+    "geom:area_square_m":40174025.639,
     "geom:bbox":"16.2628774181,38.5164490274,16.3732092427,38.5902079167",
     "geom:latitude":38.557061,
     "geom:longitude":16.321971,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102037",
+        "eurostat:nuts_2021_id":"102037"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"40a603690c0a9d178cbe1e0018a614b7",
+    "wof:geomhash":"36bf151a242250432e7098646eaeb733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464835,
-    "wof:lastmodified":1566723220,
+    "wof:lastmodified":1684353818,
     "wof:name":"Serra San Bruno",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":6549,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

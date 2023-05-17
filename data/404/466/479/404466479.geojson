@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Menfi",
+    "eurostat:nuts_2021_id":"084023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084023",
+    "eurostat:population":12262,
+    "eurostat:population_year":2020,
     "geom:area":0.011565,
-    "geom:area_square_m":113277074.344875,
+    "geom:area_square_m":113277074.344871,
     "geom:bbox":"12.8870058359,37.5381646586,13.0481127689,37.6769641272",
     "geom:latitude":37.612017,
     "geom:longitude":12.965933,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084023",
+        "eurostat:nuts_2021_id":"084023",
         "gn:id":6537780,
         "gp:id":12677916,
         "qs_pg:id":1309537
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dcd97920d8a1eca47fe26a5f6a0e8a6a",
+    "wof:geomhash":"d7463e65b9b17729c8e232f51a8ec844",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466479,
-    "wof:lastmodified":1582328188,
+    "wof:lastmodified":1684353850,
     "wof:name":"Menfi",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":12262,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

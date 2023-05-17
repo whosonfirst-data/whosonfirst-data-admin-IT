@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villasor",
+    "eurostat:nuts_2021_id":"111106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111106",
+    "eurostat:population":6851,
+    "eurostat:population_year":2020,
     "geom:area":0.009081,
-    "geom:area_square_m":86790047.637959,
+    "geom:area_square_m":86790047.637957,
     "geom:bbox":"8.78092700291,39.3344233945,9.00935045295,39.4219622347",
     "geom:latitude":39.383283,
     "geom:longitude":8.910874,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111106",
+        "eurostat:nuts_2021_id":"111106",
         "gn:id":6537922,
         "gp:id":12682488,
         "qs_pg:id":43057
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"55dd3e15b85deca600701d73925033a2",
+    "wof:geomhash":"f7aa774b50b7f631c8fc7b47cd06ada5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466923,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353862,
     "wof:name":"Villasor",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":6851,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

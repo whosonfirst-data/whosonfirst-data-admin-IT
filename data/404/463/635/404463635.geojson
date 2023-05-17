@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecchio Maggiore",
+    "eurostat:nuts_2021_id":"024061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024061",
+    "eurostat:population":23394,
+    "eurostat:population_year":2020,
     "geom:area":0.003516,
-    "geom:area_square_m":30468897.156776,
+    "geom:area_square_m":30468897.156772,
     "geom:bbox":"11.3748228307,45.4772502486,11.4579915624,45.563081771",
     "geom:latitude":45.513206,
     "geom:longitude":11.407753,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024061",
+        "eurostat:nuts_2021_id":"024061",
         "gn:id":6540214,
         "gp:id":12678980,
         "qs_pg:id":1292186
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8925c938901ebfa5ce19cec6011faa79",
+    "wof:geomhash":"287334daea0c6646f5f4f250a43aef0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463635,
-    "wof:lastmodified":1582327771,
+    "wof:lastmodified":1684353783,
     "wof:name":"Montecchio Maggiore",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":23394,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

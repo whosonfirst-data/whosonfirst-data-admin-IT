@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerro al Lambro",
+    "eurostat:nuts_2021_id":"015071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015071",
+    "eurostat:population":5101,
+    "eurostat:population_year":2020,
     "geom:area":0.001144,
-    "geom:area_square_m":9948702.125073,
+    "geom:area_square_m":9948702.12507,
     "geom:bbox":"9.29875156447,45.3121610366,9.35484873614,45.3527604722",
     "geom:latitude":45.331793,
     "geom:longitude":9.327618,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015071",
+        "eurostat:nuts_2021_id":"015071",
         "gn:id":6543741,
         "gp:id":12681786,
         "qs_pg:id":1275602
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f1b72b97db4280db057a8902df4f27ce",
+    "wof:geomhash":"530aa598df64f09452375f85f2e9d4d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468369,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353888,
     "wof:name":"Cerro Al Lambro",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":5101,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

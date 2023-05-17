@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bomarzo",
+    "eurostat:nuts_2021_id":"056009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056009",
+    "eurostat:population":1743,
+    "eurostat:population_year":2020,
     "geom:area":0.004338,
-    "geom:area_square_m":39545156.114717,
+    "geom:area_square_m":39545156.114719,
     "geom:bbox":"12.2001289723,42.4644694507,12.3074143443,42.5370014362",
     "geom:latitude":42.503978,
     "geom:longitude":12.250029,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056009",
+        "eurostat:nuts_2021_id":"056009",
         "gn:id":6536896,
         "gp:id":12676873,
         "qs_pg:id":1295721
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33ded117b0ef46f7c59637a7a981a4d0",
+    "wof:geomhash":"aaa788487941d11807a6366316e8bfd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461237,
-    "wof:lastmodified":1582328145,
+    "wof:lastmodified":1684353735,
     "wof:name":"Bomarzo",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":1743,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

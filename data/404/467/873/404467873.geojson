@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saltrio",
+    "eurostat:nuts_2021_id":"012117",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012117",
+    "eurostat:population":3083,
+    "eurostat:population_year":2020,
     "geom:area":0.000399,
-    "geom:area_square_m":3433624.085107,
+    "geom:area_square_m":3433624.085106,
     "geom:bbox":"8.91466918686,45.8618450831,8.93515266844,45.892045814",
     "geom:latitude":45.876798,
     "geom:longitude":8.924889,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012117",
+        "eurostat:nuts_2021_id":"012117",
         "gn:id":6542472,
         "gp:id":20076062,
         "qs_pg:id":50455
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"783150be0bf19e6ff9df941c391128b8",
+    "wof:geomhash":"027ffb91edd5453713a58d02e46a0c64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467873,
-    "wof:lastmodified":1582327970,
+    "wof:lastmodified":1684353881,
     "wof:name":"Saltrio",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":3083,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

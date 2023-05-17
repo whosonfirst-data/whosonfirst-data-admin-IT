@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cunardo",
+    "eurostat:nuts_2021_id":"012060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012060",
+    "eurostat:population":2991,
+    "eurostat:population_year":2020,
     "geom:area":0.000703,
     "geom:area_square_m":6049533.962972,
     "geom:bbox":"8.78259307063,45.9160782164,8.81948586156,45.950684117",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012060",
+        "eurostat:nuts_2021_id":"012060",
         "gn:id":6542904,
         "gp:id":12682619,
         "qs_pg:id":976996
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54d461fa57eb539c2bddf01ebf9bac9f",
+    "wof:geomhash":"4d66cb8498a2596223caf0f3713336e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467745,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353879,
     "wof:name":"Cunardo",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":2991,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

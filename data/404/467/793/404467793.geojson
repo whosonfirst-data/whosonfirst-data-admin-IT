@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grantola",
+    "eurostat:nuts_2021_id":"012081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012081",
+    "eurostat:population":1255,
+    "eurostat:population_year":2020,
     "geom:area":0.000238,
     "geom:area_square_m":2042388.406233,
     "geom:bbox":"8.76778266912,45.9355089632,8.80057761523,45.9547237816",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012081",
+        "eurostat:nuts_2021_id":"012081",
         "gn:id":6543092,
         "gp:id":20076048,
         "qs_pg:id":240480
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf36d7fa3106250a0574cce0ecbad74f",
+    "wof:geomhash":"5fc62db8438596be717af53134f3339e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467793,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353880,
     "wof:name":"Grantola",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":1255,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

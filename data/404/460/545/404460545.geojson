@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orani",
+    "eurostat:nuts_2021_id":"091061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091061",
+    "eurostat:population":2806,
+    "eurostat:population_year":2020,
     "geom:area":0.013823,
-    "geom:area_square_m":130399351.119201,
+    "geom:area_square_m":130399351.119198,
     "geom:bbox":"9.02630196086,40.2119685705,9.27905650538,40.3727829114",
     "geom:latitude":40.276528,
     "geom:longitude":9.172312,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091061",
+        "eurostat:nuts_2021_id":"091061",
         "gn:id":6537867,
         "gp:id":12680781,
         "qs_pg:id":1187958
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"418bb4c863149d6af99596f027e70f25",
+    "wof:geomhash":"e5d97503ad8ae85be362943d1201bb18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404460545,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353720,
     "wof:name":"Orani",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":2806,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

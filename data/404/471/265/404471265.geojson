@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pralboino",
+    "eurostat:nuts_2021_id":"017152",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017152",
+    "eurostat:population":2892,
+    "eurostat:population_year":2020,
     "geom:area":0.001969,
-    "geom:area_square_m":17134204.938528,
+    "geom:area_square_m":17134204.938526,
     "geom:bbox":"10.2057691735,45.2401651279,10.264504228,45.2876115764",
     "geom:latitude":45.264331,
     "geom:longitude":10.232774,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017152",
+        "eurostat:nuts_2021_id":"017152",
         "gn:id":6537178,
         "gp:id":12681265,
         "qs_pg:id":213034
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9087a4490470b5bdddbbd6f11d109546",
+    "wof:geomhash":"fae1df102dce97f393278b9347b745fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471265,
-    "wof:lastmodified":1582327729,
+    "wof:lastmodified":1684353937,
     "wof:name":"Pralboino",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2892,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

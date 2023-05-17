@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campora",
+    "eurostat:nuts_2021_id":"065023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065023",
+    "eurostat:population":368,
+    "eurostat:population_year":2020,
     "geom:area":0.003069,
-    "geom:area_square_m":28940254.140927,
+    "geom:area_square_m":28940254.140937,
     "geom:bbox":"15.2738452657,40.266059054,15.3561113728,40.3371636464",
     "geom:latitude":40.295075,
     "geom:longitude":15.309654,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065023",
+        "eurostat:nuts_2021_id":"065023",
         "gn:id":6541179,
         "gp:id":12677467,
         "qs_pg:id":39682
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d6d775388fbc43db6bfaf93e2ba1ab0",
+    "wof:geomhash":"3cf5233af3bea806544e805eb885f2b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465513,
-    "wof:lastmodified":1582327846,
+    "wof:lastmodified":1684353833,
     "wof:name":"Campora",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":368,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

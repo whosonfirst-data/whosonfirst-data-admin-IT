@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cuneo",
+    "eurostat:nuts_2021_id":"004078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004078",
+    "eurostat:population":56203,
+    "eurostat:population_year":2020,
     "geom:area":0.013529,
-    "geom:area_square_m":119485644.816082,
+    "geom:area_square_m":119485644.816083,
     "geom:bbox":"7.47457426798,44.3472765018,7.64071196195,44.4899221889",
     "geom:latitude":44.416331,
     "geom:longitude":7.552778,
@@ -227,6 +239,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -235,6 +249,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004078",
+        "eurostat:nuts_2021_id":"004078",
         "gn:id":6541864,
         "gp:id":12678864,
         "qs_pg:id":1292170
@@ -243,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"620784033eaa8f3ba8e3dca7173ffce0",
+    "wof:geomhash":"ab86c3e519c8647b526eabc111499ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,10 +270,12 @@
         }
     ],
     "wof:id":404455523,
-    "wof:lastmodified":1582327823,
+    "wof:lastmodified":1684353605,
     "wof:name":"Cuneo",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":56203,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

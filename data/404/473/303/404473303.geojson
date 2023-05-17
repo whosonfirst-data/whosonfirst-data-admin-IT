@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Valle/Wengen",
+    "eurostat:nuts_2021_id":"021117",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021117",
+    "eurostat:population":1398,
+    "eurostat:population_year":2020,
     "geom:area":0.004571,
-    "geom:area_square_m":38802194.690034,
+    "geom:area_square_m":38802194.690029,
     "geom:bbox":"11.8815873697,46.6144171015,12.0040184399,46.6895903045",
     "geom:latitude":46.649127,
     "geom:longitude":11.939087,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021117",
+        "eurostat:nuts_2021_id":"021117",
         "gp:id":12680020,
         "qs_pg:id":247920
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8d97ede6e09c9d81c178f1405da3dd9",
+    "wof:geomhash":"70eab484e064ec95eeaa967204a7b7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473303,
-    "wof:lastmodified":1582327923,
+    "wof:lastmodified":1684353986,
     "wof:name":"La Valle",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1398,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

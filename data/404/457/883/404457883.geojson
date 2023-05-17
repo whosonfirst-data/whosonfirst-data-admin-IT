@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belvedere Langhe",
+    "eurostat:nuts_2021_id":"004018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004018",
+    "eurostat:population":352,
+    "eurostat:population_year":2020,
     "geom:area":0.000566,
     "geom:area_square_m":4996029.291119,
     "geom:bbox":"7.96182826402,44.4825022231,7.9974331594,44.516780738",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004018",
+        "eurostat:nuts_2021_id":"004018",
         "gn:id":6538142,
         "gp:id":12676698,
         "qs_pg:id":498383
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1fe723fffa1b326b67808a9a369456da",
+    "wof:geomhash":"66f822e39215ea6587129dc54effe262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457883,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353659,
     "wof:name":"Belvedere Langhe",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":352,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

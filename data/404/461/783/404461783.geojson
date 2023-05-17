@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Cesareo",
+    "eurostat:nuts_2021_id":"058119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058119",
+    "eurostat:population":16092,
+    "eurostat:population_year":2020,
     "geom:area":0.002558,
-    "geom:area_square_m":23571504.895619,
+    "geom:area_square_m":23571504.895621,
     "geom:bbox":"12.7389590756,41.8006467537,12.8324927845,41.8631542126",
     "geom:latitude":41.826755,
     "geom:longitude":12.785681,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058119",
+        "eurostat:nuts_2021_id":"058119",
         "gn:id":6541134,
         "gp:id":20076910,
         "qs_pg:id":193242
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad488360840134177014a698e3c3504e",
+    "wof:geomhash":"857d36c50985bea3296ca5e1de68b176",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461783,
-    "wof:lastmodified":1582328135,
+    "wof:lastmodified":1684353746,
     "wof:name":"San Cesareo",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":16092,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauregno/Laurein",
+    "eurostat:nuts_2021_id":"021043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021043",
+    "eurostat:population":338,
+    "eurostat:population_year":2020,
     "geom:area":0.001627,
-    "geom:area_square_m":13852945.676278,
+    "geom:area_square_m":13852945.676268,
     "geom:bbox":"11.0217627268,46.4414850645,11.076333405,46.5177485316",
     "geom:latitude":46.475169,
     "geom:longitude":11.051072,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021043",
+        "eurostat:nuts_2021_id":"021043"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f6809a2cc74b20635506dd956e263ff3",
+    "wof:geomhash":"d9abbc1b39cf928aa98d357737b5ba14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473141,
-    "wof:lastmodified":1566723419,
+    "wof:lastmodified":1684353980,
     "wof:name":"Lauregno",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acerra",
+    "eurostat:nuts_2021_id":"063001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063001",
+    "eurostat:population":59525,
+    "eurostat:population_year":2020,
     "geom:area":0.005828,
-    "geom:area_square_m":54414028.596279,
+    "geom:area_square_m":54414028.596275,
     "geom:bbox":"14.3350923182,40.9210713181,14.4546799272,41.0023392956",
     "geom:latitude":40.965702,
     "geom:longitude":14.387528,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063001",
+        "eurostat:nuts_2021_id":"063001",
         "gn:id":6537337,
         "gp:id":12675736,
         "qs_pg:id":1078427
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59b841198f36ddcacbf9f462408150f0",
+    "wof:geomhash":"8587160c439da0e038e28f23333c6c45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404460869,
-    "wof:lastmodified":1582328003,
+    "wof:lastmodified":1684353726,
     "wof:name":"Acerra",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":59525,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

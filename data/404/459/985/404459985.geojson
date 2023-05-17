@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alice Bel Colle",
+    "eurostat:nuts_2021_id":"006005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006005",
+    "eurostat:population":732,
+    "eurostat:population_year":2020,
     "geom:area":0.001388,
-    "geom:area_square_m":12197158.061315,
+    "geom:area_square_m":12197158.061314,
     "geom:bbox":"8.42146680043,44.7015096336,8.50323507468,44.7719065705",
     "geom:latitude":44.723513,
     "geom:longitude":8.453111,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006005",
+        "eurostat:nuts_2021_id":"006005",
         "gn:id":6542853,
         "gp:id":20075883,
         "qs_pg:id":1311199
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"399ee6720ac6eb997da27aa3ba8d601b",
+    "wof:geomhash":"c36b418908ff07152a438e4b6131c82a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459985,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353706,
     "wof:name":"Alice Bel Colle",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":732,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

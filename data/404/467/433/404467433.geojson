@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cadegliano-Viconago",
+    "eurostat:nuts_2021_id":"012027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012027",
+    "eurostat:population":2212,
+    "eurostat:population_year":2020,
     "geom:area":0.001193,
-    "geom:area_square_m":10255624.403224,
+    "geom:area_square_m":10255624.403222,
     "geom:bbox":"8.80283619079,45.9402129352,8.86040948649,45.9881330406",
     "geom:latitude":45.967515,
     "geom:longitude":8.832299,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012027",
+        "eurostat:nuts_2021_id":"012027",
         "gn:id":6535992,
         "gp:id":12682620,
         "qs_pg:id":204325
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1733b8c3635370357a9ece57f48e8633",
+    "wof:geomhash":"d33948d4f2ed6e14a0d85ee9c2f0698d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404467433,
-    "wof:lastmodified":1582327987,
+    "wof:lastmodified":1684353874,
     "wof:name":"Cadegliano-Viconago",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":2212,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

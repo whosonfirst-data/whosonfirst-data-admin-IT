@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Careggine",
+    "eurostat:nuts_2021_id":"046008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046008",
+    "eurostat:population":533,
+    "eurostat:population_year":2020,
     "geom:area":0.002708,
-    "geom:area_square_m":24047188.824982,
+    "geom:area_square_m":24047188.824979,
     "geom:bbox":"10.2853155451,44.060285252,10.3453897601,44.1382767551",
     "geom:latitude":44.096635,
     "geom:longitude":10.32081,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046008",
+        "eurostat:nuts_2021_id":"046008",
         "gn:id":6543594,
         "gp:id":12679168,
         "qs_pg:id":247895
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f1684eb5c7513d15a2803997ba7561c5",
+    "wof:geomhash":"92c3b4f13aa0f6b0f90d08c85cdbc498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472625,
-    "wof:lastmodified":1582327898,
+    "wof:lastmodified":1684353966,
     "wof:name":"Careggine",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":533,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

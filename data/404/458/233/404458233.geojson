@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Nazzaro Val Cavargna",
+    "eurostat:nuts_2021_id":"013207",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013207",
+    "eurostat:population":290,
+    "eurostat:population_year":2020,
     "geom:area":0.001513,
-    "geom:area_square_m":12972213.96529,
+    "geom:area_square_m":12972213.965291,
     "geom:bbox":"9.11537404661,46.0714175293,9.15762499243,46.1354378811",
     "geom:latitude":46.106461,
     "geom:longitude":9.131783,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013207",
+        "eurostat:nuts_2021_id":"013207",
         "gn:id":6542516,
         "gp:id":12680566,
         "qs_pg:id":1026182
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e4bd8a922e2508952000685210f6699",
+    "wof:geomhash":"d585b97b6ee0f502a02af14959035128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404458233,
-    "wof:lastmodified":1582327946,
+    "wof:lastmodified":1684353666,
     "wof:name":"San Nazzaro Val Cavargna",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":290,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

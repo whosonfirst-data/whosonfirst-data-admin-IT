@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallelunga Pratameno",
+    "eurostat:nuts_2021_id":"085021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085021",
+    "eurostat:population":3331,
+    "eurostat:population_year":2020,
     "geom:area":0.004008,
-    "geom:area_square_m":39213969.798979,
+    "geom:area_square_m":39213969.79898,
     "geom:bbox":"13.7324429685,37.6716790338,13.8832272174,37.7451060002",
     "geom:latitude":37.698585,
     "geom:longitude":13.803138,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085021",
+        "eurostat:nuts_2021_id":"085021",
         "gn:id":6539184,
         "gp:id":12682350,
         "qs_pg:id":1078583
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9255c82426cf7de3c3e6ce15eaa6cbeb",
+    "wof:geomhash":"36fdf4f21b3f37c6ed0e743d97537024",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466571,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353852,
     "wof:name":"Vallelunga Pratameno",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":3331,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

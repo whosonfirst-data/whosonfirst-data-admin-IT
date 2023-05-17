@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masera",
+    "eurostat:nuts_2021_id":"103042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103042",
+    "eurostat:population":1457,
+    "eurostat:population_year":2020,
     "geom:area":0.002372,
-    "geom:area_square_m":20319694.391239,
+    "geom:area_square_m":20319694.391241,
     "geom:bbox":"8.30137649432,46.1155287495,8.42846442805,46.179955416",
     "geom:latitude":46.143894,
     "geom:longitude":8.353682,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103042",
+        "eurostat:nuts_2021_id":"103042",
         "gn:id":6540968,
         "gp:id":12680219,
         "qs_pg:id":961713
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3001653fafb6295cafda1f0c9754a89b",
+    "wof:geomhash":"c6b4b269d8828c222851a7cc23e9bd3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459519,
-    "wof:lastmodified":1582328163,
+    "wof:lastmodified":1684353695,
     "wof:name":"Masera",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":1457,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paciano",
+    "eurostat:nuts_2021_id":"054036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054036",
+    "eurostat:population":968,
+    "eurostat:population_year":2020,
     "geom:area":0.001866,
-    "geom:area_square_m":16865077.643851,
+    "geom:area_square_m":16865077.643856,
     "geom:bbox":"12.023183402,43.0038079488,12.0871970532,43.0505946073",
     "geom:latitude":43.027167,
     "geom:longitude":12.056778,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054036",
+        "eurostat:nuts_2021_id":"054036",
         "gn:id":6536877,
         "gp:id":12680073,
         "qs_pg:id":41306
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d3f384d69d094ad81e9d5a839832b27",
+    "wof:geomhash":"dd5bb6e0bf4bf044d54064e6dd0cbf1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458145,
-    "wof:lastmodified":1582327946,
+    "wof:lastmodified":1684353665,
     "wof:name":"Paciano",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":968,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

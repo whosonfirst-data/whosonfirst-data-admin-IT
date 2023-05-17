@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrega Ligure",
+    "eurostat:nuts_2021_id":"006034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006034",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.00627,
     "geom:area_square_m":55186005.428704,
     "geom:bbox":"9.10219957755,44.5735309909,9.2052889119,44.6682616656",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006034",
+        "eurostat:nuts_2021_id":"006034",
         "gn:id":6543515,
         "gp:id":12676716,
         "qs_pg:id":946799
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c0ec6e95a230102d81a4401fae6519a",
+    "wof:geomhash":"4ed058f567dddbf32e3dabac4860ba04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460051,
-    "wof:lastmodified":1582328018,
+    "wof:lastmodified":1684353708,
     "wof:name":"Carrega Ligure",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

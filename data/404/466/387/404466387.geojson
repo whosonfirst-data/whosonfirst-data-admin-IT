@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Teodoro",
+    "eurostat:nuts_2021_id":"083090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083090",
+    "eurostat:population":1313,
+    "eurostat:population_year":2020,
     "geom:area":0.001423,
-    "geom:area_square_m":13892219.399962,
+    "geom:area_square_m":13892219.39996,
     "geom:bbox":"14.6773154563,37.8052321254,14.7201212951,37.8707164032",
     "geom:latitude":37.835106,
     "geom:longitude":14.694432,
@@ -116,6 +128,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -124,6 +138,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083090",
+        "eurostat:nuts_2021_id":"083090",
         "gn:id":6540058,
         "gp:id":20077049,
         "qs_pg:id":1009428
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c06bd5fe5d1fd41314b2b4cfbe9bfff",
+    "wof:geomhash":"de0afd5f469ad8cfba50edf8eab675de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404466387,
-    "wof:lastmodified":1582328210,
+    "wof:lastmodified":1684353848,
     "wof:name":"San Teodoro",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1313,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

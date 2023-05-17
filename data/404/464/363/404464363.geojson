@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gizzeria",
+    "eurostat:nuts_2021_id":"079060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079060",
+    "eurostat:population":5240,
+    "eurostat:population_year":2020,
     "geom:area":0.003832,
-    "geom:area_square_m":36841719.831724,
+    "geom:area_square_m":36841719.831719,
     "geom:bbox":"16.1478023965,38.9259958807,16.2348088057,39.0098706457",
     "geom:latitude":38.965653,
     "geom:longitude":16.196413,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079060",
+        "eurostat:nuts_2021_id":"079060"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"726b34b87630c3db3c452835ec138a70",
+    "wof:geomhash":"c75dcc8eb605b59b0a522f8bed13f301",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464363,
-    "wof:lastmodified":1566723212,
+    "wof:lastmodified":1684353804,
     "wof:name":"Gizzeria",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":5240,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

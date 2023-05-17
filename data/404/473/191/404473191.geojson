@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte Gardena/Waidbruck",
+    "eurostat:nuts_2021_id":"021065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021065",
+    "eurostat:population":191,
+    "eurostat:population_year":2020,
     "geom:area":0.000273,
-    "geom:area_square_m":2322039.713952,
+    "geom:area_square_m":2322039.713953,
     "geom:bbox":"11.5229735951,46.5799449831,11.5615666232,46.5993992564",
     "geom:latitude":46.592146,
     "geom:longitude":11.538037,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021065",
+        "eurostat:nuts_2021_id":"021065",
         "gp:id":12681207,
         "qs_pg:id":1004070
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"214044a70b8268e107d4730fd89db623",
+    "wof:geomhash":"09444fdd510b626fdcaac77521f76c11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473191,
-    "wof:lastmodified":1582327923,
+    "wof:lastmodified":1684353982,
     "wof:name":"Ponte Gardena",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

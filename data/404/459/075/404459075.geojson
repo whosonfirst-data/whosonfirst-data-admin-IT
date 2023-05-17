@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Lorenzo Isontino",
+    "eurostat:nuts_2021_id":"031020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031020",
+    "eurostat:population":1536,
+    "eurostat:population_year":2020,
     "geom:area":0.000509,
     "geom:area_square_m":4381214.833845,
     "geom:bbox":"13.5074204753,45.919095975,13.5402536241,45.9533858648",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031020",
+        "eurostat:nuts_2021_id":"031020",
         "gn:id":6538405,
         "gp:id":20076735,
         "qs_pg:id":334868
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d436d3b250846976cd0ef889a6fe7fe8",
+    "wof:geomhash":"a444ea50f21b433fb7c00614a3018741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459075,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353685,
     "wof:name":"San Lorenzo Isontino",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":1536,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

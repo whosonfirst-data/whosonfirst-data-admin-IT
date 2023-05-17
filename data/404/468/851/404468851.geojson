@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casaletto Vaprio",
+    "eurostat:nuts_2021_id":"019020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019020",
+    "eurostat:population":1837,
+    "eurostat:population_year":2020,
     "geom:area":0.000621,
-    "geom:area_square_m":5393766.69505,
+    "geom:area_square_m":5393766.695049,
     "geom:bbox":"9.61828187885,45.3979095649,9.66629111914,45.4225252119",
     "geom:latitude":45.40996,
     "geom:longitude":9.642219,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019020",
+        "eurostat:nuts_2021_id":"019020",
         "gn:id":6542972,
         "gp:id":20076346,
         "qs_pg:id":324267
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e71e473a1220dd7a51a105a5522cba28",
+    "wof:geomhash":"df0e6e713dfe3523a774fd143b7125da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404468851,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353895,
     "wof:name":"Casaletto Vaprio",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1837,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

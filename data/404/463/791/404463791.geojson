@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pratovecchio Stia",
+    "eurostat:nuts_2021_id":"051041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051041",
+    "eurostat:population":5580,
+    "eurostat:population_year":2020,
     "geom:area":0.007025,
-    "geom:area_square_m":62652852.829297,
+    "geom:area_square_m":62652852.829305,
     "geom:bbox":"11.623368073,43.7886696035,11.759808896,43.8779663728",
     "geom:latitude":43.838446,
     "geom:longitude":11.692975,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051041",
+        "eurostat:nuts_2021_id":"051041",
         "gn:id":6538593,
         "gp:id":20076766,
         "qs_pg:id":202147
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ecd03103ccc1d8c2f79887305ae3d8f3",
+    "wof:geomhash":"80492547f138836f2cd80f274eea6d54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463791,
-    "wof:lastmodified":1582327762,
+    "wof:lastmodified":1684353786,
     "wof:name":"Stia",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":5580,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

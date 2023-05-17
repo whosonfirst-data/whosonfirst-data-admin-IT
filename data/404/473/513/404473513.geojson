@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isera",
+    "eurostat:nuts_2021_id":"022098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022098",
+    "eurostat:population":2765,
+    "eurostat:population_year":2020,
     "geom:area":0.001634,
-    "geom:area_square_m":14061811.57532,
+    "geom:area_square_m":14061811.575318,
     "geom:bbox":"10.9777123379,45.8667299007,11.0252913726,45.9218731157",
     "geom:latitude":45.893065,
     "geom:longitude":10.997353,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022098",
+        "eurostat:nuts_2021_id":"022098",
         "gn:id":6542983,
         "gp:id":12676961,
         "qs_pg:id":1142826
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16e878189eca7c1bb08c084e6285ec0e",
+    "wof:geomhash":"acb261fdac10930f2415f2b6645c61f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473513,
-    "wof:lastmodified":1582327933,
+    "wof:lastmodified":1684353990,
     "wof:name":"Isera",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":2765,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cinisello Balsamo",
+    "eurostat:nuts_2021_id":"015077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015077",
+    "eurostat:population":76264,
+    "eurostat:population_year":2020,
     "geom:area":0.001467,
-    "geom:area_square_m":12705186.089176,
+    "geom:area_square_m":12705186.089177,
     "geom:bbox":"9.19193823709,45.5355021485,9.25578999835,45.5792588886",
     "geom:latitude":45.557309,
     "geom:longitude":9.218217,
@@ -170,6 +182,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -177,9 +191,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_015077",
+        "eurostat:nuts_2021_id":"015077"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f034e9c5338a11d699648ef7d41e9d45",
+    "wof:geomhash":"6e6e692ba46697683e1e052d028af350",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,10 +207,12 @@
         }
     ],
     "wof:id":404468377,
-    "wof:lastmodified":1566723624,
+    "wof:lastmodified":1684353888,
     "wof:name":"Cinisello Balsamo",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":76264,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

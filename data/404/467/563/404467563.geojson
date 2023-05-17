@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fidenza",
+    "eurostat:nuts_2021_id":"034014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034014",
+    "eurostat:population":27204,
+    "eurostat:population_year":2020,
     "geom:area":0.010836,
-    "geom:area_square_m":94975710.534552,
+    "geom:area_square_m":94975710.534539,
     "geom:bbox":"9.98330929744,44.7716476425,10.1092053716,44.9388901741",
     "geom:latitude":44.862078,
     "geom:longitude":10.055957,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034014",
+        "eurostat:nuts_2021_id":"034014",
         "gn:id":6540408,
         "gp:id":12678368,
         "qs_pg:id":1059622
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cec67fd13c764f724d971700119af878",
+    "wof:geomhash":"06b4efe0afbe10898fe5451a85b15262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404467563,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353876,
     "wof:name":"Fidenza",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":27204,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

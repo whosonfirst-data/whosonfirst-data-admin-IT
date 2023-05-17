@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Longobucco",
+    "eurostat:nuts_2021_id":"078068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078068",
+    "eurostat:population":2875,
+    "eurostat:population_year":2020,
     "geom:area":0.021996,
-    "geom:area_square_m":210016086.761737,
+    "geom:area_square_m":210016086.761706,
     "geom:bbox":"16.5015051785,39.3685550042,16.7498645994,39.5364307843",
     "geom:latitude":39.451583,
     "geom:longitude":16.608178,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078068",
+        "eurostat:nuts_2021_id":"078068"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8b8d8d3516b40926cf4ad850013b2a9a",
+    "wof:geomhash":"6e45bbea04c64ddb096c2c4f04405a04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464197,
-    "wof:lastmodified":1566723231,
+    "wof:lastmodified":1684353799,
     "wof:name":"Longobucco",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2875,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

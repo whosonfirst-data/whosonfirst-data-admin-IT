@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fabrizia",
+    "eurostat:nuts_2021_id":"102010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102010",
+    "eurostat:population":2078,
+    "eurostat:population_year":2020,
     "geom:area":0.004092,
-    "geom:area_square_m":39613407.237859,
+    "geom:area_square_m":39613407.237844,
     "geom:bbox":"16.2422074275,38.4392435383,16.339083638,38.5083360801",
     "geom:latitude":38.476019,
     "geom:longitude":16.290043,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102010",
+        "eurostat:nuts_2021_id":"102010"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6d5aa664b9446001a2345e0c595ff965",
+    "wof:geomhash":"f1612d5ef20c66d4675127c0f2271922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464773,
-    "wof:lastmodified":1566723248,
+    "wof:lastmodified":1684353816,
     "wof:name":"Fabrizia",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":2078,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cenate Sotto",
+    "eurostat:nuts_2021_id":"016069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016069",
+    "eurostat:population":3904,
+    "eurostat:population_year":2020,
     "geom:area":0.000534,
     "geom:area_square_m":4609217.401232,
     "geom:bbox":"9.79439099908,45.6848657161,9.83313629118,45.7154285592",
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016069",
+        "eurostat:nuts_2021_id":"016069",
         "gn:id":6542556,
         "gp:id":20076169,
         "qs_pg:id":1061644
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"400a34696fa5fab3c490c579f6d64531",
+    "wof:geomhash":"d0ecbe39c8a2e7c0307fa2b6972dd1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404465857,
-    "wof:lastmodified":1582327831,
+    "wof:lastmodified":1684353839,
     "wof:name":"Cenate Sotto",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":3904,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

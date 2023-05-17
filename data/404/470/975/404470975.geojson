@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Botticino",
+    "eurostat:nuts_2021_id":"017023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017023",
+    "eurostat:population":10847,
+    "eurostat:population_year":2020,
     "geom:area":0.002131,
-    "geom:area_square_m":18450488.930331,
+    "geom:area_square_m":18450488.930338,
     "geom:bbox":"10.2838168071,45.5192232721,10.3432405149,45.580291058",
     "geom:latitude":45.550006,
     "geom:longitude":10.314099,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017023",
+        "eurostat:nuts_2021_id":"017023",
         "gn:id":6536550,
         "gp:id":12677039,
         "qs_pg:id":1108162
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b4c8f8e465419331b5fef71b64e4464",
+    "wof:geomhash":"388832f7a5efddc34ac5caf873a0f2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470975,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353931,
     "wof:name":"Botticino",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":10847,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

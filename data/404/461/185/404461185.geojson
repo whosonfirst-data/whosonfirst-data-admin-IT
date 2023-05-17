@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Vidon Corrado",
+    "eurostat:nuts_2021_id":"109026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109026",
+    "eurostat:population":697,
+    "eurostat:population_year":2020,
     "geom:area":0.000656,
-    "geom:area_square_m":5924156.163813,
+    "geom:area_square_m":5924156.163812,
     "geom:bbox":"13.4604934346,43.1074643239,13.5065646412,43.135813303",
     "geom:latitude":43.120704,
     "geom:longitude":13.485612,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109026",
+        "eurostat:nuts_2021_id":"109026",
         "gn:id":6538543,
         "gp:id":12680476,
         "qs_pg:id":41556
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd18593773508e316bfa7ae82324752b",
+    "wof:geomhash":"5f6c535649caa982fb99b4a6febc0509",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461185,
-    "wof:lastmodified":1582328151,
+    "wof:lastmodified":1684353734,
     "wof:name":"Monte Vidon Corrado",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":697,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

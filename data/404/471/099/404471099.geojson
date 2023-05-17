@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ghedi",
+    "eurostat:nuts_2021_id":"017078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017078",
+    "eurostat:population":18630,
+    "eurostat:population_year":2020,
     "geom:area":0.006996,
-    "geom:area_square_m":60737790.602007,
+    "geom:area_square_m":60737790.602001,
     "geom:bbox":"10.2201438478,45.3259404969,10.3207737542,45.4625928582",
     "geom:latitude":45.399964,
     "geom:longitude":10.278799,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017078",
+        "eurostat:nuts_2021_id":"017078",
         "gn:id":6536179,
         "gp:id":12679549,
         "qs_pg:id":1292190
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eae51cb5b0946b0aa06932a5c325ca38",
+    "wof:geomhash":"083fa79182588617b048c538483ceae3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471099,
-    "wof:lastmodified":1582327717,
+    "wof:lastmodified":1684353933,
     "wof:name":"Ghedi",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":18630,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

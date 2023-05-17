@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tromello",
+    "eurostat:nuts_2021_id":"018164",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018164",
+    "eurostat:population":3736,
+    "eurostat:population_year":2020,
     "geom:area":0.004069,
     "geom:area_square_m":35448612.96163,
     "geom:bbox":"8.79854659875,45.1709542117,8.90218441079,45.2375049141",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018164",
+        "eurostat:nuts_2021_id":"018164",
         "gn:id":6540210,
         "gp:id":12682282,
         "qs_pg:id":303343
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97b2ffee6a7521076d1130553dfdc20c",
+    "wof:geomhash":"d65eff6bbe82ddacda02cecdadf821c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468747,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353894,
     "wof:name":"Tromello",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":3736,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

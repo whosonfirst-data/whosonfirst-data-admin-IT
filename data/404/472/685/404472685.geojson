@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Basilica",
+    "eurostat:nuts_2021_id":"046034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046034",
+    "eurostat:population":1540,
+    "eurostat:population_year":2020,
     "geom:area":0.004101,
-    "geom:area_square_m":36509647.623726,
+    "geom:area_square_m":36509647.623729,
     "geom:bbox":"10.5915781851,43.9111210976,10.6750731856,43.9865862698",
     "geom:latitude":43.949211,
     "geom:longitude":10.637592,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046034",
+        "eurostat:nuts_2021_id":"046034",
         "gn:id":6541083,
         "gp:id":12680931,
         "qs_pg:id":41931
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7758cd7fcfbb751bf7a8cfed71587da4",
+    "wof:geomhash":"bfe73c0531013ff166a3c4fb6630d2f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472685,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353967,
     "wof:name":"Villa Basilica",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":1540,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

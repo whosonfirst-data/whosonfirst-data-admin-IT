@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamezia Terme",
+    "eurostat:nuts_2021_id":"079160",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079160",
+    "eurostat:population":70187,
+    "eurostat:population_year":2020,
     "geom:area":0.016724,
-    "geom:area_square_m":160852902.068882,
+    "geom:area_square_m":160852902.068839,
     "geom:bbox":"16.2152382036,38.8481772678,16.3680371761,39.0241915104",
     "geom:latitude":38.937866,
     "geom:longitude":16.277592,
@@ -179,6 +191,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -186,9 +200,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079160",
+        "eurostat:nuts_2021_id":"079160"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c4d2430ab0b74d68bc1b56542591dfe2",
+    "wof:geomhash":"6ba0b2465c999bb476cf6f8f164a758f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,10 +216,12 @@
         }
     ],
     "wof:id":404464471,
-    "wof:lastmodified":1566723213,
+    "wof:lastmodified":1684353807,
     "wof:name":"Lamezia Terme",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":70187,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

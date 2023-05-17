@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marmora",
+    "eurostat:nuts_2021_id":"004119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004119",
+    "eurostat:population":60,
+    "eurostat:population_year":2020,
     "geom:area":0.00465,
-    "geom:area_square_m":41053279.07626,
+    "geom:area_square_m":41053279.076259,
     "geom:bbox":"7.08070189751,44.386064029,7.1624081318,44.4926211933",
     "geom:latitude":44.435643,
     "geom:longitude":7.115067,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004119",
+        "eurostat:nuts_2021_id":"004119",
         "gn:id":6543450,
         "gp:id":12677111,
         "qs_pg:id":209016
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"114e3ec624dd266858e7bba650e25532",
+    "wof:geomhash":"4c747eb70a6dba55f072f7ffff59f273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404455615,
-    "wof:lastmodified":1582327819,
+    "wof:lastmodified":1684353607,
     "wof:name":"Marmora",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

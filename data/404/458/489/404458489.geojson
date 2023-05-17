@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Colombano Certenoli",
+    "eurostat:nuts_2021_id":"010053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010053",
+    "eurostat:population":2618,
+    "eurostat:population_year":2020,
     "geom:area":0.0047,
-    "geom:area_square_m":41524355.155372,
+    "geom:area_square_m":41524355.155373,
     "geom:bbox":"9.26981945088,44.3558866537,9.36586762676,44.4385468025",
     "geom:latitude":44.39359,
     "geom:longitude":9.322322,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010053",
+        "eurostat:nuts_2021_id":"010053",
         "gn:id":6542130,
         "gp:id":12676354,
         "qs_pg:id":1160693
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05aeba5d730dfde376d37006d0a6e04b",
+    "wof:geomhash":"61bf5ddddb7e770d870a60b384b49d73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458489,
-    "wof:lastmodified":1582327956,
+    "wof:lastmodified":1684353671,
     "wof:name":"San Colombano Certenoli",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2618,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

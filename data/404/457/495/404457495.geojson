@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carisio",
+    "eurostat:nuts_2021_id":"002032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002032",
+    "eurostat:population":775,
+    "eurostat:population_year":2020,
     "geom:area":0.003464,
-    "geom:area_square_m":30060045.372004,
+    "geom:area_square_m":30060045.371999,
     "geom:bbox":"8.16139961602,45.3955623787,8.24951534346,45.4563456677",
     "geom:latitude":45.42486,
     "geom:longitude":8.206191,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002032",
+        "eurostat:nuts_2021_id":"002032",
         "gn:id":6539535,
         "gp:id":12677694,
         "qs_pg:id":215807
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc46da6a04cd75c6fc3feffba0b34556",
+    "wof:geomhash":"5e57dcd3caa2f014ce6dfef89fe8e4ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457495,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353651,
     "wof:name":"Carisio",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":775,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

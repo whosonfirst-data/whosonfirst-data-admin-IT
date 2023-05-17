@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varese Ligure",
+    "eurostat:nuts_2021_id":"011029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011029",
+    "eurostat:population":1882,
+    "eurostat:population_year":2020,
     "geom:area":0.015549,
-    "geom:area_square_m":137416618.265442,
+    "geom:area_square_m":137416618.265438,
     "geom:bbox":"9.46578386976,44.2900502281,9.67502718141,44.4398055131",
     "geom:latitude":44.377896,
     "geom:longitude":9.583843,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011029",
+        "eurostat:nuts_2021_id":"011029",
         "gn:id":6541556,
         "gp:id":12676710,
         "qs_pg:id":76156
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f40cf1048fb80ace6772b659d00a288",
+    "wof:geomhash":"964439997d003c4608774e57434f5764",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472025,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353950,
     "wof:name":"Varese Ligure",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":1882,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mombello Monferrato",
+    "eurostat:nuts_2021_id":"006097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006097",
+    "eurostat:population":955,
+    "eurostat:population_year":2020,
     "geom:area":0.002254,
-    "geom:area_square_m":19665314.480045,
+    "geom:area_square_m":19665314.480048,
     "geom:bbox":"8.2173763548,45.0939792307,8.3056250664,45.1498466879",
     "geom:latitude":45.125398,
     "geom:longitude":8.256216,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006097",
+        "eurostat:nuts_2021_id":"006097",
         "gn:id":6542873,
         "gp:id":20075915,
         "qs_pg:id":260157
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bcaf53350c2706a86311c81f55ced881",
+    "wof:geomhash":"0a415dad9fba9401894dd83dcadc2b14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460193,
-    "wof:lastmodified":1582327996,
+    "wof:lastmodified":1684353712,
     "wof:name":"Mombello Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":955,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

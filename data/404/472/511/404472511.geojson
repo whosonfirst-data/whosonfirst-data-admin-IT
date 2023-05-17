@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mauro Pascoli",
+    "eurostat:nuts_2021_id":"040041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040041",
+    "eurostat:population":12062,
+    "eurostat:population_year":2020,
     "geom:area":0.001941,
-    "geom:area_square_m":17235694.696781,
+    "geom:area_square_m":17235694.696783,
     "geom:bbox":"12.4056572391,44.0864132377,12.4574762179,44.1669368443",
     "geom:latitude":44.114956,
     "geom:longitude":12.432439,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040041",
+        "eurostat:nuts_2021_id":"040041",
         "gn:id":6536757,
         "gp:id":12681709,
         "qs_pg:id":1196050
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"400201501273b6aea3af1adc81232c21",
+    "wof:geomhash":"46b1d5827f1c4cc4aeeb0ab5b0275f59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472511,
-    "wof:lastmodified":1582327893,
+    "wof:lastmodified":1684353963,
     "wof:name":"San Mauro Pascoli",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":12062,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

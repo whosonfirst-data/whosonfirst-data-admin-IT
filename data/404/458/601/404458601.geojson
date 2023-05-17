@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caldarola",
+    "eurostat:nuts_2021_id":"043006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043006",
+    "eurostat:population":1714,
+    "eurostat:population_year":2020,
     "geom:area":0.003226,
-    "geom:area_square_m":29111594.554538,
+    "geom:area_square_m":29111594.554534,
     "geom:bbox":"13.1550958809,43.0976040544,13.248643998,43.1538391519",
     "geom:latitude":43.126239,
     "geom:longitude":13.201775,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043006",
+        "eurostat:nuts_2021_id":"043006",
         "gn:id":6541064,
         "gp:id":12677312,
         "qs_pg:id":218815
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f3ad765fc44bc40dea74b2b1ceedf08",
+    "wof:geomhash":"6ee8d47bbbb5de9dd15511c88aee9b08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458601,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353673,
     "wof:name":"Caldarola",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":1714,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

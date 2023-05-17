@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leivi",
+    "eurostat:nuts_2021_id":"010029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010029",
+    "eurostat:population":2389,
+    "eurostat:population_year":2020,
     "geom:area":0.001097,
-    "geom:area_square_m":9698186.389504,
+    "geom:area_square_m":9698186.389503,
     "geom:bbox":"9.2826907552,44.3297375293,9.34311478151,44.3661155666",
     "geom:latitude":44.349377,
     "geom:longitude":9.316339,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_010029",
+        "eurostat:nuts_2021_id":"010029"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c48a21d9ab8b6a8e2836c596b7eb4aed",
+    "wof:geomhash":"cd1a15826ca39c6583f403914140decd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404471985,
-    "wof:lastmodified":1566723106,
+    "wof:lastmodified":1684353950,
     "wof:name":"Leivi",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2389,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

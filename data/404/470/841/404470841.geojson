@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bordighera",
+    "eurostat:nuts_2021_id":"008008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008008",
+    "eurostat:population":10373,
+    "eurostat:population_year":2020,
     "geom:area":0.001191,
-    "geom:area_square_m":10631314.056441,
+    "geom:area_square_m":10631314.056444,
     "geom:bbox":"7.64650119662,43.7756373808,7.70272054492,43.8113573433",
     "geom:latitude":43.794506,
     "geom:longitude":7.673588,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_008008",
+        "eurostat:nuts_2021_id":"008008"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"2ba665020c5d856edcb4401895f28026",
+    "wof:geomhash":"c53f2dc57ae79a1459c8f5fd30deeb60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404470841,
-    "wof:lastmodified":1566723150,
+    "wof:lastmodified":1684353928,
     "wof:name":"Bordighera",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":10373,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

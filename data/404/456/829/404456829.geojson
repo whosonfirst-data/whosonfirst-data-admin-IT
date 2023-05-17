@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toritto",
+    "eurostat:nuts_2021_id":"072044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072044",
+    "eurostat:population":8234,
+    "eurostat:population_year":2020,
     "geom:area":0.007987,
-    "geom:area_square_m":74562664.176656,
+    "geom:area_square_m":74562664.176653,
     "geom:bbox":"16.5405410367,40.9296929654,16.696408829,41.0164425065",
     "geom:latitude":40.973382,
     "geom:longitude":16.61754,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072044",
+        "eurostat:nuts_2021_id":"072044",
         "gn:id":6536354,
         "gp:id":12681305,
         "qs_pg:id":42187
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1fe19707ccc2c479cc236c1aece7705",
+    "wof:geomhash":"4a2da819a2219b3902606a77192bdc0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456829,
-    "wof:lastmodified":1582328049,
+    "wof:lastmodified":1684353634,
     "wof:name":"Toritto",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":8234,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

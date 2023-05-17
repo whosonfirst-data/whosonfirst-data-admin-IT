@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Mango d'Aquino",
+    "eurostat:nuts_2021_id":"079110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079110",
+    "eurostat:population":1496,
+    "eurostat:population_year":2020,
     "geom:area":0.000711,
-    "geom:area_square_m":6826849.849482,
+    "geom:area_square_m":6826849.849483,
     "geom:bbox":"16.1461743673,39.0433052767,16.2178043466,39.0746397906",
     "geom:latitude":39.059611,
     "geom:longitude":16.184239,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079110",
+        "eurostat:nuts_2021_id":"079110"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a847a023d4d0970708ad9109307cb6aa",
+    "wof:geomhash":"e62c872a93c54e4bab3dffc4aceec7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464415,
-    "wof:lastmodified":1566723217,
+    "wof:lastmodified":1684353805,
     "wof:name":"San Mango D'Aquino",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":1496,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

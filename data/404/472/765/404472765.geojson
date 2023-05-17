@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiesole",
+    "eurostat:nuts_2021_id":"048015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048015",
+    "eurostat:population":14002,
+    "eurostat:population_year":2020,
     "geom:area":0.004719,
-    "geom:area_square_m":42110054.902733,
+    "geom:area_square_m":42110054.90273,
     "geom:bbox":"11.2791174264,43.7650090213,11.3787653785,43.8703814738",
     "geom:latitude":43.812919,
     "geom:longitude":11.328499,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048015",
+        "eurostat:nuts_2021_id":"048015",
         "gn:id":6541088,
         "gp:id":12676991,
         "qs_pg:id":39371
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"701d3149329a1c390be858b36cd89ad5",
+    "wof:geomhash":"c6c714393a5ee364ee31c5fdf4a8026d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404472765,
-    "wof:lastmodified":1582327879,
+    "wof:lastmodified":1684353969,
     "wof:name":"Fiesole",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":14002,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

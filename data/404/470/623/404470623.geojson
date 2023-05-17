@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Premariacco",
+    "eurostat:nuts_2021_id":"030083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030083",
+    "eurostat:population":4019,
+    "eurostat:population_year":2020,
     "geom:area":0.004627,
-    "geom:area_square_m":39709116.285527,
+    "geom:area_square_m":39709116.285528,
     "geom:bbox":"13.3191427206,46.006063326,13.4422288546,46.083161468",
     "geom:latitude":46.04623,
     "geom:longitude":13.3866,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030083",
+        "eurostat:nuts_2021_id":"030083",
         "gn:id":6538386,
         "gp:id":12679280,
         "qs_pg:id":1195968
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c776740431b111d17a743eb6b03dd964",
+    "wof:geomhash":"6e40f7276aa7b4c340f2a37d6bf89436",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470623,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353925,
     "wof:name":"Premariacco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":4019,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerreto d'Asti",
+    "eurostat:nuts_2021_id":"005035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005035",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.00055,
     "geom:area_square_m":4805119.29146,
     "geom:bbox":"8.0224579808,45.0196071892,8.04170567323,45.0670748785",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005035",
+        "eurostat:nuts_2021_id":"005035",
         "gn:id":6543485,
         "gp:id":12679468,
         "qs_pg:id":246833
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff5dc27fb0f85b5dfc21213115c46938",
+    "wof:geomhash":"01de354b977a198fa90aaca2f5ae8475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404455989,
-    "wof:lastmodified":1582327822,
+    "wof:lastmodified":1684353615,
     "wof:name":"Cerreto D'Asti",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

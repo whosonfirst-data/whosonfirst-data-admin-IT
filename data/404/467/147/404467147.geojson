@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laconi",
+    "eurostat:nuts_2021_id":"095082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095082",
+    "eurostat:population":1759,
+    "eurostat:population_year":2020,
     "geom:area":0.013142,
-    "geom:area_square_m":124732860.718384,
+    "geom:area_square_m":124732860.718385,
     "geom:bbox":"8.95391596125,39.800829194,9.17297802606,39.9180619933",
     "geom:latitude":39.86142,
     "geom:longitude":9.049106,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095082",
+        "eurostat:nuts_2021_id":"095082",
         "gn:id":6539260,
         "gp:id":12679840,
         "qs_pg:id":1071154
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9073a10ded2288af47e574431db06640",
+    "wof:geomhash":"0e3dc9d4a3636afa4020aa749709e8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467147,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353866,
     "wof:name":"Laconi",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":1759,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

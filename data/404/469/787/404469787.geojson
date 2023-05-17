@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brogliano",
+    "eurostat:nuts_2021_id":"024017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024017",
+    "eurostat:population":4009,
+    "eurostat:population_year":2020,
     "geom:area":0.001402,
-    "geom:area_square_m":12127154.568463,
+    "geom:area_square_m":12127154.568462,
     "geom:bbox":"11.2820982338,45.5759457681,11.3811687406,45.602365161",
     "geom:latitude":45.59068,
     "geom:longitude":11.332766,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024017",
+        "eurostat:nuts_2021_id":"024017",
         "gn:id":6542990,
         "gp:id":20076672,
         "qs_pg:id":334838
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58b960d8582f3e4c97aabcfd05f7826d",
+    "wof:geomhash":"1cc8b445e49c01976070ab64dd6a8cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469787,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353910,
     "wof:name":"Brogliano",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":4009,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferno",
+    "eurostat:nuts_2021_id":"012068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012068",
+    "eurostat:population":6789,
+    "eurostat:population_year":2020,
     "geom:area":0.001,
-    "geom:area_square_m":8644948.486857,
+    "geom:area_square_m":8644948.486855,
     "geom:bbox":"8.70671287714,45.6060929085,8.77851982292,45.6341499093",
     "geom:latitude":45.619398,
     "geom:longitude":8.738911,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012068",
+        "eurostat:nuts_2021_id":"012068",
         "gn:id":6536485,
         "gp:id":12679238,
         "qs_pg:id":496766
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"388d5a90b07f7f45c20140ab0551fe15",
+    "wof:geomhash":"31a5b64cf129ebdc6ec2cc3fcba39f39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467763,
-    "wof:lastmodified":1582327965,
+    "wof:lastmodified":1684353879,
     "wof:name":"Ferno",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":6789,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

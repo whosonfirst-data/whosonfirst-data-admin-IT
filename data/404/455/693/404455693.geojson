@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nucetto",
+    "eurostat:nuts_2021_id":"004153",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004153",
+    "eurostat:population":397,
+    "eurostat:population_year":2020,
     "geom:area":0.000882,
-    "geom:area_square_m":7797956.297689,
+    "geom:area_square_m":7797956.297686,
     "geom:bbox":"8.03367479749,44.3210723345,8.07486059166,44.3568941358",
     "geom:latitude":44.339235,
     "geom:longitude":8.055328,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004153",
+        "eurostat:nuts_2021_id":"004153",
         "gn:id":6536420,
         "gp:id":12680716,
         "qs_pg:id":1020009
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c99adf438205a2317eb81b738fb0563",
+    "wof:geomhash":"02fc326b0622b26b08e986d6226259a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455693,
-    "wof:lastmodified":1582327813,
+    "wof:lastmodified":1684353608,
     "wof:name":"Nucetto",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":397,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

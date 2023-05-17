@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte Buggianese",
+    "eurostat:nuts_2021_id":"047016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047016",
+    "eurostat:population":8852,
+    "eurostat:population_year":2020,
     "geom:area":0.003306,
-    "geom:area_square_m":29488092.125863,
+    "geom:area_square_m":29488092.125865,
     "geom:bbox":"10.7260802408,43.7985253083,10.8157034003,43.8607167246",
     "geom:latitude":43.827648,
     "geom:longitude":10.765742,
@@ -200,6 +212,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -208,6 +222,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047016",
+        "eurostat:nuts_2021_id":"047016",
         "gn:id":6540467,
         "gp:id":12676072,
         "qs_pg:id":407889
@@ -216,7 +232,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbd582282e21223be68b710d98fb7cb6",
+    "wof:geomhash":"05bb2c63fc4cb5b2b6af4d0351ec0075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,10 +243,12 @@
         }
     ],
     "wof:id":404472723,
-    "wof:lastmodified":1582327892,
+    "wof:lastmodified":1684353968,
     "wof:name":"Ponte Buggianese",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":8852,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

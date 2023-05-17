@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palau",
+    "eurostat:nuts_2021_id":"090054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090054",
+    "eurostat:population":4245,
+    "eurostat:population_year":2020,
     "geom:area":0.004772,
-    "geom:area_square_m":44420178.935825,
+    "geom:area_square_m":44420178.935826,
     "geom:bbox":"9.30849336359,41.1267257712,9.42390966813,41.2076713329",
     "geom:latitude":41.16797,
     "geom:longitude":9.356113,
@@ -545,6 +557,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -553,6 +567,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090054",
+        "eurostat:nuts_2021_id":"090054",
         "gn:id":6537835,
         "gp:id":12676591,
         "qs_pg:id":1102009
@@ -561,7 +577,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5044ed2a8be183f1844fb62a39be731",
+    "wof:geomhash":"825630ae28d04f10b20422264de6ae58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -572,10 +588,12 @@
         }
     ],
     "wof:id":404467205,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353868,
     "wof:name":"Palau",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":4245,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conflenti",
+    "eurostat:nuts_2021_id":"079033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079033",
+    "eurostat:population":1352,
+    "eurostat:population_year":2020,
     "geom:area":0.003026,
-    "geom:area_square_m":29055903.244485,
+    "geom:area_square_m":29055903.244476,
     "geom:bbox":"16.2319676127,38.9948919491,16.3215567211,39.0899921296",
     "geom:latitude":39.044993,
     "geom:longitude":16.279884,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079033",
+        "eurostat:nuts_2021_id":"079033"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"fa5dda0a0c104ae2586374d304e22632",
+    "wof:geomhash":"c883db8a39e4c18c565646fd941eb692",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464335,
-    "wof:lastmodified":1566723231,
+    "wof:lastmodified":1684353803,
     "wof:name":"Conflenti",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":1352,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

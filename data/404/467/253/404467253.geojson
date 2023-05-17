@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seui",
+    "eurostat:nuts_2021_id":"111081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111081",
+    "eurostat:population":1239,
+    "eurostat:population_year":2020,
     "geom:area":0.015607,
-    "geom:area_square_m":148180587.910263,
+    "geom:area_square_m":148180587.910273,
     "geom:bbox":"9.27294574318,39.6861048209,9.41785728659,39.9182780894",
     "geom:latitude":39.838701,
     "geom:longitude":9.346199,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111081",
+        "eurostat:nuts_2021_id":"111081",
         "gn:id":6537877,
         "gp:id":12682001,
         "qs_pg:id":1095233
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8076974578c4b5afef8b415be1e2d49f",
+    "wof:geomhash":"1c7f3a328510f06a09f1430c0ec31bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467253,
-    "wof:lastmodified":1582327986,
+    "wof:lastmodified":1684353870,
     "wof:name":"Seui",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1239,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

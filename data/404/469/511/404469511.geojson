@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merlino",
+    "eurostat:nuts_2021_id":"098039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098039",
+    "eurostat:population":1705,
+    "eurostat:population_year":2020,
     "geom:area":0.001235,
-    "geom:area_square_m":10714564.656842,
+    "geom:area_square_m":10714564.656843,
     "geom:bbox":"9.41091750593,45.4121167119,9.48398089726,45.4552808545",
     "geom:latitude":45.430589,
     "geom:longitude":9.445391,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098039",
+        "eurostat:nuts_2021_id":"098039",
         "gn:id":6543690,
         "gp:id":20076405,
         "qs_pg:id":1059755
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b445d159bc421f658c6c57e5880610ed",
+    "wof:geomhash":"d50e81b6eac9eff41ff5a32378ff970f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469511,
-    "wof:lastmodified":1582328032,
+    "wof:lastmodified":1684353905,
     "wof:name":"Merlino",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":1705,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

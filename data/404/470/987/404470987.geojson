@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brescia",
+    "eurostat:nuts_2021_id":"017029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017029",
+    "eurostat:population":199579,
+    "eurostat:population_year":2020,
     "geom:area":0.010411,
-    "geom:area_square_m":90180935.674007,
+    "geom:area_square_m":90180935.674012,
     "geom:bbox":"10.1473889049,45.4814378913,10.3000305463,45.5900498363",
     "geom:latitude":45.532557,
     "geom:longitude":10.226006,
@@ -263,6 +275,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -271,6 +285,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017029",
+        "eurostat:nuts_2021_id":"017029",
         "gn:id":6542113,
         "gp:id":12677097,
         "qs_pg:id":1187861
@@ -279,7 +295,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c07fc715ab492315e45caa2d87172b7d",
+    "wof:geomhash":"296d95799ca13872ea1a5e75ab73563d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -290,10 +306,12 @@
         }
     ],
     "wof:id":404470987,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353931,
     "wof:name":"Brescia",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":199579,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgo a Mozzano",
+    "eurostat:nuts_2021_id":"046004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046004",
+    "eurostat:population":6903,
+    "eurostat:population_year":2020,
     "geom:area":0.008102,
-    "geom:area_square_m":72097055.191189,
+    "geom:area_square_m":72097055.191179,
     "geom:bbox":"10.4438220603,43.9223977169,10.5955280169,44.0322038261",
     "geom:latitude":43.97454,
     "geom:longitude":10.517553,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046004",
+        "eurostat:nuts_2021_id":"046004",
         "gn:id":6536810,
         "gp:id":12676936,
         "qs_pg:id":1122872
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c927cce68d7fa01c8a404b6d0054cbb",
+    "wof:geomhash":"582bbfa0029d350a85a784791edf4ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472617,
-    "wof:lastmodified":1582327882,
+    "wof:lastmodified":1684353965,
     "wof:name":"Borgo A Mozzano",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":6903,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

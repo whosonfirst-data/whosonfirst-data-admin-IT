@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Collemandina",
+    "eurostat:nuts_2021_id":"046035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046035",
+    "eurostat:population":1268,
+    "eurostat:population_year":2020,
     "geom:area":0.003918,
-    "geom:area_square_m":34739285.101283,
+    "geom:area_square_m":34739285.10128,
     "geom:bbox":"10.3586630963,44.1488942895,10.4404899903,44.2358197571",
     "geom:latitude":44.194099,
     "geom:longitude":10.396749,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046035",
+        "eurostat:nuts_2021_id":"046035",
         "gn:id":6543597,
         "gp:id":12675991,
         "qs_pg:id":1142782
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cee2fe64eb171e4545d6c6053cceed6e",
+    "wof:geomhash":"51fe7eb1a5f2f6ee667685d09e522469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472687,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353967,
     "wof:name":"Villa Collemandina",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":1268,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

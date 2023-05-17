@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mello",
+    "eurostat:nuts_2021_id":"014041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014041",
+    "eurostat:population":940,
+    "eurostat:population_year":2020,
     "geom:area":0.001333,
-    "geom:area_square_m":11410464.16157,
+    "geom:area_square_m":11410464.161569,
     "geom:bbox":"9.51727505683,46.1475612618,9.56242964436,46.1933442393",
     "geom:latitude":46.170247,
     "geom:longitude":9.542179,
@@ -80,6 +92,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -87,9 +101,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_014041",
+        "eurostat:nuts_2021_id":"014041"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"573d93198f051ab34a9bad5e2602dae9",
+    "wof:geomhash":"a46b61e873f484199482dfd63665a2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +117,12 @@
         }
     ],
     "wof:id":404468205,
-    "wof:lastmodified":1566723623,
+    "wof:lastmodified":1684353885,
     "wof:name":"Mello",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":940,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

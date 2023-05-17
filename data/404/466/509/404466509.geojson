@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni Gemini",
+    "eurostat:nuts_2021_id":"084036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084036",
+    "eurostat:population":7816,
+    "eurostat:population_year":2020,
     "geom:area":0.002701,
-    "geom:area_square_m":26459043.651196,
+    "geom:area_square_m":26459043.651195,
     "geom:bbox":"13.6030330344,37.5901007655,13.6917676973,37.6484094216",
     "geom:latitude":37.617271,
     "geom:longitude":13.649409,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084036",
+        "eurostat:nuts_2021_id":"084036",
         "gn:id":6537783,
         "gp:id":12677387,
         "qs_pg:id":260448
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d1cd86f56606e3c7182178aba08ea1c6",
+    "wof:geomhash":"23f793a4cd5901156b841879042c1454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466509,
-    "wof:lastmodified":1582328199,
+    "wof:lastmodified":1684353851,
     "wof:name":"San Giovanni Gemini",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":7816,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

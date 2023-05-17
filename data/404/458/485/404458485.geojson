@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rossiglione",
+    "eurostat:nuts_2021_id":"010051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010051",
+    "eurostat:population":2628,
+    "eurostat:population_year":2020,
     "geom:area":0.005395,
-    "geom:area_square_m":47533491.877173,
+    "geom:area_square_m":47533491.877172,
     "geom:bbox":"8.59785720549,44.5074042186,8.74031205616,44.5863602859",
     "geom:latitude":44.556396,
     "geom:longitude":8.663265,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010051",
+        "eurostat:nuts_2021_id":"010051",
         "gn:id":6537064,
         "gp:id":12681492,
         "qs_pg:id":1143640
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a70bc24f57a715e252d2c7c6f4a32b47",
+    "wof:geomhash":"928f372d18d85b9808174df15734fac9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458485,
-    "wof:lastmodified":1582327940,
+    "wof:lastmodified":1684353670,
     "wof:name":"Rossiglione",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2628,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

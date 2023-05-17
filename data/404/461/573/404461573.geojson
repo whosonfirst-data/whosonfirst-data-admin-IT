@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cave",
+    "eurostat:nuts_2021_id":"058026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058026",
+    "eurostat:population":10984,
+    "eurostat:population_year":2020,
     "geom:area":0.001934,
-    "geom:area_square_m":17821835.921053,
+    "geom:area_square_m":17821835.921049,
     "geom:bbox":"12.9034406773,41.786201373,12.9632420982,41.8365958341",
     "geom:latitude":41.810448,
     "geom:longitude":12.931865,
@@ -363,6 +375,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -371,6 +385,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058026",
+        "eurostat:nuts_2021_id":"058026",
         "gn:id":6539758,
         "gp:id":12678415,
         "qs_pg:id":246300
@@ -379,7 +395,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec38e19f4f34b19b16c0e82cec799ed2",
+    "wof:geomhash":"f35c9471cd332d690efbb53094300607",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,10 +406,12 @@
         }
     ],
     "wof:id":404461573,
-    "wof:lastmodified":1582328136,
+    "wof:lastmodified":1684353741,
     "wof:name":"Cave",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":10984,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

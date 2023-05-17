@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Codogno",
+    "eurostat:nuts_2021_id":"098019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098019",
+    "eurostat:population":15994,
+    "eurostat:population_year":2020,
     "geom:area":0.00239,
     "geom:area_square_m":20839598.564429,
     "geom:bbox":"9.65842236417,45.1418704739,9.73028819019,45.1921719285",
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098019",
+        "eurostat:nuts_2021_id":"098019",
         "gn:id":6541388,
         "gp:id":12678748,
         "qs_pg:id":1078519
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5dcb6d25e5e3ad737ce36ba60c5fc407",
+    "wof:geomhash":"34f8705df1aa64a52f6ce18c589949ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404469467,
-    "wof:lastmodified":1582328039,
+    "wof:lastmodified":1684353904,
     "wof:name":"Codogno",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":15994,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

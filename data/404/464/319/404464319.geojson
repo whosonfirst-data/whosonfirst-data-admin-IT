@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carlopoli",
+    "eurostat:nuts_2021_id":"079020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079020",
+    "eurostat:population":1467,
+    "eurostat:population_year":2020,
     "geom:area":0.001692,
-    "geom:area_square_m":16246331.294239,
+    "geom:area_square_m":16246331.294244,
     "geom:bbox":"16.4062073729,39.019398507,16.4829874664,39.0735401857",
     "geom:latitude":39.047675,
     "geom:longitude":16.443385,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079020",
+        "eurostat:nuts_2021_id":"079020"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4d28e87a9113c96fe9532846b92ba1bc",
+    "wof:geomhash":"3704acee12da542b4887d3d40f8c8e85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464319,
-    "wof:lastmodified":1566723249,
+    "wof:lastmodified":1684353803,
     "wof:name":"Carlopoli",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":1467,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

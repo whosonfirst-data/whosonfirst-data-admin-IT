@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaglio Serra",
+    "eurostat:nuts_2021_id":"005111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005111",
+    "eurostat:population":281,
+    "eurostat:population_year":2020,
     "geom:area":0.000542,
-    "geom:area_square_m":4753529.565852,
+    "geom:area_square_m":4753529.565853,
     "geom:bbox":"8.31981499609,44.7867488727,8.36442554487,44.8172034744",
     "geom:latitude":44.800586,
     "geom:longitude":8.343502,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005111",
+        "eurostat:nuts_2021_id":"005111",
         "gn:id":6542850,
         "gp:id":20075878,
         "qs_pg:id":1112650
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7147db6b50709751f3ee677a50083dd2",
+    "wof:geomhash":"9b70b4d696973412209872b777068c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456153,
-    "wof:lastmodified":1582328058,
+    "wof:lastmodified":1684353617,
     "wof:name":"Vaglio Serra",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":281,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

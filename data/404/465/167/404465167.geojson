@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorrento",
+    "eurostat:nuts_2021_id":"063080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063080",
+    "eurostat:population":16183,
+    "eurostat:population_year":2020,
     "geom:area":0.001055,
-    "geom:area_square_m":9901774.5296,
+    "geom:area_square_m":9901774.529599,
     "geom:bbox":"14.3468646483,40.5946317315,14.4107686626,40.6344843579",
     "geom:latitude":40.617514,
     "geom:longitude":14.380691,
@@ -194,6 +206,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -202,6 +216,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063080",
+        "eurostat:nuts_2021_id":"063080",
         "gn:id":6539814,
         "gp:id":12682057,
         "qs_pg:id":1297060
@@ -210,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc504dae831c261d8562a53211fa0872",
+    "wof:geomhash":"acbe648e88d6ee66f42807f52beaca74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,10 +237,12 @@
         }
     ],
     "wof:id":404465167,
-    "wof:lastmodified":1582327826,
+    "wof:lastmodified":1684353827,
     "wof:name":"Sorrento",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":16183,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

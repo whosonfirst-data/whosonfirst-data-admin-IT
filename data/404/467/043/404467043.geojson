@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nureci",
+    "eurostat:nuts_2021_id":"095036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095036",
+    "eurostat:population":336,
+    "eurostat:population_year":2020,
     "geom:area":0.001354,
-    "geom:area_square_m":12864719.778004,
+    "geom:area_square_m":12864719.778008,
     "geom:bbox":"8.93832465866,39.7783520033,8.98768667415,39.8405526938",
     "geom:latitude":39.810427,
     "geom:longitude":8.963606,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095036",
+        "eurostat:nuts_2021_id":"095036",
         "gn:id":6539366,
         "gp:id":12680726,
         "qs_pg:id":209132
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cba27c021fdc48d08e5986382ff280c7",
+    "wof:geomhash":"0f8320cefa6a3393880d71a4f6e70dda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404467043,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353864,
     "wof:name":"Nureci",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":336,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

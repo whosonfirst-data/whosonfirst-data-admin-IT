@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cornegliano Laudense",
+    "eurostat:nuts_2021_id":"098021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098021",
+    "eurostat:population":2889,
+    "eurostat:population_year":2020,
     "geom:area":0.000654,
-    "geom:area_square_m":5691538.295288,
+    "geom:area_square_m":5691538.29529,
     "geom:bbox":"9.45519324645,45.2727862711,9.50596394512,45.2998370433",
     "geom:latitude":45.286753,
     "geom:longitude":9.480585,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098021",
+        "eurostat:nuts_2021_id":"098021",
         "gn:id":6542733,
         "gp:id":20076397,
         "qs_pg:id":1030960
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a1d2fddefc2793c279cd5a66e7a5a8c",
+    "wof:geomhash":"55e1faeff980a4bfd2b6746e97aacf7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469471,
-    "wof:lastmodified":1582328026,
+    "wof:lastmodified":1684353904,
     "wof:name":"Cornegliano Laudense",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":2889,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

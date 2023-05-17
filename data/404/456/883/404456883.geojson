@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palagiano",
+    "eurostat:nuts_2021_id":"073021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073021",
+    "eurostat:population":15954,
+    "eurostat:population_year":2020,
     "geom:area":0.00736,
-    "geom:area_square_m":69153425.670436,
+    "geom:area_square_m":69153425.670441,
     "geom:bbox":"16.956945742,40.4937274395,17.070428016,40.6047483241",
     "geom:latitude":40.551954,
     "geom:longitude":17.021196,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073021",
+        "eurostat:nuts_2021_id":"073021",
         "gn:id":6537567,
         "gp:id":12680878,
         "qs_pg:id":1009337
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8976f368d8ae89228a10c801543bf2fb",
+    "wof:geomhash":"1b240a15513c9d2bcf6ea0327e03b870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456883,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353635,
     "wof:name":"Palagiano",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":15954,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

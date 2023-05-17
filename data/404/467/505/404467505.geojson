@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontinvrea",
+    "eurostat:nuts_2021_id":"009051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009051",
+    "eurostat:population":838,
+    "eurostat:population_year":2020,
     "geom:area":0.002822,
-    "geom:area_square_m":24914281.872433,
+    "geom:area_square_m":24914281.872435,
     "geom:bbox":"8.40093690671,44.3954404863,8.48227498471,44.4650909586",
     "geom:latitude":44.431834,
     "geom:longitude":8.4384,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009051",
+        "eurostat:nuts_2021_id":"009051",
         "gn:id":6537053,
         "gp:id":12680540,
         "qs_pg:id":1150776
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a79eced8fa7f73a7cce93ab76f34b6d",
+    "wof:geomhash":"bd9409f1a0dbb2d1d329783a67d54e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467505,
-    "wof:lastmodified":1582327966,
+    "wof:lastmodified":1684353875,
     "wof:name":"Pontinvrea",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":838,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

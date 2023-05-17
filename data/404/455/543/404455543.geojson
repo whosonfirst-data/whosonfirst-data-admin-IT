@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faule",
+    "eurostat:nuts_2021_id":"004087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004087",
+    "eurostat:population":475,
+    "eurostat:population_year":2020,
     "geom:area":0.0008,
-    "geom:area_square_m":7018707.20048,
+    "geom:area_square_m":7018707.200478,
     "geom:bbox":"7.55061177909,44.7712712412,7.59877690296,44.8231990195",
     "geom:latitude":44.796392,
     "geom:longitude":7.571131,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004087",
+        "eurostat:nuts_2021_id":"004087",
         "gn:id":6543829,
         "gp:id":20075759,
         "qs_pg:id":50279
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a51901cfe999a43e1ce147a7711563f9",
+    "wof:geomhash":"3ab6e412954a2463f1b2e82e503f2847",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455543,
-    "wof:lastmodified":1582327815,
+    "wof:lastmodified":1684353606,
     "wof:name":"Faule",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":475,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

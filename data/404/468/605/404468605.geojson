@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adrara San Rocco",
+    "eurostat:nuts_2021_id":"016002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016002",
+    "eurostat:population":812,
+    "eurostat:population_year":2020,
     "geom:area":0.001067,
-    "geom:area_square_m":9209658.154135,
+    "geom:area_square_m":9209658.154134,
     "geom:bbox":"9.95120938679,45.7065840516,9.99004745784,45.753407262",
     "geom:latitude":45.725986,
     "geom:longitude":9.97262,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016002",
+        "eurostat:nuts_2021_id":"016002",
         "gn:id":6542938,
         "gp:id":20076146,
         "qs_pg:id":1189198
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6b7e023dfb18ccf10a271e46ae983bb",
+    "wof:geomhash":"c4984e527fa76fa92d480ecd52812197",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468605,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353891,
     "wof:name":"Adrara San Rocco",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":812,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

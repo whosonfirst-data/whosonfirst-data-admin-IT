@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guastalla",
+    "eurostat:nuts_2021_id":"035024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035024",
+    "eurostat:population":14944,
+    "eurostat:population_year":2020,
     "geom:area":0.006032,
-    "geom:area_square_m":52829973.903779,
+    "geom:area_square_m":52829973.903776,
     "geom:bbox":"10.6279367327,44.8525820584,10.7513384758,44.9480601345",
     "geom:latitude":44.905282,
     "geom:longitude":10.681654,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035024",
+        "eurostat:nuts_2021_id":"035024",
         "gn:id":6538441,
         "gp:id":12678926,
         "qs_pg:id":1063414
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9616044aac4a3d841803f7ae61f8d4e",
+    "wof:geomhash":"5e4db12c1f141ed4088b0b4da7086d8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457065,
-    "wof:lastmodified":1582328101,
+    "wof:lastmodified":1684353641,
     "wof:name":"Guastalla",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":14944,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orta San Giulio",
+    "eurostat:nuts_2021_id":"003112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003112",
+    "eurostat:population":1341,
+    "eurostat:population_year":2020,
     "geom:area":0.00077,
-    "geom:area_square_m":6639459.116687,
+    "geom:area_square_m":6639459.116688,
     "geom:bbox":"8.39335884868,45.7689337814,8.44157549351,45.8074236704",
     "geom:latitude":45.789979,
     "geom:longitude":8.415369,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003112",
+        "eurostat:nuts_2021_id":"003112",
         "gn:id":6539554,
         "gp:id":12680809,
         "qs_pg:id":248786
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f3e980e1dcc397deb70a4f1fb7f470d",
+    "wof:geomhash":"1ab77946fc999d1f5d22b61f7051d915",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457783,
-    "wof:lastmodified":1582328107,
+    "wof:lastmodified":1684353657,
     "wof:name":"Orta San Giulio",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1341,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

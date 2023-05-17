@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nago-Torbole",
+    "eurostat:nuts_2021_id":"022124",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022124",
+    "eurostat:population":2852,
+    "eurostat:population_year":2020,
     "geom:area":0.003289,
-    "geom:area_square_m":28327187.997417,
+    "geom:area_square_m":28327187.997416,
     "geom:bbox":"10.8413255379,45.8057182634,10.9193990378,45.8876979938",
     "geom:latitude":45.850766,
     "geom:longitude":10.881321,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022124",
+        "eurostat:nuts_2021_id":"022124",
         "gn:id":6535882,
         "gp:id":12680649,
         "qs_pg:id":41711
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e528f49affa78178e5b55a7cae68ccb6",
+    "wof:geomhash":"a8d49362195b4fd4e1550d86566c9d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404473567,
-    "wof:lastmodified":1582327912,
+    "wof:lastmodified":1684353991,
     "wof:name":"Nago-Torbole",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":2852,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

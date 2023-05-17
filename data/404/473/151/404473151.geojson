@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marebbe/Enneberg",
+    "eurostat:nuts_2021_id":"021047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021047",
+    "eurostat:population":3118,
+    "eurostat:population_year":2020,
     "geom:area":0.018826,
-    "geom:area_square_m":159752356.439873,
+    "geom:area_square_m":159752356.439875,
     "geom:bbox":"11.8184068946,46.5509002275,12.0742658939,46.7458756947",
     "geom:latitude":46.665198,
     "geom:longitude":11.974118,
@@ -108,6 +120,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021047",
+        "eurostat:nuts_2021_id":"021047",
         "gn:id":3173977,
         "gp:id":12680005,
         "qs_pg:id":190714
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9fb7ae41c60657533e752c2082ec5026",
+    "wof:geomhash":"0170efefa0ce631b44b43715aa8dd022",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404473151,
-    "wof:lastmodified":1582327914,
+    "wof:lastmodified":1684353980,
     "wof:name":"Marebbe",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3118,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

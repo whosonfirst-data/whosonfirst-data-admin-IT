@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pignola",
+    "eurostat:nuts_2021_id":"076062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076062",
+    "eurostat:population":6887,
+    "eurostat:population_year":2020,
     "geom:area":0.005937,
-    "geom:area_square_m":55762521.018153,
+    "geom:area_square_m":55762521.018142,
     "geom:bbox":"15.7236136149,40.5415022319,15.8624967122,40.615366834",
     "geom:latitude":40.577794,
     "geom:longitude":15.789519,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076062",
+        "eurostat:nuts_2021_id":"076062",
         "gn:id":6537628,
         "gp:id":12681117,
         "qs_pg:id":1069251
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8759879aae203f4cf8c2e95c7b84a279",
+    "wof:geomhash":"002e1f7447d9043d98e2be753c25670f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404457001,
-    "wof:lastmodified":1582328104,
+    "wof:lastmodified":1684353639,
     "wof:name":"Pignola",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":6887,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

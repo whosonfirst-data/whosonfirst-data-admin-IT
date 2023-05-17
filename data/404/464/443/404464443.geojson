@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Settingiano",
+    "eurostat:nuts_2021_id":"079131",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079131",
+    "eurostat:population":3137,
+    "eurostat:population_year":2020,
     "geom:area":0.001476,
-    "geom:area_square_m":14201060.347152,
+    "geom:area_square_m":14201060.34716,
     "geom:bbox":"16.4865012062,38.8769282575,16.5518827416,38.9315349232",
     "geom:latitude":38.898674,
     "geom:longitude":16.51812,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079131",
+        "eurostat:nuts_2021_id":"079131"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9c746f68e3037ce0adbbd7a791d0d9d6",
+    "wof:geomhash":"ae1aeeaa3a6593982b3e193bbf413996",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404464443,
-    "wof:lastmodified":1566723236,
+    "wof:lastmodified":1684353806,
     "wof:name":"Settingiano",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":3137,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

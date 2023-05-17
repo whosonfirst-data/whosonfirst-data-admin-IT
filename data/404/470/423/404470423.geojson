@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stienta",
+    "eurostat:nuts_2021_id":"029045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029045",
+    "eurostat:population":3153,
+    "eurostat:population_year":2020,
     "geom:area":0.002752,
-    "geom:area_square_m":24083615.467461,
+    "geom:area_square_m":24083615.46746,
     "geom:bbox":"11.4870479386,44.9288073601,11.5673122702,44.9836545083",
     "geom:latitude":44.958745,
     "geom:longitude":11.531565,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029045",
+        "eurostat:nuts_2021_id":"029045",
         "gn:id":6541014,
         "gp:id":12676223,
         "qs_pg:id":496730
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19364ed0934be43d9a77081ae7113206",
+    "wof:geomhash":"5790b44536edd16da4e69e5ba4402584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470423,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353921,
     "wof:name":"Stienta",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":3153,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

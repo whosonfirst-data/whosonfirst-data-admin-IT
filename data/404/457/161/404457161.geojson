@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirandola",
+    "eurostat:nuts_2021_id":"036022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036022",
+    "eurostat:population":24091,
+    "eurostat:population_year":2020,
     "geom:area":0.01562,
-    "geom:area_square_m":136790771.633949,
+    "geom:area_square_m":136790771.633948,
     "geom:bbox":"10.9963926663,44.8435400528,11.2604919782,44.962946707",
     "geom:latitude":44.907365,
     "geom:longitude":11.124578,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036022",
+        "eurostat:nuts_2021_id":"036022",
         "gn:id":6538456,
         "gp:id":12676559,
         "qs_pg:id":1078459
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ec22cf3764c811b335788e0a23091f2",
+    "wof:geomhash":"27ca727ed03a74b76a94a1c1051285a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404457161,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353643,
     "wof:name":"Mirandola",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":24091,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casoria",
+    "eurostat:nuts_2021_id":"063023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063023",
+    "eurostat:population":76205,
+    "eurostat:population_year":2020,
     "geom:area":0.001291,
-    "geom:area_square_m":12066420.592799,
+    "geom:area_square_m":12066420.592791,
     "geom:bbox":"14.279916646,40.8752461242,14.3316771527,40.9284795994",
     "geom:latitude":40.900535,
     "geom:longitude":14.305071,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063023",
+        "eurostat:nuts_2021_id":"063023",
         "gn:id":6541680,
         "gp:id":12678130,
         "qs_pg:id":243501
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78053bdea31651eff4e1a060dbcbdffd",
+    "wof:geomhash":"e8b8dad6ebab0cbce2a4386121c8ddb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404460919,
-    "wof:lastmodified":1582328020,
+    "wof:lastmodified":1684353727,
     "wof:name":"Casoria",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":76205,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

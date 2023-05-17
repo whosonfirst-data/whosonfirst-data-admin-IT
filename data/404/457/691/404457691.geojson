@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casaleggio Novara",
+    "eurostat:nuts_2021_id":"003039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003039",
+    "eurostat:population":911,
+    "eurostat:population_year":2020,
     "geom:area":0.001213,
     "geom:area_square_m":10515175.124539,
     "geom:bbox":"8.46988719034,45.4663084382,8.53508793138,45.5048503879",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003039",
+        "eurostat:nuts_2021_id":"003039",
         "gn:id":6537297,
         "gp:id":12677969,
         "qs_pg:id":50903
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1675c86d2613c485e10ba6b8fdb65e5",
+    "wof:geomhash":"75649224bfbf5375507af779c86ce635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457691,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353655,
     "wof:name":"Casaleggio Novara",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":911,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

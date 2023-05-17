@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bicinicco",
+    "eurostat:nuts_2021_id":"030011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030011",
+    "eurostat:population":1821,
+    "eurostat:population_year":2020,
     "geom:area":0.001853,
-    "geom:area_square_m":15940991.524205,
+    "geom:area_square_m":15940991.524208,
     "geom:bbox":"13.1988416893,45.9042152305,13.2781949895,45.9524090387",
     "geom:latitude":45.927111,
     "geom:longitude":13.245595,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030011",
+        "eurostat:nuts_2021_id":"030011",
         "gn:id":6539931,
         "gp:id":12676783,
         "qs_pg:id":203764
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8bdfc77eee33193a05d46b54180964c",
+    "wof:geomhash":"b6c6921eda34213cea371fa85709582a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470463,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353922,
     "wof:name":"Bicinicco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1821,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Curon Venosta/Graun im Vinschgau",
+    "eurostat:nuts_2021_id":"021027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021027",
+    "eurostat:population":2386,
+    "eurostat:population_year":2020,
     "geom:area":0.024719,
-    "geom:area_square_m":209202541.636468,
+    "geom:area_square_m":209202541.636473,
     "geom:bbox":"10.422649132,46.7318988274,10.7638261178,46.8758799767",
     "geom:latitude":46.808764,
     "geom:longitude":10.579477,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021027",
+        "eurostat:nuts_2021_id":"021027",
         "gp:id":12677629,
         "qs_pg:id":1301670
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"881e3ea3edb27cb06731ee1ff83cf3c1",
+    "wof:geomhash":"98380022d367a539e34ebe812440bef2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473105,
-    "wof:lastmodified":1582327913,
+    "wof:lastmodified":1684353978,
     "wof:name":"Curon Venosta",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2386,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

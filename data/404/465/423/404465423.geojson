@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sperone",
+    "eurostat:nuts_2021_id":"064103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064103",
+    "eurostat:population":3763,
+    "eurostat:population_year":2020,
     "geom:area":0.0005,
-    "geom:area_square_m":4669164.912154,
+    "geom:area_square_m":4669164.912156,
     "geom:bbox":"14.5879568198,40.9293651841,14.6908855581,40.9816247516",
     "geom:latitude":40.949064,
     "geom:longitude":14.621222,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064103",
+        "eurostat:nuts_2021_id":"064103",
         "gn:id":6543287,
         "gp:id":20076951,
         "qs_pg:id":498399
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f023503fdb4cd3f22e1a235b47f8812",
+    "wof:geomhash":"f40697c86c4b5abb7f0613489d2189fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465423,
-    "wof:lastmodified":1582327830,
+    "wof:lastmodified":1684353831,
     "wof:name":"Sperone",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3763,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

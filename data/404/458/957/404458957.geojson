@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serracapriola",
+    "eurostat:nuts_2021_id":"071053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071053",
+    "eurostat:population":3806,
+    "eurostat:population_year":2020,
     "geom:area":0.015446,
-    "geom:area_square_m":142340115.334712,
+    "geom:area_square_m":142340115.334674,
     "geom:bbox":"15.0970791543,41.7255865843,15.3234961978,41.9211241716",
     "geom:latitude":41.820107,
     "geom:longitude":15.188854,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071053",
+        "eurostat:nuts_2021_id":"071053",
         "gn:id":6541732,
         "gp:id":12681978,
         "qs_pg:id":948644
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d9dfe7a9628492dbc32a841884c1867",
+    "wof:geomhash":"e3b5a62a50223b35db97f22e174977e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458957,
-    "wof:lastmodified":1582327950,
+    "wof:lastmodified":1684353682,
     "wof:name":"Serracapriola",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":3806,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

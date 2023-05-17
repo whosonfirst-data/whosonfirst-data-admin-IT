@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caselle Torinese",
+    "eurostat:nuts_2021_id":"001063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001063",
+    "eurostat:population":14003,
+    "eurostat:population_year":2020,
     "geom:area":0.003288,
-    "geom:area_square_m":28664171.810276,
+    "geom:area_square_m":28664171.810275,
     "geom:bbox":"7.60341604812,45.1429609581,7.71799500571,45.1981129518",
     "geom:latitude":45.173932,
     "geom:longitude":7.659927,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001063",
+        "eurostat:nuts_2021_id":"001063",
         "gn:id":6540660,
         "gp:id":20076454,
         "qs_pg:id":1110670
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4daaac1924f2565383f66369d9a52ec1",
+    "wof:geomhash":"964894633931e7c6e507980a3c500e31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456315,
-    "wof:lastmodified":1582328056,
+    "wof:lastmodified":1684353621,
     "wof:name":"Caselle Torinese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":14003,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

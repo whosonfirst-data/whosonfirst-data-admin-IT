@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agnosine",
+    "eurostat:nuts_2021_id":"017003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017003",
+    "eurostat:population":1665,
+    "eurostat:population_year":2020,
     "geom:area":0.001565,
-    "geom:area_square_m":13530728.815315,
+    "geom:area_square_m":13530728.815317,
     "geom:bbox":"10.3175814685,45.6178895269,10.3744765664,45.6616165715",
     "geom:latitude":45.642893,
     "geom:longitude":10.349671,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017003",
+        "eurostat:nuts_2021_id":"017003",
         "gn:id":6542589,
         "gp:id":12682618,
         "qs_pg:id":43138
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90c8d7161f7dfe7e0c3df62658916b8d",
+    "wof:geomhash":"f0458200e6478ec3ac726d2266b02345",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470929,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353930,
     "wof:name":"Agnosine",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1665,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

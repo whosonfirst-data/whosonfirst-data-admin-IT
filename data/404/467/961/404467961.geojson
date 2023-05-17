@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Binago",
+    "eurostat:nuts_2021_id":"013023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013023",
+    "eurostat:population":4792,
+    "eurostat:population_year":2020,
     "geom:area":0.000824,
-    "geom:area_square_m":7108552.035024,
+    "geom:area_square_m":7108552.035023,
     "geom:bbox":"8.90044815226,45.7534922601,8.93882710835,45.7936091788",
     "geom:latitude":45.775066,
     "geom:longitude":8.921151,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013023",
+        "eurostat:nuts_2021_id":"013023",
         "gn:id":6543721,
         "gp:id":20076073,
         "qs_pg:id":1018432
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84b0f4555c6c3fe4a70f858af36cee2d",
+    "wof:geomhash":"8f6c67113e422b7ea57bc3482e6c7ef4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404467961,
-    "wof:lastmodified":1582327979,
+    "wof:lastmodified":1684353882,
     "wof:name":"Binago",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":4792,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medolla",
+    "eurostat:nuts_2021_id":"036021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036021",
+    "eurostat:population":6246,
+    "eurostat:population_year":2020,
     "geom:area":0.003073,
-    "geom:area_square_m":26942926.406251,
+    "geom:area_square_m":26942926.406255,
     "geom:bbox":"11.0320501562,44.8067700965,11.1145231438,44.8744684627",
     "geom:latitude":44.837849,
     "geom:longitude":11.075634,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036021",
+        "eurostat:nuts_2021_id":"036021",
         "gn:id":6538455,
         "gp:id":12680259,
         "qs_pg:id":1018619
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2975ab95986c23e1c89758729b29e67a",
+    "wof:geomhash":"56a8f7f3f9a4c8170b0a209602ba4686",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457159,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353643,
     "wof:name":"Medolla",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":6246,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

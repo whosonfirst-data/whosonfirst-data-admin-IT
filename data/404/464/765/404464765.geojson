@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cessaniti",
+    "eurostat:nuts_2021_id":"102006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102006",
+    "eurostat:population":3145,
+    "eurostat:population_year":2020,
     "geom:area":0.001845,
-    "geom:area_square_m":17806549.813113,
+    "geom:area_square_m":17806549.813115,
     "geom:bbox":"16.0004476241,38.6482289743,16.0696343021,38.7038102459",
     "geom:latitude":38.677958,
     "geom:longitude":16.033039,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102006",
+        "eurostat:nuts_2021_id":"102006"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a1cbe162774584c4a126c2a20285d06d",
+    "wof:geomhash":"e312d5dffba22e780c0a76ec83a2562f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464765,
-    "wof:lastmodified":1566723211,
+    "wof:lastmodified":1684353816,
     "wof:name":"Cessaniti",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":3145,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

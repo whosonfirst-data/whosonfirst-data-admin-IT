@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Catania",
+    "eurostat:nuts_2021_id":"087015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087015",
+    "eurostat:population":311402,
+    "eurostat:population_year":2020,
     "geom:area":0.018507,
-    "geom:area_square_m":181690027.931307,
+    "geom:area_square_m":181690027.931258,
     "geom:bbox":"14.9357683107,37.3584025668,15.1260145799,37.5623669547",
     "geom:latitude":37.442073,
     "geom:longitude":15.03586,
@@ -308,6 +320,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -316,6 +330,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087015",
+        "eurostat:nuts_2021_id":"087015",
         "gn:id":6541468,
         "gp:id":12676742,
         "qs_pg:id":902512
@@ -324,7 +340,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3fb990d75f88fdc85494543e964af91c",
+    "wof:geomhash":"099a532391b75ce5a182ef1dd64951a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -335,10 +351,12 @@
         }
     ],
     "wof:id":404459247,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353690,
     "wof:name":"Catania",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":311402,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

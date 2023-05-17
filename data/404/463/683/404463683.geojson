@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzoleone",
+    "eurostat:nuts_2021_id":"024082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024082",
+    "eurostat:population":2789,
+    "eurostat:population_year":2020,
     "geom:area":0.001299,
     "geom:area_square_m":11225948.551524,
     "geom:bbox":"11.6561480849,45.6389922949,11.7019239632,45.7008543852",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024082",
+        "eurostat:nuts_2021_id":"024082",
         "gn:id":6536625,
         "gp:id":12681256,
         "qs_pg:id":352003
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3058883064d6942e32eb891c53c7db8",
+    "wof:geomhash":"a149d15ec03748260457b9885d2210b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463683,
-    "wof:lastmodified":1582327783,
+    "wof:lastmodified":1684353784,
     "wof:name":"Pozzoleone",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":2789,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

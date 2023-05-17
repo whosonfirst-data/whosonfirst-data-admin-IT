@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarboit",
+    "eurostat:nuts_2021_id":"002163",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002163",
+    "eurostat:population":410,
+    "eurostat:population_year":2020,
     "geom:area":0.002936,
-    "geom:area_square_m":25472419.329768,
+    "geom:area_square_m":25472419.329777,
     "geom:bbox":"8.29766186269,45.4028567625,8.36032293549,45.4769422995",
     "geom:latitude":45.439791,
     "geom:longitude":8.331691,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002163",
+        "eurostat:nuts_2021_id":"002163",
         "gn:id":6538121,
         "gp:id":12682483,
         "qs_pg:id":1320757
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"719ecc9d0c6382fbf1266b484209a858",
+    "wof:geomhash":"dc8b145f848718cf44b3f0ec0b6e36ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457641,
-    "wof:lastmodified":1582328114,
+    "wof:lastmodified":1684353654,
     "wof:name":"Villarboit",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":410,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

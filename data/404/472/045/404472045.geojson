@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgonovo Val Tidone",
+    "eurostat:nuts_2021_id":"033006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033006",
+    "eurostat:population":8046,
+    "eurostat:population_year":2020,
     "geom:area":0.00585,
-    "geom:area_square_m":51146289.861637,
+    "geom:area_square_m":51146289.861639,
     "geom:bbox":"9.40052041516,44.952823503,9.53478011568,45.0469562251",
     "geom:latitude":45.007746,
     "geom:longitude":9.462016,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033006",
+        "eurostat:nuts_2021_id":"033006",
         "gn:id":6536332,
         "gp:id":12676984,
         "qs_pg:id":1117012
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1230ab5f933207fe9f532f4753cbb259",
+    "wof:geomhash":"588607dfba51cea72bd5a50889e1deee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472045,
-    "wof:lastmodified":1582327898,
+    "wof:lastmodified":1684353951,
     "wof:name":"Borgonovo Val Tidone",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":8046,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

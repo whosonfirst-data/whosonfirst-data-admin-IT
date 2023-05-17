@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baveno",
+    "eurostat:nuts_2021_id":"103008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103008",
+    "eurostat:population":4961,
+    "eurostat:population_year":2020,
     "geom:area":0.001985,
-    "geom:area_square_m":17072300.557378,
+    "geom:area_square_m":17072300.557381,
     "geom:bbox":"8.45568929179,45.8934000232,8.53475350756,45.9372060525",
     "geom:latitude":45.915513,
     "geom:longitude":8.493514,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103008",
+        "eurostat:nuts_2021_id":"103008",
         "gn:id":6538031,
         "gp:id":12676644,
         "qs_pg:id":39135
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"545599af5177ba8c51b6a373c1009823",
+    "wof:geomhash":"eb8d1aa7e71b161f85ad9c5dbdb385ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459443,
-    "wof:lastmodified":1582328170,
+    "wof:lastmodified":1684353693,
     "wof:name":"Baveno",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":4961,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

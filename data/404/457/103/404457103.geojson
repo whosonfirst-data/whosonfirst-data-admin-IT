@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toano",
+    "eurostat:nuts_2021_id":"035041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035041",
+    "eurostat:population":4329,
+    "eurostat:population_year":2020,
     "geom:area":0.007599,
-    "geom:area_square_m":67148259.497067,
+    "geom:area_square_m":67148259.49707,
     "geom:bbox":"10.4711148048,44.3424914954,10.6241296906,44.4196652442",
     "geom:latitude":44.385101,
     "geom:longitude":10.545619,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035041",
+        "eurostat:nuts_2021_id":"035041",
         "gn:id":6536722,
         "qs_pg:id":1245002
     },
@@ -149,7 +165,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f654b8e94aac320a186cc3e2f281973b",
+    "wof:geomhash":"7bd3c20a17252c6af9b49b0215987b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404457103,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353642,
     "wof:name":"Toano",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":4329,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

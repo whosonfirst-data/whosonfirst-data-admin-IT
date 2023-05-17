@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moimacco",
+    "eurostat:nuts_2021_id":"030060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030060",
+    "eurostat:population":1653,
+    "eurostat:population_year":2020,
     "geom:area":0.001366,
-    "geom:area_square_m":11714138.867202,
+    "geom:area_square_m":11714138.867204,
     "geom:bbox":"13.336726238,46.0764921979,13.4056450947,46.1119665573",
     "geom:latitude":46.092582,
     "geom:longitude":13.369979,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030060",
+        "eurostat:nuts_2021_id":"030060",
         "gn:id":6538375,
         "gp:id":12680363,
         "qs_pg:id":1172961
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f90262366ea79ec234dec2928ed0399",
+    "wof:geomhash":"28efd5808e4fa64c3e5538f8b4636f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470571,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353924,
     "wof:name":"Moimacco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1653,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

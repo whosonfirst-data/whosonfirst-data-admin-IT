@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castagnole Monferrato",
+    "eurostat:nuts_2021_id":"005023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005023",
+    "eurostat:population":1171,
+    "eurostat:population_year":2020,
     "geom:area":0.001979,
     "geom:area_square_m":17313018.625239,
     "geom:bbox":"8.28188318708,44.9198798921,8.33764758865,44.9918204617",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005023",
+        "eurostat:nuts_2021_id":"005023",
         "gn:id":6538169,
         "gp:id":12678161,
         "qs_pg:id":886021
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b91de0b31788f9db64b9fd0cdc38efd",
+    "wof:geomhash":"cb9d426498b27aceb1a1ef6861b74f06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455963,
-    "wof:lastmodified":1582327810,
+    "wof:lastmodified":1684353614,
     "wof:name":"Castagnole Monferrato",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1171,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

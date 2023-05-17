@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Livraga",
+    "eurostat:nuts_2021_id":"098030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098030",
+    "eurostat:population":2511,
+    "eurostat:population_year":2020,
     "geom:area":0.001418,
-    "geom:area_square_m":12353329.664583,
+    "geom:area_square_m":12353329.664582,
     "geom:bbox":"9.51517325444,45.1668595658,9.57967259856,45.2086934298",
     "geom:latitude":45.187453,
     "geom:longitude":9.543843,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098030",
+        "eurostat:nuts_2021_id":"098030",
         "gn:id":6543686,
         "gp:id":12682677,
         "qs_pg:id":466636
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f23d09b4390a6bd8fd32b50ddba95f2b",
+    "wof:geomhash":"2ad3dbceb5ba4938aec4a9cb88409ebb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469491,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353905,
     "wof:name":"Livraga",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":2511,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

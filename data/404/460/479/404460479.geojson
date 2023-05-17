@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Austis",
+    "eurostat:nuts_2021_id":"091004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091004",
+    "eurostat:population":778,
+    "eurostat:population_year":2020,
     "geom:area":0.005369,
-    "geom:area_square_m":50797840.062921,
+    "geom:area_square_m":50797840.062916,
     "geom:bbox":"9.01548431903,40.0373481441,9.11689608538,40.1445502605",
     "geom:latitude":40.083943,
     "geom:longitude":9.062415,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091004",
+        "eurostat:nuts_2021_id":"091004",
         "gn:id":6537848,
         "gp:id":12676348,
         "qs_pg:id":268298
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eadda5fa23609420e962c58d782e8238",
+    "wof:geomhash":"14038d27c2876c8ffc824dec97c8e77e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404460479,
-    "wof:lastmodified":1582327999,
+    "wof:lastmodified":1684353718,
     "wof:name":"Austis",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":778,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

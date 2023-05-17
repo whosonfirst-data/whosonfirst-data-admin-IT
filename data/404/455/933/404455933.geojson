@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bruno",
+    "eurostat:nuts_2021_id":"005010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005010",
+    "eurostat:population":309,
+    "eurostat:population_year":2020,
     "geom:area":0.001013,
-    "geom:area_square_m":8888835.128421,
+    "geom:area_square_m":8888835.128422,
     "geom:bbox":"8.41432314206,44.7818078895,8.48080127744,44.812189355",
     "geom:latitude":44.79677,
     "geom:longitude":8.447242,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005010",
+        "eurostat:nuts_2021_id":"005010",
         "gn:id":6540135,
         "gp:id":20075831,
         "qs_pg:id":1016905
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8cee2709fef989f727e2c6beb5eae88",
+    "wof:geomhash":"7da5d0d943d10b893e365f2bd6a9dc2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404455933,
-    "wof:lastmodified":1582327818,
+    "wof:lastmodified":1684353613,
     "wof:name":"Bruno",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

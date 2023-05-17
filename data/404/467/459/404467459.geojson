@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giustenice",
+    "eurostat:nuts_2021_id":"009031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009031",
+    "eurostat:population":1000,
+    "eurostat:population_year":2020,
     "geom:area":0.00194,
-    "geom:area_square_m":17202274.537209,
+    "geom:area_square_m":17202274.53721,
     "geom:bbox":"8.1736810142,44.1579725308,8.27797256809,44.2018104857",
     "geom:latitude":44.181609,
     "geom:longitude":8.222528,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009031",
+        "eurostat:nuts_2021_id":"009031",
         "gn:id":6542746,
         "gp:id":20076424,
         "qs_pg:id":886962
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd47782b70d94134f46deabfe76c61f4",
+    "wof:geomhash":"238155ed14ec122baa777a9bcb65e194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467459,
-    "wof:lastmodified":1582327987,
+    "wof:lastmodified":1684353874,
     "wof:name":"Giustenice",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":1000,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

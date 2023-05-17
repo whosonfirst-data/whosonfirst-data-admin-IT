@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isola Dovarese",
+    "eurostat:nuts_2021_id":"019053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019053",
+    "eurostat:population":1139,
+    "eurostat:population_year":2020,
     "geom:area":0.001084,
-    "geom:area_square_m":9450128.546284,
+    "geom:area_square_m":9450128.546282,
     "geom:bbox":"10.2841114349,45.1553570164,10.3390695909,45.193069756",
     "geom:latitude":45.16996,
     "geom:longitude":10.311703,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019053",
+        "eurostat:nuts_2021_id":"019053",
         "gn:id":6540366,
         "gp:id":12679329,
         "qs_pg:id":40811
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44fb01759b6cfa92ec83d97d7d5f6dd5",
+    "wof:geomhash":"51a22dfd31faf3ca8f11b446dadef5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404468925,
-    "wof:lastmodified":1582328083,
+    "wof:lastmodified":1684353896,
     "wof:name":"Isola Dovarese",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1139,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

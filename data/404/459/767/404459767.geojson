@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecalvo in Foglia",
+    "eurostat:nuts_2021_id":"041030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041030",
+    "eurostat:population":2740,
+    "eurostat:population_year":2020,
     "geom:area":0.002038,
-    "geom:area_square_m":18189811.821978,
+    "geom:area_square_m":18189811.821979,
     "geom:bbox":"12.6043204229,43.7809103971,12.6876422255,43.8282178126",
     "geom:latitude":43.808726,
     "geom:longitude":12.641696,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041030",
+        "eurostat:nuts_2021_id":"041030",
         "gn:id":6536767,
         "gp:id":12680480,
         "qs_pg:id":41578
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b3384b22a4d3e51efca705980bac648",
+    "wof:geomhash":"af85eaddc7143e221ce08b284921d8cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404459767,
-    "wof:lastmodified":1582328167,
+    "wof:lastmodified":1684353701,
     "wof:name":"Montecalvo In Foglia",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":2740,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

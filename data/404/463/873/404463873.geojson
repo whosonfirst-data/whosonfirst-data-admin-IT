@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sovicille",
+    "eurostat:nuts_2021_id":"052034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052034",
+    "eurostat:population":10013,
+    "eurostat:population_year":2020,
     "geom:area":0.015916,
-    "geom:area_square_m":143356631.288168,
+    "geom:area_square_m":143356631.288172,
     "geom:bbox":"11.1287078245,43.1471285396,11.3042167976,43.326132683",
     "geom:latitude":43.246349,
     "geom:longitude":11.226784,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052034",
+        "eurostat:nuts_2021_id":"052034",
         "gn:id":6536856,
         "gp:id":12676067,
         "qs_pg:id":219373
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6d4b26783e31288e39a2a099ec339b0",
+    "wof:geomhash":"e5ab6092a587d84f82c9be123a39223a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404463873,
-    "wof:lastmodified":1582327766,
+    "wof:lastmodified":1684353789,
     "wof:name":"Sovicille",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":10013,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

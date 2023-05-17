@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albugnano",
+    "eurostat:nuts_2021_id":"005002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005002",
+    "eurostat:population":500,
+    "eurostat:population_year":2020,
     "geom:area":0.001091,
     "geom:area_square_m":9525383.493223,
     "geom:bbox":"7.94991372259,45.0650937502,8.00598915979,45.1010850566",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005002",
+        "eurostat:nuts_2021_id":"005002",
         "gn:id":6542844,
         "gp:id":20075826,
         "qs_pg:id":1163793
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d27c66d272b623f8d94ebee72573e7f0",
+    "wof:geomhash":"a5b528a03c715053213b25807d945a18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455915,
-    "wof:lastmodified":1582327814,
+    "wof:lastmodified":1684353613,
     "wof:name":"Albugnano",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":500,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

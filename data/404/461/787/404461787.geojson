@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fonte Nuova",
+    "eurostat:nuts_2021_id":"058122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058122",
+    "eurostat:population":33521,
+    "eurostat:population_year":2020,
     "geom:area":0.002164,
-    "geom:area_square_m":19882654.257517,
+    "geom:area_square_m":19882654.257521,
     "geom:bbox":"12.5965779945,41.9745473281,12.6710947321,42.0294893549",
     "geom:latitude":42.002178,
     "geom:longitude":12.634829,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058122",
+        "eurostat:nuts_2021_id":"058122",
         "gp:id":23388500,
         "qs_pg:id":999821
     },
@@ -158,7 +174,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"952a5f5d1a2b6b173aecc96b3310526d",
+    "wof:geomhash":"fd96af77af80ce07a6770ae4b9566854",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":404461787,
-    "wof:lastmodified":1582328149,
+    "wof:lastmodified":1684353746,
     "wof:name":"Fonte Nuova",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":33521,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

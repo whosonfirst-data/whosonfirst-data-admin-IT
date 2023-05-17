@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rionero in Vulture",
+    "eurostat:nuts_2021_id":"076066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076066",
+    "eurostat:population":12940,
+    "eurostat:population_year":2020,
     "geom:area":0.005682,
-    "geom:area_square_m":53090294.175145,
+    "geom:area_square_m":53090294.175166,
     "geom:bbox":"15.5341965328,40.8793832795,15.7000640235,40.9636839875",
     "geom:latitude":40.924171,
     "geom:longitude":15.616051,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076066",
+        "eurostat:nuts_2021_id":"076066",
         "gn:id":6541273,
         "gp:id":12675746,
         "qs_pg:id":218632
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d249fad11bffea01cf838c2e2871adc8",
+    "wof:geomhash":"8f732d895cc918814c453325835d92e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457011,
-    "wof:lastmodified":1582328113,
+    "wof:lastmodified":1684353640,
     "wof:name":"Rionero In Vulture",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":12940,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

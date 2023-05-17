@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cropalati",
+    "eurostat:nuts_2021_id":"078046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078046",
+    "eurostat:population":1032,
+    "eurostat:population_year":2020,
     "geom:area":0.003495,
-    "geom:area_square_m":33331869.823505,
+    "geom:area_square_m":33331869.823503,
     "geom:bbox":"16.6635406255,39.4809530814,16.7536092555,39.575828982",
     "geom:latitude":39.522856,
     "geom:longitude":16.720056,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078046",
+        "eurostat:nuts_2021_id":"078046"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b074e76685d4622dd561be8aef034d70",
+    "wof:geomhash":"f4baf94b1f6dea6b64642050c528b768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464147,
-    "wof:lastmodified":1566723250,
+    "wof:lastmodified":1684353798,
     "wof:name":"Cropalati",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1032,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

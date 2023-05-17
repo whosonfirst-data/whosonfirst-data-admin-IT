@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazzin",
+    "eurostat:nuts_2021_id":"022113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022113",
+    "eurostat:population":585,
+    "eurostat:population_year":2020,
     "geom:area":0.002767,
-    "geom:area_square_m":23563275.84692,
+    "geom:area_square_m":23563275.846917,
     "geom:bbox":"11.6436889565,46.4401154412,11.7642475812,46.4875990384",
     "geom:latitude":46.46523,
     "geom:longitude":11.707152,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022113",
+        "eurostat:nuts_2021_id":"022113",
         "gn:id":6539502,
         "gp:id":12677406,
         "qs_pg:id":50812
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"624a67dbb21aee95cdd3dfa70dda2bfd",
+    "wof:geomhash":"f2e66bcd98e9a9de0aa9efb201bec46b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404473543,
-    "wof:lastmodified":1582327921,
+    "wof:lastmodified":1684353990,
     "wof:name":"Mazzin",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":585,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

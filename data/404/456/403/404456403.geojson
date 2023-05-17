@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feletto",
+    "eurostat:nuts_2021_id":"001102",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001102",
+    "eurostat:population":2240,
+    "eurostat:population_year":2020,
     "geom:area":0.000906,
     "geom:area_square_m":7880074.910262,
     "geom:bbox":"7.73449909672,45.2752550182,7.7840401247,45.3130075897",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001102",
+        "eurostat:nuts_2021_id":"001102",
         "gn:id":3177127,
         "gp:id":12679228,
         "qs_pg:id":40751
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2b00c899710e05ef702d2b9ee446966c",
+    "wof:geomhash":"b2a5b86f06eb6edff2cf4980690e110f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456403,
-    "wof:lastmodified":1582328068,
+    "wof:lastmodified":1684353623,
     "wof:name":"Feletto",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":2240,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

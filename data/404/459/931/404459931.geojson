@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostra Vetere",
+    "eurostat:nuts_2021_id":"042036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042036",
+    "eurostat:population":3178,
+    "eurostat:population_year":2020,
     "geom:area":0.00334,
     "geom:area_square_m":29906415.323412,
     "geom:bbox":"13.0204746584,43.5749405178,13.1198522977,43.6301355237",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042036",
+        "eurostat:nuts_2021_id":"042036",
         "gn:id":6538515,
         "gp:id":12680379,
         "qs_pg:id":1102169
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7350e62da25f81b9bff4533d147a62d0",
+    "wof:geomhash":"90cba1d1260bd44310cffa062ae6d8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459931,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353705,
     "wof:name":"Ostra Vetere",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":3178,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

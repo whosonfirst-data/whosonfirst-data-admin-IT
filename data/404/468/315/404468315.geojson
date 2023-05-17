@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Besate",
+    "eurostat:nuts_2021_id":"015022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015022",
+    "eurostat:population":2054,
+    "eurostat:population_year":2020,
     "geom:area":0.001463,
     "geom:area_square_m":12724618.321684,
     "geom:bbox":"8.93349383064,45.2829807702,8.99877829595,45.3245708105",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015022",
+        "eurostat:nuts_2021_id":"015022",
         "gn:id":6536135,
         "gp:id":12676749,
         "qs_pg:id":1163419
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02523db7f0a2a9735e626b06750057c8",
+    "wof:geomhash":"65f2247bc87980d58369f3a1905198a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468315,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353887,
     "wof:name":"Besate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":2054,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

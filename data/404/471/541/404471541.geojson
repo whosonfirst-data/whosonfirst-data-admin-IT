@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte Nizza",
+    "eurostat:nuts_2021_id":"018117",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018117",
+    "eurostat:population":779,
+    "eurostat:population_year":2020,
     "geom:area":0.002616,
-    "geom:area_square_m":22927089.10491,
+    "geom:area_square_m":22927089.104913,
     "geom:bbox":"9.07873947772,44.8172557816,9.16253777107,44.8866400585",
     "geom:latitude":44.854826,
     "geom:longitude":9.115988,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_018117",
+        "eurostat:nuts_2021_id":"018117"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3365da1bbab96bb8708b9a1a8dcb3c95",
+    "wof:geomhash":"daf656be7fc1a7e211b9694275f2c4e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404471541,
-    "wof:lastmodified":1566723126,
+    "wof:lastmodified":1684353941,
     "wof:name":"Ponte Nizza",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":779,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

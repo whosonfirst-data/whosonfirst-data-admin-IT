@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guspini",
+    "eurostat:nuts_2021_id":"111034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111034",
+    "eurostat:population":11499,
+    "eurostat:population_year":2020,
     "geom:area":0.018332,
-    "geom:area_square_m":174644992.837998,
+    "geom:area_square_m":174644992.838028,
     "geom:bbox":"8.51555852259,39.5072885263,8.69308355953,39.6959811695",
     "geom:latitude":39.606709,
     "geom:longitude":8.608711,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111034",
+        "eurostat:nuts_2021_id":"111034",
         "gn:id":6537900,
         "gp:id":20076836,
         "qs_pg:id":50966
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18992e684151a27d4fd7474aa9095908",
+    "wof:geomhash":"a9ce11bcf94540eb8f0f299a3cc7cc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404467289,
-    "wof:lastmodified":1582327970,
+    "wof:lastmodified":1684353871,
     "wof:name":"Guspini",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":11499,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massa Fermana",
+    "eurostat:nuts_2021_id":"109011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109011",
+    "eurostat:population":913,
+    "eurostat:population_year":2020,
     "geom:area":0.000853,
-    "geom:area_square_m":7695171.423539,
+    "geom:area_square_m":7695171.423541,
     "geom:bbox":"13.4527642082,43.1397748316,13.5098234921,43.166570285",
     "geom:latitude":43.15367,
     "geom:longitude":13.48169,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109011",
+        "eurostat:nuts_2021_id":"109011",
         "gn:id":6538535,
         "gp:id":12680226,
         "qs_pg:id":961714
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b659a3847cf5b2a0fac10bf679524caf",
+    "wof:geomhash":"408b4cf71db8bac2f0cb09fde9729e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461151,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353733,
     "wof:name":"Massa Fermana",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":913,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

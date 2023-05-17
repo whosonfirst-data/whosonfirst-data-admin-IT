@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lessona",
+    "eurostat:nuts_2021_id":"096085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096085",
+    "eurostat:population":2719,
+    "eurostat:population_year":2020,
     "geom:area":0.001357,
-    "geom:area_square_m":11747079.004913,
+    "geom:area_square_m":11747079.004916,
     "geom:bbox":"8.18250502943,45.5342838743,8.23939471574,45.6047397865",
     "geom:latitude":45.568868,
     "geom:longitude":8.212497,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096085",
+        "eurostat:nuts_2021_id":"096085",
         "gn:id":6539391,
         "gp:id":12682654,
         "qs_pg:id":1173558
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b58e03f1895ffcb19a2ceae44d4b94ef",
+    "wof:geomhash":"eefcc27aeb9fd6ac25f7db4ebc3960b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460355,
-    "wof:lastmodified":1582327996,
+    "wof:lastmodified":1684353716,
     "wof:name":"Lessona",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":2719,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

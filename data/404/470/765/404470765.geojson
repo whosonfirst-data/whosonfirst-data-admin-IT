@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grado",
+    "eurostat:nuts_2021_id":"031009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031009",
+    "eurostat:population":8054,
+    "eurostat:population_year":2020,
     "geom:area":0.012838,
-    "geom:area_square_m":110837344.497694,
+    "geom:area_square_m":110837344.497697,
     "geom:bbox":"13.2376539179,45.6738949952,13.5535490118,45.756959721",
     "geom:latitude":45.718381,
     "geom:longitude":13.385098,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031009",
+        "eurostat:nuts_2021_id":"031009",
         "gn:id":6539651,
         "gp:id":12675796,
         "qs_pg:id":1314042
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea113033530c5e6313e440f51b776d2a",
+    "wof:geomhash":"74d7c3ca38b8d4f0a56628a0b9d2251e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404470765,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353927,
     "wof:name":"Grado",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":8054,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

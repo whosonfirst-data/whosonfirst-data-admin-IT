@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Celico",
+    "eurostat:nuts_2021_id":"078034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078034",
+    "eurostat:population":2770,
+    "eurostat:population_year":2020,
     "geom:area":0.010332,
-    "geom:area_square_m":98738864.626046,
+    "geom:area_square_m":98738864.626083,
     "geom:bbox":"16.3082930885,39.291594407,16.540289587,39.4521390598",
     "geom:latitude":39.387997,
     "geom:longitude":16.445096,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078034",
+        "eurostat:nuts_2021_id":"078034"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e8aacddf1520c16ed0d09eb315aa180b",
+    "wof:geomhash":"838af0675d1ce773abaad81a9a28d793",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464121,
-    "wof:lastmodified":1566723227,
+    "wof:lastmodified":1684353797,
     "wof:name":"Celico",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2770,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

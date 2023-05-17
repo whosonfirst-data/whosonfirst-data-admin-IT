@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaiano Cremasco",
+    "eurostat:nuts_2021_id":"019111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019111",
+    "eurostat:population":3655,
+    "eurostat:population_year":2020,
     "geom:area":0.000707,
-    "geom:area_square_m":6142518.943044,
+    "geom:area_square_m":6142518.943043,
     "geom:bbox":"9.57194892501,45.356271443,9.61268619441,45.38857131",
     "geom:latitude":45.374308,
     "geom:longitude":9.591995,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019111",
+        "eurostat:nuts_2021_id":"019111",
         "gn:id":6536583,
         "gp:id":12682322,
         "qs_pg:id":1072672
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"703a176b2f3c464635443681c4f62a02",
+    "wof:geomhash":"52c342e06df681c10225aaad871c9661",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469055,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353898,
     "wof:name":"Vaiano Cremasco",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":3655,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

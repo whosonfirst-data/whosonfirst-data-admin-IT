@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cicciano",
+    "eurostat:nuts_2021_id":"063027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063027",
+    "eurostat:population":12781,
+    "eurostat:population_year":2020,
     "geom:area":0.000781,
     "geom:area_square_m":7289276.285467,
     "geom:bbox":"14.4889176957,40.9554821323,14.5554540972,40.9776830635",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063027",
+        "eurostat:nuts_2021_id":"063027",
         "gn:id":6537340,
         "gp:id":12678646,
         "qs_pg:id":1142973
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0df9670b7b4366e6379b5f68ff0ef4b",
+    "wof:geomhash":"f48f37df268180db2fb53f5ef5bab08a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460929,
-    "wof:lastmodified":1582328019,
+    "wof:lastmodified":1684353727,
     "wof:name":"Cicciano",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":12781,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

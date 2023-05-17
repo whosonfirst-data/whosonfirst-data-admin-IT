@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gravere",
+    "eurostat:nuts_2021_id":"001117",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001117",
+    "eurostat:population":671,
+    "eurostat:population_year":2020,
     "geom:area":0.002171,
     "geom:area_square_m":18949823.10067,
     "geom:bbox":"7.00405348278,45.0758531849,7.05343142733,45.1362621878",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001117",
+        "eurostat:nuts_2021_id":"001117",
         "gn:id":6543378,
         "gp:id":12680083,
         "qs_pg:id":265980
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef43f173a86252c332bec9eca48ded0d",
+    "wof:geomhash":"46a06944053601f3d4abb5276bf2deda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456437,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353624,
     "wof:name":"Gravere",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":671,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

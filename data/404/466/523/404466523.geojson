@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca Sicula",
+    "eurostat:nuts_2021_id":"084043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084043",
+    "eurostat:population":1371,
+    "eurostat:population_year":2020,
     "geom:area":0.001793,
     "geom:area_square_m":17573809.123465,
     "geom:bbox":"13.2589401129,37.5323970477,13.3050656961,37.5940989967",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084043",
+        "eurostat:nuts_2021_id":"084043",
         "gn:id":6539176,
         "gp:id":12682454,
         "qs_pg:id":43021
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"861f0b3cd09fb66d26480d9ad1716835",
+    "wof:geomhash":"ae91ba41e3018366eb0935790a8f718a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466523,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353851,
     "wof:name":"Villafranca Sicula",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":1371,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

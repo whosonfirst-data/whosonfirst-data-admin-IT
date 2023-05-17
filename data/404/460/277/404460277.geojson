@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Monferrato",
+    "eurostat:nuts_2021_id":"006185",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006185",
+    "eurostat:population":1804,
+    "eurostat:population_year":2020,
     "geom:area":0.001897,
-    "geom:area_square_m":16532697.434743,
+    "geom:area_square_m":16532697.434747,
     "geom:bbox":"8.44026339493,45.1618999801,8.50724739569,45.2045947266",
     "geom:latitude":45.183603,
     "geom:longitude":8.47238,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006185",
+        "eurostat:nuts_2021_id":"006185",
         "gn:id":6537024,
         "gp:id":12682465,
         "qs_pg:id":949026
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24bf4ff271981d649a33cad343fadabc",
+    "wof:geomhash":"867a1c6ad0a070597a04a8ece622bb36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460277,
-    "wof:lastmodified":1582328012,
+    "wof:lastmodified":1684353714,
     "wof:name":"Villanova Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1804,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

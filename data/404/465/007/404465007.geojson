@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isnello",
+    "eurostat:nuts_2021_id":"082042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082042",
+    "eurostat:population":1418,
+    "eurostat:population_year":2020,
     "geom:area":0.005204,
-    "geom:area_square_m":50769155.557282,
+    "geom:area_square_m":50769155.557295,
     "geom:bbox":"13.9618284394,37.8681442383,14.0600008168,37.9548644837",
     "geom:latitude":37.914945,
     "geom:longitude":14.006808,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082042",
+        "eurostat:nuts_2021_id":"082042",
         "gn:id":6541322,
         "gp:id":12679783,
         "qs_pg:id":41113
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c15ae8b3eab439cf4bffe540af3c3e5a",
+    "wof:geomhash":"539455c36c9f8482267d34e75eb82cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404465007,
-    "wof:lastmodified":1582327831,
+    "wof:lastmodified":1684353823,
     "wof:name":"Isnello",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1418,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

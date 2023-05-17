@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castagneto Carducci",
+    "eurostat:nuts_2021_id":"049006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049006",
+    "eurostat:population":8954,
+    "eurostat:population_year":2020,
     "geom:area":0.015764,
-    "geom:area_square_m":142142008.990022,
+    "geom:area_square_m":142142008.990007,
     "geom:bbox":"10.5283014854,43.0983460311,10.6906771509,43.2473539545",
     "geom:latitude":43.179153,
     "geom:longitude":10.597756,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -159,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049006",
+        "eurostat:nuts_2021_id":"049006",
         "gn:id":6541092,
         "gp:id":12676863,
         "qs_pg:id":1092891
@@ -167,7 +183,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"739bbacb46b689df7a891e88941758e5",
+    "wof:geomhash":"88abc497fc07d17bcf0b781cca0b074b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404472849,
-    "wof:lastmodified":1582327900,
+    "wof:lastmodified":1684353971,
     "wof:name":"Castagneto Carducci",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":8954,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

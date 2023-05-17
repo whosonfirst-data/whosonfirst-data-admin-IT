@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apice",
+    "eurostat:nuts_2021_id":"062003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062003",
+    "eurostat:population":5537,
+    "eurostat:population_year":2020,
     "geom:area":0.00523,
-    "geom:area_square_m":48716028.730801,
+    "geom:area_square_m":48716028.730796,
     "geom:bbox":"14.9056672253,41.0802033349,15.0111088361,41.1889957949",
     "geom:latitude":41.128748,
     "geom:longitude":14.957251,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062003",
+        "eurostat:nuts_2021_id":"062003",
         "gn:id":6536380,
         "gp:id":12676146,
         "qs_pg:id":38835
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07226e832fb6f54a449a28b43d63fca3",
+    "wof:geomhash":"68b968d7e747603d568b9eace94264db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460699,
-    "wof:lastmodified":1582328015,
+    "wof:lastmodified":1684353723,
     "wof:name":"Apice",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":5537,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

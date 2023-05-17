@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zafferana Etnea",
+    "eurostat:nuts_2021_id":"087055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087055",
+    "eurostat:population":9521,
+    "eurostat:population_year":2020,
     "geom:area":0.007805,
-    "geom:area_square_m":76352628.218432,
+    "geom:area_square_m":76352628.21842,
     "geom:bbox":"14.9942962311,37.6488999507,15.1304210167,37.7606755691",
     "geom:latitude":37.709865,
     "geom:longitude":15.06312,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087055",
+        "eurostat:nuts_2021_id":"087055",
         "gn:id":6539205,
         "gp:id":12682534,
         "qs_pg:id":1196848
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d66b6e98bac2dc1a3dcd95ec297e4046",
+    "wof:geomhash":"47c6296e9fde1c5bd9d824526ba075a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466637,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353853,
     "wof:name":"Zafferana Etnea",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":9521,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

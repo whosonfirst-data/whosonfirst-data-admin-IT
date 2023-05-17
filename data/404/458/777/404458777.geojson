@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montenero di Bisaccia",
+    "eurostat:nuts_2021_id":"070046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070046",
+    "eurostat:population":6312,
+    "eurostat:population_year":2020,
     "geom:area":0.010089,
-    "geom:area_square_m":92727580.50361,
+    "geom:area_square_m":92727580.50356,
     "geom:bbox":"14.7128665204,41.9065198007,14.8667050276,42.0699787531",
     "geom:latitude":41.984637,
     "geom:longitude":14.785481,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070046",
+        "eurostat:nuts_2021_id":"070046",
         "gn:id":6541850,
         "gp:id":20076894,
         "qs_pg:id":276763
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"890ca12c1f24b211d06f24061ea9143f",
+    "wof:geomhash":"62edc949753c7912a849209ed9bb608c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458777,
-    "wof:lastmodified":1582327949,
+    "wof:lastmodified":1684353677,
     "wof:name":"Montenero Di Bisaccia",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":6312,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

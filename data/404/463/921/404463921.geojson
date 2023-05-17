@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccalbegna",
+    "eurostat:nuts_2021_id":"053020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053020",
+    "eurostat:population":951,
+    "eurostat:population_year":2020,
     "geom:area":0.013732,
-    "geom:area_square_m":124630782.146054,
+    "geom:area_square_m":124630782.146049,
     "geom:bbox":"11.3565429591,42.6962403203,11.5837136107,42.8413101526",
     "geom:latitude":42.77936,
     "geom:longitude":11.467693,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053020",
+        "eurostat:nuts_2021_id":"053020",
         "gn:id":6536861,
         "gp:id":12677478,
         "qs_pg:id":248024
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"368b244309f0d9273055572325598ab8",
+    "wof:geomhash":"edd5e5429adac0cc439ee25f88650921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463921,
-    "wof:lastmodified":1582327789,
+    "wof:lastmodified":1684353791,
     "wof:name":"Roccalbegna",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":951,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

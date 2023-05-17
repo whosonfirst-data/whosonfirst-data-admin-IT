@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bisacquino",
+    "eurostat:nuts_2021_id":"082010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082010",
+    "eurostat:population":4321,
+    "eurostat:population_year":2020,
     "geom:area":0.006623,
-    "geom:area_square_m":64770882.703472,
+    "geom:area_square_m":64770882.703463,
     "geom:bbox":"13.123054558,37.6251473169,13.3121723124,37.8101141933",
     "geom:latitude":37.730262,
     "geom:longitude":13.216466,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082010",
+        "eurostat:nuts_2021_id":"082010",
         "gn:id":6539119,
         "gp:id":12676808,
         "qs_pg:id":1187845
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63a4c568284e6dcd4cb6904087b27aa3",
+    "wof:geomhash":"d6518f8b11e0e0ea0788e8d2b6a4d9ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464935,
-    "wof:lastmodified":1582327800,
+    "wof:lastmodified":1684353821,
     "wof:name":"Bisacquino",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":4321,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

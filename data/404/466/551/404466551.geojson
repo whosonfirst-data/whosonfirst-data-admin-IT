@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mussomeli",
+    "eurostat:nuts_2021_id":"085012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085012",
+    "eurostat:population":10262,
+    "eurostat:population_year":2020,
     "geom:area":0.016705,
-    "geom:area_square_m":163754851.053688,
+    "geom:area_square_m":163754851.05368,
     "geom:bbox":"13.7090123505,37.4746032106,13.9065940468,37.6292030139",
     "geom:latitude":37.55607,
     "geom:longitude":13.816894,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085012",
+        "eurostat:nuts_2021_id":"085012",
         "gn:id":6537790,
         "gp:id":12677823,
         "qs_pg:id":891482
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abb96739b59b0de379c4c1c5f9d7df11",
+    "wof:geomhash":"a245d6bfd9d3d7abdff97ea4c5758cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466551,
-    "wof:lastmodified":1582328182,
+    "wof:lastmodified":1684353852,
     "wof:name":"Mussomeli",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":10262,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

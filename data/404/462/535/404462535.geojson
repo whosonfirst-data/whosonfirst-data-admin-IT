@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borrello",
+    "eurostat:nuts_2021_id":"069007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069007",
+    "eurostat:population":322,
+    "eurostat:population_year":2020,
     "geom:area":0.001568,
-    "geom:area_square_m":14430971.23863,
+    "geom:area_square_m":14430971.238629,
     "geom:bbox":"14.284269273,41.8928498406,14.3463370194,41.9357763001",
     "geom:latitude":41.914125,
     "geom:longitude":14.313924,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069007",
+        "eurostat:nuts_2021_id":"069007",
         "gn:id":6539829,
         "gp:id":12676999,
         "qs_pg:id":49133
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2f5a48c27a5a93ec6ec1893dbc0a162",
+    "wof:geomhash":"96a79a9c450375cc59b95732b4b152c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462535,
-    "wof:lastmodified":1582327852,
+    "wof:lastmodified":1684353760,
     "wof:name":"Borrello",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":322,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pietro in Cerro",
+    "eurostat:nuts_2021_id":"033041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033041",
+    "eurostat:population":836,
+    "eurostat:population_year":2020,
     "geom:area":0.003125,
     "geom:area_square_m":27305124.6588,
     "geom:bbox":"9.88130769857,45.0045790122,9.98481204039,45.0630863636",
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033041",
+        "eurostat:nuts_2021_id":"033041",
         "gn:id":6543581,
         "gp:id":12681181,
         "qs_pg:id":268305
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc5f1db3581cff8bd2d5c66259b507a1",
+    "wof:geomhash":"cdfec23106469556ecea15117b6fe122",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404472125,
-    "wof:lastmodified":1582327908,
+    "wof:lastmodified":1684353952,
     "wof:name":"San Pietro In Cerro",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":836,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

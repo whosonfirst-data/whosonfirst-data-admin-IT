@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Falerna",
+    "eurostat:nuts_2021_id":"079047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079047",
+    "eurostat:population":3907,
+    "eurostat:population_year":2020,
     "geom:area":0.002478,
     "geom:area_square_m":23815303.222295,
     "geom:bbox":"16.1241435178,38.9688055611,16.2269978462,39.0196928035",
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079047",
+        "eurostat:nuts_2021_id":"079047"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bd3cae36d0599979ba609ab7da2c01e6",
+    "wof:geomhash":"cedf5f88a8828b148f655b409cd27da5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464349,
-    "wof:lastmodified":1566723226,
+    "wof:lastmodified":1684353804,
     "wof:name":"Falerna",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":3907,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

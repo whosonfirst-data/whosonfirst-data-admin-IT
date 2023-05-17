@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moglia",
+    "eurostat:nuts_2021_id":"020035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020035",
+    "eurostat:population":5427,
+    "eurostat:population_year":2020,
     "geom:area":0.003632,
-    "geom:area_square_m":31779726.350492,
+    "geom:area_square_m":31779726.350495,
     "geom:bbox":"10.8740407172,44.9124305188,10.9725665885,44.9925684301",
     "geom:latitude":44.950738,
     "geom:longitude":10.925935,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020035",
+        "eurostat:nuts_2021_id":"020035",
         "gn:id":6539679,
         "gp:id":12678018,
         "qs_pg:id":1250761
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28e496952bd43ef8069d068a477a5f8d",
+    "wof:geomhash":"a076d8fbd0c376d7fd9ce76e517860e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469143,
-    "wof:lastmodified":1582328032,
+    "wof:lastmodified":1684353900,
     "wof:name":"Moglia",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":5427,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

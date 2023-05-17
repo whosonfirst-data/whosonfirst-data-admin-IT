@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Limido Comasco",
+    "eurostat:nuts_2021_id":"013128",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013128",
+    "eurostat:population":3898,
+    "eurostat:population_year":2020,
     "geom:area":0.000528,
     "geom:area_square_m":4556810.468116,
     "geom:bbox":"8.95916899586,45.6704308006,8.99789813957,45.7001356759",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013128",
+        "eurostat:nuts_2021_id":"013128",
         "gn:id":6543113,
         "gp:id":20076106,
         "qs_pg:id":1072514
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"832cd6ac3d7eb4df3f564ef9cc68bd3e",
+    "wof:geomhash":"fce672aa5dbc901ab5c99c05c1e6fe28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468125,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353884,
     "wof:name":"Limido Comasco",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":3898,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

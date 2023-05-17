@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorico",
+    "eurostat:nuts_2021_id":"013216",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013216",
+    "eurostat:population":1234,
+    "eurostat:population_year":2020,
     "geom:area":0.00285,
-    "geom:area_square_m":24397110.859311,
+    "geom:area_square_m":24397110.859309,
     "geom:bbox":"9.37274441524,46.1537713844,9.44085529029,46.2234823142",
     "geom:latitude":46.18845,
     "geom:longitude":9.404224,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013216",
+        "eurostat:nuts_2021_id":"013216",
         "gn:id":6543728,
         "gp:id":12675928,
         "qs_pg:id":1293000
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0669d16dfcf21508aefc3b48777d5975",
+    "wof:geomhash":"d853b6998894ad43c5e0b5d038cd22e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404458241,
-    "wof:lastmodified":1582327954,
+    "wof:lastmodified":1684353667,
     "wof:name":"Sorico",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1234,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lusiana Conco",
+    "eurostat:nuts_2021_id":"024127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024127",
+    "eurostat:population":4655,
+    "eurostat:population_year":2020,
     "geom:area":0.003108,
-    "geom:area_square_m":26785344.916898,
+    "geom:area_square_m":26785344.916895,
     "geom:bbox":"11.5901761707,45.7787341917,11.6651885318,45.8443148817",
     "geom:latitude":45.80961,
     "geom:longitude":11.621894,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024127",
+        "eurostat:nuts_2021_id":"024127",
         "gn:id":6538260,
         "gp:id":12678852,
         "qs_pg:id":248036
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"157c32178ddd0850f161cd5c7c202fe3",
+    "wof:geomhash":"863d4bb59d7e21ab65c9bfbef1e4d817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463571,
-    "wof:lastmodified":1582327786,
+    "wof:lastmodified":1684353782,
     "wof:name":"Conco",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":4655,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masone",
+    "eurostat:nuts_2021_id":"010032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010032",
+    "eurostat:population":3593,
+    "eurostat:population_year":2020,
     "geom:area":0.003334,
-    "geom:area_square_m":29404769.214944,
+    "geom:area_square_m":29404769.214943,
     "geom:bbox":"8.66302605306,44.4795169833,8.77361596408,44.5302220283",
     "geom:latitude":44.501938,
     "geom:longitude":8.72197,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010032",
+        "eurostat:nuts_2021_id":"010032",
         "gn:id":6540561,
         "gp:id":12678024,
         "qs_pg:id":1122876
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa668a89206abbbdb4741c7c83ef740c",
+    "wof:geomhash":"4ec7d493de39c67285afdf1ea92a7696",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471991,
-    "wof:lastmodified":1582327710,
+    "wof:lastmodified":1684353950,
     "wof:name":"Masone",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":3593,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

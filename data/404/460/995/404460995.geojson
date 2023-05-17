@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte San Martino",
+    "eurostat:nuts_2021_id":"043032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043032",
+    "eurostat:population":716,
+    "eurostat:population_year":2020,
     "geom:area":0.002035,
-    "geom:area_square_m":18391714.689856,
+    "geom:area_square_m":18391714.689857,
     "geom:bbox":"13.3810820616,43.008252289,13.4669478665,43.0579667185",
     "geom:latitude":43.029184,
     "geom:longitude":13.425874,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043032",
+        "eurostat:nuts_2021_id":"043032",
         "gn:id":6538521,
         "gp:id":12680471,
         "qs_pg:id":234677
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28a47897fe6ef8630a22d1bce1cfc672",
+    "wof:geomhash":"861dd45889ddb260b2030939e8528977",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404460995,
-    "wof:lastmodified":1582328008,
+    "wof:lastmodified":1684353728,
     "wof:name":"Monte San Martino",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":716,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

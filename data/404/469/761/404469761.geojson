@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcugnano",
+    "eurostat:nuts_2021_id":"024006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024006",
+    "eurostat:population":7823,
+    "eurostat:population_year":2020,
     "geom:area":0.004783,
-    "geom:area_square_m":41467850.70006,
+    "geom:area_square_m":41467850.700068,
     "geom:bbox":"11.4852878007,45.440319791,11.5930034915,45.5196085917",
     "geom:latitude":45.47812,
     "geom:longitude":11.534366,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024006",
+        "eurostat:nuts_2021_id":"024006",
         "gn:id":6540211,
         "gp:id":12676198,
         "qs_pg:id":38869
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff7f18befcec0283c09f0cdf5bf9905e",
+    "wof:geomhash":"bb8e6d121407c352ebd8f7079b49cefe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469761,
-    "wof:lastmodified":1582328036,
+    "wof:lastmodified":1684353909,
     "wof:name":"Arcugnano",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":7823,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

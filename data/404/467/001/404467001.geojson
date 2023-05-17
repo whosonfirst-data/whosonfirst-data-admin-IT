@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busachi",
+    "eurostat:nuts_2021_id":"095017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095017",
+    "eurostat:population":1241,
+    "eurostat:population_year":2020,
     "geom:area":0.006231,
-    "geom:area_square_m":59015814.655066,
+    "geom:area_square_m":59015814.655065,
     "geom:bbox":"8.82063094588,39.9643760366,8.95341475771,40.0488163891",
     "geom:latitude":40.009065,
     "geom:longitude":8.885696,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095017",
+        "eurostat:nuts_2021_id":"095017",
         "gn:id":6537966,
         "gp:id":12677194,
         "qs_pg:id":946836
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e74ff3bccf1aa9bf051b06972703fe8",
+    "wof:geomhash":"8a8dfcf5b3292559e7337c6babc0a979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467001,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353863,
     "wof:name":"Busachi",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":1241,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

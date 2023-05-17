@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Civitaquana",
+    "eurostat:nuts_2021_id":"068013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068013",
+    "eurostat:population":1217,
+    "eurostat:population_year":2020,
     "geom:area":0.002382,
-    "geom:area_square_m":21775808.891593,
+    "geom:area_square_m":21775808.891585,
     "geom:bbox":"13.8748528642,42.3076738733,13.9609283658,42.3797508952",
     "geom:latitude":42.33953,
     "geom:longitude":13.920775,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_068013",
+        "eurostat:nuts_2021_id":"068013"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"da52d95b0adfd8bac12ea7ca70519e43",
+    "wof:geomhash":"27b253b56e8a271357a335507d845ad6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404462445,
-    "wof:lastmodified":1566723335,
+    "wof:lastmodified":1684353759,
     "wof:name":"Civitaquana",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":1217,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

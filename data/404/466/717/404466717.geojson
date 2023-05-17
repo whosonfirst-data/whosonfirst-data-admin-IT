@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Priolo Gargallo",
+    "eurostat:nuts_2021_id":"089021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089021",
+    "eurostat:population":11687,
+    "eurostat:population_year":2020,
     "geom:area":0.005735,
-    "geom:area_square_m":56529454.280779,
+    "geom:area_square_m":56529454.280777,
     "geom:bbox":"15.1158184136,37.102952069,15.2446889802,37.1782270448",
     "geom:latitude":37.138563,
     "geom:longitude":15.171427,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_089021",
+        "eurostat:nuts_2021_id":"089021"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5810349e1f13e699bbade1450dd87111",
+    "wof:geomhash":"b4c46225b4810be39ef6d5943cebf720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404466717,
-    "wof:lastmodified":1566723797,
+    "wof:lastmodified":1684353856,
     "wof:name":"Priolo Gargallo",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":11687,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Cristoforo",
+    "eurostat:nuts_2021_id":"006152",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006152",
+    "eurostat:population":568,
+    "eurostat:population_year":2020,
     "geom:area":0.000406,
     "geom:area_square_m":3566297.229172,
     "geom:bbox":"8.73020944535,44.6840572213,8.7628103452,44.7114848559",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006152",
+        "eurostat:nuts_2021_id":"006152",
         "gn:id":6539771,
         "gp:id":12681602,
         "qs_pg:id":1143659
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3827af464d1654ed548b2e2f827aa2bd",
+    "wof:geomhash":"1faaa6cf58087646d1be01a9170f6f43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456755,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353632,
     "wof:name":"San Cristoforo",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":568,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

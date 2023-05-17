@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cetraro",
+    "eurostat:nuts_2021_id":"078040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078040",
+    "eurostat:population":9850,
+    "eurostat:population_year":2020,
     "geom:area":0.006874,
-    "geom:area_square_m":65555681.093731,
+    "geom:area_square_m":65555681.093727,
     "geom:bbox":"15.8900725502,39.492782119,16.0269541444,39.5758183724",
     "geom:latitude":39.536529,
     "geom:longitude":15.967942,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078040",
+        "eurostat:nuts_2021_id":"078040"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3d1e209a2c2b1e30f2044589556f7a9e",
+    "wof:geomhash":"4e03b13831378d7e647602a2c6eb7782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464135,
-    "wof:lastmodified":1566723207,
+    "wof:lastmodified":1684353798,
     "wof:name":"Cetraro",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":9850,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

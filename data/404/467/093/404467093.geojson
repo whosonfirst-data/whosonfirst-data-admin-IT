@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Simala",
+    "eurostat:nuts_2021_id":"095058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095058",
+    "eurostat:population":307,
+    "eurostat:population_year":2020,
     "geom:area":0.001407,
-    "geom:area_square_m":13376942.083539,
+    "geom:area_square_m":13376942.08354,
     "geom:bbox":"8.80539447701,39.7086067572,8.86545718184,39.7439293858",
     "geom:latitude":39.726329,
     "geom:longitude":8.832554,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095058",
+        "eurostat:nuts_2021_id":"095058",
         "gn:id":6537978,
         "gp:id":12682020,
         "qs_pg:id":251666
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46fc96362e1d38d7b9d41586b13e05a6",
+    "wof:geomhash":"5ca7c15347312976556dcb427b69140b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467093,
-    "wof:lastmodified":1582327988,
+    "wof:lastmodified":1684353865,
     "wof:name":"Simala",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":307,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

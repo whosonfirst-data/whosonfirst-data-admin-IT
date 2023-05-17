@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Leucio del Sannio",
+    "eurostat:nuts_2021_id":"062060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062060",
+    "eurostat:population":3021,
+    "eurostat:population_year":2020,
     "geom:area":0.001062,
-    "geom:area_square_m":9897569.587664,
+    "geom:area_square_m":9897569.58766,
     "geom:bbox":"14.7408985074,41.0650724545,14.7888350319,41.1006425096",
     "geom:latitude":41.084127,
     "geom:longitude":14.761684,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_062060",
+        "eurostat:nuts_2021_id":"062060"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"11e40c73e5dc436b58ee532f73c3640d",
+    "wof:geomhash":"d0e95d087baabfed5f636d712744b880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404460827,
-    "wof:lastmodified":1566723504,
+    "wof:lastmodified":1684353725,
     "wof:name":"San Leucio Del Sannio",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":3021,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

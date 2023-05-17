@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aurano",
+    "eurostat:nuts_2021_id":"103005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103005",
+    "eurostat:population":100,
+    "eurostat:population_year":2020,
     "geom:area":0.00246,
-    "geom:area_square_m":21122373.29582,
+    "geom:area_square_m":21122373.295818,
     "geom:bbox":"8.53207106114,45.9941215984,8.62608254901,46.0466935638",
     "geom:latitude":46.024707,
     "geom:longitude":8.580516,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103005",
+        "eurostat:nuts_2021_id":"103005",
         "gn:id":6543363,
         "gp:id":12677336,
         "qs_pg:id":1018450
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74e49409dd61f6bfdde1fddeca0b8569",
+    "wof:geomhash":"230ffe61d554ffb79862794bf2224b97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459437,
-    "wof:lastmodified":1582328160,
+    "wof:lastmodified":1684353693,
     "wof:name":"Aurano",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

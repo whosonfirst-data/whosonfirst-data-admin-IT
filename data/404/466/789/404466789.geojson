@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muros",
+    "eurostat:nuts_2021_id":"090043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090043",
+    "eurostat:population":829,
+    "eurostat:population_year":2020,
     "geom:area":0.001197,
-    "geom:area_square_m":11221454.95039,
+    "geom:area_square_m":11221454.950389,
     "geom:bbox":"8.58907125797,40.6745065802,8.65085411106,40.7164497653",
     "geom:latitude":40.696197,
     "geom:longitude":8.617134,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090043",
+        "eurostat:nuts_2021_id":"090043",
         "gn:id":6537831,
         "gp:id":12680639,
         "qs_pg:id":209133
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0fab0293ea69e1015737256f956ab70",
+    "wof:geomhash":"e2f745cfb69f4ec0d43852605180bd6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404466789,
-    "wof:lastmodified":1582328210,
+    "wof:lastmodified":1684353858,
     "wof:name":"Muros",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":829,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

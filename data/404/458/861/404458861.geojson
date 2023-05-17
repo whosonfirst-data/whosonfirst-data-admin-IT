@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ururi",
+    "eurostat:nuts_2021_id":"070083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070083",
+    "eurostat:population":2578,
+    "eurostat:population_year":2020,
     "geom:area":0.003411,
-    "geom:area_square_m":31437102.840192,
+    "geom:area_square_m":31437102.840188,
     "geom:bbox":"14.9558074957,41.7880546564,15.0689443579,41.8405110632",
     "geom:latitude":41.81279,
     "geom:longitude":15.011186,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070083",
+        "eurostat:nuts_2021_id":"070083",
         "gn:id":6537530,
         "gp:id":12682306,
         "qs_pg:id":1076701
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"602ed7354c682244c5ef4069033d7076",
+    "wof:geomhash":"c101679124bc84f63e4c326f7b96093b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404458861,
-    "wof:lastmodified":1582327943,
+    "wof:lastmodified":1684353679,
     "wof:name":"Ururi",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":2578,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

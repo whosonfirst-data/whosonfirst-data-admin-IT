@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tiriolo",
+    "eurostat:nuts_2021_id":"079147",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079147",
+    "eurostat:population":3746,
+    "eurostat:population_year":2020,
     "geom:area":0.003011,
-    "geom:area_square_m":28959923.785178,
+    "geom:area_square_m":28959923.785189,
     "geom:bbox":"16.4795695429,38.8901634051,16.5568946955,38.976367822",
     "geom:latitude":38.936661,
     "geom:longitude":16.520458,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079147",
+        "eurostat:nuts_2021_id":"079147"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"079964b6d292c73182c25843642b3629",
+    "wof:geomhash":"c9cf6d2317f15453aeb03c14462fe0fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464463,
-    "wof:lastmodified":1566723220,
+    "wof:lastmodified":1684353806,
     "wof:name":"Tiriolo",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":3746,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerda",
+    "eurostat:nuts_2021_id":"082028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082028",
+    "eurostat:population":5079,
+    "eurostat:population_year":2020,
     "geom:area":0.004474,
     "geom:area_square_m":43653643.828308,
     "geom:bbox":"13.7598130573,37.8591502835,13.8681806944,37.9423873089",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082028",
+        "eurostat:nuts_2021_id":"082028",
         "gn:id":6539126,
         "gp:id":12678493,
         "qs_pg:id":1187896
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e256668adecbfbd3f608c0158b84a1b6",
+    "wof:geomhash":"d724edfb4fc373b11d00bedb46e825e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404464975,
-    "wof:lastmodified":1582327807,
+    "wof:lastmodified":1684353822,
     "wof:name":"Cerda",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":5079,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

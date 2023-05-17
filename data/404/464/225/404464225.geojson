@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mongrassano",
+    "eurostat:nuts_2021_id":"078080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078080",
+    "eurostat:population":1530,
+    "eurostat:population_year":2020,
     "geom:area":0.003652,
-    "geom:area_square_m":34829496.350523,
+    "geom:area_square_m":34829496.350526,
     "geom:bbox":"16.0477661167,39.4822141695,16.2353899045,39.5651733777",
     "geom:latitude":39.530619,
     "geom:longitude":16.13104,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078080",
+        "eurostat:nuts_2021_id":"078080"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"75fadcac395e6b1ea703cf088e7fa2c7",
+    "wof:geomhash":"d8169e556b7726c9969904d7b5380288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464225,
-    "wof:lastmodified":1566723238,
+    "wof:lastmodified":1684353800,
     "wof:name":"Mongrassano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1530,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

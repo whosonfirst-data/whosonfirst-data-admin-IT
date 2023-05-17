@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marano Principato",
+    "eurostat:nuts_2021_id":"078077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078077",
+    "eurostat:population":3129,
+    "eurostat:population_year":2020,
     "geom:area":0.000654,
-    "geom:area_square_m":6263036.486433,
+    "geom:area_square_m":6263036.486432,
     "geom:bbox":"16.1257171633,39.2731058334,16.1923900324,39.3109475967",
     "geom:latitude":39.294862,
     "geom:longitude":16.159042,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078077",
+        "eurostat:nuts_2021_id":"078077"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b3baf56232ccacfd7fcad7bc36668ce1",
+    "wof:geomhash":"eb4c2ee5f2f4257cd8739e3e2c4bad3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464217,
-    "wof:lastmodified":1566723216,
+    "wof:lastmodified":1684353800,
     "wof:name":"Marano Principato",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":3129,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

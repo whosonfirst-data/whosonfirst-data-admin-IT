@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ollomont",
+    "eurostat:nuts_2021_id":"007046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007046",
+    "eurostat:population":164,
+    "eurostat:population_year":2020,
     "geom:area":0.006201,
-    "geom:area_square_m":53377022.548378,
+    "geom:area_square_m":53377022.548377,
     "geom:bbox":"7.24601464757,45.8346006807,7.37400199228,45.9217127127",
     "geom:latitude":45.882069,
     "geom:longitude":7.311438,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007046",
+        "eurostat:nuts_2021_id":"007046",
         "gn:id":6543062,
         "gp:id":12676587,
         "qs_pg:id":1292666
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c30160642f02b7365c2315a21f62d67",
+    "wof:geomhash":"6df9fb664add2ce572531f40cc8b7fde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459327,
-    "wof:lastmodified":1582328176,
+    "wof:lastmodified":1684353691,
     "wof:name":"Ollomont",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":164,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

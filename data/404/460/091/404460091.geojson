@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelnuovo Bormida",
+    "eurostat:nuts_2021_id":"006052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006052",
+    "eurostat:population":636,
+    "eurostat:population_year":2020,
     "geom:area":0.001491,
-    "geom:area_square_m":13093381.837553,
+    "geom:area_square_m":13093381.837552,
     "geom:bbox":"8.51808393269,44.7207854742,8.5859623591,44.7651396132",
     "geom:latitude":44.741958,
     "geom:longitude":8.559036,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006052",
+        "eurostat:nuts_2021_id":"006052",
         "gn:id":6536057,
         "gp:id":12678310,
         "qs_pg:id":961657
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f85d751a9a348eb010a277f56bff0d1b",
+    "wof:geomhash":"abe6698dc89bffb04f0e917ddb098042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460091,
-    "wof:lastmodified":1582328001,
+    "wof:lastmodified":1684353709,
     "wof:name":"Castelnuovo Bormida",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":636,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

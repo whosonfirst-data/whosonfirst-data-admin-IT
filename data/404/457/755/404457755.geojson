@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mandello Vitta",
+    "eurostat:nuts_2021_id":"003090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003090",
+    "eurostat:population":227,
+    "eurostat:population_year":2020,
     "geom:area":0.000674,
-    "geom:area_square_m":5845395.207657,
+    "geom:area_square_m":5845395.207656,
     "geom:bbox":"8.43936952227,45.4885239642,8.48217222716,45.5169314239",
     "geom:latitude":45.500205,
     "geom:longitude":8.461847,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003090",
+        "eurostat:nuts_2021_id":"003090",
         "gn:id":6543427,
         "gp:id":20075716,
         "qs_pg:id":1027855
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d5b1a621ac1f5155386a645c8f78176",
+    "wof:geomhash":"29eb85eda3a5e0755d52d3dd4c5e46b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457755,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353656,
     "wof:name":"Mandello Vitta",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":227,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

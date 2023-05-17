@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montesano Salentino",
+    "eurostat:nuts_2021_id":"075049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075049",
+    "eurostat:population":2646,
+    "eurostat:population_year":2020,
     "geom:area":0.000886,
-    "geom:area_square_m":8395118.817418,
+    "geom:area_square_m":8395118.817423,
     "geom:bbox":"18.2860268782,39.962051242,18.3348898866,40.0000200592",
     "geom:latitude":39.98473,
     "geom:longitude":18.314069,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075049",
+        "eurostat:nuts_2021_id":"075049",
         "gn:id":6541264,
         "gp:id":12680554,
         "qs_pg:id":1143228
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed92873690fd15be5961393074e836c1",
+    "wof:geomhash":"ec48f5b46bced1fcb1d08804d60fbb4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463371,
-    "wof:lastmodified":1582327775,
+    "wof:lastmodified":1684353778,
     "wof:name":"Montesano Salentino",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":2646,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avegno",
+    "eurostat:nuts_2021_id":"010002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010002",
+    "eurostat:population":2525,
+    "eurostat:population_year":2020,
     "geom:area":0.001236,
-    "geom:area_square_m":10918948.150862,
+    "geom:area_square_m":10918948.150863,
     "geom:bbox":"9.1289956056,44.3731930147,9.18992934065,44.408080923",
     "geom:latitude":44.392274,
     "geom:longitude":9.159033,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010002",
+        "eurostat:nuts_2021_id":"010002",
         "gn:id":6542756,
         "gp:id":12681548,
         "qs_pg:id":1012865
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c22b6cb68fa1acc1ea09b9bff8decab6",
+    "wof:geomhash":"f6795f8f048944659a5a2b47eaea6bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404467549,
-    "wof:lastmodified":1582327988,
+    "wof:lastmodified":1684353876,
     "wof:name":"Avegno",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2525,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

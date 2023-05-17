@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aliano",
+    "eurostat:nuts_2021_id":"077002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077002",
+    "eurostat:population":907,
+    "eurostat:population_year":2020,
     "geom:area":0.010336,
-    "geom:area_square_m":97468014.938111,
+    "geom:area_square_m":97468014.938113,
     "geom:bbox":"16.161919667,40.2649165296,16.3522740569,40.3439859555",
     "geom:latitude":40.305323,
     "geom:longitude":16.253589,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077002",
+        "eurostat:nuts_2021_id":"077002",
         "gn:id":6539019,
         "gp:id":12675955,
         "qs_pg:id":1066369
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5034df295c6f937a5101013c447f5ef0",
+    "wof:geomhash":"4f16be13197b5ac410fc92961587c01d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463979,
-    "wof:lastmodified":1582327773,
+    "wof:lastmodified":1684353793,
     "wof:name":"Aliano",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

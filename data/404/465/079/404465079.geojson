@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trappeto",
+    "eurostat:nuts_2021_id":"082074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082074",
+    "eurostat:population":3102,
+    "eurostat:population_year":2020,
     "geom:area":0.000429,
     "geom:area_square_m":4180237.100284,
     "geom:bbox":"13.0266510654,38.0595697616,13.0852503021,38.0854795602",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082074",
+        "eurostat:nuts_2021_id":"082074",
         "gn:id":6543641,
         "gp:id":20077037,
         "qs_pg:id":231736
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d32eafa2a1cd4f26161f4c4e69f32274",
+    "wof:geomhash":"f4079275d11a02024e777119efefb027",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404465079,
-    "wof:lastmodified":1582327828,
+    "wof:lastmodified":1684353825,
     "wof:name":"Trappeto",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":3102,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lonigo",
+    "eurostat:nuts_2021_id":"024052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024052",
+    "eurostat:population":16431,
+    "eurostat:population_year":2020,
     "geom:area":0.005678,
-    "geom:area_square_m":49307434.535364,
+    "geom:area_square_m":49307434.535366,
     "geom:bbox":"11.3308951301,45.3365543852,11.4557403335,45.4381832507",
     "geom:latitude":45.3854,
     "geom:longitude":11.383286,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024052",
+        "eurostat:nuts_2021_id":"024052",
         "gn:id":6536268,
         "gp:id":12680007,
         "qs_pg:id":1277066
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9a3736ce5d4ea7ad50b23d1e3806ef3",
+    "wof:geomhash":"baeee33e95d103244853a51e9fd328a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463615,
-    "wof:lastmodified":1582327782,
+    "wof:lastmodified":1684353783,
     "wof:name":"Lonigo",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":16431,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

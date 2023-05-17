@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001281",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Usseaux",
+    "eurostat:nuts_2021_id":"001281",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001281",
+    "eurostat:population":189,
+    "eurostat:population_year":2020,
     "geom:area":0.004338,
-    "geom:area_square_m":37892584.156094,
+    "geom:area_square_m":37892584.156097,
     "geom:bbox":"6.95078564908,45.0109149607,7.06900211899,45.0786254693",
     "geom:latitude":45.04952,
     "geom:longitude":7.007794,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001281",
+        "eurostat:nuts_2021_id":"001281",
         "gn:id":6543407,
         "gp:id":12681249,
         "qs_pg:id":1143286
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a6d7a78667edbd9bdf2cd0b881192268",
+    "wof:geomhash":"9a795e6b0890a1002242f0099d50addf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457375,
-    "wof:lastmodified":1582328120,
+    "wof:lastmodified":1684353648,
     "wof:name":"Usseaux",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":189,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

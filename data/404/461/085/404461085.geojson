@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Force",
+    "eurostat:nuts_2021_id":"044021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044021",
+    "eurostat:population":1228,
+    "eurostat:population_year":2020,
     "geom:area":0.003775,
-    "geom:area_square_m":34164306.568965,
+    "geom:area_square_m":34164306.568964,
     "geom:bbox":"13.4447968677,42.9265113776,13.5426551463,42.9927300475",
     "geom:latitude":42.961817,
     "geom:longitude":13.495581,
@@ -393,6 +405,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -401,6 +415,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044021",
+        "eurostat:nuts_2021_id":"044021",
         "gn:id":6543591,
         "gp:id":20076793,
         "qs_pg:id":1095061
@@ -409,7 +425,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"847ca900ff938e3fee24fab48e303815",
+    "wof:geomhash":"927f3ea537eb395b79eb3ab2b5645777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -420,10 +436,12 @@
         }
     ],
     "wof:id":404461085,
-    "wof:lastmodified":1582328129,
+    "wof:lastmodified":1684353731,
     "wof:name":"Force",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":1228,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

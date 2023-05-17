@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asigliano Veneto",
+    "eurostat:nuts_2021_id":"024010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024010",
+    "eurostat:population":883,
+    "eurostat:population_year":2020,
     "geom:area":0.000925,
-    "geom:area_square_m":8046832.964099,
+    "geom:area_square_m":8046832.964101,
     "geom:bbox":"11.4311271625,45.294453275,11.4839067043,45.3252002181",
     "geom:latitude":45.311305,
     "geom:longitude":11.458386,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024010",
+        "eurostat:nuts_2021_id":"024010",
         "gn:id":6542989,
         "gp:id":20076671,
         "qs_pg:id":354861
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e5e9fdd1afd2ee162693167e7afa860",
+    "wof:geomhash":"3a1fd47422c378870e2fda2467f14049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469771,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353910,
     "wof:name":"Asigliano Veneto",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":883,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arborio",
+    "eurostat:nuts_2021_id":"002006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002006",
+    "eurostat:population":863,
+    "eurostat:population_year":2020,
     "geom:area":0.002685,
-    "geom:area_square_m":23274461.177717,
+    "geom:area_square_m":23274461.177716,
     "geom:bbox":"8.34056436925,45.4669190154,8.41411618864,45.5173850086",
     "geom:latitude":45.491398,
     "geom:longitude":8.375371,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002006",
+        "eurostat:nuts_2021_id":"002006",
         "gn:id":6538098,
         "gp:id":12676180,
         "qs_pg:id":427147
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7add3a969d2e6f7b3921cddcdc6ff56",
+    "wof:geomhash":"d096a52d9550c519a9af84d603c19787",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404457461,
-    "wof:lastmodified":1582328117,
+    "wof:lastmodified":1684353650,
     "wof:name":"Arborio",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":863,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

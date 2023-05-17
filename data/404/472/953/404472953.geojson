@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Miniato",
+    "eurostat:nuts_2021_id":"050032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050032",
+    "eurostat:population":27997,
+    "eurostat:population_year":2020,
     "geom:area":0.011442,
-    "geom:area_square_m":102341341.809108,
+    "geom:area_square_m":102341341.809107,
     "geom:bbox":"10.7633811369,43.6138869591,10.9339315861,43.7191986797",
     "geom:latitude":43.667824,
     "geom:longitude":10.841465,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050032",
+        "eurostat:nuts_2021_id":"050032",
         "gn:id":6542091,
         "gp:id":12677161,
         "qs_pg:id":885694
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f678c4c1f75fdd5ca7727ac98bc4e6a8",
+    "wof:geomhash":"97ab205154440ebdf0ff77a8f367f820",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472953,
-    "wof:lastmodified":1582327878,
+    "wof:lastmodified":1684353974,
     "wof:name":"San Miniato",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":27997,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

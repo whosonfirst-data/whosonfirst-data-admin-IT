@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castagnaro",
+    "eurostat:nuts_2021_id":"023020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023020",
+    "eurostat:population":3663,
+    "eurostat:population_year":2020,
     "geom:area":0.003977,
-    "geom:area_square_m":34719799.144337,
+    "geom:area_square_m":34719799.144339,
     "geom:bbox":"11.3688901147,45.0527801929,11.4458686556,45.1327733377",
     "geom:latitude":45.089544,
     "geom:longitude":11.403245,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023020",
+        "eurostat:nuts_2021_id":"023020",
         "gn:id":6536262,
         "gp:id":12678153,
         "qs_pg:id":40091
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11fd044fbc182d1de258c82667e98067",
+    "wof:geomhash":"857e8e794a3b9c15cd52984414ebc7e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469677,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353908,
     "wof:name":"Castagnaro",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":3663,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

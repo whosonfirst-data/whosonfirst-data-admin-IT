@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Ninfa",
+    "eurostat:nuts_2021_id":"081019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081019",
+    "eurostat:population":4955,
+    "eurostat:population_year":2020,
     "geom:area":0.00622,
-    "geom:area_square_m":60790325.827029,
+    "geom:area_square_m":60790325.827026,
     "geom:bbox":"12.7617548348,37.7355553036,12.9302097793,37.827559006",
     "geom:latitude":37.776331,
     "geom:longitude":12.858206,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081019",
+        "eurostat:nuts_2021_id":"081019",
         "gn:id":6537732,
         "gp:id":12681859,
         "qs_pg:id":1095211
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0beb2b7b5e6f38eed51b6d5872c38cb7",
+    "wof:geomhash":"da7b2199fd587dc1bd288596849c30db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464901,
-    "wof:lastmodified":1582327793,
+    "wof:lastmodified":1684353820,
     "wof:name":"Santa Ninfa",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":4955,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

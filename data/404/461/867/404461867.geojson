@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acuto",
+    "eurostat:nuts_2021_id":"060002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060002",
+    "eurostat:population":1882,
+    "eurostat:population_year":2020,
     "geom:area":0.001456,
     "geom:area_square_m":13418434.169598,
     "geom:bbox":"13.1367577729,41.7731886408,13.2126460997,41.8143620411",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060002",
+        "eurostat:nuts_2021_id":"060002",
         "gn:id":6540533,
         "gp:id":12675790,
         "qs_pg:id":38601
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0840f62e19a88b29c0ef34fc8884bb60",
+    "wof:geomhash":"643e72aa17b568b0d7a6eda07c96517c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461867,
-    "wof:lastmodified":1582328132,
+    "wof:lastmodified":1684353748,
     "wof:name":"Acuto",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":1882,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

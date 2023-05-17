@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Citt\u00e0 Sant'Angelo",
+    "eurostat:nuts_2021_id":"068012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068012",
+    "eurostat:population":15007,
+    "eurostat:population_year":2020,
     "geom:area":0.00677,
-    "geom:area_square_m":61711218.177081,
+    "geom:area_square_m":61711218.177078,
     "geom:bbox":"13.9904321442,42.4780496977,14.152044076,42.5444922033",
     "geom:latitude":42.512174,
     "geom:longitude":14.062176,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068012",
+        "eurostat:nuts_2021_id":"068012",
         "gn:id":6537468,
         "gp:id":12678698,
         "qs_pg:id":1194414
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"861f83c2e3d46c9b1c3151399206eca1",
+    "wof:geomhash":"092ba78df86db5ffb5a8ff8cce8eeadc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404462443,
-    "wof:lastmodified":1582327867,
+    "wof:lastmodified":1684353759,
     "wof:name":"Citt\u00e0 Sant'Angelo",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":15007,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

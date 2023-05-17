@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lunamatrona",
+    "eurostat:nuts_2021_id":"111038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111038",
+    "eurostat:population":1661,
+    "eurostat:population_year":2020,
     "geom:area":0.002162,
-    "geom:area_square_m":20583321.967522,
+    "geom:area_square_m":20583321.967525,
     "geom:bbox":"8.86279225205,39.6097051048,8.93536158799,39.6621532617",
     "geom:latitude":39.636742,
     "geom:longitude":8.902821,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111038",
+        "eurostat:nuts_2021_id":"111038",
         "gn:id":6539288,
         "gp:id":12680044,
         "qs_pg:id":1003225
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24f9edd1b9e1d74d59d78c8e6efc2b9b",
+    "wof:geomhash":"1e4642c25672178b1da0e524c8e1724e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404467293,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353871,
     "wof:name":"Lunamatrona",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1661,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

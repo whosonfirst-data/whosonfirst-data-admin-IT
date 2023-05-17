@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trecastagni",
+    "eurostat:nuts_2021_id":"087050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087050",
+    "eurostat:population":11181,
+    "eurostat:population_year":2020,
     "geom:area":0.001944,
-    "geom:area_square_m":19027936.590246,
+    "geom:area_square_m":19027936.590229,
     "geom:bbox":"15.0420350397,37.5959412769,15.091907719,37.6982047432",
     "geom:latitude":37.648176,
     "geom:longitude":15.072072,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087050",
+        "eurostat:nuts_2021_id":"087050",
         "gn:id":6537812,
         "gp:id":12682249,
         "qs_pg:id":248690
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3891982cdb6b503075c3e79820215131",
+    "wof:geomhash":"37ea8089dab378a98bc0c7ecf5f3c613",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466625,
-    "wof:lastmodified":1582328201,
+    "wof:lastmodified":1684353853,
     "wof:name":"Trecastagni",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":11181,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cologna Veneta",
+    "eurostat:nuts_2021_id":"023027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023027",
+    "eurostat:population":8514,
+    "eurostat:population_year":2020,
     "geom:area":0.004914,
-    "geom:area_square_m":42736177.00249,
+    "geom:area_square_m":42736177.002486,
     "geom:bbox":"11.3270917708,45.2789573927,11.471114016,45.3413251966",
     "geom:latitude":45.308354,
     "geom:longitude":11.398116,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023027",
+        "eurostat:nuts_2021_id":"023027",
         "gn:id":6540974,
         "gp:id":12675905,
         "qs_pg:id":1142770
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32a79998e02e7ffaf800634b7673cf9c",
+    "wof:geomhash":"f66148a2d8b96647b90873a6bab6ca37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469691,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353908,
     "wof:name":"Cologna Veneta",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":8514,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

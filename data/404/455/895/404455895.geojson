@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004243",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vignolo",
+    "eurostat:nuts_2021_id":"004243",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004243",
+    "eurostat:population":2605,
+    "eurostat:population_year":2020,
     "geom:area":0.000897,
     "geom:area_square_m":7929324.95523,
     "geom:bbox":"7.45076613887,44.3430484534,7.50617967045,44.3753956486",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004243",
+        "eurostat:nuts_2021_id":"004243",
         "gn:id":6538166,
         "gp:id":12682424,
         "qs_pg:id":1196592
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93cbc54c1bc6d88ec975415b5d2adafc",
+    "wof:geomhash":"78503b77bb79d299a6e07b276e84dea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455895,
-    "wof:lastmodified":1582327813,
+    "wof:lastmodified":1684353613,
     "wof:name":"Vignolo",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2605,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massa Lombarda",
+    "eurostat:nuts_2021_id":"039013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039013",
+    "eurostat:population":10520,
+    "eurostat:population_year":2020,
     "geom:area":0.00421,
-    "geom:area_square_m":37156771.369861,
+    "geom:area_square_m":37156771.369864,
     "geom:bbox":"11.749833619,44.4177259139,11.8646971784,44.5103368333",
     "geom:latitude":44.461418,
     "geom:longitude":11.814515,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039013",
+        "eurostat:nuts_2021_id":"039013",
         "gn:id":6536753,
         "gp:id":12680228,
         "qs_pg:id":1013421
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79297806812fba76e7061c1d594e8098",
+    "wof:geomhash":"d6d9eb1c32af3f0537112d793037b7f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472445,
-    "wof:lastmodified":1582327901,
+    "wof:lastmodified":1684353961,
     "wof:name":"Massa Lombarda",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":10520,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

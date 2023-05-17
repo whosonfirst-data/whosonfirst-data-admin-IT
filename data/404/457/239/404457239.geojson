@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robassomero",
+    "eurostat:nuts_2021_id":"001220",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001220",
+    "eurostat:population":3031,
+    "eurostat:population_year":2020,
     "geom:area":0.000982,
     "geom:area_square_m":8560976.07892,
     "geom:bbox":"7.53675929476,45.1687497447,7.61120462292,45.219592523",
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001220",
+        "eurostat:nuts_2021_id":"001220"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3c46becd7277f126b9eb9aceede00406",
+    "wof:geomhash":"ccac4be4ff4170bcd74eb19ef756e392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404457239,
-    "wof:lastmodified":1566723674,
+    "wof:lastmodified":1684353645,
     "wof:name":"Robassomero",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3031,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

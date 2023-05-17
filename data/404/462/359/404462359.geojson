@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortino",
+    "eurostat:nuts_2021_id":"067022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067022",
+    "eurostat:population":606,
+    "eurostat:population_year":2020,
     "geom:area":0.00689,
-    "geom:area_square_m":62683094.649004,
+    "geom:area_square_m":62683094.649003,
     "geom:bbox":"13.3947503823,42.5982021877,13.5874315859,42.6642999575",
     "geom:latitude":42.62883,
     "geom:longitude":13.498147,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067022",
+        "eurostat:nuts_2021_id":"067022",
         "gn:id":6542719,
         "gp:id":12675715,
         "qs_pg:id":257723
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0da4bfe565dc7dca77aca7bf5bc998cb",
+    "wof:geomhash":"1ba76a40bb944b2f13cb4aad93fed11f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462359,
-    "wof:lastmodified":1582327863,
+    "wof:lastmodified":1684353757,
     "wof:name":"Cortino",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":606,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

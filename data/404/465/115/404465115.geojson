@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pomigliano d'Arco",
+    "eurostat:nuts_2021_id":"063057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063057",
+    "eurostat:population":40318,
+    "eurostat:population_year":2020,
     "geom:area":0.001246,
-    "geom:area_square_m":11646205.518061,
+    "geom:area_square_m":11646205.518065,
     "geom:bbox":"14.357440171,40.8869586322,14.4149830466,40.9335472635",
     "geom:latitude":40.908447,
     "geom:longitude":14.387068,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063057",
+        "eurostat:nuts_2021_id":"063057",
         "gn:id":6538767,
         "gp:id":12681197,
         "qs_pg:id":1143282
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a46d48b4b6d750a15091640a9b477e64",
+    "wof:geomhash":"3f063f340802e6098ad4775db50a5069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404465115,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353826,
     "wof:name":"Pomigliano D'Arco",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":40318,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

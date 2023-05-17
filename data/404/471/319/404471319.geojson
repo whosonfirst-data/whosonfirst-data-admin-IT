@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sellero",
+    "eurostat:nuts_2021_id":"017176",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017176",
+    "eurostat:population":1428,
+    "eurostat:population_year":2020,
     "geom:area":0.001684,
-    "geom:area_square_m":14444306.29232,
+    "geom:area_square_m":14444306.292321,
     "geom:bbox":"10.2933665656,46.0432619232,10.3540218943,46.0851827536",
     "geom:latitude":46.065516,
     "geom:longitude":10.3263,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017176",
+        "eurostat:nuts_2021_id":"017176",
         "gn:id":6540618,
         "gp:id":20076277,
         "qs_pg:id":1290071
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cacde86da0a8d2666086aae5deaea04f",
+    "wof:geomhash":"1337081b42e824ae00278576d95ba04a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471319,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353938,
     "wof:name":"Sellero",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1428,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

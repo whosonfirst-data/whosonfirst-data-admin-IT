@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grontardo",
+    "eurostat:nuts_2021_id":"019050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019050",
+    "eurostat:population":1511,
+    "eurostat:population_year":2020,
     "geom:area":0.001405,
-    "geom:area_square_m":12238777.12064,
+    "geom:area_square_m":12238777.120639,
     "geom:bbox":"10.1174337233,45.1786005365,10.1760306731,45.2211546216",
     "geom:latitude":45.202109,
     "geom:longitude":10.142754,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019050",
+        "eurostat:nuts_2021_id":"019050",
         "gn:id":6536575,
         "gp:id":12679689,
         "qs_pg:id":41051
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2dea9b8323a3e6687cba334315bb56d9",
+    "wof:geomhash":"70b041a6a6f3aee91914c854910a91d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468917,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353896,
     "wof:name":"Grontardo",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1511,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdastico",
+    "eurostat:nuts_2021_id":"024112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024112",
+    "eurostat:population":1245,
+    "eurostat:population_year":2020,
     "geom:area":0.002775,
-    "geom:area_square_m":23891864.767071,
+    "geom:area_square_m":23891864.767072,
     "geom:bbox":"11.3091266475,45.835792189,11.407722182,45.9290757703",
     "geom:latitude":45.878108,
     "geom:longitude":11.358435,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024112",
+        "eurostat:nuts_2021_id":"024112",
         "gn:id":6542660,
         "gp:id":12679368,
         "qs_pg:id":243064
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f192408832cc7ce918ed5c082ad3b47",
+    "wof:geomhash":"3a551be42da54c0eeef06172cdc16d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469817,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353910,
     "wof:name":"Valdastico",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":1245,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiorano Modenese",
+    "eurostat:nuts_2021_id":"036013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036013",
+    "eurostat:population":17148,
+    "eurostat:population_year":2020,
     "geom:area":0.002971,
-    "geom:area_square_m":26185770.810183,
+    "geom:area_square_m":26185770.810179,
     "geom:bbox":"10.7889574147,44.4913795468,10.8658706956,44.5685092612",
     "geom:latitude":44.530445,
     "geom:longitude":10.825932,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036013",
+        "eurostat:nuts_2021_id":"036013",
         "gn:id":6536267,
         "gp:id":12679279,
         "qs_pg:id":537033
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"710ece269df266deb1bc6e59e6d0c1fd",
+    "wof:geomhash":"48181e1c2402217a5cd6b6244ac4ae65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457141,
-    "wof:lastmodified":1582328119,
+    "wof:lastmodified":1684353643,
     "wof:name":"Fiorano Modenese",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":17148,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

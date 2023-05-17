@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cadeo",
+    "eurostat:nuts_2021_id":"033007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033007",
+    "eurostat:population":5971,
+    "eurostat:population_year":2020,
     "geom:area":0.004393,
     "geom:area_square_m":38423636.301128,
     "geom:bbox":"9.80885248266,44.933345464,9.90073486585,45.0165729285",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033007",
+        "eurostat:nuts_2021_id":"033007",
         "gn:id":6536345,
         "gp:id":12677252,
         "qs_pg:id":1295853
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f44db1a15ed42f8d5c0fbcbb70167ab",
+    "wof:geomhash":"b4536da3b5a7122dc4977317533d53ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472047,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353951,
     "wof:name":"Cadeo",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":5971,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

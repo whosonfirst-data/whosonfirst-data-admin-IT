@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Donato di Lecce",
+    "eurostat:nuts_2021_id":"075069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075069",
+    "eurostat:population":5609,
+    "eurostat:population_year":2020,
     "geom:area":0.002252,
-    "geom:area_square_m":21250377.411166,
+    "geom:area_square_m":21250377.411158,
     "geom:bbox":"18.1527707245,40.2348101796,18.2307449207,40.2906575789",
     "geom:latitude":40.25983,
     "geom:longitude":18.19009,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075069",
+        "eurostat:nuts_2021_id":"075069",
         "gn:id":6542066,
         "gp:id":12679481,
         "qs_pg:id":1252139
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82f88d27917f4b6fef815e358e8a9ca1",
+    "wof:geomhash":"4f6ea4c5a727787bbe00847ceb837ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404456611,
-    "wof:lastmodified":1582328051,
+    "wof:lastmodified":1684353628,
     "wof:name":"San Donato Di Lecce",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":5609,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

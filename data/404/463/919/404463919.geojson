@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pitigliano",
+    "eurostat:nuts_2021_id":"053019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053019",
+    "eurostat:population":3732,
+    "eurostat:population_year":2020,
     "geom:area":0.011182,
-    "geom:area_square_m":101758928.212281,
+    "geom:area_square_m":101758928.212285,
     "geom:bbox":"11.5571215259,42.5571991215,11.7965048256,42.6626496354",
     "geom:latitude":42.613283,
     "geom:longitude":11.661224,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053019",
+        "eurostat:nuts_2021_id":"053019",
         "gn:id":6539742,
         "gp:id":12678121,
         "qs_pg:id":1163456
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b67133bdab563250a64bbb0841c73ce",
+    "wof:geomhash":"bdc9311a0b5a8edd4347f7b6738e29bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404463919,
-    "wof:lastmodified":1582327788,
+    "wof:lastmodified":1684353791,
     "wof:name":"Pitigliano",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":3732,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

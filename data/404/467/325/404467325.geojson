@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ussaramanna",
+    "eurostat:nuts_2021_id":"111094",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111094",
+    "eurostat:population":512,
+    "eurostat:population_year":2020,
     "geom:area":0.001026,
-    "geom:area_square_m":9759187.933129,
+    "geom:area_square_m":9759187.933131,
     "geom:bbox":"8.87665693867,39.6738017535,8.93994029302,39.7090517933",
     "geom:latitude":39.690847,
     "geom:longitude":8.903353,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111094",
+        "eurostat:nuts_2021_id":"111094",
         "gn:id":6539313,
         "gp:id":12682312,
         "qs_pg:id":42936
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f79a8abde2cedca18cf95a2d40ceecf",
+    "wof:geomhash":"b1951198430ada52324c9a1da764b224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467325,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353872,
     "wof:name":"Ussaramanna",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":512,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

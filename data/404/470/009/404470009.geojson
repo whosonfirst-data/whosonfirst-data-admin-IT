@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cappella Maggiore",
+    "eurostat:nuts_2021_id":"026007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026007",
+    "eurostat:population":4705,
+    "eurostat:population_year":2020,
     "geom:area":0.001286,
     "geom:area_square_m":11053446.695025,
     "geom:bbox":"12.3206096057,45.9584785851,12.3770566644,46.0018734197",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026007",
+        "eurostat:nuts_2021_id":"026007",
         "gn:id":6541820,
         "gp:id":12676131,
         "qs_pg:id":1295748
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7cb399c78617537e0cba3ea7f802f3a",
+    "wof:geomhash":"0156b69e30a3c36154f59424319e7551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470009,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353914,
     "wof:name":"Cappella Maggiore",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":4705,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

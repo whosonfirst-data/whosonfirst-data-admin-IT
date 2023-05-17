@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelcucco",
+    "eurostat:nuts_2021_id":"026011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026011",
+    "eurostat:population":2298,
+    "eurostat:population_year":2020,
     "geom:area":0.001018,
-    "geom:area_square_m":8767219.242538,
+    "geom:area_square_m":8767219.242536,
     "geom:bbox":"11.8629702651,45.8138150015,11.9180229035,45.8447126462",
     "geom:latitude":45.830289,
     "geom:longitude":11.8914,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026011",
+        "eurostat:nuts_2021_id":"026011",
         "gn:id":6540993,
         "gp:id":12678220,
         "qs_pg:id":50938
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d9e440d25981a3ae292e72039792227",
+    "wof:geomhash":"8e532c1df9e206e01c43d2dbe298d273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470019,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353914,
     "wof:name":"Castelcucco",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":2298,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

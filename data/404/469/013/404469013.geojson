@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scandolara Ravara",
+    "eurostat:nuts_2021_id":"019092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019092",
+    "eurostat:population":1347,
+    "eurostat:population_year":2020,
     "geom:area":0.001951,
-    "geom:area_square_m":17048492.146992,
+    "geom:area_square_m":17048492.146991,
     "geom:bbox":"10.2704366775,45.0229492972,10.3450280159,45.0664435251",
     "geom:latitude":45.048365,
     "geom:longitude":10.311425,
@@ -122,6 +134,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -130,6 +144,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019092",
+        "eurostat:nuts_2021_id":"019092",
         "gn:id":6541529,
         "gp:id":12681915,
         "qs_pg:id":886421
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"087380534a756087bbbf23ac9b63571b",
+    "wof:geomhash":"cbf33397f4e221fefab93906a28b1fd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404469013,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353898,
     "wof:name":"Scandolara Ravara",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1347,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

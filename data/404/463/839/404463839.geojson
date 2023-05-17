@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murlo",
+    "eurostat:nuts_2021_id":"052019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052019",
+    "eurostat:population":2393,
+    "eurostat:population_year":2020,
     "geom:area":0.012682,
-    "geom:area_square_m":114401187.517136,
+    "geom:area_square_m":114401187.517131,
     "geom:bbox":"11.2758621668,43.0795419063,11.4309586333,43.2215012762",
     "geom:latitude":43.151826,
     "geom:longitude":11.347862,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052019",
+        "eurostat:nuts_2021_id":"052019",
         "gn:id":6540267,
         "gp:id":12679267,
         "qs_pg:id":213773
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0dc1d8713ac3fda63112ff3bbbcaead6",
+    "wof:geomhash":"c8fbcedf56e2af94f304d4bf3994acc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404463839,
-    "wof:lastmodified":1582327785,
+    "wof:lastmodified":1684353787,
     "wof:name":"Murlo",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":2393,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

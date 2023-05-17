@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabiate",
+    "eurostat:nuts_2021_id":"013035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013035",
+    "eurostat:population":7524,
+    "eurostat:population_year":2020,
     "geom:area":0.000367,
-    "geom:area_square_m":3173609.917365,
+    "geom:area_square_m":3173609.917366,
     "geom:bbox":"9.1538404567,45.662046918,9.18704135033,45.689629025",
     "geom:latitude":45.675337,
     "geom:longitude":9.171591,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013035",
+        "eurostat:nuts_2021_id":"013035",
         "gn:id":6543722,
         "gp:id":20076078,
         "qs_pg:id":1230736
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e1873c3ba2534eeebcad24deaf98c37",
+    "wof:geomhash":"9e7dfbe3e029512ad1fb1d929467058f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404467981,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353882,
     "wof:name":"Cabiate",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":7524,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

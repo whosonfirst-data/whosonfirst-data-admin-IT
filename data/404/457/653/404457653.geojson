@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armeno",
+    "eurostat:nuts_2021_id":"003006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003006",
+    "eurostat:population":2162,
+    "eurostat:population_year":2020,
     "geom:area":0.003652,
-    "geom:area_square_m":31465459.754592,
+    "geom:area_square_m":31465459.754591,
     "geom:bbox":"8.42010384737,45.7970773882,8.50695750476,45.8767778186",
     "geom:latitude":45.832029,
     "geom:longitude":8.463994,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003006",
+        "eurostat:nuts_2021_id":"003006",
         "gn:id":6538122,
         "gp:id":12676245,
         "qs_pg:id":38891
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e372d44935b8b8ebf8a019ca0ddd93af",
+    "wof:geomhash":"4346078ef242558671a49344e5b60842",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404457653,
-    "wof:lastmodified":1582328117,
+    "wof:lastmodified":1684353655,
     "wof:name":"Armeno",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":2162,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

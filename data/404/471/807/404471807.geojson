@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isolabona",
+    "eurostat:nuts_2021_id":"008032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008032",
+    "eurostat:population":686,
+    "eurostat:population_year":2020,
     "geom:area":0.001384,
     "geom:area_square_m":12329452.155654,
     "geom:bbox":"7.5875613638,43.8717507303,7.67166146565,43.9441491361",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008032",
+        "eurostat:nuts_2021_id":"008032",
         "gn:id":6536073,
         "gp:id":12677923,
         "qs_pg:id":994033
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"512332bb4e1402b6d5d16252f9e80554",
+    "wof:geomhash":"88779659b88beb032fb532cb1bd46181",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471807,
-    "wof:lastmodified":1582327728,
+    "wof:lastmodified":1684353946,
     "wof:name":"Isolabona",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":686,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

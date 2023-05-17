@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Redondesco",
+    "eurostat:nuts_2021_id":"020048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020048",
+    "eurostat:population":1240,
+    "eurostat:population_year":2020,
     "geom:area":0.00218,
-    "geom:area_square_m":19002821.506197,
+    "geom:area_square_m":19002821.506198,
     "geom:bbox":"10.4886000143,45.1458572977,10.5513497892,45.2068375189",
     "geom:latitude":45.172502,
     "geom:longitude":10.517463,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020048",
+        "eurostat:nuts_2021_id":"020048",
         "gn:id":6542665,
         "gp:id":20076369,
         "qs_pg:id":1018449
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66b7054fc40bb35d6b49225dfd47797c",
+    "wof:geomhash":"279110de5765d0b4682b8429f744ae52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469173,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353900,
     "wof:name":"Redondesco",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":1240,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

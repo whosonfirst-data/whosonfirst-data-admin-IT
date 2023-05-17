@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fluminimaggiore",
+    "eurostat:nuts_2021_id":"111021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111021",
+    "eurostat:population":2807,
+    "eurostat:population_year":2020,
     "geom:area":0.011326,
-    "geom:area_square_m":108171908.403228,
+    "geom:area_square_m":108171908.40323,
     "geom:bbox":"8.39274153567,39.3724814308,8.58404525738,39.4829371782",
     "geom:latitude":39.429567,
     "geom:longitude":8.507933,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111021",
+        "eurostat:nuts_2021_id":"111021",
         "gn:id":6539280,
         "gp:id":12679306,
         "qs_pg:id":40793
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78f25cc548c7110506a74a6a78b95bab",
+    "wof:geomhash":"7c4de60ed2d5494d87e0f9b25e72587d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467347,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353872,
     "wof:name":"Fluminimaggiore",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":2807,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

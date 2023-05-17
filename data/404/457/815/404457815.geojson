@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sillavengo",
+    "eurostat:nuts_2021_id":"003138",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003138",
+    "eurostat:population":554,
+    "eurostat:population_year":2020,
     "geom:area":0.001099,
     "geom:area_square_m":9520688.716007,
     "geom:bbox":"8.40257149973,45.5006176633,8.46695057503,45.5353889249",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003138",
+        "eurostat:nuts_2021_id":"003138",
         "gn:id":6538134,
         "gp:id":12682017,
         "qs_pg:id":342135
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88bf4a9466ca0b52e581e9a3214f8809",
+    "wof:geomhash":"bb0acf540b22ea55495b040fbda75efa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457815,
-    "wof:lastmodified":1582328113,
+    "wof:lastmodified":1684353657,
     "wof:name":"Sillavengo",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":554,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

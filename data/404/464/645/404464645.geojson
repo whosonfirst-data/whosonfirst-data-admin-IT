@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Roberto",
+    "eurostat:nuts_2021_id":"080077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080077",
+    "eurostat:population":1627,
+    "eurostat:population_year":2020,
     "geom:area":0.003535,
-    "geom:area_square_m":34345334.500212,
+    "geom:area_square_m":34345334.500213,
     "geom:bbox":"15.7090565787,38.1773892404,15.8514968261,38.2317438666",
     "geom:latitude":38.207781,
     "geom:longitude":15.776545,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080077",
+        "eurostat:nuts_2021_id":"080077",
         "gn:id":6537721,
         "gp:id":12681752,
         "qs_pg:id":948579
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"22134dcdb72695e1f751afe732003cd0",
+    "wof:geomhash":"78730d83d09d65116e1cde389b7e11de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464645,
-    "wof:lastmodified":1582327795,
+    "wof:lastmodified":1684353812,
     "wof:name":"San Roberto",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":1627,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

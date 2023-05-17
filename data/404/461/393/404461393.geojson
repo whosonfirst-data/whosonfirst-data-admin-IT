@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colle di Tora",
+    "eurostat:nuts_2021_id":"057019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057019",
+    "eurostat:population":358,
+    "eurostat:population_year":2020,
     "geom:area":0.001564,
     "geom:area_square_m":14324624.866456,
     "geom:bbox":"12.9129269721,42.1713608889,12.9577147364,42.2271071124",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_057019",
+        "eurostat:nuts_2021_id":"057019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e58281a7851d6c0f55e9ba9f998f68e3",
+    "wof:geomhash":"1c872ac40fac16e4c2f2fb9a78725b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404461393,
-    "wof:lastmodified":1566723704,
+    "wof:lastmodified":1684353738,
     "wof:name":"Colle Di Tora",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":358,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molare",
+    "eurostat:nuts_2021_id":"006095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006095",
+    "eurostat:population":2104,
+    "eurostat:population_year":2020,
     "geom:area":0.003685,
     "geom:area_square_m":32462579.80607,
     "geom:bbox":"8.54731717387,44.5211638039,8.62434058071,44.6249009375",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006095",
+        "eurostat:nuts_2021_id":"006095",
         "gn:id":6538198,
         "gp:id":12677878,
         "qs_pg:id":39930
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a87bda5e2b9e7c82ed7ffbf6da3e8f2c",
+    "wof:geomhash":"b1d18065e924b3d9c1e926c6311338f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404460187,
-    "wof:lastmodified":1582328004,
+    "wof:lastmodified":1684353712,
     "wof:name":"Molare",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":2104,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

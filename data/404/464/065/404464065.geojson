@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altomonte",
+    "eurostat:nuts_2021_id":"078009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078009",
+    "eurostat:population":4320,
+    "eurostat:population_year":2020,
     "geom:area":0.006841,
-    "geom:area_square_m":65099276.890332,
+    "geom:area_square_m":65099276.89033,
     "geom:bbox":"16.0996031351,39.6512583023,16.2624371322,39.718780637",
     "geom:latitude":39.684766,
     "geom:longitude":16.175949,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078009",
+        "eurostat:nuts_2021_id":"078009"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"336d26219c398fefa4c3db7b2a9eea2e",
+    "wof:geomhash":"36942ab51bda8f8b36ccba47e21aca34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464065,
-    "wof:lastmodified":1566723218,
+    "wof:lastmodified":1684353796,
     "wof:name":"Altomonte",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":4320,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

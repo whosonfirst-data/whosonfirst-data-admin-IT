@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cella Dati",
+    "eurostat:nuts_2021_id":"019028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019028",
+    "eurostat:population":479,
+    "eurostat:population_year":2020,
     "geom:area":0.002163,
-    "geom:area_square_m":18888070.599365,
+    "geom:area_square_m":18888070.599364,
     "geom:bbox":"10.1785912554,45.0635963482,10.2491986689,45.1132931897",
     "geom:latitude":45.086276,
     "geom:longitude":10.214442,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019028",
+        "eurostat:nuts_2021_id":"019028",
         "gn:id":6542973,
         "gp:id":20076349,
         "qs_pg:id":1015989
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9d669c1bf69663fb49d4a30b50d72c6",
+    "wof:geomhash":"43689f6c1e1bff6b0248d69e53707136",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468869,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353896,
     "wof:name":"Cella Dati",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":479,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carbonara al Ticino",
+    "eurostat:nuts_2021_id":"018030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018030",
+    "eurostat:population":1436,
+    "eurostat:population_year":2020,
     "geom:area":0.001693,
-    "geom:area_square_m":14760286.837947,
+    "geom:area_square_m":14760286.837949,
     "geom:bbox":"9.05037481669,45.1498790951,9.12095635554,45.2027860898",
     "geom:latitude":45.176716,
     "geom:longitude":9.080339,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_018030",
+        "eurostat:nuts_2021_id":"018030"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1d45e7ad28575e254140ef9a50127ba0",
+    "wof:geomhash":"c4bbb121a636c9a6f3e313566416e1ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404458331,
-    "wof:lastmodified":1566723422,
+    "wof:lastmodified":1684353668,
     "wof:name":"Carbonara Al Ticino",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1436,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

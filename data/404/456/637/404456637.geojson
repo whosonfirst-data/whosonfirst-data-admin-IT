@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Supersano",
+    "eurostat:nuts_2021_id":"075081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075081",
+    "eurostat:population":4296,
+    "eurostat:population_year":2020,
     "geom:area":0.003786,
-    "geom:area_square_m":35846460.953291,
+    "geom:area_square_m":35846460.953305,
     "geom:bbox":"18.1943749475,39.9931534442,18.3082946487,40.0744128841",
     "geom:latitude":40.033916,
     "geom:longitude":18.246509,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075081",
+        "eurostat:nuts_2021_id":"075081",
         "gn:id":6538987,
         "gp:id":12682120,
         "qs_pg:id":1205916
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ff7fc286d7aad93b539b8a0ef9c127c",
+    "wof:geomhash":"086c390bd4f6c777667ee8fc1eec0d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456637,
-    "wof:lastmodified":1582328066,
+    "wof:lastmodified":1684353629,
     "wof:name":"Supersano",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":4296,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavarone",
+    "eurostat:nuts_2021_id":"022102",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022102",
+    "eurostat:population":1176,
+    "eurostat:population_year":2020,
     "geom:area":0.003053,
-    "geom:area_square_m":26252404.680722,
+    "geom:area_square_m":26252404.680724,
     "geom:bbox":"11.2369194334,45.9165191899,11.3519883749,45.9655738643",
     "geom:latitude":45.941443,
     "geom:longitude":11.285668,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022102",
+        "eurostat:nuts_2021_id":"022102",
         "gn:id":3175012,
         "gp:id":12675903,
         "qs_pg:id":1059577
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e425093988789f862a759c8af4c94c9",
+    "wof:geomhash":"6ea926a2bb6bf9f55d081f885e9c1279",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473521,
-    "wof:lastmodified":1582327921,
+    "wof:lastmodified":1684353990,
     "wof:name":"Lavarone",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1176,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

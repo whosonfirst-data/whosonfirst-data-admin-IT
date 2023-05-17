@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Termoli",
+    "eurostat:nuts_2021_id":"070078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070078",
+    "eurostat:population":33410,
+    "eurostat:population_year":2020,
     "geom:area":0.006013,
-    "geom:area_square_m":55266288.881084,
+    "geom:area_square_m":55266288.881081,
     "geom:bbox":"14.8898863773,41.9260477318,15.027937821,42.0214490127",
     "geom:latitude":41.981624,
     "geom:longitude":14.962635,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070078",
+        "eurostat:nuts_2021_id":"070078",
         "gn:id":6541934,
         "gp:id":12682162,
         "qs_pg:id":894465
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e479608085c5484a3ef0c7663bdb917",
+    "wof:geomhash":"878d469c5353b66db4ef42a68e6eff44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404458849,
-    "wof:lastmodified":1582327955,
+    "wof:lastmodified":1684353679,
     "wof:name":"Termoli",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":33410,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

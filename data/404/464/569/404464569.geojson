@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Locri",
+    "eurostat:nuts_2021_id":"080043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080043",
+    "eurostat:population":12269,
+    "eurostat:population_year":2020,
     "geom:area":0.002626,
-    "geom:area_square_m":25506040.740157,
+    "geom:area_square_m":25506040.740164,
     "geom:bbox":"16.1953172085,38.2042835312,16.2815032819,38.2672965266",
     "geom:latitude":38.23852,
     "geom:longitude":16.239327,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080043",
+        "eurostat:nuts_2021_id":"080043",
         "gn:id":6539099,
         "gp:id":12677652,
         "qs_pg:id":50828
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b51057bf9fb0dde2924160b646639688",
+    "wof:geomhash":"2ffee3abbdf17375ca65b9a9877591f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404464569,
-    "wof:lastmodified":1582327792,
+    "wof:lastmodified":1684353809,
     "wof:name":"Locri",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":12269,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

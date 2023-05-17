@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Filettino",
+    "eurostat:nuts_2021_id":"060034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060034",
+    "eurostat:population":510,
+    "eurostat:population_year":2020,
     "geom:area":0.00845,
-    "geom:area_square_m":77774024.726963,
+    "geom:area_square_m":77774024.726982,
     "geom:bbox":"13.268469717,41.8330298091,13.3841888108,41.9550924662",
     "geom:latitude":41.893228,
     "geom:longitude":13.324576,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060034",
+        "eurostat:nuts_2021_id":"060034",
         "gn:id":6540537,
         "gp:id":12679268,
         "qs_pg:id":40775
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3037708da77688b82a31261dea8bb3cb",
+    "wof:geomhash":"d0474930c3e4023920447b984d67aad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404461939,
-    "wof:lastmodified":1582328124,
+    "wof:lastmodified":1684353749,
     "wof:name":"Filettino",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":510,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

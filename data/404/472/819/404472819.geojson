@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scandicci",
+    "eurostat:nuts_2021_id":"048041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048041",
+    "eurostat:population":50786,
+    "eurostat:population_year":2020,
     "geom:area":0.006669,
-    "geom:area_square_m":59587920.196229,
+    "geom:area_square_m":59587920.196234,
     "geom:bbox":"11.0843038251,43.6855935778,11.2142552484,43.7862115823",
     "geom:latitude":43.732395,
     "geom:longitude":11.150077,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048041",
+        "eurostat:nuts_2021_id":"048041",
         "gn:id":6542089,
         "gp:id":12678082,
         "qs_pg:id":1163454
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b41163c2089f881873c87895d3b6be9",
+    "wof:geomhash":"29251a3e769abd5466c66382894a0259",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404472819,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353970,
     "wof:name":"Scandicci",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":50786,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sutrio",
+    "eurostat:nuts_2021_id":"030112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030112",
+    "eurostat:population":1267,
+    "eurostat:population_year":2020,
     "geom:area":0.002428,
     "geom:area_square_m":20662903.290868,
     "geom:bbox":"12.9262457336,46.4779183608,13.0033646548,46.5231187983",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030112",
+        "eurostat:nuts_2021_id":"030112",
         "gn:id":6538394,
         "gp:id":20076726,
         "qs_pg:id":1206292
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b824210cc721d0d816912b3ce04a9bb",
+    "wof:geomhash":"25c9bb9dc60c2ae1ab1c5b89c73d90a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470689,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353926,
     "wof:name":"Sutrio",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1267,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

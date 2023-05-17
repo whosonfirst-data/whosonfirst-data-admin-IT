@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Davoli",
+    "eurostat:nuts_2021_id":"079042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079042",
+    "eurostat:population":5506,
+    "eurostat:population_year":2020,
     "geom:area":0.002565,
-    "geom:area_square_m":24767836.955304,
+    "geom:area_square_m":24767836.955306,
     "geom:bbox":"16.4153362593,38.61094629,16.5573196217,38.6713922371",
     "geom:latitude":38.648697,
     "geom:longitude":16.492048,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079042",
+        "eurostat:nuts_2021_id":"079042"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"65764fd9b45718e00888295924bc0a76",
+    "wof:geomhash":"f3f241e4c3de9316fcb27289b5b6da23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464343,
-    "wof:lastmodified":1566723251,
+    "wof:lastmodified":1684353803,
     "wof:name":"Davoli",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":5506,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

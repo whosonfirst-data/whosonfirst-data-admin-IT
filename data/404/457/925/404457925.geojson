@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muravera",
+    "eurostat:nuts_2021_id":"111042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111042",
+    "eurostat:population":5269,
+    "eurostat:population_year":2020,
     "geom:area":0.009777,
-    "geom:area_square_m":93497782.762349,
+    "geom:area_square_m":93497782.762341,
     "geom:bbox":"9.52550261183,39.23830949,9.63423657956,39.4328609437",
     "geom:latitude":39.342691,
     "geom:longitude":9.576021,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111042",
+        "eurostat:nuts_2021_id":"111042",
         "gn:id":6539290,
         "gp:id":12681778,
         "qs_pg:id":1308200
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"148a264faf82e190bde83f0ce5e65690",
+    "wof:geomhash":"73ffadfbe94c4cc69f5acefecce9e3ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404457925,
-    "wof:lastmodified":1582328107,
+    "wof:lastmodified":1684353660,
     "wof:name":"Muravera",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":5269,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vicoli",
+    "eurostat:nuts_2021_id":"068045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068045",
+    "eurostat:population":383,
+    "eurostat:population_year":2020,
     "geom:area":0.001016,
-    "geom:area_square_m":9285785.148718,
+    "geom:area_square_m":9285785.148723,
     "geom:bbox":"13.8686226644,42.3237516787,13.9162285348,42.3595077093",
     "geom:latitude":42.343377,
     "geom:longitude":13.892039,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068045",
+        "eurostat:nuts_2021_id":"068045",
         "gn:id":6541223,
         "gp:id":12682412,
         "qs_pg:id":249525
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73aff9306a97f2264638c82eade4786a",
+    "wof:geomhash":"7590473220d7706b9682bc1aa70ca57c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462517,
-    "wof:lastmodified":1582327860,
+    "wof:lastmodified":1684353760,
     "wof:name":"Vicoli",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":383,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opera",
+    "eurostat:nuts_2021_id":"015159",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015159",
+    "eurostat:population":14100,
+    "eurostat:population_year":2020,
     "geom:area":0.000878,
-    "geom:area_square_m":7627531.229227,
+    "geom:area_square_m":7627531.229226,
     "geom:bbox":"9.18832007433,45.3606836878,9.23078179674,45.3976187516",
     "geom:latitude":45.380042,
     "geom:longitude":9.208445,
@@ -380,6 +392,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -388,6 +402,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015159",
+        "eurostat:nuts_2021_id":"015159",
         "gn:id":6540589,
         "gp:id":12680777,
         "qs_pg:id":1293155
@@ -396,7 +412,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd3d137317c51e0dad03545b85c47a2b",
+    "wof:geomhash":"45297e5496575d93cd106f3a656073af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -407,10 +423,12 @@
         }
     ],
     "wof:id":404468475,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353889,
     "wof:name":"Opera",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":14100,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

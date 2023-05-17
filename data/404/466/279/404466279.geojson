@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Longi",
+    "eurostat:nuts_2021_id":"083042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083042",
+    "eurostat:population":1374,
+    "eurostat:population_year":2020,
     "geom:area":0.004293,
-    "geom:area_square_m":41857932.025554,
+    "geom:area_square_m":41857932.025517,
     "geom:bbox":"14.7104868825,37.8884878639,14.7884678543,38.0484152595",
     "geom:latitude":37.960283,
     "geom:longitude":14.752345,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083042",
+        "eurostat:nuts_2021_id":"083042",
         "gn:id":6540830,
         "gp:id":12679012,
         "qs_pg:id":246020
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfd2759fcbbdfdb914b390733405d8c7",
+    "wof:geomhash":"081a4fdd6b093eba66511f53ca378ea6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466279,
-    "wof:lastmodified":1582328201,
+    "wof:lastmodified":1684353846,
     "wof:name":"Longi",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1374,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

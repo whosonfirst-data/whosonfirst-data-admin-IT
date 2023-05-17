@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni in Marignano",
+    "eurostat:nuts_2021_id":"099017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099017",
+    "eurostat:population":9477,
+    "eurostat:population_year":2020,
     "geom:area":0.002392,
-    "geom:area_square_m":21302973.734415,
+    "geom:area_square_m":21302973.734414,
     "geom:bbox":"12.67145238,43.90899769,12.7415366653,43.96324329",
     "geom:latitude":43.934778,
     "geom:longitude":12.706601,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099017",
+        "eurostat:nuts_2021_id":"099017"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"382a5f2189d7c2572fbdf4999d90f2c8",
+    "wof:geomhash":"e86e00ba4c3ebcd736c129d28176be87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404472563,
-    "wof:lastmodified":1566723369,
+    "wof:lastmodified":1684353964,
     "wof:name":"San Giovanni In Marignano",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":9477,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Triuggio",
+    "eurostat:nuts_2021_id":"108043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108043",
+    "eurostat:population":8713,
+    "eurostat:population_year":2020,
     "geom:area":0.000963,
-    "geom:area_square_m":8324955.56584,
+    "geom:area_square_m":8324955.565842,
     "geom:bbox":"9.25235635605,45.647192149,9.29882208482,45.6861796137",
     "geom:latitude":45.665154,
     "geom:longitude":9.280452,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108043",
+        "eurostat:nuts_2021_id":"108043",
         "gn:id":6541561,
         "gp:id":20076574,
         "qs_pg:id":103816
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d256337fb52d8822d43092cc423b70d2",
+    "wof:geomhash":"1f81b1640b871697b9cc3204da46e95f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463549,
-    "wof:lastmodified":1582327786,
+    "wof:lastmodified":1684353782,
     "wof:name":"Triuggio",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":8713,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

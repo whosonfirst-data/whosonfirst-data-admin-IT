@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montevecchia",
+    "eurostat:nuts_2021_id":"097053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097053",
+    "eurostat:population":2704,
+    "eurostat:population_year":2020,
     "geom:area":0.000671,
     "geom:area_square_m":5790428.041623,
     "geom:bbox":"9.35371776075,45.6858451882,9.39309875734,45.7231856666",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097053",
+        "eurostat:nuts_2021_id":"097053",
         "gn:id":6535701,
         "gp:id":20076379,
         "qs_pg:id":960805
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3824a2bc1e88869af51925327b08dca",
+    "wof:geomhash":"010a1fa3563eb44ec362d184177ada30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469341,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353903,
     "wof:name":"Montevecchia",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":2704,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

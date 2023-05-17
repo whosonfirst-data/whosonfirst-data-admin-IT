@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Benedetto Ullano",
+    "eurostat:nuts_2021_id":"078112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078112",
+    "eurostat:population":1464,
+    "eurostat:population_year":2020,
     "geom:area":0.00203,
     "geom:area_square_m":19390806.484989,
     "geom:bbox":"16.0800498896,39.4015560649,16.1630029947,39.4429294223",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078112",
+        "eurostat:nuts_2021_id":"078112"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0885b1192dc8587800e1b7a4873001c5",
+    "wof:geomhash":"55afe7bd1aeee074269a175355edc146",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464297,
-    "wof:lastmodified":1566723244,
+    "wof:lastmodified":1684353802,
     "wof:name":"San Benedetto Ullano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1464,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

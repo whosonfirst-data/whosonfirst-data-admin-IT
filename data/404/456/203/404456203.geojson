@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avigliana",
+    "eurostat:nuts_2021_id":"001013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001013",
+    "eurostat:population":12599,
+    "eurostat:population_year":2020,
     "geom:area":0.002654,
-    "geom:area_square_m":23176663.058841,
+    "geom:area_square_m":23176663.058842,
     "geom:bbox":"7.34824233471,45.0430690059,7.43443305049,45.1018533145",
     "geom:latitude":45.074912,
     "geom:longitude":7.392132,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001013",
+        "eurostat:nuts_2021_id":"001013",
         "gn:id":6540544,
         "gp:id":12676366,
         "qs_pg:id":1078451
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04295ece14ecacf1da518b2c04bae514",
+    "wof:geomhash":"328255c28fac2cba4157c3d2f9f290a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456203,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353618,
     "wof:name":"Avigliana",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":12599,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

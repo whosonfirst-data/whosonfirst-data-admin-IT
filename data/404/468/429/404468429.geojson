@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lainate",
+    "eurostat:nuts_2021_id":"015116",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015116",
+    "eurostat:population":26214,
+    "eurostat:population_year":2020,
     "geom:area":0.001492,
-    "geom:area_square_m":12914107.066676,
+    "geom:area_square_m":12914107.066677,
     "geom:bbox":"8.99553842725,45.541099652,9.05637893782,45.5885084934",
     "geom:latitude":45.566227,
     "geom:longitude":9.025794,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015116",
+        "eurostat:nuts_2021_id":"015116",
         "gn:id":6541586,
         "gp:id":12679849,
         "qs_pg:id":190688
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86ffbb356fbd3795ceb9a5f982a877ee",
+    "wof:geomhash":"b8aecf64b7be61fced042069a14aa18f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404468429,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353889,
     "wof:name":"Lainate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":26214,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Truschedu",
+    "eurostat:nuts_2021_id":"095071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095071",
+    "eurostat:population":297,
+    "eurostat:population_year":2020,
     "geom:area":0.001753,
-    "geom:area_square_m":16606647.538233,
+    "geom:area_square_m":16606647.53823,
     "geom:bbox":"8.73585677438,39.9652370225,8.79295617895,40.0201234663",
     "geom:latitude":39.995654,
     "geom:longitude":8.761407,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095071",
+        "eurostat:nuts_2021_id":"095071",
         "gn:id":6539380,
         "gp:id":12682474,
         "qs_pg:id":77196
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"228e4c22e6f60895d582bd25362f56b5",
+    "wof:geomhash":"51c8f294414c4bb60689d3cc5be193c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467123,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353865,
     "wof:name":"Villanova Truschedu",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":297,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

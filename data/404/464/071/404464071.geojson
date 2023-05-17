@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aprigliano",
+    "eurostat:nuts_2021_id":"078012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078012",
+    "eurostat:population":2690,
+    "eurostat:population_year":2020,
     "geom:area":0.012649,
-    "geom:area_square_m":121176960.066025,
+    "geom:area_square_m":121176960.066029,
     "geom:bbox":"16.3112742994,39.1444938611,16.5995959417,39.2775412558",
     "geom:latitude":39.216007,
     "geom:longitude":16.467561,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078012",
+        "eurostat:nuts_2021_id":"078012"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e9101e35018716bb7200d20dc51f20c1",
+    "wof:geomhash":"fbfedee758321ae093c9be48b5fae2c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464071,
-    "wof:lastmodified":1566723217,
+    "wof:lastmodified":1684353796,
     "wof:name":"Aprigliano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2690,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

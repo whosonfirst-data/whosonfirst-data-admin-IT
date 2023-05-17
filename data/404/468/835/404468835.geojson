@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cappella Cantone",
+    "eurostat:nuts_2021_id":"019013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019013",
+    "eurostat:population":548,
+    "eurostat:population_year":2020,
     "geom:area":0.001508,
-    "geom:area_square_m":13127422.641615,
+    "geom:area_square_m":13127422.64161,
     "geom:bbox":"9.80770253934,45.2123228652,9.86172675297,45.271199049",
     "geom:latitude":45.245239,
     "geom:longitude":9.834377,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019013",
+        "eurostat:nuts_2021_id":"019013",
         "gn:id":6542608,
         "gp:id":20076344,
         "qs_pg:id":1070811
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac26e276a780139363f8d01e84b704f1",
+    "wof:geomhash":"c4a4ec25e8bbda0e1477499e54bd696b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468835,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353895,
     "wof:name":"Cappella Cantone",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":548,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

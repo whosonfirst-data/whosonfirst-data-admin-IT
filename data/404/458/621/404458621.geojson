@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corridonia",
+    "eurostat:nuts_2021_id":"043015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043015",
+    "eurostat:population":15154,
+    "eurostat:population_year":2020,
     "geom:area":0.006851,
-    "geom:area_square_m":61702949.966197,
+    "geom:area_square_m":61702949.966214,
     "geom:bbox":"13.4161638128,43.2111943743,13.5728973749,43.2920760769",
     "geom:latitude":43.249654,
     "geom:longitude":13.507584,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043015",
+        "eurostat:nuts_2021_id":"043015",
         "gn:id":6538519,
         "gp:id":12678759,
         "qs_pg:id":1078520
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77e548835a51dff1c1dd40d014bbc937",
+    "wof:geomhash":"f26e93b1603b56eddb894e471a5bff8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458621,
-    "wof:lastmodified":1582327941,
+    "wof:lastmodified":1684353674,
     "wof:name":"Corridonia",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":15154,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

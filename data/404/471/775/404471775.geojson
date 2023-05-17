@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cesio",
+    "eurostat:nuts_2021_id":"008018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008018",
+    "eurostat:population":267,
+    "eurostat:population_year":2020,
     "geom:area":0.000995,
-    "geom:area_square_m":8846036.821587,
+    "geom:area_square_m":8846036.821586,
     "geom:bbox":"7.94239800069,43.9967180877,8.00306276049,44.0335125126",
     "geom:latitude":44.014481,
     "geom:longitude":7.969845,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008018",
+        "eurostat:nuts_2021_id":"008018",
         "gn:id":6540144,
         "gp:id":12678562,
         "qs_pg:id":40362
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e06cf4e750973c9e5bd126a2ac9368bb",
+    "wof:geomhash":"1b97d3f4030cbf97369a0be97ba13042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471775,
-    "wof:lastmodified":1582327732,
+    "wof:lastmodified":1684353945,
     "wof:name":"Cesio",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":267,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

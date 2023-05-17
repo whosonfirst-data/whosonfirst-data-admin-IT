@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Diso",
+    "eurostat:nuts_2021_id":"075027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075027",
+    "eurostat:population":2903,
+    "eurostat:population_year":2020,
     "geom:area":0.001187,
-    "geom:area_square_m":11242746.671151,
+    "geom:area_square_m":11242746.671149,
     "geom:bbox":"18.3589376205,39.9746048805,18.4167657313,40.0238703282",
     "geom:latitude":39.998615,
     "geom:longitude":18.392055,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075027",
+        "eurostat:nuts_2021_id":"075027",
         "gn:id":6541263,
         "gp:id":12679085,
         "qs_pg:id":51144
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0850f3e1a3d6371b5dd541ceeddd333",
+    "wof:geomhash":"bd4ad42d802e5af965aa764dc4d33e77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404463323,
-    "wof:lastmodified":1582327774,
+    "wof:lastmodified":1684353777,
     "wof:name":"Diso",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":2903,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

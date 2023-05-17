@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zelo Buon Persico",
+    "eurostat:nuts_2021_id":"098061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098061",
+    "eurostat:population":7465,
+    "eurostat:population_year":2020,
     "geom:area":0.002171,
-    "geom:area_square_m":18854749.033886,
+    "geom:area_square_m":18854749.033888,
     "geom:bbox":"9.40417821226,45.3660100106,9.46972349221,45.4235677059",
     "geom:latitude":45.395746,
     "geom:longitude":9.438294,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098061",
+        "eurostat:nuts_2021_id":"098061",
         "gn:id":6541786,
         "gp:id":12682540,
         "qs_pg:id":1078596
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"53db6ea428b22798af3860e88ca159fc",
+    "wof:geomhash":"c9894098ed73d6351c2b7add4db4142b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469561,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353906,
     "wof:name":"Zelo Buon Persico",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":7465,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

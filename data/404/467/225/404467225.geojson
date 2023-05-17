@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baunei",
+    "eurostat:nuts_2021_id":"091006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091006",
+    "eurostat:population":3564,
+    "eurostat:population_year":2020,
     "geom:area":0.022397,
-    "geom:area_square_m":211839489.153184,
+    "geom:area_square_m":211839489.153181,
     "geom:bbox":"9.54710678353,39.9854000105,9.73576647254,40.2248823875",
     "geom:latitude":40.099144,
     "geom:longitude":9.631699,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091006",
+        "eurostat:nuts_2021_id":"091006",
         "gn:id":6537850,
         "gp:id":12676642,
         "qs_pg:id":39134
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91e2c30ae1687cb767b7469238453216",
+    "wof:geomhash":"95faa07c44d0e24352f8ed611ebe0955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467225,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353869,
     "wof:name":"Baunei",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":3564,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

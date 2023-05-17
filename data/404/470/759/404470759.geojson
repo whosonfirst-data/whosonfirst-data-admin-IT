@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fogliano Redipuglia",
+    "eurostat:nuts_2021_id":"031006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031006",
+    "eurostat:population":3040,
+    "eurostat:population_year":2020,
     "geom:area":0.000916,
-    "geom:area_square_m":7888292.132971,
+    "geom:area_square_m":7888292.132968,
     "geom:bbox":"13.4670307411,45.8386918461,13.5141406998,45.8739885888",
     "geom:latitude":45.856914,
     "geom:longitude":13.490227,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031006",
+        "eurostat:nuts_2021_id":"031006",
         "gn:id":6536259,
         "gp:id":12679311,
         "qs_pg:id":1195256
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acc77e1f59630e9f0d45cb23703abdc1",
+    "wof:geomhash":"05c728087682537a91f9d30fe78ff827",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470759,
-    "wof:lastmodified":1582327750,
+    "wof:lastmodified":1684353927,
     "wof:name":"Fogliano Redipuglia",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":3040,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

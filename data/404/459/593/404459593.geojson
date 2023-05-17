@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villadossola",
+    "eurostat:nuts_2021_id":"103075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103075",
+    "eurostat:population":6408,
+    "eurostat:population_year":2020,
     "geom:area":0.00218,
-    "geom:area_square_m":18701904.142856,
+    "geom:area_square_m":18701904.142855,
     "geom:bbox":"8.2264606008,46.0448116067,8.29180037664,46.0940058911",
     "geom:latitude":46.071281,
     "geom:longitude":8.258524,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103075",
+        "eurostat:nuts_2021_id":"103075",
         "gn:id":6539449,
         "gp:id":12678610,
         "qs_pg:id":40419
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19b1db5a75ec004981d38b515e7640dd",
+    "wof:geomhash":"23bcbdad7a20ef1f3d00dacf05f6adb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459593,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353696,
     "wof:name":"Villadossola",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":6408,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

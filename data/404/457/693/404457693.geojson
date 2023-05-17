@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalino",
+    "eurostat:nuts_2021_id":"003040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003040",
+    "eurostat:population":1531,
+    "eurostat:population_year":2020,
     "geom:area":0.00454,
-    "geom:area_square_m":39432127.654894,
+    "geom:area_square_m":39432127.65489,
     "geom:bbox":"8.48484740821,45.3413730223,8.56699871778,45.4267237157",
     "geom:latitude":45.383775,
     "geom:longitude":8.527493,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003040",
+        "eurostat:nuts_2021_id":"003040",
         "gn:id":6540934,
         "qs_pg:id":378415
     },
@@ -158,7 +174,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21c91b526ab25c3fb48cdeb302abfe0e",
+    "wof:geomhash":"86d6c0cebffb497886061e4b122ffcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":404457693,
-    "wof:lastmodified":1582328103,
+    "wof:lastmodified":1684353655,
     "wof:name":"Casalino",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1531,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

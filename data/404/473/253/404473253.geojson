@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stelvio/Stilfs",
+    "eurostat:nuts_2021_id":"021095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021095",
+    "eurostat:population":1150,
+    "eurostat:population_year":2020,
     "geom:area":0.016618,
-    "geom:area_square_m":141348081.008584,
+    "geom:area_square_m":141348081.008586,
     "geom:bbox":"10.4530608576,46.4686555797,10.6507931355,46.6163454724",
     "geom:latitude":46.538302,
     "geom:longitude":10.546843,
@@ -66,6 +78,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021095",
+        "eurostat:nuts_2021_id":"021095",
         "gn:id":6535932,
         "gp:id":12675902,
         "qs_pg:id":902506
@@ -82,7 +98,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d72d5184d582dcb8da41e036609eed5f",
+    "wof:geomhash":"3f5dc553895259fc0bd72ea112f4a400",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":404473253,
-    "wof:lastmodified":1582327929,
+    "wof:lastmodified":1684353984,
     "wof:name":"Stelvio",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1150,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

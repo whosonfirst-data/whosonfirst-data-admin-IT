@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Auletta",
+    "eurostat:nuts_2021_id":"065012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065012",
+    "eurostat:population":2217,
+    "eurostat:population_year":2020,
     "geom:area":0.003769,
-    "geom:area_square_m":35413345.526551,
+    "geom:area_square_m":35413345.526553,
     "geom:bbox":"15.3787313869,40.4932271196,15.4546255208,40.5975265663",
     "geom:latitude":40.554704,
     "geom:longitude":15.421267,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065012",
+        "eurostat:nuts_2021_id":"065012",
         "gn:id":6538804,
         "gp:id":12676337,
         "qs_pg:id":234652
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4cb1c61f649f4e9c34348e6b9d22c9c8",
+    "wof:geomhash":"a2fc03302bc50307d580d420d1507c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465489,
-    "wof:lastmodified":1582327841,
+    "wof:lastmodified":1684353832,
     "wof:name":"Auletta",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2217,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

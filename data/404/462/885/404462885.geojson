@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fornelli",
+    "eurostat:nuts_2021_id":"094021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094021",
+    "eurostat:population":1906,
+    "eurostat:population_year":2020,
     "geom:area":0.002494,
-    "geom:area_square_m":23055512.806296,
+    "geom:area_square_m":23055512.806287,
     "geom:bbox":"14.1177647347,41.5666968576,14.1662836153,41.6513501835",
     "geom:latitude":41.61425,
     "geom:longitude":14.144122,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094021",
+        "eurostat:nuts_2021_id":"094021",
         "gn:id":6540074,
         "gp:id":12679338,
         "qs_pg:id":1315744
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"852ff6e32361cc321be43c4815e0c7eb",
+    "wof:geomhash":"06b1579ffe47f151dccc829b834448f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462885,
-    "wof:lastmodified":1582327868,
+    "wof:lastmodified":1684353768,
     "wof:name":"Fornelli",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":1906,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

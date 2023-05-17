@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uscio",
+    "eurostat:nuts_2021_id":"010064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010064",
+    "eurostat:population":2171,
+    "eurostat:population_year":2020,
     "geom:area":0.001089,
-    "geom:area_square_m":9621559.418119,
+    "geom:area_square_m":9621559.418117,
     "geom:bbox":"9.12958305542,44.3973318608,9.18455141597,44.4383964856",
     "geom:latitude":44.416019,
     "geom:longitude":9.157101,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010064",
+        "eurostat:nuts_2021_id":"010064",
         "gn:id":6536103,
         "gp:id":12682307,
         "qs_pg:id":260457
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d258c34f008396f30db46b198751f9e",
+    "wof:geomhash":"299125fc183220aaf4a9e7ad13f0337a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458513,
-    "wof:lastmodified":1582327961,
+    "wof:lastmodified":1684353671,
     "wof:name":"Uscio",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2171,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
