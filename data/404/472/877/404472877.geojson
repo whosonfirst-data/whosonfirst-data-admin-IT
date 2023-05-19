@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sassetta",
+    "eurostat:nuts_2021_id":"049019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049019",
+    "eurostat:population":465,
+    "eurostat:population_year":2020,
     "geom:area":0.00296,
-    "geom:area_square_m":26710644.973121,
+    "geom:area_square_m":26710644.97312,
     "geom:bbox":"10.6272807965,43.105173723,10.7200341532,43.1733059069",
     "geom:latitude":43.131126,
     "geom:longitude":10.666471,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -45,6 +59,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049019",
+        "eurostat:nuts_2021_id":"049019",
         "gn:id":6539966,
         "gp:id":12677070,
         "qs_pg:id":1154080
@@ -53,7 +69,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df7287fb83266f77dd5c81b6972ea3b6",
+    "wof:geomhash":"b808869c93e893e8581b263ba5065adf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +79,12 @@
         }
     ],
     "wof:id":404472877,
-    "wof:lastmodified":1582327898,
+    "wof:lastmodified":1684353972,
     "wof:name":"Sassetta",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":465,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

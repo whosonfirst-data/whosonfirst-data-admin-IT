@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aquileia",
+    "eurostat:nuts_2021_id":"030004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030004",
+    "eurostat:population":3225,
+    "eurostat:population_year":2020,
     "geom:area":0.004321,
-    "geom:area_square_m":37275585.869048,
+    "geom:area_square_m":37275585.869055,
     "geom:bbox":"13.2707772203,45.7236805954,13.4187607934,45.8013894366",
     "geom:latitude":45.756165,
     "geom:longitude":13.361741,
@@ -230,6 +242,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -238,6 +252,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030004",
+        "eurostat:nuts_2021_id":"030004",
         "gn:id":6539930,
         "gp:id":12676168,
         "qs_pg:id":1187820
@@ -246,7 +262,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7a2d35b9ac2bea58b07e34cac86389a",
+    "wof:geomhash":"2eba03a602207609a0f473f239b4e2f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -257,10 +273,12 @@
         }
     ],
     "wof:id":404470447,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353922,
     "wof:name":"Aquileia",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":3225,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

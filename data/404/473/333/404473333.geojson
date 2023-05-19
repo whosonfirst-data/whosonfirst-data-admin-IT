@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bieno",
+    "eurostat:nuts_2021_id":"022015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022015",
+    "eurostat:population":431,
+    "eurostat:population_year":2020,
     "geom:area":0.001362,
-    "geom:area_square_m":11680953.153559,
+    "geom:area_square_m":11680953.153554,
     "geom:bbox":"11.5383512593,46.0714370387,11.5894226213,46.1276311712",
     "geom:latitude":46.097859,
     "geom:longitude":11.563068,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022015",
+        "eurostat:nuts_2021_id":"022015",
         "gn:id":6543234,
         "gp:id":12681261,
         "qs_pg:id":204184
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"620978c91c981f1c279a87ac7f0e958d",
+    "wof:geomhash":"e2ecd5a5e488d7135caeab6b401f1e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404473333,
-    "wof:lastmodified":1582327925,
+    "wof:lastmodified":1684353986,
     "wof:name":"Bieno",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":431,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

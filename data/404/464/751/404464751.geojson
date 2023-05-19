@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verzino",
+    "eurostat:nuts_2021_id":"101027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101027",
+    "eurostat:population":1701,
+    "eurostat:population_year":2020,
     "geom:area":0.004716,
-    "geom:area_square_m":45120436.443306,
+    "geom:area_square_m":45120436.443305,
     "geom:bbox":"16.7892605379,39.2566642689,16.8928643661,39.3524824279",
     "geom:latitude":39.307091,
     "geom:longitude":16.844534,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101027",
+        "eurostat:nuts_2021_id":"101027"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8c93bd305b1edd95c228464c3a05ba87",
+    "wof:geomhash":"2b68f71899360975fb0222edbbc1a66a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464751,
-    "wof:lastmodified":1566723231,
+    "wof:lastmodified":1684353816,
     "wof:name":"Verzino",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":1701,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

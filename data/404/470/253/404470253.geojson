@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cartura",
+    "eurostat:nuts_2021_id":"028026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028026",
+    "eurostat:population":4600,
+    "eurostat:population_year":2020,
     "geom:area":0.001866,
-    "geom:area_square_m":16235333.277458,
+    "geom:area_square_m":16235333.277459,
     "geom:bbox":"11.8295418305,45.250207583,11.9230913806,45.2908976843",
     "geom:latitude":45.271163,
     "geom:longitude":11.870658,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028026",
+        "eurostat:nuts_2021_id":"028026",
         "gn:id":6543004,
         "gp:id":12677266,
         "qs_pg:id":1013920
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cd8904dca466048092e31bf73667add",
+    "wof:geomhash":"8bae9ec787c3ad9903dcb462a300f4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470253,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353918,
     "wof:name":"Cartura",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":4600,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

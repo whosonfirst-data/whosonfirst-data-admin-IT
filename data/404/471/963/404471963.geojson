@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coreglia Ligure",
+    "eurostat:nuts_2021_id":"010019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010019",
+    "eurostat:population":277,
+    "eurostat:population_year":2020,
     "geom:area":0.000904,
-    "geom:area_square_m":7992756.463834,
+    "geom:area_square_m":7992756.463835,
     "geom:bbox":"9.22761015628,44.3617436556,9.28738874267,44.3982430781",
     "geom:latitude":44.382922,
     "geom:longitude":9.261273,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010019",
+        "eurostat:nuts_2021_id":"010019",
         "gn:id":6543717,
         "gp:id":12682029,
         "qs_pg:id":42729
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24f4c971f90ba8435f7c3dce82a69fed",
+    "wof:geomhash":"a6d1b5e5fd67147de311f06865c55afe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404471963,
-    "wof:lastmodified":1582327711,
+    "wof:lastmodified":1684353949,
     "wof:name":"Coreglia Ligure",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":277,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

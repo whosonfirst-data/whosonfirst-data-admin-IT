@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardauli",
+    "eurostat:nuts_2021_id":"095007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095007",
+    "eurostat:population":826,
+    "eurostat:population_year":2020,
     "geom:area":0.00217,
-    "geom:area_square_m":20525444.086988,
+    "geom:area_square_m":20525444.086989,
     "geom:bbox":"8.87106092669,40.0610097634,8.96551847262,40.1019450868",
     "geom:latitude":40.082688,
     "geom:longitude":8.915036,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095007",
+        "eurostat:nuts_2021_id":"095007",
         "gn:id":6537960,
         "gp:id":12676202,
         "qs_pg:id":287903
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8711ec05c76df1e8838677741a633550",
+    "wof:geomhash":"1cebf698ae20ad1b54defb3df90018ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466979,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353863,
     "wof:name":"Ardauli",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":826,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

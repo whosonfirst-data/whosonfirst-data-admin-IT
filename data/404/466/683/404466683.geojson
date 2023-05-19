@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carlentini",
+    "eurostat:nuts_2021_id":"089006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089006",
+    "eurostat:population":17461,
+    "eurostat:population_year":2020,
     "geom:area":0.01604,
-    "geom:area_square_m":157875669.692126,
+    "geom:area_square_m":157875669.69215,
     "geom:bbox":"14.9112524144,37.1522829702,15.0930117949,37.3650369379",
     "geom:latitude":37.251892,
     "geom:longitude":14.996994,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089006",
+        "eurostat:nuts_2021_id":"089006",
         "gn:id":6539208,
         "gp:id":12677699,
         "qs_pg:id":248465
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64d45d3ce3b8e724ce4a3e66b374d962",
+    "wof:geomhash":"d75d66f870882d56152ea09dd88f0aed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466683,
-    "wof:lastmodified":1582328204,
+    "wof:lastmodified":1684353855,
     "wof:name":"Carlentini",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":17461,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

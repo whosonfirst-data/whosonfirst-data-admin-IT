@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Farini",
+    "eurostat:nuts_2021_id":"033019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033019",
+    "eurostat:population":1148,
+    "eurostat:population_year":2020,
     "geom:area":0.012767,
-    "geom:area_square_m":112206266.561489,
+    "geom:area_square_m":112206266.561503,
     "geom:bbox":"9.46164326998,44.6294711864,9.67550305776,44.7584819193",
     "geom:latitude":44.701511,
     "geom:longitude":9.568661,
@@ -101,6 +113,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -109,6 +123,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033019",
+        "eurostat:nuts_2021_id":"033019",
         "gn:id":6538412,
         "gp:id":12676830,
         "qs_pg:id":1102014
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d9bc1f63f97d5d90635fd02204d3257",
+    "wof:geomhash":"444f534fea562c173ccd165fd8c040ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404472075,
-    "wof:lastmodified":1582327900,
+    "wof:lastmodified":1684353951,
     "wof:name":"Farini",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":1148,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

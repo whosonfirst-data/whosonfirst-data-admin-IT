@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerreto Laziale",
+    "eurostat:nuts_2021_id":"058027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058027",
+    "eurostat:population":1081,
+    "eurostat:population_year":2020,
     "geom:area":0.001309,
-    "geom:area_square_m":12035590.033739,
+    "geom:area_square_m":12035590.033736,
     "geom:bbox":"12.9555012293,41.9248754059,13.0031990361,41.9799705745",
     "geom:latitude":41.953795,
     "geom:longitude":12.975716,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_058027",
+        "eurostat:nuts_2021_id":"058027"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"30081befae111b51b9161f274d32c99f",
+    "wof:geomhash":"8469790333f003b3d235fa24907bb4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404461577,
-    "wof:lastmodified":1566723719,
+    "wof:lastmodified":1684353741,
     "wof:name":"Cerreto Laziale",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":1081,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

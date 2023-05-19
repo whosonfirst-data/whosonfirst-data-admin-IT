@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_110007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Ferdinando di Puglia",
+    "eurostat:nuts_2021_id":"110007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF48",
+    "eurostat:nuts_2021_level_lau":"110007",
+    "eurostat:population":13982,
+    "eurostat:population_year":2020,
     "geom:area":0.004397,
-    "geom:area_square_m":40859097.421508,
+    "geom:area_square_m":40859097.4215,
     "geom:bbox":"15.9876705978,41.2293164225,16.0902567057,41.3224590917",
     "geom:latitude":41.286366,
     "geom:longitude":16.041985,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_110007",
+        "eurostat:nuts_2021_id":"110007",
         "gn:id":6538930,
         "gp:id":12681616,
         "qs_pg:id":103786
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"675d9c4bc80e7387f13d37d9dfefad07",
+    "wof:geomhash":"9486f8f3d04400175f2e0d47633b32cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463383,
-    "wof:lastmodified":1582327773,
+    "wof:lastmodified":1684353779,
     "wof:name":"San Ferdinando Di Puglia",
     "wof:parent_id":85685731,
     "wof:placetype":"localadmin",
+    "wof:population":13982,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

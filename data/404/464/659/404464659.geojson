@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Stefano in Aspromonte",
+    "eurostat:nuts_2021_id":"080083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080083",
+    "eurostat:population":1220,
+    "eurostat:population_year":2020,
     "geom:area":0.001815,
-    "geom:area_square_m":17645480.425012,
+    "geom:area_square_m":17645480.425006,
     "geom:bbox":"15.7694488725,38.1526954641,15.871196522,38.1911774658",
     "geom:latitude":38.172089,
     "geom:longitude":15.816496,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080083",
+        "eurostat:nuts_2021_id":"080083",
         "gn:id":6541758,
         "gp:id":12676614,
         "qs_pg:id":221126
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ab264bc08fb3fb3a4519652eb123d542",
+    "wof:geomhash":"580472ab559454843870d542d5605552",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404464659,
-    "wof:lastmodified":1582327797,
+    "wof:lastmodified":1684353812,
     "wof:name":"Santo Stefano In Aspromonte",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":1220,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

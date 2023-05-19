@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corato",
+    "eurostat:nuts_2021_id":"072020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072020",
+    "eurostat:population":48019,
+    "eurostat:population_year":2020,
     "geom:area":0.017995,
-    "geom:area_square_m":167682810.482321,
+    "geom:area_square_m":167682810.482367,
     "geom:bbox":"16.263246396,40.9914193029,16.4684798717,41.196084086",
     "geom:latitude":41.096511,
     "geom:longitude":16.368008,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072020",
+        "eurostat:nuts_2021_id":"072020",
         "gn:id":6537548,
         "gp:id":12678890,
         "qs_pg:id":1292171
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ddd87682af6ef8bd560f3c9a977bf7e",
+    "wof:geomhash":"fb907eafc2c3052d81652843f3a43ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404463211,
-    "wof:lastmodified":1582327764,
+    "wof:lastmodified":1684353775,
     "wof:name":"Corato",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":48019,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

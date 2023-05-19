@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roviano",
+    "eurostat:nuts_2021_id":"058092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058092",
+    "eurostat:population":1315,
+    "eurostat:population_year":2020,
     "geom:area":0.000923,
-    "geom:area_square_m":8473234.468888,
+    "geom:area_square_m":8473234.468889,
     "geom:bbox":"12.9557774385,42.0116285503,13.0179143953,42.0456375195",
     "geom:latitude":42.029658,
     "geom:longitude":12.993947,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058092",
+        "eurostat:nuts_2021_id":"058092",
         "gn:id":6540525,
         "gp:id":12681506,
         "qs_pg:id":194102
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35c1af003a4a82aa5d13047ab7de48bc",
+    "wof:geomhash":"24601e565847777b98e2b7151a3ef4ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461723,
-    "wof:lastmodified":1582328135,
+    "wof:lastmodified":1684353744,
     "wof:name":"Roviano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":1315,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

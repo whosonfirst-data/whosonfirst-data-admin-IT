@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raddusa",
+    "eurostat:nuts_2021_id":"087036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087036",
+    "eurostat:population":2979,
+    "eurostat:population_year":2020,
     "geom:area":0.002371,
-    "geom:area_square_m":23257629.92103,
+    "geom:area_square_m":23257629.921028,
     "geom:bbox":"14.4876498411,37.4529177833,14.5621710572,37.5244784205",
     "geom:latitude":37.493649,
     "geom:longitude":14.534014,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_087036",
+        "eurostat:nuts_2021_id":"087036"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e44c82e6732007f30927fa5cd7c40e7f",
+    "wof:geomhash":"eba9996ef492d200e3b409944c67395a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404466593,
-    "wof:lastmodified":1566723762,
+    "wof:lastmodified":1684353853,
     "wof:name":"Raddusa",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":2979,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

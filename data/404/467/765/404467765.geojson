@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferrera di Varese",
+    "eurostat:nuts_2021_id":"012069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012069",
+    "eurostat:population":699,
+    "eurostat:population_year":2020,
     "geom:area":0.000177,
-    "geom:area_square_m":1524124.352909,
+    "geom:area_square_m":1524124.352908,
     "geom:bbox":"8.77504960039,45.9255259214,8.79848748361,45.9371430704",
     "geom:latitude":45.93056,
     "geom:longitude":8.786465,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012069",
+        "eurostat:nuts_2021_id":"012069",
         "gn:id":6543089,
         "gp:id":20076041,
         "qs_pg:id":1094884
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fbf422ce26fe9b32b2c49dc98caad4ff",
+    "wof:geomhash":"20a8133ca12f8f03e0108cc2906bc2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404467765,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353879,
     "wof:name":"Ferrera Di Varese",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":699,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

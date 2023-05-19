@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orsomarso",
+    "eurostat:nuts_2021_id":"078088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078088",
+    "eurostat:population":1198,
+    "eurostat:population_year":2020,
     "geom:area":0.009434,
-    "geom:area_square_m":89621337.142103,
+    "geom:area_square_m":89621337.142101,
     "geom:bbox":"15.8277240741,39.7609071279,16.0255511745,39.8463157878",
     "geom:latitude":39.800359,
     "geom:longitude":15.92861,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078088",
+        "eurostat:nuts_2021_id":"078088"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"774fa1d4083dab41b2e097dc92c3539b",
+    "wof:geomhash":"2591bad64f32d276e658e3c949739392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404464243,
-    "wof:lastmodified":1566723217,
+    "wof:lastmodified":1684353801,
     "wof:name":"Orsomarso",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solofra",
+    "eurostat:nuts_2021_id":"064101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064101",
+    "eurostat:population":12388,
+    "eurostat:population_year":2020,
     "geom:area":0.002359,
-    "geom:area_square_m":22072883.793018,
+    "geom:area_square_m":22072883.793016,
     "geom:bbox":"14.8102459275,40.7967341249,14.8809087281,40.8585144543",
     "geom:latitude":40.826726,
     "geom:longitude":14.845992,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064101",
+        "eurostat:nuts_2021_id":"064101",
         "gn:id":6537384,
         "gp:id":12682041,
         "qs_pg:id":961764
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"baf34f6b089365f1f7cfe37a6b705714",
+    "wof:geomhash":"57aed6ed046ed016f7d4ea3d6fff0469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465419,
-    "wof:lastmodified":1582327839,
+    "wof:lastmodified":1684353831,
     "wof:name":"Solofra",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":12388,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

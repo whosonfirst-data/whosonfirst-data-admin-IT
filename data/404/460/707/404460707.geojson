@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baselice",
+    "eurostat:nuts_2021_id":"062007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062007",
+    "eurostat:population":2223,
+    "eurostat:population_year":2020,
     "geom:area":0.005121,
-    "geom:area_square_m":47503823.758218,
+    "geom:area_square_m":47503823.758223,
     "geom:bbox":"14.8725046572,41.3595651612,15.0105683189,41.4257864384",
     "geom:latitude":41.391261,
     "geom:longitude":14.940269,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062007",
+        "eurostat:nuts_2021_id":"062007",
         "gn:id":6538735,
         "gp:id":12676611,
         "qs_pg:id":961605
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1cbe2d68769dd7fc8d5d37143b2947c",
+    "wof:geomhash":"30c839317c290d23616dcd65134dddff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460707,
-    "wof:lastmodified":1582327997,
+    "wof:lastmodified":1684353723,
     "wof:name":"Baselice",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2223,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corte de' Cortesi con Cignone",
+    "eurostat:nuts_2021_id":"019032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019032",
+    "eurostat:population":1075,
+    "eurostat:population_year":2020,
     "geom:area":0.001475,
-    "geom:area_square_m":12832640.062273,
+    "geom:area_square_m":12832640.062274,
     "geom:bbox":"9.97045790277,45.2473959234,10.0310706741,45.2881813964",
     "geom:latitude":45.266932,
     "geom:longitude":10.004982,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019032",
+        "eurostat:nuts_2021_id":"019032",
         "gn:id":6542609,
         "gp:id":12678655,
         "qs_pg:id":1158667
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b6a70e7d57db5d87ef59b252a376f41",
+    "wof:geomhash":"9c0f9b4f9a0b08ac13b4c7e6657ecb17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468877,
-    "wof:lastmodified":1582328086,
+    "wof:lastmodified":1684353896,
     "wof:name":"Corte De' Cortesi Con Cignone",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1075,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

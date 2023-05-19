@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Graffignana",
+    "eurostat:nuts_2021_id":"098028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098028",
+    "eurostat:population":2599,
+    "eurostat:population_year":2020,
     "geom:area":0.001252,
-    "geom:area_square_m":10905943.891934,
+    "geom:area_square_m":10905943.89193,
     "geom:bbox":"9.42571529561,45.1842451264,9.47071752322,45.2321949987",
     "geom:latitude":45.207973,
     "geom:longitude":9.444507,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098028",
+        "eurostat:nuts_2021_id":"098028",
         "gn:id":6543350,
         "gp:id":12682636,
         "qs_pg:id":1015633
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d496f3f420b2473d083309f81d70a49",
+    "wof:geomhash":"fa276973c906903751663c2c69fd0327",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469487,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353905,
     "wof:name":"Graffignana",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":2599,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

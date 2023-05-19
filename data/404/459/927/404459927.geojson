@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osimo",
+    "eurostat:nuts_2021_id":"042034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042034",
+    "eurostat:population":35155,
+    "eurostat:population_year":2020,
     "geom:area":0.011847,
-    "geom:area_square_m":106291197.235692,
+    "geom:area_square_m":106291197.235678,
     "geom:bbox":"13.3420548544,43.4331180375,13.5559025913,43.5343306731",
     "geom:latitude":43.484309,
     "geom:longitude":13.462107,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042034",
+        "eurostat:nuts_2021_id":"042034",
         "gn:id":6536779,
         "gp:id":12679832,
         "qs_pg:id":901105
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e031585ff8b6814ea44130d2860cde4a",
+    "wof:geomhash":"fda8917d69a94c7503323d533d69b8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404459927,
-    "wof:lastmodified":1582328177,
+    "wof:lastmodified":1684353705,
     "wof:name":"Osimo",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":35155,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

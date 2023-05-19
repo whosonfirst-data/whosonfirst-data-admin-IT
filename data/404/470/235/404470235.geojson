@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cadoneghe",
+    "eurostat:nuts_2021_id":"028016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028016",
+    "eurostat:population":16113,
+    "eurostat:population_year":2020,
     "geom:area":0.001486,
-    "geom:area_square_m":12889533.296771,
+    "geom:area_square_m":12889533.296768,
     "geom:bbox":"11.8934658848,45.4365840627,11.953035337,45.4846492831",
     "geom:latitude":45.457431,
     "geom:longitude":11.918143,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_028016",
+        "eurostat:nuts_2021_id":"028016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"fe30107db7095307c622f4a126e940d0",
+    "wof:geomhash":"51672e871e4859053cde2b65ef385149",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404470235,
-    "wof:lastmodified":1566723139,
+    "wof:lastmodified":1684353918,
     "wof:name":"Cadoneghe",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":16113,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

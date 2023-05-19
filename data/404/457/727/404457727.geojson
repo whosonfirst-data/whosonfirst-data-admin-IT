@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontaneto d'Agogna",
+    "eurostat:nuts_2021_id":"003066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003066",
+    "eurostat:population":2620,
+    "eurostat:population_year":2020,
     "geom:area":0.002445,
-    "geom:area_square_m":21137708.089432,
+    "geom:area_square_m":21137708.089428,
     "geom:bbox":"8.42655782164,45.6120974876,8.50846629127,45.6681850911",
     "geom:latitude":45.640754,
     "geom:longitude":8.468489,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003066",
+        "eurostat:nuts_2021_id":"003066",
         "gn:id":6541447,
         "gp:id":12679332,
         "qs_pg:id":203993
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5a6c6c9aa7ccd15020f52440a5679fb",
+    "wof:geomhash":"641159c72c50cc1d652c1c4442f4701a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457727,
-    "wof:lastmodified":1582328121,
+    "wof:lastmodified":1684353656,
     "wof:name":"Fontaneto D'Agogna",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":2620,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

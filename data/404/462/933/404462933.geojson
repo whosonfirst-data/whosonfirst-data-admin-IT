@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocchetta a Volturno",
+    "eurostat:nuts_2021_id":"094042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094042",
+    "eurostat:population":1098,
+    "eurostat:population_year":2020,
     "geom:area":0.002513,
-    "geom:area_square_m":23226200.836749,
+    "geom:area_square_m":23226200.836752,
     "geom:bbox":"13.9939584449,41.60889972,14.1034058068,41.6561765611",
     "geom:latitude":41.629446,
     "geom:longitude":14.057858,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094042",
+        "eurostat:nuts_2021_id":"094042",
         "gn:id":6541553,
         "gp:id":12681451,
         "qs_pg:id":1163542
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e603c53c60b53374163f42a49ff4095",
+    "wof:geomhash":"72781fb5ed93acbff28725819c15877a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404462933,
-    "wof:lastmodified":1582327866,
+    "wof:lastmodified":1684353769,
     "wof:name":"Rocchetta A Volturno",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":1098,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

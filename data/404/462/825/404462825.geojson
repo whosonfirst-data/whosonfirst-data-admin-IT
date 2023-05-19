@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Limosano",
+    "eurostat:nuts_2021_id":"070032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070032",
+    "eurostat:population":718,
+    "eurostat:population_year":2020,
     "geom:area":0.003042,
-    "geom:area_square_m":28098240.371486,
+    "geom:area_square_m":28098240.37149,
     "geom:bbox":"14.5836290687,41.6384037241,14.6644810513,41.7254906643",
     "geom:latitude":41.67577,
     "geom:longitude":14.624283,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070032",
+        "eurostat:nuts_2021_id":"070032",
         "gn:id":6539832,
         "gp:id":12679966,
         "qs_pg:id":1196022
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0b102a35b039133b095c3e6ffb6874c",
+    "wof:geomhash":"b57c353459415a43b705bcd371d645ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462825,
-    "wof:lastmodified":1582327869,
+    "wof:lastmodified":1684353766,
     "wof:name":"Limosano",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":718,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

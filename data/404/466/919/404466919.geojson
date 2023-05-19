@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villasimius",
+    "eurostat:nuts_2021_id":"111105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111105",
+    "eurostat:population":3750,
+    "eurostat:population_year":2020,
     "geom:area":0.006045,
-    "geom:area_square_m":57964688.061624,
+    "geom:area_square_m":57964688.061611,
     "geom:bbox":"9.44237009533,39.0806816335,9.60849819786,39.2070221198",
     "geom:latitude":39.155046,
     "geom:longitude":9.510035,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111105",
+        "eurostat:nuts_2021_id":"111105",
         "gn:id":6539320,
         "gp:id":20076842,
         "qs_pg:id":1103167
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52743f0db143b1fb2cdd9f8ece322db8",
+    "wof:geomhash":"e827e3440b770c04b74b8acd5616a3f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466919,
-    "wof:lastmodified":1582328210,
+    "wof:lastmodified":1684353861,
     "wof:name":"Villasimius",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":3750,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

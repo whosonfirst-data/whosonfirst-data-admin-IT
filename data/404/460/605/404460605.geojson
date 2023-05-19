@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capoterra",
+    "eurostat:nuts_2021_id":"092011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092011",
+    "eurostat:population":23534,
+    "eurostat:population_year":2020,
     "geom:area":0.007142,
-    "geom:area_square_m":68489869.057319,
+    "geom:area_square_m":68489869.057322,
     "geom:bbox":"8.89351911052,39.1017788069,9.02928739083,39.1931425757",
     "geom:latitude":39.146208,
     "geom:longitude":8.969664,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092011",
+        "eurostat:nuts_2021_id":"092011",
         "gn:id":6537892,
         "gp:id":12677593,
         "qs_pg:id":1317031
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33222ee3433bada95b2547d79636bafe",
+    "wof:geomhash":"493aef820b56298b1693d028270786c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404460605,
-    "wof:lastmodified":1582328001,
+    "wof:lastmodified":1684353722,
     "wof:name":"Capoterra",
     "wof:parent_id":1360702173,
     "wof:placetype":"localadmin",
+    "wof:population":23534,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

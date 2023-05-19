@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sciacca",
+    "eurostat:nuts_2021_id":"084041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084041",
+    "eurostat:population":40068,
+    "eurostat:population_year":2020,
     "geom:area":0.019494,
-    "geom:area_square_m":191121189.131246,
+    "geom:area_square_m":191121189.131292,
     "geom:bbox":"12.9905866704,37.4640213152,13.2245042964,37.6344361694",
     "geom:latitude":37.54344,
     "geom:longitude":13.102922,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084041",
+        "eurostat:nuts_2021_id":"084041",
         "gn:id":6542103,
         "gp:id":12681924,
         "qs_pg:id":538040
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66c13c65b8a7e65c621ae31165b64ded",
+    "wof:geomhash":"b954f7345a593bb0c9e8d34a86bcf00a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404466519,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353851,
     "wof:name":"Sciacca",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":40068,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

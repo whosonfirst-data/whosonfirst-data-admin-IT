@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campertogno",
+    "eurostat:nuts_2021_id":"002025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002025",
+    "eurostat:population":230,
+    "eurostat:population_year":2020,
     "geom:area":0.003953,
-    "geom:area_square_m":34079257.482486,
+    "geom:area_square_m":34079257.48249,
     "geom:bbox":"7.91906605578,45.7555100518,8.06811344213,45.8158172488",
     "geom:latitude":45.791129,
     "geom:longitude":7.991788,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002025",
+        "eurostat:nuts_2021_id":"002025",
         "gn:id":6540929,
         "gp:id":12676287,
         "qs_pg:id":891321
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e78be81f5f11d575b3a685aa907b9a8f",
+    "wof:geomhash":"38059c93b5e51a7f6d1e1c92c8c80fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457485,
-    "wof:lastmodified":1582328098,
+    "wof:lastmodified":1684353651,
     "wof:name":"Campertogno",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":230,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

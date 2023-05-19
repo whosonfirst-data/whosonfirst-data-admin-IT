@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artena",
+    "eurostat:nuts_2021_id":"058011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058011",
+    "eurostat:population":14033,
+    "eurostat:population_year":2020,
     "geom:area":0.005919,
-    "geom:area_square_m":54624274.462587,
+    "geom:area_square_m":54624274.462592,
     "geom:bbox":"12.7949827479,41.6647397555,12.9771884874,41.7684178307",
     "geom:latitude":41.728008,
     "geom:longitude":12.893416,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058011",
+        "eurostat:nuts_2021_id":"058011",
         "gn:id":6540515,
         "gp:id":12676284,
         "qs_pg:id":1164908
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2edff518b46cfb1163ed49f7cf3b2006",
+    "wof:geomhash":"7cd343ffee80e8edcf81fd1655f50bef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404461541,
-    "wof:lastmodified":1582328149,
+    "wof:lastmodified":1684353740,
     "wof:name":"Artena",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":14033,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

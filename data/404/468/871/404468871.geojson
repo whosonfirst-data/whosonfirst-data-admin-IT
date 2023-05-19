@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chieve",
+    "eurostat:nuts_2021_id":"019029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019029",
+    "eurostat:population":2280,
+    "eurostat:population_year":2020,
     "geom:area":0.000711,
     "geom:area_square_m":6184199.915316,
     "geom:bbox":"9.59644264945,45.3226869661,9.63041075637,45.3520793102",
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019029",
+        "eurostat:nuts_2021_id":"019029",
         "gn:id":6543215,
         "gp:id":20076350,
         "qs_pg:id":1014323
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b419dba2e26e1e2418190c6053dc07a",
+    "wof:geomhash":"a259ee891fee977d37a9345fac11f63a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404468871,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353896,
     "wof:name":"Chieve",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":2280,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

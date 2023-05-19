@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarconi",
+    "eurostat:nuts_2021_id":"076081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076081",
+    "eurostat:population":1423,
+    "eurostat:population_year":2020,
     "geom:area":0.003222,
-    "geom:area_square_m":30419083.320743,
+    "geom:area_square_m":30419083.320739,
     "geom:bbox":"15.8748114006,40.1766173152,15.9424608963,40.2690533284",
     "geom:latitude":40.228814,
     "geom:longitude":15.910365,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076081",
+        "eurostat:nuts_2021_id":"076081",
         "gn:id":6539014,
         "gp:id":12681884,
         "qs_pg:id":1004480
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"378640dfe16658eab2dfcf7f81509a5a",
+    "wof:geomhash":"d1be1f4c0f463058a431273f6436790d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457045,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353641,
     "wof:name":"Sarconi",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":1423,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

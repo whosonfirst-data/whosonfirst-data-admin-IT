@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sannicola",
+    "eurostat:nuts_2021_id":"075070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075070",
+    "eurostat:population":5783,
+    "eurostat:population_year":2020,
     "geom:area":0.002879,
     "geom:area_square_m":27236115.436222,
     "geom:bbox":"18.0047143439,40.0698903753,18.0941083941,40.1217104418",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075070",
+        "eurostat:nuts_2021_id":"075070",
         "gn:id":6538983,
         "gp:id":12678614,
         "qs_pg:id":40422
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"279352f46e24765b189df352c0d6a541",
+    "wof:geomhash":"3944cd515b64b5370691b86d582c64b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456613,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353628,
     "wof:name":"Sannicola",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":5783,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

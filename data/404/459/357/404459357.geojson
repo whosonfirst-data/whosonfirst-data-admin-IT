@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Marcel",
+    "eurostat:nuts_2021_id":"007060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007060",
+    "eurostat:population":1360,
+    "eurostat:population_year":2020,
     "geom:area":0.004897,
-    "geom:area_square_m":42302966.274337,
+    "geom:area_square_m":42302966.274341,
     "geom:bbox":"7.41572783285,45.6328331856,7.48060906064,45.7402518748",
     "geom:latitude":45.689015,
     "geom:longitude":7.44942,
@@ -92,6 +104,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -99,9 +113,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007060",
+        "eurostat:nuts_2021_id":"007060"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"45eccfea6cbf0fd34c6403ef3b60d2a4",
+    "wof:geomhash":"e7c0b1e621357426e91aa3eb7eac8ef4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +129,12 @@
         }
     ],
     "wof:id":404459357,
-    "wof:lastmodified":1566723742,
+    "wof:lastmodified":1684353692,
     "wof:name":"Saint-Marcel",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1360,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

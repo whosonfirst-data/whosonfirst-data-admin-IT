@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Treia",
+    "eurostat:nuts_2021_id":"043054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043054",
+    "eurostat:population":9204,
+    "eurostat:population_year":2020,
     "geom:area":0.010355,
-    "geom:area_square_m":93165756.755369,
+    "geom:area_square_m":93165756.755352,
     "geom:bbox":"13.2292560019,43.2632769324,13.4036113892,43.3716502391",
     "geom:latitude":43.315408,
     "geom:longitude":13.315995,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043054",
+        "eurostat:nuts_2021_id":"043054",
         "gn:id":6539958,
         "gp:id":12680944,
         "qs_pg:id":1102192
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ffd4b020e55f66804b22c1a644b82d32",
+    "wof:geomhash":"f46dc5928f7813004c79877b95c46aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404461045,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353730,
     "wof:name":"Treia",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":9204,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

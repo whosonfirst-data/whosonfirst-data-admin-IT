@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteleone Rocca Doria",
+    "eurostat:nuts_2021_id":"090040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090040",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.001423,
-    "geom:area_square_m":13381459.720138,
+    "geom:area_square_m":13381459.720137,
     "geom:bbox":"8.52662188832,40.4453677943,8.58924233348,40.502106285",
     "geom:latitude":40.471199,
     "geom:longitude":8.555021,
@@ -185,6 +197,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -193,6 +207,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090040",
+        "eurostat:nuts_2021_id":"090040",
         "gn:id":6537829,
         "gp:id":12680523,
         "qs_pg:id":261734
@@ -201,7 +217,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"122442aff699ac13b36f81b9de1fd101",
+    "wof:geomhash":"5d565c3c42d1be7877ee66971ad80fb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,10 +228,12 @@
         }
     ],
     "wof:id":404466785,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353858,
     "wof:name":"Monteleone Rocca Doria",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

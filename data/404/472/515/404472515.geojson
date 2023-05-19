@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarsina",
+    "eurostat:nuts_2021_id":"040044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040044",
+    "eurostat:population":3372,
+    "eurostat:population_year":2020,
     "geom:area":0.01128,
-    "geom:area_square_m":100454803.694706,
+    "geom:area_square_m":100454803.694686,
     "geom:bbox":"12.0310632882,43.846803105,12.1754681313,44.0241939591",
     "geom:latitude":43.928049,
     "geom:longitude":12.104026,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040044",
+        "eurostat:nuts_2021_id":"040044",
         "gn:id":6536758,
         "gp:id":12681304,
         "qs_pg:id":42184
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57c848fa9a92a52d5251795353e1d428",
+    "wof:geomhash":"49bb38055d04d2e649498760c9874241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472515,
-    "wof:lastmodified":1582327910,
+    "wof:lastmodified":1684353963,
     "wof:name":"Sarsina",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":3372,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

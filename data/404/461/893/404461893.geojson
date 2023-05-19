@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boville Ernica",
+    "eurostat:nuts_2021_id":"060014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060014",
+    "eurostat:population":8598,
+    "eurostat:population_year":2020,
     "geom:area":0.003038,
-    "geom:area_square_m":28077023.77655,
+    "geom:area_square_m":28077023.776552,
     "geom:bbox":"13.4287861823,41.6060473474,13.4978540913,41.6735411225",
     "geom:latitude":41.640677,
     "geom:longitude":13.466945,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060014",
+        "eurostat:nuts_2021_id":"060014",
         "gn:id":6541143,
         "gp:id":12677051,
         "qs_pg:id":1026045
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0e3ff0af9212f2df27ea89a4feb5a6c",
+    "wof:geomhash":"37a3ce8bd2176252cd040d23ab0ed059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461893,
-    "wof:lastmodified":1582328132,
+    "wof:lastmodified":1684353748,
     "wof:name":"Boville Ernica",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":8598,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

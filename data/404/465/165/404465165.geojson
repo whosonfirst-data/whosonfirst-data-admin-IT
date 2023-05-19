@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Somma Vesuviana",
+    "eurostat:nuts_2021_id":"063079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063079",
+    "eurostat:population":34902,
+    "eurostat:population_year":2020,
     "geom:area":0.003259,
-    "geom:area_square_m":30473517.218998,
+    "geom:area_square_m":30473517.218993,
     "geom:bbox":"14.4134151256,40.8328080444,14.4882265773,40.9105766859",
     "geom:latitude":40.873564,
     "geom:longitude":14.444197,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063079",
+        "eurostat:nuts_2021_id":"063079",
         "gn:id":6537351,
         "gp:id":12678789,
         "qs_pg:id":217586
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"affb6797190144e3d803fda9078b2362",
+    "wof:geomhash":"432dfb8358e1113f08a8f5dfc17f8320",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465165,
-    "wof:lastmodified":1582327837,
+    "wof:lastmodified":1684353827,
     "wof:name":"Somma Vesuviana",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":34902,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

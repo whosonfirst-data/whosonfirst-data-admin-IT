@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palagonia",
+    "eurostat:nuts_2021_id":"087032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087032",
+    "eurostat:population":16298,
+    "eurostat:population_year":2020,
     "geom:area":0.005843,
-    "geom:area_square_m":57439085.882803,
+    "geom:area_square_m":57439085.882814,
     "geom:bbox":"14.7010851045,37.3000650603,14.8428785006,37.3867889327",
     "geom:latitude":37.350387,
     "geom:longitude":14.76776,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087032",
+        "eurostat:nuts_2021_id":"087032",
         "gn:id":6541351,
         "gp:id":12677331,
         "qs_pg:id":209028
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"997f6af7e06d2d6a1e0ed61cb6b5c5b2",
+    "wof:geomhash":"d7c6291746a01c3bdf42b8672726e6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466585,
-    "wof:lastmodified":1582328209,
+    "wof:lastmodified":1684353852,
     "wof:name":"Palagonia",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":16298,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

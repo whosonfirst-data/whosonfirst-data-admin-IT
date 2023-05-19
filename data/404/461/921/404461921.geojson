@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervaro",
+    "eurostat:nuts_2021_id":"060026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060026",
+    "eurostat:population":8107,
+    "eurostat:population_year":2020,
     "geom:area":0.004234,
-    "geom:area_square_m":39226744.55107,
+    "geom:area_square_m":39226744.551084,
     "geom:bbox":"13.840975067,41.433249452,13.9558278539,41.5158310706",
     "geom:latitude":41.476684,
     "geom:longitude":13.898646,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060026",
+        "eurostat:nuts_2021_id":"060026",
         "gn:id":6539765,
         "gp:id":12678543,
         "qs_pg:id":999608
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2e8eaf663e35d70ac38bbed111ebcc2",
+    "wof:geomhash":"285a8e02a0a02f7450450ba4c3c1b610",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461921,
-    "wof:lastmodified":1582328150,
+    "wof:lastmodified":1684353749,
     "wof:name":"Cervaro",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":8107,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

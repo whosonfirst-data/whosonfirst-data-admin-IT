@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caprino Veronese",
+    "eurostat:nuts_2021_id":"023018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023018",
+    "eurostat:population":8615,
+    "eurostat:population_year":2020,
     "geom:area":0.00546,
-    "geom:area_square_m":47224006.853964,
+    "geom:area_square_m":47224006.853957,
     "geom:bbox":"10.7417721073,45.5824289781,10.860132797,45.669138806",
     "geom:latitude":45.618275,
     "geom:longitude":10.80251,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023018",
+        "eurostat:nuts_2021_id":"023018",
         "gn:id":6540241,
         "gp:id":12677626,
         "qs_pg:id":1193686
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38b8534b752659c27714be5506b048c9",
+    "wof:geomhash":"bef1849f0296e1dded7b4182ff0816b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469671,
-    "wof:lastmodified":1582328037,
+    "wof:lastmodified":1684353908,
     "wof:name":"Caprino Veronese",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":8615,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

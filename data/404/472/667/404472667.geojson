@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porcari",
+    "eurostat:nuts_2021_id":"046026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046026",
+    "eurostat:population":8911,
+    "eurostat:population_year":2020,
     "geom:area":0.002023,
-    "geom:area_square_m":18044705.120247,
+    "geom:area_square_m":18044705.120246,
     "geom:bbox":"10.5953277193,43.7935678172,10.6418087719,43.8607081624",
     "geom:latitude":43.828626,
     "geom:longitude":10.617034,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046026",
+        "eurostat:nuts_2021_id":"046026",
         "gn:id":6540465,
         "gp:id":12676983,
         "qs_pg:id":1286529
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d9629b58914c78d7ddfd740f1aa5f7d",
+    "wof:geomhash":"a1773d6acb5b261243328da433a09699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472667,
-    "wof:lastmodified":1582327887,
+    "wof:lastmodified":1684353967,
     "wof:name":"Porcari",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":8911,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

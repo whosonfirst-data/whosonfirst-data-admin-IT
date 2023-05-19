@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sonico",
+    "eurostat:nuts_2021_id":"017181",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017181",
+    "eurostat:population":1253,
+    "eurostat:population_year":2020,
     "geom:area":0.007094,
-    "geom:area_square_m":60776140.227868,
+    "geom:area_square_m":60776140.227872,
     "geom:bbox":"10.3287717021,46.1106317468,10.4933018698,46.1728673426",
     "geom:latitude":46.14209,
     "geom:longitude":10.406703,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017181",
+        "eurostat:nuts_2021_id":"017181",
         "gn:id":6537181,
         "gp:id":12681376,
         "qs_pg:id":998737
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07f24c3287a84885e23a0835f14b04fe",
+    "wof:geomhash":"257ca7d8ad8e5b5820e7fb66acb11bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404471329,
-    "wof:lastmodified":1582327732,
+    "wof:lastmodified":1684353938,
     "wof:name":"Sonico",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1253,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

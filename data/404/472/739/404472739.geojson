@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagno a Ripoli",
+    "eurostat:nuts_2021_id":"048001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048001",
+    "eurostat:population":25600,
+    "eurostat:population_year":2020,
     "geom:area":0.008277,
-    "geom:area_square_m":73956688.688088,
+    "geom:area_square_m":73956688.688087,
     "geom:bbox":"11.2572150348,43.670258001,11.4165092387,43.7924768727",
     "geom:latitude":43.733179,
     "geom:longitude":11.340679,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048001",
+        "eurostat:nuts_2021_id":"048001",
         "gn:id":6536819,
         "gp:id":12676116,
         "qs_pg:id":1142793
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abd270cadebe41af80a20da596dba5d8",
+    "wof:geomhash":"fc2c6dcf43ab8d5a13b244319b3ed854",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472739,
-    "wof:lastmodified":1582327878,
+    "wof:lastmodified":1684353968,
     "wof:name":"Bagno A Ripoli",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":25600,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

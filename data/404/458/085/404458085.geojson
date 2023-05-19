@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglione del Lago",
+    "eurostat:nuts_2021_id":"054009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054009",
+    "eurostat:population":15382,
+    "eurostat:population_year":2020,
     "geom:area":0.022683,
-    "geom:area_square_m":204780163.104424,
+    "geom:area_square_m":204780163.104425,
     "geom:bbox":"11.9124122313,43.0149177981,12.1483897385,43.1851690642",
     "geom:latitude":43.10486,
     "geom:longitude":12.017182,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054009",
+        "eurostat:nuts_2021_id":"054009",
         "gn:id":6541109,
         "gp:id":12676395,
         "qs_pg:id":1192934
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12f9a9fc9a72cabf3310b9af7ed7022b",
+    "wof:geomhash":"1eae0789ca741a49a9918ff2aee8414e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458085,
-    "wof:lastmodified":1582327942,
+    "wof:lastmodified":1684353663,
     "wof:name":"Castiglione Del Lago",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":15382,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

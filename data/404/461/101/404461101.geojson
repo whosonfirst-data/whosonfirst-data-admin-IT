@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montefiore dell'Aso",
+    "eurostat:nuts_2021_id":"044036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044036",
+    "eurostat:population":2001,
+    "eurostat:population_year":2020,
     "geom:area":0.003107,
-    "geom:area_square_m":28078823.105993,
+    "geom:area_square_m":28078823.105988,
     "geom:bbox":"13.700612783,43.0200906102,13.7970868689,43.0797451892",
     "geom:latitude":43.048457,
     "geom:longitude":13.750434,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044036",
+        "eurostat:nuts_2021_id":"044036",
         "gn:id":6542085,
         "gp:id":12680503,
         "qs_pg:id":41595
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ec43a4b7df74fc209f86075a39b25bf",
+    "wof:geomhash":"7b7069942d501e248c7618646ae369cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404461101,
-    "wof:lastmodified":1582328139,
+    "wof:lastmodified":1684353731,
     "wof:name":"Montefiore Dell'Aso",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":2001,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

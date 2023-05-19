@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miazzina",
+    "eurostat:nuts_2021_id":"103045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103045",
+    "eurostat:population":365,
+    "eurostat:population_year":2020,
     "geom:area":0.002462,
-    "geom:area_square_m":21141023.723189,
+    "geom:area_square_m":21141023.723192,
     "geom:bbox":"8.49287858151,45.9730597759,8.54684719406,46.0622316875",
     "geom:latitude":46.016062,
     "geom:longitude":8.519266,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103045",
+        "eurostat:nuts_2021_id":"103045",
         "gn:id":6541402,
         "gp:id":12680317,
         "qs_pg:id":1095155
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98b14f4497241a6032aacba4ff400a1c",
+    "wof:geomhash":"03c697f14e9ab4fe27bf996bb0c75c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459527,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353695,
     "wof:name":"Miazzina",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":365,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

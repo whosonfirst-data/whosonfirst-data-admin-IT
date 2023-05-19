@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manerba del Garda",
+    "eurostat:nuts_2021_id":"017102",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017102",
+    "eurostat:population":5414,
+    "eurostat:population_year":2020,
     "geom:area":0.004223,
-    "geom:area_square_m":36561977.151753,
+    "geom:area_square_m":36561977.151754,
     "geom:bbox":"10.5251279078,45.5286626266,10.6354350132,45.5752636549",
     "geom:latitude":45.552685,
     "geom:longitude":10.582546,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017102",
+        "eurostat:nuts_2021_id":"017102",
         "gn:id":3174094,
         "gp:id":12680574,
         "qs_pg:id":1208555
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c9556f049846025ef7bb83fe1ad45cb",
+    "wof:geomhash":"eea4807077ed1c40dbfdc9c8f4408ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404471153,
-    "wof:lastmodified":1582327722,
+    "wof:lastmodified":1684353934,
     "wof:name":"Manerba Del Garda",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":5414,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

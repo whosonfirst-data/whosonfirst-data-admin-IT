@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Venanzo",
+    "eurostat:nuts_2021_id":"055030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055030",
+    "eurostat:population":2197,
+    "eurostat:population_year":2020,
     "geom:area":0.018648,
-    "geom:area_square_m":169017446.763198,
+    "geom:area_square_m":169017446.763231,
     "geom:bbox":"12.1263966186,42.7810131131,12.3315639748,42.9395112134",
     "geom:latitude":42.860885,
     "geom:longitude":12.241172,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055030",
+        "eurostat:nuts_2021_id":"055030",
         "gn:id":6539749,
         "gp:id":12676386,
         "qs_pg:id":209011
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2190183d4530f0c1f78e18d755c6b575",
+    "wof:geomhash":"93299f95314c4a691724effdac09e2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459693,
-    "wof:lastmodified":1582328160,
+    "wof:lastmodified":1684353699,
     "wof:name":"San Venanzo",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":2197,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

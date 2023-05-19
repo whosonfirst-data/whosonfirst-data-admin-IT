@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monsampolo del Tronto",
+    "eurostat:nuts_2021_id":"044031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044031",
+    "eurostat:population":4563,
+    "eurostat:population_year":2020,
     "geom:area":0.001696,
-    "geom:area_square_m":15362282.058303,
+    "geom:area_square_m":15362282.058301,
     "geom:bbox":"13.7608523575,42.8740569647,13.8312081718,42.924545329",
     "geom:latitude":42.899588,
     "geom:longitude":13.79513,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044031",
+        "eurostat:nuts_2021_id":"044031",
         "gn:id":6536798,
         "gp:id":12680425,
         "qs_pg:id":41535
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1db3d67c0b86954edc699db6be6247df",
+    "wof:geomhash":"d1b068cce73fe15af7ebbb8b4c974253",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404461095,
-    "wof:lastmodified":1582328144,
+    "wof:lastmodified":1684353731,
     "wof:name":"Monsampolo Del Tronto",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":4563,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

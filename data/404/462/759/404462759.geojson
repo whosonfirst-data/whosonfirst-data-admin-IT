@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bojano",
+    "eurostat:nuts_2021_id":"070003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070003",
+    "eurostat:population":7829,
+    "eurostat:population_year":2020,
     "geom:area":0.00565,
-    "geom:area_square_m":52334103.557698,
+    "geom:area_square_m":52334103.557716,
     "geom:bbox":"14.4106108065,41.4351024594,14.5119175757,41.5460948902",
     "geom:latitude":41.487288,
     "geom:longitude":14.460474,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070003",
+        "eurostat:nuts_2021_id":"070003",
         "gn:id":6538897,
         "gp:id":12676858,
         "qs_pg:id":902514
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6441664938cab7d826ec265cf0222363",
+    "wof:geomhash":"60b4476fc38ec79dccc58e5f31316976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462759,
-    "wof:lastmodified":1582327866,
+    "wof:lastmodified":1684353764,
     "wof:name":"Bojano",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":7829,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

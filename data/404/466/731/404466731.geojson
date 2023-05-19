@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bessude",
+    "eurostat:nuts_2021_id":"090010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090010",
+    "eurostat:population":397,
+    "eurostat:population_year":2020,
     "geom:area":0.002851,
-    "geom:area_square_m":26785295.509156,
+    "geom:area_square_m":26785295.509157,
     "geom:bbox":"8.61787858101,40.5332282064,8.74991163272,40.5740128929",
     "geom:latitude":40.553174,
     "geom:longitude":8.676225,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090010",
+        "eurostat:nuts_2021_id":"090010",
         "gn:id":6540856,
         "gp:id":12676754,
         "qs_pg:id":191375
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b36704bf9f9613bf19152d1e40d11a0f",
+    "wof:geomhash":"b6cbeefb4af073cbe1530cfe44c43663",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466731,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353857,
     "wof:name":"Bessude",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":397,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varese",
+    "eurostat:nuts_2021_id":"012133",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012133",
+    "eurostat:population":80645,
+    "eurostat:population_year":2020,
     "geom:area":0.006354,
-    "geom:area_square_m":54754788.536077,
+    "geom:area_square_m":54754788.536068,
     "geom:bbox":"8.74022778961,45.7785402119,8.87012347157,45.8838157344",
     "geom:latitude":45.824023,
     "geom:longitude":8.8129,
@@ -248,6 +260,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -256,6 +270,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012133",
+        "eurostat:nuts_2021_id":"012133",
         "gn:id":6542112,
         "gp:id":12677586,
         "qs_pg:id":39755
@@ -264,7 +280,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"871f1c6ef96f9cb9a80de8c95b6f24a4",
+    "wof:geomhash":"cf3a853bfb6a9d9a31ed85e13c7f1c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,10 +291,12 @@
         }
     ],
     "wof:id":404467909,
-    "wof:lastmodified":1582327965,
+    "wof:lastmodified":1684353881,
     "wof:name":"Varese",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":80645,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

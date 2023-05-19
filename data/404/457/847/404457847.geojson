@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aisone",
+    "eurostat:nuts_2021_id":"004002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004002",
+    "eurostat:population":216,
+    "eurostat:population_year":2020,
     "geom:area":0.004164,
-    "geom:area_square_m":36855577.135047,
+    "geom:area_square_m":36855577.135054,
     "geom:bbox":"7.18773015474,44.2316107683,7.25742157742,44.334912358",
     "geom:latitude":44.287692,
     "geom:longitude":7.221628,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004002",
+        "eurostat:nuts_2021_id":"004002"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"aad082689929064b775ac1c88cafb9d5",
+    "wof:geomhash":"c10f8466cfc6aeb08cadd9d3a9b46d8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404457847,
-    "wof:lastmodified":1566723670,
+    "wof:lastmodified":1684353658,
     "wof:name":"Aisone",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

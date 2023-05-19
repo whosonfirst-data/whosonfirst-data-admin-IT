@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strongoli",
+    "eurostat:nuts_2021_id":"101025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101025",
+    "eurostat:population":6424,
+    "eurostat:population_year":2020,
     "geom:area":0.008828,
-    "geom:area_square_m":84542740.077306,
+    "geom:area_square_m":84542740.077302,
     "geom:bbox":"17.0070200961,39.1850863813,17.1414343846,39.2910707355",
     "geom:latitude":39.241009,
     "geom:longitude":17.067232,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101025",
+        "eurostat:nuts_2021_id":"101025"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"55402d4734e79e4abfa3e6fba0344b0f",
+    "wof:geomhash":"40d7d39c7263f296843b766c5869fff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464747,
-    "wof:lastmodified":1566723225,
+    "wof:lastmodified":1684353815,
     "wof:name":"Strongoli",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":6424,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

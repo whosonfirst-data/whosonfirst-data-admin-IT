@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sedini",
+    "eurostat:nuts_2021_id":"090065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090065",
+    "eurostat:population":1296,
+    "eurostat:population_year":2020,
     "geom:area":0.00433,
-    "geom:area_square_m":40490109.769004,
+    "geom:area_square_m":40490109.769008,
     "geom:bbox":"8.74777145075,40.81982817,8.84881125249,40.9107789903",
     "geom:latitude":40.864106,
     "geom:longitude":8.80133,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090065",
+        "eurostat:nuts_2021_id":"090065",
         "gn:id":6539239,
         "gp:id":12681940,
         "qs_pg:id":908567
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d0f850a608753ba845bc95f7549e38d",
+    "wof:geomhash":"62bf60de2e6e6aca053efb3c117e2836",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466827,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353859,
     "wof:name":"Sedini",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1296,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

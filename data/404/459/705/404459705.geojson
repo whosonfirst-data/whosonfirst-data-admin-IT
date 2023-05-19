@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apecchio",
+    "eurostat:nuts_2021_id":"041002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041002",
+    "eurostat:population":1787,
+    "eurostat:population_year":2020,
     "geom:area":0.011473,
-    "geom:area_square_m":102810990.707761,
+    "geom:area_square_m":102810990.707749,
     "geom:bbox":"12.3128226825,43.5088102563,12.5236582595,43.6176096824",
     "geom:latitude":43.557687,
     "geom:longitude":12.41916,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041002",
+        "eurostat:nuts_2021_id":"041002",
         "gn:id":6540442,
         "gp:id":12676145,
         "qs_pg:id":38834
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c326affc66b5f5ecef5278e1386bcef",
+    "wof:geomhash":"6e4df3f1574270f650b30e695e2537af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404459705,
-    "wof:lastmodified":1582328167,
+    "wof:lastmodified":1684353699,
     "wof:name":"Apecchio",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1787,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

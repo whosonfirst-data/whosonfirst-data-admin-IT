@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buja",
+    "eurostat:nuts_2021_id":"030013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030013",
+    "eurostat:population":6435,
+    "eurostat:population_year":2020,
     "geom:area":0.002969,
-    "geom:area_square_m":25401319.964257,
+    "geom:area_square_m":25401319.964254,
     "geom:bbox":"13.0704446268,46.1823945909,13.1502923027,46.2458545516",
     "geom:latitude":46.214786,
     "geom:longitude":13.111437,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030013",
+        "eurostat:nuts_2021_id":"030013",
         "gn:id":6542682,
         "gp:id":12676371,
         "qs_pg:id":1061579
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8b1764ee708681e69583e620f4fe531",
+    "wof:geomhash":"6d70e24570fd2e0a22d64c7e9c6428b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470469,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353922,
     "wof:name":"Buja",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":6435,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

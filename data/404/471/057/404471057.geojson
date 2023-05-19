@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comezzano-Cizzago",
+    "eurostat:nuts_2021_id":"017060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017060",
+    "eurostat:population":4012,
+    "eurostat:population_year":2020,
     "geom:area":0.001777,
-    "geom:area_square_m":15412462.548679,
+    "geom:area_square_m":15412462.548681,
     "geom:bbox":"9.9193276888,45.4370964437,9.98366895373,45.492747507",
     "geom:latitude":45.469173,
     "geom:longitude":9.953825,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_017060",
+        "eurostat:nuts_2021_id":"017060"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9ae2e46f9ff8015f72a799398c43cbe1",
+    "wof:geomhash":"cb3130cd5304a0be20648b82f802da90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404471057,
-    "wof:lastmodified":1566723121,
+    "wof:lastmodified":1684353932,
     "wof:name":"Comezzano-Cizzago",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4012,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

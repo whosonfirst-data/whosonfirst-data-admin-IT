@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Motta Santa Lucia",
+    "eurostat:nuts_2021_id":"079083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079083",
+    "eurostat:population":811,
+    "eurostat:population_year":2020,
     "geom:area":0.002713,
-    "geom:area_square_m":26039737.400532,
+    "geom:area_square_m":26039737.400522,
     "geom:bbox":"16.2504755416,39.0426609125,16.3502523047,39.1125635353",
     "geom:latitude":39.08906,
     "geom:longitude":16.303154,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079083",
+        "eurostat:nuts_2021_id":"079083"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"08e30f6a3369a0959bfcb13861444191",
+    "wof:geomhash":"6e797f434a81a16fcfa68c1d6c25c2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464393,
-    "wof:lastmodified":1566723232,
+    "wof:lastmodified":1684353805,
     "wof:name":"Motta Santa Lucia",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":811,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

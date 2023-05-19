@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellalto",
+    "eurostat:nuts_2021_id":"067011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067011",
+    "eurostat:population":7615,
+    "eurostat:population_year":2020,
     "geom:area":0.003741,
-    "geom:area_square_m":34016865.348216,
+    "geom:area_square_m":34016865.348219,
     "geom:bbox":"13.7972567855,42.6184722688,13.8749233053,42.7040805246",
     "geom:latitude":42.666178,
     "geom:longitude":13.836805,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067011",
+        "eurostat:nuts_2021_id":"067011",
         "gn:id":6541209,
         "gp:id":12678212,
         "qs_pg:id":1250665
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46b4d90c12a7e0c8553f0f848ffaed08",
+    "wof:geomhash":"cdc953d59d904522717eae4952162ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462335,
-    "wof:lastmodified":1582327864,
+    "wof:lastmodified":1684353756,
     "wof:name":"Castellalto",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":7615,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

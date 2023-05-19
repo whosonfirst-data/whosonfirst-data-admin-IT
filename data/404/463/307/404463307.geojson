@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavallino",
+    "eurostat:nuts_2021_id":"075020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075020",
+    "eurostat:population":12765,
+    "eurostat:population_year":2020,
     "geom:area":0.002366,
     "geom:area_square_m":22310751.948805,
     "geom:bbox":"18.1704017018,40.2635182321,18.2312046538,40.3382242603",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075020",
+        "eurostat:nuts_2021_id":"075020",
         "gn:id":6540757,
         "gp:id":12678407,
         "qs_pg:id":1164408
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1826ed7eabc259a7ad79a8b0ddb7657d",
+    "wof:geomhash":"4d953ac273479614c65b6bde65002697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463307,
-    "wof:lastmodified":1582327760,
+    "wof:lastmodified":1684353777,
     "wof:name":"Cavallino",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":12765,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

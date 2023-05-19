@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sirolo",
+    "eurostat:nuts_2021_id":"042048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042048",
+    "eurostat:population":4101,
+    "eurostat:population_year":2020,
     "geom:area":0.001852,
-    "geom:area_square_m":16603579.701462,
+    "geom:area_square_m":16603579.701456,
     "geom:bbox":"13.5720589734,43.4791199315,13.6285509014,43.5590178763",
     "geom:latitude":43.518525,
     "geom:longitude":13.602112,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042048",
+        "eurostat:nuts_2021_id":"042048",
         "gn:id":6540451,
         "gp:id":12677876,
         "qs_pg:id":39928
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f204225f3737f11eaf514b69933a2aa",
+    "wof:geomhash":"a2c45881c42e9141f52d7514ff1479b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458585,
-    "wof:lastmodified":1582327960,
+    "wof:lastmodified":1684353673,
     "wof:name":"Sirolo",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":4101,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

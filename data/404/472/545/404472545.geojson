@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montegridolfo",
+    "eurostat:nuts_2021_id":"099009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099009",
+    "eurostat:population":996,
+    "eurostat:population_year":2020,
     "geom:area":0.000776,
-    "geom:area_square_m":6914304.976748,
+    "geom:area_square_m":6914304.976746,
     "geom:bbox":"12.6817194208,43.8520626924,12.734058796,43.8816650768",
     "geom:latitude":43.866682,
     "geom:longitude":12.708403,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099009",
+        "eurostat:nuts_2021_id":"099009"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e099479708fc45082370236df90185b6",
+    "wof:geomhash":"216ff907b38e9eb2601674fea68570e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404472545,
-    "wof:lastmodified":1566723366,
+    "wof:lastmodified":1684353964,
     "wof:name":"Montegridolfo",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":996,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saviore dell'Adamello",
+    "eurostat:nuts_2021_id":"017175",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017175",
+    "eurostat:population":872,
+    "eurostat:population_year":2020,
     "geom:area":0.009812,
-    "geom:area_square_m":84103113.925512,
+    "geom:area_square_m":84103113.925502,
     "geom:bbox":"10.3892663012,46.0653323832,10.5654499339,46.1886962815",
     "geom:latitude":46.115835,
     "geom:longitude":10.486694,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017175",
+        "eurostat:nuts_2021_id":"017175",
         "gn:id":6536393,
         "gp:id":12681568,
         "qs_pg:id":1196079
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ab8a4bfc53f8c215a5155f86ed652fb",
+    "wof:geomhash":"b222aae5c965ee312d434a22b9f8facc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471317,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353937,
     "wof:name":"Saviore Dell'Adamello",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":872,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

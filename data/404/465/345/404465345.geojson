@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ospedaletto d'Alpinolo",
+    "eurostat:nuts_2021_id":"064067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064067",
+    "eurostat:population":2150,
+    "eurostat:population_year":2020,
     "geom:area":0.000604,
-    "geom:area_square_m":5641600.396763,
+    "geom:area_square_m":5641600.396761,
     "geom:bbox":"14.7157050888,40.9270808568,14.7718329939,40.9524213497",
     "geom:latitude":40.938949,
     "geom:longitude":14.743126,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064067",
+        "eurostat:nuts_2021_id":"064067",
         "gn:id":6537370,
         "gp:id":12680832,
         "qs_pg:id":1122971
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9efb8f2d401fe8cfcc3c2dd56572b8a6",
+    "wof:geomhash":"c6fa80bdd57626c34e1e6902f025f606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404465345,
-    "wof:lastmodified":1582327846,
+    "wof:lastmodified":1684353830,
     "wof:name":"Ospedaletto D'Alpinolo",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":2150,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Briga Alta",
+    "eurostat:nuts_2021_id":"004031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004031",
+    "eurostat:population":42,
+    "eurostat:population_year":2020,
     "geom:area":0.005872,
-    "geom:area_square_m":52106355.056599,
+    "geom:area_square_m":52106355.056602,
     "geom:bbox":"7.62519619954,44.0600954599,7.75939927702,44.1959249907",
     "geom:latitude":44.137393,
     "geom:longitude":7.705056,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004031",
+        "eurostat:nuts_2021_id":"004031",
         "gn:id":6542422,
         "gp:id":12679908,
         "qs_pg:id":1163509
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96ea95941b074b2f878766a64b80ca6a",
+    "wof:geomhash":"40dc1e9af992a9cf94a880c7baf3b5d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457913,
-    "wof:lastmodified":1582328108,
+    "wof:lastmodified":1684353659,
     "wof:name":"Briga Alta",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

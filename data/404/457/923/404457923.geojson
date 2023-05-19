@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monastir",
+    "eurostat:nuts_2021_id":"111041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111041",
+    "eurostat:population":4589,
+    "eurostat:population_year":2020,
     "geom:area":0.003326,
-    "geom:area_square_m":31785701.600086,
+    "geom:area_square_m":31785737.208221,
     "geom:bbox":"9.002791,39.340482,9.085001,39.420456",
     "geom:latitude":39.383393,
     "geom:longitude":9.044074,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111041",
+        "eurostat:nuts_2021_id":"111041",
         "gn:id":6537902,
         "gp:id":12680399,
         "qs_pg:id":1296819
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67fc11e98a74ba75f9df43cf048871bf",
+    "wof:geomhash":"a2b2943fb21c4e1482d66368c4077e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404457923,
-    "wof:lastmodified":1636496854,
+    "wof:lastmodified":1684353659,
     "wof:name":"Monastir",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":4589,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

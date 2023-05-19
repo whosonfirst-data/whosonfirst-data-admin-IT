@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scilla",
+    "eurostat:nuts_2021_id":"080085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080085",
+    "eurostat:population":4798,
+    "eurostat:population_year":2020,
     "geom:area":0.004505,
     "geom:area_square_m":43759605.853594,
     "geom:bbox":"15.6856500719,38.1564615876,15.8775176342,38.2677756107",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080085",
+        "eurostat:nuts_2021_id":"080085",
         "gn:id":6537722,
         "gp:id":20077015,
         "qs_pg:id":1311225
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0763d573de7ef858bc171aa1280010a1",
+    "wof:geomhash":"b343561f71eac0df41bbee8e79d7207b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464663,
-    "wof:lastmodified":1582327804,
+    "wof:lastmodified":1684353812,
     "wof:name":"Scilla",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":4798,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

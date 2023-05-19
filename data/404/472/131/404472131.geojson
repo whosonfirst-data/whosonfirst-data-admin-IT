@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vernasca",
+    "eurostat:nuts_2021_id":"033044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033044",
+    "eurostat:population":2053,
+    "eurostat:population_year":2020,
     "geom:area":0.008257,
-    "geom:area_square_m":72464167.689995,
+    "geom:area_square_m":72464167.689999,
     "geom:bbox":"9.75929916011,44.7098327072,9.94896574328,44.8581726134",
     "geom:latitude":44.787811,
     "geom:longitude":9.843137,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033044",
+        "eurostat:nuts_2021_id":"033044",
         "gn:id":6540407,
         "gp:id":20076736,
         "qs_pg:id":50894
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e6849b18b43929a1fe49976dc0ca00d",
+    "wof:geomhash":"af15de488b93537d6f62a2d0c61da9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472131,
-    "wof:lastmodified":1582327895,
+    "wof:lastmodified":1684353953,
     "wof:name":"Vernasca",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":2053,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

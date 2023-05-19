@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Inverno e Monteleone",
+    "eurostat:nuts_2021_id":"018077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018077",
+    "eurostat:population":1471,
+    "eurostat:population_year":2020,
     "geom:area":0.001105,
-    "geom:area_square_m":9627777.379067,
+    "geom:area_square_m":9627777.379068,
     "geom:bbox":"9.36996853813,45.1768723902,9.42307860551,45.2101178414",
     "geom:latitude":45.193754,
     "geom:longitude":9.39636,
@@ -89,6 +101,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -97,6 +111,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018077",
+        "eurostat:nuts_2021_id":"018077",
         "gn:id":3175495,
         "gp:id":12682160,
         "qs_pg:id":42824
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb561cd7e2794665ee4e6902003e764a",
+    "wof:geomhash":"7920ca965858817837b141b5b92f91c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404471451,
-    "wof:lastmodified":1582327729,
+    "wof:lastmodified":1684353940,
     "wof:name":"Inverno E Monteleone",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1471,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

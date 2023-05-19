@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schiavi di Abruzzo",
+    "eurostat:nuts_2021_id":"069088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069088",
+    "eurostat:population":732,
+    "eurostat:population_year":2020,
     "geom:area":0.004916,
-    "geom:area_square_m":45309514.584929,
+    "geom:area_square_m":45309514.584944,
     "geom:bbox":"14.4468571829,41.7596097026,14.5337513049,41.8507061399",
     "geom:latitude":41.804788,
     "geom:longitude":14.485829,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069088",
+        "eurostat:nuts_2021_id":"069088",
         "gn:id":6538891,
         "gp:id":12681921,
         "qs_pg:id":1322742
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"475c8100a7b082a0e297faa3d5de360f",
+    "wof:geomhash":"c48c822c975c68323dabe5a3e20ff092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404462717,
-    "wof:lastmodified":1582327873,
+    "wof:lastmodified":1684353763,
     "wof:name":"Schiavi Di Abruzzo",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":732,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

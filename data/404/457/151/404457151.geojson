@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guiglia",
+    "eurostat:nuts_2021_id":"036017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036017",
+    "eurostat:population":3929,
+    "eurostat:population_year":2020,
     "geom:area":0.005457,
-    "geom:area_square_m":48209368.918283,
+    "geom:area_square_m":48209368.918278,
     "geom:bbox":"10.9130336947,44.3516643191,11.0046179373,44.4438160959",
     "geom:latitude":44.401396,
     "geom:longitude":10.955972,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036017",
+        "eurostat:nuts_2021_id":"036017",
         "gn:id":6540422,
         "gp:id":12679734,
         "qs_pg:id":1102139
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"091d318a1736fad6d7cf11f9057cc654",
+    "wof:geomhash":"75a6a7dae722968eaa1046b45b6beefe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457151,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353643,
     "wof:name":"Guiglia",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":3929,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

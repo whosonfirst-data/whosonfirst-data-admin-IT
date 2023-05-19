@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Giusta",
+    "eurostat:nuts_2021_id":"095047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095047",
+    "eurostat:population":4757,
+    "eurostat:population_year":2020,
     "geom:area":0.00729,
-    "geom:area_square_m":69206559.077972,
+    "geom:area_square_m":69206559.077983,
     "geom:bbox":"8.53983320613,39.7981218347,8.74638287564,39.8935207387",
     "geom:latitude":39.844461,
     "geom:longitude":8.629366,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095047",
+        "eurostat:nuts_2021_id":"095047",
         "gn:id":6540078,
         "gp:id":12681850,
         "qs_pg:id":1163558
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d14f9886f0fc72fb0ebed8d0249d33f1",
+    "wof:geomhash":"3c8717cf995f90428db7e397190beacd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467069,
-    "wof:lastmodified":1582327988,
+    "wof:lastmodified":1684353864,
     "wof:name":"Santa Giusta",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":4757,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

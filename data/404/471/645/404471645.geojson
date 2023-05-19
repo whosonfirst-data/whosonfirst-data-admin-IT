@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sover",
+    "eurostat:nuts_2021_id":"022177",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022177",
+    "eurostat:population":802,
+    "eurostat:population_year":2020,
     "geom:area":0.001728,
-    "geom:area_square_m":14786132.133303,
+    "geom:area_square_m":14786132.133307,
     "geom:bbox":"11.3035253713,46.1961730925,11.3631750454,46.251125169",
     "geom:latitude":46.219012,
     "geom:longitude":11.332761,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022177",
+        "eurostat:nuts_2021_id":"022177",
         "gn:id":6542691,
         "gp:id":12682642,
         "qs_pg:id":1187600
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f70f43024cfed8a8a6abe022e161ab55",
+    "wof:geomhash":"01734c10a20014e97c26c6e81096ac47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471645,
-    "wof:lastmodified":1582327713,
+    "wof:lastmodified":1684353943,
     "wof:name":"Sover",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":802,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veggiano",
+    "eurostat:nuts_2021_id":"028096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028096",
+    "eurostat:population":4765,
+    "eurostat:population_year":2020,
     "geom:area":0.001887,
-    "geom:area_square_m":16370343.095568,
+    "geom:area_square_m":16370343.095573,
     "geom:bbox":"11.6832966108,45.3997173093,11.7447278084,45.4606108206",
     "geom:latitude":45.435203,
     "geom:longitude":11.715765,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028096",
+        "eurostat:nuts_2021_id":"028096",
         "gn:id":6540399,
         "gp:id":12682375,
         "qs_pg:id":289787
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9294e3bfd3e67b4e3ac499b06e925a07",
+    "wof:geomhash":"439aef82bc69bb61a26ef3cd360f0543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458417,
-    "wof:lastmodified":1582327954,
+    "wof:lastmodified":1684353669,
     "wof:name":"Veggiano",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":4765,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

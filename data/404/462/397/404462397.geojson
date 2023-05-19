@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Omero",
+    "eurostat:nuts_2021_id":"067039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067039",
+    "eurostat:population":5271,
+    "eurostat:population_year":2020,
     "geom:area":0.003752,
     "geom:area_square_m":34043922.006379,
     "geom:bbox":"13.7556336076,42.7708176292,13.9097378559,42.8097049619",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067039",
+        "eurostat:nuts_2021_id":"067039",
         "gn:id":6541211,
         "gp:id":12681164,
         "qs_pg:id":342131
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39ed190067bb15d42b3bb74a3d2d2508",
+    "wof:geomhash":"6bb5b7241dba65e5379b59b614fd93e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404462397,
-    "wof:lastmodified":1582327852,
+    "wof:lastmodified":1684353758,
     "wof:name":"Sant'Omero",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":5271,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

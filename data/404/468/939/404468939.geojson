@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montodine",
+    "eurostat:nuts_2021_id":"019059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019059",
+    "eurostat:population":2491,
+    "eurostat:population_year":2020,
     "geom:area":0.001308,
     "geom:area_square_m":11377665.720862,
     "geom:bbox":"9.66803758485,45.2556679356,9.72919658543,45.3023908997",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019059",
+        "eurostat:nuts_2021_id":"019059",
         "gn:id":6536576,
         "gp:id":12680576,
         "qs_pg:id":1019884
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f65a992e0d2dbde10969c78954edec1f",
+    "wof:geomhash":"c14cd4eaae0f3233549c03a8362fdef6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468939,
-    "wof:lastmodified":1582328075,
+    "wof:lastmodified":1684353896,
     "wof:name":"Montodine",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":2491,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

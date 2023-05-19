@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barzan\u00f2",
+    "eurostat:nuts_2021_id":"097006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097006",
+    "eurostat:population":5060,
+    "eurostat:population_year":2020,
     "geom:area":0.000419,
-    "geom:area_square_m":3614064.642873,
+    "geom:area_square_m":3614064.642872,
     "geom:bbox":"9.29711795939,45.7150787739,9.32581647445,45.7453024528",
     "geom:latitude":45.730907,
     "geom:longitude":9.312509,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097006",
+        "eurostat:nuts_2021_id":"097006",
         "gn:id":6538000,
         "gp:id":12676599,
         "qs_pg:id":1037364
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04997882f65aad03814c19729821eeca",
+    "wof:geomhash":"7ec5251802b912842d7a2fd79edcd507",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469235,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353901,
     "wof:name":"Barzan\u00f2",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":5060,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

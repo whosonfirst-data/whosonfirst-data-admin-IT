@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cecina",
+    "eurostat:nuts_2021_id":"049007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049007",
+    "eurostat:population":28149,
+    "eurostat:population_year":2020,
     "geom:area":0.00472,
-    "geom:area_square_m":42462833.329771,
+    "geom:area_square_m":42462833.329759,
     "geom:bbox":"10.4627293134,43.2736994856,10.581566723,43.3685626487",
     "geom:latitude":43.314896,
     "geom:longitude":10.519323,
@@ -89,6 +101,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049007",
+        "eurostat:nuts_2021_id":"049007",
         "gn:id":6539736,
         "gp:id":12678430,
         "qs_pg:id":1078511
@@ -104,7 +120,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75a5df49a36b4228003112952b8ecca0",
+    "wof:geomhash":"7e0f0b9ad275750102564b0c76d6b108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404472851,
-    "wof:lastmodified":1582327887,
+    "wof:lastmodified":1684353971,
     "wof:name":"Cecina",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":28149,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

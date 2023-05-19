@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canazei",
+    "eurostat:nuts_2021_id":"022039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022039",
+    "eurostat:population":1881,
+    "eurostat:population_year":2020,
     "geom:area":0.007847,
-    "geom:area_square_m":66829581.120209,
+    "geom:area_square_m":66829581.120215,
     "geom:bbox":"11.7436557258,46.4249703606,11.8891760605,46.532755389",
     "geom:latitude":46.469791,
     "geom:longitude":11.81055,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022039",
+        "eurostat:nuts_2021_id":"022039",
         "gn:id":6540227,
         "gp:id":12677489,
         "qs_pg:id":223829
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f1ad5d41650b3d5785e802ebefe3445",
+    "wof:geomhash":"8fccc73b8759cd3178bdcad4dfb65943",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404473385,
-    "wof:lastmodified":1582327921,
+    "wof:lastmodified":1684353987,
     "wof:name":"Canazei",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1881,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

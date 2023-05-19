@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trasquera",
+    "eurostat:nuts_2021_id":"103067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103067",
+    "eurostat:population":172,
+    "eurostat:population_year":2020,
     "geom:area":0.004621,
-    "geom:area_square_m":39532967.900375,
+    "geom:area_square_m":39532967.900374,
     "geom:bbox":"8.13901816054,46.1763044719,8.23621943637,46.2647221027",
     "geom:latitude":46.216042,
     "geom:longitude":8.181363,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103067",
+        "eurostat:nuts_2021_id":"103067",
         "gn:id":6543712,
         "gp:id":12675836,
         "qs_pg:id":1015557
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74c406a38e028c4498ba9d20b80fd425",
+    "wof:geomhash":"aec6bd81af32901b6d3f25437a9962b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459575,
-    "wof:lastmodified":1582328164,
+    "wof:lastmodified":1684353696,
     "wof:name":"Trasquera",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":172,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

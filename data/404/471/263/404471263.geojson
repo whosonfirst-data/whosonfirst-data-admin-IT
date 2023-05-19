@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzolengo",
+    "eurostat:nuts_2021_id":"017151",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017151",
+    "eurostat:population":3570,
+    "eurostat:population_year":2020,
     "geom:area":0.002452,
-    "geom:area_square_m":21287288.575999,
+    "geom:area_square_m":21287288.575998,
     "geom:bbox":"10.5845010713,45.38257482,10.6555064496,45.443687453",
     "geom:latitude":45.409677,
     "geom:longitude":10.622763,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017151",
+        "eurostat:nuts_2021_id":"017151",
         "gn:id":6540194,
         "gp:id":12681255,
         "qs_pg:id":909133
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aac82a5bd5a22a156b24e99fb4b5066a",
+    "wof:geomhash":"730664522b9bb2545073463e81144f78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404471263,
-    "wof:lastmodified":1582327731,
+    "wof:lastmodified":1684353936,
     "wof:name":"Pozzolengo",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":3570,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

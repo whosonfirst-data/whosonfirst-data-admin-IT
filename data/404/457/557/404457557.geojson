@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olcenengo",
+    "eurostat:nuts_2021_id":"002088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002088",
+    "eurostat:population":797,
+    "eurostat:population_year":2020,
     "geom:area":0.001897,
-    "geom:area_square_m":16478842.522933,
+    "geom:area_square_m":16478842.522932,
     "geom:bbox":"8.28957263178,45.3317355561,8.34722093903,45.3799420948",
     "geom:latitude":45.355665,
     "geom:longitude":8.316926,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002088",
+        "eurostat:nuts_2021_id":"002088",
         "gn:id":6539544,
         "gp:id":12680744,
         "qs_pg:id":265981
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1fac185b60534e3052878ec690947e25",
+    "wof:geomhash":"fc3fa8e2db429bcc393f7fb5f142e6cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457557,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353652,
     "wof:name":"Olcenengo",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":797,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

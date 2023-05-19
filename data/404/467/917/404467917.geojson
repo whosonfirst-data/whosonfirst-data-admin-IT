@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venegono Inferiore",
+    "eurostat:nuts_2021_id":"012136",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012136",
+    "eurostat:population":6093,
+    "eurostat:population_year":2020,
     "geom:area":0.00068,
-    "geom:area_square_m":5870007.713637,
+    "geom:area_square_m":5870007.713639,
     "geom:bbox":"8.87842600704,45.7240031008,8.9305103501,45.7550574099",
     "geom:latitude":45.737321,
     "geom:longitude":8.903065,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012136",
+        "eurostat:nuts_2021_id":"012136",
         "gn:id":6537090,
         "gp:id":12682384,
         "qs_pg:id":901549
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a96d11d487373b49a93e0c58640e1e46",
+    "wof:geomhash":"aff421d4c8c53e95b5fe9216aaa046d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467917,
-    "wof:lastmodified":1582327990,
+    "wof:lastmodified":1684353881,
     "wof:name":"Venegono Inferiore",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":6093,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

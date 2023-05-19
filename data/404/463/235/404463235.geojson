@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noci",
+    "eurostat:nuts_2021_id":"072031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072031",
+    "eurostat:population":18853,
+    "eurostat:population_year":2020,
     "geom:area":0.015891,
-    "geom:area_square_m":148822182.471289,
+    "geom:area_square_m":148822182.4713,
     "geom:bbox":"17.0009552599,40.7069429103,17.2040489543,40.8200415626",
     "geom:latitude":40.764996,
     "geom:longitude":17.100681,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072031",
+        "eurostat:nuts_2021_id":"072031",
         "gn:id":6541938,
         "gp:id":12680688,
         "qs_pg:id":41735
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf913645d30947ec39f15068f76cd15d",
+    "wof:geomhash":"0cd25a529d1242dc2a86746e5fa5f401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404463235,
-    "wof:lastmodified":1582327769,
+    "wof:lastmodified":1684353775,
     "wof:name":"Noci",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":18853,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

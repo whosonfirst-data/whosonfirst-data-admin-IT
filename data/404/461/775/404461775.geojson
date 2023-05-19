@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lariano",
+    "eurostat:nuts_2021_id":"058115",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058115",
+    "eurostat:population":13503,
+    "eurostat:population_year":2020,
     "geom:area":0.002434,
-    "geom:area_square_m":22465181.480257,
+    "geom:area_square_m":22465181.480258,
     "geom:bbox":"12.7883761309,41.694241316,12.8552365704,41.7550153209",
     "geom:latitude":41.727319,
     "geom:longitude":12.825795,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058115",
+        "eurostat:nuts_2021_id":"058115",
         "gn:id":6540529,
         "gp:id":12679874,
         "qs_pg:id":246393
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"016fdf14899fc5a1bc9f82ae16f36ed1",
+    "wof:geomhash":"3ffae3f57b22cfa7bce5be3053386f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404461775,
-    "wof:lastmodified":1582328147,
+    "wof:lastmodified":1684353745,
     "wof:name":"Lariano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":13503,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Furnari",
+    "eurostat:nuts_2021_id":"083028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083028",
+    "eurostat:population":3848,
+    "eurostat:population_year":2020,
     "geom:area":0.001384,
-    "geom:area_square_m":13462245.057457,
+    "geom:area_square_m":13462245.057453,
     "geom:bbox":"15.0873095983,38.0768796412,15.1364062272,38.1305649195",
     "geom:latitude":38.105188,
     "geom:longitude":15.109968,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083028",
+        "eurostat:nuts_2021_id":"083028",
         "gn:id":6543305,
         "gp:id":12682220,
         "qs_pg:id":538208
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83cfb375bc0ba639c0c487d598a22916",
+    "wof:geomhash":"64a95c97ef29a5d86fbeb96806106f59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466247,
-    "wof:lastmodified":1582328203,
+    "wof:lastmodified":1684353845,
     "wof:name":"Furnari",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":3848,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

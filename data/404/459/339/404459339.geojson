@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont-Saint-Martin",
+    "eurostat:nuts_2021_id":"007052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007052",
+    "eurostat:population":3638,
+    "eurostat:population_year":2020,
     "geom:area":0.000799,
-    "geom:area_square_m":6910690.126413,
+    "geom:area_square_m":6910690.126414,
     "geom:bbox":"7.78443850859,45.5863728131,7.84890982434,45.6104138851",
     "geom:latitude":45.598937,
     "geom:longitude":7.812073,
@@ -65,6 +77,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -72,9 +86,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007052",
+        "eurostat:nuts_2021_id":"007052"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a02934272cc76a954430da131fd523be",
+    "wof:geomhash":"45a81e555a2feeba32e33d1b572ae7f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,10 +102,12 @@
         }
     ],
     "wof:id":404459339,
-    "wof:lastmodified":1566723724,
+    "wof:lastmodified":1684353692,
     "wof:name":"Pont-Saint-Martin",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":3638,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cassiglio",
+    "eurostat:nuts_2021_id":"016061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016061",
+    "eurostat:population":113,
+    "eurostat:population_year":2020,
     "geom:area":0.001588,
-    "geom:area_square_m":13655153.577614,
+    "geom:area_square_m":13655153.577616,
     "geom:bbox":"9.58012615823,45.9297231317,9.63518639158,45.9806239155",
     "geom:latitude":45.952918,
     "geom:longitude":9.607975,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016061",
+        "eurostat:nuts_2021_id":"016061",
         "gn:id":6539489,
         "gp:id":12678146,
         "qs_pg:id":49295
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05917ee5c1f25a584f80678234967808",
+    "wof:geomhash":"632fefde8a6b36a72b60365d5e508c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465839,
-    "wof:lastmodified":1582327844,
+    "wof:lastmodified":1684353838,
     "wof:name":"Cassiglio",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":113,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tripi",
+    "eurostat:nuts_2021_id":"083100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083100",
+    "eurostat:population":818,
+    "eurostat:population_year":2020,
     "geom:area":0.005575,
-    "geom:area_square_m":54299318.871826,
+    "geom:area_square_m":54299318.871825,
     "geom:bbox":"15.0446618706,37.9683913496,15.1253683329,38.1059650334",
     "geom:latitude":38.036942,
     "geom:longitude":15.08195,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083100",
+        "eurostat:nuts_2021_id":"083100",
         "gn:id":6539167,
         "gp:id":12677949,
         "qs_pg:id":243406
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63796428b88e8b9c86ed7378ba513e69",
+    "wof:geomhash":"ed463fc66053a218f81296c83de6f4d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466409,
-    "wof:lastmodified":1582328192,
+    "wof:lastmodified":1684353848,
     "wof:name":"Tripi",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":818,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

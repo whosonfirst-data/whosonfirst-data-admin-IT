@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pergine Valsugana",
+    "eurostat:nuts_2021_id":"022139",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022139",
+    "eurostat:population":21548,
+    "eurostat:population_year":2020,
     "geom:area":0.006317,
-    "geom:area_square_m":54202173.820883,
+    "geom:area_square_m":54202173.82088,
     "geom:bbox":"11.1866166376,46.0103653891,11.3345355533,46.110308443",
     "geom:latitude":46.058442,
     "geom:longitude":11.236394,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022139",
+        "eurostat:nuts_2021_id":"022139",
         "gn:id":6536242,
         "gp:id":12680986,
         "qs_pg:id":1317137
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a5084b96fd3ef9b8e70a286ec9aeaba",
+    "wof:geomhash":"fe10e7dadfd164423582da8d120ce262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404473601,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353991,
     "wof:name":"Pergine Valsugana",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":21548,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marano di Valpolicella",
+    "eurostat:nuts_2021_id":"023046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023046",
+    "eurostat:population":3153,
+    "eurostat:population_year":2020,
     "geom:area":0.002147,
-    "geom:area_square_m":18584325.909297,
+    "geom:area_square_m":18584325.909294,
     "geom:bbox":"10.8924869699,45.5214293155,10.9432679329,45.5920231955",
     "geom:latitude":45.558244,
     "geom:longitude":10.915843,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_023046",
+        "eurostat:nuts_2021_id":"023046"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"42c3c05fcf8a6cae1cd9308c3c3eedb6",
+    "wof:geomhash":"d67b57f0c96136641ae1163683a27c83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404458003,
-    "wof:lastmodified":1566723451,
+    "wof:lastmodified":1684353661,
     "wof:name":"Marano Di Valpolicella",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":3153,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

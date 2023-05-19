@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abano Terme",
+    "eurostat:nuts_2021_id":"028001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028001",
+    "eurostat:population":20274,
+    "eurostat:population_year":2020,
     "geom:area":0.002458,
-    "geom:area_square_m":21352373.775695,
+    "geom:area_square_m":21352373.775697,
     "geom:bbox":"11.7571189593,45.3308600822,11.8364532362,45.3838175076",
     "geom:latitude":45.358636,
     "geom:longitude":11.793306,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028001",
+        "eurostat:nuts_2021_id":"028001",
         "gn:id":6541001,
         "gp:id":12675700,
         "qs_pg:id":1078416
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d47d04075f39c3dede3a1ff57c4f396",
+    "wof:geomhash":"e2dfc3cf0514b3cd1ab74cc82a375e44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404470201,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353918,
     "wof:name":"Abano Terme",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":20274,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

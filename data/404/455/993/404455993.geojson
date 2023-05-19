@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cessole",
+    "eurostat:nuts_2021_id":"005037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005037",
+    "eurostat:population":368,
+    "eurostat:population_year":2020,
     "geom:area":0.001337,
-    "geom:area_square_m":11761995.619505,
+    "geom:area_square_m":11761995.619504,
     "geom:bbox":"8.21811492356,44.6222817102,8.28788078828,44.6700044133",
     "geom:latitude":44.64522,
     "geom:longitude":8.251239,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005037",
+        "eurostat:nuts_2021_id":"005037",
         "gn:id":6538171,
         "gp:id":12678567,
         "qs_pg:id":1026005
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b2d5bc5862076de9e544548db4c523c",
+    "wof:geomhash":"6c0051265955ebf819cdae893861a50a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455993,
-    "wof:lastmodified":1582327817,
+    "wof:lastmodified":1684353615,
     "wof:name":"Cessole",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":368,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecchio Emilia",
+    "eurostat:nuts_2021_id":"035027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035027",
+    "eurostat:population":10517,
+    "eurostat:population_year":2020,
     "geom:area":0.002771,
-    "geom:area_square_m":24347718.575873,
+    "geom:area_square_m":24347718.575874,
     "geom:bbox":"10.4190133084,44.6739417399,10.5021535066,44.7430133759",
     "geom:latitude":44.707801,
     "geom:longitude":10.459685,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035027",
+        "eurostat:nuts_2021_id":"035027",
         "gn:id":6538442,
         "gp:id":12680488,
         "qs_pg:id":1037374
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3e3a2527fdf3ea8e0ebab31e4d9a19d",
+    "wof:geomhash":"63148e4f0d332f8647963303e9931e11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404457071,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353641,
     "wof:name":"Montecchio Emilia",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":10517,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

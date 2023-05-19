@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strevi",
+    "eurostat:nuts_2021_id":"006168",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006168",
+    "eurostat:population":1910,
+    "eurostat:population_year":2020,
     "geom:area":0.001737,
-    "geom:area_square_m":15268797.639436,
+    "geom:area_square_m":15268797.639437,
     "geom:bbox":"8.48446991142,44.6748531351,8.5535089651,44.7195841346",
     "geom:latitude":44.698425,
     "geom:longitude":8.521111,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006168",
+        "eurostat:nuts_2021_id":"006168",
         "gn:id":6537021,
         "gp:id":12682105,
         "qs_pg:id":204268
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e68e9d8b4120c58d37af9a865c25d8a",
+    "wof:geomhash":"515f9426e3640c731eb32015339f92b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456791,
-    "wof:lastmodified":1582328047,
+    "wof:lastmodified":1684353633,
     "wof:name":"Strevi",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1910,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

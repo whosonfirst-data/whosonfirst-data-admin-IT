@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brozolo",
+    "eurostat:nuts_2021_id":"001037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001037",
+    "eurostat:population":443,
+    "eurostat:population_year":2020,
     "geom:area":0.001024,
-    "geom:area_square_m":8937048.970589,
+    "geom:area_square_m":8937048.970587,
     "geom:bbox":"8.04368282783,45.0973743267,8.0967190273,45.1321043636",
     "geom:latitude":45.114417,
     "geom:longitude":8.069616,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001037",
+        "eurostat:nuts_2021_id":"001037",
         "gn:id":6542358,
         "gp:id":20076448,
         "qs_pg:id":202136
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8decd5215d9d6db9a08a1cb0e4688594",
+    "wof:geomhash":"ca896346afabb55d95db28ff2f9f2bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456257,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353619,
     "wof:name":"Brozolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":443,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

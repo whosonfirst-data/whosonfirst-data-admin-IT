@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tortorella",
+    "eurostat:nuts_2021_id":"065150",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065150",
+    "eurostat:population":498,
+    "eurostat:population_year":2020,
     "geom:area":0.00359,
-    "geom:area_square_m":33942437.46911,
+    "geom:area_square_m":33942437.469107,
     "geom:bbox":"15.5439350847,40.075906038,15.696653008,40.1479992139",
     "geom:latitude":40.12108,
     "geom:longitude":15.632166,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065150",
+        "eurostat:nuts_2021_id":"065150"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"fde8be35bcc3a8b0401bc5658cfb350e",
+    "wof:geomhash":"06b78db61624b2143a13ede550294d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404465799,
-    "wof:lastmodified":1566723273,
+    "wof:lastmodified":1684353838,
     "wof:name":"Tortorella",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":498,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

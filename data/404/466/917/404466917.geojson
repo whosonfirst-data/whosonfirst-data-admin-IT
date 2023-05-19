@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa San Pietro",
+    "eurostat:nuts_2021_id":"092099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092099",
+    "eurostat:population":2143,
+    "eurostat:population_year":2020,
     "geom:area":0.004155,
-    "geom:area_square_m":39888408.438072,
+    "geom:area_square_m":39888408.438068,
     "geom:bbox":"8.84725369094,39.0215417764,9.01905318284,39.1088238028",
     "geom:latitude":39.062678,
     "geom:longitude":8.930022,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092099",
+        "eurostat:nuts_2021_id":"092099",
         "gn:id":6539319,
         "gp:id":12681740,
         "qs_pg:id":968681
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfe20848e5163b38adb07b9efe46200d",
+    "wof:geomhash":"6296f7798cb304a9038e66c781808cab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404466917,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353861,
     "wof:name":"Villa San Pietro",
     "wof:parent_id":1360702173,
     "wof:placetype":"localadmin",
+    "wof:population":2143,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

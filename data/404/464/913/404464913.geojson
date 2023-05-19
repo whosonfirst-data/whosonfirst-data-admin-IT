@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petrosino",
+    "eurostat:nuts_2021_id":"081024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081024",
+    "eurostat:population":8150,
+    "eurostat:population_year":2020,
     "geom:area":0.004619,
-    "geom:area_square_m":45184310.018362,
+    "geom:area_square_m":45184310.018361,
     "geom:bbox":"12.4664961393,37.6623046572,12.6045705882,37.7438171432",
     "geom:latitude":37.709846,
     "geom:longitude":12.525068,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081024",
+        "eurostat:nuts_2021_id":"081024",
         "gn:id":6541959,
         "gp:id":12677851,
         "qs_pg:id":1102044
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e4f66bf4cea35e888a5df9c5220d06f0",
+    "wof:geomhash":"e0f02b742ff6c9287ddbada4e93655f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464913,
-    "wof:lastmodified":1582327799,
+    "wof:lastmodified":1684353821,
     "wof:name":"Petrosino",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":8150,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

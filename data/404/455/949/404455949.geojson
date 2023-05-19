@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canelli",
+    "eurostat:nuts_2021_id":"005017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005017",
+    "eurostat:population":10392,
+    "eurostat:population_year":2020,
     "geom:area":0.002663,
-    "geom:area_square_m":23400876.962896,
+    "geom:area_square_m":23400876.962897,
     "geom:bbox":"8.25516768487,44.6852005206,8.31704365592,44.755054629",
     "geom:latitude":44.721944,
     "geom:longitude":8.282959,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005017",
+        "eurostat:nuts_2021_id":"005017",
         "gn:id":6536041,
         "gp:id":12677505,
         "qs_pg:id":39709
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1c704b9db007732229a7d7841370f9d",
+    "wof:geomhash":"f34ae0102f7cbc65303331d44685894f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455949,
-    "wof:lastmodified":1582327815,
+    "wof:lastmodified":1684353614,
     "wof:name":"Canelli",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":10392,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

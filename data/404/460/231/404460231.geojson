@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Novi Ligure",
+    "eurostat:nuts_2021_id":"006114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006114",
+    "eurostat:population":28255,
+    "eurostat:population_year":2020,
     "geom:area":0.006279,
-    "geom:area_square_m":55123354.986507,
+    "geom:area_square_m":55123354.986502,
     "geom:bbox":"8.72259182078,44.7163143283,8.85126663799,44.8081378542",
     "geom:latitude":44.765141,
     "geom:longitude":8.795239,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006114",
+        "eurostat:nuts_2021_id":"006114",
         "gn:id":6536440,
         "gp:id":12680714,
         "qs_pg:id":1108780
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"273dfee3f2b9beaebddfea9ad8553712",
+    "wof:geomhash":"d90da23703a632ac00df1092d3596b17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404460231,
-    "wof:lastmodified":1582328015,
+    "wof:lastmodified":1684353713,
     "wof:name":"Novi Ligure",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":28255,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

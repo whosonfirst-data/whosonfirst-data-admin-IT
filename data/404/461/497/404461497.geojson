@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selci",
+    "eurostat:nuts_2021_id":"057065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057065",
+    "eurostat:population":1081,
+    "eurostat:population_year":2020,
     "geom:area":0.000843,
     "geom:area_square_m":7705729.903276,
     "geom:bbox":"12.5989189647,42.2938724401,12.6356714648,42.3330280929",
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_057065",
+        "eurostat:nuts_2021_id":"057065"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6af273a072865e1857fa82aa5608f46a",
+    "wof:geomhash":"bea4c6f4e497d6df4f25dd27f95c3fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404461497,
-    "wof:lastmodified":1566723693,
+    "wof:lastmodified":1684353740,
     "wof:name":"Selci",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":1081,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

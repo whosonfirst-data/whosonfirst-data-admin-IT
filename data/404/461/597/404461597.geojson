@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiano Romano",
+    "eurostat:nuts_2021_id":"058036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058036",
+    "eurostat:population":15991,
+    "eurostat:population_year":2020,
     "geom:area":0.00448,
-    "geom:area_square_m":41068835.97189,
+    "geom:area_square_m":41068835.971895,
     "geom:bbox":"12.5489866827,42.1175963453,12.6388585785,42.1988618901",
     "geom:latitude":42.156037,
     "geom:longitude":12.59675,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058036",
+        "eurostat:nuts_2021_id":"058036",
         "gn:id":6540521,
         "gp:id":12677962,
         "qs_pg:id":1208475
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56f6b189ee4ac183113dbce18bf2bfa2",
+    "wof:geomhash":"40270b727449a00a0a6833b095e8195d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461597,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353741,
     "wof:name":"Fiano Romano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":15991,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

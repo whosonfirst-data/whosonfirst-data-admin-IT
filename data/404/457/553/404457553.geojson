@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moncrivello",
+    "eurostat:nuts_2021_id":"002079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002079",
+    "eurostat:population":1385,
+    "eurostat:population_year":2020,
     "geom:area":0.002318,
     "geom:area_square_m":20149867.790761,
     "geom:bbox":"7.94687892746,45.2905544243,8.06759472133,45.3465291598",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002079",
+        "eurostat:nuts_2021_id":"002079",
         "gn:id":6543801,
         "gp:id":20075698,
         "qs_pg:id":1198638
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fbda1c637a94c0f9c1543b520eb15cc8",
+    "wof:geomhash":"70586a16fa18e6b90bfd1b34b8408aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457553,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353652,
     "wof:name":"Moncrivello",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":1385,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

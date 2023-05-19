@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casteggio",
+    "eurostat:nuts_2021_id":"018037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018037",
+    "eurostat:population":6731,
+    "eurostat:population_year":2020,
     "geom:area":0.002018,
-    "geom:area_square_m":17637862.827339,
+    "geom:area_square_m":17637862.827337,
     "geom:bbox":"9.10271126987,44.9757450422,9.1654032886,45.0403078596",
     "geom:latitude":45.009262,
     "geom:longitude":9.131904,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018037",
+        "eurostat:nuts_2021_id":"018037",
         "gn:id":6540354,
         "gp:id":12678163,
         "qs_pg:id":1095059
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7430afdd902402155928d80de6e02588",
+    "wof:geomhash":"278dd12a17d094373b535337053d730f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458347,
-    "wof:lastmodified":1582327948,
+    "wof:lastmodified":1684353668,
     "wof:name":"Casteggio",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":6731,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

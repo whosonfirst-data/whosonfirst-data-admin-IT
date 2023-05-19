@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria la Longa",
+    "eurostat:nuts_2021_id":"030104",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030104",
+    "eurostat:population":2314,
+    "eurostat:population_year":2020,
     "geom:area":0.00227,
-    "geom:area_square_m":19519304.442088,
+    "geom:area_square_m":19519304.442091,
     "geom:bbox":"13.2536631453,45.9090900259,13.3237871618,45.981463353",
     "geom:latitude":45.939481,
     "geom:longitude":13.286269,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030104",
+        "eurostat:nuts_2021_id":"030104",
         "gn:id":6536690,
         "gp:id":12682184,
         "qs_pg:id":342136
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"80eae76c91538bac0510ff77125ba699",
+    "wof:geomhash":"fff09a25e5145a7a79be62b8b0b0e64e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470671,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353926,
     "wof:name":"Santa Maria La Longa",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2314,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

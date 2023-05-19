@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vito Lo Capo",
+    "eurostat:nuts_2021_id":"081020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081020",
+    "eurostat:population":4818,
+    "eurostat:population_year":2020,
     "geom:area":0.006165,
-    "geom:area_square_m":59972085.633508,
+    "geom:area_square_m":59972085.633512,
     "geom:bbox":"12.7109452652,38.0581055084,12.8109482183,38.1896299043",
     "geom:latitude":38.124016,
     "geom:longitude":12.758808,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081020",
+        "eurostat:nuts_2021_id":"081020",
         "gn:id":6540822,
         "gp:id":12676419,
         "qs_pg:id":1142816
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5972a92516c1410dff1aa03df65fc6aa",
+    "wof:geomhash":"64cfcba6edefb7ec737c908d889c16e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404464903,
-    "wof:lastmodified":1582327800,
+    "wof:lastmodified":1684353820,
     "wof:name":"San Vito Lo Capo",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":4818,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

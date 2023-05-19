@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietranico",
+    "eurostat:nuts_2021_id":"068032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068032",
+    "eurostat:population":467,
+    "eurostat:population_year":2020,
     "geom:area":0.001607,
-    "geom:area_square_m":14701096.133356,
+    "geom:area_square_m":14701096.133354,
     "geom:bbox":"13.8822874251,42.2632523315,13.9454439284,42.3102265787",
     "geom:latitude":42.283391,
     "geom:longitude":13.913848,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068032",
+        "eurostat:nuts_2021_id":"068032",
         "gn:id":6540730,
         "gp:id":12681086,
         "qs_pg:id":257919
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65015f5904fdb910f07564e55b8aa5a6",
+    "wof:geomhash":"4c84e5d33f478c42b8516ef1f0929226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462487,
-    "wof:lastmodified":1582327868,
+    "wof:lastmodified":1684353759,
     "wof:name":"Pietranico",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":467,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

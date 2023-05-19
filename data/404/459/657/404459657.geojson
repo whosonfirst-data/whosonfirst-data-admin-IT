@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giove",
+    "eurostat:nuts_2021_id":"055014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055014",
+    "eurostat:population":1874,
+    "eurostat:population_year":2020,
     "geom:area":0.001651,
-    "geom:area_square_m":15048968.188182,
+    "geom:area_square_m":15048968.188178,
     "geom:bbox":"12.2982483684,42.487472246,12.3604937685,42.5261083851",
     "geom:latitude":42.50793,
     "geom:longitude":12.328842,
@@ -89,6 +101,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -97,6 +111,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055014",
+        "eurostat:nuts_2021_id":"055014",
         "gn:id":6542043,
         "gp:id":12679595,
         "qs_pg:id":1163500
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b7292e79592594f7b23a7b1590a9525",
+    "wof:geomhash":"34e22ce3152b64a2e04c0d9ba2b7857d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404459657,
-    "wof:lastmodified":1582328162,
+    "wof:lastmodified":1684353698,
     "wof:name":"Giove",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":1874,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

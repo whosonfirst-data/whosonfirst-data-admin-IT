@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdidentro",
+    "eurostat:nuts_2021_id":"014071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014071",
+    "eurostat:population":4179,
+    "eurostat:population_year":2020,
     "geom:area":0.02658,
-    "geom:area_square_m":226286943.631914,
+    "geom:area_square_m":226286943.631923,
     "geom:bbox":"10.1307257371,46.3819501372,10.4335764188,46.5925144402",
     "geom:latitude":46.488446,
     "geom:longitude":10.264288,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014071",
+        "eurostat:nuts_2021_id":"014071",
         "gn:id":3164854,
         "gp:id":12675994,
         "qs_pg:id":38744
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29b515d4adcfc1400dc2a08d345cae9c",
+    "wof:geomhash":"30e5f97835154e88c8387bc53e89e49c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404468273,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353886,
     "wof:name":"Valdidentro",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":4179,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

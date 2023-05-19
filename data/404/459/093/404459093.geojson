@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_032003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muggia",
+    "eurostat:nuts_2021_id":"032003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH44",
+    "eurostat:nuts_2021_level_lau":"032003",
+    "eurostat:population":13013,
+    "eurostat:population_year":2020,
     "geom:area":0.001593,
-    "geom:area_square_m":13784124.463019,
+    "geom:area_square_m":13784124.463018,
     "geom:bbox":"13.7192213753,45.5809102724,13.8217404149,45.6106734077",
     "geom:latitude":45.596472,
     "geom:longitude":13.776047,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_032003",
+        "eurostat:nuts_2021_id":"032003",
         "gn:id":3172484,
         "gp:id":12676169,
         "qs_pg:id":38859
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00c4d9a24a977807fec3925f8ed73ac9",
+    "wof:geomhash":"a06be6a1153aafb8878728c7869436f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404459093,
-    "wof:lastmodified":1582328176,
+    "wof:lastmodified":1684353685,
     "wof:name":"Muggia",
     "wof:parent_id":85685329,
     "wof:placetype":"localadmin",
+    "wof:population":13013,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

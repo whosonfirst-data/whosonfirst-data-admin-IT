@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penna San Giovanni",
+    "eurostat:nuts_2021_id":"043035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043035",
+    "eurostat:population":997,
+    "eurostat:population_year":2020,
     "geom:area":0.003096,
-    "geom:area_square_m":27969200.834273,
+    "geom:area_square_m":27969200.834272,
     "geom:bbox":"13.3779362402,43.0325312448,13.4838924125,43.0851219411",
     "geom:latitude":43.059747,
     "geom:longitude":13.422437,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043035",
+        "eurostat:nuts_2021_id":"043035",
         "gn:id":6540454,
         "gp:id":12680385,
         "qs_pg:id":41502
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2cf5f058015878d280bc6c5df1e7a15",
+    "wof:geomhash":"6cf885eae76b379acd4db26c603ea6da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461003,
-    "wof:lastmodified":1582328143,
+    "wof:lastmodified":1684353729,
     "wof:name":"Penna San Giovanni",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":997,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

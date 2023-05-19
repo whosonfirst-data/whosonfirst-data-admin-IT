@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Volpiano",
+    "eurostat:nuts_2021_id":"001314",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001314",
+    "eurostat:population":15453,
+    "eurostat:population_year":2020,
     "geom:area":0.003719,
-    "geom:area_square_m":32410415.789319,
+    "geom:area_square_m":32410415.789322,
     "geom:bbox":"7.73501335009,45.1626917026,7.83521505672,45.2216233162",
     "geom:latitude":45.194501,
     "geom:longitude":7.78387,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001314",
+        "eurostat:nuts_2021_id":"001314",
         "gn:id":6539533,
         "gp:id":12681578,
         "qs_pg:id":190877
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33c9dabf48f08e946cc5e2db06a777bd",
+    "wof:geomhash":"4ba61f233b84496d3be9d872d4024692",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457449,
-    "wof:lastmodified":1582328098,
+    "wof:lastmodified":1684353650,
     "wof:name":"Volpiano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":15453,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

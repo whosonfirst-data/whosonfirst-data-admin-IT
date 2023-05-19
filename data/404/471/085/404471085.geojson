@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flero",
+    "eurostat:nuts_2021_id":"017072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017072",
+    "eurostat:population":8942,
+    "eurostat:population_year":2020,
     "geom:area":0.001133,
     "geom:area_square_m":9820367.1615,
     "geom:bbox":"10.1439003083,45.4631491984,10.1961757279,45.4968827073",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017072",
+        "eurostat:nuts_2021_id":"017072",
         "gn:id":6536177,
         "gp:id":12679300,
         "qs_pg:id":1023687
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01cf47889dfb77293356db388ef8f011",
+    "wof:geomhash":"90466c1882c62d5369a4588ecea240ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471085,
-    "wof:lastmodified":1582327714,
+    "wof:lastmodified":1684353933,
     "wof:name":"Flero",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":8942,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

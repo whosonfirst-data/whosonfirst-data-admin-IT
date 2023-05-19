@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zibido San Giacomo",
+    "eurostat:nuts_2021_id":"015247",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015247",
+    "eurostat:population":6904,
+    "eurostat:population_year":2020,
     "geom:area":0.002825,
-    "geom:area_square_m":24542916.411837,
+    "geom:area_square_m":24542916.411838,
     "geom:bbox":"9.06925800501,45.3379351307,9.147802388,45.40885389",
     "geom:latitude":45.368285,
     "geom:longitude":9.106506,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015247",
+        "eurostat:nuts_2021_id":"015247",
         "gn:id":6540592,
         "gp:id":12679730,
         "qs_pg:id":1108595
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b43d81d6325b138e96b90afbd6055ab",
+    "wof:geomhash":"46073b6337fb779a52d37b5c90327adb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468593,
-    "wof:lastmodified":1582328074,
+    "wof:lastmodified":1684353891,
     "wof:name":"Zibido San Giacomo",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":6904,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

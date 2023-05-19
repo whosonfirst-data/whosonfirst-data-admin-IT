@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaiarine",
+    "eurostat:nuts_2021_id":"026031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026031",
+    "eurostat:population":6043,
+    "eurostat:population_year":2020,
     "geom:area":0.003332,
-    "geom:area_square_m":28681250.324153,
+    "geom:area_square_m":28681250.324165,
     "geom:bbox":"12.4554838646,45.854707639,12.5371559618,45.9268442189",
     "geom:latitude":45.885775,
     "geom:longitude":12.49758,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026031",
+        "eurostat:nuts_2021_id":"026031",
         "gn:id":6536644,
         "gp:id":12677141,
         "qs_pg:id":934776
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f1ed21a00eac00b77cacb2cb5391ea90",
+    "wof:geomhash":"8328428032b5d61c30f6833600357856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470063,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353915,
     "wof:name":"Gaiarine",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":6043,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

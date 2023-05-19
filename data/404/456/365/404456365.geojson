@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cinzano",
+    "eurostat:nuts_2021_id":"001085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001085",
+    "eurostat:population":328,
+    "eurostat:population_year":2020,
     "geom:area":0.000709,
-    "geom:area_square_m":6186639.332759,
+    "geom:area_square_m":6186639.332757,
     "geom:bbox":"7.90612829648,45.0744866128,7.94222749505,45.1089325274",
     "geom:latitude":45.092858,
     "geom:longitude":7.922397,
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001085",
+        "eurostat:nuts_2021_id":"001085",
         "gn:id":6537269,
         "qs_pg:id":1037349
     },
@@ -119,7 +135,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"051279fb1a2441ca060cc6ff1669906f",
+    "wof:geomhash":"2b8e178e1bba2b670269d6817b6d77a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404456365,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353622,
     "wof:name":"Cinzano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":328,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

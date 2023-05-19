@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garbagnate Milanese",
+    "eurostat:nuts_2021_id":"015105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015105",
+    "eurostat:population":27135,
+    "eurostat:population_year":2020,
     "geom:area":0.001038,
     "geom:area_square_m":8981916.68569,
     "geom:bbox":"9.04947857901,45.5593302934,9.10207691768,45.5882460283",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015105",
+        "eurostat:nuts_2021_id":"015105",
         "gn:id":6540336,
         "gp:id":12679495,
         "qs_pg:id":433208
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4ed8e23e1c329bde964a8e51f4a3792",
+    "wof:geomhash":"fbe5c980af84edb490fc616448ae6c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468411,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353888,
     "wof:name":"Garbagnate Milanese",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":27135,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piatto",
+    "eurostat:nuts_2021_id":"096043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096043",
+    "eurostat:population":489,
+    "eurostat:population_year":2020,
     "geom:area":0.000414,
     "geom:area_square_m":3585494.810542,
     "geom:bbox":"8.07032268875,45.5744182191,8.15663038267,45.6665933242",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096043",
+        "eurostat:nuts_2021_id":"096043",
         "gn:id":6543319,
         "gp:id":12682658,
         "qs_pg:id":1314161
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"262c85e93dd3ebd0fedbf674b1e26aef",
+    "wof:geomhash":"372606d44ac029fb222b725e1e952436",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404460383,
-    "wof:lastmodified":1582328005,
+    "wof:lastmodified":1684353717,
     "wof:name":"Piatto",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":489,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

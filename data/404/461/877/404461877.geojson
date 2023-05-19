@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aquino",
+    "eurostat:nuts_2021_id":"060007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060007",
+    "eurostat:population":5163,
+    "eurostat:population_year":2020,
     "geom:area":0.002067,
-    "geom:area_square_m":19153559.919667,
+    "geom:area_square_m":19153559.919661,
     "geom:bbox":"13.6819318769,41.4446561128,13.742332522,41.5081113466",
     "geom:latitude":41.477949,
     "geom:longitude":13.715532,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060007",
+        "eurostat:nuts_2021_id":"060007",
         "gn:id":6541140,
         "gp:id":12676171,
         "qs_pg:id":246056
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d675dd4457f471f13bbbabd6374136a9",
+    "wof:geomhash":"90e206c8d14fa3b05767da162590ea65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404461877,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353748,
     "wof:name":"Aquino",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":5163,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

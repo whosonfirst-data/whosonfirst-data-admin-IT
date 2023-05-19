@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamporecchio",
+    "eurostat:nuts_2021_id":"047005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047005",
+    "eurostat:population":7436,
+    "eurostat:population_year":2020,
     "geom:area":0.00249,
-    "geom:area_square_m":22215358.399109,
+    "geom:area_square_m":22215358.399105,
     "geom:bbox":"10.825069155,43.7939549173,10.9420449017,43.8471188409",
     "geom:latitude":43.816985,
     "geom:longitude":10.901329,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_047005",
+        "eurostat:nuts_2021_id":"047005"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1ab2acbf76e12d1db644ca0535edc3c4",
+    "wof:geomhash":"a129b93f5abd76c5e31db5b30c5fa6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404472697,
-    "wof:lastmodified":1566723378,
+    "wof:lastmodified":1684353967,
     "wof:name":"Lamporecchio",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":7436,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

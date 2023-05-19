@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viadana",
+    "eurostat:nuts_2021_id":"020066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020066",
+    "eurostat:population":20056,
+    "eurostat:population_year":2020,
     "geom:area":0.011849,
-    "geom:area_square_m":103648493.329795,
+    "geom:area_square_m":103648493.32979,
     "geom:bbox":"10.4640593035,44.9083083007,10.7107044143,45.0550477259",
     "geom:latitude":44.976606,
     "geom:longitude":10.582344,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020066",
+        "eurostat:nuts_2021_id":"020066",
         "gn:id":3164441,
         "gp:id":12676670,
         "qs_pg:id":1193133
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"366896ccef84ea58758c835e5b47ab57",
+    "wof:geomhash":"b1edaf16726eabff9cf22289eab10e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404469213,
-    "wof:lastmodified":1582328039,
+    "wof:lastmodified":1684353901,
     "wof:name":"Viadana",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":20056,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

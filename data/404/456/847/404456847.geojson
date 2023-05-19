@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faggiano",
+    "eurostat:nuts_2021_id":"073005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073005",
+    "eurostat:population":3470,
+    "eurostat:population_year":2020,
     "geom:area":0.002209,
-    "geom:area_square_m":20797652.093689,
+    "geom:area_square_m":20797652.093685,
     "geom:bbox":"17.3402394317,40.3796973855,17.4127261113,40.4481668224",
     "geom:latitude":40.413811,
     "geom:longitude":17.379489,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_073005",
+        "eurostat:nuts_2021_id":"073005"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e362b025d30e5dd804d3f93806ba617a",
+    "wof:geomhash":"e37a54d4caab4371cd0ca83233fa83c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404456847,
-    "wof:lastmodified":1566723598,
+    "wof:lastmodified":1684353634,
     "wof:name":"Faggiano",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":3470,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

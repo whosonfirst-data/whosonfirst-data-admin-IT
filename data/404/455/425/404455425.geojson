@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busca",
+    "eurostat:nuts_2021_id":"004034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004034",
+    "eurostat:population":10164,
+    "eurostat:population_year":2020,
     "geom:area":0.007455,
-    "geom:area_square_m":65739538.354351,
+    "geom:area_square_m":65739538.354353,
     "geom:bbox":"7.35644759829,44.4623706192,7.52923740616,44.5529407819",
     "geom:latitude":44.506042,
     "geom:longitude":7.467519,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004034",
+        "eurostat:nuts_2021_id":"004034",
         "gn:id":6539562,
         "gp:id":12677197,
         "qs_pg:id":1142850
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6597d5dd17afda8677f404e6b24ea186",
+    "wof:geomhash":"90026bbdbb5cc4aa00b436db54996948",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455425,
-    "wof:lastmodified":1582327811,
+    "wof:lastmodified":1684353603,
     "wof:name":"Busca",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":10164,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

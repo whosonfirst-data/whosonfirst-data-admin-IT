@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terlano/Terlan",
+    "eurostat:nuts_2021_id":"021097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021097",
+    "eurostat:population":4538,
+    "eurostat:population_year":2020,
     "geom:area":0.002178,
-    "geom:area_square_m":18523341.380784,
+    "geom:area_square_m":18523341.380783,
     "geom:bbox":"11.2059623003,46.4978234863,11.2881712998,46.5738452188",
     "geom:latitude":46.532787,
     "geom:longitude":11.250285,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021097",
+        "eurostat:nuts_2021_id":"021097",
         "gp:id":12681995,
         "qs_pg:id":210297
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"268852308a4a29c8f09bbf993fe6c185",
+    "wof:geomhash":"334a603fa07d2eb1f1c220062b73e79d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473259,
-    "wof:lastmodified":1582327917,
+    "wof:lastmodified":1684353984,
     "wof:name":"Terlano",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":4538,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

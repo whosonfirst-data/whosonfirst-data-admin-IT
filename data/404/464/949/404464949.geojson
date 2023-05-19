@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campofelice di Fitalia",
+    "eurostat:nuts_2021_id":"082016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082016",
+    "eurostat:population":473,
+    "eurostat:population_year":2020,
     "geom:area":0.003617,
-    "geom:area_square_m":35330236.523629,
+    "geom:area_square_m":35330236.52363,
     "geom:bbox":"13.4509240513,37.7867086907,13.5557831835,37.8414517366",
     "geom:latitude":37.812041,
     "geom:longitude":13.501415,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082016",
+        "eurostat:nuts_2021_id":"082016",
         "gn:id":6539122,
         "gp:id":12677429,
         "qs_pg:id":39660
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98a115097bb762fe06edef54ea2b7363",
+    "wof:geomhash":"acf8811f5e5de2d37185fa08202ad739",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404464949,
-    "wof:lastmodified":1582327799,
+    "wof:lastmodified":1684353821,
     "wof:name":"Campofelice Di Fitalia",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":473,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

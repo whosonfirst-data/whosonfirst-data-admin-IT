@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ziano di Fiemme",
+    "eurostat:nuts_2021_id":"022226",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022226",
+    "eurostat:population":1770,
+    "eurostat:population_year":2020,
     "geom:area":0.004171,
-    "geom:area_square_m":35653345.251248,
+    "geom:area_square_m":35653345.251235,
     "geom:bbox":"11.5486498288,46.2191584426,11.6254272795,46.3269301415",
     "geom:latitude":46.269626,
     "geom:longitude":11.582778,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022226",
+        "eurostat:nuts_2021_id":"022226",
         "gn:id":6540238,
         "gp:id":12680909,
         "qs_pg:id":41906
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb92bed985c54dc23087d9a510de2ae4",
+    "wof:geomhash":"84106978c74e3a010bb80f11bdd91aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471749,
-    "wof:lastmodified":1582327720,
+    "wof:lastmodified":1684353945,
     "wof:name":"Ziano Di Fiemme",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1770,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ora/Auer",
+    "eurostat:nuts_2021_id":"021060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021060",
+    "eurostat:population":3875,
+    "eurostat:population_year":2020,
     "geom:area":0.001378,
-    "geom:area_square_m":11759360.88619,
+    "geom:area_square_m":11759360.886192,
     "geom:bbox":"11.2758826632,46.3370063018,11.3265586947,46.391141186",
     "geom:latitude":46.363102,
     "geom:longitude":11.304798,
@@ -78,6 +90,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,9 +99,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021060",
+        "eurostat:nuts_2021_id":"021060"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"93e23f2fc97e5cdb8910d0d91853ede5",
+    "wof:geomhash":"66360b2197c49f6d068ec0e8827f7fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":404473179,
-    "wof:lastmodified":1566723419,
+    "wof:lastmodified":1684353981,
     "wof:name":"Ora",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3875,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

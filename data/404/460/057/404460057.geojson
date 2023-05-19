@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casal Cermelli",
+    "eurostat:nuts_2021_id":"006037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006037",
+    "eurostat:population":1191,
+    "eurostat:population_year":2020,
     "geom:area":0.001385,
-    "geom:area_square_m":12147146.650281,
+    "geom:area_square_m":12147146.650276,
     "geom:bbox":"8.60801433792,44.7890367534,8.65597682061,44.8563736659",
     "geom:latitude":44.824303,
     "geom:longitude":8.632012,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006037",
+        "eurostat:nuts_2021_id":"006037",
         "gn:id":6542862,
         "gp:id":12682580,
         "qs_pg:id":1102253
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a205a5669f72a39017402572d9d28131",
+    "wof:geomhash":"a707fae9e24c05faf1e64dad27ab85a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460057,
-    "wof:lastmodified":1582328017,
+    "wof:lastmodified":1684353708,
     "wof:name":"Casal Cermelli",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1191,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

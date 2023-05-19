@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelcivita",
+    "eurostat:nuts_2021_id":"065030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065030",
+    "eurostat:population":1564,
+    "eurostat:population_year":2020,
     "geom:area":0.006086,
-    "geom:area_square_m":57222959.790773,
+    "geom:area_square_m":57222959.790781,
     "geom:bbox":"15.1660290469,40.4609419622,15.2959702239,40.5542175868",
     "geom:latitude":40.504681,
     "geom:longitude":15.233437,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065030",
+        "eurostat:nuts_2021_id":"065030",
         "gn:id":6541181,
         "gp:id":12678219,
         "qs_pg:id":50935
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"446d9647e1a864641c63fb7b214bca62",
+    "wof:geomhash":"fcaac16846425f3b468870ca8004d951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465529,
-    "wof:lastmodified":1582327835,
+    "wof:lastmodified":1684353833,
     "wof:name":"Castelcivita",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":1564,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

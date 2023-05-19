@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riccia",
+    "eurostat:nuts_2021_id":"070057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070057",
+    "eurostat:population":5068,
+    "eurostat:population_year":2020,
     "geom:area":0.007512,
-    "geom:area_square_m":69593505.469349,
+    "geom:area_square_m":69593505.469341,
     "geom:bbox":"14.7895195405,41.4246414972,14.904154254,41.5352945566",
     "geom:latitude":41.475491,
     "geom:longitude":14.847261,
@@ -101,6 +113,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -109,6 +123,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070057",
+        "eurostat:nuts_2021_id":"070057",
         "gn:id":6538910,
         "gp:id":12681366,
         "qs_pg:id":998735
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9258713c1fb20b500fe97f85a7a03fdb",
+    "wof:geomhash":"7a751fbf8aa51ffed6bee07c8721447e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404458801,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353678,
     "wof:name":"Riccia",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":5068,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carpegna",
+    "eurostat:nuts_2021_id":"041009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041009",
+    "eurostat:population":1649,
+    "eurostat:population_year":2020,
     "geom:area":0.003232,
-    "geom:area_square_m":28857880.897434,
+    "geom:area_square_m":28857880.897439,
     "geom:bbox":"12.2828207141,43.6781033174,12.364466659,43.8057069463",
     "geom:latitude":43.767331,
     "geom:longitude":12.320556,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041009",
+        "eurostat:nuts_2021_id":"041009",
         "gn:id":6539719,
         "gp:id":12681104,
         "qs_pg:id":1095170
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a7396004979cd56cc1badbc7bd48f28",
+    "wof:geomhash":"82db7d91540f751af909841709f2cbb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459719,
-    "wof:lastmodified":1582328177,
+    "wof:lastmodified":1684353699,
     "wof:name":"Carpegna",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1649,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_088001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acate",
+    "eurostat:nuts_2021_id":"088001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG18",
+    "eurostat:nuts_2021_level_lau":"088001",
+    "eurostat:population":11486,
+    "eurostat:population_year":2020,
     "geom:area":0.010323,
-    "geom:area_square_m":101929216.49395,
+    "geom:area_square_m":101929216.493927,
     "geom:bbox":"14.3378216791,36.9500687125,14.5440141744,37.0754364579",
     "geom:latitude":37.011495,
     "geom:longitude":14.441939,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_088001",
+        "eurostat:nuts_2021_id":"088001",
         "gn:id":6542105,
         "gp:id":12678045,
         "qs_pg:id":1193791
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c9198fd84a9de66bd524d3432275615",
+    "wof:geomhash":"70a2f2fc2833e01e8cbbec195ec3a6fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466645,
-    "wof:lastmodified":1582328187,
+    "wof:lastmodified":1684353854,
     "wof:name":"Acate",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":11486,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

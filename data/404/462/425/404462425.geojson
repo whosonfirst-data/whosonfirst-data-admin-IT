@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brittoli",
+    "eurostat:nuts_2021_id":"068004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068004",
+    "eurostat:population":268,
+    "eurostat:population_year":2020,
     "geom:area":0.00174,
     "geom:area_square_m":15911983.713273,
     "geom:bbox":"13.8244963688,42.2809958791,13.8859872813,42.3246511169",
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068004",
+        "eurostat:nuts_2021_id":"068004",
         "gn:id":6537464,
         "gp:id":12677124,
         "qs_pg:id":39470
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51b5340ceaeb982e6e4daeb98d458590",
+    "wof:geomhash":"e101738e363218f6067acfda1c2a5e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404462425,
-    "wof:lastmodified":1582327853,
+    "wof:lastmodified":1684353758,
     "wof:name":"Brittoli",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":268,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

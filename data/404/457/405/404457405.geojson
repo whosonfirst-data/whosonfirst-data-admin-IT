@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001294",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verrua Savoia",
+    "eurostat:nuts_2021_id":"001294",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001294",
+    "eurostat:population":1389,
+    "eurostat:population_year":2020,
     "geom:area":0.003658,
-    "geom:area_square_m":31895121.835293,
+    "geom:area_square_m":31895121.835289,
     "geom:bbox":"8.05527702181,45.1229823463,8.15190495088,45.187422956",
     "geom:latitude":45.158225,
     "geom:longitude":8.106304,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001294",
+        "eurostat:nuts_2021_id":"001294"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c33f0f82075cb211bef41a8d2a5c2baa",
+    "wof:geomhash":"6c3a5fd9a7e54f03745d02a4ca2ea4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404457405,
-    "wof:lastmodified":1566723673,
+    "wof:lastmodified":1684353649,
     "wof:name":"Verrua Savoia",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1389,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

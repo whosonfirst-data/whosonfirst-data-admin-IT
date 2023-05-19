@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brissago-Valtravaglia",
+    "eurostat:nuts_2021_id":"012022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012022",
+    "eurostat:population":1240,
+    "eurostat:population_year":2020,
     "geom:area":0.000711,
-    "geom:area_square_m":6109313.751151,
+    "geom:area_square_m":6109313.751153,
     "geom:bbox":"8.71977674564,45.9295615358,8.75794134389,45.9692468269",
     "geom:latitude":45.952078,
     "geom:longitude":8.738169,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012022",
+        "eurostat:nuts_2021_id":"012022",
         "gn:id":6535878,
         "gp:id":12677122,
         "qs_pg:id":39466
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc0bfbe12c06ec8b139ed139eefa4b89",
+    "wof:geomhash":"5c8744f960625c4267e9e630a54a6714",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467421,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353874,
     "wof:name":"Brissago-Valtravaglia",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":1240,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

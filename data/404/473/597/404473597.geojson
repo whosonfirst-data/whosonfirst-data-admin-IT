@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pelugo",
+    "eurostat:nuts_2021_id":"022138",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022138",
+    "eurostat:population":402,
+    "eurostat:population_year":2020,
     "geom:area":0.002675,
-    "geom:area_square_m":22932285.736352,
+    "geom:area_square_m":22932285.736349,
     "geom:bbox":"10.5898021548,46.0766800398,10.7435222219,46.1284043251",
     "geom:latitude":46.103417,
     "geom:longitude":10.649878,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022138",
+        "eurostat:nuts_2021_id":"022138",
         "gn:id":6542681,
         "gp:id":20076632,
         "qs_pg:id":1321737
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"06f2c4b560199a2d8eeeea20425bc648",
+    "wof:geomhash":"6d99a0d15c66ad968923f00af75851dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473597,
-    "wof:lastmodified":1582327924,
+    "wof:lastmodified":1684353991,
     "wof:name":"Pelugo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

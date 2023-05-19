@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lomazzo",
+    "eurostat:nuts_2021_id":"013133",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013133",
+    "eurostat:population":10091,
+    "eurostat:population_year":2020,
     "geom:area":0.001096,
-    "geom:area_square_m":9462672.006606,
+    "geom:area_square_m":9462672.006605,
     "geom:bbox":"9.01333242859,45.6695398985,9.05106530825,45.7147646949",
     "geom:latitude":45.691169,
     "geom:longitude":9.032404,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013133",
+        "eurostat:nuts_2021_id":"013133",
         "gn:id":6536498,
         "gp:id":12679999,
         "qs_pg:id":1292205
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"529bcc6128f0c33d9bda00db7c3be966",
+    "wof:geomhash":"fdca65f14785529ee3293dc0a361c419",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468135,
-    "wof:lastmodified":1582328074,
+    "wof:lastmodified":1684353884,
     "wof:name":"Lomazzo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":10091,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

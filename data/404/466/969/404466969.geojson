@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albagiara",
+    "eurostat:nuts_2021_id":"095003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095003",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.000933,
-    "geom:area_square_m":8866136.679447,
+    "geom:area_square_m":8866136.679443,
     "geom:bbox":"8.85338068972,39.7751326824,8.88728011243,39.8417408918",
     "geom:latitude":39.800873,
     "geom:longitude":8.87378,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095003",
+        "eurostat:nuts_2021_id":"095003",
         "gn:id":6539353,
         "gp:id":12680762,
         "qs_pg:id":1187957
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efea7ffba91f67ea25f9960dbc6ce25f",
+    "wof:geomhash":"a5b9d505c5334a9dcd70e15e4c28dbfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466969,
-    "wof:lastmodified":1582328199,
+    "wof:lastmodified":1684353863,
     "wof:name":"Albagiara",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

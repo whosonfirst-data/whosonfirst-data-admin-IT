@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gradisca d'Isonzo",
+    "eurostat:nuts_2021_id":"031008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031008",
+    "eurostat:population":6414,
+    "eurostat:population_year":2020,
     "geom:area":0.001298,
     "geom:area_square_m":11169297.997721,
     "geom:bbox":"13.4609780092,45.8681168948,13.5148198454,45.9160880924",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031008",
+        "eurostat:nuts_2021_id":"031008",
         "gn:id":6536700,
         "gp:id":12679645,
         "qs_pg:id":221133
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0fbffe9174b2fe029f3b3a6933b04467",
+    "wof:geomhash":"908c7e74c4f77749cfeda51e3e5d4eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470763,
-    "wof:lastmodified":1582327736,
+    "wof:lastmodified":1684353927,
     "wof:name":"Gradisca D'Isonzo",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":6414,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

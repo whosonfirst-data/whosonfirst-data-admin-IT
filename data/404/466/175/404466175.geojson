@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terno d'Isola",
+    "eurostat:nuts_2021_id":"016213",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016213",
+    "eurostat:population":8078,
+    "eurostat:population_year":2020,
     "geom:area":0.000478,
-    "geom:area_square_m":4126647.81884,
+    "geom:area_square_m":4126647.818841,
     "geom:bbox":"9.50711243415,45.6764039866,9.54691749536,45.6945822928",
     "geom:latitude":45.685542,
     "geom:longitude":9.526532,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016213",
+        "eurostat:nuts_2021_id":"016213",
         "gn:id":6543169,
         "gp:id":12677753,
         "qs_pg:id":203860
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"689e33a247fa9db47ee0e5e122e38050",
+    "wof:geomhash":"f42990789877d33da2ac4f931d4c5c16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466175,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353844,
     "wof:name":"Terno D'Isola",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":8078,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

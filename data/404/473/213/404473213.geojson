@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rodengo/Rodeneck",
+    "eurostat:nuts_2021_id":"021075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021075",
+    "eurostat:population":1262,
+    "eurostat:population_year":2020,
     "geom:area":0.003488,
-    "geom:area_square_m":29534665.891746,
+    "geom:area_square_m":29534665.891742,
     "geom:bbox":"11.6675909916,46.7600297008,11.8075284274,46.8151063529",
     "geom:latitude":46.787073,
     "geom:longitude":11.724492,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021075",
+        "eurostat:nuts_2021_id":"021075",
         "gp:id":12678619,
         "qs_pg:id":1024247
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b83fd4ba636c8ac4366db04079e7904",
+    "wof:geomhash":"3d1225b18d559f1c8ab7ace14d133fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473213,
-    "wof:lastmodified":1582327928,
+    "wof:lastmodified":1684353982,
     "wof:name":"Rodengo",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1262,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

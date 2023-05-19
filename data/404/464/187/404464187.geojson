@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laino Borgo",
+    "eurostat:nuts_2021_id":"078063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078063",
+    "eurostat:population":1828,
+    "eurostat:population_year":2020,
     "geom:area":0.00597,
-    "geom:area_square_m":56579660.261851,
+    "geom:area_square_m":56579660.261841,
     "geom:bbox":"15.8850540254,39.9206081015,16.033980718,40.001016946",
     "geom:latitude":39.966002,
     "geom:longitude":15.94317,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078063",
+        "eurostat:nuts_2021_id":"078063"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"104eea440e3c90b414edc70b031abd20",
+    "wof:geomhash":"fc99280a48444dd492801543fe2eba44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464187,
-    "wof:lastmodified":1566723224,
+    "wof:lastmodified":1684353799,
     "wof:name":"Laino Borgo",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1828,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

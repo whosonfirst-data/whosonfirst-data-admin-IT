@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birori",
+    "eurostat:nuts_2021_id":"091008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091008",
+    "eurostat:population":511,
+    "eurostat:population_year":2020,
     "geom:area":0.001836,
-    "geom:area_square_m":17323329.344399,
+    "geom:area_square_m":17323329.344398,
     "geom:bbox":"8.7896296732,40.2316269563,8.86391229548,40.2843205226",
     "geom:latitude":40.252572,
     "geom:longitude":8.822616,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091008",
+        "eurostat:nuts_2021_id":"091008",
         "gn:id":6539247,
         "gp:id":12676806,
         "qs_pg:id":992267
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e5bdc6b85216c5a294eaaf430e0101f",
+    "wof:geomhash":"31542f20d6e22ce01c47ccbe0fe7392b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404460483,
-    "wof:lastmodified":1582327999,
+    "wof:lastmodified":1684353719,
     "wof:name":"Birori",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":511,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

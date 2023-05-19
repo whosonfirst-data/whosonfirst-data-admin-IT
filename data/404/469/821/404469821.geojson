@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valli del Pasubio",
+    "eurostat:nuts_2021_id":"024113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024113",
+    "eurostat:population":3091,
+    "eurostat:population_year":2020,
     "geom:area":0.005706,
-    "geom:area_square_m":49231527.214395,
+    "geom:area_square_m":49231527.214398,
     "geom:bbox":"11.1729635912,45.7136488173,11.2957541947,45.7881900409",
     "geom:latitude":45.751194,
     "geom:longitude":11.228887,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024113",
+        "eurostat:nuts_2021_id":"024113",
         "gn:id":6540988,
         "gp:id":12679225,
         "qs_pg:id":40753
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e82532ae5a6c700c6690babe3fec080",
+    "wof:geomhash":"5e585c4896735f40037669ed538cb5b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469821,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353911,
     "wof:name":"Valli Del Pasubio",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":3091,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

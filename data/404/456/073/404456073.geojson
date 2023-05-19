@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montafia",
+    "eurostat:nuts_2021_id":"005073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005073",
+    "eurostat:population":935,
+    "eurostat:population_year":2020,
     "geom:area":0.001655,
-    "geom:area_square_m":14475441.594692,
+    "geom:area_square_m":14475441.594689,
     "geom:bbox":"7.98875743692,44.9597531752,8.0408725065,45.0197337144",
     "geom:latitude":44.98515,
     "geom:longitude":8.015871,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005073",
+        "eurostat:nuts_2021_id":"005073",
         "gn:id":6542407,
         "gp:id":12680428,
         "qs_pg:id":1314668
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"55917475e18b17a238246589e9a9af9c",
+    "wof:geomhash":"fe2da0bda751368286d3b2471bdb1845",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456073,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353616,
     "wof:name":"Montafia",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":935,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

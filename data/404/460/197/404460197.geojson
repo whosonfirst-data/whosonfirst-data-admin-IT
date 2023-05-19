@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moncestino",
+    "eurostat:nuts_2021_id":"006099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006099",
+    "eurostat:population":190,
+    "eurostat:population_year":2020,
     "geom:area":0.000746,
-    "geom:area_square_m":6508708.853831,
+    "geom:area_square_m":6508708.85383,
     "geom:bbox":"8.13911930831,45.1437349104,8.17970085999,45.1710515137",
     "geom:latitude":45.15698,
     "geom:longitude":8.1586,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006099",
+        "eurostat:nuts_2021_id":"006099",
         "gn:id":6542875,
         "gp:id":20075917,
         "qs_pg:id":1023781
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b27f2e469922a2767e17edf7b055bd8b",
+    "wof:geomhash":"cd6baac5b862b414f5a11fb8044ab3c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460197,
-    "wof:lastmodified":1582328010,
+    "wof:lastmodified":1684353712,
     "wof:name":"Moncestino",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":190,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

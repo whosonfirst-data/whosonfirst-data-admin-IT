@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gemmano",
+    "eurostat:nuts_2021_id":"099004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099004",
+    "eurostat:population":1130,
+    "eurostat:population_year":2020,
     "geom:area":0.002109,
-    "geom:area_square_m":18791582.143539,
+    "geom:area_square_m":18791582.143535,
     "geom:bbox":"12.5303369854,43.8640006977,12.6022956669,43.9195550002",
     "geom:latitude":43.893116,
     "geom:longitude":12.564736,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099004",
+        "eurostat:nuts_2021_id":"099004"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b4eff71ed6fb5d7ca8415558915937eb",
+    "wof:geomhash":"a6855605abbc60c5cdb8951121fb3faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404472533,
-    "wof:lastmodified":1566723346,
+    "wof:lastmodified":1684353964,
     "wof:name":"Gemmano",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":1130,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

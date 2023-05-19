@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aritzo",
+    "eurostat:nuts_2021_id":"091001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091001",
+    "eurostat:population":1266,
+    "eurostat:population_year":2020,
     "geom:area":0.00797,
-    "geom:area_square_m":75562202.274958,
+    "geom:area_square_m":75562202.274967,
     "geom:bbox":"9.11537580501,39.8884107748,9.2894960531,39.9837773961",
     "geom:latitude":39.939827,
     "geom:longitude":9.203135,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091001",
+        "eurostat:nuts_2021_id":"091001",
         "gn:id":6537847,
         "gp:id":12676239,
         "qs_pg:id":220868
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3c23df8ce051a3aebb1c9b403e34e66",
+    "wof:geomhash":"fba382496f3b57055b64b6e064b417ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460473,
-    "wof:lastmodified":1582328014,
+    "wof:lastmodified":1684353718,
     "wof:name":"Aritzo",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1266,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

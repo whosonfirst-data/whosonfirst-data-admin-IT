@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maggiora",
+    "eurostat:nuts_2021_id":"003088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003088",
+    "eurostat:population":1639,
+    "eurostat:population_year":2020,
     "geom:area":0.001232,
-    "geom:area_square_m":10642190.660368,
+    "geom:area_square_m":10642190.66037,
     "geom:bbox":"8.38074874839,45.6746023193,8.44682360213,45.7212074941",
     "geom:latitude":45.699407,
     "geom:longitude":8.413367,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_003088",
+        "eurostat:nuts_2021_id":"003088"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c438ba9dc0dfe8febd62e7d6036ae205",
+    "wof:geomhash":"a9d9628c61382c530382f52fef37c51c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404457753,
-    "wof:lastmodified":1566723646,
+    "wof:lastmodified":1684353656,
     "wof:name":"Maggiora",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1639,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

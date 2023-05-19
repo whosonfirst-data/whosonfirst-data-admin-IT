@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallicchio",
+    "eurostat:nuts_2021_id":"076035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076035",
+    "eurostat:population":842,
+    "eurostat:population_year":2020,
     "geom:area":0.002482,
-    "geom:area_square_m":23412079.949403,
+    "geom:area_square_m":23412079.949397,
     "geom:bbox":"16.1043547798,40.2602631806,16.1602764743,40.3258236866",
     "geom:latitude":40.290483,
     "geom:longitude":16.134192,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076035",
+        "eurostat:nuts_2021_id":"076035",
         "gn:id":6538999,
         "gp:id":12679472,
         "qs_pg:id":1316691
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f833ed78eb7be52fcbd388c716b8a51d",
+    "wof:geomhash":"5800226d24c5300685fe8b29d94d8b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456941,
-    "wof:lastmodified":1582328056,
+    "wof:lastmodified":1684353637,
     "wof:name":"Gallicchio",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":842,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

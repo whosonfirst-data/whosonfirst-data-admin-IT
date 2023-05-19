@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Cipriano Po",
+    "eurostat:nuts_2021_id":"018133",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018133",
+    "eurostat:population":489,
+    "eurostat:population_year":2020,
     "geom:area":0.000979,
-    "geom:area_square_m":8539317.228668,
+    "geom:area_square_m":8539317.228669,
     "geom:bbox":"9.26087039639,45.0932097991,9.31224012118,45.127849414",
     "geom:latitude":45.113308,
     "geom:longitude":9.285641,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018133",
+        "eurostat:nuts_2021_id":"018133",
         "gn:id":6541502,
         "gp:id":12681595,
         "qs_pg:id":1019751
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4645ea496b4a3337cfc375ea07741e1a",
+    "wof:geomhash":"1bb3a0d57eb2a3b040056bf897544523",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471577,
-    "wof:lastmodified":1582327734,
+    "wof:lastmodified":1684353942,
     "wof:name":"San Cipriano Po",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":489,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

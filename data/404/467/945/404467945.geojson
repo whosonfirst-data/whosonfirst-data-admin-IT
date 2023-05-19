@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argegno",
+    "eurostat:nuts_2021_id":"013011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013011",
+    "eurostat:population":679,
+    "eurostat:population_year":2020,
     "geom:area":0.000477,
-    "geom:area_square_m":4105666.927269,
+    "geom:area_square_m":4105666.927271,
     "geom:bbox":"9.10089212628,45.9331246693,9.14922118322,45.9531567421",
     "geom:latitude":45.940927,
     "geom:longitude":9.127471,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013011",
+        "eurostat:nuts_2021_id":"013011",
         "gn:id":6540575,
         "gp:id":20076070,
         "qs_pg:id":1298647
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5e1c212633947886868676b8f9fc879",
+    "wof:geomhash":"17c73e4d6a4b04d9780ad9660303657f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404467945,
-    "wof:lastmodified":1582327990,
+    "wof:lastmodified":1684353882,
     "wof:name":"Argegno",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":679,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

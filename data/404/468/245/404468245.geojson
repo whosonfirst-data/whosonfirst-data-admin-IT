@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sernio",
+    "eurostat:nuts_2021_id":"014059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014059",
+    "eurostat:population":488,
+    "eurostat:population_year":2020,
     "geom:area":0.001111,
-    "geom:area_square_m":9505851.929215,
+    "geom:area_square_m":9505851.929218,
     "geom:bbox":"10.1825444042,46.1906578956,10.241670832,46.2584564594",
     "geom:latitude":46.224327,
     "geom:longitude":10.209841,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014059",
+        "eurostat:nuts_2021_id":"014059",
         "gn:id":6542523,
         "gp:id":20076140,
         "qs_pg:id":335128
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09c1bd7e8d7abf3809d13ee2d8ecbccb",
+    "wof:geomhash":"36d8b64cb785542dc8be367edf66b1b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468245,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353886,
     "wof:name":"Sernio",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

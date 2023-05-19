@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve Emanuele",
+    "eurostat:nuts_2021_id":"015173",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015173",
+    "eurostat:population":15919,
+    "eurostat:population_year":2020,
     "geom:area":0.001484,
-    "geom:area_square_m":12895338.191245,
+    "geom:area_square_m":12895338.191243,
     "geom:bbox":"9.16559630246,45.3258511029,9.23083480944,45.3808748734",
     "geom:latitude":45.351897,
     "geom:longitude":9.195842,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015173",
+        "eurostat:nuts_2021_id":"015173",
         "gn:id":6542294,
         "gp:id":20076566,
         "qs_pg:id":900050
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7bfd92ceffe593ccd60764f33e3b2534",
+    "wof:geomhash":"22406a2d9ec1ab2a41f0deb2bcfe0d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468497,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353890,
     "wof:name":"Pieve Emanuele",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":15919,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

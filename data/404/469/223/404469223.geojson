@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abbadia Lariana",
+    "eurostat:nuts_2021_id":"097001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097001",
+    "eurostat:population":3207,
+    "eurostat:population_year":2020,
     "geom:area":0.001934,
     "geom:area_square_m":16646295.887039,
     "geom:bbox":"9.31242884607,45.8745945269,9.39769492826,45.9179922681",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097001",
+        "eurostat:nuts_2021_id":"097001",
         "gn:id":3183582,
         "gp:id":12675705,
         "qs_pg:id":956436
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f630ead837c375cccc0bb63dd40046d6",
+    "wof:geomhash":"e1b883003e3dd72dceded6c526d86561",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469223,
-    "wof:lastmodified":1582328037,
+    "wof:lastmodified":1684353901,
     "wof:name":"Abbadia Lariana",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":3207,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

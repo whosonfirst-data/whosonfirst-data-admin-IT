@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dongo",
+    "eurostat:nuts_2021_id":"013090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013090",
+    "eurostat:population":3289,
+    "eurostat:population_year":2020,
     "geom:area":0.000821,
     "geom:area_square_m":7032229.670136,
     "geom:bbox":"9.23253045729,46.1101150368,9.29965109207,46.139202962",
@@ -59,6 +71,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -67,6 +81,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013090",
+        "eurostat:nuts_2021_id":"013090",
         "gn:id":6541558,
         "gp:id":12679108,
         "qs_pg:id":40698
@@ -75,7 +91,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa7bc9a2c843a7cae29b8ee628560780",
+    "wof:geomhash":"dce9fc311b16c5bb347c648cad0f58fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +102,12 @@
         }
     ],
     "wof:id":404468065,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353883,
     "wof:name":"Dongo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":3289,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

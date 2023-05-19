@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calamandrana",
+    "eurostat:nuts_2021_id":"005013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005013",
+    "eurostat:population":1702,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
-    "geom:area_square_m":12770773.395597,
+    "geom:area_square_m":12770773.395593,
     "geom:bbox":"8.31001584592,44.7137579666,8.36820661575,44.7562329035",
     "geom:latitude":44.734894,
     "geom:longitude":8.336224,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005013",
+        "eurostat:nuts_2021_id":"005013",
         "gn:id":6538168,
         "gp:id":12677284,
         "qs_pg:id":1019573
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7d683085507ae0e196dc5e66c06a487",
+    "wof:geomhash":"4ead53ac59e557a22fbdc40f5506849f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455939,
-    "wof:lastmodified":1582327810,
+    "wof:lastmodified":1684353613,
     "wof:name":"Calamandrana",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1702,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

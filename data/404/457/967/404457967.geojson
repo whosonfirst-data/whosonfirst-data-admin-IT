@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ch\u00e2tillon",
+    "eurostat:nuts_2021_id":"007020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007020",
+    "eurostat:population":4582,
+    "eurostat:population_year":2020,
     "geom:area":0.004591,
-    "geom:area_square_m":39609739.047672,
+    "geom:area_square_m":39609739.047677,
     "geom:bbox":"7.58633329641,45.7005368073,7.6649967138,45.817246986",
     "geom:latitude":45.759511,
     "geom:longitude":7.626388,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007020",
+        "eurostat:nuts_2021_id":"007020",
         "gn:id":6542138,
         "qs_pg:id":103823
     },
@@ -53,7 +69,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a67281380d9ba4cb50dcd1ba1e676a8",
+    "wof:geomhash":"a6d1cc5854754faf0706b5c9cf6459e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +80,12 @@
         }
     ],
     "wof:id":404457967,
-    "wof:lastmodified":1582328110,
+    "wof:lastmodified":1684353660,
     "wof:name":"Chatillon",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":4582,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

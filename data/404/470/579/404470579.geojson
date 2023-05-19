@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moruzzo",
+    "eurostat:nuts_2021_id":"030063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030063",
+    "eurostat:population":2470,
+    "eurostat:population_year":2020,
     "geom:area":0.002066,
-    "geom:area_square_m":17702877.496468,
+    "geom:area_square_m":17702877.496466,
     "geom:bbox":"13.1082918064,46.106560156,13.1778944598,46.1506467148",
     "geom:latitude":46.127171,
     "geom:longitude":13.139012,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030063",
+        "eurostat:nuts_2021_id":"030063",
         "gn:id":6538377,
         "gp:id":12677077,
         "qs_pg:id":239788
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"598d090ca546133efb07635a4bea254b",
+    "wof:geomhash":"564efcce1685bc9f7ca1593ce3fc04ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470579,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353924,
     "wof:name":"Moruzzo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2470,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

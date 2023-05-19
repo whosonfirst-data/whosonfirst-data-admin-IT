@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corvara",
+    "eurostat:nuts_2021_id":"068016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068016",
+    "eurostat:population":225,
+    "eurostat:population_year":2020,
     "geom:area":0.001494,
-    "geom:area_square_m":13668360.24668,
+    "geom:area_square_m":13668360.246681,
     "geom:bbox":"13.8401754758,42.2564156038,13.9032935197,42.2957434969",
     "geom:latitude":42.276319,
     "geom:longitude":13.870238,
@@ -95,6 +107,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -103,6 +117,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068016",
+        "eurostat:nuts_2021_id":"068016",
         "gn:id":6541215,
         "gp:id":12678950,
         "qs_pg:id":40621
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5120835bd578aec9a362c0ecc239a299",
+    "wof:geomhash":"823dbc4bb0f3dcd440cf5433c2c39367",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404462451,
-    "wof:lastmodified":1582327869,
+    "wof:lastmodified":1684353759,
     "wof:name":"Corvara",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":225,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

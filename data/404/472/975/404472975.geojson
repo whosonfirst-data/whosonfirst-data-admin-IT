@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Badia Tedalda",
+    "eurostat:nuts_2021_id":"051003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051003",
+    "eurostat:population":1030,
+    "eurostat:population_year":2020,
     "geom:area":0.013248,
-    "geom:area_square_m":118402603.970269,
+    "geom:area_square_m":118402603.970279,
     "geom:bbox":"12.0750542372,43.6417999586,12.2680493255,43.8116417712",
     "geom:latitude":43.713472,
     "geom:longitude":12.172729,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051003",
+        "eurostat:nuts_2021_id":"051003",
         "gn:id":6536841,
         "gp:id":12676405,
         "qs_pg:id":265107
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10d6c6686337e3e1ce21e3465e1b4a65",
+    "wof:geomhash":"2deeef7239decb3c4bc853a3911b4687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472975,
-    "wof:lastmodified":1582327909,
+    "wof:lastmodified":1684353974,
     "wof:name":"Badia Tedalda",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":1030,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

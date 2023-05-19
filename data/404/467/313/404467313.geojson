@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serrenti",
+    "eurostat:nuts_2021_id":"111078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111078",
+    "eurostat:population":4738,
+    "eurostat:population_year":2020,
     "geom:area":0.004484,
-    "geom:area_square_m":42781500.364737,
+    "geom:area_square_m":42781500.364735,
     "geom:bbox":"8.91997191558,39.4621356842,9.01563345365,39.538718135",
     "geom:latitude":39.499929,
     "geom:longitude":8.972544,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111078",
+        "eurostat:nuts_2021_id":"111078",
         "gn:id":6537915,
         "gp:id":12681987,
         "qs_pg:id":538109
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91f8f53bbdc29fe651e352204a6953a4",
+    "wof:geomhash":"c0fdc74d9d451d8feda53b69281c5417",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467313,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353871,
     "wof:name":"Serrenti",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":4738,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

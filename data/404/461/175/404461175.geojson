@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monterubbiano",
+    "eurostat:nuts_2021_id":"109022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109022",
+    "eurostat:population":2142,
+    "eurostat:population_year":2020,
     "geom:area":0.003554,
-    "geom:area_square_m":32089741.922629,
+    "geom:area_square_m":32089741.922627,
     "geom:bbox":"13.6775960127,43.0493413999,13.7733828341,43.1254270172",
     "geom:latitude":43.090056,
     "geom:longitude":13.716563,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109022",
+        "eurostat:nuts_2021_id":"109022",
         "gn:id":6538541,
         "gp:id":12680553,
         "qs_pg:id":1296821
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f031c9e4726e2cdc79eaf624f0671dc2",
+    "wof:geomhash":"52405ab92b1d2abc0b5f4bab53d3234b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461175,
-    "wof:lastmodified":1582328135,
+    "wof:lastmodified":1684353733,
     "wof:name":"Monterubbiano",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":2142,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

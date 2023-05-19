@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frassinoro",
+    "eurostat:nuts_2021_id":"036016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036016",
+    "eurostat:population":1849,
+    "eurostat:population_year":2020,
     "geom:area":0.010763,
-    "geom:area_square_m":95309725.302451,
+    "geom:area_square_m":95309725.302442,
     "geom:bbox":"10.4701822608,44.186788031,10.6043558719,44.345302547",
     "geom:latitude":44.263554,
     "geom:longitude":10.539171,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036016",
+        "eurostat:nuts_2021_id":"036016",
         "gn:id":6536726,
         "gp:id":12677065,
         "qs_pg:id":1142837
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71fc4b67349f347b30ae70d52978c85b",
+    "wof:geomhash":"f85b40f3812d23c935889b650118b888",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457149,
-    "wof:lastmodified":1582328121,
+    "wof:lastmodified":1684353643,
     "wof:name":"Frassinoro",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":1849,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

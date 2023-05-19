@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montopoli in Val d'Arno",
+    "eurostat:nuts_2021_id":"050022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050022",
+    "eurostat:population":11193,
+    "eurostat:population_year":2020,
     "geom:area":0.003373,
-    "geom:area_square_m":30173356.811171,
+    "geom:area_square_m":30173356.811166,
     "geom:bbox":"10.6939044858,43.636625162,10.7757952269,43.695261166",
     "geom:latitude":43.666745,
     "geom:longitude":10.737978,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050022",
+        "eurostat:nuts_2021_id":"050022",
         "gn:id":6536355,
         "gp:id":12678356,
         "qs_pg:id":190556
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb378ed6b9a2dfa7606d12b900186aec",
+    "wof:geomhash":"78db2cb8958d5ce9c6cfb1a212872561",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472929,
-    "wof:lastmodified":1582327906,
+    "wof:lastmodified":1684353973,
     "wof:name":"Montopoli In Val D'Arno",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":11193,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

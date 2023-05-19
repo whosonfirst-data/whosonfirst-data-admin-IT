@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Flavia",
+    "eurostat:nuts_2021_id":"082067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082067",
+    "eurostat:population":11181,
+    "eurostat:population_year":2020,
     "geom:area":0.001494,
-    "geom:area_square_m":14546775.053997,
+    "geom:area_square_m":14546775.053999,
     "geom:bbox":"13.4797319927,38.0192938927,13.5440169516,38.1127332317",
     "geom:latitude":38.061985,
     "geom:longitude":13.517836,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082067",
+        "eurostat:nuts_2021_id":"082067",
         "gn:id":6541960,
         "gp:id":12681230,
         "qs_pg:id":1195938
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f298358ef90eb1e593dada21fcba1481",
+    "wof:geomhash":"bfc726604f5b635ac0f25e0f6a5489af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465063,
-    "wof:lastmodified":1582327832,
+    "wof:lastmodified":1684353825,
     "wof:name":"Santa Flavia",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":11181,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

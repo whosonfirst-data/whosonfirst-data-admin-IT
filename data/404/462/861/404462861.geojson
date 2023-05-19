@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelpetroso",
+    "eurostat:nuts_2021_id":"094010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094010",
+    "eurostat:population":1620,
+    "eurostat:population_year":2020,
     "geom:area":0.002441,
-    "geom:area_square_m":22584065.564243,
+    "geom:area_square_m":22584065.564233,
     "geom:bbox":"14.2915393563,41.5279832581,14.3626229634,41.5783306528",
     "geom:latitude":41.553777,
     "geom:longitude":14.331958,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094010",
+        "eurostat:nuts_2021_id":"094010",
         "gn:id":6541372,
         "gp:id":12677956,
         "qs_pg:id":418719
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e7d6706dd733fdde954c3f33b8c5637",
+    "wof:geomhash":"cdebcc24580d5f87c26a26adbffde198",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462861,
-    "wof:lastmodified":1582327857,
+    "wof:lastmodified":1684353767,
     "wof:name":"Castelpetroso",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":1620,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

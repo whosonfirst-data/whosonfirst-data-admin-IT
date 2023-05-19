@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nonantola",
+    "eurostat:nuts_2021_id":"036027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036027",
+    "eurostat:population":16112,
+    "eurostat:population_year":2020,
     "geom:area":0.00628,
-    "geom:area_square_m":55213790.180972,
+    "geom:area_square_m":55213790.180968,
     "geom:bbox":"10.9902476908,44.6424220621,11.1170506231,44.727914422",
     "geom:latitude":44.685165,
     "geom:longitude":11.056025,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036027",
+        "eurostat:nuts_2021_id":"036027",
         "gn:id":6536727,
         "gp:id":12678072,
         "qs_pg:id":907115
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f64a774181e177aab19579523ba95e92",
+    "wof:geomhash":"6dfcbf1bf022689bb7a856a40ff36daf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472179,
-    "wof:lastmodified":1582327908,
+    "wof:lastmodified":1684353954,
     "wof:name":"Nonantola",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":16112,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

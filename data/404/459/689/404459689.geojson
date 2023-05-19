@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porano",
+    "eurostat:nuts_2021_id":"055028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055028",
+    "eurostat:population":1910,
+    "eurostat:population_year":2020,
     "geom:area":0.001493,
-    "geom:area_square_m":13571714.190268,
+    "geom:area_square_m":13571714.19027,
     "geom:bbox":"12.0701553452,42.6554508541,12.1181619716,42.706002943",
     "geom:latitude":42.680519,
     "geom:longitude":12.093602,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055028",
+        "eurostat:nuts_2021_id":"055028",
         "gn:id":6538627,
         "gp:id":12681226,
         "qs_pg:id":1016014
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca1fcfe57690af5da3db151cd8f4b5c9",
+    "wof:geomhash":"afaca4824919f8c145901efa5f6960c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459689,
-    "wof:lastmodified":1582328158,
+    "wof:lastmodified":1684353698,
     "wof:name":"Porano",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":1910,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

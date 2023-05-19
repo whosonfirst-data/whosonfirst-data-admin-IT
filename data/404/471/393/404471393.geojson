@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Codevilla",
+    "eurostat:nuts_2021_id":"018051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018051",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.001479,
     "geom:area_square_m":12937799.581656,
     "geom:bbox":"9.03146770686,44.9357627996,9.08463275612,44.9971530479",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018051",
+        "eurostat:nuts_2021_id":"018051",
         "gn:id":6539495,
         "gp:id":12678746,
         "qs_pg:id":1142997
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40a0e24cbb7cd958fe7f143f5e99a35e",
+    "wof:geomhash":"cf6e240cafd7c3fa1c22b03d876b851a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471393,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353939,
     "wof:name":"Codevilla",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

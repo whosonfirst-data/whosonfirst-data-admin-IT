@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gavello",
+    "eurostat:nuts_2021_id":"029026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029026",
+    "eurostat:population":1517,
+    "eurostat:population_year":2020,
     "geom:area":0.002781,
     "geom:area_square_m":24304992.434829,
     "geom:bbox":"11.8992903747,44.9962399821,12.0134613204,45.054131591",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029026",
+        "eurostat:nuts_2021_id":"029026",
         "gn:id":6539694,
         "gp:id":12676410,
         "qs_pg:id":1163551
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ceff76527b49860ab1ff1d1abeff1eab",
+    "wof:geomhash":"7234332ecf3da4cc3cdf85fae20f6174",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470381,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353920,
     "wof:name":"Gavello",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":1517,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

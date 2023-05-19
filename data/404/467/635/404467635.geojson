@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varsi",
+    "eurostat:nuts_2021_id":"034046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034046",
+    "eurostat:population":1178,
+    "eurostat:population_year":2020,
     "geom:area":0.009088,
-    "geom:area_square_m":79954726.815722,
+    "geom:area_square_m":79954726.815715,
     "geom:bbox":"9.73839535394,44.5987014361,9.93571652202,44.6927368131",
     "geom:latitude":44.64288,
     "geom:longitude":9.849409,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034046",
+        "eurostat:nuts_2021_id":"034046",
         "gn:id":6539705,
         "gp:id":12681079,
         "qs_pg:id":1093118
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cad0d92229e9b64eb45c416ca6fd7ede",
+    "wof:geomhash":"a89f266ac014c5a22b8ebdb644482bab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467635,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353877,
     "wof:name":"Varsi",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":1178,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

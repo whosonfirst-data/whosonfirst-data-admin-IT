@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Curinga",
+    "eurostat:nuts_2021_id":"079039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079039",
+    "eurostat:population":6676,
+    "eurostat:population_year":2020,
     "geom:area":0.0054,
-    "geom:area_square_m":52015736.300066,
+    "geom:area_square_m":52015736.300074,
     "geom:bbox":"16.2132913264,38.7916144481,16.3561140875,38.8635096325",
     "geom:latitude":38.828098,
     "geom:longitude":16.281791,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079039",
+        "eurostat:nuts_2021_id":"079039"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"393e72e8d01e0de1d5b900ad4e0663e2",
+    "wof:geomhash":"abfa45c2da6dcea312444ce2227a087b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464341,
-    "wof:lastmodified":1566723224,
+    "wof:lastmodified":1684353803,
     "wof:name":"Curinga",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":6676,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vipiteno/Sterzing",
+    "eurostat:nuts_2021_id":"021115",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021115",
+    "eurostat:population":7044,
+    "eurostat:population_year":2020,
     "geom:area":0.003892,
-    "geom:area_square_m":32878275.586985,
+    "geom:area_square_m":32878275.586982,
     "geom:bbox":"11.355436856,46.8796624924,11.5023350773,46.9382791605",
     "geom:latitude":46.914207,
     "geom:longitude":11.423236,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021115",
+        "eurostat:nuts_2021_id":"021115",
         "gp:id":12680112,
         "qs_pg:id":898625
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"832c35e37d80defed788a701bfb45a13",
+    "wof:geomhash":"bd5a251a2cdc24bcb90e7ef0c26e471f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473299,
-    "wof:lastmodified":1582327932,
+    "wof:lastmodified":1684353986,
     "wof:name":"Vipiteno",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":7044,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

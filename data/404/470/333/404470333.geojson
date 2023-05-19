@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piacenza d'Adige",
+    "eurostat:nuts_2021_id":"028062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028062",
+    "eurostat:population":1260,
+    "eurostat:population_year":2020,
     "geom:area":0.002115,
-    "geom:area_square_m":18445192.244508,
+    "geom:area_square_m":18445192.244506,
     "geom:bbox":"11.5188651588,45.1190395694,11.594736,45.177669082",
     "geom:latitude":45.143425,
     "geom:longitude":11.554211,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028062",
+        "eurostat:nuts_2021_id":"028062",
         "gn:id":6536673,
         "gp:id":12681031,
         "qs_pg:id":41980
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e39a0968490826f9c1f7dd26b20de06",
+    "wof:geomhash":"8a311b65e80bd48c994dceaa617b433d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470333,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353920,
     "wof:name":"Piacenza D'Adige",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":1260,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

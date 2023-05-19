@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Narni",
+    "eurostat:nuts_2021_id":"055022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055022",
+    "eurostat:population":18887,
+    "eurostat:population_year":2020,
     "geom:area":0.021657,
-    "geom:area_square_m":197428153.874491,
+    "geom:area_square_m":197428153.874485,
     "geom:bbox":"12.4114330509,42.4215474486,12.6147280129,42.6007816189",
     "geom:latitude":42.504051,
     "geom:longitude":12.514077,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055022",
+        "eurostat:nuts_2021_id":"055022",
         "gn:id":6539972,
         "gp:id":12676912,
         "qs_pg:id":1187856
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fa1e13b920f6c6cefe8694c7a7235a6",
+    "wof:geomhash":"82f479c8e5f172b028d16e630c1a707a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404459675,
-    "wof:lastmodified":1582328156,
+    "wof:lastmodified":1684353698,
     "wof:name":"Narni",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":18887,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fumane",
+    "eurostat:nuts_2021_id":"023035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023035",
+    "eurostat:population":4115,
+    "eurostat:population_year":2020,
     "geom:area":0.003945,
-    "geom:area_square_m":34142362.321306,
+    "geom:area_square_m":34142362.32131,
     "geom:bbox":"10.8558582959,45.525061706,10.9320495475,45.6368548527",
     "geom:latitude":45.58192,
     "geom:longitude":10.890029,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_023035",
+        "eurostat:nuts_2021_id":"023035"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"105c722119c1af3be0e2eb4770df66cb",
+    "wof:geomhash":"e2546b6dfc28c60f1330480a1f1b580a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404459281,
-    "wof:lastmodified":1566723730,
+    "wof:lastmodified":1684353691,
     "wof:name":"Fumane",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":4115,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

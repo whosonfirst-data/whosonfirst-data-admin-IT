@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Illorai",
+    "eurostat:nuts_2021_id":"090031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090031",
+    "eurostat:population":798,
+    "eurostat:population_year":2020,
     "geom:area":0.006068,
-    "geom:area_square_m":57175417.599471,
+    "geom:area_square_m":57175417.599473,
     "geom:bbox":"8.89717099891,40.2964984081,9.08312053117,40.4255598824",
     "geom:latitude":40.356502,
     "geom:longitude":8.989153,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090031",
+        "eurostat:nuts_2021_id":"090031",
         "gn:id":6539226,
         "gp:id":20076806,
         "qs_pg:id":1003927
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1505fa19949bf7540b01e906fa598dd",
+    "wof:geomhash":"9605a12f1e21cdbd9b163be92929244e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466771,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353857,
     "wof:name":"Illorai",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":798,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

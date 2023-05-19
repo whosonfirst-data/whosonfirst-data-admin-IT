@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legnano",
+    "eurostat:nuts_2021_id":"015118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015118",
+    "eurostat:population":60336,
+    "eurostat:population_year":2020,
     "geom:area":0.00204,
     "geom:area_square_m":17652167.513211,
     "geom:bbox":"8.86601986152,45.5683279099,8.94560183065,45.6238503591",
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015118",
+        "eurostat:nuts_2021_id":"015118",
         "gn:id":6537118,
         "gp:id":12679909,
         "qs_pg:id":901103
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1babac97478c7981954bd3ce6a66d56e",
+    "wof:geomhash":"6059825915d7f625a5ed3c530f67526f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404468431,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353889,
     "wof:name":"Legnano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":60336,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

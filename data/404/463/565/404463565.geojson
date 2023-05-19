@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vimercate",
+    "eurostat:nuts_2021_id":"108050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108050",
+    "eurostat:population":26241,
+    "eurostat:population_year":2020,
     "geom:area":0.002392,
-    "geom:area_square_m":20685972.682573,
+    "geom:area_square_m":20685972.682572,
     "geom:bbox":"9.3261099545,45.5856062425,9.40549514494,45.6411182913",
     "geom:latitude":45.615484,
     "geom:longitude":9.368382,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108050",
+        "eurostat:nuts_2021_id":"108050",
         "gn:id":3164083,
         "gp:id":12680745,
         "qs_pg:id":1043364
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de54e95323fa4c42368017460a8d55e5",
+    "wof:geomhash":"749c2109419fd2d1327b222d828ffc28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404463565,
-    "wof:lastmodified":1582327779,
+    "wof:lastmodified":1684353782,
     "wof:name":"Vimercate",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":26241,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

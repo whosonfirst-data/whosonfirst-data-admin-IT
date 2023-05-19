@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valeggio sul Mincio",
+    "eurostat:nuts_2021_id":"023089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023089",
+    "eurostat:population":15758,
+    "eurostat:population_year":2020,
     "geom:area":0.007347,
-    "geom:area_square_m":63838624.013446,
+    "geom:area_square_m":63838624.013451,
     "geom:bbox":"10.6855596362,45.2872281646,10.7915025829,45.4219551649",
     "geom:latitude":45.353755,
     "geom:longitude":10.741886,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023089",
+        "eurostat:nuts_2021_id":"023089",
         "gn:id":6536605,
         "gp:id":12682332,
         "qs_pg:id":1108971
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ef038599edc3a83140e302cb4925c18",
+    "wof:geomhash":"cdadc8738920d1fde44934cb792c8c44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469727,
-    "wof:lastmodified":1582328044,
+    "wof:lastmodified":1684353909,
     "wof:name":"Valeggio Sul Mincio",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":15758,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

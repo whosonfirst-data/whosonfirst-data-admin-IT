@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalborgone",
+    "eurostat:nuts_2021_id":"001060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001060",
+    "eurostat:population":1880,
+    "eurostat:population_year":2020,
     "geom:area":0.002303,
-    "geom:area_square_m":20093902.279707,
+    "geom:area_square_m":20093902.279706,
     "geom:bbox":"7.88689521968,45.1042126765,7.98031497342,45.1530921033",
     "geom:latitude":45.129562,
     "geom:longitude":7.935731,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001060",
+        "eurostat:nuts_2021_id":"001060",
         "gn:id":6541793,
         "gp:id":12677944,
         "qs_pg:id":209044
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa0fba929b30b653c887dfc7f5af8337",
+    "wof:geomhash":"36d87f0996708efa14d4aa971ac9ef52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456309,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353621,
     "wof:name":"Casalborgone",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1880,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

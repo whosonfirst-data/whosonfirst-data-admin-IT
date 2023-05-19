@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sauris",
+    "eurostat:nuts_2021_id":"030107",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030107",
+    "eurostat:population":394,
+    "eurostat:population_year":2020,
     "geom:area":0.004854,
     "geom:area_square_m":41339202.488161,
     "geom:bbox":"12.6068553419,46.4379957521,12.7718870388,46.4958452932",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030107",
+        "eurostat:nuts_2021_id":"030107",
         "gn:id":6541507,
         "gp:id":12678092,
         "qs_pg:id":1317096
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0b5a426a7a23358bb5e612310155470",
+    "wof:geomhash":"7b41129ed6d1d281dc9a8acab84c489c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470677,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353926,
     "wof:name":"Sauris",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":394,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

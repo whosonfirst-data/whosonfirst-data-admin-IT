@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceneselli",
+    "eurostat:nuts_2021_id":"029014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029014",
+    "eurostat:population":1599,
+    "eurostat:population_year":2020,
     "geom:area":0.003267,
-    "geom:area_square_m":28554286.013271,
+    "geom:area_square_m":28554286.013275,
     "geom:bbox":"11.3374973903,44.9890879387,11.4309464973,45.0564372999",
     "geom:latitude":45.026616,
     "geom:longitude":11.380836,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029014",
+        "eurostat:nuts_2021_id":"029014",
         "gn:id":6538348,
         "gp:id":12677592,
         "qs_pg:id":291425
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5140ba473ec5de08b4ffce319effa7d9",
+    "wof:geomhash":"9adb41164c6ea55ce4e6eeb0b19f77cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404470357,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353920,
     "wof:name":"Ceneselli",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":1599,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

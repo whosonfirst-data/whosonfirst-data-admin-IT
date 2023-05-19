@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017189",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tremosine sul Garda",
+    "eurostat:nuts_2021_id":"017189",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017189",
+    "eurostat:population":2077,
+    "eurostat:population_year":2020,
     "geom:area":0.008414,
-    "geom:area_square_m":72534910.56303,
+    "geom:area_square_m":72534910.563036,
     "geom:bbox":"10.6414446859,45.7406822953,10.8081758151,45.8427055804",
     "geom:latitude":45.79835,
     "geom:longitude":10.725563,
@@ -126,6 +138,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017189",
+        "eurostat:nuts_2021_id":"017189",
         "gn:id":6542781,
         "gp:id":12681097,
         "qs_pg:id":1317138
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0198f9b39fc7c2e2630bee7f47f50f48",
+    "wof:geomhash":"678f0d397587094fb2814ecbb9a1a20a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404471347,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353938,
     "wof:name":"Tremosine",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2077,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malegno",
+    "eurostat:nuts_2021_id":"017100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017100",
+    "eurostat:population":2003,
+    "eurostat:population_year":2020,
     "geom:area":0.000801,
-    "geom:area_square_m":6881639.565009,
+    "geom:area_square_m":6881639.565008,
     "geom:bbox":"10.2502450161,45.9436310587,10.2956029478,45.9745022557",
     "geom:latitude":45.959915,
     "geom:longitude":10.270722,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017100",
+        "eurostat:nuts_2021_id":"017100",
         "gn:id":6542605,
         "gp:id":12682615,
         "qs_pg:id":195644
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3c4d4ac744e83555aadc7ca8a937604",
+    "wof:geomhash":"b1d05957cc370f8312523f2fefee719f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471147,
-    "wof:lastmodified":1582327734,
+    "wof:lastmodified":1684353934,
     "wof:name":"Malegno",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2003,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

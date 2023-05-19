@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcole",
+    "eurostat:nuts_2021_id":"023004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023004",
+    "eurostat:population":6354,
+    "eurostat:population_year":2020,
     "geom:area":0.002167,
-    "geom:area_square_m":18823945.971735,
+    "geom:area_square_m":18823945.971734,
     "geom:bbox":"11.2574264,45.3411133841,11.3350372937,45.3903853321",
     "geom:latitude":45.36555,
     "geom:longitude":11.29855,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023004",
+        "eurostat:nuts_2021_id":"023004",
         "gn:id":6538231,
         "gp:id":12682527,
         "qs_pg:id":1196812
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07a8ba557039c26454ed43e6eb796428",
+    "wof:geomhash":"bc11466c349ba50555b6e3ef3a4a806d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469641,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353907,
     "wof:name":"Arcole",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":6354,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

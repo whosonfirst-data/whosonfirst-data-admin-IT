@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vicalvi",
+    "eurostat:nuts_2021_id":"060086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060086",
+    "eurostat:population":746,
+    "eurostat:population_year":2020,
     "geom:area":0.000885,
-    "geom:area_square_m":8172680.195918,
+    "geom:area_square_m":8172680.195919,
     "geom:bbox":"13.6799688671,41.6610083378,13.7453695549,41.696102153",
     "geom:latitude":41.678172,
     "geom:longitude":13.711235,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060086",
+        "eurostat:nuts_2021_id":"060086",
         "gn:id":6541147,
         "gp:id":12682407,
         "qs_pg:id":1196591
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ff879f2590bf76a8488c6ce4235460a",
+    "wof:geomhash":"f53fb9b4657deaadae5eaa11e42d1061",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462055,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353751,
     "wof:name":"Vicalvi",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":746,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

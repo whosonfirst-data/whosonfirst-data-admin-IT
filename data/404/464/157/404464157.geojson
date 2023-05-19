@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domanico",
+    "eurostat:nuts_2021_id":"078050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078050",
+    "eurostat:population":935,
+    "eurostat:population_year":2020,
     "geom:area":0.002446,
-    "geom:area_square_m":23437871.82491,
+    "geom:area_square_m":23437871.824908,
     "geom:bbox":"16.1606837334,39.1702080999,16.2364075693,39.2375836398",
     "geom:latitude":39.202954,
     "geom:longitude":16.19833,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078050",
+        "eurostat:nuts_2021_id":"078050"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e12a09cb2d58438763bff135bdce5f43",
+    "wof:geomhash":"90cd80eac91b9c64e14e4035892c90c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464157,
-    "wof:lastmodified":1566723209,
+    "wof:lastmodified":1684353798,
     "wof:name":"Domanico",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":935,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

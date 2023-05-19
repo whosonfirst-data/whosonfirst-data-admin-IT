@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gela",
+    "eurostat:nuts_2021_id":"085007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085007",
+    "eurostat:population":74075,
+    "eurostat:population_year":2020,
     "geom:area":0.028154,
-    "geom:area_square_m":277682703.85913,
+    "geom:area_square_m":277682703.859167,
     "geom:bbox":"14.1146819578,37.0015695344,14.4440410094,37.1720380541",
     "geom:latitude":37.094177,
     "geom:longitude":14.293427,
@@ -257,6 +269,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -265,6 +279,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085007",
+        "eurostat:nuts_2021_id":"085007",
         "gn:id":6541964,
         "gp:id":12677211,
         "qs_pg:id":1193457
@@ -273,7 +289,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"da1f31dc4379446b941c941e2cacddc2",
+    "wof:geomhash":"3fb208c39fc4dfeddeb4cf6346783ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,10 +300,12 @@
         }
     ],
     "wof:id":404466539,
-    "wof:lastmodified":1582328197,
+    "wof:lastmodified":1684353851,
     "wof:name":"Gela",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":74075,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

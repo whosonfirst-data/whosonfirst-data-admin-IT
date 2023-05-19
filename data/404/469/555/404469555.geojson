@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turano Lodigiano",
+    "eurostat:nuts_2021_id":"098058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098058",
+    "eurostat:population":1551,
+    "eurostat:population_year":2020,
     "geom:area":0.001879,
-    "geom:area_square_m":16353426.105519,
+    "geom:area_square_m":16353426.105523,
     "geom:bbox":"9.59765320581,45.2223634015,9.66779374655,45.2807049867",
     "geom:latitude":45.252911,
     "geom:longitude":9.627976,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098058",
+        "eurostat:nuts_2021_id":"098058",
         "gn:id":6539421,
         "gp:id":12680265,
         "qs_pg:id":41434
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9296a652dd6100b4890053b4949920d3",
+    "wof:geomhash":"b0f088063aad59ee84e470bb77e3449e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469555,
-    "wof:lastmodified":1582328034,
+    "wof:lastmodified":1684353906,
     "wof:name":"Turano Lodigiano",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":1551,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ravello",
+    "eurostat:nuts_2021_id":"065104",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065104",
+    "eurostat:population":2469,
+    "eurostat:population_year":2020,
     "geom:area":0.000841,
-    "geom:area_square_m":7888565.37185,
+    "geom:area_square_m":7888565.371843,
     "geom:bbox":"14.5762533037,40.6362782166,14.625605503,40.6903167608",
     "geom:latitude":40.668881,
     "geom:longitude":14.608999,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065104",
+        "eurostat:nuts_2021_id":"065104",
         "gn:id":6537408,
         "gp:id":12680332,
         "qs_pg:id":41474
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d2e8e04264a367dacc29233bb922c7e",
+    "wof:geomhash":"cbed5660ab4402735355cdfa78850d63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404465695,
-    "wof:lastmodified":1582327833,
+    "wof:lastmodified":1684353836,
     "wof:name":"Ravello",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2469,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

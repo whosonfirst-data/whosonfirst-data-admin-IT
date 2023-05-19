@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boscotrecase",
+    "eurostat:nuts_2021_id":"063009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063009",
+    "eurostat:population":10129,
+    "eurostat:population_year":2020,
     "geom:area":0.0008,
-    "geom:area_square_m":7488678.658092,
+    "geom:area_square_m":7488678.658096,
     "geom:bbox":"14.4264716457,40.7609354832,14.4728776828,40.821295766",
     "geom:latitude":40.784441,
     "geom:longitude":14.454191,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063009",
+        "eurostat:nuts_2021_id":"063009",
         "gn:id":6539578,
         "gp:id":12677024,
         "qs_pg:id":248607
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"128d83a1e83578c64419e79d983e772c",
+    "wof:geomhash":"ab7ab52d5cbca40e2d95b7b177423ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460887,
-    "wof:lastmodified":1582327999,
+    "wof:lastmodified":1684353727,
     "wof:name":"Boscotrecase",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":10129,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Demetrio ne' Vestini",
+    "eurostat:nuts_2021_id":"066087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066087",
+    "eurostat:population":1931,
+    "eurostat:population_year":2020,
     "geom:area":0.001795,
-    "geom:area_square_m":16423085.950865,
+    "geom:area_square_m":16423085.950869,
     "geom:bbox":"13.5292364022,42.2407841687,13.5869291921,42.3101448724",
     "geom:latitude":42.283469,
     "geom:longitude":13.555622,
@@ -32,6 +44,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,6 +54,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066087",
+        "eurostat:nuts_2021_id":"066087",
         "gp:id":12677664,
         "qs_pg:id":213192
     },
@@ -47,7 +63,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d67c03e4223addd0c08f915044d5579",
+    "wof:geomhash":"93020b072645c38df3fbf59155723b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +74,12 @@
         }
     ],
     "wof:id":404462263,
-    "wof:lastmodified":1582327871,
+    "wof:lastmodified":1684353755,
     "wof:name":"San Demetrio Ne' Vestini",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":1931,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

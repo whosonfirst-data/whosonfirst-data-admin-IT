@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Romano",
+    "eurostat:nuts_2021_id":"056037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056037",
+    "eurostat:population":1940,
+    "eurostat:population_year":2020,
     "geom:area":0.009402,
-    "geom:area_square_m":85957166.996812,
+    "geom:area_square_m":85957166.996786,
     "geom:bbox":"11.8509330114,42.229683397,11.9682909814,42.4268180923",
     "geom:latitude":42.324023,
     "geom:longitude":11.903618,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056037",
+        "eurostat:nuts_2021_id":"056037",
         "gn:id":6538636,
         "gp:id":12677834,
         "qs_pg:id":332287
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8d78804f1b27b057e9ebd17c66c20f3",
+    "wof:geomhash":"3f75292ed1204e10dd2377d4f6236b99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461299,
-    "wof:lastmodified":1582328147,
+    "wof:lastmodified":1684353736,
     "wof:name":"Monte Romano",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":1940,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

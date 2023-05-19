@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantalice",
+    "eurostat:nuts_2021_id":"057009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057009",
+    "eurostat:population":2576,
+    "eurostat:population_year":2020,
     "geom:area":0.004112,
-    "geom:area_square_m":37499555.684085,
+    "geom:area_square_m":37499555.684081,
     "geom:bbox":"12.8627825369,42.4450367932,12.9946597279,42.518522812",
     "geom:latitude":42.479768,
     "geom:longitude":12.924315,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057009",
+        "eurostat:nuts_2021_id":"057009",
         "gn:id":6536918,
         "gp:id":12677536,
         "qs_pg:id":221750
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1200c3e7e6a1aca40ee2c272c16af594",
+    "wof:geomhash":"4135ee3afd001786d11d95d68f936562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461371,
-    "wof:lastmodified":1582328135,
+    "wof:lastmodified":1684353737,
     "wof:name":"Cantalice",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":2576,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

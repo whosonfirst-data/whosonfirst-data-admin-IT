@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casape",
+    "eurostat:nuts_2021_id":"058021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058021",
+    "eurostat:population":678,
+    "eurostat:population_year":2020,
     "geom:area":0.000583,
-    "geom:area_square_m":5362187.552091,
+    "geom:area_square_m":5362187.552092,
     "geom:bbox":"12.8661948409,41.9004322329,12.9149118073,41.9205902805",
     "geom:latitude":41.910451,
     "geom:longitude":12.894254,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058021",
+        "eurostat:nuts_2021_id":"058021",
         "gn:id":6536941,
         "gp:id":12678006,
         "qs_pg:id":40010
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d16506e01b3a3020f70b17e35a02bc22",
+    "wof:geomhash":"f5d7ee4c6e57e2d2657e0cb0749d3287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404461563,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353741,
     "wof:name":"Casape",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":678,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

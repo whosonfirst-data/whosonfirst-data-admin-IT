@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponteranica",
+    "eurostat:nuts_2021_id":"016169",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016169",
+    "eurostat:population":6812,
+    "eurostat:population_year":2020,
     "geom:area":0.000981,
-    "geom:area_square_m":8463358.092187,
+    "geom:area_square_m":8463358.092188,
     "geom:bbox":"9.6392585567,45.7197021498,9.7016506092,45.7669527574",
     "geom:latitude":45.740337,
     "geom:longitude":9.674408,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016169",
+        "eurostat:nuts_2021_id":"016169",
         "gn:id":6542565,
         "gp:id":20076210,
         "qs_pg:id":1016044
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f4f6f21b6edeccd9bc85872b93c0c18",
+    "wof:geomhash":"8acd82aa4eca2a9a547a7580439c86fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466079,
-    "wof:lastmodified":1582328186,
+    "wof:lastmodified":1684353842,
     "wof:name":"Ponteranica",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":6812,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

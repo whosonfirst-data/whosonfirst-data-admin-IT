@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forl\u00ec del Sannio",
+    "eurostat:nuts_2021_id":"094020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094020",
+    "eurostat:population":643,
+    "eurostat:population_year":2020,
     "geom:area":0.003508,
-    "geom:area_square_m":32394322.632996,
+    "geom:area_square_m":32394322.632981,
     "geom:bbox":"14.1482050913,41.6354471072,14.2249728769,41.7331180659",
     "geom:latitude":41.687865,
     "geom:longitude":14.18439,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094020",
+        "eurostat:nuts_2021_id":"094020",
         "gn:id":6539344,
         "gp:id":12679353,
         "qs_pg:id":40824
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4af51ac96afd6d7bc409ac133f222263",
+    "wof:geomhash":"e9ed0d9b3fbd10dd49fa76d64e3eae5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404462883,
-    "wof:lastmodified":1582327867,
+    "wof:lastmodified":1684353768,
     "wof:name":"Forl\u00ec Del Sannio",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":643,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

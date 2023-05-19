@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melilli",
+    "eurostat:nuts_2021_id":"089012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089012",
+    "eurostat:population":13585,
+    "eurostat:population_year":2020,
     "geom:area":0.013759,
-    "geom:area_square_m":135497892.854046,
+    "geom:area_square_m":135497892.854044,
     "geom:bbox":"14.9976222105,37.095427777,15.2373528637,37.2891323781",
     "geom:latitude":37.210873,
     "geom:longitude":15.099546,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089012",
+        "eurostat:nuts_2021_id":"089012",
         "gn:id":6539212,
         "gp:id":12677539,
         "qs_pg:id":1187880
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52c44caab6c4be756deb50aca1f84b20",
+    "wof:geomhash":"e11f2f2fff696aa9cb8cbca3ed649808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466697,
-    "wof:lastmodified":1582328205,
+    "wof:lastmodified":1684353855,
     "wof:name":"Melilli",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":13585,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

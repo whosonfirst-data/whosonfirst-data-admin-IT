@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sagrado",
+    "eurostat:nuts_2021_id":"031017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031017",
+    "eurostat:population":2181,
+    "eurostat:population_year":2020,
     "geom:area":0.001612,
-    "geom:area_square_m":13875861.808711,
+    "geom:area_square_m":13875861.808709,
     "geom:bbox":"13.4736743377,45.8593732823,13.5570044515,45.8989297874",
     "geom:latitude":45.878758,
     "geom:longitude":13.520166,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031017",
+        "eurostat:nuts_2021_id":"031017",
         "gn:id":6539939,
         "gp:id":12681528,
         "qs_pg:id":902528
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d03f3ee6393adbe179a9177fee70676",
+    "wof:geomhash":"2f9f3bf7cf4a0e981e669c181436daad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470783,
-    "wof:lastmodified":1582327746,
+    "wof:lastmodified":1684353927,
     "wof:name":"Sagrado",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":2181,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

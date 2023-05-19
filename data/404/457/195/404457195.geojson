@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pragelato",
+    "eurostat:nuts_2021_id":"001201",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001201",
+    "eurostat:population":770,
+    "eurostat:population_year":2020,
     "geom:area":0.010179,
-    "geom:area_square_m":89024808.879651,
+    "geom:area_square_m":89024808.87966,
     "geom:bbox":"6.87104516097,44.8983544397,6.99420446108,45.0645870624",
     "geom:latitude":44.983529,
     "geom:longitude":6.946196,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001201",
+        "eurostat:nuts_2021_id":"001201",
         "gn:id":3169958,
         "gp:id":12679392,
         "qs_pg:id":496767
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e48b05a34183eaaf87474bc291c7c1e9",
+    "wof:geomhash":"136c003d7957eb5f3de2a57f34a1766a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404457195,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353644,
     "wof:name":"Pragelato",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":770,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

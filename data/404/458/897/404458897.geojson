@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foggia",
+    "eurostat:nuts_2021_id":"071024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071024",
+    "eurostat:population":149904,
+    "eurostat:population_year":2020,
     "geom:area":0.054517,
-    "geom:area_square_m":505220118.727979,
+    "geom:area_square_m":505220118.72797,
     "geom:bbox":"15.4295494702,41.3305981382,15.7882406413,41.6120185557",
     "geom:latitude":41.456239,
     "geom:longitude":15.583667,
@@ -239,6 +251,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -247,6 +261,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071024",
+        "eurostat:nuts_2021_id":"071024",
         "gn:id":6541857,
         "gp:id":12676263,
         "qs_pg:id":38895
@@ -255,7 +271,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98140708bba063c6ea0460ec24eef3c3",
+    "wof:geomhash":"a1e5dc51f636e0c6a3a4a4fab8a565a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,10 +282,12 @@
         }
     ],
     "wof:id":404458897,
-    "wof:lastmodified":1582327960,
+    "wof:lastmodified":1684353680,
     "wof:name":"Foggia",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":149904,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

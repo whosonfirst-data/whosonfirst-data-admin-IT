@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garessio",
+    "eurostat:nuts_2021_id":"004095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004095",
+    "eurostat:population":2987,
+    "eurostat:population_year":2020,
     "geom:area":0.01479,
-    "geom:area_square_m":131107562.501033,
+    "geom:area_square_m":131107562.501022,
     "geom:bbox":"7.86159045896,44.1424190171,8.09723477759,44.2539553132",
     "geom:latitude":44.198911,
     "geom:longitude":7.99294,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004095",
+        "eurostat:nuts_2021_id":"004095",
         "gn:id":6540940,
         "gp:id":12676951,
         "qs_pg:id":247858
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e5ffa466c8ecb5e6083f27b7ef4bcf3",
+    "wof:geomhash":"e9007ff8d96098495f5f379a4d6e7bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455561,
-    "wof:lastmodified":1582327810,
+    "wof:lastmodified":1684353606,
     "wof:name":"Garessio",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2987,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

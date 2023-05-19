@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grottaglie",
+    "eurostat:nuts_2021_id":"073008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073008",
+    "eurostat:population":31635,
+    "eurostat:population_year":2020,
     "geom:area":0.010729,
-    "geom:area_square_m":100823505.020364,
+    "geom:area_square_m":100823505.020338,
     "geom:bbox":"17.320320859,40.4609992195,17.4873268775,40.6067895027",
     "geom:latitude":40.537262,
     "geom:longitude":17.413904,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073008",
+        "eurostat:nuts_2021_id":"073008",
         "gn:id":6537563,
         "gp:id":12679692,
         "qs_pg:id":1102130
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7273ee4932294f311a1093b0b6737b7c",
+    "wof:geomhash":"34c1efc681bc612e36317c86e3f5ef0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404456853,
-    "wof:lastmodified":1582328066,
+    "wof:lastmodified":1684353634,
     "wof:name":"Grottaglie",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":31635,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

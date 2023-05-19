@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecrestese",
+    "eurostat:nuts_2021_id":"103046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103046",
+    "eurostat:population":1259,
+    "eurostat:population_year":2020,
     "geom:area":0.010052,
-    "geom:area_square_m":86003286.243509,
+    "geom:area_square_m":86003286.243528,
     "geom:bbox":"8.30679694843,46.140690653,8.45634183585,46.2992832854",
     "geom:latitude":46.215438,
     "geom:longitude":8.390032,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103046",
+        "eurostat:nuts_2021_id":"103046",
         "gn:id":6543708,
         "gp:id":12675986,
         "qs_pg:id":1142781
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74186f0af39d23dc7f55707a6e69501b",
+    "wof:geomhash":"fd69fc7c72140d627b6f9bf315880b93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459529,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353695,
     "wof:name":"Montecrestese",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":1259,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

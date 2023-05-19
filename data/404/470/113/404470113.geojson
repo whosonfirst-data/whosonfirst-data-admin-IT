@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orsago",
+    "eurostat:nuts_2021_id":"026053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026053",
+    "eurostat:population":3867,
+    "eurostat:population_year":2020,
     "geom:area":0.001241,
-    "geom:area_square_m":10671150.479276,
+    "geom:area_square_m":10671150.479275,
     "geom:bbox":"12.4063195353,45.8967498954,12.4841777104,45.9412663467",
     "geom:latitude":45.920745,
     "geom:longitude":12.443881,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026053",
+        "eurostat:nuts_2021_id":"026053",
         "gn:id":6536281,
         "gp:id":20076695,
         "qs_pg:id":335738
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc6468bf040c4d97f231c5be2ce2c69e",
+    "wof:geomhash":"bd5a53796904a6a7cea6de3fe1f4e1d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470113,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353916,
     "wof:name":"Orsago",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":3867,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

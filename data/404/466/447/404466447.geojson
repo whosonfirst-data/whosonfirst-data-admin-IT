@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cammarata",
+    "eurostat:nuts_2021_id":"084009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084009",
+    "eurostat:population":6048,
+    "eurostat:population_year":2020,
     "geom:area":0.019577,
-    "geom:area_square_m":191709972.069113,
+    "geom:area_square_m":191709972.069094,
     "geom:bbox":"13.5462544101,37.5654287694,13.8314296398,37.6949372233",
     "geom:latitude":37.63046,
     "geom:longitude":13.694624,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084009",
+        "eurostat:nuts_2021_id":"084009",
         "gn:id":6537776,
         "gp:id":20077052,
         "qs_pg:id":1016913
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e46ae013d9ce72ab3f2577700618a4a",
+    "wof:geomhash":"d64fc3c95c6c8444e90eec819be27564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466447,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353849,
     "wof:name":"Cammarata",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":6048,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Divignano",
+    "eurostat:nuts_2021_id":"003060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003060",
+    "eurostat:population":1402,
+    "eurostat:population_year":2020,
     "geom:area":0.000589,
-    "geom:area_square_m":5090134.081622,
+    "geom:area_square_m":5090134.081623,
     "geom:bbox":"8.58597189642,45.6399721505,8.61152970344,45.6734160831",
     "geom:latitude":45.655714,
     "geom:longitude":8.598472,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003060",
+        "eurostat:nuts_2021_id":"003060",
         "gn:id":6540669,
         "gp:id":12679086,
         "qs_pg:id":1172881
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18deead11dbfc9cb7af2892bd76f4d1f",
+    "wof:geomhash":"eebe8646c1645e4e6a5ca092b8d2976b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457719,
-    "wof:lastmodified":1582328119,
+    "wof:lastmodified":1684353656,
     "wof:name":"Divignano",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1402,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

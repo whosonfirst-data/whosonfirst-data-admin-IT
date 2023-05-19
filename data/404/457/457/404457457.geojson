@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albano Vercellese",
+    "eurostat:nuts_2021_id":"002003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002003",
+    "eurostat:population":309,
+    "eurostat:population_year":2020,
     "geom:area":0.001586,
-    "geom:area_square_m":13759750.472079,
+    "geom:area_square_m":13759750.47208,
     "geom:bbox":"8.3536215305,45.405560163,8.40657538293,45.4516295052",
     "geom:latitude":45.425508,
     "geom:longitude":8.381192,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002003",
+        "eurostat:nuts_2021_id":"002003",
         "gn:id":6539534,
         "gp:id":12675882,
         "qs_pg:id":416401
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20cd548506cd1836120693dd77a3bd8c",
+    "wof:geomhash":"2ab01d5990643a09a72e69c7984afbeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457457,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353650,
     "wof:name":"Albano Vercellese",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

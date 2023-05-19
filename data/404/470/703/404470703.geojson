@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivignano Teor",
+    "eurostat:nuts_2021_id":"030188",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030188",
+    "eurostat:population":6229,
+    "eurostat:population_year":2020,
     "geom:area":0.001959,
-    "geom:area_square_m":16870781.493822,
+    "geom:area_square_m":16870781.493826,
     "geom:bbox":"13.025780757,45.8112251267,13.0876225811,45.8692892782",
     "geom:latitude":45.841781,
     "geom:longitude":13.060058,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030188",
+        "eurostat:nuts_2021_id":"030188",
         "gn:id":6542145,
         "gp:id":12681398,
         "qs_pg:id":204200
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"555fefb7a9deeab618396262ac8ac4a0",
+    "wof:geomhash":"3f591face8066051600e9a7c582ab10a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404470703,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353926,
     "wof:name":"Teor",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":6229,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

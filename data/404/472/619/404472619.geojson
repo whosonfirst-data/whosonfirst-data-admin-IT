@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camaiore",
+    "eurostat:nuts_2021_id":"046005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046005",
+    "eurostat:population":32113,
+    "eurostat:population_year":2020,
     "geom:area":0.009579,
-    "geom:area_square_m":85307232.039357,
+    "geom:area_square_m":85307232.03937,
     "geom:bbox":"10.2099701635,43.8804854773,10.4150693368,43.97556515",
     "geom:latitude":43.928237,
     "geom:longitude":10.32095,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046005",
+        "eurostat:nuts_2021_id":"046005",
         "gn:id":6542137,
         "gp:id":12677361,
         "qs_pg:id":1193657
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"853d600014fb25ccb1ac045d1e7cee69",
+    "wof:geomhash":"48b76585509d73c1d1d1547700056aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404472619,
-    "wof:lastmodified":1582327883,
+    "wof:lastmodified":1684353966,
     "wof:name":"Camaiore",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":32113,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

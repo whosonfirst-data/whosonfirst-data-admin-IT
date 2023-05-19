@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liscia",
+    "eurostat:nuts_2021_id":"069049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069049",
+    "eurostat:population":678,
+    "eurostat:population_year":2020,
     "geom:area":0.000884,
-    "geom:area_square_m":8131833.05836,
+    "geom:area_square_m":8131833.058359,
     "geom:bbox":"14.5242388758,41.9381768369,14.5805819545,41.965680126",
     "geom:latitude":41.953225,
     "geom:longitude":14.552576,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069049",
+        "eurostat:nuts_2021_id":"069049",
         "gn:id":6543290,
         "gp:id":20076888,
         "qs_pg:id":1023788
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76d63027b1728104de8ba1a3a4a79a76",
+    "wof:geomhash":"9f86206669ad3df59ff80ce7c267862a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462629,
-    "wof:lastmodified":1582327856,
+    "wof:lastmodified":1684353762,
     "wof:name":"Liscia",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":678,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

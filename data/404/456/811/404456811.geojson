@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valenza",
+    "eurostat:nuts_2021_id":"006177",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006177",
+    "eurostat:population":18674,
+    "eurostat:population_year":2020,
     "geom:area":0.005541,
-    "geom:area_square_m":48428637.293358,
+    "geom:area_square_m":48428637.293356,
     "geom:bbox":"8.55575521151,44.9732203054,8.70883982294,45.0629639712",
     "geom:latitude":45.018905,
     "geom:longitude":8.629679,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006177",
+        "eurostat:nuts_2021_id":"006177",
         "gn:id":6539773,
         "gp:id":12682334,
         "qs_pg:id":248509
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f288e49d0aed505fb18d4368032438e6",
+    "wof:geomhash":"72b345e465085d6a2409309a0aa8d8a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404456811,
-    "wof:lastmodified":1582328049,
+    "wof:lastmodified":1684353633,
     "wof:name":"Valenza",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":18674,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

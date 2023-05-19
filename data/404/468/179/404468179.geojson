@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fusine",
+    "eurostat:nuts_2021_id":"014030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014030",
+    "eurostat:population":562,
+    "eurostat:population_year":2020,
     "geom:area":0.004377,
-    "geom:area_square_m":37531682.559756,
+    "geom:area_square_m":37531682.559759,
     "geom:bbox":"9.72237621746,46.0526619003,9.80057269534,46.1594067234",
     "geom:latitude":46.100326,
     "geom:longitude":9.763583,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014030",
+        "eurostat:nuts_2021_id":"014030",
         "gn:id":6541419,
         "gp:id":12682326,
         "qs_pg:id":42937
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db334108f7ce80cf076e05d97792caec",
+    "wof:geomhash":"aaab2d7758c3d631165a68a8dfe2e7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468179,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353885,
     "wof:name":"Fusine",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":562,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

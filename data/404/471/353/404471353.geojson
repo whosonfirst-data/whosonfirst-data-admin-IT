@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Treviso Bresciano",
+    "eurostat:nuts_2021_id":"017191",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017191",
+    "eurostat:population":521,
+    "eurostat:population_year":2020,
     "geom:area":0.00205,
     "geom:area_square_m":17700737.945563,
     "geom:bbox":"10.4270882679,45.6919367785,10.5170696654,45.7328361431",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_017191",
+        "eurostat:nuts_2021_id":"017191"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"637b8f504f63f07642d072876b424bbf",
+    "wof:geomhash":"9af532181c5a0519e6ca72cf348bba39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404471353,
-    "wof:lastmodified":1566723089,
+    "wof:lastmodified":1684353938,
     "wof:name":"Treviso Bresciano",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":521,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

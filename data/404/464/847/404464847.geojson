@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stefanaconi",
+    "eurostat:nuts_2021_id":"102043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102043",
+    "eurostat:population":2399,
+    "eurostat:population_year":2020,
     "geom:area":0.002378,
     "geom:area_square_m":22962724.709737,
     "geom:bbox":"16.1123520872,38.6314836651,16.1931716856,38.695571741",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102043",
+        "eurostat:nuts_2021_id":"102043"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"342b6d83d158ba7136b027f8f6b5d58d",
+    "wof:geomhash":"98aa2b1899bb2c2e3d9cb690c97b6d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464847,
-    "wof:lastmodified":1566723238,
+    "wof:lastmodified":1684353818,
     "wof:name":"Stefanaconi",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":2399,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cimitile",
+    "eurostat:nuts_2021_id":"063028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063028",
+    "eurostat:population":7147,
+    "eurostat:population_year":2020,
     "geom:area":0.000292,
-    "geom:area_square_m":2724944.464256,
+    "geom:area_square_m":2724944.464255,
     "geom:bbox":"14.498725,40.935503,14.537725,40.956155",
     "geom:latitude":40.945765,
     "geom:longitude":14.518431,
@@ -146,14 +158,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227525,
-        85685487
+        85685487,
+        404227525
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063028",
+        "eurostat:nuts_2021_id":"063028",
         "gn:id":6540681,
         "gp:id":12678664,
         "qs_pg:id":51021
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"491c5d6c4b84e54fc3c74b128f19d1b0",
+    "wof:geomhash":"ea9b1a2136fbd7688d4b62d9ad9e0c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460931,
-    "wof:lastmodified":1608042102,
+    "wof:lastmodified":1684353727,
     "wof:name":"Cimitile",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":7147,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

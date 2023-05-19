@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canzo",
+    "eurostat:nuts_2021_id":"013042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013042",
+    "eurostat:population":5188,
+    "eurostat:population_year":2020,
     "geom:area":0.001287,
-    "geom:area_square_m":11087951.638352,
+    "geom:area_square_m":11087951.638351,
     "geom:bbox":"9.25366660791,45.8347807509,9.32755709706,45.8628146248",
     "geom:latitude":45.8484,
     "geom:longitude":9.291494,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013042",
+        "eurostat:nuts_2021_id":"013042",
         "gn:id":6539465,
         "gp:id":12677550,
         "qs_pg:id":39732
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4a1563a396419df79b0c3ede703a755",
+    "wof:geomhash":"595d661aa209394fb4bb2ced5e5884eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404467995,
-    "wof:lastmodified":1582327979,
+    "wof:lastmodified":1684353882,
     "wof:name":"Canzo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":5188,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

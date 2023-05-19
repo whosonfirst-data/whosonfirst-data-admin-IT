@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campochiaro",
+    "eurostat:nuts_2021_id":"070007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070007",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
     "geom:area":0.00383,
-    "geom:area_square_m":35497219.166753,
+    "geom:area_square_m":35497219.166743,
     "geom:bbox":"14.4263944703,41.4028131006,14.5572654905,41.4954376241",
     "geom:latitude":41.443096,
     "geom:longitude":14.503791,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070007",
+        "eurostat:nuts_2021_id":"070007",
         "gn:id":6538899,
         "gp:id":12677441,
         "qs_pg:id":1314175
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bfe708a619d5b7aad4904d6c2bfc83c",
+    "wof:geomhash":"44d8b4dc58d3d5edd2832e9c946e6eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404462769,
-    "wof:lastmodified":1582327864,
+    "wof:lastmodified":1684353765,
     "wof:name":"Campochiaro",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

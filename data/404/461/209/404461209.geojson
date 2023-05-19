@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Elpidio a Mare",
+    "eurostat:nuts_2021_id":"109037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109037",
+    "eurostat:population":17181,
+    "eurostat:population_year":2020,
     "geom:area":0.005583,
-    "geom:area_square_m":50289819.473808,
+    "geom:area_square_m":50289819.473805,
     "geom:bbox":"13.6509074774,43.1926908809,13.7495765332,43.29068459",
     "geom:latitude":43.243674,
     "geom:longitude":13.697516,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_109037",
+        "eurostat:nuts_2021_id":"109037"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"486dd7c61652239f206544d2e6c28488",
+    "wof:geomhash":"6ed4e47914c74e2db1f5bc7b34d50fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404461209,
-    "wof:lastmodified":1566723710,
+    "wof:lastmodified":1684353734,
     "wof:name":"Sant'Elpidio A Mare",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":17181,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

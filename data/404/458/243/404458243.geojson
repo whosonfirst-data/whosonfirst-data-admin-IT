@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sormano",
+    "eurostat:nuts_2021_id":"013217",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013217",
+    "eurostat:population":640,
+    "eurostat:population_year":2020,
     "geom:area":0.001246,
-    "geom:area_square_m":10725774.170713,
+    "geom:area_square_m":10725774.170711,
     "geom:bbox":"9.20587409048,45.8720597043,9.25728562578,45.9139981745",
     "geom:latitude":45.894126,
     "geom:longitude":9.232438,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013217",
+        "eurostat:nuts_2021_id":"013217",
         "gn:id":6539467,
         "gp:id":12682055,
         "qs_pg:id":1163567
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34a9ffc68d4f76e333aca54d5957e95c",
+    "wof:geomhash":"448378ab922eaa341cee281b8363922b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404458243,
-    "wof:lastmodified":1582327942,
+    "wof:lastmodified":1684353667,
     "wof:name":"Sormano",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

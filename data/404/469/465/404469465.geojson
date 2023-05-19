@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervignano d'Adda",
+    "eurostat:nuts_2021_id":"098018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098018",
+    "eurostat:population":2218,
+    "eurostat:population_year":2020,
     "geom:area":0.000468,
-    "geom:area_square_m":4062916.027942,
+    "geom:area_square_m":4062916.027943,
     "geom:bbox":"9.40889901233,45.3614948721,9.45131213348,45.3865757861",
     "geom:latitude":45.372059,
     "geom:longitude":9.427662,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098018",
+        "eurostat:nuts_2021_id":"098018",
         "gn:id":6543349,
         "gp:id":12679545,
         "qs_pg:id":968669
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e31cb1de03fe27951a54e3c1bc0b7aa",
+    "wof:geomhash":"d64d78b0b648be294142ed2c51e9f183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469465,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353904,
     "wof:name":"Cervignano D'Adda",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":2218,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

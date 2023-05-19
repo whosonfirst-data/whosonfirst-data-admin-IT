@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savignano sul Rubicone",
+    "eurostat:nuts_2021_id":"040045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040045",
+    "eurostat:population":17948,
+    "eurostat:population_year":2020,
     "geom:area":0.002617,
-    "geom:area_square_m":23234140.65449,
+    "geom:area_square_m":23234140.654493,
     "geom:bbox":"12.3621478374,44.0636542216,12.4452128449,44.1685392214",
     "geom:latitude":44.101397,
     "geom:longitude":12.399285,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_040045",
+        "eurostat:nuts_2021_id":"040045"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4d4aa8c87fa2a2ece5c782128ab6ca15",
+    "wof:geomhash":"d5a5a50fb37950284e6780372d702087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404472517,
-    "wof:lastmodified":1566723362,
+    "wof:lastmodified":1684353963,
     "wof:name":"Savignano Sul Rubicone",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":17948,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

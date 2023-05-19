@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soverzene",
+    "eurostat:nuts_2021_id":"025057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025057",
+    "eurostat:population":365,
+    "eurostat:population_year":2020,
     "geom:area":0.001723,
     "geom:area_square_m":14743865.132599,
     "geom:bbox":"12.2910824582,46.1916347013,12.3907302744,46.2280952614",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025057",
+        "eurostat:nuts_2021_id":"025057",
         "gn:id":6536635,
         "gp:id":12682062,
         "qs_pg:id":204259
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee498101bbbc4d420babe0b8a8be33eb",
+    "wof:geomhash":"00f01aca218a20bc105533e1bbbb6a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469967,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353913,
     "wof:name":"Soverzene",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":365,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lodrino",
+    "eurostat:nuts_2021_id":"017090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017090",
+    "eurostat:population":1666,
+    "eurostat:population_year":2020,
     "geom:area":0.001908,
-    "geom:area_square_m":16469868.700676,
+    "geom:area_square_m":16469868.700675,
     "geom:bbox":"10.2396156267,45.6894425439,10.3023898985,45.7388212946",
     "geom:latitude":45.714244,
     "geom:longitude":10.270377,
@@ -101,6 +113,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -109,6 +123,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017090",
+        "eurostat:nuts_2021_id":"017090",
         "gn:id":6542591,
         "gp:id":12682433,
         "qs_pg:id":204302
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d178c2cb3e97f0842cf0f90d3dd3df1",
+    "wof:geomhash":"87c15bc3b2debec5968324c027887337",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404471125,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353934,
     "wof:name":"Lodrino",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1666,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

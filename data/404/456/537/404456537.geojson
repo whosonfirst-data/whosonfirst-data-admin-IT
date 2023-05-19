@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montanaro",
+    "eurostat:nuts_2021_id":"001161",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001161",
+    "eurostat:population":5212,
+    "eurostat:population_year":2020,
     "geom:area":0.002397,
-    "geom:area_square_m":20870139.143969,
+    "geom:area_square_m":20870139.143971,
     "geom:bbox":"7.80922584303,45.2052061752,7.88560967595,45.2615457934",
     "geom:latitude":45.234607,
     "geom:longitude":7.849884,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001161",
+        "eurostat:nuts_2021_id":"001161",
         "gn:id":6539900,
         "gp:id":12680443,
         "qs_pg:id":204099
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9981f59b5ed5b144291044dc31102b7f",
+    "wof:geomhash":"609e0960bcd9ac1389680ae130f50769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456537,
-    "wof:lastmodified":1582328058,
+    "wof:lastmodified":1684353627,
     "wof:name":"Montanaro",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":5212,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

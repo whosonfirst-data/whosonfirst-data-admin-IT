@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalmoro",
+    "eurostat:nuts_2021_id":"020010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020010",
+    "eurostat:population":2232,
+    "eurostat:population_year":2020,
     "geom:area":0.001571,
-    "geom:area_square_m":13672284.111516,
+    "geom:area_square_m":13672284.111522,
     "geom:bbox":"10.3906753103,45.245697067,10.4369089028,45.2965402741",
     "geom:latitude":45.270192,
     "geom:longitude":10.412631,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020010",
+        "eurostat:nuts_2021_id":"020010",
         "gn:id":6540372,
         "gp:id":12677981,
         "qs_pg:id":1160700
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c23ec841a7466c77e1bb43fb546ebb50",
+    "wof:geomhash":"45cb07f49b315485e4b4131d1261ee46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469087,
-    "wof:lastmodified":1582328036,
+    "wof:lastmodified":1684353899,
     "wof:name":"Casalmoro",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":2232,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

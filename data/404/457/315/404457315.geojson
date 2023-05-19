@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001254",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Secondo di Pinerolo",
+    "eurostat:nuts_2021_id":"001254",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001254",
+    "eurostat:population":3645,
+    "eurostat:population_year":2020,
     "geom:area":0.001432,
-    "geom:area_square_m":12550047.163447,
+    "geom:area_square_m":12550047.163445,
     "geom:bbox":"7.2691475408,44.8431674939,7.33370403247,44.8860278749",
     "geom:latitude":44.860409,
     "geom:longitude":7.303085,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001254",
+        "eurostat:nuts_2021_id":"001254",
         "gn:id":6543789,
         "gp:id":20076520,
         "qs_pg:id":901501
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f33bc3a354d4e2fd077f55651f43dae",
+    "wof:geomhash":"c56b25e8da9dc736b175792a0867af31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404457315,
-    "wof:lastmodified":1582328106,
+    "wof:lastmodified":1684353647,
     "wof:name":"San Secondo Di Pinerolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3645,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietrasanta",
+    "eurostat:nuts_2021_id":"046024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046024",
+    "eurostat:population":23542,
+    "eurostat:population_year":2020,
     "geom:area":0.004669,
-    "geom:area_square_m":41553584.622779,
+    "geom:area_square_m":41553584.622783,
     "geom:bbox":"10.1668658683,43.910872933,10.2754802115,44.0134257096",
     "geom:latitude":43.960055,
     "geom:longitude":10.220115,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046024",
+        "eurostat:nuts_2021_id":"046024",
         "gn:id":6539960,
         "gp:id":12677821,
         "qs_pg:id":1095050
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"718861ad9b6010e88bb68964531e65cb",
+    "wof:geomhash":"6a8bdda5f7cc7bd9e3e4786018c535e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404472661,
-    "wof:lastmodified":1582327889,
+    "wof:lastmodified":1684353967,
     "wof:name":"Pietrasanta",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":23542,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

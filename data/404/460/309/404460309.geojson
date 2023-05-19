@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camandona",
+    "eurostat:nuts_2021_id":"096009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096009",
+    "eurostat:population":320,
+    "eurostat:population_year":2020,
     "geom:area":0.001063,
-    "geom:area_square_m":9185033.083939,
+    "geom:area_square_m":9185033.083938,
     "geom:bbox":"8.04558222192,45.6266114719,8.11785449973,45.7133518035",
     "geom:latitude":45.670171,
     "geom:longitude":8.083283,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096009",
+        "eurostat:nuts_2021_id":"096009",
         "gn:id":6542810,
         "gp:id":20075956,
         "qs_pg:id":1181298
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cedc7ca3d5fdc8108d473e065ba12996",
+    "wof:geomhash":"24131f2657c27806497f145023b4f56a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460309,
-    "wof:lastmodified":1582327993,
+    "wof:lastmodified":1684353715,
     "wof:name":"Camandona",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":320,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

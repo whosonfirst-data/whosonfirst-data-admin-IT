@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azzate",
+    "eurostat:nuts_2021_id":"012006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012006",
+    "eurostat:population":4691,
+    "eurostat:population_year":2020,
     "geom:area":0.000522,
     "geom:area_square_m":4499354.890621,
     "geom:bbox":"8.77417643432,45.7574911443,8.8066077565,45.797718501",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012006",
+        "eurostat:nuts_2021_id":"012006",
         "gn:id":6536477,
         "gp:id":12676383,
         "qs_pg:id":987796
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f51c216c713b8a7232ce18fe3f26575",
+    "wof:geomhash":"e2726ba46cd5da18f2cc48acf1eb753e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459403,
-    "wof:lastmodified":1582328176,
+    "wof:lastmodified":1684353693,
     "wof:name":"Azzate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":4691,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

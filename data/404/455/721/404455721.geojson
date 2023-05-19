@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piasco",
+    "eurostat:nuts_2021_id":"004166",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004166",
+    "eurostat:population":2750,
+    "eurostat:population_year":2020,
     "geom:area":0.001204,
     "geom:area_square_m":10604187.065655,
     "geom:bbox":"7.42051904897,44.5544183831,7.47821075135,44.5839652902",
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004166",
+        "eurostat:nuts_2021_id":"004166",
         "gn:id":6540943,
         "gp:id":12681058,
         "qs_pg:id":342121
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1f91811fa8466d44eb959c08bb9dea8",
+    "wof:geomhash":"fb206d048c8e074bb897ce243e7204f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404455721,
-    "wof:lastmodified":1582327822,
+    "wof:lastmodified":1684353609,
     "wof:name":"Piasco",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2750,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

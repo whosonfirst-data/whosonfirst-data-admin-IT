@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_074015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pancrazio Salentino",
+    "eurostat:nuts_2021_id":"074015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF44",
+    "eurostat:nuts_2021_level_lau":"074015",
+    "eurostat:population":9655,
+    "eurostat:population_year":2020,
     "geom:area":0.005938,
-    "geom:area_square_m":55886277.257777,
+    "geom:area_square_m":55886277.257783,
     "geom:bbox":"17.7713943396,40.3795958644,17.894620048,40.4770118922",
     "geom:latitude":40.430549,
     "geom:longitude":17.826369,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_074015",
+        "eurostat:nuts_2021_id":"074015",
         "gn:id":6537577,
         "gp:id":12681727,
         "qs_pg:id":1293237
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"236a74a212afc9dd30d79bae6d62f87a",
+    "wof:geomhash":"36b395c7d200f3dd3b7faedb7729cb16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404456935,
-    "wof:lastmodified":1582328060,
+    "wof:lastmodified":1684353637,
     "wof:name":"San Pancrazio Salentino",
     "wof:parent_id":85685543,
     "wof:placetype":"localadmin",
+    "wof:population":9655,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

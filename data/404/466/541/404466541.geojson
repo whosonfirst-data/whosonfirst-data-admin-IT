@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marianopoli",
+    "eurostat:nuts_2021_id":"085008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085008",
+    "eurostat:population":1737,
+    "eurostat:population_year":2020,
     "geom:area":0.001329,
-    "geom:area_square_m":13015047.547348,
+    "geom:area_square_m":13015047.547344,
     "geom:bbox":"13.8624224452,37.5850658505,13.9305875116,37.6193639902",
     "geom:latitude":37.600597,
     "geom:longitude":13.89649,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085008",
+        "eurostat:nuts_2021_id":"085008",
         "gn:id":6539178,
         "gp:id":12680173,
         "qs_pg:id":1187937
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c196a8a1f7b45f42963868e58eadbdac",
+    "wof:geomhash":"6c04e5ca7c1401a3e71d9e2ec443533b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404466541,
-    "wof:lastmodified":1582328210,
+    "wof:lastmodified":1684353851,
     "wof:name":"Marianopoli",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":1737,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

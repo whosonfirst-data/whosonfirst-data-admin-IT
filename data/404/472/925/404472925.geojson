@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montescudaio",
+    "eurostat:nuts_2021_id":"050020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050020",
+    "eurostat:population":2133,
+    "eurostat:population_year":2020,
     "geom:area":0.002247,
     "geom:area_square_m":20208385.800972,
     "geom:bbox":"10.5322309385,43.3094345056,10.6472190751,43.3480373559",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050020",
+        "eurostat:nuts_2021_id":"050020",
         "gn:id":6543027,
         "gp:id":12679408,
         "qs_pg:id":1187921
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0705f31041f691cb86ca54ce42919789",
+    "wof:geomhash":"89c45e6e65d0bac45f4884479e6c2d20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404472925,
-    "wof:lastmodified":1582327893,
+    "wof:lastmodified":1684353973,
     "wof:name":"Montescudaio",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":2133,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

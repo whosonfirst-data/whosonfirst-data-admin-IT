@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grosotto",
+    "eurostat:nuts_2021_id":"014034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014034",
+    "eurostat:population":1670,
+    "eurostat:population_year":2020,
     "geom:area":0.006206,
     "geom:area_square_m":53024533.676249,
     "geom:bbox":"10.1380442791,46.2596551564,10.3161305832,46.3315786556",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014034",
+        "eurostat:nuts_2021_id":"014034",
         "gn:id":6536126,
         "gp:id":12677677,
         "qs_pg:id":39807
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cb9a04de686d429a1cdfb3317ff99c0",
+    "wof:geomhash":"eab58b34cf30e611bc7fe796c4ef090c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468189,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353885,
     "wof:name":"Grosotto",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":1670,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

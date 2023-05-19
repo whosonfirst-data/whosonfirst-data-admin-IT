@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camporgiano",
+    "eurostat:nuts_2021_id":"046006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046006",
+    "eurostat:population":2106,
+    "eurostat:population_year":2020,
     "geom:area":0.003049,
-    "geom:area_square_m":27052807.772108,
+    "geom:area_square_m":27052807.772107,
     "geom:bbox":"10.2707231493,44.1096781977,10.3832307948,44.1758558939",
     "geom:latitude":44.147788,
     "geom:longitude":10.326894,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046006",
+        "eurostat:nuts_2021_id":"046006",
         "gn:id":6541080,
         "gp:id":12677469,
         "qs_pg:id":891648
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f60150e397ff9e54bdaa5838f3c82539",
+    "wof:geomhash":"0983fd12ff21243064862033d0129956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472621,
-    "wof:lastmodified":1582327882,
+    "wof:lastmodified":1684353966,
     "wof:name":"Camporgiano",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":2106,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Budoia",
+    "eurostat:nuts_2021_id":"093008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093008",
+    "eurostat:population":2559,
+    "eurostat:population_year":2020,
     "geom:area":0.004339,
-    "geom:area_square_m":37231348.099945,
+    "geom:area_square_m":37231348.099948,
     "geom:bbox":"12.4547046155,46.0123938302,12.5756229577,46.1144229418",
     "geom:latitude":46.063143,
     "geom:longitude":12.515983,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093008",
+        "eurostat:nuts_2021_id":"093008",
         "gn:id":6537927,
         "gp:id":12677164,
         "qs_pg:id":489976
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4357551e34be3642707e4c0165a0fbd",
+    "wof:geomhash":"4609fe5755c95a222845c75845d9272b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459117,
-    "wof:lastmodified":1582328166,
+    "wof:lastmodified":1684353686,
     "wof:name":"Budoia",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":2559,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

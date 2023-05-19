@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecarotto",
+    "eurostat:nuts_2021_id":"042026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042026",
+    "eurostat:population":1886,
+    "eurostat:population_year":2020,
     "geom:area":0.002711,
-    "geom:area_square_m":24295858.746949,
+    "geom:area_square_m":24295858.746955,
     "geom:bbox":"13.0257829221,43.5007824626,13.1257790679,43.5815318892",
     "geom:latitude":43.541629,
     "geom:longitude":13.082213,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042026",
+        "eurostat:nuts_2021_id":"042026",
         "gn:id":6541058,
         "gp:id":12680483,
         "qs_pg:id":1019494
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7bcec83f8f15e5d40f6d089a66012a5",
+    "wof:geomhash":"e0401b0f6471b7a21abdb60fdbbdcd05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459909,
-    "wof:lastmodified":1582328152,
+    "wof:lastmodified":1684353704,
     "wof:name":"Montecarotto",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":1886,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

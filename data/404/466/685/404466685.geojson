@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cassaro",
+    "eurostat:nuts_2021_id":"089007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089007",
+    "eurostat:population":751,
+    "eurostat:population_year":2020,
     "geom:area":0.001976,
-    "geom:area_square_m":19489914.817127,
+    "geom:area_square_m":19489914.817125,
     "geom:bbox":"14.90746595,37.0845628669,14.9998364339,37.1199543391",
     "geom:latitude":37.101463,
     "geom:longitude":14.956449,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089007",
+        "eurostat:nuts_2021_id":"089007",
         "gn:id":6541773,
         "gp:id":12679236,
         "qs_pg:id":223840
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ebf5eb306bb65780c289f0687998c90",
+    "wof:geomhash":"73742ba375edc7424ccc6f197c6c28e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466685,
-    "wof:lastmodified":1582328202,
+    "wof:lastmodified":1684353855,
     "wof:name":"Cassaro",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":751,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Tolle",
+    "eurostat:nuts_2021_id":"029039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029039",
+    "eurostat:population":9415,
+    "eurostat:population_year":2020,
     "geom:area":0.029249,
-    "geom:area_square_m":256076790.998448,
+    "geom:area_square_m":256076790.998446,
     "geom:bbox":"12.2996838888,44.7975603017,12.551894014,45.0370117645",
     "geom:latitude":44.923949,
     "geom:longitude":12.420661,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029039",
+        "eurostat:nuts_2021_id":"029039",
         "gn:id":6542019,
         "gp:id":12676890,
         "qs_pg:id":902519
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78f0abd3a4a5a84de4fff90ff3e5d274",
+    "wof:geomhash":"5329d97ef3027c3265d87d4012d656c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470409,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353921,
     "wof:name":"Porto Tolle",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":9415,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

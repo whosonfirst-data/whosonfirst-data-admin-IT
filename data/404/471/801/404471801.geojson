@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dolceacqua",
+    "eurostat:nuts_2021_id":"008029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008029",
+    "eurostat:population":2068,
+    "eurostat:population_year":2020,
     "geom:area":0.002272,
-    "geom:area_square_m":20256609.867474,
+    "geom:area_square_m":20256609.867473,
     "geom:bbox":"7.5626690617,43.836552923,7.65162166769,43.9024155063",
     "geom:latitude":43.86665,
     "geom:longitude":7.616059,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008029",
+        "eurostat:nuts_2021_id":"008029",
         "gn:id":6536072,
         "gp:id":12677924,
         "qs_pg:id":50892
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b1a846c2ca547f26cad30693862f2b9",
+    "wof:geomhash":"de3ca1b922de6117d8463c6161c593e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471801,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353946,
     "wof:name":"Dolceacqua",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":2068,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

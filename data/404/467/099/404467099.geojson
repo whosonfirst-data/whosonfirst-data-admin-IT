@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siris",
+    "eurostat:nuts_2021_id":"095061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095061",
+    "eurostat:population":224,
+    "eurostat:population_year":2020,
     "geom:area":0.000631,
-    "geom:area_square_m":6003696.798833,
+    "geom:area_square_m":6003696.798832,
     "geom:bbox":"8.74547009115,39.7093320798,8.78796980112,39.7302922282",
     "geom:latitude":39.720584,
     "geom:longitude":8.76803,
@@ -86,6 +98,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -94,6 +108,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095061",
+        "eurostat:nuts_2021_id":"095061",
         "gn:id":6537980,
         "gp:id":12682025,
         "qs_pg:id":42728
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"53a7a4f41d2aee77768c86afc59bcc44",
+    "wof:geomhash":"d8182557f1a1be7a168de54c333a09bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404467099,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353865,
     "wof:name":"Siris",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":224,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

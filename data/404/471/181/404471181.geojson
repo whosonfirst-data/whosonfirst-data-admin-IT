@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mura",
+    "eurostat:nuts_2021_id":"017115",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017115",
+    "eurostat:population":780,
+    "eurostat:population_year":2020,
     "geom:area":0.001446,
-    "geom:area_square_m":12484462.305223,
+    "geom:area_square_m":12484462.305224,
     "geom:bbox":"10.3098246599,45.6985564702,10.3784655701,45.7329260426",
     "geom:latitude":45.715014,
     "geom:longitude":10.341637,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017115",
+        "eurostat:nuts_2021_id":"017115",
         "gn:id":6539626,
         "gp:id":12680632,
         "qs_pg:id":204121
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46cf3abafdd36eb287cacc5731767244",
+    "wof:geomhash":"804d3e6946bb39ed057743eee648cd21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404471181,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353935,
     "wof:name":"Mura",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":780,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

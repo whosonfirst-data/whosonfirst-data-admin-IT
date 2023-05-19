@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montechiarugolo",
+    "eurostat:nuts_2021_id":"034023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034023",
+    "eurostat:population":11160,
+    "eurostat:population_year":2020,
     "geom:area":0.005476,
-    "geom:area_square_m":48125601.150024,
+    "geom:area_square_m":48125601.150018,
     "geom:bbox":"10.3307692135,44.6658593125,10.4473899464,44.7484260296",
     "geom:latitude":44.704298,
     "geom:longitude":10.392813,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034023",
+        "eurostat:nuts_2021_id":"034023",
         "gn:id":6538425,
         "gp:id":12676613,
         "qs_pg:id":332238
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a261e8e25e23c15b53ab57b1f1ecdbff",
+    "wof:geomhash":"bdb813c42b3fefae0c05c472327e8d71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467583,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353876,
     "wof:name":"Montechiarugolo",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":11160,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

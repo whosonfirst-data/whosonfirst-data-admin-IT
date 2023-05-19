@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgo Valsugana",
+    "eurostat:nuts_2021_id":"022022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022022",
+    "eurostat:population":6998,
+    "eurostat:population_year":2020,
     "geom:area":0.006083,
-    "geom:area_square_m":52237659.264058,
+    "geom:area_square_m":52237659.264062,
     "geom:bbox":"11.3604916775,45.980085906,11.4929677092,46.0658123376",
     "geom:latitude":46.014963,
     "geom:longitude":11.434591,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022022",
+        "eurostat:nuts_2021_id":"022022",
         "gn:id":6536031,
         "gp:id":12676930,
         "qs_pg:id":1112524
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b66197d8c6ff7444d12c0ba989501acc",
+    "wof:geomhash":"37ee78a4b62a77a10b4b65930ecf473c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404473345,
-    "wof:lastmodified":1582327933,
+    "wof:lastmodified":1684353987,
     "wof:name":"Borgo Valsugana",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":6998,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

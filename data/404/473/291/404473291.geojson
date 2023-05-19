@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verano/V\u00f6ran",
+    "eurostat:nuts_2021_id":"021112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021112",
+    "eurostat:population":973,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
-    "geom:area_square_m":21955121.286815,
+    "geom:area_square_m":21955121.286802,
     "geom:bbox":"11.2021424572,46.5900634232,11.2946115668,46.6547438075",
     "geom:latitude":46.621135,
     "geom:longitude":11.246675,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021112",
+        "eurostat:nuts_2021_id":"021112",
         "gp:id":12679158,
         "qs_pg:id":321510
     },
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"834eadf97e870402495d8c1764b68a58",
+    "wof:geomhash":"4dc30482d0f1c58f018bea7d6962de44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404473291,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353985,
     "wof:name":"Verano",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":973,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

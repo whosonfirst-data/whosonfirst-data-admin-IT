@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarre",
+    "eurostat:nuts_2021_id":"007066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007066",
+    "eurostat:population":4856,
+    "eurostat:population_year":2020,
     "geom:area":0.003271,
-    "geom:area_square_m":28225036.879839,
+    "geom:area_square_m":28225036.879841,
     "geom:bbox":"7.18635050421,45.7101817605,7.28936203977,45.7777865664",
     "geom:latitude":45.747232,
     "geom:longitude":7.240557,
@@ -107,6 +119,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -115,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007066",
+        "eurostat:nuts_2021_id":"007066",
         "gn:id":6542789,
         "gp:id":12682175,
         "qs_pg:id":1122977
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5985d90af4ca64778d36309bf96f1f15",
+    "wof:geomhash":"5dbd332c816351aa7b918d2e6a8dcfaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404459371,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353692,
     "wof:name":"Sarre",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":4856,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

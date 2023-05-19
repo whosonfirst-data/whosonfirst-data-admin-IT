@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bressanone/Brixen",
+    "eurostat:nuts_2021_id":"021011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021011",
+    "eurostat:population":22572,
+    "eurostat:population_year":2020,
     "geom:area":0.00996,
-    "geom:area_square_m":84467284.731889,
+    "geom:area_square_m":84467284.731896,
     "geom:bbox":"11.5840827966,46.6576879074,11.793914561,46.749256397",
     "geom:latitude":46.699547,
     "geom:longitude":11.684115,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021011",
+        "eurostat:nuts_2021_id":"021011",
         "gp:id":12675910,
         "qs_pg:id":59594
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbb4f16204dafa5334dec2f3639db4eb",
+    "wof:geomhash":"089c1e68214d2cc4e2dae292f46550ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473069,
-    "wof:lastmodified":1582327931,
+    "wof:lastmodified":1684353977,
     "wof:name":"Bressanone",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":22572,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

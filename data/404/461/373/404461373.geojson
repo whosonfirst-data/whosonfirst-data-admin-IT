@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantalupo in Sabina",
+    "eurostat:nuts_2021_id":"057010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057010",
+    "eurostat:population":1652,
+    "eurostat:population_year":2020,
     "geom:area":0.001158,
     "geom:area_square_m":10590181.051476,
     "geom:bbox":"12.6084463238,42.2813207731,12.6619862575,42.3296221339",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_057010",
+        "eurostat:nuts_2021_id":"057010"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"87334a56a20be1a3ba698241f2bbf78d",
+    "wof:geomhash":"ee576195bb2e347c74b999571fc59bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404461373,
-    "wof:lastmodified":1566723717,
+    "wof:lastmodified":1684353737,
     "wof:name":"Cantalupo In Sabina",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":1652,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

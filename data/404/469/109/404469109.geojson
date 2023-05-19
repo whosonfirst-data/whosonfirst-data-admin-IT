@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Commessaggio",
+    "eurostat:nuts_2021_id":"020020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020020",
+    "eurostat:population":1113,
+    "eurostat:population_year":2020,
     "geom:area":0.001331,
-    "geom:area_square_m":11628740.441128,
+    "geom:area_square_m":11628740.441131,
     "geom:bbox":"10.5306587411,45.0193204448,10.6027789462,45.0571977476",
     "geom:latitude":45.037074,
     "geom:longitude":10.565899,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020020",
+        "eurostat:nuts_2021_id":"020020",
         "gn:id":6536589,
         "gp:id":12678843,
         "qs_pg:id":1263095
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de728ce0c2ff78a5a0debd174dc61ab3",
+    "wof:geomhash":"5b89b4bff43e67055daa4e88dff59d16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469109,
-    "wof:lastmodified":1582328034,
+    "wof:lastmodified":1684353899,
     "wof:name":"Commessaggio",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":1113,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

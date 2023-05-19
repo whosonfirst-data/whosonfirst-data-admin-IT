@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varna/Vahrn",
+    "eurostat:nuts_2021_id":"021111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021111",
+    "eurostat:population":4794,
+    "eurostat:population_year":2020,
     "geom:area":0.008279,
-    "geom:area_square_m":70148468.362138,
+    "geom:area_square_m":70148457.94777,
     "geom:bbox":"11.485058,46.706175,11.658282,46.781731",
     "geom:latitude":46.745862,
     "geom:longitude":11.570227,
@@ -291,6 +303,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -299,6 +313,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021111",
+        "eurostat:nuts_2021_id":"021111",
         "gp:id":12680706,
         "qs_pg:id":322201
     },
@@ -306,7 +322,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6aa060aa589e494a07a5ca21256f1316",
+    "wof:geomhash":"158b45b681cdf510a2151bc35a28346a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,10 +333,12 @@
         }
     ],
     "wof:id":404473289,
-    "wof:lastmodified":1636496851,
+    "wof:lastmodified":1684353985,
     "wof:name":"Varna",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":4794,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

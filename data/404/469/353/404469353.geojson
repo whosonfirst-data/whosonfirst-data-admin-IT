@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olgiate Molgora",
+    "eurostat:nuts_2021_id":"097058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097058",
+    "eurostat:population":6443,
+    "eurostat:population_year":2020,
     "geom:area":0.00082,
-    "geom:area_square_m":7080027.623017,
+    "geom:area_square_m":7080027.623019,
     "geom:bbox":"9.38474688459,45.7036002866,9.42212375217,45.7495406516",
     "geom:latitude":45.730383,
     "geom:longitude":9.399221,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097058",
+        "eurostat:nuts_2021_id":"097058",
         "gn:id":3180789,
         "gp:id":12677529,
         "qs_pg:id":261247
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11a9f23851a779ef5d174bbed3f30ac6",
+    "wof:geomhash":"795478401a25525bd8fc274709fc2ea0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469353,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353903,
     "wof:name":"Olgiate Molgora",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":6443,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

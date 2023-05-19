@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valsolda",
+    "eurostat:nuts_2021_id":"013234",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013234",
+    "eurostat:population":1499,
+    "eurostat:population_year":2020,
     "geom:area":0.003692,
-    "geom:area_square_m":31690315.099054,
+    "geom:area_square_m":31690315.099052,
     "geom:bbox":"9.00724412449,45.993497366,9.10150340765,46.0653060091",
     "geom:latitude":46.03513,
     "geom:longitude":9.051007,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013234",
+        "eurostat:nuts_2021_id":"013234",
         "gp:id":12680790,
         "qs_pg:id":1084017
     },
@@ -146,7 +162,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d31f52e97ca5c260fc74b8dc8a8b426",
+    "wof:geomhash":"87da6fc71ee0866a97def4a09c7675ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404458269,
-    "wof:lastmodified":1582327945,
+    "wof:lastmodified":1684353667,
     "wof:name":"Valsolda",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1499,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

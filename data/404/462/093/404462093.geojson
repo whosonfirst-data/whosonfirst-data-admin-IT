@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bugnara",
+    "eurostat:nuts_2021_id":"066012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066012",
+    "eurostat:population":1077,
+    "eurostat:population_year":2020,
     "geom:area":0.002722,
-    "geom:area_square_m":25005152.60594,
+    "geom:area_square_m":25005152.605946,
     "geom:bbox":"13.8229729505,41.9671201165,13.8909336829,42.0501721648",
     "geom:latitude":42.016379,
     "geom:longitude":13.853309,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066012",
+        "eurostat:nuts_2021_id":"066012",
         "gn:id":6543623,
         "gp:id":20076878,
         "qs_pg:id":265547
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39796c94162e47f0b7bc6ce27b5342ff",
+    "wof:geomhash":"c6d8e1bafed97dacc97605212e2803d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462093,
-    "wof:lastmodified":1582327871,
+    "wof:lastmodified":1684353752,
     "wof:name":"Bugnara",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":1077,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sassuolo",
+    "eurostat:nuts_2021_id":"036040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036040",
+    "eurostat:population":40834,
+    "eurostat:population_year":2020,
     "geom:area":0.004349,
-    "geom:area_square_m":38337026.529225,
+    "geom:area_square_m":38337026.529212,
     "geom:bbox":"10.7211570465,44.4866166512,10.8151067488,44.6069690833",
     "geom:latitude":44.533404,
     "geom:longitude":10.778309,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036040",
+        "eurostat:nuts_2021_id":"036040",
         "gn:id":6536733,
         "gp:id":12681897,
         "qs_pg:id":885829
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88c096c2cb3d98614cafac8fb23b28f1",
+    "wof:geomhash":"9296a1ef5c01504ec358b833cfd1ac85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404472207,
-    "wof:lastmodified":1582327902,
+    "wof:lastmodified":1684353954,
     "wof:name":"Sassuolo",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":40834,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aprilia",
+    "eurostat:nuts_2021_id":"059001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059001",
+    "eurostat:population":74961,
+    "eurostat:population_year":2020,
     "geom:area":0.019201,
-    "geom:area_square_m":177605244.916448,
+    "geom:area_square_m":177605244.916457,
     "geom:bbox":"12.5302216633,41.4977827434,12.7718106046,41.6718928142",
     "geom:latitude":41.578545,
     "geom:longitude":12.656266,
@@ -119,6 +131,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -127,6 +141,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059001",
+        "eurostat:nuts_2021_id":"059001",
         "gn:id":6541135,
         "gp:id":12676162,
         "qs_pg:id":1059583
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a86cc343b4d2625bc1184821f151ea9",
+    "wof:geomhash":"e6a3c29dee3b2b484429e3a553bb1d12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404461789,
-    "wof:lastmodified":1582328150,
+    "wof:lastmodified":1684353746,
     "wof:name":"Aprilia",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":74961,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

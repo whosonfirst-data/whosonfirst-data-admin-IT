@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Sant'Angelo",
+    "eurostat:nuts_2021_id":"071033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071033",
+    "eurostat:population":11969,
+    "eurostat:population_year":2020,
     "geom:area":0.026335,
-    "geom:area_square_m":242983715.936077,
+    "geom:area_square_m":242983715.93602,
     "geom:bbox":"15.8017446426,41.6378403927,16.0771343744,41.8312117272",
     "geom:latitude":41.738672,
     "geom:longitude":15.944306,
@@ -185,6 +197,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -193,6 +207,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071033",
+        "eurostat:nuts_2021_id":"071033",
         "gn:id":6541731,
         "gp:id":12680473,
         "qs_pg:id":248536
@@ -201,7 +217,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f850f4b2d79046e4dbca75eaf189579",
+    "wof:geomhash":"8703f7978ee8ad2e272a64dd6722bc75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,10 +228,12 @@
         }
     ],
     "wof:id":404458915,
-    "wof:lastmodified":1582327947,
+    "wof:lastmodified":1684353681,
     "wof:name":"Monte Sant'Angelo",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":11969,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

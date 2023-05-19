@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macello",
+    "eurostat:nuts_2021_id":"001142",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001142",
+    "eurostat:population":1158,
+    "eurostat:population_year":2020,
     "geom:area":0.00161,
-    "geom:area_square_m":14116768.310755,
+    "geom:area_square_m":14116768.310757,
     "geom:bbox":"7.37504752824,44.8335829489,7.45121892371,44.8638688523",
     "geom:latitude":44.849598,
     "geom:longitude":7.415695,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001142",
+        "eurostat:nuts_2021_id":"001142",
         "gn:id":6543385,
         "qs_pg:id":1245024
     },
@@ -155,7 +171,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7cd06216fb7b69c28d9c4e87a038afd6",
+    "wof:geomhash":"454b46eac43e39198970c704dd78d685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":404456493,
-    "wof:lastmodified":1582328065,
+    "wof:lastmodified":1684353626,
     "wof:name":"Macello",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1158,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

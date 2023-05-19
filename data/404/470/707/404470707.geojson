@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolmezzo",
+    "eurostat:nuts_2021_id":"030121",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030121",
+    "eurostat:population":10090,
+    "eurostat:population_year":2020,
     "geom:area":0.007551,
-    "geom:area_square_m":64361945.719427,
+    "geom:area_square_m":64361945.719423,
     "geom:bbox":"12.9606030861,46.3818100991,13.112235881,46.4641297603",
     "geom:latitude":46.425036,
     "geom:longitude":13.036556,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030121",
+        "eurostat:nuts_2021_id":"030121",
         "gn:id":6540405,
         "gp:id":12679756,
         "qs_pg:id":351992
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"358da4ff382343d06e2a73f8f6b7fd61",
+    "wof:geomhash":"db9a252414f2e7ee6484ecde2879a0c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404470707,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353926,
     "wof:name":"Tolmezzo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":10090,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

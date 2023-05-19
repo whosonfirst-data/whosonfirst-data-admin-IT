@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tavernole sul Mella",
+    "eurostat:nuts_2021_id":"017183",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017183",
+    "eurostat:population":1250,
+    "eurostat:population_year":2020,
     "geom:area":0.002292,
-    "geom:area_square_m":19773111.17262,
+    "geom:area_square_m":19773111.172623,
     "geom:bbox":"10.1632424868,45.7245475487,10.2516928683,45.7712181454",
     "geom:latitude":45.750819,
     "geom:longitude":10.213238,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017183",
+        "eurostat:nuts_2021_id":"017183",
         "gn:id":6536374,
         "gp:id":12679901,
         "qs_pg:id":976578
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9144574333a2d00ed5f568e8a1f64f0",
+    "wof:geomhash":"cd16f240ae726edac8aec613e22d1089",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404471335,
-    "wof:lastmodified":1582327723,
+    "wof:lastmodified":1684353938,
     "wof:name":"Tavernole Sul Mella",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1250,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

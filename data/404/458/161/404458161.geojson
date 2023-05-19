@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Preci",
+    "eurostat:nuts_2021_id":"054043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054043",
+    "eurostat:population":714,
+    "eurostat:population_year":2020,
     "geom:area":0.00902,
-    "geom:area_square_m":81749124.778725,
+    "geom:area_square_m":81749124.778739,
     "geom:bbox":"12.9596544846,42.8141863255,13.1127688957,42.9201621329",
     "geom:latitude":42.864049,
     "geom:longitude":13.036403,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054043",
+        "eurostat:nuts_2021_id":"054043",
         "gn:id":6538617,
         "gp:id":12675717,
         "qs_pg:id":1153683
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b6ea3466b34dc2e4e67115206210d2b",
+    "wof:geomhash":"8a5338a9b338789f52ffad802c21636c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404458161,
-    "wof:lastmodified":1582327937,
+    "wof:lastmodified":1684353665,
     "wof:name":"Preci",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":714,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

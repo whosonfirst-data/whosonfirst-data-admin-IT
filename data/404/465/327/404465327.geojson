@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montemiletto",
+    "eurostat:nuts_2021_id":"064059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064059",
+    "eurostat:population":5175,
+    "eurostat:population_year":2020,
     "geom:area":0.002303,
-    "geom:area_square_m":21495087.540256,
+    "geom:area_square_m":21495087.540252,
     "geom:bbox":"14.8604932383,40.9791621224,14.9477436672,41.029361567",
     "geom:latitude":41.004097,
     "geom:longitude":14.905789,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064059",
+        "eurostat:nuts_2021_id":"064059",
         "gn:id":6538791,
         "gp:id":20076945,
         "qs_pg:id":908112
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"faddfd2e995fd536e35588f0f8707f72",
+    "wof:geomhash":"ef7bf208304f0346a3a51a072a99c599",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465327,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353830,
     "wof:name":"Montemiletto",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":5175,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

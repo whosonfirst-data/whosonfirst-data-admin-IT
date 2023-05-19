@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morterone",
+    "eurostat:nuts_2021_id":"097055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097055",
+    "eurostat:population":30,
+    "eurostat:population_year":2020,
     "geom:area":0.00159,
-    "geom:area_square_m":13688428.402289,
+    "geom:area_square_m":13688428.402287,
     "geom:bbox":"9.44304499793,45.8582304794,9.52406653508,45.9011547267",
     "geom:latitude":45.881263,
     "geom:longitude":9.479866,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097055",
+        "eurostat:nuts_2021_id":"097055",
         "gn:id":6541979,
         "gp:id":12680606,
         "qs_pg:id":103820
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a4103b2181ab9eb4774c0e594b465a3",
+    "wof:geomhash":"90e4d44db539bb8147f1c6b25567cbff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469345,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353903,
     "wof:name":"Morterone",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":30,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

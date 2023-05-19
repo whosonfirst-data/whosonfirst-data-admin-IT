@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontedera",
+    "eurostat:nuts_2021_id":"050029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050029",
+    "eurostat:population":29647,
+    "eurostat:population_year":2020,
     "geom:area":0.005135,
-    "geom:area_square_m":45944051.022028,
+    "geom:area_square_m":45944051.022038,
     "geom:bbox":"10.5707111796,43.6098921327,10.7063517015,43.6808695961",
     "geom:latitude":43.646649,
     "geom:longitude":10.646826,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050029",
+        "eurostat:nuts_2021_id":"050029",
         "gn:id":6536839,
         "gp:id":12681215,
         "qs_pg:id":1079233
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"620f15bf1f0e21867976692b02fac4ce",
+    "wof:geomhash":"976028748fd7c8d93a90e55302e5d565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404472945,
-    "wof:lastmodified":1582327908,
+    "wof:lastmodified":1684353973,
     "wof:name":"Pontedera",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":29647,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

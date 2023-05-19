@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abetone Cutigliano",
+    "eurostat:nuts_2021_id":"047023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047023",
+    "eurostat:population":2033,
+    "eurostat:population_year":2020,
     "geom:area":0.003487,
-    "geom:area_square_m":30947918.439063,
+    "geom:area_square_m":30947918.439066,
     "geom:bbox":"10.6209760954,44.106721724,10.7219781092,44.1600682132",
     "geom:latitude":44.133612,
     "geom:longitude":10.667099,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047023",
+        "eurostat:nuts_2021_id":"047023",
         "gn:id":6541084,
         "gp:id":12679182,
         "qs_pg:id":231979
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fca223a1ce4e2a2416a6458f5f05dff0",
+    "wof:geomhash":"62cb49ee6f87b5b60d4f29f3be7f30c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404472689,
-    "wof:lastmodified":1582327883,
+    "wof:lastmodified":1684353967,
     "wof:name":"Abetone",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":2033,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

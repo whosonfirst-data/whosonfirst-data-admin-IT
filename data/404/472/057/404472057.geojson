@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carpaneto Piacentino",
+    "eurostat:nuts_2021_id":"033011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033011",
+    "eurostat:population":7669,
+    "eurostat:population_year":2020,
     "geom:area":0.007191,
-    "geom:area_square_m":62987048.08896,
+    "geom:area_square_m":62987048.088954,
     "geom:bbox":"9.732125294,44.8306973573,9.85074762991,44.9617893953",
     "geom:latitude":44.899123,
     "geom:longitude":9.796834,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033011",
+        "eurostat:nuts_2021_id":"033011",
         "gn:id":6538411,
         "gp:id":12677383,
         "qs_pg:id":1013102
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83e65b71408200517f5b6a34ed4e200b",
+    "wof:geomhash":"70be8e0746c3bb895fd2c773c65aea2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472057,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353951,
     "wof:name":"Carpaneto Piacentino",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":7669,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

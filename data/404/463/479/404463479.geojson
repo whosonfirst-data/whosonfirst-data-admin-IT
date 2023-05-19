@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peglio",
+    "eurostat:nuts_2021_id":"013178",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013178",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.001233,
-    "geom:area_square_m":10557446.131023,
+    "geom:area_square_m":10557446.131024,
     "geom:bbox":"9.25155685158,46.1537579469,9.30499236356,46.2041299418",
     "geom:latitude":46.18147,
     "geom:longitude":9.276821,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013178",
+        "eurostat:nuts_2021_id":"013178",
         "gn:id":6542511,
         "gp:id":20076119,
         "qs_pg:id":1321734
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0c273993be2731fd7e5ea6acfc4fb40",
+    "wof:geomhash":"7c1bebcb6ac6344ad845bcc8ebb7513e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404463479,
-    "wof:lastmodified":1582327767,
+    "wof:lastmodified":1684353781,
     "wof:name":"Peglio",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

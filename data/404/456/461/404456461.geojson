@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanzo Torinese",
+    "eurostat:nuts_2021_id":"001128",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001128",
+    "eurostat:population":4986,
+    "eurostat:population_year":2020,
     "geom:area":0.00118,
-    "geom:area_square_m":10269462.277635,
+    "geom:area_square_m":10269462.277636,
     "geom:bbox":"7.44690852305,45.2523135185,7.50354568058,45.2913611136",
     "geom:latitude":45.275393,
     "geom:longitude":7.480188,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001128",
+        "eurostat:nuts_2021_id":"001128",
         "gn:id":6540911,
         "gp:id":12679865,
         "qs_pg:id":537170
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"016f6edbe7e97d316b5bd9a4fc971f62",
+    "wof:geomhash":"f85f4442a8adfb974acadba303b26831",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456461,
-    "wof:lastmodified":1582328067,
+    "wof:lastmodified":1684353625,
     "wof:name":"Lanzo Torinese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4986,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

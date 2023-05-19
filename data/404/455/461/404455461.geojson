@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelletto Uzzone",
+    "eurostat:nuts_2021_id":"004050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004050",
+    "eurostat:population":317,
+    "eurostat:population_year":2020,
     "geom:area":0.001682,
-    "geom:area_square_m":14838960.099796,
+    "geom:area_square_m":14838960.099797,
     "geom:bbox":"8.16069272523,44.4676098674,8.22335416234,44.5187825984",
     "geom:latitude":44.492496,
     "geom:longitude":8.189841,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004050",
+        "eurostat:nuts_2021_id":"004050",
         "gn:id":3179627,
         "gp:id":12678261,
         "qs_pg:id":40178
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28820a255be5f95ebbf92a79d15acaff",
+    "wof:geomhash":"27a3dc219de19ade07f9cb634814a665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455461,
-    "wof:lastmodified":1582327821,
+    "wof:lastmodified":1684353604,
     "wof:name":"Castelletto Uzzone",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":317,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

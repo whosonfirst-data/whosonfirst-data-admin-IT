@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grigno",
+    "eurostat:nuts_2021_id":"022095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022095",
+    "eurostat:population":2136,
+    "eurostat:population_year":2020,
     "geom:area":0.005385,
     "geom:area_square_m":46262123.745907,
     "geom:bbox":"11.5772914393,45.9606266888,11.6900642462,46.0317428503",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022095",
+        "eurostat:nuts_2021_id":"022095",
         "gn:id":6539503,
         "gp:id":12679683,
         "qs_pg:id":1263126
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2aa30784677503b4209cd0c4e6a6efb3",
+    "wof:geomhash":"dc66fc31f1fe9696a624ec7ad48d7186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473505,
-    "wof:lastmodified":1582327912,
+    "wof:lastmodified":1684353990,
     "wof:name":"Grigno",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":2136,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

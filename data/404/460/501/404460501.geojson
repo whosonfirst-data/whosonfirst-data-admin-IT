@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fonni",
+    "eurostat:nuts_2021_id":"091024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091024",
+    "eurostat:population":3834,
+    "eurostat:population_year":2020,
     "geom:area":0.011867,
-    "geom:area_square_m":112241740.192693,
+    "geom:area_square_m":112241740.192714,
     "geom:bbox":"9.2124838875,40.0310604656,9.36168784175,40.1689411398",
     "geom:latitude":40.098561,
     "geom:longitude":9.283923,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091024",
+        "eurostat:nuts_2021_id":"091024",
         "gn:id":6539252,
         "gp:id":12679322,
         "qs_pg:id":248741
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2655cb407552242b7ff3fd9b2a551e74",
+    "wof:geomhash":"c47cadc89cd424d665469557eacc57e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404460501,
-    "wof:lastmodified":1582328009,
+    "wof:lastmodified":1684353719,
     "wof:name":"Fonni",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":3834,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

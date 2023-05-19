@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnaria Arsa",
+    "eurostat:nuts_2021_id":"030008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030008",
+    "eurostat:population":3428,
+    "eurostat:population_year":2020,
     "geom:area":0.002224,
-    "geom:area_square_m":19150781.619392,
+    "geom:area_square_m":19150781.619391,
     "geom:bbox":"13.2732917744,45.825936391,13.333960127,45.896386661",
     "geom:latitude":45.866036,
     "geom:longitude":13.300133,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030008",
+        "eurostat:nuts_2021_id":"030008",
         "gn:id":6542179,
         "gp:id":12677460,
         "qs_pg:id":39681
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"358112194130d6d447aef4f3e9e17ee2",
+    "wof:geomhash":"04bc35c4f5107cf4cdf4d09d2bb16bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470457,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353922,
     "wof:name":"Bagnaria Arsa",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":3428,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

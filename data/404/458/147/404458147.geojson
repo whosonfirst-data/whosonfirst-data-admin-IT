@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Panicale",
+    "eurostat:nuts_2021_id":"054037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054037",
+    "eurostat:population":5509,
+    "eurostat:population_year":2020,
     "geom:area":0.008716,
-    "geom:area_square_m":78772742.789656,
+    "geom:area_square_m":78772742.789662,
     "geom:bbox":"12.0698251312,42.9829214822,12.2023884329,43.1170318411",
     "geom:latitude":43.039399,
     "geom:longitude":12.13145,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054037",
+        "eurostat:nuts_2021_id":"054037",
         "gn:id":6536878,
         "gp:id":12678282,
         "qs_pg:id":468050
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88e0a00b2e185109cfd896f5e503f41e",
+    "wof:geomhash":"21b60ba22598647b319e449ea829881c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458147,
-    "wof:lastmodified":1582327963,
+    "wof:lastmodified":1684353665,
     "wof:name":"Panicale",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":5509,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

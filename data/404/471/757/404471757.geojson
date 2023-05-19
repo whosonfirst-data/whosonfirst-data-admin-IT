@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgomaro",
+    "eurostat:nuts_2021_id":"008010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008010",
+    "eurostat:population":835,
+    "eurostat:population_year":2020,
     "geom:area":0.00263,
     "geom:area_square_m":23405482.954717,
     "geom:bbox":"7.86149368223,43.9511317613,7.97108132564,44.0046614394",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008010",
+        "eurostat:nuts_2021_id":"008010",
         "gn:id":6540549,
         "gp:id":20076412,
         "qs_pg:id":1149900
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"456170a38ee8069d77c0238aecb931e4",
+    "wof:geomhash":"7b5352679e8c627ed25efbabc51507ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471757,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353945,
     "wof:name":"Borgomaro",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":835,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

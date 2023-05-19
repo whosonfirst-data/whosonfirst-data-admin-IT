@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piario",
+    "eurostat:nuts_2021_id":"016163",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016163",
+    "eurostat:population":1065,
+    "eurostat:population_year":2020,
     "geom:area":0.000179,
     "geom:area_square_m":1542448.772873,
     "geom:bbox":"9.9102625523,45.8843742062,9.93422379405,45.9004608806",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016163",
+        "eurostat:nuts_2021_id":"016163",
         "gn:id":6542562,
         "gp:id":12678731,
         "qs_pg:id":1019749
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"94cc88d8ef4ec580c14a81f0db9e46ed",
+    "wof:geomhash":"425c4ad04dbcdd7008c9ebaa49e80a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466065,
-    "wof:lastmodified":1582328190,
+    "wof:lastmodified":1684353842,
     "wof:name":"Piario",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1065,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

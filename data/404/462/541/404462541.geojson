@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canosa Sannita",
+    "eurostat:nuts_2021_id":"069010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069010",
+    "eurostat:population":1306,
+    "eurostat:population_year":2020,
     "geom:area":0.001513,
-    "geom:area_square_m":13837797.855239,
+    "geom:area_square_m":13837797.85524,
     "geom:bbox":"14.2638838246,42.2570921769,14.3217860501,42.3215924596",
     "geom:latitude":42.289428,
     "geom:longitude":14.294829,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069010",
+        "eurostat:nuts_2021_id":"069010",
         "gn:id":6541703,
         "gp:id":12677527,
         "qs_pg:id":1009290
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"26d25dbda0b1d94f5e6f570b3e99535e",
+    "wof:geomhash":"5a7354a98c42f4114ba4b8bebf15e79d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462541,
-    "wof:lastmodified":1582327874,
+    "wof:lastmodified":1684353760,
     "wof:name":"Canosa Sannita",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":1306,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

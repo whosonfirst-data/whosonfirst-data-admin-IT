@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carpeneto",
+    "eurostat:nuts_2021_id":"006033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006033",
+    "eurostat:population":931,
+    "eurostat:population_year":2020,
     "geom:area":0.001516,
-    "geom:area_square_m":13322233.923772,
+    "geom:area_square_m":13322233.923773,
     "geom:bbox":"8.59221587487,44.6607011088,8.64383466931,44.7219485966",
     "geom:latitude":44.691846,
     "geom:longitude":8.61575,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006033",
+        "eurostat:nuts_2021_id":"006033",
         "gn:id":6534872,
         "gp:id":12682582,
         "qs_pg:id":1143843
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a19a24eaeef9bf4c156ec9a61cae1120",
+    "wof:geomhash":"88bb6c0a590331ceb56ff2c02931b208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404460049,
-    "wof:lastmodified":1582328000,
+    "wof:lastmodified":1684353708,
     "wof:name":"Carpeneto",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":931,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

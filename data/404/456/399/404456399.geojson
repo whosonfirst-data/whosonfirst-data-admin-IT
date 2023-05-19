@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Exilles",
+    "eurostat:nuts_2021_id":"001100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001100",
+    "eurostat:population":238,
+    "eurostat:population_year":2020,
     "geom:area":0.005323,
-    "geom:area_square_m":46453089.120599,
+    "geom:area_square_m":46453089.120597,
     "geom:bbox":"6.84803832713,45.0602851291,6.97078242764,45.1448066245",
     "geom:latitude":45.10647,
     "geom:longitude":6.918943,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001100",
+        "eurostat:nuts_2021_id":"001100",
         "gn:id":6538057,
         "gp:id":12676792,
         "qs_pg:id":39240
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ed7f68c0a63c010371f92e61af9b51a",
+    "wof:geomhash":"a0ae8fa807c3ac9c0ccee10511d520d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404456399,
-    "wof:lastmodified":1582328048,
+    "wof:lastmodified":1684353623,
     "wof:name":"Exilles",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":238,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

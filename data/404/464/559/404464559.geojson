@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gioiosa Ionica",
+    "eurostat:nuts_2021_id":"080039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080039",
+    "eurostat:population":7045,
+    "eurostat:population_year":2020,
     "geom:area":0.003684,
-    "geom:area_square_m":35716839.181195,
+    "geom:area_square_m":35716839.181185,
     "geom:bbox":"16.2804211917,38.3125218375,16.3523166986,38.4029529323",
     "geom:latitude":38.357564,
     "geom:longitude":16.315684,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080039",
+        "eurostat:nuts_2021_id":"080039",
         "gn:id":6540814,
         "gp:id":12679567,
         "qs_pg:id":1060868
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"860e6ebf98a7ec5a56ab491f83fef5f4",
+    "wof:geomhash":"763c68432269f820834c2f8ed2fe78a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464559,
-    "wof:lastmodified":1582327793,
+    "wof:lastmodified":1684353809,
     "wof:name":"Gioiosa Ionica",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":7045,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

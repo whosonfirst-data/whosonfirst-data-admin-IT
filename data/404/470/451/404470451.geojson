@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arta Terme",
+    "eurostat:nuts_2021_id":"030005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030005",
+    "eurostat:population":2068,
+    "eurostat:population_year":2020,
     "geom:area":0.005003,
-    "geom:area_square_m":42595497.925121,
+    "geom:area_square_m":42595497.92512,
     "geom:bbox":"12.9848966871,46.4494834279,13.1383190381,46.5085214267",
     "geom:latitude":46.479674,
     "geom:longitude":13.064524,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030005",
+        "eurostat:nuts_2021_id":"030005",
         "gn:id":6538361,
         "gp:id":12678091,
         "qs_pg:id":1193798
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e909a8e8b0a41277f5d022df99f765a",
+    "wof:geomhash":"0624647a341e49a213959276309b134b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470451,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353922,
     "wof:name":"Arta Terme",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2068,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

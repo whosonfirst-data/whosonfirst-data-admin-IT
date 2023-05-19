@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Popoli",
+    "eurostat:nuts_2021_id":"068033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068033",
+    "eurostat:population":4880,
+    "eurostat:population_year":2020,
     "geom:area":0.003806,
-    "geom:area_square_m":34878127.697513,
+    "geom:area_square_m":34878127.697512,
     "geom:bbox":"13.7892956668,42.1426787641,13.8989706021,42.1980640454",
     "geom:latitude":42.170997,
     "geom:longitude":13.838807,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068033",
+        "eurostat:nuts_2021_id":"068033",
         "gn:id":6539828,
         "gp:id":12677204,
         "qs_pg:id":1095037
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"317361bc9dc8ac1b39f76d0f80df5a1d",
+    "wof:geomhash":"97c51dea04fc85a8f1f1bd678292ae7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462489,
-    "wof:lastmodified":1582327869,
+    "wof:lastmodified":1684353759,
     "wof:name":"Popoli",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":4880,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

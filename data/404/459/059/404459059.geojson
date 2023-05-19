@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andali",
+    "eurostat:nuts_2021_id":"079005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079005",
+    "eurostat:population":690,
+    "eurostat:population_year":2020,
     "geom:area":0.001838,
-    "geom:area_square_m":17668545.289993,
+    "geom:area_square_m":17668545.29,
     "geom:bbox":"16.7536288063,38.9519949119,16.8522186204,39.0281073432",
     "geom:latitude":38.987941,
     "geom:longitude":16.807114,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079005",
+        "eurostat:nuts_2021_id":"079005"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cf435311a4c5f4a6671a96a8d888fd26",
+    "wof:geomhash":"76a31f52f888f06154f1916aaf2f5c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404459059,
-    "wof:lastmodified":1566723752,
+    "wof:lastmodified":1684353685,
     "wof:name":"Andali",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":690,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

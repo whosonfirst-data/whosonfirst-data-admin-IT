@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olgiate Comasco",
+    "eurostat:nuts_2021_id":"013165",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013165",
+    "eurostat:population":11810,
+    "eurostat:population_year":2020,
     "geom:area":0.00127,
-    "geom:area_square_m":10947692.111226,
+    "geom:area_square_m":10947692.111225,
     "geom:bbox":"8.9409723627,45.762165587,8.99537694003,45.8020686048",
     "geom:latitude":45.785942,
     "geom:longitude":8.970057,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013165",
+        "eurostat:nuts_2021_id":"013165",
         "gn:id":6541490,
         "gp:id":12680749,
         "qs_pg:id":1143243
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae892314c424311372701f62d949072e",
+    "wof:geomhash":"18883d87649847747915b9239b4e407e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404463469,
-    "wof:lastmodified":1582327783,
+    "wof:lastmodified":1684353781,
     "wof:name":"Olgiate Comasco",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":11810,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

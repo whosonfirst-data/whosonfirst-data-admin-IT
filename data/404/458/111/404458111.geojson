@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giano dell'Umbria",
+    "eurostat:nuts_2021_id":"054021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054021",
+    "eurostat:population":3813,
+    "eurostat:population_year":2020,
     "geom:area":0.004891,
-    "geom:area_square_m":44344577.535175,
+    "geom:area_square_m":44344577.535173,
     "geom:bbox":"12.5255082061,42.8006245039,12.6240967905,42.8778208537",
     "geom:latitude":42.838792,
     "geom:longitude":12.577199,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054021",
+        "eurostat:nuts_2021_id":"054021",
         "gn:id":6536357,
         "gp:id":12676628,
         "qs_pg:id":1314147
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62cb0467c28fd9d47df0bb5987e790b1",
+    "wof:geomhash":"1a87af9d6f2a0beeb3acce2cd70d63b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458111,
-    "wof:lastmodified":1582327947,
+    "wof:lastmodified":1684353663,
     "wof:name":"Giano Dell'Umbria",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":3813,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fonte",
+    "eurostat:nuts_2021_id":"026029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026029",
+    "eurostat:population":6011,
+    "eurostat:population_year":2020,
     "geom:area":0.001688,
     "geom:area_square_m":14556561.542277,
     "geom:bbox":"11.8453694496,45.7541605178,11.8961184646,45.8158287536",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026029",
+        "eurostat:nuts_2021_id":"026029",
         "gn:id":6542662,
         "gp:id":12677227,
         "qs_pg:id":261253
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87ee665f5f802c546012425cfc8ed2c4",
+    "wof:geomhash":"4b7f7ab33f28cfc88460b2ae1b8a5fdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404470059,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353915,
     "wof:name":"Fonte",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":6011,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

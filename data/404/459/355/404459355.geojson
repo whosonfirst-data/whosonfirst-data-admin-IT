@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Denis",
+    "eurostat:nuts_2021_id":"007059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007059",
+    "eurostat:population":374,
+    "eurostat:population_year":2020,
     "geom:area":0.001318,
     "geom:area_square_m":11366421.265923,
     "geom:bbox":"7.53652795698,45.7446747389,7.60704078286,45.7846768183",
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007059",
+        "eurostat:nuts_2021_id":"007059",
         "gn:id":6535989,
         "qs_pg:id":1037326
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"079885df140f80550620191f755e9283",
+    "wof:geomhash":"2795deca1edfab5d4e66f5bc4e120c7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":404459355,
-    "wof:lastmodified":1582328155,
+    "wof:lastmodified":1684353692,
     "wof:name":"Saint-Denis",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":374,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

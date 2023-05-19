@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galgagnano",
+    "eurostat:nuts_2021_id":"098027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098027",
+    "eurostat:population":1288,
+    "eurostat:population_year":2020,
     "geom:area":0.000691,
-    "geom:area_square_m":6002146.547191,
+    "geom:area_square_m":6002146.547192,
     "geom:bbox":"9.43211099743,45.3450390877,9.4818817497,45.3698320819",
     "geom:latitude":45.35629,
     "geom:longitude":9.454318,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098027",
+        "eurostat:nuts_2021_id":"098027",
         "gn:id":6543685,
         "gp:id":20076399,
         "qs_pg:id":262708
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bb2bad83515f134544524e589da545d",
+    "wof:geomhash":"ca982867cf4c1e4a356aad77a18834b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469485,
-    "wof:lastmodified":1582328026,
+    "wof:lastmodified":1684353905,
     "wof:name":"Galgagnano",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":1288,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albaredo Arnaboldi",
+    "eurostat:nuts_2021_id":"018002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018002",
+    "eurostat:population":240,
+    "eurostat:population_year":2020,
     "geom:area":0.001002,
     "geom:area_square_m":8743695.36979,
     "geom:bbox":"9.2129978482,45.0916694691,9.26868223836,45.136199316",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018002",
+        "eurostat:nuts_2021_id":"018002",
         "gn:id":6542784,
         "gp:id":20076284,
         "qs_pg:id":1149890
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b90e7eee8c26a33e89eb96e1bc5208eb",
+    "wof:geomhash":"6881c7c69f392d05e0b5ffa189864e36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459965,
-    "wof:lastmodified":1582328154,
+    "wof:lastmodified":1684353706,
     "wof:name":"Albaredo Arnaboldi",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":240,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

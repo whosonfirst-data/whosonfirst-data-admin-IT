@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondaino",
+    "eurostat:nuts_2021_id":"099006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099006",
+    "eurostat:population":1355,
+    "eurostat:population_year":2020,
     "geom:area":0.002217,
-    "geom:area_square_m":19775249.731359,
+    "geom:area_square_m":19775249.73136,
     "geom:bbox":"12.6100581255,43.8209216492,12.6836945536,43.8774623574",
     "geom:latitude":43.844486,
     "geom:longitude":12.652002,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099006",
+        "eurostat:nuts_2021_id":"099006"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e2fcb05f09923dfb388c48f5ccc51750",
+    "wof:geomhash":"87be540be042c68c4b97b9c820196326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404472539,
-    "wof:lastmodified":1566723368,
+    "wof:lastmodified":1684353964,
     "wof:name":"Mondaino",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":1355,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

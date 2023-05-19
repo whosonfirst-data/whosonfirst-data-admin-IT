@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faggeto Lario",
+    "eurostat:nuts_2021_id":"013098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013098",
+    "eurostat:population":1162,
+    "eurostat:population_year":2020,
     "geom:area":0.002032,
-    "geom:area_square_m":17495939.218983,
+    "geom:area_square_m":17495939.218981,
     "geom:bbox":"9.13668611161,45.835840286,9.20759897246,45.8800383161",
     "geom:latitude":45.857562,
     "geom:longitude":9.170918,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013098",
+        "eurostat:nuts_2021_id":"013098",
         "gn:id":6542535,
         "gp:id":20076099,
         "qs_pg:id":50484
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa7fb778ac317ccb9db18dae9787ba41",
+    "wof:geomhash":"15cbd48e22bccc7538df13f6c0681ef0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468077,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353883,
     "wof:name":"Faggeto Lario",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1162,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

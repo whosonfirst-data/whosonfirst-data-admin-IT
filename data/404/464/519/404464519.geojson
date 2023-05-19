@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caraffa del Bianco",
+    "eurostat:nuts_2021_id":"080021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080021",
+    "eurostat:population":483,
+    "eurostat:population_year":2020,
     "geom:area":0.001167,
-    "geom:area_square_m":11356170.151333,
+    "geom:area_square_m":11356170.151337,
     "geom:bbox":"16.0830630459,38.037091373,16.1192888307,38.1002144509",
     "geom:latitude":38.068439,
     "geom:longitude":16.100965,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080021",
+        "eurostat:nuts_2021_id":"080021",
         "gn:id":6541311,
         "gp:id":20077006,
         "qs_pg:id":51062
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"304fb6b9cc9a6ac520135289956b5169",
+    "wof:geomhash":"0d23f377103811eb7d9852a7fee8cad9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404464519,
-    "wof:lastmodified":1582327798,
+    "wof:lastmodified":1684353808,
     "wof:name":"Caraffa Del Bianco",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":483,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

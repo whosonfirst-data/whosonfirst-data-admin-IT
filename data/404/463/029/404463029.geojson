@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dragoni",
+    "eurostat:nuts_2021_id":"061033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061033",
+    "eurostat:population":2081,
+    "eurostat:population_year":2020,
     "geom:area":0.002759,
-    "geom:area_square_m":25647221.493687,
+    "geom:area_square_m":25647221.493684,
     "geom:bbox":"14.2697081638,41.2264473784,14.3449028535,41.2966688504",
     "geom:latitude":41.265103,
     "geom:longitude":14.305264,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061033",
+        "eurostat:nuts_2021_id":"061033",
         "gn:id":6540282,
         "gp:id":12679120,
         "qs_pg:id":312988
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3926451d521dd52995d4fa86f09f55b6",
+    "wof:geomhash":"c2393e7d987c641422bd5ae318feaf0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463029,
-    "wof:lastmodified":1582327781,
+    "wof:lastmodified":1684353771,
     "wof:name":"Dragoni",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":2081,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

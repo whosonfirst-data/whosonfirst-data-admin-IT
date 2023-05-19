@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quiliano",
+    "eurostat:nuts_2021_id":"009052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009052",
+    "eurostat:population":7051,
+    "eurostat:population_year":2020,
     "geom:area":0.005633,
-    "geom:area_square_m":49856733.688374,
+    "geom:area_square_m":49856733.68837,
     "geom:bbox":"8.31460506388,44.2534464143,8.44153526064,44.3371649081",
     "geom:latitude":44.295307,
     "geom:longitude":8.374924,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009052",
+        "eurostat:nuts_2021_id":"009052",
         "gn:id":6540558,
         "gp:id":12681310,
         "qs_pg:id":248789
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3fc33cfe3b5c438b2c8c113a9462f230",
+    "wof:geomhash":"5975ce8e23263bf321ab42ca4b1b0233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404467507,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353875,
     "wof:name":"Quiliano",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":7051,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

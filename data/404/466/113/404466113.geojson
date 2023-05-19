@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roncola",
+    "eurostat:nuts_2021_id":"016185",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016185",
+    "eurostat:population":801,
+    "eurostat:population_year":2020,
     "geom:area":0.000587,
-    "geom:area_square_m":5059548.772681,
+    "geom:area_square_m":5059548.772682,
     "geom:bbox":"9.51627576345,45.7674016058,9.56906918557,45.7933107484",
     "geom:latitude":45.778474,
     "geom:longitude":9.54528,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016185",
+        "eurostat:nuts_2021_id":"016185",
         "gn:id":6543166,
         "gp:id":20076220,
         "qs_pg:id":1317409
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f6a1bb063390620adb39212348e9fa7",
+    "wof:geomhash":"286b3bbcec9c764ce8a503cc7d81e5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466113,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353843,
     "wof:name":"Roncola",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":801,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

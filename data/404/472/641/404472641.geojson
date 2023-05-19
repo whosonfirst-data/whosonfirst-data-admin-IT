@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallicano",
+    "eurostat:nuts_2021_id":"046015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046015",
+    "eurostat:population":3618,
+    "eurostat:population_year":2020,
     "geom:area":0.003488,
-    "geom:area_square_m":30995423.775374,
+    "geom:area_square_m":30995423.775375,
     "geom:bbox":"10.3866953116,44.0148076103,10.4928638958,44.1061568077",
     "geom:latitude":44.048804,
     "geom:longitude":10.438488,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046015",
+        "eurostat:nuts_2021_id":"046015",
         "gn:id":6541081,
         "gp:id":12676865,
         "qs_pg:id":1015568
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb263eba8e5711a941fc8622552ac4a1",
+    "wof:geomhash":"c08db4af322abbf3ba11be4a6cb0ddb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472641,
-    "wof:lastmodified":1582327901,
+    "wof:lastmodified":1684353966,
     "wof:name":"Gallicano",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":3618,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

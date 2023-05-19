@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerro al Volturno",
+    "eurostat:nuts_2021_id":"094014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094014",
+    "eurostat:population":1200,
+    "eurostat:population_year":2020,
     "geom:area":0.002562,
-    "geom:area_square_m":23670538.552963,
+    "geom:area_square_m":23670538.552959,
     "geom:bbox":"14.0791425726,41.6204489497,14.148721346,41.6947805976",
     "geom:latitude":41.659643,
     "geom:longitude":14.111211,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094014",
+        "eurostat:nuts_2021_id":"094014",
         "gn:id":6539341,
         "gp:id":12678534,
         "qs_pg:id":245066
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b840379e6b8e4a826fa924f33c3cadc",
+    "wof:geomhash":"a130e0364eceeb36e46d168f7e6526da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404462869,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353767,
     "wof:name":"Cerro Al Volturno",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":1200,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

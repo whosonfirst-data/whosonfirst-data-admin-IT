@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocchetta Nervina",
+    "eurostat:nuts_2021_id":"008051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008051",
+    "eurostat:population":296,
+    "eurostat:population_year":2020,
     "geom:area":0.001713,
-    "geom:area_square_m":15263328.136114,
+    "geom:area_square_m":15263328.136113,
     "geom:bbox":"7.55718300611,43.8786324926,7.6180152372,43.9498662836",
     "geom:latitude":43.912219,
     "geom:longitude":7.585517,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008051",
+        "eurostat:nuts_2021_id":"008051",
         "gn:id":6536079,
         "gp:id":12681453,
         "qs_pg:id":1315746
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a66a8459c2fd668a32bd79acf401eb2",
+    "wof:geomhash":"86937ba39f9e8d8efec70b2cc2c0acc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471851,
-    "wof:lastmodified":1582327717,
+    "wof:lastmodified":1684353947,
     "wof:name":"Rocchetta Nervina",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":296,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

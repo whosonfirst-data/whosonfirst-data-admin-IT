@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Stefano Ticino",
+    "eurostat:nuts_2021_id":"015200",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015200",
+    "eurostat:population":5033,
+    "eurostat:population_year":2020,
     "geom:area":0.000572,
-    "geom:area_square_m":4958686.415354,
+    "geom:area_square_m":4958686.415355,
     "geom:bbox":"8.89076091342,45.4785799768,8.93459249368,45.5026466116",
     "geom:latitude":45.488136,
     "geom:longitude":8.913297,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015200",
+        "eurostat:nuts_2021_id":"015200",
         "gn:id":6536521,
         "gp:id":12681873,
         "qs_pg:id":948616
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5471dc83b914b91d525e6ba5d028b578",
+    "wof:geomhash":"fdb79ab4de3f5d35b6230f2496e8bad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468537,
-    "wof:lastmodified":1582328084,
+    "wof:lastmodified":1684353890,
     "wof:name":"Santo Stefano Ticino",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":5033,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barano d'Ischia",
+    "eurostat:nuts_2021_id":"063007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063007",
+    "eurostat:population":10062,
+    "eurostat:population_year":2020,
     "geom:area":0.001164,
-    "geom:area_square_m":10910647.75503,
+    "geom:area_square_m":10910647.755033,
     "geom:bbox":"13.8968123599,40.697110936,13.9561072,40.739569547",
     "geom:latitude":40.716396,
     "geom:longitude":13.923813,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063007",
+        "eurostat:nuts_2021_id":"063007",
         "gn:id":6541679,
         "gp:id":12676533,
         "qs_pg:id":1252075
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d521ac86eec07f9c1a0701435d030266",
+    "wof:geomhash":"6d0fae54111fc76fca4dbdef6ada9253",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460883,
-    "wof:lastmodified":1582328012,
+    "wof:lastmodified":1684353726,
     "wof:name":"Barano D'Ischia",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":10062,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

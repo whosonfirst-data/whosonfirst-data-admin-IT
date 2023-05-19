@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varena",
+    "eurostat:nuts_2021_id":"022211",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022211",
+    "eurostat:population":842,
+    "eurostat:population_year":2020,
     "geom:area":0.002695,
-    "geom:area_square_m":23009841.021751,
+    "geom:area_square_m":23009841.021754,
     "geom:bbox":"11.4489206985,46.2920095176,11.5261068356,46.36415025",
     "geom:latitude":46.329708,
     "geom:longitude":11.479351,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022211",
+        "eurostat:nuts_2021_id":"022211",
         "gn:id":6542695,
         "gp:id":20076660,
         "qs_pg:id":52042
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62574f709ecf6e3750b445ca0fecc6d1",
+    "wof:geomhash":"093e8fc5128ff98da4a8cc7bdb9bb8aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471717,
-    "wof:lastmodified":1582327732,
+    "wof:lastmodified":1684353944,
     "wof:name":"Varena",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":842,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

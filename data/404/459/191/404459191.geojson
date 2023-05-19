@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gagliano Castelferrato",
+    "eurostat:nuts_2021_id":"086010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086010",
+    "eurostat:population":3460,
+    "eurostat:population_year":2020,
     "geom:area":0.005718,
-    "geom:area_square_m":55927065.915196,
+    "geom:area_square_m":55927065.915194,
     "geom:bbox":"14.4811141917,37.6727504111,14.5859522626,37.7666283576",
     "geom:latitude":37.717434,
     "geom:longitude":14.534554,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086010",
+        "eurostat:nuts_2021_id":"086010",
         "gn:id":6539188,
         "gp:id":12679454,
         "qs_pg:id":1102124
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d21b93addfe1ef11dfd12ff820ad6e3",
+    "wof:geomhash":"5d944a9bd65141268f40fedf4a03179d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459191,
-    "wof:lastmodified":1582328167,
+    "wof:lastmodified":1684353688,
     "wof:name":"Gagliano Castelferrato",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":3460,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

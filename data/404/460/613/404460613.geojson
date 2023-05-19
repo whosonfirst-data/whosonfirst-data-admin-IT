@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domus de Maria",
+    "eurostat:nuts_2021_id":"111015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111015",
+    "eurostat:population":1655,
+    "eurostat:population_year":2020,
     "geom:area":0.010102,
-    "geom:area_square_m":97141472.376665,
+    "geom:area_square_m":97141472.376664,
     "geom:bbox":"8.76996949186,38.8757502472,8.9119947827,39.0472662555",
     "geom:latitude":38.951884,
     "geom:longitude":8.854305,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111015",
+        "eurostat:nuts_2021_id":"111015",
         "gn:id":6539278,
         "gp:id":12676817,
         "qs_pg:id":39253
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"966698ce08cb90e33af2486ccd53c4d8",
+    "wof:geomhash":"59593472722bd51ca6170a7c6dab77ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460613,
-    "wof:lastmodified":1582328011,
+    "wof:lastmodified":1684353722,
     "wof:name":"Domus De Maria",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1655,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caselle in Pittari",
+    "eurostat:nuts_2021_id":"065029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065029",
+    "eurostat:population":1894,
+    "eurostat:population_year":2020,
     "geom:area":0.004785,
-    "geom:area_square_m":45198583.95353,
+    "geom:area_square_m":45198583.953528,
     "geom:bbox":"15.4801014863,40.1501330495,15.595237764,40.2190285049",
     "geom:latitude":40.186032,
     "geom:longitude":15.53711,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065029",
+        "eurostat:nuts_2021_id":"065029"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"33c20f715deeb35d571a6ba3bc3774f9",
+    "wof:geomhash":"0400e405aaef8cd2399c0c69913b2aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404465527,
-    "wof:lastmodified":1566723288,
+    "wof:lastmodified":1684353833,
     "wof:name":"Caselle In Pittari",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":1894,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casagiove",
+    "eurostat:nuts_2021_id":"061018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061018",
+    "eurostat:population":13502,
+    "eurostat:population_year":2020,
     "geom:area":0.000678,
-    "geom:area_square_m":6323621.903774,
+    "geom:area_square_m":6323621.903773,
     "geom:bbox":"14.2873201959,41.0630501859,14.3212092302,41.1075458637",
     "geom:latitude":41.083938,
     "geom:longitude":14.305942,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061018",
+        "eurostat:nuts_2021_id":"061018",
         "gn:id":6542334,
         "gp:id":12681530,
         "qs_pg:id":899902
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b5b0c128b3589fa05dc38d2bc0b1a29",
+    "wof:geomhash":"4ffd296798a6ad8a5033cd603dc88650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462995,
-    "wof:lastmodified":1582327863,
+    "wof:lastmodified":1684353770,
     "wof:name":"Casagiove",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":13502,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

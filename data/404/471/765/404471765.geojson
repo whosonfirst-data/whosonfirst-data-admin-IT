@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalto Carpasio",
+    "eurostat:nuts_2021_id":"008068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008068",
+    "eurostat:population":498,
+    "eurostat:population_year":2020,
     "geom:area":0.001828,
     "geom:area_square_m":16269723.711479,
     "geom:bbox":"7.82902877597,43.9326615613,7.88803138547,43.9869563521",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008068",
+        "eurostat:nuts_2021_id":"008068",
         "gn:id":6537034,
         "gp:id":12676294,
         "qs_pg:id":998616
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"750d07b81cb4a44499bcf68b1a6f4bdd",
+    "wof:geomhash":"7365e890450708370ee4ccdc910b1ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471765,
-    "wof:lastmodified":1582327711,
+    "wof:lastmodified":1684353945,
     "wof:name":"Carpasio",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":498,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

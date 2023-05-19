@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cesano Boscone",
+    "eurostat:nuts_2021_id":"015074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015074",
+    "eurostat:population":23966,
+    "eurostat:population_year":2020,
     "geom:area":0.000453,
-    "geom:area_square_m":3933118.779177,
+    "geom:area_square_m":3933118.779175,
     "geom:bbox":"9.06847887421,45.4275108757,9.10547555489,45.4532043221",
     "geom:latitude":45.441356,
     "geom:longitude":9.08716,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015074",
+        "eurostat:nuts_2021_id":"015074",
         "gn:id":6542351,
         "gp:id":12678559,
         "qs_pg:id":203931
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"105f3af208165e9104ed7994e2f033bd",
+    "wof:geomhash":"c87068d7833ad831617a31dec2554c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468373,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353888,
     "wof:name":"Cesano Boscone",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":23966,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

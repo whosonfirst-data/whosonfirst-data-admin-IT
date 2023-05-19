@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001290",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vauda Canavese",
+    "eurostat:nuts_2021_id":"001290",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001290",
+    "eurostat:population":1452,
+    "eurostat:population_year":2020,
     "geom:area":0.000814,
-    "geom:area_square_m":7080998.496726,
+    "geom:area_square_m":7080998.496729,
     "geom:bbox":"7.58651410275,45.2545551259,7.66472339269,45.3057064478",
     "geom:latitude":45.27784,
     "geom:longitude":7.638243,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001290",
+        "eurostat:nuts_2021_id":"001290",
         "gn:id":6542404,
         "gp:id":20076528,
         "qs_pg:id":50747
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e7946e7f139699dbf520afc5852ad4c",
+    "wof:geomhash":"e81cc356b60c63cbd8f070145c3ce379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457395,
-    "wof:lastmodified":1582328108,
+    "wof:lastmodified":1684353649,
     "wof:name":"Vauda Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1452,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

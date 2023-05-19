@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artegna",
+    "eurostat:nuts_2021_id":"030006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030006",
+    "eurostat:population":2885,
+    "eurostat:population_year":2020,
     "geom:area":0.001307,
-    "geom:area_square_m":11174392.978482,
+    "geom:area_square_m":11174392.978481,
     "geom:bbox":"13.1137060473,46.2164831121,13.1705421139,46.2613605504",
     "geom:latitude":46.23934,
     "geom:longitude":13.145836,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030006",
+        "eurostat:nuts_2021_id":"030006",
         "gn:id":6542082,
         "gp:id":12676281,
         "qs_pg:id":246410
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76bb6943090becebae51db7285334f27",
+    "wof:geomhash":"2e2a45e17bd52fc11bfa5890eafb81ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470453,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353922,
     "wof:name":"Artegna",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2885,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

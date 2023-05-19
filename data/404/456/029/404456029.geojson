@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontanile",
+    "eurostat:nuts_2021_id":"005054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005054",
+    "eurostat:population":551,
+    "eurostat:population_year":2020,
     "geom:area":0.000925,
-    "geom:area_square_m":8119115.075075,
+    "geom:area_square_m":8119115.075073,
     "geom:bbox":"8.39138692859,44.7292806454,8.44349694837,44.7684441987",
     "geom:latitude":44.74742,
     "geom:longitude":8.412026,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005054",
+        "eurostat:nuts_2021_id":"005054",
         "gn:id":6538176,
         "gp:id":12679334,
         "qs_pg:id":468933
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31d2b3db6367dce8652a2e8b3b83d457",
+    "wof:geomhash":"c5b9660518ab8e792eed4c60b96aaf4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456029,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353615,
     "wof:name":"Fontanile",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":551,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

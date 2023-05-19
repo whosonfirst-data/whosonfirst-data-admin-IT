@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Briosco",
+    "eurostat:nuts_2021_id":"108011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108011",
+    "eurostat:population":6091,
+    "eurostat:population_year":2020,
     "geom:area":0.000765,
-    "geom:area_square_m":6602854.461572,
+    "geom:area_square_m":6602854.461571,
     "geom:bbox":"9.22983516398,45.6958708081,9.26882617625,45.7334829233",
     "geom:latitude":45.717125,
     "geom:longitude":9.246489,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108011",
+        "eurostat:nuts_2021_id":"108011",
         "gn:id":6542921,
         "gp:id":20076543,
         "qs_pg:id":103828
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b74ed0a383f22807704962b5aa66b478",
+    "wof:geomhash":"5c5559369539b1f8fa351253225b2ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469587,
-    "wof:lastmodified":1582328033,
+    "wof:lastmodified":1684353906,
     "wof:name":"Briosco",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":6091,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

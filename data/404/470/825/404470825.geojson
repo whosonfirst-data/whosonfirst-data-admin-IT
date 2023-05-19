@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Airole",
+    "eurostat:nuts_2021_id":"008001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008001",
+    "eurostat:population":370,
+    "eurostat:population_year":2020,
     "geom:area":0.001639,
-    "geom:area_square_m":14606250.011964,
+    "geom:area_square_m":14606250.011961,
     "geom:bbox":"7.53511508985,43.846440935,7.58434141721,43.9006340905",
     "geom:latitude":43.872902,
     "geom:longitude":7.56199,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008001",
+        "eurostat:nuts_2021_id":"008001",
         "gn:id":6536063,
         "gp:id":12678050,
         "qs_pg:id":910993
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d79226d1b4151b4ed9d770cd80c3266",
+    "wof:geomhash":"9face6ff486b94a8bc1a69429c983d71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470825,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353928,
     "wof:name":"Airole",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":370,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

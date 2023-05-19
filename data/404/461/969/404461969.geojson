@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Patrica",
+    "eurostat:nuts_2021_id":"060048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060048",
+    "eurostat:population":3125,
+    "eurostat:population_year":2020,
     "geom:area":0.002942,
-    "geom:area_square_m":27207837.049874,
+    "geom:area_square_m":27207837.049872,
     "geom:bbox":"13.2103249228,41.5592723657,13.2978136429,41.6267523529",
     "geom:latitude":41.591766,
     "geom:longitude":13.256929,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060048",
+        "eurostat:nuts_2021_id":"060048",
         "gn:id":6536988,
         "gp:id":12680949,
         "qs_pg:id":332725
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dada7def016f96ed9a95f9c56dfacd1d",
+    "wof:geomhash":"9e817c2aa65a8de51510ba44f8a0a466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461969,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353750,
     "wof:name":"Patrica",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":3125,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

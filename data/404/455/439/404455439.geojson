@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caraglio",
+    "eurostat:nuts_2021_id":"004040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004040",
+    "eurostat:population":6801,
+    "eurostat:population_year":2020,
     "geom:area":0.004712,
-    "geom:area_square_m":41609849.386684,
+    "geom:area_square_m":41609849.38668,
     "geom:bbox":"7.38874163539,44.3920646184,7.48877454616,44.4634332552",
     "geom:latitude":44.427104,
     "geom:longitude":7.440419,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004040",
+        "eurostat:nuts_2021_id":"004040",
         "gn:id":6539563,
         "gp:id":12677636,
         "qs_pg:id":946946
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"519cece660cfaeea39813f2e7001d945",
+    "wof:geomhash":"b06cc26aed000f19348f15c6a0400af9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455439,
-    "wof:lastmodified":1582327813,
+    "wof:lastmodified":1684353603,
     "wof:name":"Caraglio",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":6801,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

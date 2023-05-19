@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardore",
+    "eurostat:nuts_2021_id":"080005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080005",
+    "eurostat:population":5028,
+    "eurostat:population_year":2020,
     "geom:area":0.003341,
-    "geom:area_square_m":32465903.131606,
+    "geom:area_square_m":32465903.131591,
     "geom:bbox":"16.1197575724,38.1578341684,16.2220872736,38.2345510821",
     "geom:latitude":38.197702,
     "geom:longitude":16.169137,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080005",
+        "eurostat:nuts_2021_id":"080005",
         "gn:id":6539857,
         "gp:id":12676205,
         "qs_pg:id":1018401
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a59f691bbbcd66a0bc699e169811ee2",
+    "wof:geomhash":"e8a193cde55448a4050b1446aaf712f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464483,
-    "wof:lastmodified":1582327795,
+    "wof:lastmodified":1684353807,
     "wof:name":"Ardore",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":5028,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

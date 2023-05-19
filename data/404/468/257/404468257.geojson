@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tartano",
+    "eurostat:nuts_2021_id":"014064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014064",
+    "eurostat:population":195,
+    "eurostat:population_year":2020,
     "geom:area":0.005503,
-    "geom:area_square_m":47194845.107285,
+    "geom:area_square_m":47194845.107287,
     "geom:bbox":"9.64182865077,46.0546900428,9.746276519,46.1531340732",
     "geom:latitude":46.090518,
     "geom:longitude":9.687449,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014064",
+        "eurostat:nuts_2021_id":"014064",
         "gn:id":6543125,
         "gp:id":12676418,
         "qs_pg:id":1163416
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7d6fbb727b6fb367aa81ba43b78f2fd",
+    "wof:geomhash":"41b04c66c80f9056231925b45435d649",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468257,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353886,
     "wof:name":"Tartano",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":195,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

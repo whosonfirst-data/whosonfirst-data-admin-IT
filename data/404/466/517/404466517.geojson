@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Stefano Quisquina",
+    "eurostat:nuts_2021_id":"084040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084040",
+    "eurostat:population":4337,
+    "eurostat:population_year":2020,
     "geom:area":0.008698,
-    "geom:area_square_m":85215769.6584,
+    "geom:area_square_m":85215769.658416,
     "geom:bbox":"13.4516169005,37.5361857311,13.5768926044,37.6592828499",
     "geom:latitude":37.60147,
     "geom:longitude":13.513248,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084040",
+        "eurostat:nuts_2021_id":"084040",
         "gn:id":6541343,
         "gp:id":12681872,
         "qs_pg:id":1020012
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0760fb58c0c492c98af6c651f43810e3",
+    "wof:geomhash":"d0bab5f817ebe6df0037416fa55fe9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466517,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353851,
     "wof:name":"Santo Stefano Quisquina",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":4337,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

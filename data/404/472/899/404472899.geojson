@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cascina",
+    "eurostat:nuts_2021_id":"050008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050008",
+    "eurostat:population":45448,
+    "eurostat:population_year":2020,
     "geom:area":0.008777,
-    "geom:area_square_m":78514053.52611,
+    "geom:area_square_m":78514053.526111,
     "geom:bbox":"10.4092954163,43.6175945344,10.5787596476,43.7220381551",
     "geom:latitude":43.664202,
     "geom:longitude":10.498699,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050008",
+        "eurostat:nuts_2021_id":"050008",
         "gn:id":6542090,
         "gp:id":12677768,
         "qs_pg:id":1078495
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae6ca25242c6eea7df84a93cb98711d7",
+    "wof:geomhash":"ba34d786ed0abb88cc31059d5f6f9102",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472899,
-    "wof:lastmodified":1582327905,
+    "wof:lastmodified":1684353972,
     "wof:name":"Cascina",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":45448,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

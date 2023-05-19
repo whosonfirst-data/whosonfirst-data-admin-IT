@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pertica Bassa",
+    "eurostat:nuts_2021_id":"017140",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017140",
+    "eurostat:population":605,
+    "eurostat:population_year":2020,
     "geom:area":0.003486,
-    "geom:area_square_m":30071564.488439,
+    "geom:area_square_m":30071564.488435,
     "geom:bbox":"10.3346408158,45.723372736,10.4243573975,45.7924896388",
     "geom:latitude":45.760365,
     "geom:longitude":10.377443,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017140",
+        "eurostat:nuts_2021_id":"017140",
         "gn:id":6542773,
         "gp:id":20076268,
         "qs_pg:id":1149887
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5e51b4841d405230eb7481ea97beb03",
+    "wof:geomhash":"e7655f167ac96d252189fe6ca3dfaac1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471237,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353936,
     "wof:name":"Pertica Bassa",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":605,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

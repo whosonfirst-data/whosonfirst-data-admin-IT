@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montelupo Fiorentino",
+    "eurostat:nuts_2021_id":"048028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048028",
+    "eurostat:population":14341,
+    "eurostat:population_year":2020,
     "geom:area":0.002756,
-    "geom:area_square_m":24629599.557422,
+    "geom:area_square_m":24629599.557429,
     "geom:bbox":"10.9765301466,43.693275687,11.0683032501,43.7675207599",
     "geom:latitude":43.72392,
     "geom:longitude":11.025021,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048028",
+        "eurostat:nuts_2021_id":"048028",
         "gn:id":6538563,
         "gp:id":12676052,
         "qs_pg:id":203700
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ffa632794defbf3e500cd2b0b27d3b1",
+    "wof:geomhash":"4087569d90d0a3b3b41a1e5e58ceccd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472795,
-    "wof:lastmodified":1582327897,
+    "wof:lastmodified":1684353969,
     "wof:name":"Montelupo Fiorentino",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":14341,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

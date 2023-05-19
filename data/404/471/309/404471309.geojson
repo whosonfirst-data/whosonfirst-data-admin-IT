@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Gervasio Bresciano",
+    "eurostat:nuts_2021_id":"017172",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017172",
+    "eurostat:population":2666,
+    "eurostat:population_year":2020,
     "geom:area":0.001206,
-    "geom:area_square_m":10485858.277654,
+    "geom:area_square_m":10485858.277655,
     "geom:bbox":"10.1258667784,45.279586578,10.1772132418,45.3210745282",
     "geom:latitude":45.300073,
     "geom:longitude":10.152904,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017172",
+        "eurostat:nuts_2021_id":"017172",
         "gn:id":6536194,
         "gp:id":12681627,
         "qs_pg:id":204217
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef4432bc3a236464591c5b0486c8d63f",
+    "wof:geomhash":"928efd1c047935f257bc43feaf8831cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471309,
-    "wof:lastmodified":1582327709,
+    "wof:lastmodified":1684353937,
     "wof:name":"San Gervasio Bresciano",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2666,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

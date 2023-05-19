@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giacomo degli Schiavoni",
+    "eurostat:nuts_2021_id":"070065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070065",
+    "eurostat:population":1385,
+    "eurostat:population_year":2020,
     "geom:area":0.001198,
     "geom:area_square_m":11009215.251173,
     "geom:bbox":"14.9174955756,41.9548371816,14.9723043998,41.9888415049",
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070065",
+        "eurostat:nuts_2021_id":"070065",
         "gn:id":6538914,
         "gp:id":12681628,
         "qs_pg:id":1019935
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27d3b9f2d1c91191178efc5a541704d8",
+    "wof:geomhash":"e51c3b34f980d9ead6881cae5de7c8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404458819,
-    "wof:lastmodified":1582327942,
+    "wof:lastmodified":1684353678,
     "wof:name":"San Giacomo Degli Schiavoni",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1385,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

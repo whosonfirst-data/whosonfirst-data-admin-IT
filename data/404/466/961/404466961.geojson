@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seulo",
+    "eurostat:nuts_2021_id":"111082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111082",
+    "eurostat:population":793,
+    "eurostat:population_year":2020,
     "geom:area":0.006194,
-    "geom:area_square_m":58778640.68586,
+    "geom:area_square_m":58778640.685849,
     "geom:bbox":"9.18487563333,39.822155315,9.28316254181,39.9193960074",
     "geom:latitude":39.875062,
     "geom:longitude":9.233512,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111082",
+        "eurostat:nuts_2021_id":"111082",
         "gn:id":6539268,
         "gp:id":12682002,
         "qs_pg:id":1020014
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a8ff9c98e35533ffda6f0f6d594fe60",
+    "wof:geomhash":"fcff2f1781646de26da9c94a12680135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466961,
-    "wof:lastmodified":1582328197,
+    "wof:lastmodified":1684353862,
     "wof:name":"Seulo",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":793,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

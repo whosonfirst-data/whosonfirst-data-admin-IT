@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castello d'Argile",
+    "eurostat:nuts_2021_id":"037017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037017",
+    "eurostat:population":6586,
+    "eurostat:population_year":2020,
     "geom:area":0.0033,
     "geom:area_square_m":29009631.885258,
     "geom:bbox":"11.2471686946,44.6303283236,11.3581153867,44.712573809",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037017",
+        "eurostat:nuts_2021_id":"037017",
         "gn:id":6538466,
         "gp:id":12678171,
         "qs_pg:id":271937
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8ea84134f102b232586021e638bfcd0",
+    "wof:geomhash":"c1c0bb50d1d706b91f26a62565271bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472261,
-    "wof:lastmodified":1582327886,
+    "wof:lastmodified":1684353956,
     "wof:name":"Castello D'Argile",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":6586,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

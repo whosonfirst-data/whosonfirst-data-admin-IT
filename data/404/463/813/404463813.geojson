@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglione d'Orcia",
+    "eurostat:nuts_2021_id":"052007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052007",
+    "eurostat:population":2260,
+    "eurostat:population_year":2020,
     "geom:area":0.015628,
-    "geom:area_square_m":141377732.889123,
+    "geom:area_square_m":141377732.889106,
     "geom:bbox":"11.5262868132,42.9091515212,11.732900023,43.0432766632",
     "geom:latitude":42.979228,
     "geom:longitude":11.639387,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052007",
+        "eurostat:nuts_2021_id":"052007",
         "gn:id":6538597,
         "gp:id":20076767,
         "qs_pg:id":1311217
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85e96ac4a0609bd419275c619c639b51",
+    "wof:geomhash":"7da4e4bfa9aa43c4f0c7b0d86a6cb247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463813,
-    "wof:lastmodified":1582327782,
+    "wof:lastmodified":1684353787,
     "wof:name":"Castiglione D'Orcia",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":2260,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

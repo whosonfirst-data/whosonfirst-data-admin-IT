@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bene Vagienna",
+    "eurostat:nuts_2021_id":"004019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004019",
+    "eurostat:population":3663,
+    "eurostat:population_year":2020,
     "geom:area":0.005559,
-    "geom:area_square_m":48994737.779937,
+    "geom:area_square_m":48994737.779933,
     "geom:bbox":"7.77245129506,44.4911921198,7.88108286965,44.5837886313",
     "geom:latitude":44.535349,
     "geom:longitude":7.82603,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004019",
+        "eurostat:nuts_2021_id":"004019",
         "gn:id":6538143,
         "gp:id":12676702,
         "qs_pg:id":1286528
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3c4cbf32ed0754a82f4e57e577be547",
+    "wof:geomhash":"04691a5410216cbcfb11c1fccc1fa940",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457887,
-    "wof:lastmodified":1582328099,
+    "wof:lastmodified":1684353659,
     "wof:name":"Bene Vagienna",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":3663,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

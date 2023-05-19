@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceriale",
+    "eurostat:nuts_2021_id":"009024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009024",
+    "eurostat:population":5459,
+    "eurostat:population_year":2020,
     "geom:area":0.001254,
     "geom:area_square_m":11139016.795216,
     "geom:bbox":"8.16103777884,44.0723660626,8.23803058497,44.1114775359",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009024",
+        "eurostat:nuts_2021_id":"009024",
         "gn:id":6540146,
         "gp:id":12678508,
         "qs_pg:id":40328
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2686c352925327f3a8aa156a866af8f4",
+    "wof:geomhash":"a83e3861bc5ec7e0a2e201e90989d8af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404467445,
-    "wof:lastmodified":1582327985,
+    "wof:lastmodified":1684353874,
     "wof:name":"Ceriale",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":5459,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

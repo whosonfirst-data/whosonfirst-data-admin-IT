@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccavignale",
+    "eurostat:nuts_2021_id":"009054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009054",
+    "eurostat:population":773,
+    "eurostat:population_year":2020,
     "geom:area":0.002,
-    "geom:area_square_m":17683561.422402,
+    "geom:area_square_m":17683561.422401,
     "geom:bbox":"8.13432195186,44.3233715577,8.19883067624,44.3758139331",
     "geom:latitude":44.352111,
     "geom:longitude":8.164588,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009054",
+        "eurostat:nuts_2021_id":"009054",
         "gn:id":6542750,
         "gp:id":20076432,
         "qs_pg:id":1166778
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aa684ecf564f5501a84f1295bcbdc5a3",
+    "wof:geomhash":"23e3c70393f3d46a065b66c6184a4864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467511,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353875,
     "wof:name":"Roccavignale",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":773,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

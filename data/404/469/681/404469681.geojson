@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelnuovo del Garda",
+    "eurostat:nuts_2021_id":"023022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023022",
+    "eurostat:population":13388,
+    "eurostat:population_year":2020,
     "geom:area":0.003961,
-    "geom:area_square_m":34363056.266757,
+    "geom:area_square_m":34363056.26675,
     "geom:bbox":"10.6416253468,45.4026196158,10.8032872218,45.4770551568",
     "geom:latitude":45.444114,
     "geom:longitude":10.740387,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023022",
+        "eurostat:nuts_2021_id":"023022",
         "gn:id":6542299,
         "gp:id":12678308,
         "qs_pg:id":907124
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"993ca610861dc25037335d10cca9f145",
+    "wof:geomhash":"7d8180b565fb4478f1e23be9a3560760",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469681,
-    "wof:lastmodified":1582328025,
+    "wof:lastmodified":1684353908,
     "wof:name":"Castelnuovo Del Garda",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":13388,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

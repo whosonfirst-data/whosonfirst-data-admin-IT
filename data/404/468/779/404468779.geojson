@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Biscossi",
+    "eurostat:nuts_2021_id":"018178",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018178",
+    "eurostat:population":67,
+    "eurostat:population_year":2020,
     "geom:area":0.000558,
     "geom:area_square_m":4871377.746789,
     "geom:bbox":"8.76875511415,45.0741894126,8.80414346892,45.0984264977",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018178",
+        "eurostat:nuts_2021_id":"018178",
         "gn:id":6543209,
         "gp:id":20076336,
         "qs_pg:id":50625
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f7718d9a91a3f98cfe713473ca9de98",
+    "wof:geomhash":"ad3245722971112bb850b978be6e7d29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468779,
-    "wof:lastmodified":1582328083,
+    "wof:lastmodified":1684353894,
     "wof:name":"Villa Biscossi",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fanna",
+    "eurostat:nuts_2021_id":"093020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093020",
+    "eurostat:population":1521,
+    "eurostat:population_year":2020,
     "geom:area":0.001194,
-    "geom:area_square_m":10225124.195077,
+    "geom:area_square_m":10225124.195073,
     "geom:bbox":"12.7314464032,46.149867634,12.7841972728,46.1991623949",
     "geom:latitude":46.174732,
     "geom:longitude":12.759893,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093020",
+        "eurostat:nuts_2021_id":"093020",
         "gn:id":6537931,
         "gp:id":12679197,
         "qs_pg:id":254171
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2885c4dea3f362dfc2a3b24ba6bb9d75",
+    "wof:geomhash":"b9df6eac2f14886dd5bb944ce267f2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459143,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353687,
     "wof:name":"Fanna",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":1521,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

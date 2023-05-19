@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aiello del Friuli",
+    "eurostat:nuts_2021_id":"030001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030001",
+    "eurostat:population":2211,
+    "eurostat:population_year":2020,
     "geom:area":0.001544,
-    "geom:area_square_m":13289280.280653,
+    "geom:area_square_m":13289280.280652,
     "geom:bbox":"13.3257757954,45.8506458414,13.3825963611,45.8924012764",
     "geom:latitude":45.872241,
     "geom:longitude":13.35394,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030001",
+        "eurostat:nuts_2021_id":"030001",
         "gn:id":6536299,
         "gp:id":12675851,
         "qs_pg:id":257741
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd225134db9f127391c37b1d61442023",
+    "wof:geomhash":"2ca0fb99e40cf960db015037698a344d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470441,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353921,
     "wof:name":"Aiello Del Friuli",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2211,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

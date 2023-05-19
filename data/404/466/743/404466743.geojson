@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bottidda",
+    "eurostat:nuts_2021_id":"090016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090016",
+    "eurostat:population":669,
+    "eurostat:population_year":2020,
     "geom:area":0.003579,
-    "geom:area_square_m":33705237.157874,
+    "geom:area_square_m":33705237.157877,
     "geom:bbox":"8.92245825999,40.3408758896,9.10354193981,40.4691282721",
     "geom:latitude":40.39413,
     "geom:longitude":9.019304,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090016",
+        "eurostat:nuts_2021_id":"090016",
         "gn:id":6541354,
         "gp:id":20076803,
         "qs_pg:id":52047
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"765d41cfc9a0e31f8cbea37783f26d83",
+    "wof:geomhash":"197028fda5d9956f7e162d2b19f9eba0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466743,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353857,
     "wof:name":"Bottidda",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":669,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

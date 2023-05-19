@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Minucciano",
+    "eurostat:nuts_2021_id":"046019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046019",
+    "eurostat:population":1918,
+    "eurostat:population_year":2020,
     "geom:area":0.006449,
-    "geom:area_square_m":57203221.053577,
+    "geom:area_square_m":57203221.053581,
     "geom:bbox":"10.183003152,44.1105218653,10.278310453,44.2326496369",
     "geom:latitude":44.164048,
     "geom:longitude":10.225074,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_046019",
+        "eurostat:nuts_2021_id":"046019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0e4d9094609073d3e97a8a8bda29d227",
+    "wof:geomhash":"dea13723e0f724def3ab002c9a668bda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404472651,
-    "wof:lastmodified":1566723357,
+    "wof:lastmodified":1684353966,
     "wof:name":"Minucciano",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":1918,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

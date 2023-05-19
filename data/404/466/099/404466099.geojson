@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ranica",
+    "eurostat:nuts_2021_id":"016178",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016178",
+    "eurostat:population":5966,
+    "eurostat:population_year":2020,
     "geom:area":0.00047,
     "geom:area_square_m":4054881.115663,
     "geom:bbox":"9.69156238137,45.7105088946,9.72802882496,45.7460958028",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016178",
+        "eurostat:nuts_2021_id":"016178",
         "gn:id":6543757,
         "gp:id":20076216,
         "qs_pg:id":334770
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07409d9e2d3de2f681b34f1904fd7b60",
+    "wof:geomhash":"1662414ab97a151ea572bcdd565ffe42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466099,
-    "wof:lastmodified":1582328191,
+    "wof:lastmodified":1684353842,
     "wof:name":"Ranica",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":5966,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

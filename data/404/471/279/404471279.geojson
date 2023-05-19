@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puegnago sul Garda",
+    "eurostat:nuts_2021_id":"017158",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017158",
+    "eurostat:population":3477,
+    "eurostat:population_year":2020,
     "geom:area":0.001265,
     "geom:area_square_m":10951646.081372,
     "geom:bbox":"10.4812466728,45.5545785224,10.5442366745,45.5876575006",
@@ -69,6 +81,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017158",
+        "eurostat:nuts_2021_id":"017158",
         "gn:id":6542778,
         "gp:id":12678270,
         "qs_pg:id":262653
@@ -85,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c467b68a8abefff00b69b829cfdcdccf",
+    "wof:geomhash":"a9ecdbd8a06097b30fbe01c05fa89bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404471279,
-    "wof:lastmodified":1582327726,
+    "wof:lastmodified":1684353937,
     "wof:name":"Puegnago Sul Garda",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":3477,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

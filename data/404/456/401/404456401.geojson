@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Favria",
+    "eurostat:nuts_2021_id":"001101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001101",
+    "eurostat:population":5182,
+    "eurostat:population_year":2020,
     "geom:area":0.001705,
-    "geom:area_square_m":14825049.170333,
+    "geom:area_square_m":14825049.170331,
     "geom:bbox":"7.66676351243,45.2754448786,7.70370634309,45.3378845243",
     "geom:latitude":45.310789,
     "geom:longitude":7.685483,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001101",
+        "eurostat:nuts_2021_id":"001101"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d563295fc4066e034939633b828aa906",
+    "wof:geomhash":"d7bd1da60d25fb8a7556a841deeabade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404456401,
-    "wof:lastmodified":1566723581,
+    "wof:lastmodified":1684353623,
     "wof:name":"Favria",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":5182,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

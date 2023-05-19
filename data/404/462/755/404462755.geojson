@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acquaviva Collecroce",
+    "eurostat:nuts_2021_id":"070001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070001",
+    "eurostat:population":605,
+    "eurostat:population_year":2020,
     "geom:area":0.003086,
-    "geom:area_square_m":28421386.770225,
+    "geom:area_square_m":28421386.770226,
     "geom:bbox":"14.7182037454,41.8340819334,14.8289894892,41.8987888447",
     "geom:latitude":41.862559,
     "geom:longitude":14.764444,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070001",
+        "eurostat:nuts_2021_id":"070001",
         "gn:id":6537498,
         "gp:id":12675777,
         "qs_pg:id":38593
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"419f9057c0ca7950b19aa75e0dc19e9d",
+    "wof:geomhash":"17083529689a1e7f65653637fd730d19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462755,
-    "wof:lastmodified":1582327850,
+    "wof:lastmodified":1684353764,
     "wof:name":"Acquaviva Collecroce",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":605,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

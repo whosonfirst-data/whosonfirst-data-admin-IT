@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taranto",
+    "eurostat:nuts_2021_id":"073027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073027",
+    "eurostat:population":195227,
+    "eurostat:population_year":2020,
     "geom:area":0.026229,
-    "geom:area_square_m":246758033.220805,
+    "geom:area_square_m":246758033.220864,
     "geom:bbox":"17.1168136592,40.3300320552,17.4721945159,40.591668077",
     "geom:latitude":40.463346,
     "geom:longitude":17.300936,
@@ -302,6 +314,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -310,6 +324,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073027",
+        "eurostat:nuts_2021_id":"073027",
         "gn:id":6542154,
         "gp:id":20076972,
         "qs_pg:id":549923
@@ -318,7 +334,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ea6b05be098af0b489e29f47197eb1f",
+    "wof:geomhash":"f4224a3328faad00fcb93959adeb9cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -329,10 +345,12 @@
         }
     ],
     "wof:id":404456897,
-    "wof:lastmodified":1582328069,
+    "wof:lastmodified":1684353635,
     "wof:name":"Taranto",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":195227,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

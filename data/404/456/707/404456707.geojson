@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Agata di Esaro",
+    "eurostat:nuts_2021_id":"078131",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078131",
+    "eurostat:population":1786,
+    "eurostat:population_year":2020,
     "geom:area":0.004956,
     "geom:area_square_m":47202449.07655,
     "geom:bbox":"15.9185539747,39.5756355195,16.0430233766,39.661728563",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078131",
+        "eurostat:nuts_2021_id":"078131"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"36c216115603d23bb512867339aff8e6",
+    "wof:geomhash":"620a1e86e12e1a8fb8928b5d2056e99b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404456707,
-    "wof:lastmodified":1566723575,
+    "wof:lastmodified":1684353631,
     "wof:name":"Sant'Agata Di Esaro",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1786,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

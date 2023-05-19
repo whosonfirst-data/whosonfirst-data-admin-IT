@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Braies/Prags",
+    "eurostat:nuts_2021_id":"021009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021009",
+    "eurostat:population":654,
+    "eurostat:population_year":2020,
     "geom:area":0.010603,
-    "geom:area_square_m":89939556.433969,
+    "geom:area_square_m":89939556.43397,
     "geom:bbox":"12.0190491553,46.6340571488,12.2033220102,46.7437646879",
     "geom:latitude":46.687633,
     "geom:longitude":12.122087,
@@ -93,6 +105,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021009",
+        "eurostat:nuts_2021_id":"021009",
         "gn:id":3181616,
         "gp:id":12681775,
         "qs_pg:id":1196324
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b58b8bdcf66dad5f1ff01c2e38a25ed7",
+    "wof:geomhash":"3ab0f40b7c37550b2cc4aad1d180fc07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404473065,
-    "wof:lastmodified":1582327917,
+    "wof:lastmodified":1684353977,
     "wof:name":"Braies",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":654,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

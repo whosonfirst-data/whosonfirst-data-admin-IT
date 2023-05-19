@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gagliole",
+    "eurostat:nuts_2021_id":"043020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043020",
+    "eurostat:population":595,
+    "eurostat:population_year":2020,
     "geom:area":0.00266,
-    "geom:area_square_m":23962987.590983,
+    "geom:area_square_m":23962987.590994,
     "geom:bbox":"13.0384873479,43.2155547671,13.1072325325,43.2843551261",
     "geom:latitude":43.242034,
     "geom:longitude":13.076195,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043020",
+        "eurostat:nuts_2021_id":"043020",
         "gn:id":6541068,
         "gp:id":12675787,
         "qs_pg:id":1195796
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c89cf5a5ed5210636eb0c620a5d79e4",
+    "wof:geomhash":"212312e39696b9d24e84caea6fb92b62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458633,
-    "wof:lastmodified":1582327943,
+    "wof:lastmodified":1684353674,
     "wof:name":"Gagliole",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":595,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

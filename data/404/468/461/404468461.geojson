@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morimondo",
+    "eurostat:nuts_2021_id":"015150",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015150",
+    "eurostat:population":1057,
+    "eurostat:population_year":2020,
     "geom:area":0.002988,
-    "geom:area_square_m":25964425.869198,
+    "geom:area_square_m":25964425.869199,
     "geom:bbox":"8.9125918569,45.3166414008,8.99539693305,45.3864433026",
     "geom:latitude":45.343263,
     "geom:longitude":8.955206,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015150",
+        "eurostat:nuts_2021_id":"015150",
         "gn:id":6537123,
         "gp:id":12680597,
         "qs_pg:id":1309591
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a989ba0db74a7e2924087df2fc50b36",
+    "wof:geomhash":"4ff2a9d420a720a5a77580ae39710f58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468461,
-    "wof:lastmodified":1582328090,
+    "wof:lastmodified":1684353889,
     "wof:name":"Morimondo",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":1057,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

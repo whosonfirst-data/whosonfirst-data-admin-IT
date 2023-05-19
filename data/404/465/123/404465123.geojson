@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzuoli",
+    "eurostat:nuts_2021_id":"063060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063060",
+    "eurostat:population":80074,
+    "eurostat:population_year":2020,
     "geom:area":0.004621,
-    "geom:area_square_m":43223679.249912,
+    "geom:area_square_m":43223679.249918,
     "geom:bbox":"14.0409665936,40.8167358541,14.1613235602,40.8789473181",
     "geom:latitude":40.850048,
     "geom:longitude":14.10232,
@@ -203,6 +215,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -211,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063060",
+        "eurostat:nuts_2021_id":"063060",
         "gn:id":6541681,
         "gp:id":12679951,
         "qs_pg:id":476267
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef1ddfa431f81020dbf25f696dbb6c53",
+    "wof:geomhash":"914c12891896bc33d5fa14d243b56319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":404465123,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353826,
     "wof:name":"Pozzuoli",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":80074,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

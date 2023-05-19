@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sali Vercellese",
+    "eurostat:nuts_2021_id":"002127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002127",
+    "eurostat:population":102,
+    "eurostat:population_year":2020,
     "geom:area":0.001008,
-    "geom:area_square_m":8763619.809195,
+    "geom:area_square_m":8763619.809196,
     "geom:bbox":"8.28606211254,45.2937928565,8.34331883362,45.319787641",
     "geom:latitude":45.306747,
     "geom:longitude":8.315477,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002127",
+        "eurostat:nuts_2021_id":"002127",
         "gn:id":6540667,
         "gp:id":12681534,
         "qs_pg:id":1143655
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bff3f3d95104149bf1422d224f1e7f6",
+    "wof:geomhash":"da7745d764820b20cfb4a887aa034e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457609,
-    "wof:lastmodified":1582328118,
+    "wof:lastmodified":1684353653,
     "wof:name":"Sali Vercellese",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vittorito",
+    "eurostat:nuts_2021_id":"066108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066108",
+    "eurostat:population":846,
+    "eurostat:population_year":2020,
     "geom:area":0.001541,
     "geom:area_square_m":14129962.192836,
     "geom:bbox":"13.7741384443,42.1155825138,13.8390438915,42.1538941711",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066108",
+        "eurostat:nuts_2021_id":"066108",
         "gn:id":6541699,
         "gp:id":12682511,
         "qs_pg:id":43067
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a6aa6013f324cc7c66e7fb975f04616",
+    "wof:geomhash":"3c25d6984b23c946398a9249725b1ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462309,
-    "wof:lastmodified":1582327850,
+    "wof:lastmodified":1684353756,
     "wof:name":"Vittorito",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":846,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

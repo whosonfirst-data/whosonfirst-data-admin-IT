@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corteolona e Genzone",
+    "eurostat:nuts_2021_id":"018192",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018192",
+    "eurostat:population":2583,
+    "eurostat:population_year":2020,
     "geom:area":0.001156,
-    "geom:area_square_m":10076605.700457,
+    "geom:area_square_m":10076605.700454,
     "geom:bbox":"9.34572859889,45.1402868434,9.39009519532,45.1840131962",
     "geom:latitude":45.160844,
     "geom:longitude":9.370094,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018192",
+        "eurostat:nuts_2021_id":"018192",
         "gn:id":6540357,
         "gp:id":12678941,
         "qs_pg:id":961672
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f2cf4c1f76b2a43620b4f829284a9af",
+    "wof:geomhash":"aea6942bbe8b3571942580d3bcceb0e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404471405,
-    "wof:lastmodified":1582327729,
+    "wof:lastmodified":1684353939,
     "wof:name":"Corteolona",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":2583,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

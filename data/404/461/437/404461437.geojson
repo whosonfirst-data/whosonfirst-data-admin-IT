@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mompeo",
+    "eurostat:nuts_2021_id":"057038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057038",
+    "eurostat:population":483,
+    "eurostat:population_year":2020,
     "geom:area":0.001187,
     "geom:area_square_m":10858705.033126,
     "geom:bbox":"12.7307541136,42.2406827772,12.7970403782,42.2851779065",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057038",
+        "eurostat:nuts_2021_id":"057038",
         "gn:id":6536926,
         "gp:id":12680394,
         "qs_pg:id":1009326
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09028a07aa1587f7695de0ceef2ecb6f",
+    "wof:geomhash":"b8ca0962c6682b3bc5d4e038fb420d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461437,
-    "wof:lastmodified":1582328130,
+    "wof:lastmodified":1684353738,
     "wof:name":"Mompeo",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":483,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

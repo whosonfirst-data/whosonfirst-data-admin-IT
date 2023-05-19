@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Genesio Atesino/Jenesien",
+    "eurostat:nuts_2021_id":"021079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021079",
+    "eurostat:population":3074,
+    "eurostat:population_year":2020,
     "geom:area":0.008076,
-    "geom:area_square_m":68665738.279368,
+    "geom:area_square_m":68665738.279344,
     "geom:bbox":"11.2700525121,46.5056148738,11.3806557764,46.6284907028",
     "geom:latitude":46.561738,
     "geom:longitude":11.321831,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021079",
+        "eurostat:nuts_2021_id":"021079",
         "gp:id":12676369,
         "qs_pg:id":1285297
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a0e1e992112b42bafd81fea5de59a56",
+    "wof:geomhash":"d0024e68d30d7d36f5c790bcde3b2892",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473219,
-    "wof:lastmodified":1582327916,
+    "wof:lastmodified":1684353983,
     "wof:name":"San Genesio Atesino",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3074,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

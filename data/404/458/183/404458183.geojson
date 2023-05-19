@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torgiano",
+    "eurostat:nuts_2021_id":"054053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054053",
+    "eurostat:population":6655,
+    "eurostat:population_year":2020,
     "geom:area":0.004155,
-    "geom:area_square_m":37551758.35433,
+    "geom:area_square_m":37551758.354333,
     "geom:bbox":"12.4065554126,42.9954113467,12.4988611259,43.0907076211",
     "geom:latitude":43.041335,
     "geom:longitude":12.450419,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054053",
+        "eurostat:nuts_2021_id":"054053",
         "gn:id":6541117,
         "gp:id":12677136,
         "qs_pg:id":1072334
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b822129450d7cf451db0f58300ac610d",
+    "wof:geomhash":"ce4f48eb850411111bc7bc7c97cf3791",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404458183,
-    "wof:lastmodified":1582327961,
+    "wof:lastmodified":1684353666,
     "wof:name":"Torgiano",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":6655,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

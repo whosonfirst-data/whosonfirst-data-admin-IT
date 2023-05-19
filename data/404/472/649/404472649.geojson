@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massarosa",
+    "eurostat:nuts_2021_id":"046018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046018",
+    "eurostat:population":22257,
+    "eurostat:population_year":2020,
     "geom:area":0.007649,
-    "geom:area_square_m":68181664.012925,
+    "geom:area_square_m":68181664.012922,
     "geom:bbox":"10.2527124705,43.8142738032,10.3967870791,43.9241833824",
     "geom:latitude":43.870084,
     "geom:longitude":10.325851,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046018",
+        "eurostat:nuts_2021_id":"046018",
         "gn:id":6536813,
         "gp:id":12680035,
         "qs_pg:id":1292206
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b88839c24e2abedc35b362c58e0145f",
+    "wof:geomhash":"75c855875aea83afc5abbd4bb035e529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472649,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353966,
     "wof:name":"Massarosa",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":22257,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

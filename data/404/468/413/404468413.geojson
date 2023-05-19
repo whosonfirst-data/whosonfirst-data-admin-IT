@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gessate",
+    "eurostat:nuts_2021_id":"015106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015106",
+    "eurostat:population":8765,
+    "eurostat:population_year":2020,
     "geom:area":0.000895,
-    "geom:area_square_m":7747704.711693,
+    "geom:area_square_m":7747704.711695,
     "geom:bbox":"9.40663037787,45.5397199398,9.45566441132,45.5755114801",
     "geom:latitude":45.555417,
     "geom:longitude":9.434282,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015106",
+        "eurostat:nuts_2021_id":"015106",
         "gn:id":6542926,
         "gp:id":12682440,
         "qs_pg:id":1069283
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"da21ba1d1cb650ec3799e0d41015bbbd",
+    "wof:geomhash":"0eab9a8d80b7957e358a8a474e454398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468413,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353888,
     "wof:name":"Gessate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":8765,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

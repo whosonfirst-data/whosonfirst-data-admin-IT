@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve Porto Morone",
+    "eurostat:nuts_2021_id":"018114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018114",
+    "eurostat:population":2655,
+    "eurostat:population_year":2020,
     "geom:area":0.001876,
     "geom:area_square_m":16373274.344028,
     "geom:bbox":"9.41110488312,45.0932366864,9.50677975876,45.1278316316",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018114",
+        "eurostat:nuts_2021_id":"018114",
         "gn:id":6536568,
         "gp:id":12681111,
         "qs_pg:id":537793
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b40ed55244750193481e73bc777fdc68",
+    "wof:geomhash":"6511f4acc869ab49c77549a6d01aa565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471535,
-    "wof:lastmodified":1582327712,
+    "wof:lastmodified":1684353941,
     "wof:name":"Pieve Porto Morone",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":2655,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

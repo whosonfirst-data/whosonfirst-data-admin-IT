@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marzano",
+    "eurostat:nuts_2021_id":"018087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018087",
+    "eurostat:population":1661,
+    "eurostat:population_year":2020,
     "geom:area":0.001066,
-    "geom:area_square_m":9276371.338744,
+    "geom:area_square_m":9276371.338743,
     "geom:bbox":"9.25896464824,45.2290644877,9.31567007673,45.2660017369",
     "geom:latitude":45.248442,
     "geom:longitude":9.290177,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018087",
+        "eurostat:nuts_2021_id":"018087",
         "gn:id":6542970,
         "qs_pg:id":1153180
     },
@@ -158,7 +174,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"273d54cf901690756b64f3a7b25edd03",
+    "wof:geomhash":"d6a52b8718aea9a661ff6f2b36790cfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":404471473,
-    "wof:lastmodified":1582327727,
+    "wof:lastmodified":1684353940,
     "wof:name":"Marzano",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1661,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

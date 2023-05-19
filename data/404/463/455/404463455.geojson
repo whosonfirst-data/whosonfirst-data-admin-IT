@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montemezzo",
+    "eurostat:nuts_2021_id":"013155",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013155",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.001052,
-    "geom:area_square_m":9000439.403637,
+    "geom:area_square_m":9000439.403636,
     "geom:bbox":"9.34907064751,46.1727645769,9.3825031961,46.2211723457",
     "geom:latitude":46.196651,
     "geom:longitude":9.364791,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013155",
+        "eurostat:nuts_2021_id":"013155",
         "gn:id":6542541,
         "gp:id":20076115,
         "qs_pg:id":1321471
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"daec6ede1025340c44d7527f3ff4a751",
+    "wof:geomhash":"0ae41e1d7c85005bbc957dd63492fa41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404463455,
-    "wof:lastmodified":1582327770,
+    "wof:lastmodified":1684353781,
     "wof:name":"Montemezzo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pr\u00e9-Saint-Didier",
+    "eurostat:nuts_2021_id":"007053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007053",
+    "eurostat:population":1020,
+    "eurostat:population_year":2020,
     "geom:area":0.003863,
-    "geom:area_square_m":33330300.892243,
+    "geom:area_square_m":33330300.892242,
     "geom:bbox":"6.89426086869,45.7232444561,7.00952161747,45.7894312306",
     "geom:latitude":45.758059,
     "geom:longitude":6.953757,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007053",
+        "eurostat:nuts_2021_id":"007053"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"755d841031d8cddc1a7023c78b54ab6e",
+    "wof:geomhash":"b0b7da8a8044a04eeee4a5432cc2bb89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459341,
-    "wof:lastmodified":1566723737,
+    "wof:lastmodified":1684353692,
     "wof:name":"Pr\u00e8-Saint-Didier",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1020,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

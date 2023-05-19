@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarnano",
+    "eurostat:nuts_2021_id":"043049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043049",
+    "eurostat:population":3120,
+    "eurostat:population_year":2020,
     "geom:area":0.00696,
-    "geom:area_square_m":62921368.032424,
+    "geom:area_square_m":62921368.032444,
     "geom:bbox":"13.2205829581,42.9644683837,13.3709727016,43.0640927621",
     "geom:latitude":43.022438,
     "geom:longitude":13.283274,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043049",
+        "eurostat:nuts_2021_id":"043049",
         "gn:id":6538525,
         "gp:id":12681887,
         "qs_pg:id":194259
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63045fce211fa0d6076914bf486bb459",
+    "wof:geomhash":"188230ea1b76c01d55d45d43db24c71e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461033,
-    "wof:lastmodified":1582328145,
+    "wof:lastmodified":1684353730,
     "wof:name":"Sarnano",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":3120,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

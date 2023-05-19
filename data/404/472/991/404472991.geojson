@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel San Niccol\u00f2",
+    "eurostat:nuts_2021_id":"051010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051010",
+    "eurostat:population":2603,
+    "eurostat:population_year":2020,
     "geom:area":0.009298,
-    "geom:area_square_m":83089364.540162,
+    "geom:area_square_m":83089364.540151,
     "geom:bbox":"11.5949497435,43.6499446955,11.74026676,43.7883890671",
     "geom:latitude":43.723252,
     "geom:longitude":11.659706,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051010",
+        "eurostat:nuts_2021_id":"051010",
         "gn:id":6540274,
         "gp:id":12676552,
         "qs_pg:id":1314919
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b876ee3a44eb01a6df76c1b24a03392a",
+    "wof:geomhash":"e6c642df5f1b7f6129f94416223a07d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472991,
-    "wof:lastmodified":1582327878,
+    "wof:lastmodified":1684353975,
     "wof:name":"Castel San Niccol\u00f2",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":2603,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

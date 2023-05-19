@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aci Catena",
+    "eurostat:nuts_2021_id":"087003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087003",
+    "eurostat:population":28856,
+    "eurostat:population_year":2020,
     "geom:area":0.000865,
-    "geom:area_square_m":8475806.13331,
+    "geom:area_square_m":8475806.133311,
     "geom:bbox":"15.129984458,37.5629628985,15.1597288908,37.6204580633",
     "geom:latitude":37.585446,
     "geom:longitude":15.142572,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_087003",
+        "eurostat:nuts_2021_id":"087003"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0eda8236279f1bb30fe0419ce07d7485",
+    "wof:geomhash":"bbb20e22ee3828cdf9cca680981cca9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404459221,
-    "wof:lastmodified":1566723728,
+    "wof:lastmodified":1684353689,
     "wof:name":"Aci Catena",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":28856,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

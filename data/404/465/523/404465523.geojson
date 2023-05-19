@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casaletto Spartano",
+    "eurostat:nuts_2021_id":"065027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065027",
+    "eurostat:population":1346,
+    "eurostat:population_year":2020,
     "geom:area":0.009088,
-    "geom:area_square_m":85871583.598024,
+    "geom:area_square_m":85871583.598041,
     "geom:bbox":"15.5542044525,40.1062596211,15.7166324086,40.2276114792",
     "geom:latitude":40.169203,
     "geom:longitude":15.647939,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065027",
+        "eurostat:nuts_2021_id":"065027",
         "gn:id":6537393,
         "gp:id":12676495,
         "qs_pg:id":946793
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0aa85dfd9c8c21d2c2c95160a1427ecf",
+    "wof:geomhash":"a2890f8228f0ba80ed28d00e7b1950fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465523,
-    "wof:lastmodified":1582327847,
+    "wof:lastmodified":1684353833,
     "wof:name":"Casaletto Spartano",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":1346,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

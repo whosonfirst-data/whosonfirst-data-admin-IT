@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anterivo/Altrei",
+    "eurostat:nuts_2021_id":"021003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021003",
+    "eurostat:population":395,
+    "eurostat:population_year":2020,
     "geom:area":0.001291,
-    "geom:area_square_m":11036867.775255,
+    "geom:area_square_m":11036867.775256,
     "geom:bbox":"11.3353350158,46.2613459695,11.3976843923,46.2979815727",
     "geom:latitude":46.279565,
     "geom:longitude":11.36805,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021003",
+        "eurostat:nuts_2021_id":"021003",
         "gp:id":12676117,
         "qs_pg:id":907752
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb49e9a8888712d3a295e9fd29fb6baf",
+    "wof:geomhash":"3d73af254d8b74f787d2ce31f82663b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473051,
-    "wof:lastmodified":1582327931,
+    "wof:lastmodified":1684353976,
     "wof:name":"Anterivo",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

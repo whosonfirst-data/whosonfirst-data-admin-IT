@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alghero",
+    "eurostat:nuts_2021_id":"090003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090003",
+    "eurostat:population":43743,
+    "eurostat:population_year":2020,
     "geom:area":0.024003,
-    "geom:area_square_m":225351878.51063,
+    "geom:area_square_m":225351878.510604,
     "geom:bbox":"8.13770349244,40.4947730356,8.42035466353,40.6739481854",
     "geom:latitude":40.599862,
     "geom:longitude":8.299035,
@@ -227,6 +239,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -235,6 +249,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090003",
+        "eurostat:nuts_2021_id":"090003",
         "gn:id":6537821,
         "gp:id":20076800,
         "qs_pg:id":1295987
@@ -243,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28af52c49dcf1d0bde255925fd64eac6",
+    "wof:geomhash":"57403fc1e63ac2bb4e0660010737e0db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,10 +270,12 @@
         }
     ],
     "wof:id":404466719,
-    "wof:lastmodified":1582328209,
+    "wof:lastmodified":1684353856,
     "wof:name":"Alghero",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":43743,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

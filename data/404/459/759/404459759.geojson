@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mercatino Conca",
+    "eurostat:nuts_2021_id":"041026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041026",
+    "eurostat:population":1018,
+    "eurostat:population_year":2020,
     "geom:area":0.001559,
-    "geom:area_square_m":13903215.595145,
+    "geom:area_square_m":13903215.595144,
     "geom:bbox":"12.4829870893,43.8461960165,12.5654024832,43.8824812242",
     "geom:latitude":43.86274,
     "geom:longitude":12.516536,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041026",
+        "eurostat:nuts_2021_id":"041026",
         "gn:id":6543585,
         "gp:id":12680453,
         "qs_pg:id":1014223
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29d97dc2970b75bd5572a9d32a607137",
+    "wof:geomhash":"8533205cd3fee8397105810a5650a040",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459759,
-    "wof:lastmodified":1582328170,
+    "wof:lastmodified":1684353700,
     "wof:name":"Mercatino Conca",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1018,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

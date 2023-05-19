@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaputzu",
+    "eurostat:nuts_2021_id":"111103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111103",
+    "eurostat:population":4615,
+    "eurostat:population_year":2020,
     "geom:area":0.019009,
-    "geom:area_square_m":181284143.958017,
+    "geom:area_square_m":181284143.958037,
     "geom:bbox":"9.41679194984,39.4130276381,9.65983870744,39.6416622626",
     "geom:latitude":39.534648,
     "geom:longitude":9.551451,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111103",
+        "eurostat:nuts_2021_id":"111103",
         "gn:id":6539317,
         "gp:id":20076841,
         "qs_pg:id":205197
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b0869cb9c6a2f6046181f0aac5b3ed70",
+    "wof:geomhash":"566785e717841fd5ba917d827eaae34c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404466913,
-    "wof:lastmodified":1582328197,
+    "wof:lastmodified":1684353861,
     "wof:name":"Villaputzu",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":4615,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

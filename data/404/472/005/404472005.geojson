@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montebruno",
+    "eurostat:nuts_2021_id":"010038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010038",
+    "eurostat:population":225,
+    "eurostat:population_year":2020,
     "geom:area":0.002003,
-    "geom:area_square_m":17656868.114461,
+    "geom:area_square_m":17656868.114457,
     "geom:bbox":"9.21521533385,44.491727111,9.29383438809,44.5453508922",
     "geom:latitude":44.517185,
     "geom:longitude":9.250218,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010038",
+        "eurostat:nuts_2021_id":"010038",
         "gn:id":6540562,
         "gp:id":12680479,
         "qs_pg:id":41557
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f9f69f61d9cd01600b41d5cd1469ca9",
+    "wof:geomhash":"5ef971c12f0cafe8f1d6e79ec1a6d256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472005,
-    "wof:lastmodified":1582327904,
+    "wof:lastmodified":1684353950,
     "wof:name":"Montebruno",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":225,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

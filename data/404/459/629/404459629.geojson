@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allerona",
+    "eurostat:nuts_2021_id":"055002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055002",
+    "eurostat:population":1722,
+    "eurostat:population_year":2020,
     "geom:area":0.009087,
-    "geom:area_square_m":82424537.943068,
+    "geom:area_square_m":82424537.943081,
     "geom:bbox":"11.891947362,42.7644765094,12.0651303652,42.8697590481",
     "geom:latitude":42.812361,
     "geom:longitude":11.968907,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055002",
+        "eurostat:nuts_2021_id":"055002",
         "gn:id":6538619,
         "gp:id":12675965,
         "qs_pg:id":946724
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39d829f09448a2a147136ada185e32d7",
+    "wof:geomhash":"171494772da196f71e2571d5222b8213",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459629,
-    "wof:lastmodified":1582328158,
+    "wof:lastmodified":1684353697,
     "wof:name":"Allerona",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":1722,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

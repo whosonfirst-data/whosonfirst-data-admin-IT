@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isolabella",
+    "eurostat:nuts_2021_id":"001123",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001123",
+    "eurostat:population":379,
+    "eurostat:population_year":2020,
     "geom:area":0.000544,
     "geom:area_square_m":4764437.423443,
     "geom:bbox":"7.89368547896,44.8918689691,7.92634737105,44.9171059572",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001123",
+        "eurostat:nuts_2021_id":"001123",
         "gn:id":6543379,
         "gp:id":20076473,
         "qs_pg:id":1286988
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d426cda7df172259e4805737af4f8fdd",
+    "wof:geomhash":"8071ef58b4cab4c60d6d8d7c014fbe53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404456451,
-    "wof:lastmodified":1582328066,
+    "wof:lastmodified":1684353624,
     "wof:name":"Isolabella",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":379,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

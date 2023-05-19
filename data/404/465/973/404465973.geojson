@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isola di Fondra",
+    "eurostat:nuts_2021_id":"016121",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016121",
+    "eurostat:population":173,
+    "eurostat:population_year":2020,
     "geom:area":0.001491,
     "geom:area_square_m":12811523.151476,
     "geom:bbox":"9.70718690246,45.9588616956,9.79201544543,45.9954575231",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016121",
+        "eurostat:nuts_2021_id":"016121",
         "gn:id":6542568,
         "gp:id":20076190,
         "qs_pg:id":247311
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7b993ee360de2cbc45d96b9b39dca15",
+    "wof:geomhash":"ba2640184eddda1585cfed049ad82897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404465973,
-    "wof:lastmodified":1582327846,
+    "wof:lastmodified":1684353840,
     "wof:name":"Isola Di Fondra",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":173,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

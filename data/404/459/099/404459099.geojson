@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_032006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trieste",
+    "eurostat:nuts_2021_id":"032006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH44",
+    "eurostat:nuts_2021_level_lau":"032006",
+    "eurostat:population":203234,
+    "eurostat:population_year":2020,
     "geom:area":0.009799,
-    "geom:area_square_m":84678169.033148,
+    "geom:area_square_m":84678169.033143,
     "geom:bbox":"13.6684030854,45.6068245627,13.8984191685,45.7461821664",
     "geom:latitude":45.663969,
     "geom:longitude":13.798643,
@@ -314,6 +326,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -322,6 +336,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_032006",
+        "eurostat:nuts_2021_id":"032006",
         "gn:id":3165186,
         "gp:id":12676517,
         "qs_pg:id":1163412
@@ -330,7 +346,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"170665836a1ec3ccf5c7c310148a5213",
+    "wof:geomhash":"2aa4e2b4f8d459ba3c614e3cb5952348",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -341,10 +357,12 @@
         }
     ],
     "wof:id":404459099,
-    "wof:lastmodified":1582328160,
+    "wof:lastmodified":1684353686,
     "wof:name":"Trieste",
     "wof:parent_id":85685329,
     "wof:placetype":"localadmin",
+    "wof:population":203234,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

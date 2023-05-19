@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calcata",
+    "eurostat:nuts_2021_id":"056010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056010",
+    "eurostat:population":907,
+    "eurostat:population_year":2020,
     "geom:area":0.000831,
-    "geom:area_square_m":7612111.467063,
+    "geom:area_square_m":7612111.467062,
     "geom:bbox":"12.4111919435,42.1801673675,12.4353170192,42.2459977131",
     "geom:latitude":42.206092,
     "geom:longitude":12.423876,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056010",
+        "eurostat:nuts_2021_id":"056010",
         "gn:id":6536359,
         "gp:id":12677301,
         "qs_pg:id":902513
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65bbad53e5b51dd94f1b173330b7d510",
+    "wof:geomhash":"62f9366d8154c76d1911320f428037fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461239,
-    "wof:lastmodified":1582328145,
+    "wof:lastmodified":1684353735,
     "wof:name":"Calcata",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

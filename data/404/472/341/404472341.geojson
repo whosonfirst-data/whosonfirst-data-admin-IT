@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio di Piano",
+    "eurostat:nuts_2021_id":"037052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037052",
+    "eurostat:population":9035,
+    "eurostat:population_year":2020,
     "geom:area":0.003453,
-    "geom:area_square_m":30367761.246926,
+    "geom:area_square_m":30367761.246921,
     "geom:bbox":"11.3447755584,44.6094495536,11.4195727292,44.7021120977",
     "geom:latitude":44.657534,
     "geom:longitude":11.374784,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_037052",
+        "eurostat:nuts_2021_id":"037052"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c2c102f20f2bf630a9974e87074dbfaa",
+    "wof:geomhash":"601468d89c99ea72d2dc17af9d57642e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404472341,
-    "wof:lastmodified":1566723362,
+    "wof:lastmodified":1684353958,
     "wof:name":"San Giorgio Di Piano",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":9035,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

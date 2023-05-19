@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luson/L\u00fcsen",
+    "eurostat:nuts_2021_id":"021044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021044",
+    "eurostat:population":1555,
+    "eurostat:population_year":2020,
     "geom:area":0.008755,
-    "geom:area_square_m":74200800.109421,
+    "geom:area_square_m":74200800.109417,
     "geom:bbox":"11.6875463202,46.6695008784,11.8372953593,46.7832940904",
     "geom:latitude":46.733149,
     "geom:longitude":11.771032,
@@ -63,6 +75,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -71,6 +85,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021044",
+        "eurostat:nuts_2021_id":"021044",
         "gn:id":3174425,
         "gp:id":12680059,
         "qs_pg:id":957717
@@ -79,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2664cf62850efa906a64028aa0d1736",
+    "wof:geomhash":"82ffaf312af52d4ec84cee5a38d27339",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404473143,
-    "wof:lastmodified":1582327922,
+    "wof:lastmodified":1684353980,
     "wof:name":"Luson",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1555,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Fratello",
+    "eurostat:nuts_2021_id":"083078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083078",
+    "eurostat:population":3466,
+    "eurostat:population_year":2020,
     "geom:area":0.006899,
-    "geom:area_square_m":67244652.003031,
+    "geom:area_square_m":67244652.003038,
     "geom:bbox":"14.5582408867,37.9028015501,14.6748669144,38.0475919613",
     "geom:latitude":37.975271,
     "geom:longitude":14.611892,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083078",
+        "eurostat:nuts_2021_id":"083078",
         "gn:id":6539158,
         "gp:id":12679415,
         "qs_pg:id":209085
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f89df9b48139d4aa94d199e8b5d3ba6",
+    "wof:geomhash":"83e85dbcf6dece7b5056147e2c8c1f11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466359,
-    "wof:lastmodified":1582328197,
+    "wof:lastmodified":1684353847,
     "wof:name":"San Fratello",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":3466,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

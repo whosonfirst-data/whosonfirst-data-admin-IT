@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Introbio",
+    "eurostat:nuts_2021_id":"097040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097040",
+    "eurostat:population":1962,
+    "eurostat:population_year":2020,
     "geom:area":0.003026,
-    "geom:area_square_m":25991161.799996,
+    "geom:area_square_m":25991161.799986,
     "geom:bbox":"9.43015401047,45.9514376458,9.52738408574,46.0439654936",
     "geom:latitude":45.999321,
     "geom:longitude":9.48243,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097040",
+        "eurostat:nuts_2021_id":"097040",
         "gn:id":6542107,
         "gp:id":12679765,
         "qs_pg:id":103822
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa0fd04bf49911ab0924e087b7a1201d",
+    "wof:geomhash":"dca1f59eb4a2f68393aa313148db0e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469311,
-    "wof:lastmodified":1582328041,
+    "wof:lastmodified":1684353902,
     "wof:name":"Introbio",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":1962,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

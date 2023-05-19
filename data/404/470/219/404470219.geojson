@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baone",
+    "eurostat:nuts_2021_id":"028009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028009",
+    "eurostat:population":3086,
+    "eurostat:population_year":2020,
     "geom:area":0.002798,
-    "geom:area_square_m":24358671.031053,
+    "geom:area_square_m":24358671.031052,
     "geom:bbox":"11.6331644402,45.2185908688,11.7245662822,45.2860556741",
     "geom:latitude":45.252572,
     "geom:longitude":11.681365,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028009",
+        "eurostat:nuts_2021_id":"028009",
         "gn:id":6540394,
         "gp:id":12676524,
         "qs_pg:id":50723
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc60d180f1acaa6ea98bc4fbef503de3",
+    "wof:geomhash":"6410f7b7d34a6b9cff0a8496ab8ad0aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470219,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353918,
     "wof:name":"Baone",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3086,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

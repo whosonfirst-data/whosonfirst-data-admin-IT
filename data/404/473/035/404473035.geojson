@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_100007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vernio",
+    "eurostat:nuts_2021_id":"100007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI15",
+    "eurostat:nuts_2021_level_lau":"100007",
+    "eurostat:population":6084,
+    "eurostat:population_year":2020,
     "geom:area":0.00712,
-    "geom:area_square_m":63259494.061486,
+    "geom:area_square_m":63259494.061489,
     "geom:bbox":"11.0932771568,44.0098393651,11.2128767203,44.1123973375",
     "geom:latitude":44.067323,
     "geom:longitude":11.151743,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_100007",
+        "eurostat:nuts_2021_id":"100007",
         "gn:id":6539665,
         "gp:id":12680034,
         "qs_pg:id":248783
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c29a8b85e630111b2d956aa83f4c06d3",
+    "wof:geomhash":"ec9a87349899b7405a83e8c990a8b762",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404473035,
-    "wof:lastmodified":1582327929,
+    "wof:lastmodified":1684353976,
     "wof:name":"Vernio",
     "wof:parent_id":85685683,
     "wof:placetype":"localadmin",
+    "wof:population":6084,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinadio",
+    "eurostat:nuts_2021_id":"004248",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004248",
+    "eurostat:population":607,
+    "eurostat:population_year":2020,
     "geom:area":0.020651,
-    "geom:area_square_m":182853020.930352,
+    "geom:area_square_m":182853020.930359,
     "geom:bbox":"6.99465991782,44.1979827188,7.21997653518,44.3530897456",
     "geom:latitude":44.268798,
     "geom:longitude":7.11756,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004248",
+        "eurostat:nuts_2021_id":"004248",
         "gn:id":6540309,
         "gp:id":12676430,
         "qs_pg:id":1101987
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a263cda1ac46dcce167ec61b0e2fa76",
+    "wof:geomhash":"48fa8825706d92f62d7c35cdaa2f0168",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455907,
-    "wof:lastmodified":1582327809,
+    "wof:lastmodified":1684353613,
     "wof:name":"Vinadio",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":607,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

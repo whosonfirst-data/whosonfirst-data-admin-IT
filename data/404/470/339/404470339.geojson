@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piove di Sacco",
+    "eurostat:nuts_2021_id":"028065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028065",
+    "eurostat:population":20169,
+    "eurostat:population_year":2020,
     "geom:area":0.004097,
-    "geom:area_square_m":35633636.642944,
+    "geom:area_square_m":35633636.642949,
     "geom:bbox":"12.0036375523,45.2540772989,12.1140261943,45.3324201977",
     "geom:latitude":45.29897,
     "geom:longitude":12.052018,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028065",
+        "eurostat:nuts_2021_id":"028065",
         "gn:id":6539928,
         "gp:id":12678937,
         "qs_pg:id":1108484
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed9c9bb6ddef309475f66705651ae011",
+    "wof:geomhash":"a25cbc3cca19757da8d68582458c2523",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470339,
-    "wof:lastmodified":1582327738,
+    "wof:lastmodified":1684353920,
     "wof:name":"Piove Di Sacco",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":20169,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

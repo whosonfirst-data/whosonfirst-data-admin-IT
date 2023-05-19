@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corropoli",
+    "eurostat:nuts_2021_id":"067021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067021",
+    "eurostat:population":5150,
+    "eurostat:population_year":2020,
     "geom:area":0.002427,
-    "geom:area_square_m":22009738.171867,
+    "geom:area_square_m":22009738.17187,
     "geom:bbox":"13.8171900232,42.7932586786,13.8983736332,42.8514064032",
     "geom:latitude":42.827407,
     "geom:longitude":13.853636,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067021",
+        "eurostat:nuts_2021_id":"067021",
         "gn:id":6540716,
         "gp:id":12678928,
         "qs_pg:id":351893
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"667ea87362fe0a59edf9e22eccf709ae",
+    "wof:geomhash":"eb4a66cb18b280b5cd90889b0053ccc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462357,
-    "wof:lastmodified":1582327863,
+    "wof:lastmodified":1684353757,
     "wof:name":"Corropoli",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":5150,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

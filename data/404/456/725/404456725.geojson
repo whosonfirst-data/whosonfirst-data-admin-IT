@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prasco",
+    "eurostat:nuts_2021_id":"006139",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006139",
+    "eurostat:population":486,
+    "eurostat:population_year":2020,
     "geom:area":0.000678,
-    "geom:area_square_m":5964842.928299,
+    "geom:area_square_m":5964842.928298,
     "geom:bbox":"8.52433407864,44.6259063392,8.56206560066,44.6605370226",
     "geom:latitude":44.644059,
     "geom:longitude":8.540008,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006139",
+        "eurostat:nuts_2021_id":"006139",
         "gn:id":6543538,
         "gp:id":20075935,
         "qs_pg:id":345881
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e17e7b4725d9ca78ef09bd70a682fb2f",
+    "wof:geomhash":"752831ddacc060445ebddcb7159ba82e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456725,
-    "wof:lastmodified":1582328055,
+    "wof:lastmodified":1684353631,
     "wof:name":"Prasco",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":486,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

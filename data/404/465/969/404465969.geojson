@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grone",
+    "eurostat:nuts_2021_id":"016119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016119",
+    "eurostat:population":886,
+    "eurostat:population_year":2020,
     "geom:area":0.0009,
-    "geom:area_square_m":7764503.441178,
+    "geom:area_square_m":7764503.441179,
     "geom:bbox":"9.90189877139,45.7167560161,9.95590779943,45.7452360965",
     "geom:latitude":45.730838,
     "geom:longitude":9.931412,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016119",
+        "eurostat:nuts_2021_id":"016119",
         "gn:id":6543156,
         "gp:id":20076189,
         "qs_pg:id":1012873
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d72bab6372c6924178331f078e153041",
+    "wof:geomhash":"e8e86f8d32bf3818b67178d1b9c05cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404465969,
-    "wof:lastmodified":1582327838,
+    "wof:lastmodified":1684353840,
     "wof:name":"Grone",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":886,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

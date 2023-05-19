@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colle d'Anchise",
+    "eurostat:nuts_2021_id":"070020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070020",
+    "eurostat:population":768,
+    "eurostat:population_year":2020,
     "geom:area":0.001685,
-    "geom:area_square_m":15604527.882411,
+    "geom:area_square_m":15604527.882413,
     "geom:bbox":"14.4974749603,41.4871241031,14.5702287764,41.5423311876",
     "geom:latitude":41.510785,
     "geom:longitude":14.52484,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070020",
+        "eurostat:nuts_2021_id":"070020",
         "gn:id":6541242,
         "gp:id":12678785,
         "qs_pg:id":40518
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c73b7a9b432bb88880549c493217b69",
+    "wof:geomhash":"ffcc9e0cfaab116f27585c696a2cb1ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404462797,
-    "wof:lastmodified":1582327849,
+    "wof:lastmodified":1684353765,
     "wof:name":"Colle D'Anchise",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":768,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

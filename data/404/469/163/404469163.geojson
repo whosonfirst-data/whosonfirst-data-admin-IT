@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponti sul Mincio",
+    "eurostat:nuts_2021_id":"020044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020044",
+    "eurostat:population":2327,
+    "eurostat:population_year":2020,
     "geom:area":0.001348,
-    "geom:area_square_m":11698184.510924,
+    "geom:area_square_m":11698184.510926,
     "geom:bbox":"10.6546808725,45.3911022337,10.7195614644,45.428091921",
     "geom:latitude":45.411017,
     "geom:longitude":10.689507,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020044",
+        "eurostat:nuts_2021_id":"020044",
         "gn:id":6542664,
         "gp:id":20076368,
         "qs_pg:id":1149896
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc039fc8525ad92c9c7029836bf4234f",
+    "wof:geomhash":"2b2b74c5d812bd8965ce562848cc578e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469163,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353900,
     "wof:name":"Ponti Sul Mincio",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":2327,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

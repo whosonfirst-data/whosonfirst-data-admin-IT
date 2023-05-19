@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervignano del Friuli",
+    "eurostat:nuts_2021_id":"030023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030023",
+    "eurostat:population":13781,
+    "eurostat:population_year":2020,
     "geom:area":0.003371,
-    "geom:area_square_m":29040754.756235,
+    "geom:area_square_m":29040754.75623,
     "geom:bbox":"13.2943546223,45.7844759068,13.3823543701,45.8752254372",
     "geom:latitude":45.829355,
     "geom:longitude":13.333074,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030023",
+        "eurostat:nuts_2021_id":"030023",
         "gn:id":6538363,
         "gp:id":12678549,
         "qs_pg:id":351880
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40e764f7a533ad1525c83aefdfa72b8f",
+    "wof:geomhash":"51cce393695ac4ea41126ace24c4796a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470489,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353922,
     "wof:name":"Cervignano Del Friuli",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":13781,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

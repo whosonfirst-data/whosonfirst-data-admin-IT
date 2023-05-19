@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bard",
+    "eurostat:nuts_2021_id":"007009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007009",
+    "eurostat:population":120,
+    "eurostat:population_year":2020,
     "geom:area":0.00035,
-    "geom:area_square_m":3026219.783619,
+    "geom:area_square_m":3026219.783618,
     "geom:bbox":"7.73616479263,45.6026373578,7.76309218739,45.6267003553",
     "geom:latitude":45.616731,
     "geom:longitude":7.748729,
@@ -180,6 +192,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -188,6 +202,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007009",
+        "eurostat:nuts_2021_id":"007009",
         "gn:id":6540316,
         "gp:id":12676564,
         "qs_pg:id":39073
@@ -196,7 +212,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78a05d9ad720655191d54ce346a574b5",
+    "wof:geomhash":"955214b4dfba3c0fac2b7f8c9a671008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,10 +223,12 @@
         }
     ],
     "wof:id":404457943,
-    "wof:lastmodified":1582328121,
+    "wof:lastmodified":1684353660,
     "wof:name":"Bard",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

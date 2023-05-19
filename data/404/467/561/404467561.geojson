@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camogli",
+    "eurostat:nuts_2021_id":"010007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010007",
+    "eurostat:population":5168,
+    "eurostat:population_year":2020,
     "geom:area":0.001137,
-    "geom:area_square_m":10053214.953136,
+    "geom:area_square_m":10053214.953138,
     "geom:bbox":"9.1450485297,44.3086507672,9.19441426109,44.3576679592",
     "geom:latitude":44.335614,
     "geom:longitude":9.167425,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010007",
+        "eurostat:nuts_2021_id":"010007",
         "gn:id":6537058,
         "gp:id":12677389,
         "qs_pg:id":1163431
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07c5a03b0ed96f891ec3de98c5755ec0",
+    "wof:geomhash":"8bba2bd70270f986a70d098c517c3297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404467561,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353876,
     "wof:name":"Camogli",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":5168,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

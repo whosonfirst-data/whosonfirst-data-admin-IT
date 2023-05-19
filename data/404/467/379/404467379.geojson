@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Antioco",
+    "eurostat:nuts_2021_id":"111071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111071",
+    "eurostat:population":11026,
+    "eurostat:population_year":2020,
     "geom:area":0.009151,
-    "geom:area_square_m":87892289.250654,
+    "geom:area_square_m":87892289.250647,
     "geom:bbox":"8.37082975879,38.8590655049,8.51834303798,39.1084221549",
     "geom:latitude":39.032891,
     "geom:longitude":8.429141,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111071",
+        "eurostat:nuts_2021_id":"111071",
         "gn:id":6540070,
         "gp:id":20076839,
         "qs_pg:id":907238
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ebeddd1a90e2ccfa34141c99e2aaf53",
+    "wof:geomhash":"477c2322ae127f45a785505aa15541d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404467379,
-    "wof:lastmodified":1582327975,
+    "wof:lastmodified":1684353873,
     "wof:name":"Sant'Antioco",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":11026,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

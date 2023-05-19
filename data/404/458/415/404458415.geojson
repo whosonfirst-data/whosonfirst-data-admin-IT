@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urbana",
+    "eurostat:nuts_2021_id":"028095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028095",
+    "eurostat:population":2078,
+    "eurostat:population_year":2020,
     "geom:area":0.001949,
-    "geom:area_square_m":16983258.056439,
+    "geom:area_square_m":16983224.889409,
     "geom:bbox":"11.401474,45.175929,11.459479,45.224747",
     "geom:latitude":45.200043,
     "geom:longitude":11.43024,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028095",
+        "eurostat:nuts_2021_id":"028095",
         "gn:id":6543005,
         "gp:id":12681756,
         "qs_pg:id":1169627
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efd1a0376ffd64a2e4187cf0a5ef9e17",
+    "wof:geomhash":"1d6e272ba25e6bb5f17a122fede51b14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404458415,
-    "wof:lastmodified":1636496851,
+    "wof:lastmodified":1684353669,
     "wof:name":"Urbana",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":2078,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

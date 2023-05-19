@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carapelle",
+    "eurostat:nuts_2021_id":"071010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071010",
+    "eurostat:population":6573,
+    "eurostat:population_year":2020,
     "geom:area":0.002672,
-    "geom:area_square_m":24799677.041176,
+    "geom:area_square_m":24799677.04118,
     "geom:bbox":"15.6214246238,41.3266584425,15.7866745736,41.3953845346",
     "geom:latitude":41.361916,
     "geom:longitude":15.701709,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071010",
+        "eurostat:nuts_2021_id":"071010",
         "gn:id":6540021,
         "gp:id":12677638,
         "qs_pg:id":39779
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"798f9c347cff80e5fa04f07198461cca",
+    "wof:geomhash":"524bff962de5a9e3515bcbe66c06c1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463163,
-    "wof:lastmodified":1582327779,
+    "wof:lastmodified":1684353773,
     "wof:name":"Carapelle",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":6573,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

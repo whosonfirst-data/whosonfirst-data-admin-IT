@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sambuca Pistoiese",
+    "eurostat:nuts_2021_id":"047018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047018",
+    "eurostat:population":1535,
+    "eurostat:population_year":2020,
     "geom:area":0.008678,
-    "geom:area_square_m":77103216.017028,
+    "geom:area_square_m":77103216.017039,
     "geom:bbox":"10.9177716551,44.0052203029,11.0545274391,44.1388086931",
     "geom:latitude":44.069167,
     "geom:longitude":10.997469,
@@ -191,6 +203,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -199,6 +213,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047018",
+        "eurostat:nuts_2021_id":"047018",
         "gn:id":3168593,
         "gp:id":20076752,
         "qs_pg:id":968262
@@ -207,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b738af83d4b259fa32856f252a08cfb",
+    "wof:geomhash":"eb64111444c3146bbaf0705dac98eaa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,10 +234,12 @@
         }
     ],
     "wof:id":404472727,
-    "wof:lastmodified":1582327910,
+    "wof:lastmodified":1684353968,
     "wof:name":"Sambuca Pistoiese",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":1535,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

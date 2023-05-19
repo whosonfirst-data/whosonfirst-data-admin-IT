@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albairate",
+    "eurostat:nuts_2021_id":"015005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015005",
+    "eurostat:population":4735,
+    "eurostat:population_year":2020,
     "geom:area":0.001724,
-    "geom:area_square_m":14960006.337944,
+    "geom:area_square_m":14960006.337943,
     "geom:bbox":"8.91547726291,45.3999451311,8.9746559913,45.4490067393",
     "geom:latitude":45.421936,
     "geom:longitude":8.945511,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_015005",
+        "eurostat:nuts_2021_id":"015005"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"720eb9533f98128b4c3b19ff81c536e5",
+    "wof:geomhash":"359d840eb9b4c015cf3300fff6d6741c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404468293,
-    "wof:lastmodified":1566723622,
+    "wof:lastmodified":1684353887,
     "wof:name":"Albairate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":4735,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiorano Canavese",
+    "eurostat:nuts_2021_id":"001105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001105",
+    "eurostat:population":764,
+    "eurostat:population_year":2020,
     "geom:area":0.0005,
     "geom:area_square_m":4338461.967149,
     "geom:bbox":"7.81319299187,45.4533316299,7.8510847018,45.4822421711",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001105",
+        "eurostat:nuts_2021_id":"001105",
         "gn:id":6543258,
         "gp:id":20076467,
         "qs_pg:id":50718
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7adfd1310b6980930195ceb76ffef53c",
+    "wof:geomhash":"6fbea191b7ff37dbb48e90c283e5578d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456411,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353623,
     "wof:name":"Fiorano Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":764,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

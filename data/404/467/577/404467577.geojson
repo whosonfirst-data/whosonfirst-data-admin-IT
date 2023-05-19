@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medesano",
+    "eurostat:nuts_2021_id":"034020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034020",
+    "eurostat:population":10874,
+    "eurostat:population_year":2020,
     "geom:area":0.010092,
-    "geom:area_square_m":88638258.003517,
+    "geom:area_square_m":88638258.00352,
     "geom:bbox":"9.98234146086,44.6914643434,10.1827731161,44.7826462003",
     "geom:latitude":44.739693,
     "geom:longitude":10.080356,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034020",
+        "eurostat:nuts_2021_id":"034020",
         "gn:id":6539702,
         "gp:id":12676522,
         "qs_pg:id":1193016
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b2a3e3d7f47b499729a2c400eb2e7c3",
+    "wof:geomhash":"a40ed45fabae767f2665152eaa1364ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404467577,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353876,
     "wof:name":"Medesano",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":10874,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

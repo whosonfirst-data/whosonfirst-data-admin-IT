@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pergola",
+    "eurostat:nuts_2021_id":"041043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041043",
+    "eurostat:population":6012,
+    "eurostat:population_year":2020,
     "geom:area":0.012503,
-    "geom:area_square_m":112017505.814591,
+    "geom:area_square_m":112017505.814605,
     "geom:bbox":"12.7422753562,43.5040050343,12.9230308244,43.6461957341",
     "geom:latitude":43.569513,
     "geom:longitude":12.835328,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041043",
+        "eurostat:nuts_2021_id":"041043",
         "gn:id":6540446,
         "gp:id":12676678,
         "qs_pg:id":240801
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a5bf185b1bf756457327bdd3813f118",
+    "wof:geomhash":"92361518e497abbe42978943077896d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459797,
-    "wof:lastmodified":1582328152,
+    "wof:lastmodified":1684353701,
     "wof:name":"Pergola",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":6012,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

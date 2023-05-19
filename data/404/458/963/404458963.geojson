@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torremaggiore",
+    "eurostat:nuts_2021_id":"071056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071056",
+    "eurostat:population":17012,
+    "eurostat:population_year":2020,
     "geom:area":0.022571,
-    "geom:area_square_m":208501232.668154,
+    "geom:area_square_m":208501232.668104,
     "geom:bbox":"15.1018793045,41.5684574182,15.3564937709,41.7619618548",
     "geom:latitude":41.664764,
     "geom:longitude":15.239718,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071056",
+        "eurostat:nuts_2021_id":"071056",
         "gn:id":6542269,
         "gp:id":12682095,
         "qs_pg:id":885831
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d850c49fe6f682cf628f86297d8417eb",
+    "wof:geomhash":"34ec140d5a7996f7658b6755c4b583e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404458963,
-    "wof:lastmodified":1582327938,
+    "wof:lastmodified":1684353682,
     "wof:name":"Torremaggiore",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":17012,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

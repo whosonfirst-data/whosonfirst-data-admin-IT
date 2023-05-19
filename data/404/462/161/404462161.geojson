@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fagnano Alto",
+    "eurostat:nuts_2021_id":"066042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066042",
+    "eurostat:population":380,
+    "eurostat:population_year":2020,
     "geom:area":0.002681,
-    "geom:area_square_m":24540015.233309,
+    "geom:area_square_m":24540015.233311,
     "geom:bbox":"13.5470619483,42.2088814924,13.6349658616,42.280335851",
     "geom:latitude":42.249898,
     "geom:longitude":13.582875,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066042",
+        "eurostat:nuts_2021_id":"066042",
         "gn:id":6536398,
         "gp:id":12677396,
         "qs_pg:id":1142867
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d84e3558ed91faea164d118e56c19c8f",
+    "wof:geomhash":"21f74fe00fa38d7fbba2a34e0f2dc039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462161,
-    "wof:lastmodified":1582327851,
+    "wof:lastmodified":1684353753,
     "wof:name":"Fagnano Alto",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":380,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

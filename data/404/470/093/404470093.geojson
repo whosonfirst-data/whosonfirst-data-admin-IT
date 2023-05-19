@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monastier di Treviso",
+    "eurostat:nuts_2021_id":"026044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026044",
+    "eurostat:population":4403,
+    "eurostat:population_year":2020,
     "geom:area":0.002913,
     "geom:area_square_m":25178908.788997,
     "geom:bbox":"12.3930957947,45.637549155,12.4893400974,45.6892270644",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026044",
+        "eurostat:nuts_2021_id":"026044",
         "gn:id":6541549,
         "gp:id":12679364,
         "qs_pg:id":249146
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"338ea925b406eff8d3a057632d7aca46",
+    "wof:geomhash":"f3c86b7973edc3db7b56deb1b7dde576",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470093,
-    "wof:lastmodified":1582327755,
+    "wof:lastmodified":1684353915,
     "wof:name":"Monastier Di Treviso",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":4403,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerchiara di Calabria",
+    "eurostat:nuts_2021_id":"078036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078036",
+    "eurostat:population":2337,
+    "eurostat:population_year":2020,
     "geom:area":0.008549,
-    "geom:area_square_m":81151270.560797,
+    "geom:area_square_m":81151270.560771,
     "geom:bbox":"16.2142136814,39.7831751139,16.4695675957,39.9281046714",
     "geom:latitude":39.85426,
     "geom:longitude":16.3807,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078036",
+        "eurostat:nuts_2021_id":"078036"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"75f5d974b2eea3caf6e7136eda688b93",
+    "wof:geomhash":"56da278977ab3bccc0473e2095086a69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464125,
-    "wof:lastmodified":1566723249,
+    "wof:lastmodified":1684353798,
     "wof:name":"Cerchiara Di Calabria",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2337,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

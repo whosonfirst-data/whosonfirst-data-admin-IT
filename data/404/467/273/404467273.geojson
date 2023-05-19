@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arbus",
+    "eurostat:nuts_2021_id":"111001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111001",
+    "eurostat:population":6103,
+    "eurostat:population_year":2020,
     "geom:area":0.028232,
-    "geom:area_square_m":269083472.905588,
+    "geom:area_square_m":269083472.905595,
     "geom:bbox":"8.37931395833,39.446409971,8.6204177401,39.7696674394",
     "geom:latitude":39.573882,
     "geom:longitude":8.498778,
@@ -116,6 +128,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -124,6 +138,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111001",
+        "eurostat:nuts_2021_id":"111001",
         "gn:id":6539273,
         "gp:id":12676181,
         "qs_pg:id":76058
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9823ec0b45cb32b1475e2ab0715cce14",
+    "wof:geomhash":"d91fe1f1f2c5fb0c1acaff1f194fe777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404467273,
-    "wof:lastmodified":1582327969,
+    "wof:lastmodified":1684353870,
     "wof:name":"Arbus",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":6103,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

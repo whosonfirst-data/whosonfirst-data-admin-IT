@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Germano Chisone",
+    "eurostat:nuts_2021_id":"001242",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001242",
+    "eurostat:population":1747,
+    "eurostat:population_year":2020,
     "geom:area":0.001807,
-    "geom:area_square_m":15833131.817765,
+    "geom:area_square_m":15833131.817768,
     "geom:bbox":"7.21120205271,44.8619568109,7.26937361433,44.9236650176",
     "geom:latitude":44.888706,
     "geom:longitude":7.236167,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001242",
+        "eurostat:nuts_2021_id":"001242",
         "gn:id":6543265,
         "gp:id":20076515,
         "qs_pg:id":1149923
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e311419c4b859f5349e054af40694b8",
+    "wof:geomhash":"5b30511ba02607ed9c7f41d864b5ead3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457287,
-    "wof:lastmodified":1582328099,
+    "wof:lastmodified":1684353646,
     "wof:name":"San Germano Chisone",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1747,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

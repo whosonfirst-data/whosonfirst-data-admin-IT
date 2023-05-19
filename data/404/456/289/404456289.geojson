@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candiolo",
+    "eurostat:nuts_2021_id":"001051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001051",
+    "eurostat:population":5644,
+    "eurostat:population_year":2020,
     "geom:area":0.001352,
-    "geom:area_square_m":11830363.397609,
+    "geom:area_square_m":11830363.397611,
     "geom:bbox":"7.55406095887,44.9449176019,7.61030849009,44.9888085571",
     "geom:latitude":44.96395,
     "geom:longitude":7.578379,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001051",
+        "eurostat:nuts_2021_id":"001051",
         "gn:id":6540907,
         "gp:id":12677499,
         "qs_pg:id":1108218
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"becf99d804212cd6924397c4d0771a4b",
+    "wof:geomhash":"00b12a8f109bac373a3414c33f376ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456289,
-    "wof:lastmodified":1582328050,
+    "wof:lastmodified":1684353620,
     "wof:name":"Candiolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":5644,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

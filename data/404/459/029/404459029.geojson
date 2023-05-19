@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terranova da Sibari",
+    "eurostat:nuts_2021_id":"078146",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078146",
+    "eurostat:population":4922,
+    "eurostat:population_year":2020,
     "geom:area":0.00452,
-    "geom:area_square_m":43027471.352549,
+    "geom:area_square_m":43027471.352557,
     "geom:bbox":"16.3032387582,39.6197891157,16.4223777131,39.7083580895",
     "geom:latitude":39.66283,
     "geom:longitude":16.360376,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078146",
+        "eurostat:nuts_2021_id":"078146"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"099a232fec31ba64d47936ffe5930ac9",
+    "wof:geomhash":"caea992f95e8c2ca073a861552b88f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459029,
-    "wof:lastmodified":1566723748,
+    "wof:lastmodified":1684353684,
     "wof:name":"Terranova Da Sibari",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":4922,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paderno Dugnano",
+    "eurostat:nuts_2021_id":"015166",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015166",
+    "eurostat:population":47467,
+    "eurostat:population_year":2020,
     "geom:area":0.001628,
-    "geom:area_square_m":14092865.59491,
+    "geom:area_square_m":14092865.594909,
     "geom:bbox":"9.13470820673,45.5509169191,9.20317804439,45.5928572391",
     "geom:latitude":45.572005,
     "geom:longitude":9.166654,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015166",
+        "eurostat:nuts_2021_id":"015166",
         "gn:id":6542037,
         "gp:id":12677172,
         "qs_pg:id":190392
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88d8a41f44b70a06fb9fdcdee108a7e0",
+    "wof:geomhash":"1cdfada806b32f9ced976161911636cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404468481,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353890,
     "wof:name":"Paderno Dugnano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":47467,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

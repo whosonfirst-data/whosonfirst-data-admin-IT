@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grezzago",
+    "eurostat:nuts_2021_id":"015110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015110",
+    "eurostat:population":3071,
+    "eurostat:population_year":2020,
     "geom:area":0.000284,
     "geom:area_square_m":2455800.794967,
     "geom:bbox":"9.47905247329,45.5822609494,9.51024561021,45.5997937372",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015110",
+        "eurostat:nuts_2021_id":"015110",
         "gn:id":6543134,
         "gp:id":20076557,
         "qs_pg:id":317787
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01da7f73ef7cbe550f3bd68ecb7fd92e",
+    "wof:geomhash":"743732cf35ea77c33e56729579eb116d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468419,
-    "wof:lastmodified":1582328086,
+    "wof:lastmodified":1684353888,
     "wof:name":"Grezzago",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":3071,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

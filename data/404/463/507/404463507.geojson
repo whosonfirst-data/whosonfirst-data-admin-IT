@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cercino",
+    "eurostat:nuts_2021_id":"014017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014017",
+    "eurostat:population":794,
+    "eurostat:population_year":2020,
     "geom:area":0.000664,
-    "geom:area_square_m":5685221.941473,
+    "geom:area_square_m":5685221.941471,
     "geom:bbox":"9.49576078356,46.1412362994,9.51952156303,46.1830028907",
     "geom:latitude":46.164678,
     "geom:longitude":9.507125,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014017",
+        "eurostat:nuts_2021_id":"014017",
         "gn:id":6541417,
         "gp:id":12678491,
         "qs_pg:id":536717
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"697b0215ac343a6d933396553ae9c367",
+    "wof:geomhash":"4c758ad2196d17bbf9a2555b344bc88c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463507,
-    "wof:lastmodified":1582327779,
+    "wof:lastmodified":1684353781,
     "wof:name":"Cercino",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":794,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

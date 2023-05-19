@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cocconato",
+    "eurostat:nuts_2021_id":"005042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005042",
+    "eurostat:population":1454,
+    "eurostat:population_year":2020,
     "geom:area":0.00189,
-    "geom:area_square_m":16497729.961236,
+    "geom:area_square_m":16497729.961237,
     "geom:bbox":"8.01032222609,45.066551397,8.08625192889,45.1092066875",
     "geom:latitude":45.089982,
     "geom:longitude":8.045828,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005042",
+        "eurostat:nuts_2021_id":"005042",
         "gn:id":6536047,
         "gp:id":12678737,
         "qs_pg:id":1102083
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a7edfd9c809a6238da8991ee4388249f",
+    "wof:geomhash":"bddb375331acd95c15d2a532fc603518",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456005,
-    "wof:lastmodified":1582328067,
+    "wof:lastmodified":1684353615,
     "wof:name":"Cocconato",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1454,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

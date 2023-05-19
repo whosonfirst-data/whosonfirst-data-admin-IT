@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capriana",
+    "eurostat:nuts_2021_id":"022040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022040",
+    "eurostat:population":584,
+    "eurostat:population_year":2020,
     "geom:area":0.001496,
-    "geom:area_square_m":12787638.161496,
+    "geom:area_square_m":12787638.161495,
     "geom:bbox":"11.305676389,46.2446880366,11.358841068,46.2987885556",
     "geom:latitude":46.270217,
     "geom:longitude":11.330904,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022040",
+        "eurostat:nuts_2021_id":"022040",
         "gn:id":6536232,
         "gp:id":12677617,
         "qs_pg:id":203843
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"395abe24510b70ca36801f8780fabbf1",
+    "wof:geomhash":"4517471375f83366e6ae775877ec4081",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404473387,
-    "wof:lastmodified":1582327933,
+    "wof:lastmodified":1684353988,
     "wof:name":"Capriana",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":584,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

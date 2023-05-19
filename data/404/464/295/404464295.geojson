@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Basile",
+    "eurostat:nuts_2021_id":"078111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078111",
+    "eurostat:population":1019,
+    "eurostat:population_year":2020,
     "geom:area":0.001947,
-    "geom:area_square_m":18496029.327242,
+    "geom:area_square_m":18496029.327244,
     "geom:bbox":"16.1354221571,39.7661170679,16.2221377173,39.8203462138",
     "geom:latitude":39.79717,
     "geom:longitude":16.184344,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078111",
+        "eurostat:nuts_2021_id":"078111"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cd0c093de7b5dea44a716694c9039f4b",
+    "wof:geomhash":"86ea9c7f7a07fc88ec90315cd9da3715",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464295,
-    "wof:lastmodified":1566723219,
+    "wof:lastmodified":1684353802,
     "wof:name":"San Basile",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1019,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

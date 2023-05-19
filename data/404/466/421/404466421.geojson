@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca Tirrena",
+    "eurostat:nuts_2021_id":"083105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083105",
+    "eurostat:population":8367,
+    "eurostat:population_year":2020,
     "geom:area":0.001455,
-    "geom:area_square_m":14137391.400464,
+    "geom:area_square_m":14137391.400466,
     "geom:bbox":"15.4260627275,38.1878738262,15.481995041,38.2488728222",
     "geom:latitude":38.221715,
     "geom:longitude":15.456859,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083105",
+        "eurostat:nuts_2021_id":"083105",
         "gn:id":6540838,
         "gp:id":12676643,
         "qs_pg:id":39136
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d74046a1735d7caea139906df2bc517e",
+    "wof:geomhash":"0048077510490f45a7598dee6896672d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466421,
-    "wof:lastmodified":1582328201,
+    "wof:lastmodified":1684353848,
     "wof:name":"Villafranca Tirrena",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":8367,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

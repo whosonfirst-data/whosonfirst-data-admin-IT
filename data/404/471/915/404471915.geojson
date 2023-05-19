@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borghetto Santo Spirito",
+    "eurostat:nuts_2021_id":"009012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009012",
+    "eurostat:population":4659,
+    "eurostat:population_year":2020,
     "geom:area":0.000607,
-    "geom:area_square_m":5384278.675333,
+    "geom:area_square_m":5384278.675331,
     "geom:bbox":"8.1980892935,44.102159007,8.24960258274,44.1309629517",
     "geom:latitude":44.115429,
     "geom:longitude":8.229627,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009012",
+        "eurostat:nuts_2021_id":"009012",
         "gn:id":6541657,
         "gp:id":12676923,
         "qs_pg:id":39331
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c024c9b4cb6e483fb5079f7e24adf7b9",
+    "wof:geomhash":"c5d85723bcadb87228ee17ecc7ebed98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471915,
-    "wof:lastmodified":1582327719,
+    "wof:lastmodified":1684353948,
     "wof:name":"Borghetto Santo Spirito",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":4659,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

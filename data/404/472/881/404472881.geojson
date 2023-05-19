@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Suvereto",
+    "eurostat:nuts_2021_id":"049020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049020",
+    "eurostat:population":3044,
+    "eurostat:population_year":2020,
     "geom:area":0.010221,
-    "geom:area_square_m":92341420.981768,
+    "geom:area_square_m":92341420.981766,
     "geom:bbox":"10.6266733082,42.9976054859,10.7962731978,43.1145377146",
     "geom:latitude":43.059306,
     "geom:longitude":10.705681,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049020",
+        "eurostat:nuts_2021_id":"049020",
         "gn:id":6540476,
         "gp:id":12677773,
         "qs_pg:id":907149
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6cb1db5efa2950f39a515b83c656481f",
+    "wof:geomhash":"7b5256a431c5a0b215702c7a2a97228e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404472881,
-    "wof:lastmodified":1582327884,
+    "wof:lastmodified":1684353972,
     "wof:name":"Suvereto",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":3044,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

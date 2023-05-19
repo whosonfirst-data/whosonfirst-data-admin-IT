@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oncino",
+    "eurostat:nuts_2021_id":"004154",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004154",
+    "eurostat:population":82,
+    "eurostat:population_year":2020,
     "geom:area":0.005374,
-    "geom:area_square_m":47274793.524113,
+    "geom:area_square_m":47274793.524114,
     "geom:bbox":"7.09005614953,44.6148181043,7.21433151691,44.6903108633",
     "geom:latitude":44.650931,
     "geom:longitude":7.163048,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004154",
+        "eurostat:nuts_2021_id":"004154",
         "gn:id":6543456,
         "gp:id":12676006,
         "qs_pg:id":76001
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb6fecc005abae60f942e2719e5cda77",
+    "wof:geomhash":"5d6113e4d8e581b502db81922cb76adb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455695,
-    "wof:lastmodified":1582327814,
+    "wof:lastmodified":1684353608,
     "wof:name":"Oncino",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":82,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conegliano",
+    "eurostat:nuts_2021_id":"026021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026021",
+    "eurostat:population":35276,
+    "eurostat:population_year":2020,
     "geom:area":0.004215,
-    "geom:area_square_m":36268119.050208,
+    "geom:area_square_m":36268119.050214,
     "geom:bbox":"12.2478298243,45.8601370281,12.333101139,45.9469587491",
     "geom:latitude":45.899346,
     "geom:longitude":12.293487,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026021",
+        "eurostat:nuts_2021_id":"026021",
         "gn:id":6538297,
         "gp:id":12678859,
         "qs_pg:id":1187906
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"727494b71ec20337e45b4fe5d52a8a58",
+    "wof:geomhash":"6e228fabd6fbc9da0dbfb84c325ca960",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404470041,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353914,
     "wof:name":"Conegliano",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":35276,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

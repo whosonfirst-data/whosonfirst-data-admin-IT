@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conselve",
+    "eurostat:nuts_2021_id":"028034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028034",
+    "eurostat:population":10177,
+    "eurostat:population_year":2020,
     "geom:area":0.002781,
-    "geom:area_square_m":24221728.159738,
+    "geom:area_square_m":24221728.159734,
     "geom:bbox":"11.8375418278,45.2002882864,11.9301632954,45.2567484807",
     "geom:latitude":45.228406,
     "geom:longitude":11.879886,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028034",
+        "eurostat:nuts_2021_id":"028034",
         "gn:id":6536670,
         "gp:id":12678869,
         "qs_pg:id":1150702
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff967eeaa5284bb1fdacd18bef29c09d",
+    "wof:geomhash":"99ab52b12b488f70f3dff758436e5449",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470271,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353919,
     "wof:name":"Conselve",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":10177,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aurigo",
+    "eurostat:nuts_2021_id":"008005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008005",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.001026,
     "geom:area_square_m":9131062.617573,
     "geom:bbox":"7.88688426145,43.97639278,7.93998366375,44.0073309535",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008005",
+        "eurostat:nuts_2021_id":"008005",
         "gn:id":6536065,
         "gp:id":20076411,
         "qs_pg:id":1232899
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bbc4e1ad3d4b1caa02e300c54c53521",
+    "wof:geomhash":"a60093d8232bbbf271ed0d141e5b12fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470835,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353928,
     "wof:name":"Aurigo",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Averara",
+    "eurostat:nuts_2021_id":"016014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016014",
+    "eurostat:population":182,
+    "eurostat:population_year":2020,
     "geom:area":0.001243,
-    "geom:area_square_m":10675654.526886,
+    "geom:area_square_m":10675654.526885,
     "geom:bbox":"9.60102148273,45.9776868634,9.65628798092,46.047453696",
     "geom:latitude":46.011976,
     "geom:longitude":9.635147,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016014",
+        "eurostat:nuts_2021_id":"016014",
         "gn:id":6537146,
         "gp:id":12676360,
         "qs_pg:id":38940
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d2d926734e9a55021a19bcbd6aaea30",
+    "wof:geomhash":"4edd72dd7137c0be9e9ef26a9cbc493d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468633,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353892,
     "wof:name":"Averara",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

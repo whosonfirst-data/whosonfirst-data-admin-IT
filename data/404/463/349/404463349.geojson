@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maglie",
+    "eurostat:nuts_2021_id":"075039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075039",
+    "eurostat:population":14040,
+    "eurostat:population_year":2020,
     "geom:area":0.00236,
-    "geom:area_square_m":22312355.295743,
+    "geom:area_square_m":22312355.295729,
     "geom:bbox":"18.2371444014,40.084696531,18.3562998324,40.1461129572",
     "geom:latitude":40.120664,
     "geom:longitude":18.295924,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075039",
+        "eurostat:nuts_2021_id":"075039",
         "gn:id":6538972,
         "gp:id":12680092,
         "qs_pg:id":1293140
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"442dc9e67fe959a480838e0a85137b60",
+    "wof:geomhash":"f452488232d8f61623be33bbc52ae4f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463349,
-    "wof:lastmodified":1582327775,
+    "wof:lastmodified":1684353778,
     "wof:name":"Maglie",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":14040,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

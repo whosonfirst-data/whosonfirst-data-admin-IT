@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vivaro",
+    "eurostat:nuts_2021_id":"093050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093050",
+    "eurostat:population":1309,
+    "eurostat:population_year":2020,
     "geom:area":0.004377,
-    "geom:area_square_m":37537780.310221,
+    "geom:area_square_m":37537780.310212,
     "geom:bbox":"12.7286191201,46.0333196289,12.817674948,46.1335539185",
     "geom:latitude":46.082916,
     "geom:longitude":12.779269,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093050",
+        "eurostat:nuts_2021_id":"093050",
         "gn:id":6540073,
         "gp:id":12682516,
         "qs_pg:id":1045600
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96d00707ede1769dcbe6b80963cf5e67",
+    "wof:geomhash":"317e5668663ae4e48ab59ede93df34bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470819,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353928,
     "wof:name":"Vivaro",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":1309,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bussolengo",
+    "eurostat:nuts_2021_id":"023015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023015",
+    "eurostat:population":20361,
+    "eurostat:population_year":2020,
     "geom:area":0.002788,
-    "geom:area_square_m":24178293.592319,
+    "geom:area_square_m":24178293.59232,
     "geom:bbox":"10.7751043261,45.4389747615,10.9063010611,45.4968606197",
     "geom:latitude":45.466283,
     "geom:longitude":10.845974,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023015",
+        "eurostat:nuts_2021_id":"023015",
         "gn:id":6536261,
         "gp:id":12677207,
         "qs_pg:id":1292096
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed812736b2104081f037fa9e0da84483",
+    "wof:geomhash":"5b2fe3b7470f7bdcc710977da5a36627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469665,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353908,
     "wof:name":"Bussolengo",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":20361,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

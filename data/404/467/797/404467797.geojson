@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Induno Olona",
+    "eurostat:nuts_2021_id":"012083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012083",
+    "eurostat:population":10450,
+    "eurostat:population_year":2020,
     "geom:area":0.001434,
-    "geom:area_square_m":12346266.11905,
+    "geom:area_square_m":12346266.119055,
     "geom:bbox":"8.81131537008,45.8320341399,8.86557818219,45.8880904533",
     "geom:latitude":45.856765,
     "geom:longitude":8.835929,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012083",
+        "eurostat:nuts_2021_id":"012083",
         "gn:id":6537080,
         "gp:id":12679759,
         "qs_pg:id":1187929
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e91d3df9c32bb44b2efa759790f8bfd",
+    "wof:geomhash":"0cd467cacc03a04cf420b75a1152cf50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467797,
-    "wof:lastmodified":1582327965,
+    "wof:lastmodified":1684353880,
     "wof:name":"Induno Olona",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":10450,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

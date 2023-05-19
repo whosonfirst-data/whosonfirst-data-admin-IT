@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verzegnis",
+    "eurostat:nuts_2021_id":"030132",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030132",
+    "eurostat:population":875,
+    "eurostat:population_year":2020,
     "geom:area":0.004592,
-    "geom:area_square_m":39175894.773067,
+    "geom:area_square_m":39175894.773063,
     "geom:bbox":"12.9043274702,46.3339396705,13.022481424,46.4041897184",
     "geom:latitude":46.369981,
     "geom:longitude":12.957554,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_030132",
+        "eurostat:nuts_2021_id":"030132"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"3fd672f0029ede60204f4079a8a7a8f9",
+    "wof:geomhash":"d3a12daf4331657d1e8f4880e35ff1ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404470731,
-    "wof:lastmodified":1566723133,
+    "wof:lastmodified":1684353927,
     "wof:name":"Verzegnis",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":875,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orroli",
+    "eurostat:nuts_2021_id":"111050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111050",
+    "eurostat:population":2132,
+    "eurostat:population_year":2020,
     "geom:area":0.007939,
-    "geom:area_square_m":75584819.331802,
+    "geom:area_square_m":75584819.331797,
     "geom:bbox":"9.19360314676,39.602780538,9.31492059242,39.7058178544",
     "geom:latitude":39.651815,
     "geom:longitude":9.260333,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111050",
+        "eurostat:nuts_2021_id":"111050",
         "gn:id":6537869,
         "gp:id":12680805,
         "qs_pg:id":416921
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e89557474cb7322342a635c2e03d5670",
+    "wof:geomhash":"4e06ce32e0b77693a4741633f4454c79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466953,
-    "wof:lastmodified":1582328183,
+    "wof:lastmodified":1684353862,
     "wof:name":"Orroli",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":2132,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

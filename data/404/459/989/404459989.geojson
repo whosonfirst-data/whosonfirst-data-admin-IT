@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altavilla Monferrato",
+    "eurostat:nuts_2021_id":"006007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006007",
+    "eurostat:population":424,
+    "eurostat:population_year":2020,
     "geom:area":0.001293,
     "geom:area_square_m":11312300.872592,
     "geom:bbox":"8.35164543631,44.950137703,8.39971039787,45.0107084658",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006007",
+        "eurostat:nuts_2021_id":"006007",
         "gn:id":6542854,
         "gp:id":12682605,
         "qs_pg:id":498914
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"581525677bcba231c7bc8179a909429d",
+    "wof:geomhash":"d69b68bdabb9faddf7874ceff35708c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459989,
-    "wof:lastmodified":1582328178,
+    "wof:lastmodified":1684353706,
     "wof:name":"Altavilla Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":424,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sassello",
+    "eurostat:nuts_2021_id":"009055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009055",
+    "eurostat:population":1767,
+    "eurostat:population_year":2020,
     "geom:area":0.011392,
-    "geom:area_square_m":100529814.138142,
+    "geom:area_square_m":100529814.138131,
     "geom:bbox":"8.43148235333,44.4278445578,8.67094021066,44.5224586071",
     "geom:latitude":44.468717,
     "geom:longitude":8.53191,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009055",
+        "eurostat:nuts_2021_id":"009055",
         "gn:id":6537054,
         "gp:id":12680897,
         "qs_pg:id":902526
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"041477b62026939836fd9042dd0ef097",
+    "wof:geomhash":"bc97283d3d512c16318637da6ef507d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404467513,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353875,
     "wof:name":"Sassello",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":1767,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

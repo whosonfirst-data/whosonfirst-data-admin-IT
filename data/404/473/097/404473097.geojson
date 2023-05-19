@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cornedo all'Isarco/Karneid",
+    "eurostat:nuts_2021_id":"021023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021023",
+    "eurostat:population":3421,
+    "eurostat:population_year":2020,
     "geom:area":0.004756,
-    "geom:area_square_m":40506664.478707,
+    "geom:area_square_m":40506664.478703,
     "geom:bbox":"11.3889444646,46.4321833002,11.5289769208,46.4968338745",
     "geom:latitude":46.466251,
     "geom:longitude":11.462224,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021023",
+        "eurostat:nuts_2021_id":"021023"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f628cbbc55e43dd7a45d878cc14aae96",
+    "wof:geomhash":"d83a5ad429e3fb01f112361a0ce72359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473097,
-    "wof:lastmodified":1566723400,
+    "wof:lastmodified":1684353978,
     "wof:name":"Cornedo All'Isarco",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3421,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Canzian d'Isonzo",
+    "eurostat:nuts_2021_id":"031018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031018",
+    "eurostat:population":6169,
+    "eurostat:population_year":2020,
     "geom:area":0.003912,
-    "geom:area_square_m":33734512.634643,
+    "geom:area_square_m":33734512.634638,
     "geom:bbox":"13.4197608611,45.7318317272,13.5292096156,45.8270660768",
     "geom:latitude":45.778156,
     "geom:longitude":13.464181,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031018",
+        "eurostat:nuts_2021_id":"031018",
         "gn:id":3168506,
         "gp:id":12677886,
         "qs_pg:id":289647
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9ce3bce2695764aa2d8ac7400af8a08",
+    "wof:geomhash":"4cf3149f70c0a3fb8fc77fa18274d8f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404459069,
-    "wof:lastmodified":1582328175,
+    "wof:lastmodified":1684353685,
     "wof:name":"San Canzian D'Isonzo",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":6169,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

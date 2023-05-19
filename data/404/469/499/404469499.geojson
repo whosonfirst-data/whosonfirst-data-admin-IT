@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maccastorna",
+    "eurostat:nuts_2021_id":"098033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098033",
+    "eurostat:population":67,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
-    "geom:area_square_m":5737335.061184,
+    "geom:area_square_m":5737335.061183,
     "geom:bbox":"9.83484069423,45.1277027369,9.87251669912,45.1605808804",
     "geom:latitude":45.144775,
     "geom:longitude":9.854482,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098033",
+        "eurostat:nuts_2021_id":"098033",
         "gn:id":6543687,
         "gp:id":20076401,
         "qs_pg:id":922898
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1435f905eb3322d79e305284932487fb",
+    "wof:geomhash":"0bb900211be728327031a315ad85cf23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404469499,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353905,
     "wof:name":"Maccastorna",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

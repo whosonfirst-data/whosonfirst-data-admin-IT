@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giussano",
+    "eurostat:nuts_2021_id":"108024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108024",
+    "eurostat:population":26181,
+    "eurostat:population_year":2020,
     "geom:area":0.001188,
-    "geom:area_square_m":10264874.002535,
+    "geom:area_square_m":10264874.002536,
     "geom:bbox":"9.19182646277,45.6646253692,9.23657432949,45.7177437412",
     "geom:latitude":45.693308,
     "geom:longitude":9.211166,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108024",
+        "eurostat:nuts_2021_id":"108024",
         "gn:id":6541630,
         "qs_pg:id":1037429
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"124af84ffe7e85ac67e1fdee28916b0f",
+    "wof:geomhash":"d3886ce2667ba1039bcff7bdd1ba52f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":404469615,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353907,
     "wof:name":"Giussano",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":26181,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

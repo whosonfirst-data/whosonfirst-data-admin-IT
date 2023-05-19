@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nuoro",
+    "eurostat:nuts_2021_id":"091051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091051",
+    "eurostat:population":35763,
+    "eurostat:population_year":2020,
     "geom:area":0.020372,
-    "geom:area_square_m":192006282.977763,
+    "geom:area_square_m":192006282.977759,
     "geom:bbox":"9.18306395145,40.2538311593,9.42612425463,40.4109566486",
     "geom:latitude":40.339333,
     "geom:longitude":9.299634,
@@ -224,6 +236,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -232,6 +246,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091051",
+        "eurostat:nuts_2021_id":"091051",
         "gn:id":6541862,
         "gp:id":12679997,
         "qs_pg:id":1310898
@@ -240,7 +256,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b84ef82909853255de76bcd8343b8de8",
+    "wof:geomhash":"74874f538cf05bf3d7ef144365d84e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,10 +267,12 @@
         }
     ],
     "wof:id":404460529,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353720,
     "wof:name":"Nuoro",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":35763,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

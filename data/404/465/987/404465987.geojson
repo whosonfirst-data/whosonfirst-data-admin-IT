@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Locatello",
+    "eurostat:nuts_2021_id":"016127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016127",
+    "eurostat:population":831,
+    "eurostat:population_year":2020,
     "geom:area":0.000439,
     "geom:area_square_m":3783506.149439,
     "geom:bbox":"9.51041025065,45.8271247719,9.55059672854,45.8576908592",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016127",
+        "eurostat:nuts_2021_id":"016127",
         "gn:id":6542569,
         "gp:id":12677144,
         "qs_pg:id":1142847
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7f1e5d49f7bafe7c6cc8705c87519e9",
+    "wof:geomhash":"85116241cf72b6dd0e5a8e25aa03470f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404465987,
-    "wof:lastmodified":1582327846,
+    "wof:lastmodified":1684353841,
     "wof:name":"Locatello",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":831,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

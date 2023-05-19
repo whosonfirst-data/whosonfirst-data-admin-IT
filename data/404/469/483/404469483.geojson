@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fombio",
+    "eurostat:nuts_2021_id":"098026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098026",
+    "eurostat:population":2324,
+    "eurostat:population_year":2020,
     "geom:area":0.000847,
-    "geom:area_square_m":7386286.156744,
+    "geom:area_square_m":7386286.156747,
     "geom:bbox":"9.6703382558,45.1037033946,9.7100724859,45.1531858262",
     "geom:latitude":45.133416,
     "geom:longitude":9.688466,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098026",
+        "eurostat:nuts_2021_id":"098026",
         "gn:id":6539416,
         "gp:id":12679318,
         "qs_pg:id":392502
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09169602fda99664174b0aacf5831962",
+    "wof:geomhash":"323ba6121b82f79dbb454d1f81cbf193",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469483,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353904,
     "wof:name":"Fombio",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":2324,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lovero",
+    "eurostat:nuts_2021_id":"014038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014038",
+    "eurostat:population":630,
+    "eurostat:population_year":2020,
     "geom:area":0.001571,
-    "geom:area_square_m":13435632.208684,
+    "geom:area_square_m":13435632.208686,
     "geom:bbox":"10.190222111,46.2022555471,10.2716201072,46.2572135191",
     "geom:latitude":46.227675,
     "geom:longitude":10.232392,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014038",
+        "eurostat:nuts_2021_id":"014038",
         "gn:id":6543738,
         "gp:id":12680023,
         "qs_pg:id":204060
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5714282ed4ae3abdc003056f73546464",
+    "wof:geomhash":"7a399a2417a27bafca9d3dad116a036c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468197,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353885,
     "wof:name":"Lovero",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":630,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

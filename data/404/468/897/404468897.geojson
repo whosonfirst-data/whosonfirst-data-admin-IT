@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dovera",
+    "eurostat:nuts_2021_id":"019041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019041",
+    "eurostat:population":3809,
+    "eurostat:population_year":2020,
     "geom:area":0.002374,
-    "geom:area_square_m":20622156.054322,
+    "geom:area_square_m":20622156.054323,
     "geom:bbox":"9.50494621333,45.3391257888,9.56810031671,45.3917185917",
     "geom:latitude":45.365948,
     "geom:longitude":9.537874,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019041",
+        "eurostat:nuts_2021_id":"019041",
         "gn:id":6537212,
         "gp:id":12679119,
         "qs_pg:id":1015998
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"359d7966a2f375645302da344287da4f",
+    "wof:geomhash":"0e8c0dd8a19724d05452137c736e6778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468897,
-    "wof:lastmodified":1582328091,
+    "wof:lastmodified":1684353896,
     "wof:name":"Dovera",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":3809,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

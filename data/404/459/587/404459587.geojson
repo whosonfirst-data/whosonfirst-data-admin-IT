@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verbania",
+    "eurostat:nuts_2021_id":"103072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103072",
+    "eurostat:population":30391,
+    "eurostat:population_year":2020,
     "geom:area":0.004349,
-    "geom:area_square_m":37397693.087376,
+    "geom:area_square_m":37397693.087374,
     "geom:bbox":"8.44283145075,45.9013247937,8.60875379774,45.9733395646",
     "geom:latitude":45.9351,
     "geom:longitude":8.5403,
@@ -221,6 +233,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -229,6 +243,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103072",
+        "eurostat:nuts_2021_id":"103072",
         "gn:id":6542004,
         "gp:id":12679764,
         "qs_pg:id":1195615
@@ -237,7 +253,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea822f61a53935ed406ad42aa4378b6a",
+    "wof:geomhash":"2fce3f48aec39d2e9abe148d1ca1292a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -248,10 +264,12 @@
         }
     ],
     "wof:id":404459587,
-    "wof:lastmodified":1582328166,
+    "wof:lastmodified":1684353696,
     "wof:name":"Verbania",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":30391,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

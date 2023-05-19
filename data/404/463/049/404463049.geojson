@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grazzanise",
+    "eurostat:nuts_2021_id":"061042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061042",
+    "eurostat:population":7000,
+    "eurostat:population_year":2020,
     "geom:area":0.005024,
-    "geom:area_square_m":46819421.651845,
+    "geom:area_square_m":46819421.651843,
     "geom:bbox":"14.0279843578,41.0479589463,14.1313070067,41.1324165764",
     "geom:latitude":41.093304,
     "geom:longitude":14.081761,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061042",
+        "eurostat:nuts_2021_id":"061042",
         "gn:id":6539455,
         "gp:id":12679674,
         "qs_pg:id":1195462
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b98530d4ddde227669e1113bd3619de3",
+    "wof:geomhash":"4f5b86b8b33585aa670e28d48ebc42ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463049,
-    "wof:lastmodified":1582327768,
+    "wof:lastmodified":1684353771,
     "wof:name":"Grazzanise",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":7000,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

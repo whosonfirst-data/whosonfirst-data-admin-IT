@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Costa Masnaga",
+    "eurostat:nuts_2021_id":"097026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097026",
+    "eurostat:population":4775,
+    "eurostat:population_year":2020,
     "geom:area":0.00065,
     "geom:area_square_m":5609210.543887,
     "geom:bbox":"9.24335256615,45.7562113437,9.29236322236,45.7774428075",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097026",
+        "eurostat:nuts_2021_id":"097026",
         "gn:id":6543332,
         "gp:id":12682559,
         "qs_pg:id":103844
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"364984d2148b76c2e205e2e0f2143489",
+    "wof:geomhash":"2fce956836de8212429bbf748c1485ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469281,
-    "wof:lastmodified":1582328028,
+    "wof:lastmodified":1684353902,
     "wof:name":"Costa Masnaga",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":4775,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

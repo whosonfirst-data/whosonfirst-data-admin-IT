@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boscoreale",
+    "eurostat:nuts_2021_id":"063008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063008",
+    "eurostat:population":27228,
+    "eurostat:population_year":2020,
     "geom:area":0.001205,
-    "geom:area_square_m":11282500.892203,
+    "geom:area_square_m":11282500.892201,
     "geom:bbox":"14.4634228408,40.7566392183,14.5508743212,40.7988147583",
     "geom:latitude":40.77926,
     "geom:longitude":14.506345,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063008",
+        "eurostat:nuts_2021_id":"063008",
         "gn:id":6542060,
         "gp:id":12677026,
         "qs_pg:id":225374
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cba64fadf00fe8b756d025b7e535367b",
+    "wof:geomhash":"cabce16e05af4e1dc503740bd6181039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404460885,
-    "wof:lastmodified":1582328013,
+    "wof:lastmodified":1684353726,
     "wof:name":"Boscoreale",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":27228,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marino",
+    "eurostat:nuts_2021_id":"058057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058057",
+    "eurostat:population":45922,
+    "eurostat:population_year":2020,
     "geom:area":0.002615,
-    "geom:area_square_m":24123057.90274,
+    "geom:area_square_m":24123057.902739,
     "geom:bbox":"12.5825662387,41.736044371,12.6857557767,41.7839082897",
     "geom:latitude":41.761314,
     "geom:longitude":12.623425,
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058057",
+        "eurostat:nuts_2021_id":"058057",
         "gn:id":6539761,
         "gp:id":12678383,
         "qs_pg:id":822800
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09287991c13a54b80bb23eb4ff1d469a",
+    "wof:geomhash":"0295da582136f48203f10f89fb41191a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404461643,
-    "wof:lastmodified":1582328126,
+    "wof:lastmodified":1684353742,
     "wof:name":"Marino",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":45922,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

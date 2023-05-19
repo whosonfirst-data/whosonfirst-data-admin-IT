@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cermignano",
+    "eurostat:nuts_2021_id":"067016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067016",
+    "eurostat:population":1576,
+    "eurostat:population_year":2020,
     "geom:area":0.002883,
-    "geom:area_square_m":26241818.261226,
+    "geom:area_square_m":26241818.261231,
     "geom:bbox":"13.7614341497,42.5491427403,13.8458254991,42.6228507988",
     "geom:latitude":42.589689,
     "geom:longitude":13.800563,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067016",
+        "eurostat:nuts_2021_id":"067016",
         "gn:id":6541210,
         "gp:id":12678519,
         "qs_pg:id":243061
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9dcd4d1788b4c0b962e89717e3871d3",
+    "wof:geomhash":"ecb5e88ad612638f1759f05c13b66a56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462345,
-    "wof:lastmodified":1582327873,
+    "wof:lastmodified":1684353756,
     "wof:name":"Cermignano",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":1576,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

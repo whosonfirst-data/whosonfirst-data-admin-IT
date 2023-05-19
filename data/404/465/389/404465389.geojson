@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Sossio Baronia",
+    "eurostat:nuts_2021_id":"064087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064087",
+    "eurostat:population":1567,
+    "eurostat:population_year":2020,
     "geom:area":0.002045,
-    "geom:area_square_m":19056093.006883,
+    "geom:area_square_m":19056093.006882,
     "geom:bbox":"15.1822501573,41.0612283964,15.2638849684,41.1133985141",
     "geom:latitude":41.088544,
     "geom:longitude":15.224533,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064087",
+        "eurostat:nuts_2021_id":"064087",
         "gn:id":6541912,
         "gp:id":12681766,
         "qs_pg:id":1009346
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20d1a14b1f952991ccf2d4775a92f5fd",
+    "wof:geomhash":"952c92884590507c5360bc32e74a92b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465389,
-    "wof:lastmodified":1582327846,
+    "wof:lastmodified":1684353831,
     "wof:name":"San Sossio Baronia",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1567,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

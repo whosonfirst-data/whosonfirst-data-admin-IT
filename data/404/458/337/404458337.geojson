@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casatisma",
+    "eurostat:nuts_2021_id":"018032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018032",
+    "eurostat:population":880,
+    "eurostat:population_year":2020,
     "geom:area":0.000626,
     "geom:area_square_m":5469721.933525,
     "geom:bbox":"9.10549504522,45.0359251008,9.13986597611,45.0720909317",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018032",
+        "eurostat:nuts_2021_id":"018032",
         "gn:id":6540624,
         "gp:id":12676222,
         "qs_pg:id":1212484
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a1de4c979d5231555fc83425140c141",
+    "wof:geomhash":"4dbb5ced7f7aac9d6a38f7cc8ea672d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458337,
-    "wof:lastmodified":1582327938,
+    "wof:lastmodified":1684353668,
     "wof:name":"Casatisma",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":880,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rogliano",
+    "eurostat:nuts_2021_id":"078105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078105",
+    "eurostat:population":5637,
+    "eurostat:population_year":2020,
     "geom:area":0.004305,
-    "geom:area_square_m":41268048.708095,
+    "geom:area_square_m":41268048.708094,
     "geom:bbox":"16.3105818584,39.1515823757,16.4844424886,39.1982685255",
     "geom:latitude":39.177331,
     "geom:longitude":16.394109,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078105",
+        "eurostat:nuts_2021_id":"078105"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f4f9719279e85a3e33445a93108376a1",
+    "wof:geomhash":"9c4014d5b4d4ecc6ce5ae4a19e181808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464281,
-    "wof:lastmodified":1566723218,
+    "wof:lastmodified":1684353802,
     "wof:name":"Rogliano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":5637,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

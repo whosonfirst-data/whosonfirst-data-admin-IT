@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontechiari",
+    "eurostat:nuts_2021_id":"060037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060037",
+    "eurostat:population":1293,
+    "eurostat:population_year":2020,
     "geom:area":0.001741,
     "geom:area_square_m":16079056.475161,
     "geom:bbox":"13.629379551,41.6487809803,13.6925274546,41.6983833624",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060037",
+        "eurostat:nuts_2021_id":"060037",
         "gn:id":6538707,
         "gp:id":12678777,
         "qs_pg:id":536857
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33d09d136c56d2cf00cc76569eaf5559",
+    "wof:geomhash":"d8e2ed97399f8adcb350708cffa2dbb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404461945,
-    "wof:lastmodified":1582328149,
+    "wof:lastmodified":1684353749,
     "wof:name":"Fontechiari",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":1293,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

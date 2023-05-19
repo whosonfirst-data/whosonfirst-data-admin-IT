@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verrayes",
+    "eurostat:nuts_2021_id":"007072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007072",
+    "eurostat:population":1276,
+    "eurostat:population_year":2020,
     "geom:area":0.002587,
-    "geom:area_square_m":22313418.601903,
+    "geom:area_square_m":22313418.601902,
     "geom:bbox":"7.49148988992,45.7377756919,7.56886825068,45.8007807446",
     "geom:latitude":45.771532,
     "geom:longitude":7.528263,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007072",
+        "eurostat:nuts_2021_id":"007072",
         "gn:id":6542426,
         "gp:id":12679154,
         "qs_pg:id":1163490
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0fbf2bd262331c6b57aa5dafd82d8c94",
+    "wof:geomhash":"df463e321782248183b0a1dd2bb5a483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459385,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353692,
     "wof:name":"Verrayes",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1276,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

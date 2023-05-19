@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Demetrio Corone",
+    "eurostat:nuts_2021_id":"078114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078114",
+    "eurostat:population":3282,
+    "eurostat:population_year":2020,
     "geom:area":0.006429,
-    "geom:area_square_m":61261328.353477,
+    "geom:area_square_m":61261328.353478,
     "geom:bbox":"16.3218356835,39.5455732923,16.4223113069,39.6474311257",
     "geom:latitude":39.595376,
     "geom:longitude":16.371864,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078114",
+        "eurostat:nuts_2021_id":"078114"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ef37d452bacc16c9338021f0dca703d3",
+    "wof:geomhash":"c36ab346bd81bb8554f5acbe80aa5750",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464301,
-    "wof:lastmodified":1566723211,
+    "wof:lastmodified":1684353802,
     "wof:name":"San Demetrio Corone",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":3282,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

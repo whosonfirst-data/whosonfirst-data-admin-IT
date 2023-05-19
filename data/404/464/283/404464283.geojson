@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rose",
+    "eurostat:nuts_2021_id":"078106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078106",
+    "eurostat:population":4354,
+    "eurostat:population_year":2020,
     "geom:area":0.004922,
-    "geom:area_square_m":47026508.450085,
+    "geom:area_square_m":47026508.450082,
     "geom:bbox":"16.2547324258,39.3732673251,16.4048933285,39.422962004",
     "geom:latitude":39.39777,
     "geom:longitude":16.326199,
@@ -389,6 +401,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -396,9 +410,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078106",
+        "eurostat:nuts_2021_id":"078106"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8b3b005e176232ac88648e5670e64672",
+    "wof:geomhash":"2e89b2849f3cf374f7454c457fe3c4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -409,10 +426,12 @@
         }
     ],
     "wof:id":404464283,
-    "wof:lastmodified":1566723234,
+    "wof:lastmodified":1684353802,
     "wof:name":"Rose",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":4354,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

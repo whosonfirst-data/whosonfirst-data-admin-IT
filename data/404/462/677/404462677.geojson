@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quadri",
+    "eurostat:nuts_2021_id":"069070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069070",
+    "eurostat:population":747,
+    "eurostat:population_year":2020,
     "geom:area":0.000805,
-    "geom:area_square_m":7405769.677489,
+    "geom:area_square_m":7405769.677491,
     "geom:bbox":"14.2504402183,41.9094771915,14.2926410139,41.9438544491",
     "geom:latitude":41.926851,
     "geom:longitude":14.271889,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069070",
+        "eurostat:nuts_2021_id":"069070",
         "gn:id":6541232,
         "gp:id":20076890,
         "qs_pg:id":1000263
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7aea63150beebfb256e2690ac3334750",
+    "wof:geomhash":"fe3f7f72a2554a3008f214f1e71f82f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462677,
-    "wof:lastmodified":1582327869,
+    "wof:lastmodified":1684353763,
     "wof:name":"Quadri",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":747,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

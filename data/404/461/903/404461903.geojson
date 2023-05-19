@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalvieri",
+    "eurostat:nuts_2021_id":"060018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060018",
+    "eurostat:population":2581,
+    "eurostat:population_year":2020,
     "geom:area":0.002939,
-    "geom:area_square_m":27152340.020417,
+    "geom:area_square_m":27152340.020422,
     "geom:bbox":"13.6764329994,41.6198811637,13.7570240843,41.6728800874",
     "geom:latitude":41.645108,
     "geom:longitude":13.715545,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060018",
+        "eurostat:nuts_2021_id":"060018",
         "gn:id":6536980,
         "gp:id":12677996,
         "qs_pg:id":1142917
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a81709639ba2dc9742848a5fbd43de9",
+    "wof:geomhash":"e758082c6b42de634c4261a88bf4d5fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461903,
-    "wof:lastmodified":1582328137,
+    "wof:lastmodified":1684353748,
     "wof:name":"Casalvieri",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":2581,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torricella del Pizzo",
+    "eurostat:nuts_2021_id":"019108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019108",
+    "eurostat:population":592,
+    "eurostat:population_year":2020,
     "geom:area":0.002653,
-    "geom:area_square_m":23185546.625206,
+    "geom:area_square_m":23185546.625203,
     "geom:bbox":"10.2418050344,44.9837664601,10.3255093162,45.0519393135",
     "geom:latitude":45.019067,
     "geom:longitude":10.284052,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019108",
+        "eurostat:nuts_2021_id":"019108",
         "gn:id":6540645,
         "gp:id":12682230,
         "qs_pg:id":42889
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5693147f1f8a6e1103acc21da239dcb",
+    "wof:geomhash":"5788d897925247beedc8ab7c2736995c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404469049,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353898,
     "wof:name":"Torricella Del Pizzo",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":592,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

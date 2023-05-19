@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Monteleone",
+    "eurostat:nuts_2021_id":"090078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090078",
+    "eurostat:population":2222,
+    "eurostat:population_year":2020,
     "geom:area":0.02154,
-    "geom:area_square_m":202612987.856137,
+    "geom:area_square_m":202612987.856154,
     "geom:bbox":"8.36795678658,40.3927622415,8.57780212413,40.5547566557",
     "geom:latitude":40.472717,
     "geom:longitude":8.472032,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090078",
+        "eurostat:nuts_2021_id":"090078",
         "gn:id":6539241,
         "gp:id":12682473,
         "qs_pg:id":1187998
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddc47fef6064222f3f4a74c556bbeb13",
+    "wof:geomhash":"1653082ffbf7865b7b3db087ba3a67f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460457,
-    "wof:lastmodified":1582328017,
+    "wof:lastmodified":1684353718,
     "wof:name":"Villanova Monteleone",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2222,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

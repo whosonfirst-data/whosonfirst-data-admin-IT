@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fossombrone",
+    "eurostat:nuts_2021_id":"041015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041015",
+    "eurostat:population":9286,
+    "eurostat:population_year":2020,
     "geom:area":0.011908,
-    "geom:area_square_m":106518997.584449,
+    "geom:area_square_m":106518997.584454,
     "geom:bbox":"12.7194540282,43.5884270785,12.8852712769,43.7271548926",
     "geom:latitude":43.665182,
     "geom:longitude":12.801607,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041015",
+        "eurostat:nuts_2021_id":"041015",
         "gn:id":6541051,
         "gp:id":12679384,
         "qs_pg:id":1143049
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"441f995d46a0952104bcb637db1732af",
+    "wof:geomhash":"42c21205dfd1d9fae5c9798fa331960b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459733,
-    "wof:lastmodified":1582328167,
+    "wof:lastmodified":1684353700,
     "wof:name":"Fossombrone",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":9286,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

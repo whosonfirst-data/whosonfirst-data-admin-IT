@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aggius",
+    "eurostat:nuts_2021_id":"090001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090001",
+    "eurostat:population":1438,
+    "eurostat:population_year":2020,
     "geom:area":0.00924,
-    "geom:area_square_m":86269832.188235,
+    "geom:area_square_m":86269832.188229,
     "geom:bbox":"8.94379444801,40.9096970458,9.08960853765,41.0655381004",
     "geom:latitude":40.96751,
     "geom:longitude":9.027823,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090001",
+        "eurostat:nuts_2021_id":"090001",
         "gn:id":6537820,
         "gp:id":12675812,
         "qs_pg:id":248020
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c55702ff326fb147cb44813bafc1e51",
+    "wof:geomhash":"dc1cd3a9c593b79cd5c9fa48c488e1ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404467163,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353866,
     "wof:name":"Aggius",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1438,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

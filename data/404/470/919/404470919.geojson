@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016249",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cornalba",
+    "eurostat:nuts_2021_id":"016249",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016249",
+    "eurostat:population":297,
+    "eurostat:population_year":2020,
     "geom:area":0.001072,
-    "geom:area_square_m":9235601.634823,
+    "geom:area_square_m":9235601.634822,
     "geom:bbox":"9.73387805577,45.8390442373,9.78157099639,45.8728790148",
     "geom:latitude":45.855064,
     "geom:longitude":9.759052,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016249",
+        "eurostat:nuts_2021_id":"016249",
         "gn:id":6537160,
         "gp:id":12678911,
         "qs_pg:id":209077
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a2f4d2d07bc15bf7ffa18417dcdb2b5",
+    "wof:geomhash":"00831cbc68c3eadf20aec9521c6338dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470919,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353930,
     "wof:name":"Cornalba",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":297,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

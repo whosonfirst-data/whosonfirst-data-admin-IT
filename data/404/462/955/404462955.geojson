@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venafro",
+    "eurostat:nuts_2021_id":"094052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094052",
+    "eurostat:population":11209,
+    "eurostat:population_year":2020,
     "geom:area":0.004989,
-    "geom:area_square_m":46225857.074968,
+    "geom:area_square_m":46225857.074979,
     "geom:bbox":"13.9779758828,41.4181974323,14.1039029202,41.5024478406",
     "geom:latitude":41.468839,
     "geom:longitude":14.041212,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094052",
+        "eurostat:nuts_2021_id":"094052",
         "gn:id":6539351,
         "gp:id":12678478,
         "qs_pg:id":1301162
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d3e547a83dc8b08fed56f4e6445b25f",
+    "wof:geomhash":"602d41716419c2e7fafb16f5f0e4dbfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404462955,
-    "wof:lastmodified":1582327852,
+    "wof:lastmodified":1684353770,
     "wof:name":"Venafro",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":11209,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

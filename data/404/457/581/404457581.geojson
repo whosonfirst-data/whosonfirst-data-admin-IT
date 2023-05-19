@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quinto Vercellese",
+    "eurostat:nuts_2021_id":"002108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002108",
+    "eurostat:population":382,
+    "eurostat:population_year":2020,
     "geom:area":0.001252,
-    "geom:area_square_m":10874761.819636,
+    "geom:area_square_m":10874761.819635,
     "geom:bbox":"8.32023534552,45.3644288298,8.38756107437,45.3954478444",
     "geom:latitude":45.377928,
     "geom:longitude":8.354517,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002108",
+        "eurostat:nuts_2021_id":"002108",
         "gn:id":6540931,
         "gp:id":12681313,
         "qs_pg:id":498564
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"525dc2e79f8b0ba8fdb133b3f9794fcb",
+    "wof:geomhash":"079ff4baf61c1f86c72c7cf550577871",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457581,
-    "wof:lastmodified":1582328106,
+    "wof:lastmodified":1684353653,
     "wof:name":"Quinto Vercellese",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":382,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

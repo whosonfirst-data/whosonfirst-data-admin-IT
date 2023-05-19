@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bubbio",
+    "eurostat:nuts_2021_id":"005011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005011",
+    "eurostat:population":805,
+    "eurostat:population_year":2020,
     "geom:area":0.00179,
-    "geom:area_square_m":15741001.31833,
+    "geom:area_square_m":15741001.318332,
     "geom:bbox":"8.27080644869,44.6237475079,8.32064866721,44.6866264822",
     "geom:latitude":44.657903,
     "geom:longitude":8.293309,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005011",
+        "eurostat:nuts_2021_id":"005011",
         "gn:id":6540951,
         "gp:id":12677156,
         "qs_pg:id":1142848
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36f26d19c61197bac8635fdd718be27b",
+    "wof:geomhash":"853703c36990b53899744e3712183053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455935,
-    "wof:lastmodified":1582327816,
+    "wof:lastmodified":1684353613,
     "wof:name":"Bubbio",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":805,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

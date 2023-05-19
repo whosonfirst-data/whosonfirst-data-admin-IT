@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Viro",
+    "eurostat:nuts_2021_id":"029052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029052",
+    "eurostat:population":14093,
+    "eurostat:population_year":2020,
     "geom:area":0.015257,
-    "geom:area_square_m":133363999.170912,
+    "geom:area_square_m":133363999.170913,
     "geom:bbox":"12.1870023195,44.953021466,12.4242756842,45.0682550985",
     "geom:latitude":45.014729,
     "geom:longitude":12.304626,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029052",
+        "eurostat:nuts_2021_id":"029052",
         "gn:id":6542354,
         "gp:id":23388546,
         "qs_pg:id":1292395
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15a4bdd735dee52a0395201e958c40a1",
+    "wof:geomhash":"e7076ccead61ad13aca93e1622e76f41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470439,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353921,
     "wof:name":"Porto Viro",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":14093,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

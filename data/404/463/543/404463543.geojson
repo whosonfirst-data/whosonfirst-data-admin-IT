@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seveso",
+    "eurostat:nuts_2021_id":"108040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108040",
+    "eurostat:population":23982,
+    "eurostat:population_year":2020,
     "geom:area":0.000855,
     "geom:area_square_m":7391320.334485,
     "geom:bbox":"9.10767837039,45.635078034,9.17687898685,45.65747454",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108040",
+        "eurostat:nuts_2021_id":"108040",
         "gn:id":6541587,
         "gp:id":12682003,
         "qs_pg:id":1037428
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cbcd60bd17f810a257115614c653a4a",
+    "wof:geomhash":"803f3c9e8d3c1f2ad453efebc1fc5f52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463543,
-    "wof:lastmodified":1582327774,
+    "wof:lastmodified":1684353782,
     "wof:name":"Seveso",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":23982,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

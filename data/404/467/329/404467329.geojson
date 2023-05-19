@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villamar",
+    "eurostat:nuts_2021_id":"111097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111097",
+    "eurostat:population":2604,
+    "eurostat:population_year":2020,
     "geom:area":0.004045,
-    "geom:area_square_m":38525765.386225,
+    "geom:area_square_m":38525765.386217,
     "geom:bbox":"8.92007927462,39.5834963801,9.02617067065,39.6575658936",
     "geom:latitude":39.616617,
     "geom:longitude":8.971952,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111097",
+        "eurostat:nuts_2021_id":"111097",
         "gn:id":6537920,
         "gp:id":12682463,
         "qs_pg:id":396206
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba30e4f49a2e534276eb7c6069d30671",
+    "wof:geomhash":"4882d5b58a55bc6523de78ef88ee23b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467329,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353872,
     "wof:name":"Villamar",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":2604,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oderzo",
+    "eurostat:nuts_2021_id":"026051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026051",
+    "eurostat:population":20645,
+    "eurostat:population_year":2020,
     "geom:area":0.004894,
-    "geom:area_square_m":42211894.977925,
+    "geom:area_square_m":42211894.977923,
     "geom:bbox":"12.4351172114,45.7400843418,12.5533082363,45.8154466069",
     "geom:latitude":45.771879,
     "geom:longitude":12.49799,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026051",
+        "eurostat:nuts_2021_id":"026051",
         "gn:id":6540996,
         "gp:id":12678765,
         "qs_pg:id":1078517
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34941cb9fe5d2cc8fbd0269c0fda556a",
+    "wof:geomhash":"49da7951edeff4a654abf015bfdab163",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404470109,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353916,
     "wof:name":"Oderzo",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":20645,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

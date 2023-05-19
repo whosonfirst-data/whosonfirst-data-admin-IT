@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lampedusa e Linosa",
+    "eurostat:nuts_2021_id":"084020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084020",
+    "eurostat:population":6494,
+    "eurostat:population_year":2020,
     "geom:area":0.002504,
     "geom:area_square_m":25174537.519015,
     "geom:bbox":"12.3198714865,35.4928333647,12.8832849364,35.8757751665",
@@ -32,6 +44,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,6 +54,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084020",
+        "eurostat:nuts_2021_id":"084020",
         "gp:id":20077054,
         "qs_pg:id":1099130
     },
@@ -47,7 +63,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c25998e78b0e0c398a74c3b3926664f1",
+    "wof:geomhash":"79c9f1cf052c4994dfce433328921fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +74,12 @@
         }
     ],
     "wof:id":404466473,
-    "wof:lastmodified":1582328204,
+    "wof:lastmodified":1684353850,
     "wof:name":"Lampedusa E Linosa",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":6494,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

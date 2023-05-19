@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lecco",
+    "eurostat:nuts_2021_id":"097042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097042",
+    "eurostat:population":48173,
+    "eurostat:population_year":2020,
     "geom:area":0.005233,
-    "geom:area_square_m":45064122.55482,
+    "geom:area_square_m":45064122.554823,
     "geom:bbox":"9.36575378971,45.8117106818,9.48486988679,45.9059068254",
     "geom:latitude":45.857591,
     "geom:longitude":9.422852,
@@ -197,6 +209,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -205,6 +219,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097042",
+        "eurostat:nuts_2021_id":"097042",
         "gn:id":6541997,
         "gp:id":12676497,
         "qs_pg:id":1150545
@@ -213,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"185055ebbde22e60c35569a39cfe0e5e",
+    "wof:geomhash":"c26b1ea738744c4f6f0f50cb66957e30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404469317,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353902,
     "wof:name":"Lecco",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":48173,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cengio",
+    "eurostat:nuts_2021_id":"009023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009023",
+    "eurostat:population":3421,
+    "eurostat:population_year":2020,
     "geom:area":0.002143,
-    "geom:area_square_m":18937050.190561,
+    "geom:area_square_m":18937050.190559,
     "geom:bbox":"8.14807255265,44.3693530637,8.24744807582,44.4262642191",
     "geom:latitude":44.391805,
     "geom:longitude":8.197986,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009023",
+        "eurostat:nuts_2021_id":"009023",
         "gn:id":6540263,
         "gp:id":12678463,
         "qs_pg:id":245016
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd75bebae9c1feb3c5b625c39a6682e6",
+    "wof:geomhash":"670b67b0d00a1425d6eead75dda8c730",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404467441,
-    "wof:lastmodified":1582327971,
+    "wof:lastmodified":1684353874,
     "wof:name":"Cengio",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":3421,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

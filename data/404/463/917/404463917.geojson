@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orbetello",
+    "eurostat:nuts_2021_id":"053018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053018",
+    "eurostat:population":14683,
+    "eurostat:population_year":2020,
     "geom:area":0.024839,
-    "geom:area_square_m":226435172.707848,
+    "geom:area_square_m":226435172.707835,
     "geom:bbox":"11.1047656585,42.4045136813,11.3526241599,42.6035760272",
     "geom:latitude":42.504187,
     "geom:longitude":11.236414,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053018",
+        "eurostat:nuts_2021_id":"053018",
         "gn:id":6541107,
         "gp:id":20076771,
         "qs_pg:id":1095610
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f319ef5e1c39c718fe7170962f34ff93",
+    "wof:geomhash":"609d4d5fa9d60ee046712e280c5112c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404463917,
-    "wof:lastmodified":1582327789,
+    "wof:lastmodified":1684353790,
     "wof:name":"Orbetello",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":14683,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

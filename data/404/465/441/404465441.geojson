@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torrioni",
+    "eurostat:nuts_2021_id":"064111",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064111",
+    "eurostat:population":483,
+    "eurostat:population_year":2020,
     "geom:area":0.00045,
     "geom:area_square_m":4193398.975381,
     "geom:bbox":"14.7925646761,41.0193107948,14.8332359858,41.0394643691",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064111",
+        "eurostat:nuts_2021_id":"064111",
         "gn:id":6540694,
         "gp:id":12682231,
         "qs_pg:id":194460
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b4fb46201e89e77cac7e16f10f3fcba",
+    "wof:geomhash":"d9f74bff41ab7eacc1a0d8cc22e61ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465441,
-    "wof:lastmodified":1582327829,
+    "wof:lastmodified":1684353831,
     "wof:name":"Torrioni",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":483,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

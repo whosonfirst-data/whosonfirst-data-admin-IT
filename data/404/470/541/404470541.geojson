@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Latisana",
+    "eurostat:nuts_2021_id":"030046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030046",
+    "eurostat:population":13372,
+    "eurostat:population_year":2020,
     "geom:area":0.004363,
-    "geom:area_square_m":37649104.45228,
+    "geom:area_square_m":37649104.452272,
     "geom:bbox":"12.9723803588,45.670846831,13.0986396015,45.8029629876",
     "geom:latitude":45.74114,
     "geom:longitude":13.033173,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030046",
+        "eurostat:nuts_2021_id":"030046",
         "gn:id":6539934,
         "gp:id":20076719,
         "qs_pg:id":1255782
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b0bacd064c037efb741f4a1558c2580",
+    "wof:geomhash":"b43dc7ca1901328bba5957f007c883ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470541,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353923,
     "wof:name":"Latisana",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":13372,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magnacavallo",
+    "eurostat:nuts_2021_id":"020029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020029",
+    "eurostat:population":1475,
+    "eurostat:population_year":2020,
     "geom:area":0.003219,
-    "geom:area_square_m":28141680.128768,
+    "geom:area_square_m":28141680.128775,
     "geom:bbox":"11.1275745119,44.971061056,11.2288097255,45.0305701548",
     "geom:latitude":45.002743,
     "geom:longitude":11.181368,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020029",
+        "eurostat:nuts_2021_id":"020029",
         "gn:id":6540375,
         "gp:id":12675827,
         "qs_pg:id":1313964
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32807b4615ad2ccf953890e0ee32dc13",
+    "wof:geomhash":"607266d65c7caac26980af819e862f34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469129,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353899,
     "wof:name":"Magnacavallo",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":1475,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

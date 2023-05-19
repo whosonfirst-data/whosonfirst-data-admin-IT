@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siziano",
+    "eurostat:nuts_2021_id":"018150",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018150",
+    "eurostat:population":6273,
+    "eurostat:population_year":2020,
     "geom:area":0.001354,
-    "geom:area_square_m":11771180.132398,
+    "geom:area_square_m":11771180.132395,
     "geom:bbox":"9.18210392279,45.2836420327,9.24845504977,45.3348238968",
     "geom:latitude":45.311946,
     "geom:longitude":9.210851,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018150",
+        "eurostat:nuts_2021_id":"018150",
         "gn:id":6541526,
         "gp:id":12682026,
         "qs_pg:id":976890
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3786860314610389db8c97cb7a89961f",
+    "wof:geomhash":"7439f1e114859b13fdf25ea4226ec875",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468715,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353893,
     "wof:name":"Siziano",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":6273,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

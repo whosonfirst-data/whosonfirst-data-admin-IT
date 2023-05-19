@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pisano",
+    "eurostat:nuts_2021_id":"003119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003119",
+    "eurostat:population":814,
+    "eurostat:population_year":2020,
     "geom:area":0.00032,
-    "geom:area_square_m":2761618.457849,
+    "geom:area_square_m":2761618.45785,
     "geom:bbox":"8.48960109352,45.7832128137,8.52144725416,45.8054812652",
     "geom:latitude":45.793832,
     "geom:longitude":8.507513,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003119",
+        "eurostat:nuts_2021_id":"003119",
         "gn:id":6543430,
         "gp:id":20075722,
         "qs_pg:id":50270
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f737598a4090bec1a66c14d2203e5724",
+    "wof:geomhash":"50b70d234648c81922ce720934d384d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404457791,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353657,
     "wof:name":"Pisano",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":814,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

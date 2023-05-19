@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belv\u00ec",
+    "eurostat:nuts_2021_id":"091007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091007",
+    "eurostat:population":577,
+    "eurostat:population_year":2020,
     "geom:area":0.00191,
-    "geom:area_square_m":18099038.609995,
+    "geom:area_square_m":18099038.609993,
     "geom:bbox":"9.10426216237,39.9522681031,9.20122286865,39.9922127786",
     "geom:latitude":39.968898,
     "geom:longitude":9.156577,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091007",
+        "eurostat:nuts_2021_id":"091007",
         "gn:id":6539246,
         "gp:id":12676700,
         "qs_pg:id":902509
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38d2d41ab0798b8cc063c9ddb9d53cd2",
+    "wof:geomhash":"aeae20c7128e66a0554aac11faed7954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404460481,
-    "wof:lastmodified":1582328013,
+    "wof:lastmodified":1684353718,
     "wof:name":"Belv\u00ec",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":577,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

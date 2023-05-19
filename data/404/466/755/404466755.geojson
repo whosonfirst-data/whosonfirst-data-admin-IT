@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cheremule",
+    "eurostat:nuts_2021_id":"090024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090024",
+    "eurostat:population":417,
+    "eurostat:population_year":2020,
     "geom:area":0.002578,
     "geom:area_square_m":24242693.580307,
     "geom:bbox":"8.61956980758,40.4691869426,8.7540088769,40.5156117417",
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090024",
+        "eurostat:nuts_2021_id":"090024",
         "gn:id":6540859,
         "gp:id":12678584,
         "qs_pg:id":245139
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ab7fa0d294fc83af16f2e5d35787588",
+    "wof:geomhash":"8b34fe590e9577294c380aa1c1809582",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466755,
-    "wof:lastmodified":1582328182,
+    "wof:lastmodified":1684353857,
     "wof:name":"Cheremule",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

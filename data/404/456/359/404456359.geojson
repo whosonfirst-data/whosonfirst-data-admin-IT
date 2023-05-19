@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chivasso",
+    "eurostat:nuts_2021_id":"001082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001082",
+    "eurostat:population":26827,
+    "eurostat:population_year":2020,
     "geom:area":0.005872,
     "geom:area_square_m":51157114.180391,
     "geom:bbox":"7.83251319461,45.1723945331,7.95728162914,45.2513969258",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001082",
+        "eurostat:nuts_2021_id":"001082",
         "gn:id":6538052,
         "gp:id":12677929,
         "qs_pg:id":1250763
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9bacd7fdad4d4ff1e4cb45e688fef294",
+    "wof:geomhash":"8e39e8a9d14ed34af230d7fb6c26119d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456359,
-    "wof:lastmodified":1582328059,
+    "wof:lastmodified":1684353622,
     "wof:name":"Chivasso",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":26827,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

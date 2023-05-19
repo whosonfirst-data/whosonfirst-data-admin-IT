@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zinasco",
+    "eurostat:nuts_2021_id":"018190",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018190",
+    "eurostat:population":3123,
+    "eurostat:population_year":2020,
     "geom:area":0.003403,
-    "geom:area_square_m":29695773.574578,
+    "geom:area_square_m":29695773.574579,
     "geom:bbox":"8.98725875947,45.0730823352,9.07319467122,45.1535124618",
     "geom:latitude":45.11999,
     "geom:longitude":9.024359,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018190",
+        "eurostat:nuts_2021_id":"018190",
         "gn:id":6542013,
         "gp:id":12681529,
         "qs_pg:id":948523
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ceacfd5ddab9a1af7d246f18e79e68cc",
+    "wof:geomhash":"ae5b850c3dc4658e735159310939773a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468805,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353895,
     "wof:name":"Zinasco",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":3123,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

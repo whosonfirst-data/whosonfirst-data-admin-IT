@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Volterra",
+    "eurostat:nuts_2021_id":"050039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050039",
+    "eurostat:population":9980,
+    "eurostat:population_year":2020,
     "geom:area":0.028099,
-    "geom:area_square_m":252451134.941172,
+    "geom:area_square_m":252451134.941194,
     "geom:bbox":"10.7699007621,43.3020214745,11.0133733905,43.4974000885",
     "geom:latitude":43.399479,
     "geom:longitude":10.887157,
@@ -194,6 +206,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -202,6 +216,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050039",
+        "eurostat:nuts_2021_id":"050039",
         "gn:id":6539738,
         "gp:id":12677609,
         "qs_pg:id":39759
@@ -210,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"902590e6ecbf4aad9bf9afb29345ec98",
+    "wof:geomhash":"25abde11eb62fecdc6eece3a073ac01a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,10 +237,12 @@
         }
     ],
     "wof:id":404472967,
-    "wof:lastmodified":1582327895,
+    "wof:lastmodified":1684353974,
     "wof:name":"Volterra",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":9980,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

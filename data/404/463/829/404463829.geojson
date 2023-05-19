@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalcino",
+    "eurostat:nuts_2021_id":"052037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052037",
+    "eurostat:population":5770,
+    "eurostat:population_year":2020,
     "geom:area":0.02693,
-    "geom:area_square_m":243393532.209788,
+    "geom:area_square_m":243393532.20976,
     "geom:bbox":"11.3504476746,42.9572700902,11.589401133,43.1130924",
     "geom:latitude":43.037193,
     "geom:longitude":11.46089,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052037",
+        "eurostat:nuts_2021_id":"052037",
         "gn:id":6541103,
         "gp:id":12676221,
         "qs_pg:id":38881
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7b97c332fd877b2dd061b62e2b6fd73",
+    "wof:geomhash":"86ebfa1bf3cb3a78b161e76febd69902",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463829,
-    "wof:lastmodified":1582327765,
+    "wof:lastmodified":1684353787,
     "wof:name":"Montalcino",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":5770,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

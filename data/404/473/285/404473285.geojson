@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle di Casies/Gsies",
+    "eurostat:nuts_2021_id":"021109",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021109",
+    "eurostat:population":2325,
+    "eurostat:population_year":2020,
     "geom:area":0.012974,
-    "geom:area_square_m":109775726.112419,
+    "geom:area_square_m":109775726.112417,
     "geom:bbox":"12.1443819299,46.7573929936,12.3070330024,46.8910754043",
     "geom:latitude":46.820927,
     "geom:longitude":12.225365,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021109",
+        "eurostat:nuts_2021_id":"021109",
         "gp:id":12681148,
         "qs_pg:id":1084030
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15dbad54c097b6fc89343277286fb47d",
+    "wof:geomhash":"5f39725bbe45bb848deb3720208e56c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473285,
-    "wof:lastmodified":1582327928,
+    "wof:lastmodified":1684353985,
     "wof:name":"Valle Di Casies",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2325,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

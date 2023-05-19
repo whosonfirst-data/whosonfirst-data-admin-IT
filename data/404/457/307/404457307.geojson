@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Ponso",
+    "eurostat:nuts_2021_id":"001251",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001251",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.000244,
-    "geom:area_square_m":2120659.271093,
+    "geom:area_square_m":2120659.271094,
     "geom:bbox":"7.64715468011,45.3397386443,7.67825830577,45.3555297394",
     "geom:latitude":45.3466,
     "geom:longitude":7.665031,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001251",
+        "eurostat:nuts_2021_id":"001251",
         "gn:id":6539523,
         "gp:id":12681746,
         "qs_pg:id":42520
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64eed10e2960f981ea0aa0227255dbcf",
+    "wof:geomhash":"f0e03c4e9c8313d41bdac07de73e70ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457307,
-    "wof:lastmodified":1582328094,
+    "wof:lastmodified":1684353647,
     "wof:name":"San Ponso",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

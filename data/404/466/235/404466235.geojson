@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fondachelli-Fantina",
+    "eurostat:nuts_2021_id":"083023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083023",
+    "eurostat:population":1021,
+    "eurostat:population_year":2020,
     "geom:area":0.004302,
-    "geom:area_square_m":41918149.325221,
+    "geom:area_square_m":41918149.325224,
     "geom:bbox":"15.1412985617,37.9557795995,15.2207440669,38.0540748282",
     "geom:latitude":38.002562,
     "geom:longitude":15.180088,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083023",
+        "eurostat:nuts_2021_id":"083023",
         "gn:id":6536023,
         "gp:id":12680155,
         "qs_pg:id":1023694
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe659128e46666289056066d8c5db48a",
+    "wof:geomhash":"75ec17ee72aa1fec47e6c95f5c797c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466235,
-    "wof:lastmodified":1582328191,
+    "wof:lastmodified":1684353845,
     "wof:name":"Fondachelli-Fantina",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1021,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

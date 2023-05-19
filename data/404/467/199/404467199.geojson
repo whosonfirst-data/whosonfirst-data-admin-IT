@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olbia",
+    "eurostat:nuts_2021_id":"090047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090047",
+    "eurostat:population":61323,
+    "eurostat:population_year":2020,
     "geom:area":0.041043,
-    "geom:area_square_m":383466819.3311,
+    "geom:area_square_m":383466854.483105,
     "geom:bbox":"9.34808,40.731365,9.778997,41.058491",
     "geom:latitude":40.923194,
     "geom:longitude":9.479924,
@@ -227,6 +239,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -235,6 +249,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090047",
+        "eurostat:nuts_2021_id":"090047",
         "gn:id":6540127,
         "gp:id":20076809,
         "qs_pg:id":1078724
@@ -243,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd0ed6faa0b832d7c3cc02ad6a27bda4",
+    "wof:geomhash":"ed21e3b04f5f1bb467daee156ff46c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,10 +270,12 @@
         }
     ],
     "wof:id":404467199,
-    "wof:lastmodified":1636496852,
+    "wof:lastmodified":1684353868,
     "wof:name":"Olbia",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":61323,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

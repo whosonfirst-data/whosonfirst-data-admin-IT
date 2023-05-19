@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frigento",
+    "eurostat:nuts_2021_id":"064035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064035",
+    "eurostat:population":3541,
+    "eurostat:population_year":2020,
     "geom:area":0.004049,
-    "geom:area_square_m":37776554.637651,
+    "geom:area_square_m":37776554.637652,
     "geom:bbox":"15.0781947261,40.9730819518,15.1852961041,41.0703100369",
     "geom:latitude":41.011732,
     "geom:longitude":15.122229,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064035",
+        "eurostat:nuts_2021_id":"064035",
         "gn:id":6538782,
         "gp:id":12679423,
         "qs_pg:id":407667
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93e821105c62dc7fd907d1d8071dac74",
+    "wof:geomhash":"d2635c66f5c801a849108504b2e25395",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465273,
-    "wof:lastmodified":1582327828,
+    "wof:lastmodified":1684353829,
     "wof:name":"Frigento",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3541,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

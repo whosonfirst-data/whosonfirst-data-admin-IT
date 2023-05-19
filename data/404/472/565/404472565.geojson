@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santarcangelo di Romagna",
+    "eurostat:nuts_2021_id":"099018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099018",
+    "eurostat:population":22362,
+    "eurostat:population_year":2020,
     "geom:area":0.00505,
-    "geom:area_square_m":44874556.60379,
+    "geom:area_square_m":44874556.603778,
     "geom:bbox":"12.3590454331,44.0107552489,12.5006797565,44.0888329979",
     "geom:latitude":44.052339,
     "geom:longitude":12.43552,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099018",
+        "eurostat:nuts_2021_id":"099018"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7ee7552e37b75a27f5726867370baf58",
+    "wof:geomhash":"2bcd4b31788e032c0a7c5e5b40859124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404472565,
-    "wof:lastmodified":1566723371,
+    "wof:lastmodified":1684353964,
     "wof:name":"Santarcangelo Di Romagna",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":22362,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

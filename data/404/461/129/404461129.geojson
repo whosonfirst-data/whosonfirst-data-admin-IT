@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altidona",
+    "eurostat:nuts_2021_id":"109001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109001",
+    "eurostat:population":3546,
+    "eurostat:population_year":2020,
     "geom:area":0.00143,
-    "geom:area_square_m":12912133.141831,
+    "geom:area_square_m":12912133.141833,
     "geom:bbox":"13.7789677872,43.0840345696,13.8419322906,43.1271384291",
     "geom:latitude":43.105717,
     "geom:longitude":13.810768,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109001",
+        "eurostat:nuts_2021_id":"109001",
         "gn:id":6536795,
         "gp:id":12676023,
         "qs_pg:id":38748
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ad55e7b401b54e98ca5c57b59e7ee197",
+    "wof:geomhash":"2299f713cbd41c5c05ef39445e9fa9fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461129,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353732,
     "wof:name":"Altidona",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":3546,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

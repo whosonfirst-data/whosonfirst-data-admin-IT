@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poggio San Lorenzo",
+    "eurostat:nuts_2021_id":"057056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057056",
+    "eurostat:population":517,
+    "eurostat:population_year":2020,
     "geom:area":0.000944,
-    "geom:area_square_m":8642089.283786,
+    "geom:area_square_m":8642089.283785,
     "geom:bbox":"12.8207736121,42.2301701812,12.8616777145,42.2760954107",
     "geom:latitude":42.250914,
     "geom:longitude":12.844747,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_057056",
+        "eurostat:nuts_2021_id":"057056"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c4b2f498e8b0890c2a8771a3887ec558",
+    "wof:geomhash":"7e36499c14887d20fd1cd572034e060d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404461477,
-    "wof:lastmodified":1566723689,
+    "wof:lastmodified":1684353739,
     "wof:name":"Poggio San Lorenzo",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":517,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

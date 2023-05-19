@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turi",
+    "eurostat:nuts_2021_id":"072047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072047",
+    "eurostat:population":12994,
+    "eurostat:population_year":2020,
     "geom:area":0.007552,
-    "geom:area_square_m":70577480.069263,
+    "geom:area_square_m":70577480.069269,
     "geom:bbox":"16.9600874747,40.8454738695,17.0619874136,40.9581214835",
     "geom:latitude":40.907571,
     "geom:longitude":17.010714,
@@ -110,6 +122,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -118,6 +132,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072047",
+        "eurostat:nuts_2021_id":"072047",
         "gn:id":6538950,
         "gp:id":12682291,
         "qs_pg:id":42924
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c129e718ef6f5434df50482cbe9163f0",
+    "wof:geomhash":"732dbfdaeeccd54b6774ecd699bda940",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404456833,
-    "wof:lastmodified":1582328054,
+    "wof:lastmodified":1684353634,
     "wof:name":"Turi",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":12994,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

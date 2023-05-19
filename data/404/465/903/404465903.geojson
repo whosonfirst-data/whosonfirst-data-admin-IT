@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Curno",
+    "eurostat:nuts_2021_id":"016089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016089",
+    "eurostat:population":7564,
+    "eurostat:population_year":2020,
     "geom:area":0.000544,
-    "geom:area_square_m":4697550.502258,
+    "geom:area_square_m":4697550.502257,
     "geom:bbox":"9.58722259115,45.675759719,9.62790204791,45.6967500252",
     "geom:latitude":45.686574,
     "geom:longitude":9.606838,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_016089",
+        "eurostat:nuts_2021_id":"016089"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"746c4fb5d5929f85114258f335e674fd",
+    "wof:geomhash":"0f7b57d9eaa542bf94a2ac8590438487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404465903,
-    "wof:lastmodified":1566723291,
+    "wof:lastmodified":1684353839,
     "wof:name":"Curno",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":7564,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

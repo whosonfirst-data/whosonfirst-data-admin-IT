@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dicomano",
+    "eurostat:nuts_2021_id":"048013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048013",
+    "eurostat:population":5522,
+    "eurostat:population_year":2020,
     "geom:area":0.006904,
-    "geom:area_square_m":61501289.548667,
+    "geom:area_square_m":61501289.548657,
     "geom:bbox":"11.477561006,43.8627173008,11.6264076621,44.0074179993",
     "geom:latitude":43.915014,
     "geom:longitude":11.551782,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048013",
+        "eurostat:nuts_2021_id":"048013",
         "gn:id":6538557,
         "gp:id":12679082,
         "qs_pg:id":1023684
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2df7ff78a2604f9a0f1b063317f0ad91",
+    "wof:geomhash":"85e813aaafe57bf2405fbe4231622d8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472761,
-    "wof:lastmodified":1582327897,
+    "wof:lastmodified":1684353969,
     "wof:name":"Dicomano",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":5522,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

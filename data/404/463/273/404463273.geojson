@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andrano",
+    "eurostat:nuts_2021_id":"075005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075005",
+    "eurostat:population":4726,
+    "eurostat:population_year":2020,
     "geom:area":0.001632,
     "geom:area_square_m":15463639.438107,
     "geom:bbox":"18.3253171355,39.9599473191,18.4084821863,40.0002550713",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075005",
+        "eurostat:nuts_2021_id":"075005",
         "gn:id":6538965,
         "gp:id":12676081,
         "qs_pg:id":1293002
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ecd42f6b9ff578f452cfd7434ff2077",
+    "wof:geomhash":"05636602cca4bbd1863cacea653c6e99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463273,
-    "wof:lastmodified":1582327765,
+    "wof:lastmodified":1684353776,
     "wof:name":"Andrano",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":4726,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

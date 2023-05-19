@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria di Sala",
+    "eurostat:nuts_2021_id":"027035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027035",
+    "eurostat:population":17644,
+    "eurostat:population_year":2020,
     "geom:area":0.003227,
-    "geom:area_square_m":27970609.157817,
+    "geom:area_square_m":27970609.157816,
     "geom:bbox":"11.9900327062,45.4669660262,12.0768286229,45.5344361183",
     "geom:latitude":45.50208,
     "geom:longitude":12.027228,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_027035",
+        "eurostat:nuts_2021_id":"027035"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7e23a6644a45e0803d3a91a3d90a9161",
+    "wof:geomhash":"c7d198f29f1a749c7f364c2b3c01f007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404470177,
-    "wof:lastmodified":1566723161,
+    "wof:lastmodified":1684353917,
     "wof:name":"Santa Maria Di Sala",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":17644,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Cassiano",
+    "eurostat:nuts_2021_id":"075095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075095",
+    "eurostat:population":1993,
+    "eurostat:population_year":2020,
     "geom:area":0.000912,
-    "geom:area_square_m":8636048.078711,
+    "geom:area_square_m":8636048.078718,
     "geom:bbox":"18.2796842273,40.0256878173,18.3582529723,40.0692609058",
     "geom:latitude":40.049419,
     "geom:longitude":18.326405,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_075095",
+        "eurostat:nuts_2021_id":"075095"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cb220be81aed9b0e652d4c50c5c7268c",
+    "wof:geomhash":"8c9333ece81e565a6886747ad7f28f62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404456669,
-    "wof:lastmodified":1566723582,
+    "wof:lastmodified":1684353629,
     "wof:name":"San Cassiano",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":1993,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

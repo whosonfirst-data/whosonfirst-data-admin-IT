@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pesaro",
+    "eurostat:nuts_2021_id":"041044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041044",
+    "eurostat:population":95203,
+    "eurostat:population_year":2020,
     "geom:area":0.014176,
-    "geom:area_square_m":126331653.024694,
+    "geom:area_square_m":126331653.024714,
     "geom:bbox":"12.7717940839,43.8225782459,12.9626617122,43.9654368493",
     "geom:latitude":43.886477,
     "geom:longitude":12.863598,
@@ -227,6 +239,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -235,6 +249,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041044",
+        "eurostat:nuts_2021_id":"041044",
         "gn:id":6542003,
         "gp:id":12677322,
         "qs_pg:id":50786
@@ -243,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2fb584b47483b19195641ebc6058c1f",
+    "wof:geomhash":"ed6ffd1474b01df382166df0f003753e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,10 +270,12 @@
         }
     ],
     "wof:id":404459799,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353701,
     "wof:name":"Pesaro",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":95203,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

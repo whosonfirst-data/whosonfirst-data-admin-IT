@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mezzano",
+    "eurostat:nuts_2021_id":"022115",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022115",
+    "eurostat:population":1589,
+    "eurostat:population_year":2020,
     "geom:area":0.005687,
-    "geom:area_square_m":48711965.093023,
+    "geom:area_square_m":48711965.093026,
     "geom:bbox":"11.7193925552,46.1073914407,11.9056201366,46.2255749496",
     "geom:latitude":46.158832,
     "geom:longitude":11.815453,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022115",
+        "eurostat:nuts_2021_id":"022115",
         "gn:id":6539633,
         "gp:id":12680310,
         "qs_pg:id":41469
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56c0f26baa6e6f134012e09bab0c8dd0",
+    "wof:geomhash":"676b4fa4b594b45ce48396b66ebd291a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404473549,
-    "wof:lastmodified":1582327932,
+    "wof:lastmodified":1684353990,
     "wof:name":"Mezzano",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1589,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fermo",
+    "eurostat:nuts_2021_id":"109006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109006",
+    "eurostat:population":36988,
+    "eurostat:population_year":2020,
     "geom:area":0.013744,
-    "geom:area_square_m":123969070.68562,
+    "geom:area_square_m":123969070.685601,
     "geom:bbox":"13.4892750332,43.1058061699,13.8292899624,43.2342389893",
     "geom:latitude":43.160722,
     "geom:longitude":13.716976,
@@ -185,6 +197,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -193,6 +207,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109006",
+        "eurostat:nuts_2021_id":"109006",
         "gp:id":20076792,
         "qs_pg:id":931696
     },
@@ -200,7 +216,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1aa1247f7c560ef0155461ba727e40ad",
+    "wof:geomhash":"b3390fb04b4498175afdc5a00063f9f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,10 +227,12 @@
         }
     ],
     "wof:id":404461139,
-    "wof:lastmodified":1582328139,
+    "wof:lastmodified":1684353733,
     "wof:name":"Fermo",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":36988,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

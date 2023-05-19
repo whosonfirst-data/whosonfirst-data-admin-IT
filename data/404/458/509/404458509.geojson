@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torriglia",
+    "eurostat:nuts_2021_id":"010062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010062",
+    "eurostat:population":2219,
+    "eurostat:population_year":2020,
     "geom:area":0.006798,
-    "geom:area_square_m":59940649.786074,
+    "geom:area_square_m":59940649.786077,
     "geom:bbox":"9.09133989472,44.4765117142,9.22027911492,44.5551618695",
     "geom:latitude":44.516602,
     "geom:longitude":9.152628,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010062",
+        "eurostat:nuts_2021_id":"010062",
         "gn:id":6539611,
         "gp:id":12678972,
         "qs_pg:id":40619
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e4ea3087b297e461153f9bca1bb004aa",
+    "wof:geomhash":"6b7c65e86a39bc8b4bec2ff772fbfc39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404458509,
-    "wof:lastmodified":1582327952,
+    "wof:lastmodified":1684353671,
     "wof:name":"Torriglia",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2219,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

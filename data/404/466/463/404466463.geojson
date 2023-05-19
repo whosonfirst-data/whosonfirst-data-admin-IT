@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comitini",
+    "eurostat:nuts_2021_id":"084016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084016",
+    "eurostat:population":896,
+    "eurostat:population_year":2020,
     "geom:area":0.00222,
-    "geom:area_square_m":21807315.032007,
+    "geom:area_square_m":21807315.032003,
     "geom:bbox":"13.6239525729,37.3665703786,13.6939932673,37.4542894232",
     "geom:latitude":37.414355,
     "geom:longitude":13.65955,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084016",
+        "eurostat:nuts_2021_id":"084016",
         "gn:id":6540840,
         "gp:id":12678840,
         "qs_pg:id":203953
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9e6659229b95af9b0f1a8fbf4643ec5",
+    "wof:geomhash":"32336b2166583c9fec672dff3df8d877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466463,
-    "wof:lastmodified":1582328191,
+    "wof:lastmodified":1684353850,
     "wof:name":"Comitini",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":896,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

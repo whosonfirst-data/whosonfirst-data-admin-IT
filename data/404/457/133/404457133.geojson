@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavezzo",
+    "eurostat:nuts_2021_id":"036009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036009",
+    "eurostat:population":7007,
+    "eurostat:population_year":2020,
     "geom:area":0.003048,
-    "geom:area_square_m":26720504.407279,
+    "geom:area_square_m":26720504.407278,
     "geom:bbox":"10.9550940957,44.8102300142,11.046465126,44.8724760925",
     "geom:latitude":44.840284,
     "geom:longitude":11.001491,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036009",
+        "eurostat:nuts_2021_id":"036009",
         "gn:id":6539707,
         "gp:id":12678421,
         "qs_pg:id":231429
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e97411defa0051716c0d327824a02e0",
+    "wof:geomhash":"9453bd9ded239a42af38980dc21fed11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457133,
-    "wof:lastmodified":1582328096,
+    "wof:lastmodified":1684353643,
     "wof:name":"Cavezzo",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":7007,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aquilonia",
+    "eurostat:nuts_2021_id":"064004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064004",
+    "eurostat:population":1580,
+    "eurostat:population_year":2020,
     "geom:area":0.005968,
-    "geom:area_square_m":55711729.16953,
+    "geom:area_square_m":55711729.169533,
     "geom:bbox":"15.4295823379,40.9314104842,15.5649596625,41.0241764853",
     "geom:latitude":40.97902,
     "geom:longitude":15.492385,
@@ -50,6 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -58,6 +72,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064004",
+        "eurostat:nuts_2021_id":"064004",
         "gn:id":6541684,
         "gp:id":12676170,
         "qs_pg:id":38856
@@ -66,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"509088c865ff750d6d155fe3147b5b9a",
+    "wof:geomhash":"be18cfd8701af9ad3b4c096cf4027e2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404465203,
-    "wof:lastmodified":1582327831,
+    "wof:lastmodified":1684353827,
     "wof:name":"Aquilonia",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1580,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

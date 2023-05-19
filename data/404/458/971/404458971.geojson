@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muro Leccese",
+    "eurostat:nuts_2021_id":"075051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075051",
+    "eurostat:population":4890,
+    "eurostat:population_year":2020,
     "geom:area":0.001745,
-    "geom:area_square_m":16504401.206222,
+    "geom:area_square_m":16504401.206223,
     "geom:bbox":"18.3076247514,40.0851170163,18.3805198486,40.1311732668",
     "geom:latitude":40.110936,
     "geom:longitude":18.340313,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075051",
+        "eurostat:nuts_2021_id":"075051",
         "gn:id":6538979,
         "gp:id":12680638,
         "qs_pg:id":41686
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e31049e4eb5fe4960fdc5d8329eb8e3d",
+    "wof:geomhash":"e90272983de6192c1829656763e2115d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458971,
-    "wof:lastmodified":1582327948,
+    "wof:lastmodified":1684353683,
     "wof:name":"Muro Leccese",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":4890,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

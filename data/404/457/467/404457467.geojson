@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Balocco",
+    "eurostat:nuts_2021_id":"002009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002009",
+    "eurostat:population":217,
+    "eurostat:population_year":2020,
     "geom:area":0.001935,
-    "geom:area_square_m":16782254.370195,
+    "geom:area_square_m":16782254.370196,
     "geom:bbox":"8.22369431393,45.4353952332,8.32021823373,45.4936848098",
     "geom:latitude":45.461497,
     "geom:longitude":8.285277,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002009",
+        "eurostat:nuts_2021_id":"002009",
         "gn:id":6541442,
         "gp:id":12676507,
         "qs_pg:id":1195821
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"444a7eff7419b4a4022249f3682bb88d",
+    "wof:geomhash":"304e273659e40a381ac4317e99b4acb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457467,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353650,
     "wof:name":"Balocco",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

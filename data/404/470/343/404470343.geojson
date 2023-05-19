@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Polverara",
+    "eurostat:nuts_2021_id":"028066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028066",
+    "eurostat:population":3343,
+    "eurostat:population_year":2020,
     "geom:area":0.001129,
-    "geom:area_square_m":9817019.079045,
+    "geom:area_square_m":9817019.079046,
     "geom:bbox":"11.9284353596,45.288929103,11.9770968387,45.3439378898",
     "geom:latitude":45.312162,
     "geom:longitude":11.949845,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028066",
+        "eurostat:nuts_2021_id":"028066",
         "gn:id":6541008,
         "gp:id":12681191,
         "qs_pg:id":1207847
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02566f65df9d268d3e5548165bd4ac62",
+    "wof:geomhash":"c1cb4c5ad419a384bfeab574b39af79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470343,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353920,
     "wof:name":"Polverara",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3343,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

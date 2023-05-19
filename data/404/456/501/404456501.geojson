@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massello",
+    "eurostat:nuts_2021_id":"001145",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001145",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.004365,
-    "geom:area_square_m":38184860.91396,
+    "geom:area_square_m":38184860.913962,
     "geom:bbox":"6.96433133779,44.9377735695,7.07866437544,44.9963832672",
     "geom:latitude":44.968512,
     "geom:longitude":7.023931,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001145",
+        "eurostat:nuts_2021_id":"001145",
         "gn:id":6540132,
         "gp:id":12680230,
         "qs_pg:id":1205828
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8197c8f969fcbe50732211f99f8cb435",
+    "wof:geomhash":"4d255ee5646e915759af74ab9c635559",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456501,
-    "wof:lastmodified":1582328059,
+    "wof:lastmodified":1684353626,
     "wof:name":"Massello",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

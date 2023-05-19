@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vesime",
+    "eurostat:nuts_2021_id":"005113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005113",
+    "eurostat:population":609,
+    "eurostat:population_year":2020,
     "geom:area":0.001494,
-    "geom:area_square_m":13147677.213944,
+    "geom:area_square_m":13147677.213943,
     "geom:bbox":"8.19450963617,44.6143880222,8.27851008738,44.6514511375",
     "geom:latitude":44.630103,
     "geom:longitude":8.226461,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005113",
+        "eurostat:nuts_2021_id":"005113",
         "gn:id":6538183,
         "gp:id":12682401,
         "qs_pg:id":538302
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76c271c91d4e86c66a8d15c7b30bb4dc",
+    "wof:geomhash":"618c27e0729686db61e90ed96a0b1d57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456159,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353617,
     "wof:name":"Vesime",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":609,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

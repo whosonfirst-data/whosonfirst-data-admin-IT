@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gerano",
+    "eurostat:nuts_2021_id":"058044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058044",
+    "eurostat:population":1206,
+    "eurostat:population_year":2020,
     "geom:area":0.001097,
     "geom:area_square_m":10090607.779968,
     "geom:bbox":"12.9646864101,41.9107862066,13.0209631106,41.9472284248",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058044",
+        "eurostat:nuts_2021_id":"058044",
         "gn:id":6536950,
         "gp:id":12678531,
         "qs_pg:id":242727
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78075ed482a50c01c1b48b2624208e2d",
+    "wof:geomhash":"131c82cc431f6d3b2aecfb5cd2ee8642",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461615,
-    "wof:lastmodified":1582328142,
+    "wof:lastmodified":1684353742,
     "wof:name":"Gerano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":1206,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

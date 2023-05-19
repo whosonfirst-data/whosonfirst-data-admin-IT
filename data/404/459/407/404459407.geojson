@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verrone",
+    "eurostat:nuts_2021_id":"096076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096076",
+    "eurostat:population":1240,
+    "eurostat:population_year":2020,
     "geom:area":0.000989,
     "geom:area_square_m":8572145.825298,
     "geom:bbox":"8.09488823868,45.4809589327,8.14337406707,45.5226791806",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096076",
+        "eurostat:nuts_2021_id":"096076",
         "gn:id":6539397,
         "gp:id":12682395,
         "qs_pg:id":992466
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db6b13c20834897a14c2804c2e420e20",
+    "wof:geomhash":"6b58b254a5536b96e4c7ee86a09d7b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459407,
-    "wof:lastmodified":1582328161,
+    "wof:lastmodified":1684353693,
     "wof:name":"Verrone",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":1240,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

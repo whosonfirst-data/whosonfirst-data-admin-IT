@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cercola",
+    "eurostat:nuts_2021_id":"063026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063026",
+    "eurostat:population":17656,
+    "eurostat:population_year":2020,
     "geom:area":0.00045,
-    "geom:area_square_m":4206204.994777,
+    "geom:area_square_m":4206204.994775,
     "geom:bbox":"14.3468277786,40.8465341628,14.3743868063,40.8768922533",
     "geom:latitude":40.861786,
     "geom:longitude":14.358878,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063026",
+        "eurostat:nuts_2021_id":"063026",
         "gn:id":6538759,
         "gp:id":12678492,
         "qs_pg:id":272330
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"989d19a4408a1bdbe72a55d8bf36a10e",
+    "wof:geomhash":"c647254ea7444922485e9c01aa33693f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460925,
-    "wof:lastmodified":1582328008,
+    "wof:lastmodified":1684353727,
     "wof:name":"Cercola",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":17656,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

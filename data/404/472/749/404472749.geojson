@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campi Bisenzio",
+    "eurostat:nuts_2021_id":"048006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048006",
+    "eurostat:population":47343,
+    "eurostat:population_year":2020,
     "geom:area":0.003218,
-    "geom:area_square_m":28709111.387571,
+    "geom:area_square_m":28709111.387559,
     "geom:bbox":"11.0614013243,43.785096698,11.1680950833,43.8591487808",
     "geom:latitude":43.822674,
     "geom:longitude":11.128378,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048006",
+        "eurostat:nuts_2021_id":"048006",
         "gn:id":6536820,
         "gp:id":12677408,
         "qs_pg:id":219372
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3ec85bd12bfd63b17be2448b969f00d",
+    "wof:geomhash":"d52651ae9a6eb157e81740a239e3435d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404472749,
-    "wof:lastmodified":1582327891,
+    "wof:lastmodified":1684353968,
     "wof:name":"Campi Bisenzio",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":47343,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

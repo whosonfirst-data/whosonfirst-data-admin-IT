@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corsico",
+    "eurostat:nuts_2021_id":"015093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015093",
+    "eurostat:population":35038,
+    "eurostat:population_year":2020,
     "geom:area":0.000617,
-    "geom:area_square_m":5349519.024861,
+    "geom:area_square_m":5349519.024862,
     "geom:bbox":"9.07489894018,45.4182930706,9.1204490847,45.4506525678",
     "geom:latitude":45.433025,
     "geom:longitude":9.100846,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015093",
+        "eurostat:nuts_2021_id":"015093",
         "gn:id":6536509,
         "gp:id":12678931,
         "qs_pg:id":40609
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98ac03f47b2eafb779937b9e145631fa",
+    "wof:geomhash":"4edd8449774f71fc68f6242598709e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404468395,
-    "wof:lastmodified":1582328084,
+    "wof:lastmodified":1684353888,
     "wof:name":"Corsico",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":35038,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

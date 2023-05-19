@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivarolo Canavese",
+    "eurostat:nuts_2021_id":"001217",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001217",
+    "eurostat:population":12511,
+    "eurostat:population_year":2020,
     "geom:area":0.003702,
-    "geom:area_square_m":32192471.761098,
+    "geom:area_square_m":32192471.761104,
     "geom:bbox":"7.70149782898,45.2499842182,7.75627355581,45.357165648",
     "geom:latitude":45.303935,
     "geom:longitude":7.724944,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001217",
+        "eurostat:nuts_2021_id":"001217",
         "gn:id":6541796,
         "gp:id":12681396,
         "qs_pg:id":210595
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10efa460c23cd126edb6e4909be1c0f2",
+    "wof:geomhash":"fb3983da267635653bf8fa4dfd541da6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457231,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353645,
     "wof:name":"Rivarolo Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":12511,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

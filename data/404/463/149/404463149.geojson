@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apricena",
+    "eurostat:nuts_2021_id":"071004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071004",
+    "eurostat:population":13035,
+    "eurostat:population_year":2020,
     "geom:area":0.018564,
-    "geom:area_square_m":171183419.592004,
+    "geom:area_square_m":171183419.592005,
     "geom:bbox":"15.3065293333,41.6963171623,15.563526243,41.8508036184",
     "geom:latitude":41.776655,
     "geom:longitude":15.457305,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071004",
+        "eurostat:nuts_2021_id":"071004",
         "gn:id":6538918,
         "gp:id":12676159,
         "qs_pg:id":76032
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"210b210d618c471251cca314e6115208",
+    "wof:geomhash":"ef53241cabef859ce1ec6c059ee3fb20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463149,
-    "wof:lastmodified":1582327790,
+    "wof:lastmodified":1684353773,
     "wof:name":"Apricena",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":13035,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

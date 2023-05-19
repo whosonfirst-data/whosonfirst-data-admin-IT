@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piazza Brembana",
+    "eurostat:nuts_2021_id":"016164",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016164",
+    "eurostat:population":1205,
+    "eurostat:population_year":2020,
     "geom:area":0.000786,
-    "geom:area_square_m":6754325.394894,
+    "geom:area_square_m":6754325.394896,
     "geom:bbox":"9.63273909124,45.9327513121,9.68073861255,45.9675991378",
     "geom:latitude":45.949119,
     "geom:longitude":9.658014,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016164",
+        "eurostat:nuts_2021_id":"016164",
         "gn:id":6539491,
         "gp:id":12681063,
         "qs_pg:id":332744
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8f132d4b765ece140cac1d5aa5f932e",
+    "wof:geomhash":"86bdcb18df3458fb2090378e5bc6eb6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466067,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353842,
     "wof:name":"Piazza Brembana",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1205,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

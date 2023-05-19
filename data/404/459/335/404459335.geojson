@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontboset",
+    "eurostat:nuts_2021_id":"007050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007050",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.003872,
     "geom:area_square_m":33501228.540132,
     "geom:bbox":"7.62856020968,45.5520594631,7.71392406828,45.6310538681",
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007050",
+        "eurostat:nuts_2021_id":"007050",
         "gn:id":6543064,
         "gp:id":20076005,
         "qs_pg:id":1103153
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"733e2e06d3aaed749b0fbdfc499b0315",
+    "wof:geomhash":"a521949b4e91513acb96fa2b3d0185d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404459335,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353692,
     "wof:name":"Pontboset",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

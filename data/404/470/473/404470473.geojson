@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camino al Tagliamento",
+    "eurostat:nuts_2021_id":"030015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030015",
+    "eurostat:population":1577,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
     "geom:area_square_m":22232139.842844,
     "geom:bbox":"12.907425424,45.8847383697,12.9735230009,45.9579758424",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030015",
+        "eurostat:nuts_2021_id":"030015",
         "gn:id":6536304,
         "gp:id":12677173,
         "qs_pg:id":1102026
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"428da6c51e044deda4aec8798e7ce959",
+    "wof:geomhash":"23bb921e3eb11a819a89e532e54236f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470473,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353922,
     "wof:name":"Camino Al Tagliamento",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1577,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

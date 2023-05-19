@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallecorsa",
+    "eurostat:nuts_2021_id":"060082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060082",
+    "eurostat:population":2523,
+    "eurostat:population_year":2020,
     "geom:area":0.00422,
-    "geom:area_square_m":39125749.594888,
+    "geom:area_square_m":39125749.594884,
     "geom:bbox":"13.3492529474,41.3967990236,13.4388642907,41.4758627167",
     "geom:latitude":41.432638,
     "geom:longitude":13.402396,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060082",
+        "eurostat:nuts_2021_id":"060082",
         "gn:id":6536999,
         "gp:id":12682345,
         "qs_pg:id":194531
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb3a1e9a3931a6a83f0ee9d9b5477f5e",
+    "wof:geomhash":"769881a1cfbf195313a71bdc0adcd267",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404462047,
-    "wof:lastmodified":1582327856,
+    "wof:lastmodified":1684353751,
     "wof:name":"Vallecorsa",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":2523,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

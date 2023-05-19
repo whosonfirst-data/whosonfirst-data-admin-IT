@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Procopio",
+    "eurostat:nuts_2021_id":"080076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080076",
+    "eurostat:population":526,
+    "eurostat:population_year":2020,
     "geom:area":0.00116,
-    "geom:area_square_m":11259284.592785,
+    "geom:area_square_m":11259284.592782,
     "geom:bbox":"15.870782177,38.2672762161,15.9228646611,38.3396414239",
     "geom:latitude":38.302443,
     "geom:longitude":15.900734,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080076",
+        "eurostat:nuts_2021_id":"080076",
         "gn:id":6539105,
         "gp:id":12675769,
         "qs_pg:id":38590
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3bc53c83b043248e5d6934c8665a37e",
+    "wof:geomhash":"52d2764053891a91d6bf61cdfc3bcf4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404464643,
-    "wof:lastmodified":1582327794,
+    "wof:lastmodified":1684353812,
     "wof:name":"San Procopio",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":526,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lunano",
+    "eurostat:nuts_2021_id":"041022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041022",
+    "eurostat:population":1496,
+    "eurostat:population_year":2020,
     "geom:area":0.001676,
-    "geom:area_square_m":14970311.242712,
+    "geom:area_square_m":14970311.2427,
     "geom:bbox":"12.4044309029,43.7152880193,12.476667813,43.7912410124",
     "geom:latitude":43.749853,
     "geom:longitude":12.435457,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041022",
+        "eurostat:nuts_2021_id":"041022",
         "gn:id":6536764,
         "gp:id":12680045,
         "qs_pg:id":1172885
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e18cd612920724eafc430fba4e3f8a06",
+    "wof:geomhash":"524654ac668caa5c1f0c3e1e1d42fa92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459749,
-    "wof:lastmodified":1582328164,
+    "wof:lastmodified":1684353700,
     "wof:name":"Lunano",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":1496,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

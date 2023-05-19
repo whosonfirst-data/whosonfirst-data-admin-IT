@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Joppolo",
+    "eurostat:nuts_2021_id":"102018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102018",
+    "eurostat:population":1852,
+    "eurostat:population_year":2020,
     "geom:area":0.002223,
-    "geom:area_square_m":21480744.946453,
+    "geom:area_square_m":21480744.946447,
     "geom:bbox":"15.8568118401,38.5607552005,15.9329279099,38.6196679651",
     "geom:latitude":38.594754,
     "geom:longitude":15.895487,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102018",
+        "eurostat:nuts_2021_id":"102018"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8f947b4aaeaa6ed4854516552f50b470",
+    "wof:geomhash":"2112da5532006c602240cdca380af3e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464791,
-    "wof:lastmodified":1566723211,
+    "wof:lastmodified":1684353817,
     "wof:name":"Joppolo",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":1852,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albiano",
+    "eurostat:nuts_2021_id":"022002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022002",
+    "eurostat:population":1485,
+    "eurostat:population_year":2020,
     "geom:area":0.00116,
-    "geom:area_square_m":9941248.590301,
+    "geom:area_square_m":9941248.590303,
     "geom:bbox":"11.1620502299,46.1250449057,11.212370167,46.157505246",
     "geom:latitude":46.141801,
     "geom:longitude":11.185074,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022002",
+        "eurostat:nuts_2021_id":"022002",
         "gn:id":6540225,
         "gp:id":12675914,
         "qs_pg:id":979978
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f64857ee97ea46559927e943bfc4af9e",
+    "wof:geomhash":"10944f0efbc2e6fd35719fb5083bb6b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473309,
-    "wof:lastmodified":1582327912,
+    "wof:lastmodified":1684353986,
     "wof:name":"Albiano",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1485,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Badalucco",
+    "eurostat:nuts_2021_id":"008006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008006",
+    "eurostat:population":1094,
+    "eurostat:population_year":2020,
     "geom:area":0.001805,
-    "geom:area_square_m":16078907.294843,
+    "geom:area_square_m":16078907.294844,
     "geom:bbox":"7.76415132018,43.89911239,7.87518841102,43.9429304032",
     "geom:latitude":43.919505,
     "geom:longitude":7.815152,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_008006",
+        "eurostat:nuts_2021_id":"008006"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5ae569f7b418f61610c2d17819d398bb",
+    "wof:geomhash":"5f3058fc21b3deb128f43c48cd54d07c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404470837,
-    "wof:lastmodified":1566723157,
+    "wof:lastmodified":1684353928,
     "wof:name":"Badalucco",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":1094,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

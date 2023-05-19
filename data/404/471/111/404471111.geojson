@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Irma",
+    "eurostat:nuts_2021_id":"017084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017084",
+    "eurostat:population":128,
+    "eurostat:population_year":2020,
     "geom:area":0.000571,
     "geom:area_square_m":4925897.572711,
     "geom:bbox":"10.2803757452,45.7620250832,10.3192284062,45.7872790797",
@@ -110,6 +122,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -118,6 +132,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017084",
+        "eurostat:nuts_2021_id":"017084",
         "gn:id":6542598,
         "gp:id":20076253,
         "qs_pg:id":384552
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f547a939be0c693be8d036c77df0f15",
+    "wof:geomhash":"613996bab73eaecdfebe2cb263752c27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404471111,
-    "wof:lastmodified":1582327720,
+    "wof:lastmodified":1684353934,
     "wof:name":"Irma",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":128,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

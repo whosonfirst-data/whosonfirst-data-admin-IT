@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pretoro",
+    "eurostat:nuts_2021_id":"069069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069069",
+    "eurostat:population":871,
+    "eurostat:population_year":2020,
     "geom:area":0.002838,
-    "geom:area_square_m":25992911.202892,
+    "geom:area_square_m":25992911.202889,
     "geom:bbox":"14.0935107791,42.158735359,14.1801904151,42.2397463347",
     "geom:latitude":42.203718,
     "geom:longitude":14.132176,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_069069",
+        "eurostat:nuts_2021_id":"069069"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"354b078d8a441f5ccf56aad08dcd3e2e",
+    "wof:geomhash":"5597b0aef16a166be5727a608cd7984b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404462675,
-    "wof:lastmodified":1566723313,
+    "wof:lastmodified":1684353763,
     "wof:name":"Pretoro",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":871,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

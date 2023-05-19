@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carsoli",
+    "eurostat:nuts_2021_id":"066025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066025",
+    "eurostat:population":5245,
+    "eurostat:population_year":2020,
     "geom:area":0.010407,
-    "geom:area_square_m":95457339.433764,
+    "geom:area_square_m":95457339.43375,
     "geom:bbox":"13.0240376688,42.0658503723,13.1968668965,42.1781361967",
     "geom:latitude":42.116486,
     "geom:longitude":13.114206,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_066025",
+        "eurostat:nuts_2021_id":"066025"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"41f0c406bf40c37e5008599751893c84",
+    "wof:geomhash":"b5ffea172a5b13f55b904bb6645d295b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404462123,
-    "wof:lastmodified":1566723340,
+    "wof:lastmodified":1684353753,
     "wof:name":"Carsoli",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":5245,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

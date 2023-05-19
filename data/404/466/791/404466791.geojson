@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nughedu San Nicol\u00f2",
+    "eurostat:nuts_2021_id":"090044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090044",
+    "eurostat:population":783,
+    "eurostat:population_year":2020,
     "geom:area":0.007221,
-    "geom:area_square_m":67873336.854363,
+    "geom:area_square_m":67873336.854355,
     "geom:bbox":"8.89998430382,40.4845752827,9.06505338645,40.5737664991",
     "geom:latitude":40.526099,
     "geom:longitude":8.985905,
@@ -170,6 +182,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -177,9 +191,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_090044",
+        "eurostat:nuts_2021_id":"090044"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b7006e201b8093e58f0aafb748d76eeb",
+    "wof:geomhash":"2c45500e10816ec02790e0e87246ef6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,10 +207,12 @@
         }
     ],
     "wof:id":404466791,
-    "wof:lastmodified":1566723764,
+    "wof:lastmodified":1684353858,
     "wof:name":"Nughedu San Nicol\u00f2",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":783,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

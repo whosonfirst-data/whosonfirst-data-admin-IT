@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milazzo",
+    "eurostat:nuts_2021_id":"083049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083049",
+    "eurostat:population":30860,
+    "eurostat:population_year":2020,
     "geom:area":0.002524,
-    "geom:area_square_m":24526768.815866,
+    "geom:area_square_m":24526768.815877,
     "geom:bbox":"15.209411833,38.1684026949,15.273072756,38.2717077971",
     "geom:latitude":38.204608,
     "geom:longitude":15.243041,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083049",
+        "eurostat:nuts_2021_id":"083049",
         "gn:id":6540055,
         "gp:id":12676589,
         "qs_pg:id":1187840
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9d8e3aae22e4c61856f47879f3082ec",
+    "wof:geomhash":"b643ec16850b4cf83d31d166057c16a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404466295,
-    "wof:lastmodified":1582328191,
+    "wof:lastmodified":1684353846,
     "wof:name":"Milazzo",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":30860,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

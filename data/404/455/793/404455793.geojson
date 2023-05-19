@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruffia",
+    "eurostat:nuts_2021_id":"004198",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004198",
+    "eurostat:population":354,
+    "eurostat:population_year":2020,
     "geom:area":0.000853,
-    "geom:area_square_m":7497239.083954,
+    "geom:area_square_m":7497239.083952,
     "geom:bbox":"7.57599429964,44.6979820029,7.62508587305,44.7307407691",
     "geom:latitude":44.711237,
     "geom:longitude":7.602749,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004198",
+        "eurostat:nuts_2021_id":"004198",
         "gn:id":6538160,
         "gp:id":12681513,
         "qs_pg:id":42339
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"706d38bbf9ec3a85dab1fb2b13258649",
+    "wof:geomhash":"de1c5fe59781b0c3f4d190a5aa7aed1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455793,
-    "wof:lastmodified":1582327816,
+    "wof:lastmodified":1684353610,
     "wof:name":"Ruffia",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":354,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

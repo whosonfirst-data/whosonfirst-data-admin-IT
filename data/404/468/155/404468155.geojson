@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Menaggio",
+    "eurostat:nuts_2021_id":"013145",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013145",
+    "eurostat:population":3124,
+    "eurostat:population_year":2020,
     "geom:area":0.001369,
-    "geom:area_square_m":11751312.562129,
+    "geom:area_square_m":11751312.562128,
     "geom:bbox":"9.19844128357,46.0048901415,9.26851095361,46.0420892585",
     "geom:latitude":46.021262,
     "geom:longitude":9.237649,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013145",
+        "eurostat:nuts_2021_id":"013145",
         "gn:id":6540162,
         "gp:id":12680281,
         "qs_pg:id":1102152
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a725d4952bd2194107111c542432cc81",
+    "wof:geomhash":"3c45542f09071eab807708b94f01539a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468155,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353884,
     "wof:name":"Menaggio",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":3124,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

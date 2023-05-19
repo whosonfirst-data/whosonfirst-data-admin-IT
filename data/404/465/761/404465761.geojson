@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanza",
+    "eurostat:nuts_2021_id":"065133",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065133",
+    "eurostat:population":2477,
+    "eurostat:population_year":2020,
     "geom:area":0.013535,
-    "geom:area_square_m":127736467.728437,
+    "geom:area_square_m":127736467.728449,
     "geom:bbox":"15.4471054002,40.1982792931,15.6503710344,40.2974465114",
     "geom:latitude":40.24871,
     "geom:longitude":15.543476,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065133",
+        "eurostat:nuts_2021_id":"065133",
         "gn:id":6538836,
         "gp:id":12681876,
         "qs_pg:id":538007
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d84f96bad96bf8c2bc6f289189b8cf5",
+    "wof:geomhash":"98f10d6a1736697e11ed47147a0fb4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404465761,
-    "wof:lastmodified":1582327839,
+    "wof:lastmodified":1684353837,
     "wof:name":"Sanza",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2477,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

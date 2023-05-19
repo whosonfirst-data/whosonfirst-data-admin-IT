@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Formia",
+    "eurostat:nuts_2021_id":"059008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059008",
+    "eurostat:population":38026,
+    "eurostat:population_year":2020,
     "geom:area":0.007949,
-    "geom:area_square_m":73860210.836041,
+    "geom:area_square_m":73860210.836048,
     "geom:bbox":"13.5516514297,41.2440810349,13.7081044971,41.3372036408",
     "geom:latitude":41.284645,
     "geom:longitude":13.62816,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059008",
+        "eurostat:nuts_2021_id":"059008",
         "gn:id":6540530,
         "gp:id":12678287,
         "qs_pg:id":907123
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb9ec25e036fb2d8cbbb2c1e3b4ae879",
+    "wof:geomhash":"d5fb8e13d70d9f6020b02d3f05ab0b44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404461805,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353746,
     "wof:name":"Formia",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":38026,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

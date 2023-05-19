@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio La Molara",
+    "eurostat:nuts_2021_id":"062059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062059",
+    "eurostat:population":2923,
+    "eurostat:population_year":2020,
     "geom:area":0.00703,
-    "geom:area_square_m":65333457.297556,
+    "geom:area_square_m":65333457.29755,
     "geom:bbox":"14.8868401167,41.2136268282,15.0380371469,41.3208480189",
     "geom:latitude":41.26927,
     "geom:longitude":14.952429,
@@ -116,6 +128,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -123,9 +137,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_062059",
+        "eurostat:nuts_2021_id":"062059"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a363aa3630262151d45432f25357d57f",
+    "wof:geomhash":"3312b0a087817ad36323864db243d885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +153,12 @@
         }
     ],
     "wof:id":404460825,
-    "wof:lastmodified":1566723528,
+    "wof:lastmodified":1684353725,
     "wof:name":"San Giorgio La Molara",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2923,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

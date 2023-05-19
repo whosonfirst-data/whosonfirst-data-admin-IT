@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allai",
+    "eurostat:nuts_2021_id":"095005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095005",
+    "eurostat:population":355,
+    "eurostat:population_year":2020,
     "geom:area":0.002886,
-    "geom:area_square_m":27355748.802055,
+    "geom:area_square_m":27355748.802054,
     "geom:bbox":"8.82010243193,39.9172810424,8.89150795258,39.979234546",
     "geom:latitude":39.949065,
     "geom:longitude":8.856218,
@@ -89,6 +101,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -97,6 +111,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095005",
+        "eurostat:nuts_2021_id":"095005",
         "gn:id":6537959,
         "gp:id":12675962,
         "qs_pg:id":946723
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"421ab83bc301ca5f953863584aa0563e",
+    "wof:geomhash":"6f9ab3879efc325c6a418bf036cd0da3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404466973,
-    "wof:lastmodified":1582328209,
+    "wof:lastmodified":1684353863,
     "wof:name":"Allai",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":355,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

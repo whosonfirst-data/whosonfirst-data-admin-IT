@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bassano del Grappa",
+    "eurostat:nuts_2021_id":"024012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024012",
+    "eurostat:population":43477,
+    "eurostat:population_year":2020,
     "geom:area":0.005442,
-    "geom:area_square_m":46938962.428405,
+    "geom:area_square_m":46938962.428416,
     "geom:bbox":"11.6451220879,45.7231394714,11.7630985696,45.8218685656",
     "geom:latitude":45.773883,
     "geom:longitude":11.707393,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024012",
+        "eurostat:nuts_2021_id":"024012",
         "gn:id":6538252,
         "gp:id":12676621,
         "qs_pg:id":39125
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e47ed7f11b592910a891f8ecaf55df75",
+    "wof:geomhash":"bd5816e6da31ad44ecf7019c63021ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469775,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353910,
     "wof:name":"Bassano Del Grappa",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":43477,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

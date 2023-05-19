@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Offanengo",
+    "eurostat:nuts_2021_id":"019062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019062",
+    "eurostat:population":6100,
+    "eurostat:population_year":2020,
     "geom:area":0.001447,
-    "geom:area_square_m":12564431.13314,
+    "geom:area_square_m":12564431.133141,
     "geom:bbox":"9.72684843511,45.3654510631,9.7725432385,45.4084299246",
     "geom:latitude":45.386029,
     "geom:longitude":9.749835,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019062",
+        "eurostat:nuts_2021_id":"019062",
         "gn:id":6541716,
         "gp:id":12680738,
         "qs_pg:id":234963
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47175f972818a9ac4b035caf43c6dbcb",
+    "wof:geomhash":"01ccf1ed281a738a753751445d206839",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468945,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353897,
     "wof:name":"Offanengo",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":6100,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

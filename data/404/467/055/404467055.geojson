@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paulilatino",
+    "eurostat:nuts_2021_id":"095041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095041",
+    "eurostat:population":2164,
+    "eurostat:population_year":2020,
     "geom:area":0.010972,
-    "geom:area_square_m":103825658.120235,
+    "geom:area_square_m":103825658.120228,
     "geom:bbox":"8.68414200593,40.0115976018,8.81489829949,40.1321166169",
     "geom:latitude":40.069103,
     "geom:longitude":8.747013,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095041",
+        "eurostat:nuts_2021_id":"095041",
         "gn:id":6539368,
         "gp:id":12680954,
         "qs_pg:id":41936
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c07da4d416e01fad9a1adbffc047f0c8",
+    "wof:geomhash":"1eb7a8119b34de537b26b8ec97079c19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467055,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353864,
     "wof:name":"Paulilatino",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":2164,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

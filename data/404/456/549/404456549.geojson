@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nomaglio",
+    "eurostat:nuts_2021_id":"001167",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001167",
+    "eurostat:population":295,
+    "eurostat:population_year":2020,
     "geom:area":0.000354,
     "geom:area_square_m":3069250.73171,
     "geom:bbox":"7.84701433331,45.532621695,7.87466817532,45.551634114",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001167",
+        "eurostat:nuts_2021_id":"001167",
         "gn:id":6538069,
         "gp:id":12680695,
         "qs_pg:id":1009334
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3587047cec44e4bf1dfcbf9c89cc429",
+    "wof:geomhash":"47321eaaa3ee73fd1f548c908f353e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456549,
-    "wof:lastmodified":1582328069,
+    "wof:lastmodified":1684353627,
     "wof:name":"Nomaglio",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":295,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

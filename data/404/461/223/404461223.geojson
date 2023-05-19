@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnoregio",
+    "eurostat:nuts_2021_id":"056003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056003",
+    "eurostat:population":3556,
+    "eurostat:population_year":2020,
     "geom:area":0.007982,
-    "geom:area_square_m":72635907.199193,
+    "geom:area_square_m":72635907.199196,
     "geom:bbox":"12.0097521596,42.5762522858,12.1769034131,42.6494068473",
     "geom:latitude":42.611785,
     "geom:longitude":12.09184,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056003",
+        "eurostat:nuts_2021_id":"056003",
         "gn:id":6540496,
         "gp:id":12676468,
         "qs_pg:id":248774
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a4e4b838c9351a80cd8d8d23d97f2c4",
+    "wof:geomhash":"0b4c03d93435791285103d8a70100a49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461223,
-    "wof:lastmodified":1582328141,
+    "wof:lastmodified":1684353734,
     "wof:name":"Bagnoregio",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":3556,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

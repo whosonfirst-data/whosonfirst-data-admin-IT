@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santu Lussurgiu",
+    "eurostat:nuts_2021_id":"095049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095049",
+    "eurostat:population":2300,
+    "eurostat:population_year":2020,
     "geom:area":0.010558,
-    "geom:area_square_m":99771818.87137,
+    "geom:area_square_m":99771818.871365,
     "geom:bbox":"8.54988235162,40.1041442074,8.74558939368,40.2141951918",
     "geom:latitude":40.158178,
     "geom:longitude":8.666214,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095049",
+        "eurostat:nuts_2021_id":"095049",
         "gn:id":6539370,
         "gp:id":12681665,
         "qs_pg:id":1137073
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b87277f096b1d2374f0bf1f95ef4a8d",
+    "wof:geomhash":"a8a537062c3ed05c7b03f755f7689bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467073,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353865,
     "wof:name":"Santu Lussurgiu",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":2300,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

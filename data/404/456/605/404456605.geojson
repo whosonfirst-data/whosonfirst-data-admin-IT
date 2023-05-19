@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanarica",
+    "eurostat:nuts_2021_id":"075067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075067",
+    "eurostat:population":1477,
+    "eurostat:population_year":2020,
     "geom:area":0.001355,
     "geom:area_square_m":12817796.443139,
     "geom:bbox":"18.3185753553,40.06381137,18.3844541493,40.1115914967",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075067",
+        "eurostat:nuts_2021_id":"075067",
         "gn:id":6540767,
         "gp:id":12679599,
         "qs_pg:id":1095096
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1d270b97480e2fe706018b7859f6a8ba",
+    "wof:geomhash":"c4fb78f4bb834c4771a8f1a1a866f638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456605,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353628,
     "wof:name":"Sanarica",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":1477,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

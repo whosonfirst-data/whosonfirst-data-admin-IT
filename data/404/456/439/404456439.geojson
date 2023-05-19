@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Groscavallo",
+    "eurostat:nuts_2021_id":"001118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001118",
+    "eurostat:population":192,
+    "eurostat:population_year":2020,
     "geom:area":0.010581,
-    "geom:area_square_m":91918562.41272,
+    "geom:area_square_m":91918562.412714,
     "geom:bbox":"7.13080660715,45.3223750727,7.31722073657,45.4160885904",
     "geom:latitude":45.367402,
     "geom:longitude":7.230375,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001118",
+        "eurostat:nuts_2021_id":"001118",
         "gn:id":6539514,
         "gp:id":12675891,
         "qs_pg:id":239152
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"322bd721e11137c2aed83771980eef7c",
+    "wof:geomhash":"0b7cc40118d1a18d1517170511bd0ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456439,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353624,
     "wof:name":"Groscavallo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":192,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

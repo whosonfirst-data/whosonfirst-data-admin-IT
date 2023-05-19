@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogorno",
+    "eurostat:nuts_2021_id":"010018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010018",
+    "eurostat:population":5707,
+    "eurostat:population_year":2020,
     "geom:area":0.001026,
-    "geom:area_square_m":9071154.30138,
+    "geom:area_square_m":9071154.301381,
     "geom:bbox":"9.34745364003,44.3143600525,9.39742005112,44.3496169639",
     "geom:latitude":44.330854,
     "geom:longitude":9.370747,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010018",
+        "eurostat:nuts_2021_id":"010018",
         "gn:id":6541486,
         "gp:id":12678957,
         "qs_pg:id":248659
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2031dd3c39d1a3a65370d24209de5f39",
+    "wof:geomhash":"96e862b9e0fafff4d6efb5a8b6bcbce1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404471959,
-    "wof:lastmodified":1582327722,
+    "wof:lastmodified":1684353949,
     "wof:name":"Cogorno",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":5707,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

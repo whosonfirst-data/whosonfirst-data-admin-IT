@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rosasco",
+    "eurostat:nuts_2021_id":"018130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018130",
+    "eurostat:population":555,
+    "eurostat:population_year":2020,
     "geom:area":0.002243,
-    "geom:area_square_m":19524614.767494,
+    "geom:area_square_m":19524614.767495,
     "geom:bbox":"8.52212290252,45.2293049192,8.6018523808,45.2799653746",
     "geom:latitude":45.252808,
     "geom:longitude":8.566823,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018130",
+        "eurostat:nuts_2021_id":"018130",
         "gn:id":6537202,
         "gp:id":12681485,
         "qs_pg:id":1143645
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e21c5135eb3e1468547ded0f6e757b6",
+    "wof:geomhash":"565df665434ba8e0361588df3ee27727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471571,
-    "wof:lastmodified":1582327731,
+    "wof:lastmodified":1684353942,
     "wof:name":"Rosasco",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":555,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

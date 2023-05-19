@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubriano",
+    "eurostat:nuts_2021_id":"056033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056033",
+    "eurostat:population":896,
+    "eurostat:population_year":2020,
     "geom:area":0.001831,
-    "geom:area_square_m":16649102.617864,
+    "geom:area_square_m":16649102.617863,
     "geom:bbox":"12.048169573,42.6312622151,12.1672298705,42.6646077849",
     "geom:latitude":42.645619,
     "geom:longitude":12.109402,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056033",
+        "eurostat:nuts_2021_id":"056033",
         "gn:id":6538633,
         "gp:id":12680030,
         "qs_pg:id":231505
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a40b22fb50cf9dc741ff8eb26ff5b48",
+    "wof:geomhash":"9f82566aa055cfcb3224bfcc3b58fc7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461291,
-    "wof:lastmodified":1582328145,
+    "wof:lastmodified":1684353736,
     "wof:name":"Lubriano",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":896,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

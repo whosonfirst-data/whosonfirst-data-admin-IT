@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bolognetta",
+    "eurostat:nuts_2021_id":"082011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082011",
+    "eurostat:population":4138,
+    "eurostat:population_year":2020,
     "geom:area":0.002824,
-    "geom:area_square_m":27527925.722926,
+    "geom:area_square_m":27527925.722929,
     "geom:bbox":"13.4352692656,37.947920371,13.5245631593,38.0134891046",
     "geom:latitude":37.974144,
     "geom:longitude":13.479971,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082011",
+        "eurostat:nuts_2021_id":"082011",
         "gn:id":6539120,
         "gp:id":12676867,
         "qs_pg:id":1142831
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a3ebeb73edca9250cb56cf3a62c17ab",
+    "wof:geomhash":"bd07c58225dc7da5ee6a620cb9bc9950",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464937,
-    "wof:lastmodified":1582327794,
+    "wof:lastmodified":1684353821,
     "wof:name":"Bolognetta",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":4138,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

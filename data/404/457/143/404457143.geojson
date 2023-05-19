@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiumalbo",
+    "eurostat:nuts_2021_id":"036014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036014",
+    "eurostat:population":1206,
+    "eurostat:population_year":2020,
     "geom:area":0.004406,
-    "geom:area_square_m":39073202.178685,
+    "geom:area_square_m":39073202.178681,
     "geom:bbox":"10.6017317782,44.1185862011,10.7124503923,44.2027970799",
     "geom:latitude":44.171523,
     "geom:longitude":10.654075,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036014",
+        "eurostat:nuts_2021_id":"036014",
         "gn:id":6536725,
         "gp:id":12675719,
         "qs_pg:id":1163396
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04bdd9311f5c98f715de82ad13d44202",
+    "wof:geomhash":"162ecf74121d2962fe9a17733022f66e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457143,
-    "wof:lastmodified":1582328106,
+    "wof:lastmodified":1684353643,
     "wof:name":"Fiumalbo",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":1206,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

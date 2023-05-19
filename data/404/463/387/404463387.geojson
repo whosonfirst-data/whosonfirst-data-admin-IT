@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_110009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trani",
+    "eurostat:nuts_2021_id":"110009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF48",
+    "eurostat:nuts_2021_level_lau":"110009",
+    "eurostat:population":56011,
+    "eurostat:population_year":2020,
     "geom:area":0.011012,
-    "geom:area_square_m":102393404.603053,
+    "geom:area_square_m":102393404.603039,
     "geom:bbox":"16.3270081484,41.1612249998,16.4676733319,41.3058004738",
     "geom:latitude":41.239103,
     "geom:longitude":16.38957,
@@ -197,6 +209,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -205,6 +219,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_110009",
+        "eurostat:nuts_2021_id":"110009",
         "gn:id":6541259,
         "gp:id":12682243,
         "qs_pg:id":103810
@@ -213,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8879b70424f28424fdf7bf4f8c122ca1",
+    "wof:geomhash":"083e115ee8462ba1041fe7d7befd90b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404463387,
-    "wof:lastmodified":1582327788,
+    "wof:lastmodified":1684353779,
     "wof:name":"Trani",
     "wof:parent_id":85685731,
     "wof:placetype":"localadmin",
+    "wof:population":56011,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scarlino",
+    "eurostat:nuts_2021_id":"053024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053024",
+    "eurostat:population":3904,
+    "eurostat:population_year":2020,
     "geom:area":0.009733,
-    "geom:area_square_m":88164047.400065,
+    "geom:area_square_m":88164047.400073,
     "geom:bbox":"10.7683107955,42.8429799074,10.8943004548,42.9633480358",
     "geom:latitude":42.897821,
     "geom:longitude":10.828466,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053024",
+        "eurostat:nuts_2021_id":"053024",
         "gn:id":6538610,
         "gp:id":12677757,
         "qs_pg:id":1163445
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b1ecb28b7620906f203b71417db659f",
+    "wof:geomhash":"a9886eeaac4310020499a1f7cb36efcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404473011,
-    "wof:lastmodified":1582327927,
+    "wof:lastmodified":1684353975,
     "wof:name":"Scarlino",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":3904,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

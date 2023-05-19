@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pognano",
+    "eurostat:nuts_2021_id":"016167",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016167",
+    "eurostat:population":1602,
+    "eurostat:population_year":2020,
     "geom:area":0.000379,
-    "geom:area_square_m":3280994.374868,
+    "geom:area_square_m":3280994.374867,
     "geom:bbox":"9.62305311754,45.5735208533,9.6542227355,45.5936489084",
     "geom:latitude":45.583601,
     "geom:longitude":9.64075,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016167",
+        "eurostat:nuts_2021_id":"016167",
         "gn:id":6542564,
         "gp:id":20076209,
         "qs_pg:id":335148
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c3d338abc3def62416873dc426178576",
+    "wof:geomhash":"80ff22d42bd130ad31387afd88c0b002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466073,
-    "wof:lastmodified":1582328201,
+    "wof:lastmodified":1684353842,
     "wof:name":"Pognano",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1602,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

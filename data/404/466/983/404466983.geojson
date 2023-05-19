@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asuni",
+    "eurostat:nuts_2021_id":"095009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095009",
+    "eurostat:population":320,
+    "eurostat:population_year":2020,
     "geom:area":0.002249,
     "geom:area_square_m":21340084.643396,
     "geom:bbox":"8.91716001793,39.8437116221,8.98040526403,39.9011873145",
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095009",
+        "eurostat:nuts_2021_id":"095009",
         "gn:id":6537962,
         "gp:id":12676322,
         "qs_pg:id":287912
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96f47295351f093d77d769462e37b3e6",
+    "wof:geomhash":"cbf220255db047be3d0dcd348ffb6e2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466983,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353863,
     "wof:name":"Asuni",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":320,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

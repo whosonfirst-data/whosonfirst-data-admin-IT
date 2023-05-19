@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ancarano",
+    "eurostat:nuts_2021_id":"067002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067002",
+    "eurostat:population":1855,
+    "eurostat:population_year":2020,
     "geom:area":0.001528,
-    "geom:area_square_m":13856178.197826,
+    "geom:area_square_m":13856178.197827,
     "geom:bbox":"13.7209349054,42.8133779509,13.7757640776,42.8590713872",
     "geom:latitude":42.840429,
     "geom:longitude":13.747685,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067002",
+        "eurostat:nuts_2021_id":"067002",
         "gn:id":6540012,
         "gp:id":12676071,
         "qs_pg:id":38780
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c011531912b276e4935e03b80c5511b",
+    "wof:geomhash":"cf0bf212b6418b4cf11973c2569372f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462315,
-    "wof:lastmodified":1582327861,
+    "wof:lastmodified":1684353756,
     "wof:name":"Ancarano",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":1855,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

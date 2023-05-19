@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calasca-Castiglione",
+    "eurostat:nuts_2021_id":"103014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103014",
+    "eurostat:population":593,
+    "eurostat:population_year":2020,
     "geom:area":0.006633,
-    "geom:area_square_m":56972051.834187,
+    "geom:area_square_m":56972051.834192,
     "geom:bbox":"8.09075136242,45.9450353622,8.23756468591,46.0384482803",
     "geom:latitude":45.99965,
     "geom:longitude":8.183806,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103014",
+        "eurostat:nuts_2021_id":"103014",
         "gn:id":6536025,
         "gp:id":12675987,
         "qs_pg:id":75999
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ff909109964e8b6ad2a698caedbc1ad",
+    "wof:geomhash":"fd9a7cec6f3927e6e14cbbd9c9391907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459457,
-    "wof:lastmodified":1582328175,
+    "wof:lastmodified":1684353694,
     "wof:name":"Calasca-Castiglione",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":593,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noceto",
+    "eurostat:nuts_2021_id":"034025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034025",
+    "eurostat:population":13040,
+    "eurostat:population_year":2020,
     "geom:area":0.009011,
-    "geom:area_square_m":79054685.193594,
+    "geom:area_square_m":79054685.193596,
     "geom:bbox":"10.0385644809,44.7572002057,10.2238377139,44.8544801787",
     "geom:latitude":44.802563,
     "geom:longitude":10.135765,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034025",
+        "eurostat:nuts_2021_id":"034025",
         "gn:id":6541831,
         "gp:id":12676665,
         "qs_pg:id":407636
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"619fde749153ec1aeb3cc17101361adf",
+    "wof:geomhash":"ab0bca343652301786a69b287fd909fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467589,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353876,
     "wof:name":"Noceto",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":13040,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

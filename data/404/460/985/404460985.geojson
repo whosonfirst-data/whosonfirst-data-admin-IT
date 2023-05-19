@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Cavallo",
+    "eurostat:nuts_2021_id":"043027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043027",
+    "eurostat:population":111,
+    "eurostat:population_year":2020,
     "geom:area":0.004243,
-    "geom:area_square_m":38374363.569545,
+    "geom:area_square_m":38374363.569543,
     "geom:bbox":"12.9427020813,42.9576688869,13.0364254064,43.0238629822",
     "geom:latitude":42.991437,
     "geom:longitude":12.988084,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043027",
+        "eurostat:nuts_2021_id":"043027",
         "gn:id":3172995,
         "gp:id":12678771,
         "qs_pg:id":260451
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f76bcd12fbae6061dc187d5ec6869cde",
+    "wof:geomhash":"770d67dcf90a3e2c8d4ce5b105732e81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404460985,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353728,
     "wof:name":"Monte Cavallo",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":111,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

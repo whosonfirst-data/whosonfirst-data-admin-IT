@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forenza",
+    "eurostat:nuts_2021_id":"076033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076033",
+    "eurostat:population":1959,
+    "eurostat:population_year":2020,
     "geom:area":0.01233,
-    "geom:area_square_m":115310914.556309,
+    "geom:area_square_m":115310914.556276,
     "geom:bbox":"15.7584689576,40.7857294953,15.9402389304,40.9166825236",
     "geom:latitude":40.856722,
     "geom:longitude":15.854697,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076033",
+        "eurostat:nuts_2021_id":"076033",
         "gn:id":6540773,
         "gp:id":12675730,
         "qs_pg:id":49127
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"055c13ba8825b72c3d68b40d7f882982",
+    "wof:geomhash":"39d1d2455cd702ef35cfe7826b375912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404463937,
-    "wof:lastmodified":1582327763,
+    "wof:lastmodified":1684353791,
     "wof:name":"Forenza",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":1959,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

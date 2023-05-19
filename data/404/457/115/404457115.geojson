@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bastiglia",
+    "eurostat:nuts_2021_id":"036001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036001",
+    "eurostat:population":4239,
+    "eurostat:population_year":2020,
     "geom:area":0.001189,
     "geom:area_square_m":10446371.240061,
     "geom:bbox":"10.9659827766,44.7005334111,11.0240887049,44.7371731515",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036001",
+        "eurostat:nuts_2021_id":"036001",
         "gn:id":6541833,
         "gp:id":12676631,
         "qs_pg:id":1252099
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc1bf557839862041478ed8d52424855",
+    "wof:geomhash":"31bbfcaa1c1c7590cc73555833ee0b24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457115,
-    "wof:lastmodified":1582328118,
+    "wof:lastmodified":1684353642,
     "wof:name":"Bastiglia",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":4239,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

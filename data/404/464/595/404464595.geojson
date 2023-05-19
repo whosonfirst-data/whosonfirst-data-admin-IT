@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oppido Mamertina",
+    "eurostat:nuts_2021_id":"080055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080055",
+    "eurostat:population":5123,
+    "eurostat:population_year":2020,
     "geom:area":0.006012,
-    "geom:area_square_m":58349012.341179,
+    "geom:area_square_m":58349012.34123,
     "geom:bbox":"15.9189046236,38.2214074694,16.0419794902,38.3668370429",
     "geom:latitude":38.288703,
     "geom:longitude":15.977078,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080055",
+        "eurostat:nuts_2021_id":"080055",
         "gn:id":6543636,
         "gp:id":12680303,
         "qs_pg:id":998666
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a5ecec356ce176e1b1716f0d064c189",
+    "wof:geomhash":"8c44485d8ea002e6b157ad4e7037b6bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464595,
-    "wof:lastmodified":1582327793,
+    "wof:lastmodified":1684353810,
     "wof:name":"Oppido Mamertina",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":5123,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

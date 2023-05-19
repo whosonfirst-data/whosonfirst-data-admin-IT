@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pellizzano",
+    "eurostat:nuts_2021_id":"022137",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022137",
+    "eurostat:population":785,
+    "eurostat:population_year":2020,
     "geom:area":0.00565,
     "geom:area_square_m":48259923.570446,
     "geom:bbox":"10.5843453949,46.2499958849,10.794155223,46.3719193715",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022137",
+        "eurostat:nuts_2021_id":"022137",
         "gn:id":6541429,
         "gp:id":12680973,
         "qs_pg:id":1143264
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e1d5d3662fd5e41a359c499dccd7c85",
+    "wof:geomhash":"dd640717e64b4e9072da782f2f6adc05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473595,
-    "wof:lastmodified":1582327913,
+    "wof:lastmodified":1684353991,
     "wof:name":"Pellizzano",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":785,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

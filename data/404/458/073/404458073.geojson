@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Ambrogio di Valpolicella",
+    "eurostat:nuts_2021_id":"023077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023077",
+    "eurostat:population":11987,
+    "eurostat:population_year":2020,
     "geom:area":0.002708,
     "geom:area_square_m":23453561.204165,
     "geom:bbox":"10.8036434275,45.5046127832,10.8696272523,45.5821538225",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023077",
+        "eurostat:nuts_2021_id":"023077",
         "gn:id":6536209,
         "gp:id":12679101,
         "qs_pg:id":212982
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8a263896de106382151326bd66ba620",
+    "wof:geomhash":"1d351c8ed86645541ba19ae888399aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458073,
-    "wof:lastmodified":1582327954,
+    "wof:lastmodified":1684353662,
     "wof:name":"Sant'Ambrogio Di Valpolicella",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":11987,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

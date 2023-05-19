@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solbiate Arno",
+    "eurostat:nuts_2021_id":"012121",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012121",
+    "eurostat:population":4081,
+    "eurostat:population_year":2020,
     "geom:area":0.000351,
     "geom:area_square_m":3030253.118458,
     "geom:bbox":"8.8041106476,45.7077374846,8.827023375,45.7312354517",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012121",
+        "eurostat:nuts_2021_id":"012121",
         "gn:id":6540574,
         "gp:id":12682035,
         "qs_pg:id":241380
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"541ddcd01cbb51e52994e0cd31adb539",
+    "wof:geomhash":"4faf3eade28b18e02d27149daacc7824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404467883,
-    "wof:lastmodified":1582327983,
+    "wof:lastmodified":1684353881,
     "wof:name":"Solbiate Arno",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":4081,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

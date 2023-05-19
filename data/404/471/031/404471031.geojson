@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cellatica",
+    "eurostat:nuts_2021_id":"017048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017048",
+    "eurostat:population":4879,
+    "eurostat:population_year":2020,
     "geom:area":0.000755,
     "geom:area_square_m":6535086.850826,
     "geom:bbox":"10.1600202,45.553311823,10.1986997566,45.595127237",
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017048",
+        "eurostat:nuts_2021_id":"017048",
         "gn:id":6543179,
         "gp:id":20076250,
         "qs_pg:id":1015985
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ea44a1a2d9b876c862eb68a02d364c2",
+    "wof:geomhash":"76e1abb72f89dc4a82c97fee5a747946",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404471031,
-    "wof:lastmodified":1582327716,
+    "wof:lastmodified":1684353932,
     "wof:name":"Cellatica",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4879,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

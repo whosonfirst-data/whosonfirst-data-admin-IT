@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poggioreale",
+    "eurostat:nuts_2021_id":"081016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081016",
+    "eurostat:population":1454,
+    "eurostat:population_year":2020,
     "geom:area":0.003822,
-    "geom:area_square_m":37351899.557901,
+    "geom:area_square_m":37351899.55791,
     "geom:bbox":"13.0132839789,37.7503218469,13.1002001221,37.8205779826",
     "geom:latitude":37.788143,
     "geom:longitude":13.051776,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081016",
+        "eurostat:nuts_2021_id":"081016",
         "gn:id":6542036,
         "gp:id":12681173,
         "qs_pg:id":240810
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23c4d1f3979ad472a164502eea9de384",
+    "wof:geomhash":"f6d3d183f581b7254e627cf50766d058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404464897,
-    "wof:lastmodified":1582327806,
+    "wof:lastmodified":1684353820,
     "wof:name":"Poggioreale",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":1454,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

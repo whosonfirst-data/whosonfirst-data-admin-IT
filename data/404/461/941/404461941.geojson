@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiuggi",
+    "eurostat:nuts_2021_id":"060035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060035",
+    "eurostat:population":10603,
+    "eurostat:population_year":2020,
     "geom:area":0.003565,
-    "geom:area_square_m":32858109.284027,
+    "geom:area_square_m":32858109.284022,
     "geom:bbox":"13.1744269287,41.7662952622,13.2613545325,41.8393645053",
     "geom:latitude":41.808854,
     "geom:longitude":13.221753,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060035",
+        "eurostat:nuts_2021_id":"060035",
         "gn:id":6538706,
         "gp:id":12679284,
         "qs_pg:id":240806
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e2149de9f101c61d5da31683f970b50",
+    "wof:geomhash":"3751f4e43450e71b41747045d1f2ecea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404461941,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353749,
     "wof:name":"Fiuggi",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":10603,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

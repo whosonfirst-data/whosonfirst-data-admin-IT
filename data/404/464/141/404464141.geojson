@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colosimi",
+    "eurostat:nuts_2021_id":"078043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078043",
+    "eurostat:population":1182,
+    "eurostat:population_year":2020,
     "geom:area":0.00264,
-    "geom:area_square_m":25320903.725831,
+    "geom:area_square_m":25320903.725836,
     "geom:bbox":"16.3609255438,39.1032386942,16.5129022107,39.1545917116",
     "geom:latitude":39.127155,
     "geom:longitude":16.43754,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078043",
+        "eurostat:nuts_2021_id":"078043"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4403e5bf679ffcce482f8dedbadeac5f",
+    "wof:geomhash":"900cad0ff0c9a4e47a48ccbf45d5b5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464141,
-    "wof:lastmodified":1566723248,
+    "wof:lastmodified":1684353798,
     "wof:name":"Colosimi",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1182,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

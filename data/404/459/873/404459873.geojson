@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelfidardo",
+    "eurostat:nuts_2021_id":"042010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042010",
+    "eurostat:population":18658,
+    "eurostat:population_year":2020,
     "geom:area":0.003704,
-    "geom:area_square_m":33245760.429716,
+    "geom:area_square_m":33245760.429709,
     "geom:bbox":"13.5109994352,43.4392912204,13.6243181683,43.50063813",
     "geom:latitude":43.464368,
     "geom:longitude":13.563143,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042010",
+        "eurostat:nuts_2021_id":"042010",
         "gn:id":6538510,
         "gp:id":12677905,
         "qs_pg:id":248197
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54b80f3d97d585f7a7e2a93f0fd838f7",
+    "wof:geomhash":"7d03d69f08561edf117a04eea9944007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459873,
-    "wof:lastmodified":1582328157,
+    "wof:lastmodified":1684353703,
     "wof:name":"Castelfidardo",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":18658,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

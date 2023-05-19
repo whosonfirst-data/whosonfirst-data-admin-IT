@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colli del Tronto",
+    "eurostat:nuts_2021_id":"044014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044014",
+    "eurostat:population":3661,
+    "eurostat:population_year":2020,
     "geom:area":0.000652,
-    "geom:area_square_m":5912119.683783,
+    "geom:area_square_m":5912119.683782,
     "geom:bbox":"13.7303668171,42.8558074534,13.7630005946,42.8865293033",
     "geom:latitude":42.870235,
     "geom:longitude":13.745644,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044014",
+        "eurostat:nuts_2021_id":"044014",
         "gn:id":6541609,
         "gp:id":20076791,
         "qs_pg:id":1149955
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7948b46c4faff2b957832b6b3e608457",
+    "wof:geomhash":"878f77bac737fba911df2f2d4cf91d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404461075,
-    "wof:lastmodified":1582328141,
+    "wof:lastmodified":1684353731,
     "wof:name":"Colli Del Tronto",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":3661,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

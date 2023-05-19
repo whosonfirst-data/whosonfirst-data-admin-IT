@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Limone Piemonte",
+    "eurostat:nuts_2021_id":"004110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004110",
+    "eurostat:population":1456,
+    "eurostat:population_year":2020,
     "geom:area":0.007974,
-    "geom:area_square_m":70706292.844216,
+    "geom:area_square_m":70706292.844221,
     "geom:bbox":"7.49889594011,44.1377740843,7.63259342469,44.2430329799",
     "geom:latitude":44.186153,
     "geom:longitude":7.576186,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004110",
+        "eurostat:nuts_2021_id":"004110",
         "gn:id":6539577,
         "gp:id":12679965,
         "qs_pg:id":1296710
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ebd1944cd0c0335c403bd8dea91685b4",
+    "wof:geomhash":"347a52fcf95ffe6edca862738083e857",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404455595,
-    "wof:lastmodified":1582327809,
+    "wof:lastmodified":1684353607,
     "wof:name":"Limone Piemonte",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":1456,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

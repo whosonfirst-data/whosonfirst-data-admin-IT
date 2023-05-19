@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stagno Lombardo",
+    "eurostat:nuts_2021_id":"019103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019103",
+    "eurostat:population":1502,
+    "eurostat:population_year":2020,
     "geom:area":0.004595,
-    "geom:area_square_m":40132926.432901,
+    "geom:area_square_m":40132926.432903,
     "geom:bbox":"10.0257416089,45.0221139573,10.1307128746,45.1053146137",
     "geom:latitude":45.06202,
     "geom:longitude":10.089655,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019103",
+        "eurostat:nuts_2021_id":"019103",
         "gn:id":6536581,
         "gp:id":12677069,
         "qs_pg:id":1310321
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"68d6c6a9524e10ef5228c1aa369fde8a",
+    "wof:geomhash":"fd1f3b861c572cd494fd109b0bb62a16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469037,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353898,
     "wof:name":"Stagno Lombardo",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1502,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

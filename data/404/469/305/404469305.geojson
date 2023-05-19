@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garbagnate Monastero",
+    "eurostat:nuts_2021_id":"097037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097037",
+    "eurostat:population":2512,
+    "eurostat:population_year":2020,
     "geom:area":0.000405,
     "geom:area_square_m":3491116.603758,
     "geom:bbox":"9.28395707925,45.7576592356,9.32397286014,45.7771393544",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097037",
+        "eurostat:nuts_2021_id":"097037",
         "gn:id":6534828,
         "gp:id":12682663,
         "qs_pg:id":1310613
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1dfcd6c6b0ab0cd037f7c199aed9b65",
+    "wof:geomhash":"cf43b59e857bdf49eddbb71059958853",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469305,
-    "wof:lastmodified":1582328036,
+    "wof:lastmodified":1684353902,
     "wof:name":"Garbagnate Monastero",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":2512,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

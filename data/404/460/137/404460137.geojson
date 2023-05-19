@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frassinello Monferrato",
+    "eurostat:nuts_2021_id":"006072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006072",
+    "eurostat:population":490,
+    "eurostat:population_year":2020,
     "geom:area":0.000964,
-    "geom:area_square_m":8418960.77661,
+    "geom:area_square_m":8418960.776611,
     "geom:bbox":"8.37261465109,45.0215060752,8.42024005696,45.0539520456",
     "geom:latitude":45.037231,
     "geom:longitude":8.395297,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006072",
+        "eurostat:nuts_2021_id":"006072",
         "gn:id":6542205,
         "gp:id":20075909,
         "qs_pg:id":1025575
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52582c57e9f5b76c9911640ab6da205e",
+    "wof:geomhash":"d9eb8958af3c3ce185aef2e393853d12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460137,
-    "wof:lastmodified":1582328011,
+    "wof:lastmodified":1684353711,
     "wof:name":"Frassinello Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":490,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

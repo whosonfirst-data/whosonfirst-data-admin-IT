@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Angrogna",
+    "eurostat:nuts_2021_id":"001011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001011",
+    "eurostat:population":845,
+    "eurostat:population_year":2020,
     "geom:area":0.004428,
-    "geom:area_square_m":38807493.71683,
+    "geom:area_square_m":38807493.716826,
     "geom:bbox":"7.1039936331,44.826013249,7.25665868943,44.8931644803",
     "geom:latitude":44.860786,
     "geom:longitude":7.177391,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001011",
+        "eurostat:nuts_2021_id":"001011",
         "gn:id":6543041,
         "gp:id":12681260,
         "qs_pg:id":1205908
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d53aef75a610fe5f76b2d425c7b8484a",
+    "wof:geomhash":"e9a78030b722aadd7f81a505bed7828d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456199,
-    "wof:lastmodified":1582328061,
+    "wof:lastmodified":1684353618,
     "wof:name":"Angrogna",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":845,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

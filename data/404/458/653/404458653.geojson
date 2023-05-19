@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardenno",
+    "eurostat:nuts_2021_id":"014005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014005",
+    "eurostat:population":3257,
+    "eurostat:population_year":2020,
     "geom:area":0.001999,
-    "geom:area_square_m":17115401.94969,
+    "geom:area_square_m":17115401.949692,
     "geom:bbox":"9.61823587329,46.1536127744,9.67568988567,46.2093450561",
     "geom:latitude":46.180814,
     "geom:longitude":9.646238,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014005",
+        "eurostat:nuts_2021_id":"014005",
         "gn:id":6541987,
         "gp:id":12680223,
         "qs_pg:id":1163519
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"403a52d4751be6e0df7e1016f9891719",
+    "wof:geomhash":"43eb400b704041f83640d2ec1d74ca51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458653,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353674,
     "wof:name":"Ardenno",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":3257,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

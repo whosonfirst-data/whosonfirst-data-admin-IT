@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Angiari",
+    "eurostat:nuts_2021_id":"023003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023003",
+    "eurostat:population":2315,
+    "eurostat:population_year":2020,
     "geom:area":0.001543,
     "geom:area_square_m":13441377.992413,
     "geom:bbox":"11.2361471925,45.2041983807,11.297303558,45.2452648507",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_023003",
+        "eurostat:nuts_2021_id":"023003"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"de70a87d88d507acdeac20b059cdc569",
+    "wof:geomhash":"5a2a721c430fdf68bc5cd03121fffeaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404469637,
-    "wof:lastmodified":1566723564,
+    "wof:lastmodified":1684353907,
     "wof:name":"Angiari",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":2315,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

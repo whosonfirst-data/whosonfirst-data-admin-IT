@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scafa",
+    "eurostat:nuts_2021_id":"068039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068039",
+    "eurostat:population":3599,
+    "eurostat:population_year":2020,
     "geom:area":0.001124,
     "geom:area_square_m":10290452.887724,
     "geom:bbox":"13.9456835308,42.2295832173,14.0303249341,42.2715100857",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068039",
+        "eurostat:nuts_2021_id":"068039",
         "gn:id":6540731,
         "gp:id":12681906,
         "qs_pg:id":1143695
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8c7efd7f28da4e0917553889cad3bf5",
+    "wof:geomhash":"54039c631f365e86a02daa60ae021e68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462503,
-    "wof:lastmodified":1582327852,
+    "wof:lastmodified":1684353760,
     "wof:name":"Scafa",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":3599,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

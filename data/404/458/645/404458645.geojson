@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albaredo per San Marco",
+    "eurostat:nuts_2021_id":"014001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014001",
+    "eurostat:population":286,
+    "eurostat:population_year":2020,
     "geom:area":0.002207,
-    "geom:area_square_m":18929064.396059,
+    "geom:area_square_m":18929064.396057,
     "geom:bbox":"9.58166146369,46.0465684218,9.64781094593,46.1110601089",
     "geom:latitude":46.080117,
     "geom:longitude":9.620035,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014001",
+        "eurostat:nuts_2021_id":"014001",
         "gn:id":6536136,
         "gp:id":12676002,
         "qs_pg:id":75998
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49e0a52acefca7ef63b3bdbd7ca1c3a0",
+    "wof:geomhash":"c971612336aed2524fb852a0e8124919",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458645,
-    "wof:lastmodified":1582327941,
+    "wof:lastmodified":1684353674,
     "wof:name":"Albaredo Per San Marco",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":286,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

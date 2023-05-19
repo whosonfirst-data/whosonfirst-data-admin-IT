@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massimino",
+    "eurostat:nuts_2021_id":"009037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009037",
+    "eurostat:population":108,
+    "eurostat:population_year":2020,
     "geom:area":0.000886,
     "geom:area_square_m":7840454.768599,
     "geom:bbox":"8.05846393052,44.2738949163,8.1022574977,44.3139364004",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009037",
+        "eurostat:nuts_2021_id":"009037",
         "gn:id":6543072,
         "gp:id":20076427,
         "qs_pg:id":1298663
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b94fcb207057e0342b787ce378573785",
+    "wof:geomhash":"a2f19f1422838001cececc597a72127c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467473,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353874,
     "wof:name":"Massimino",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":108,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

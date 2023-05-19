@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valenzano",
+    "eurostat:nuts_2021_id":"072048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072048",
+    "eurostat:population":17750,
+    "eurostat:population_year":2020,
     "geom:area":0.001694,
-    "geom:area_square_m":15800166.733102,
+    "geom:area_square_m":15800166.733106,
     "geom:bbox":"16.8604614703,41.0068007527,16.9101398873,41.0627612829",
     "geom:latitude":41.035289,
     "geom:longitude":16.886847,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072048",
+        "eurostat:nuts_2021_id":"072048",
         "gn:id":6541260,
         "gp:id":12682335,
         "qs_pg:id":1252170
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d31b60c2dba8fd2f071203db88057c9",
+    "wof:geomhash":"255ffa458afa42cb7de2f8f8e975a45e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404456835,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353634,
     "wof:name":"Valenzano",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":17750,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

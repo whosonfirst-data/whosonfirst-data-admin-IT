@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglione Chiavarese",
+    "eurostat:nuts_2021_id":"010013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010013",
+    "eurostat:population":1569,
+    "eurostat:population_year":2020,
     "geom:area":0.003356,
-    "geom:area_square_m":29713568.757111,
+    "geom:area_square_m":29713568.75711,
     "geom:bbox":"9.47195910666,44.2517421218,9.57489305955,44.3099455218",
     "geom:latitude":44.27578,
     "geom:longitude":9.524789,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010013",
+        "eurostat:nuts_2021_id":"010013",
         "gn:id":6540280,
         "gp:id":12678588,
         "qs_pg:id":1118719
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8d154bc4ba55e6377d0857b6cf119cb",
+    "wof:geomhash":"9e7dd6b1a8e523c30bb66d620a00ee92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471949,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353949,
     "wof:name":"Castiglione Chiavarese",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":1569,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

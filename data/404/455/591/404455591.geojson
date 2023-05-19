@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lesegno",
+    "eurostat:nuts_2021_id":"004108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004108",
+    "eurostat:population":834,
+    "eurostat:population_year":2020,
     "geom:area":0.00161,
-    "geom:area_square_m":14221939.11349,
+    "geom:area_square_m":14221939.113491,
     "geom:bbox":"7.9374161056,44.372831653,7.99214109019,44.419094585",
     "geom:latitude":44.39618,
     "geom:longitude":7.963992,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004108",
+        "eurostat:nuts_2021_id":"004108",
         "gn:id":6539576,
         "gp:id":12679930,
         "qs_pg:id":1143138
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e042c650b36bd9537b00f0db8a1f20a6",
+    "wof:geomhash":"98c62af0925e7081e23930c235460c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455591,
-    "wof:lastmodified":1582327817,
+    "wof:lastmodified":1684353606,
     "wof:name":"Lesegno",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":834,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivamonte Agordino",
+    "eurostat:nuts_2021_id":"025043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025043",
+    "eurostat:population":615,
+    "eurostat:population_year":2020,
     "geom:area":0.002717,
     "geom:area_square_m":23234612.585958,
     "geom:bbox":"11.9951256869,46.211702756,12.0859632521,46.2729460465",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025043",
+        "eurostat:nuts_2021_id":"025043",
         "gn:id":6542177,
         "gp:id":12681394,
         "qs_pg:id":242305
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edfd4f180a5676168e18cc5a86de6840",
+    "wof:geomhash":"18b4f867180e9ca36dfb68dc68d722d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469935,
-    "wof:lastmodified":1582328034,
+    "wof:lastmodified":1684353913,
     "wof:name":"Rivamonte Agordino",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":615,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

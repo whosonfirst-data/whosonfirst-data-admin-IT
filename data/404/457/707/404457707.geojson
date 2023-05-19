@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavallirio",
+    "eurostat:nuts_2021_id":"003047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003047",
+    "eurostat:population":1314,
+    "eurostat:population_year":2020,
     "geom:area":0.000962,
-    "geom:area_square_m":8313202.804093,
+    "geom:area_square_m":8313202.804092,
     "geom:bbox":"8.38260072579,45.6471920026,8.43357191206,45.6857593867",
     "geom:latitude":45.662436,
     "geom:longitude":8.403478,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003047",
+        "eurostat:nuts_2021_id":"003047",
         "gn:id":6537299,
         "gp:id":12678408,
         "qs_pg:id":536669
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67894405ab4bad01d7161c1cd3a9d806",
+    "wof:geomhash":"bc5d60ff053666c3701ead1027823b63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457707,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353656,
     "wof:name":"Cavallirio",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1314,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

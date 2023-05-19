@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amelia",
+    "eurostat:nuts_2021_id":"055004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055004",
+    "eurostat:population":11852,
+    "eurostat:population_year":2020,
     "geom:area":0.014508,
-    "geom:area_square_m":132140049.957372,
+    "geom:area_square_m":132140049.957366,
     "geom:bbox":"12.3067449817,42.4858840307,12.4790935985,42.6300426435",
     "geom:latitude":42.559328,
     "geom:longitude":12.403762,
@@ -95,6 +107,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -102,9 +116,12 @@
         404227513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_055004",
+        "eurostat:nuts_2021_id":"055004"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"71cc613ef1d63504d447b1ca84ad98e9",
+    "wof:geomhash":"608d719fa9fa30b09d5f5daf7d9af795",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +132,12 @@
         }
     ],
     "wof:id":404459635,
-    "wof:lastmodified":1566723734,
+    "wof:lastmodified":1684353697,
     "wof:name":"Amelia",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":11852,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

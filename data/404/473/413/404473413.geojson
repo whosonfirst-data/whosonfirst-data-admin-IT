@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavedine",
+    "eurostat:nuts_2021_id":"022053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022053",
+    "eurostat:population":3016,
+    "eurostat:population_year":2020,
     "geom:area":0.00444,
-    "geom:area_square_m":38144103.648043,
+    "geom:area_square_m":38144103.648045,
     "geom:bbox":"10.9425272737,45.9415087726,11.0358841038,46.0205475348",
     "geom:latitude":45.985975,
     "geom:longitude":10.989126,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022053",
+        "eurostat:nuts_2021_id":"022053",
         "gn:id":6543240,
         "gp:id":12682103,
         "qs_pg:id":218681
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1672363a309844c10550f5b21e88c588",
+    "wof:geomhash":"aaab6ebe9f245558ea0225a0e2572ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404473413,
-    "wof:lastmodified":1582327915,
+    "wof:lastmodified":1684353988,
     "wof:name":"Cavedine",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":3016,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

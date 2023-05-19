@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Delia",
+    "eurostat:nuts_2021_id":"085006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085006",
+    "eurostat:population":4106,
+    "eurostat:population_year":2020,
     "geom:area":0.001256,
-    "geom:area_square_m":12346149.609929,
+    "geom:area_square_m":12346149.609931,
     "geom:bbox":"13.8919567096,37.3287205085,13.9434319919,37.3722951109",
     "geom:latitude":37.353137,
     "geom:longitude":13.919428,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085006",
+        "eurostat:nuts_2021_id":"085006",
         "gn:id":6540845,
         "gp:id":12679069,
         "qs_pg:id":51141
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3cd8ec92edafc6fb16c38ff5afc0e58",
+    "wof:geomhash":"949d585e604f1e3845def4200c50ea6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404466537,
-    "wof:lastmodified":1582328197,
+    "wof:lastmodified":1684353851,
     "wof:name":"Delia",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":4106,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

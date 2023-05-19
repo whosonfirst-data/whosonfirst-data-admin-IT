@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romallo",
+    "eurostat:nuts_2021_id":"022154",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022154",
+    "eurostat:population":644,
+    "eurostat:population_year":2020,
     "geom:area":0.000286,
-    "geom:area_square_m":2439296.36967,
+    "geom:area_square_m":2439296.369669,
     "geom:bbox":"11.0598146357,46.3850405257,11.0799710038,46.4090720202",
     "geom:latitude":46.397148,
     "geom:longitude":11.070784,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_022154",
+        "eurostat:nuts_2021_id":"022154"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"49fd52643fa1bc491d130fccaa2e17ac",
+    "wof:geomhash":"3df12c6fb44ae871106885d72bff08ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404473631,
-    "wof:lastmodified":1566723417,
+    "wof:lastmodified":1684353992,
     "wof:name":"Romallo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":644,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

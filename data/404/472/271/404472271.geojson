@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castenaso",
+    "eurostat:nuts_2021_id":"037021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037021",
+    "eurostat:population":15686,
+    "eurostat:population_year":2020,
     "geom:area":0.004044,
     "geom:area_square_m":35655668.239912,
     "geom:bbox":"11.4173237511,44.4773890034,11.516068162,44.5468035886",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037021",
+        "eurostat:nuts_2021_id":"037021",
         "gn:id":6540425,
         "gp:id":12678341,
         "qs_pg:id":1293086
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d0ef723b2d2d5afccc440d7590a8ab0",
+    "wof:geomhash":"8567f77c64483c86afaf8309024a887a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472271,
-    "wof:lastmodified":1582327900,
+    "wof:lastmodified":1684353956,
     "wof:name":"Castenaso",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":15686,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

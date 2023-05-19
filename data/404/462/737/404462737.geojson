@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tufillo",
+    "eurostat:nuts_2021_id":"069097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069097",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.002316,
     "geom:area_square_m":21309950.533662,
     "geom:bbox":"14.598694764,41.8914236582,14.6660510238,41.9450286986",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069097",
+        "eurostat:nuts_2021_id":"069097",
         "gn:id":6538895,
         "gp:id":12682285,
         "qs_pg:id":948806
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d66f286b2a9987089d0075b9cbbb391",
+    "wof:geomhash":"bcc8e4336d22a2499d0cd810d42bbe6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462737,
-    "wof:lastmodified":1582327851,
+    "wof:lastmodified":1684353764,
     "wof:name":"Tufillo",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

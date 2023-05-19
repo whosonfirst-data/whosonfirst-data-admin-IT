@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frassineto Po",
+    "eurostat:nuts_2021_id":"006073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006073",
+    "eurostat:population":1378,
+    "eurostat:population_year":2020,
     "geom:area":0.003384,
     "geom:area_square_m":29519282.634236,
     "geom:bbox":"8.50515050004,45.108302097,8.59326114705,45.1642944532",
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_006073",
+        "eurostat:nuts_2021_id":"006073"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"435e2a1fe85c4d0be8fab1b139c41c3e",
+    "wof:geomhash":"2cf1bd4b66e382d5a3d5deadd8a2a80e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404460139,
-    "wof:lastmodified":1566723523,
+    "wof:lastmodified":1684353711,
     "wof:name":"Frassineto Po",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1378,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

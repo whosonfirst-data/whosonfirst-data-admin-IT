@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirano",
+    "eurostat:nuts_2021_id":"027024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027024",
+    "eurostat:population":27371,
+    "eurostat:population_year":2020,
     "geom:area":0.005248,
     "geom:area_square_m":45498787.790472,
     "geom:bbox":"12.0342168019,45.4452003823,12.1394352129,45.5311592985",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027024",
+        "eurostat:nuts_2021_id":"027024",
         "gn:id":6538317,
         "gp:id":12680343,
         "qs_pg:id":901540
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"187aa9d7746d0c7c4382eed9bc355787",
+    "wof:geomhash":"9f7019b44b8d967f85d769083029d8b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470155,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353917,
     "wof:name":"Mirano",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":27371,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

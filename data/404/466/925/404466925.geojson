@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaspeciosa",
+    "eurostat:nuts_2021_id":"111107",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111107",
+    "eurostat:population":2597,
+    "eurostat:population_year":2020,
     "geom:area":0.002842,
-    "geom:area_square_m":27193612.080651,
+    "geom:area_square_m":27193612.080653,
     "geom:bbox":"8.84193709294,39.2298362079,8.94567139137,39.3290685451",
     "geom:latitude":39.296947,
     "geom:longitude":8.893912,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111107",
+        "eurostat:nuts_2021_id":"111107",
         "gn:id":6537923,
         "gp:id":12682489,
         "qs_pg:id":49347
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0843ae8bba8aa45bce8bdb75b75d757b",
+    "wof:geomhash":"fea94a6a92c8c7cf198e5b2ff0986f38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466925,
-    "wof:lastmodified":1582328196,
+    "wof:lastmodified":1684353862,
     "wof:name":"Villaspeciosa",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":2597,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

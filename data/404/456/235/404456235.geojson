@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bollengo",
+    "eurostat:nuts_2021_id":"001027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001027",
+    "eurostat:population":2135,
+    "eurostat:population_year":2020,
     "geom:area":0.001637,
-    "geom:area_square_m":14200370.695534,
+    "geom:area_square_m":14200370.695533,
     "geom:bbox":"7.9236445182,45.4420117203,7.97696618582,45.4960919599",
     "geom:latitude":45.466312,
     "geom:longitude":7.948775,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001027",
+        "eurostat:nuts_2021_id":"001027",
         "gn:id":6538040,
         "gp:id":12675915,
         "qs_pg:id":257746
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2114250cd63442fb8fa83888e065aa8",
+    "wof:geomhash":"891236273a7c9d542fc36fccf315a692",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456235,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353619,
     "wof:name":"Bollengo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":2135,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

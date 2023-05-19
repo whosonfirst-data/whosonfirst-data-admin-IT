@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amendolara",
+    "eurostat:nuts_2021_id":"078011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078011",
+    "eurostat:population":2854,
+    "eurostat:population_year":2020,
     "geom:area":0.00636,
-    "geom:area_square_m":60276844.252229,
+    "geom:area_square_m":60276844.252235,
     "geom:bbox":"16.4965847869,39.907285379,16.6296420466,40.0026204516",
     "geom:latitude":39.957674,
     "geom:longitude":16.557708,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078011",
+        "eurostat:nuts_2021_id":"078011"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1adf88696f888af60cf29a803d5b6d24",
+    "wof:geomhash":"62823efd5c3d305e23057723bdb7165e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464069,
-    "wof:lastmodified":1566723244,
+    "wof:lastmodified":1684353796,
     "wof:name":"Amendolara",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2854,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

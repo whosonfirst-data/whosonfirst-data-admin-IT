@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont\u00f9 Beccaria",
+    "eurostat:nuts_2021_id":"018100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018100",
+    "eurostat:population":1658,
+    "eurostat:population_year":2020,
     "geom:area":0.00177,
-    "geom:area_square_m":15472127.612896,
+    "geom:area_square_m":15472127.612903,
     "geom:bbox":"9.29420199106,45.0050487302,9.3650130227,45.0575652889",
     "geom:latitude":45.030491,
     "geom:longitude":9.320543,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018100",
+        "eurostat:nuts_2021_id":"018100",
         "gn:id":6536563,
         "gp:id":12680573,
         "qs_pg:id":1163590
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f42d8f6c0fffd733c44a0719a75485bd",
+    "wof:geomhash":"890876c31e2cc54478146329e5089740",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471503,
-    "wof:lastmodified":1582327711,
+    "wof:lastmodified":1684353941,
     "wof:name":"Mont\u00f9 Beccaria",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1658,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

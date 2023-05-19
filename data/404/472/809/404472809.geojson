@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rignano sull'Arno",
+    "eurostat:nuts_2021_id":"048036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048036",
+    "eurostat:population":8594,
+    "eurostat:population_year":2020,
     "geom:area":0.006047,
-    "geom:area_square_m":54036668.573142,
+    "geom:area_square_m":54036668.573147,
     "geom:bbox":"11.3609358895,43.6861420405,11.4685225104,43.7724152336",
     "geom:latitude":43.728342,
     "geom:longitude":11.420036,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048036",
+        "eurostat:nuts_2021_id":"048036",
         "gn:id":6536826,
         "gp:id":12678622,
         "qs_pg:id":1163559
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dee88558e670b4198aa42683c4b21b9c",
+    "wof:geomhash":"35548ccc081edf3afd4698cc6b70ef73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472809,
-    "wof:lastmodified":1582327902,
+    "wof:lastmodified":1684353970,
     "wof:name":"Rignano Sull'Arno",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":8594,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

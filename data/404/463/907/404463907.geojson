@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magliano in Toscana",
+    "eurostat:nuts_2021_id":"053013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053013",
+    "eurostat:population":3403,
+    "eurostat:population_year":2020,
     "geom:area":0.02752,
-    "geom:area_square_m":250367243.160065,
+    "geom:area_square_m":250367243.16003,
     "geom:bbox":"11.0817789598,42.5388077887,11.3884086996,42.7555127952",
     "geom:latitude":42.630442,
     "geom:longitude":11.249813,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053013",
+        "eurostat:nuts_2021_id":"053013",
         "gn:id":6538608,
         "gp:id":12677279,
         "qs_pg:id":1187863
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ebf877061a696ac6970f344698e9072",
+    "wof:geomhash":"9074b725233bf6d3da7e798bc2af291c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463907,
-    "wof:lastmodified":1582327761,
+    "wof:lastmodified":1684353790,
     "wof:name":"Magliano In Toscana",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":3403,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

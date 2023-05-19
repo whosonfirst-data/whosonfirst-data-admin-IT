@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acquedolci",
+    "eurostat:nuts_2021_id":"083107",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083107",
+    "eurostat:population":5577,
+    "eurostat:population_year":2020,
     "geom:area":0.00132,
-    "geom:area_square_m":12857534.300966,
+    "geom:area_square_m":12857534.300967,
     "geom:bbox":"14.5529230997,38.02688758,14.6150807604,38.069348788",
     "geom:latitude":38.049195,
     "geom:longitude":14.583422,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_083107",
+        "eurostat:nuts_2021_id":"083107"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1ac9acbfe3195946b387cd4e664842de",
+    "wof:geomhash":"dba272d9d66cdcba8efa2d6379a93989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404466425,
-    "wof:lastmodified":1566723768,
+    "wof:lastmodified":1684353849,
     "wof:name":"Acquedolci",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":5577,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

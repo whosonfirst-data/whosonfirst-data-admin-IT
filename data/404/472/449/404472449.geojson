@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ravenna",
+    "eurostat:nuts_2021_id":"039014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039014",
+    "eurostat:population":158058,
+    "eurostat:population_year":2020,
     "geom:area":0.073815,
-    "geom:area_square_m":651986734.793339,
+    "geom:area_square_m":651986734.79326,
     "geom:bbox":"12.0281756203,44.2131012666,12.3478342436,44.6292146255",
     "geom:latitude":44.412769,
     "geom:longitude":12.193196,
@@ -290,6 +302,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -297,9 +311,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_039014",
+        "eurostat:nuts_2021_id":"039014"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"77df2ed2dbc312cafb00d8ea646986f5",
+    "wof:geomhash":"90b17ecde912c5f766f1365ed25e2933",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,10 +327,12 @@
         }
     ],
     "wof:id":404472449,
-    "wof:lastmodified":1566723351,
+    "wof:lastmodified":1684353961,
     "wof:name":"Ravenna",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":158058,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

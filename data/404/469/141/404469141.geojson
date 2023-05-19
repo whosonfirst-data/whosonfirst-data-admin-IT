@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medole",
+    "eurostat:nuts_2021_id":"020034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020034",
+    "eurostat:population":4128,
+    "eurostat:population_year":2020,
     "geom:area":0.002954,
-    "geom:area_square_m":25682993.418442,
+    "geom:area_square_m":25682993.418446,
     "geom:bbox":"10.4765920874,45.2841010391,10.5578713802,45.3619261396",
     "geom:latitude":45.329091,
     "geom:longitude":10.521992,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020034",
+        "eurostat:nuts_2021_id":"020034",
         "gn:id":6540376,
         "gp:id":12680258,
         "qs_pg:id":1289700
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e046a494b8f7f0390024a7a370c30495",
+    "wof:geomhash":"0ef5ecad0409b6fb3968b7bc4fcdb7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469141,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353900,
     "wof:name":"Medole",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":4128,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

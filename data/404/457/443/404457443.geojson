@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vische",
+    "eurostat:nuts_2021_id":"001311",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001311",
+    "eurostat:population":1226,
+    "eurostat:population_year":2020,
     "geom:area":0.001962,
-    "geom:area_square_m":17047577.814394,
+    "geom:area_square_m":17047577.814391,
     "geom:bbox":"7.90889955074,45.3116412614,7.96501249475,45.3713555725",
     "geom:latitude":45.342762,
     "geom:longitude":7.938935,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001311",
+        "eurostat:nuts_2021_id":"001311",
         "gn:id":3164058,
         "gp:id":20076534,
         "qs_pg:id":1295846
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a88e3d0406ed314beb5c6fcf5948b88",
+    "wof:geomhash":"e8f41753edada4e9a9c6e40acb116e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457443,
-    "wof:lastmodified":1582328113,
+    "wof:lastmodified":1684353650,
     "wof:name":"Vische",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1226,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

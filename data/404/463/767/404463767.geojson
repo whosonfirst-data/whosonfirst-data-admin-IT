@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montevarchi",
+    "eurostat:nuts_2021_id":"051026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051026",
+    "eurostat:population":24409,
+    "eurostat:population_year":2020,
     "geom:area":0.006305,
-    "geom:area_square_m":56548663.072752,
+    "geom:area_square_m":56548663.072745,
     "geom:bbox":"11.480153352,43.4568645427,11.6370764804,43.5484212669",
     "geom:latitude":43.500585,
     "geom:longitude":11.551808,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051026",
+        "eurostat:nuts_2021_id":"051026",
         "gn:id":6541098,
         "gp:id":12679942,
         "qs_pg:id":885788
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea677a4bea2aa33cbccb82dac5579678",
+    "wof:geomhash":"632216c72a72cbec94bf06df73cc98ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404463767,
-    "wof:lastmodified":1582327778,
+    "wof:lastmodified":1684353785,
     "wof:name":"Montevarchi",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":24409,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Crema",
+    "eurostat:nuts_2021_id":"019035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019035",
+    "eurostat:population":34606,
+    "eurostat:population_year":2020,
     "geom:area":0.003967,
-    "geom:area_square_m":34466485.465236,
+    "geom:area_square_m":34466485.465237,
     "geom:bbox":"9.6285315369,45.3381966652,9.73940818827,45.3929813735",
     "geom:latitude":45.366004,
     "geom:longitude":9.682968,
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019035",
+        "eurostat:nuts_2021_id":"019035",
         "gn:id":6540640,
         "gp:id":12678989,
         "qs_pg:id":392495
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69b511b0b9de60ef8569f88f525d194f",
+    "wof:geomhash":"60bb213f02294812a0f55003bb810e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404468885,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353896,
     "wof:name":"Crema",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":34606,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

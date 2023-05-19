@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armungia",
+    "eurostat:nuts_2021_id":"111002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111002",
+    "eurostat:population":440,
+    "eurostat:population_year":2020,
     "geom:area":0.005741,
-    "geom:area_square_m":54748167.284382,
+    "geom:area_square_m":54748167.284387,
     "geom:bbox":"9.33972655204,39.498926907,9.48782315056,39.5828541549",
     "geom:latitude":39.53798,
     "geom:longitude":9.414953,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111002",
+        "eurostat:nuts_2021_id":"111002",
         "gn:id":6537887,
         "gp:id":12676248,
         "qs_pg:id":38887
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d78db438290a30ad14fe1784d3466a2",
+    "wof:geomhash":"f5ef14ca12b1e8191821ea755b919d64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404460591,
-    "wof:lastmodified":1582328011,
+    "wof:lastmodified":1684353721,
     "wof:name":"Armungia",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":440,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

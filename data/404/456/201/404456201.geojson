@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arignano",
+    "eurostat:nuts_2021_id":"001012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001012",
+    "eurostat:population":1081,
+    "eurostat:population_year":2020,
     "geom:area":0.000933,
-    "geom:area_square_m":8154292.422901,
+    "geom:area_square_m":8154292.422903,
     "geom:bbox":"7.88379316311,45.0169697544,7.91500215488,45.0621597978",
     "geom:latitude":45.037748,
     "geom:longitude":7.898911,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001012",
+        "eurostat:nuts_2021_id":"001012",
         "gn:id":6537018,
         "gp:id":12676234,
         "qs_pg:id":1310265
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0875389f17bfd789f6d968ff5a67030",
+    "wof:geomhash":"ff1c9f8dca0e695e7c33e7d5f5a472c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456201,
-    "wof:lastmodified":1582328067,
+    "wof:lastmodified":1684353618,
     "wof:name":"Arignano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1081,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

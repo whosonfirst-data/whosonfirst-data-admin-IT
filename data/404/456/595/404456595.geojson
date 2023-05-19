@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pertusio",
+    "eurostat:nuts_2021_id":"001187",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001187",
+    "eurostat:population":746,
+    "eurostat:population_year":2020,
     "geom:area":0.00046,
     "geom:area_square_m":3997263.482286,
     "geom:bbox":"7.62178898509,45.3390919836,7.65259742502,45.3657700645",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001187",
+        "eurostat:nuts_2021_id":"001187"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9ceb4cdb8e916771ccd8fe779766e1f0",
+    "wof:geomhash":"266c47440b710c5efffc44900c0255ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404456595,
-    "wof:lastmodified":1566723573,
+    "wof:lastmodified":1684353628,
     "wof:name":"Pertusio",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":746,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

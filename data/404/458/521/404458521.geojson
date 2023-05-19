@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zoagli",
+    "eurostat:nuts_2021_id":"010067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010067",
+    "eurostat:population":2400,
+    "eurostat:population_year":2020,
     "geom:area":0.00088,
-    "geom:area_square_m":7784789.387178,
+    "geom:area_square_m":7784789.387174,
     "geom:bbox":"9.24218223381,44.3292604144,9.28891161941,44.361762339",
     "geom:latitude":44.346476,
     "geom:longitude":9.268158,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010067",
+        "eurostat:nuts_2021_id":"010067",
         "gn:id":6536104,
         "gp:id":12681956,
         "qs_pg:id":1314150
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2543a98e55295381224e5b6a672dae5f",
+    "wof:geomhash":"05a21e19b1e2a46e5a56427935f5af62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404458521,
-    "wof:lastmodified":1582327947,
+    "wof:lastmodified":1684353671,
     "wof:name":"Zoagli",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2400,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

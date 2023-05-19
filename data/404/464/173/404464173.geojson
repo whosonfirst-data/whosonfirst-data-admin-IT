@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frascineto",
+    "eurostat:nuts_2021_id":"078057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078057",
+    "eurostat:population":1979,
+    "eurostat:population_year":2020,
     "geom:area":0.003037,
-    "geom:area_square_m":28833230.193955,
+    "geom:area_square_m":28833230.193962,
     "geom:bbox":"16.2483903723,39.8100011451,16.3037159845,39.8918066299",
     "geom:latitude":39.85061,
     "geom:longitude":16.275802,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078057",
+        "eurostat:nuts_2021_id":"078057"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4163288947c3927ec0d6b5bf73f8f369",
+    "wof:geomhash":"55aa56bb4b5051272f347991772f2c90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464173,
-    "wof:lastmodified":1566723224,
+    "wof:lastmodified":1684353799,
     "wof:name":"Frascineto",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1979,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

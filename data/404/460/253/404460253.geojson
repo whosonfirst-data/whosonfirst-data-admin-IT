@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paderna",
+    "eurostat:nuts_2021_id":"006124",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006124",
+    "eurostat:population":200,
+    "eurostat:population_year":2020,
     "geom:area":0.000503,
     "geom:area_square_m":4414243.538364,
     "geom:bbox":"8.8686129769,44.8147937897,8.90352841559,44.8370430989",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006124",
+        "eurostat:nuts_2021_id":"006124",
         "gn:id":6539608,
         "gp:id":12680860,
         "qs_pg:id":1205899
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc00dfe86515afadc535659ba9c192ba",
+    "wof:geomhash":"35532e60eeb2f750a67c9109deedaf48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460253,
-    "wof:lastmodified":1582328016,
+    "wof:lastmodified":1684353714,
     "wof:name":"Paderna",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

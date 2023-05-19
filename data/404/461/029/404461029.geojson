@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Severino Marche",
+    "eurostat:nuts_2021_id":"043047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043047",
+    "eurostat:population":12256,
+    "eurostat:population_year":2020,
     "geom:area":0.021494,
-    "geom:area_square_m":193525603.578074,
+    "geom:area_square_m":193525603.578089,
     "geom:bbox":"13.0654138088,43.1895800651,13.2843515525,43.3516246859",
     "geom:latitude":43.26843,
     "geom:longitude":13.173925,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043047",
+        "eurostat:nuts_2021_id":"043047",
         "gn:id":6541607,
         "gp:id":12678199,
         "qs_pg:id":40130
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09d639409173c4282cdb86d930e09807",
+    "wof:geomhash":"b02c2e4294ea3639b7d0f22d739b99a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461029,
-    "wof:lastmodified":1582328141,
+    "wof:lastmodified":1684353729,
     "wof:name":"San Severino Marche",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":12256,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

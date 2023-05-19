@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valganna",
+    "eurostat:nuts_2021_id":"012131",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012131",
+    "eurostat:population":1591,
+    "eurostat:population_year":2020,
     "geom:area":0.001441,
     "geom:area_square_m":12399174.167631,
     "geom:bbox":"8.79939291516,45.8717020139,8.85002557431,45.9297438143",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012131",
+        "eurostat:nuts_2021_id":"012131",
         "gn:id":6536130,
         "gp:id":12679493,
         "qs_pg:id":1293119
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f77ecee66c37e58ae35d3b614619b81f",
+    "wof:geomhash":"72d9f6c83fc726effc8849a314b17210",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467905,
-    "wof:lastmodified":1582327981,
+    "wof:lastmodified":1684353881,
     "wof:name":"Valganna",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":1591,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

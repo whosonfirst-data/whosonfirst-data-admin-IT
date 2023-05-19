@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agna",
+    "eurostat:nuts_2021_id":"028002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028002",
+    "eurostat:population":3213,
+    "eurostat:population_year":2020,
     "geom:area":0.002149,
     "geom:area_square_m":18734068.19834,
     "geom:bbox":"11.9262157955,45.1468943584,12.021998089,45.2028534683",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028002",
+        "eurostat:nuts_2021_id":"028002",
         "gn:id":6539923,
         "gp:id":12675821,
         "qs_pg:id":203684
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4a645ec44c9911e5a22ffdfe341c219",
+    "wof:geomhash":"6872e3751b083847f6cf975fa80985b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470203,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353918,
     "wof:name":"Agna",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3213,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galatro",
+    "eurostat:nuts_2021_id":"080035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080035",
+    "eurostat:population":1572,
+    "eurostat:population_year":2020,
     "geom:area":0.005253,
-    "geom:area_square_m":50857441.407483,
+    "geom:area_square_m":50857441.407492,
     "geom:bbox":"16.0885834808,38.429620646,16.2695403585,38.4957880957",
     "geom:latitude":38.462517,
     "geom:longitude":16.165596,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080035",
+        "eurostat:nuts_2021_id":"080035",
         "gn:id":6540813,
         "gp:id":12679464,
         "qs_pg:id":906276
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"883d3879c5c8845db05dbf7d45aed175",
+    "wof:geomhash":"70096e5074436234913876a1427917ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464551,
-    "wof:lastmodified":1582327792,
+    "wof:lastmodified":1684353809,
     "wof:name":"Galatro",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":1572,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

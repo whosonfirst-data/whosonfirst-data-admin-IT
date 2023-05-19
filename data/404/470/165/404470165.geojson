@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pianiga",
+    "eurostat:nuts_2021_id":"027028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027028",
+    "eurostat:population":12352,
+    "eurostat:population_year":2020,
     "geom:area":0.002307,
-    "geom:area_square_m":20013484.096866,
+    "geom:area_square_m":20013484.09687,
     "geom:bbox":"11.9761557244,45.4295630344,12.0949862885,45.4762557982",
     "geom:latitude":45.454728,
     "geom:longitude":12.030052,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027028",
+        "eurostat:nuts_2021_id":"027028",
         "gn:id":6541540,
         "gp:id":12677339,
         "qs_pg:id":1108213
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3bd97f203f4fe4525d4c93837fc3c44b",
+    "wof:geomhash":"b17fc1c947a5c9e98994b4ad9b4e7afe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470165,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353917,
     "wof:name":"Pianiga",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":12352,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

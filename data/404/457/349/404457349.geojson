@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001269",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strambino",
+    "eurostat:nuts_2021_id":"001269",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001269",
+    "eurostat:population":6198,
+    "eurostat:population_year":2020,
     "geom:area":0.002583,
-    "geom:area_square_m":22432498.414512,
+    "geom:area_square_m":22432498.414504,
     "geom:bbox":"7.87404513675,45.3435416677,7.9372177903,45.4243146628",
     "geom:latitude":45.383409,
     "geom:longitude":7.903089,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001269",
+        "eurostat:nuts_2021_id":"001269",
         "gn:id":6538085,
         "gp:id":12679025,
         "qs_pg:id":40655
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e31793fc0cfcc9487ede6ae6ba9a457a",
+    "wof:geomhash":"e3ae6ffd620034b784c49f17ffdedf96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457349,
-    "wof:lastmodified":1582328106,
+    "wof:lastmodified":1684353648,
     "wof:name":"Strambino",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":6198,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

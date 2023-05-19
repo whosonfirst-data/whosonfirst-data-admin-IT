@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnolo San Vito",
+    "eurostat:nuts_2021_id":"020003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020003",
+    "eurostat:population":5869,
+    "eurostat:population_year":2020,
     "geom:area":0.005624,
     "geom:area_square_m":49109424.648581,
     "geom:bbox":"10.8133961796,45.0460040091,10.9824399766,45.1126824893",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020003",
+        "eurostat:nuts_2021_id":"020003",
         "gn:id":6537229,
         "gp:id":12676466,
         "qs_pg:id":289606
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf1f339fb211a69b977994537c8cfd66",
+    "wof:geomhash":"847a868a9da4aa0f1bc1263255112273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469071,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353899,
     "wof:name":"Bagnolo San Vito",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":5869,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

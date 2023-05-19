@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montesilvano",
+    "eurostat:nuts_2021_id":"068024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068024",
+    "eurostat:population":54362,
+    "eurostat:population_year":2020,
     "geom:area":0.002572,
     "geom:area_square_m":23453267.662402,
     "geom:bbox":"14.1000785131,42.4645962792,14.1862342241,42.526783341",
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068024",
+        "eurostat:nuts_2021_id":"068024",
         "gn:id":6541550,
         "gp:id":12680558,
         "qs_pg:id":1277075
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef0216fdedc98837663d2c589f99ee94",
+    "wof:geomhash":"5ce396b5bc167197f09ddc706f32c438",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404462469,
-    "wof:lastmodified":1582327869,
+    "wof:lastmodified":1684353759,
     "wof:name":"Montesilvano",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":54362,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

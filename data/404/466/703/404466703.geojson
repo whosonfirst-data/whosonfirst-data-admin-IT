@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palazzolo Acreide",
+    "eurostat:nuts_2021_id":"089015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089015",
+    "eurostat:population":8481,
+    "eurostat:population_year":2020,
     "geom:area":0.008815,
-    "geom:area_square_m":86973082.807886,
+    "geom:area_square_m":86973082.807895,
     "geom:bbox":"14.848935758,37.0084303631,15.0952626903,37.1124651654",
     "geom:latitude":37.066736,
     "geom:longitude":14.960311,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089015",
+        "eurostat:nuts_2021_id":"089015",
         "gn:id":6539597,
         "gp:id":12677738,
         "qs_pg:id":1163443
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5fcdcc5d317bcc027a05f558c760b2e0",
+    "wof:geomhash":"a1a1022f39e7bc56272ebe3744a3f096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466703,
-    "wof:lastmodified":1582328199,
+    "wof:lastmodified":1684353856,
     "wof:name":"Palazzolo Acreide",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":8481,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

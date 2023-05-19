@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parella",
+    "eurostat:nuts_2021_id":"001179",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001179",
+    "eurostat:population":417,
+    "eurostat:population_year":2020,
     "geom:area":0.000309,
     "geom:area_square_m":2684089.721334,
     "geom:bbox":"7.78511061584,45.4121028263,7.81350107497,45.4376969031",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001179",
+        "eurostat:nuts_2021_id":"001179",
         "gn:id":6539901,
         "gp:id":12680929,
         "qs_pg:id":204153
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f5de9d4065e943093fa820cefa14f5d",
+    "wof:geomhash":"62fe0d833f2b4ec6800f20ad8f7d39dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456577,
-    "wof:lastmodified":1582328072,
+    "wof:lastmodified":1684353627,
     "wof:name":"Parella",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reggio di Calabria",
+    "eurostat:nuts_2021_id":"080063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080063",
+    "eurostat:population":178760,
+    "eurostat:population_year":2020,
     "geom:area":0.024367,
-    "geom:area_square_m":237063475.943179,
+    "geom:area_square_m":237063475.943171,
     "geom:bbox":"15.6301387134,37.9913157682,15.8643096711,38.2130150958",
     "geom:latitude":38.112673,
     "geom:longitude":15.718078,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080063",
+        "eurostat:nuts_2021_id":"080063",
         "gn:id":6542287,
         "gp:id":12676175,
         "qs_pg:id":59635
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"721b5139423705c7e594ee1494a6ea1b",
+    "wof:geomhash":"218862e35a5aefae5763b8de0851131d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404464613,
-    "wof:lastmodified":1582327801,
+    "wof:lastmodified":1684353811,
     "wof:name":"Reggio Di Calabria",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":178760,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

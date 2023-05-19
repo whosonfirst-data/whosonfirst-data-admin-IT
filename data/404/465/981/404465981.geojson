@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lenna",
+    "eurostat:nuts_2021_id":"016125",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016125",
+    "eurostat:population":574,
+    "eurostat:population_year":2020,
     "geom:area":0.001479,
-    "geom:area_square_m":12717501.870674,
+    "geom:area_square_m":12717501.870673,
     "geom:bbox":"9.6475228649,45.9112669181,9.72144618198,45.9519079841",
     "geom:latitude":45.933248,
     "geom:longitude":9.683285,
@@ -95,6 +107,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -103,6 +117,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016125",
+        "eurostat:nuts_2021_id":"016125",
         "gn:id":6540348,
         "gp:id":12679918,
         "qs_pg:id":247846
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c686e14bb3dd92a5fb919c2be0a94a44",
+    "wof:geomhash":"7cb09d7304a9472748d8cdc8e03f4cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404465981,
-    "wof:lastmodified":1582327848,
+    "wof:lastmodified":1684353841,
     "wof:name":"Lenna",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":574,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

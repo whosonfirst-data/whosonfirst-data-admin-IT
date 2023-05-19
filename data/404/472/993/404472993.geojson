@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglion Fibocchi",
+    "eurostat:nuts_2021_id":"051011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051011",
+    "eurostat:population":2125,
+    "eurostat:population_year":2020,
     "geom:area":0.002835,
-    "geom:area_square_m":25406398.55877,
+    "geom:area_square_m":25406398.558764,
     "geom:bbox":"11.716340963,43.5147449041,11.7877341508,43.5803698414",
     "geom:latitude":43.543524,
     "geom:longitude":11.751492,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051011",
+        "eurostat:nuts_2021_id":"051011",
         "gn:id":6538587,
         "gp:id":12677001,
         "qs_pg:id":1122871
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56acd6e7dd40a629d70c60b24589c747",
+    "wof:geomhash":"99b10d639f12ebdfdca27980d17e9573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472993,
-    "wof:lastmodified":1582327895,
+    "wof:lastmodified":1684353975,
     "wof:name":"Castiglion Fibocchi",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":2125,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanovafranca",
+    "eurostat:nuts_2021_id":"111101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111101",
+    "eurostat:population":1247,
+    "eurostat:population_year":2020,
     "geom:area":0.002897,
-    "geom:area_square_m":27586910.233645,
+    "geom:area_square_m":27586910.233647,
     "geom:bbox":"8.96595282325,39.6176804444,9.04904316948,39.6705356562",
     "geom:latitude":39.646264,
     "geom:longitude":9.012153,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111101",
+        "eurostat:nuts_2021_id":"111101",
         "gn:id":6537921,
         "gp:id":12682475,
         "qs_pg:id":226303
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9051fa6fe85b69901cdcbbf1dc940a65",
+    "wof:geomhash":"48dd83f13a0c467e664c9f5878440071",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467333,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353872,
     "wof:name":"Villanovafranca",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1247,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

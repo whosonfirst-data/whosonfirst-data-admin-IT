@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gesturi",
+    "eurostat:nuts_2021_id":"111027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111027",
+    "eurostat:population":1206,
+    "eurostat:population_year":2020,
     "geom:area":0.004925,
     "geom:area_square_m":46823974.214528,
     "geom:bbox":"8.93586995521,39.6968960019,9.07372945095,39.7828688106",
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111027",
+        "eurostat:nuts_2021_id":"111027",
         "gn:id":6539282,
         "gp:id":12679547,
         "qs_pg:id":416703
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c4c4087b93ee0c2076a804df420b030",
+    "wof:geomhash":"7751e514f8a2dbd1e77d95bbf8d7f2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467285,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353871,
     "wof:name":"Gesturi",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1206,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

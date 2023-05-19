@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ricc\u00f2 del Golfo di Spezia",
+    "eurostat:nuts_2021_id":"011023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011023",
+    "eurostat:population":3628,
+    "eurostat:population_year":2020,
     "geom:area":0.004251,
-    "geom:area_square_m":37716650.766973,
+    "geom:area_square_m":37716650.766975,
     "geom:bbox":"9.71459791315,44.105990063,9.81306677003,44.1795827041",
     "geom:latitude":44.147758,
     "geom:longitude":9.76489,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_011023",
+        "eurostat:nuts_2021_id":"011023"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"57a17c1082507bfb272f874ed079c107",
+    "wof:geomhash":"f04e7aaf22c0f5ebaac23ddbb07eaa9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404458573,
-    "wof:lastmodified":1566723441,
+    "wof:lastmodified":1684353672,
     "wof:name":"Ricc\u00f2 Del Golfo Di Spezia",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":3628,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

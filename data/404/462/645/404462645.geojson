@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mozzagrogna",
+    "eurostat:nuts_2021_id":"069056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069056",
+    "eurostat:population":2458,
+    "eurostat:population_year":2020,
     "geom:area":0.001531,
-    "geom:area_square_m":14023696.036551,
+    "geom:area_square_m":14023696.036552,
     "geom:bbox":"14.4146044428,42.1708145803,14.4775362682,42.2159257008",
     "geom:latitude":42.197376,
     "geom:longitude":14.449839,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069056",
+        "eurostat:nuts_2021_id":"069056",
         "gn:id":6541706,
         "gp:id":12680624,
         "qs_pg:id":1172964
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4372880978e588b93559aeb0ac3697a4",
+    "wof:geomhash":"e9823397ae2e258b90a38e414fbabece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462645,
-    "wof:lastmodified":1582327854,
+    "wof:lastmodified":1684353762,
     "wof:name":"Mozzagrogna",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":2458,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

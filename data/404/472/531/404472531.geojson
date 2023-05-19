@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coriano",
+    "eurostat:nuts_2021_id":"099003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099003",
+    "eurostat:population":10529,
+    "eurostat:population_year":2020,
     "geom:area":0.005239,
-    "geom:area_square_m":46620909.478788,
+    "geom:area_square_m":46620909.478787,
     "geom:bbox":"12.5066212813,43.9389571981,12.6432478643,43.9966675791",
     "geom:latitude":43.967702,
     "geom:longitude":12.569485,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099003",
+        "eurostat:nuts_2021_id":"099003"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bca0a59c83c92b6a802faa2655a127f0",
+    "wof:geomhash":"80312211b563ee7575aa53ea59e40d57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404472531,
-    "wof:lastmodified":1566723370,
+    "wof:lastmodified":1684353964,
     "wof:name":"Coriano",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":10529,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

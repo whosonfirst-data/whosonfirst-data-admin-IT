@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Presicce-Acquarica",
+    "eurostat:nuts_2021_id":"075098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075098",
+    "eurostat:population":9755,
+    "eurostat:population_year":2020,
     "geom:area":0.002528,
-    "geom:area_square_m":23984648.729604,
+    "geom:area_square_m":23984648.729608,
     "geom:bbox":"18.2005772698,39.8574100807,18.2972499282,39.920028787",
     "geom:latitude":39.884598,
     "geom:longitude":18.253002,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075098",
+        "eurostat:nuts_2021_id":"075098",
         "gn:id":6537594,
         "gp:id":12675766,
         "qs_pg:id":1314020
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1762f979ae365c58fc9d6af5bbc31e91",
+    "wof:geomhash":"a0f1fcf34f0ed706a0d7ae882fb0eb6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458995,
-    "wof:lastmodified":1582327950,
+    "wof:lastmodified":1684353683,
     "wof:name":"Presicce",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":9755,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

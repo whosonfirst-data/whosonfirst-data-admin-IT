@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caserta",
+    "eurostat:nuts_2021_id":"061022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061022",
+    "eurostat:population":74450,
+    "eurostat:population_year":2020,
     "geom:area":0.00577,
-    "geom:area_square_m":53776632.477015,
+    "geom:area_square_m":53776632.477005,
     "geom:bbox":"14.2778173268,41.0424938415,14.4347229941,41.1326919996",
     "geom:latitude":41.087527,
     "geom:longitude":14.35736,
@@ -221,6 +233,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -229,6 +243,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061022",
+        "eurostat:nuts_2021_id":"061022",
         "gn:id":6541869,
         "gp:id":12678098,
         "qs_pg:id":1150615
@@ -237,7 +253,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"276a63c3f0cf88b36e9b6239050c39ff",
+    "wof:geomhash":"47cbfe607241b16f0426d301fae9f7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -248,10 +264,12 @@
         }
     ],
     "wof:id":404463005,
-    "wof:lastmodified":1582327785,
+    "wof:lastmodified":1684353770,
     "wof:name":"Caserta",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":74450,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

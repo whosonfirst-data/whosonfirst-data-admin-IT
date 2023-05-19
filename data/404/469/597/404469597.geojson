@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carnate",
+    "eurostat:nuts_2021_id":"108016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108016",
+    "eurostat:population":7496,
+    "eurostat:population_year":2020,
     "geom:area":0.000401,
-    "geom:area_square_m":3464987.059198,
+    "geom:area_square_m":3464987.059199,
     "geom:bbox":"9.36912125102,45.6292692508,9.39334285658,45.6636676522",
     "geom:latitude":45.647944,
     "geom:longitude":9.380263,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108016",
+        "eurostat:nuts_2021_id":"108016",
         "gn:id":6539476,
         "gp:id":12677708,
         "qs_pg:id":628447
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4b5d89925adf95abbc051ab6c79dced",
+    "wof:geomhash":"f3a4a2890b06797200191d66b3bd5565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469597,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353906,
     "wof:name":"Carnate",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":7496,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

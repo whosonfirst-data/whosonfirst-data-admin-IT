@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rosolini",
+    "eurostat:nuts_2021_id":"089016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089016",
+    "eurostat:population":21122,
+    "eurostat:population_year":2020,
     "geom:area":0.007681,
-    "geom:area_square_m":75988552.661055,
+    "geom:area_square_m":75988552.661068,
     "geom:bbox":"14.8369515857,36.7982137727,14.9772626961,36.9758437552",
     "geom:latitude":36.864427,
     "geom:longitude":14.909648,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089016",
+        "eurostat:nuts_2021_id":"089016",
         "gn:id":6539214,
         "gp:id":20077072,
         "qs_pg:id":1286568
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a69a8a52b7cf03835178d76fc183f767",
+    "wof:geomhash":"ee4ecde923c72c681bc5d3b129c28a12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466707,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353856,
     "wof:name":"Rosolini",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":21122,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

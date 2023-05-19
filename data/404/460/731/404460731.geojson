@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelpagano",
+    "eurostat:nuts_2021_id":"062017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062017",
+    "eurostat:population":1407,
+    "eurostat:population_year":2020,
     "geom:area":0.0041,
-    "geom:area_square_m":38014165.688656,
+    "geom:area_square_m":38014165.688652,
     "geom:bbox":"14.763642689,41.3863178369,14.86584849,41.4527595391",
     "geom:latitude":41.417216,
     "geom:longitude":14.809839,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062017",
+        "eurostat:nuts_2021_id":"062017",
         "gn:id":6538737,
         "gp:id":12678321,
         "qs_pg:id":903657
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"779f7d5d494cb02b81c970a4b6c424f7",
+    "wof:geomhash":"75479ae2581c8f5099111c7bf1126ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460731,
-    "wof:lastmodified":1582327996,
+    "wof:lastmodified":1684353724,
     "wof:name":"Castelpagano",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1407,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giuseppe Vesuviano",
+    "eurostat:nuts_2021_id":"063068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063068",
+    "eurostat:population":31341,
+    "eurostat:population_year":2020,
     "geom:area":0.001506,
-    "geom:area_square_m":14092504.008377,
+    "geom:area_square_m":14092504.008374,
     "geom:bbox":"14.4449822275,40.8048143368,14.5322238684,40.8446641497",
     "geom:latitude":40.826521,
     "geom:longitude":14.502281,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063068",
+        "eurostat:nuts_2021_id":"063068",
         "gn:id":6537349,
         "gp:id":12681655,
         "qs_pg:id":1316325
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2ee953f7aa99cfaae8f9f54f28cede2",
+    "wof:geomhash":"099f9e2d0050c700d1ab01842e9ec4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465141,
-    "wof:lastmodified":1582327846,
+    "wof:lastmodified":1684353827,
     "wof:name":"San Giuseppe Vesuviano",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":31341,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

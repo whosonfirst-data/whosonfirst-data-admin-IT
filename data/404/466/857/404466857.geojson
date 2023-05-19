@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pula",
+    "eurostat:nuts_2021_id":"092050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092050",
+    "eurostat:population":7294,
+    "eurostat:population_year":2020,
     "geom:area":0.014458,
-    "geom:area_square_m":138922344.882156,
+    "geom:area_square_m":138922344.882157,
     "geom:bbox":"8.83196640185,38.915426838,9.03319549614,39.0843986175",
     "geom:latitude":39.007439,
     "geom:longitude":8.922987,
@@ -246,6 +258,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -254,6 +268,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092050",
+        "eurostat:nuts_2021_id":"092050",
         "gn:id":6540069,
         "gp:id":20076838,
         "qs_pg:id":50964
@@ -262,7 +278,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"042ecbf0d124b4d75ce2d8e222beef63",
+    "wof:geomhash":"22ba9c71e2f2b375e465da108fc06817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -273,10 +289,12 @@
         }
     ],
     "wof:id":404466857,
-    "wof:lastmodified":1582328190,
+    "wof:lastmodified":1684353860,
     "wof:name":"Pula",
     "wof:parent_id":1360702173,
     "wof:placetype":"localadmin",
+    "wof:population":7294,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

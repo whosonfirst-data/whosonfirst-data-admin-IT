@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nova Siri",
+    "eurostat:nuts_2021_id":"077018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077018",
+    "eurostat:population":6723,
+    "eurostat:population_year":2020,
     "geom:area":0.005523,
-    "geom:area_square_m":52201908.188703,
+    "geom:area_square_m":52201908.188706,
     "geom:bbox":"16.4811749948,40.1180396723,16.6639859767,40.1701082443",
     "geom:latitude":40.144193,
     "geom:longitude":16.569691,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077018",
+        "eurostat:nuts_2021_id":"077018",
         "gn:id":6537650,
         "gp:id":12680705,
         "qs_pg:id":1195878
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3377ac176c93955b12a8aa092727cad",
+    "wof:geomhash":"b58aa6604325992a441129ad60fcec2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464015,
-    "wof:lastmodified":1582327794,
+    "wof:lastmodified":1684353794,
     "wof:name":"Nova Siri",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":6723,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

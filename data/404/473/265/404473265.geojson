@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tires/Tiers",
+    "eurostat:nuts_2021_id":"021100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021100",
+    "eurostat:population":1010,
+    "eurostat:population_year":2020,
     "geom:area":0.00494,
     "geom:area_square_m":42069208.236358,
     "geom:bbox":"11.4947291777,46.4408790417,11.6503224462,46.5009976202",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021100",
+        "eurostat:nuts_2021_id":"021100",
         "gp:id":12676439,
         "qs_pg:id":406458
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"184d2ce8929b927adbc99893928370bd",
+    "wof:geomhash":"0d4107f6a389bb4c1c86479e696106c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473265,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353984,
     "wof:name":"Tires",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1010,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

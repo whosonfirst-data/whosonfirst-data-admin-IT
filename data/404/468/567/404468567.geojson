@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tribiano",
+    "eurostat:nuts_2021_id":"015222",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015222",
+    "eurostat:population":3641,
+    "eurostat:population_year":2020,
     "geom:area":0.000805,
-    "geom:area_square_m":6985467.41459,
+    "geom:area_square_m":6985467.414591,
     "geom:bbox":"9.35306789466,45.3864040853,9.39312896392,45.4231382962",
     "geom:latitude":45.403819,
     "geom:longitude":9.373765,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015222",
+        "eurostat:nuts_2021_id":"015222",
         "gn:id":6541990,
         "gp:id":12682271,
         "qs_pg:id":1004495
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2a3ca65404d4120f33915c1a23bad50",
+    "wof:geomhash":"ee1e75db6343e88b2ef2b9faf98390c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468567,
-    "wof:lastmodified":1582328074,
+    "wof:lastmodified":1684353891,
     "wof:name":"Tribiano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":3641,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

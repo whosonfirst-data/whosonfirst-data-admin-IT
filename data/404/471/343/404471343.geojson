@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toscolano-Maderno",
+    "eurostat:nuts_2021_id":"017187",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017187",
+    "eurostat:population":7765,
+    "eurostat:population_year":2020,
     "geom:area":0.006718,
-    "geom:area_square_m":58065743.629329,
+    "geom:area_square_m":58065743.629331,
     "geom:bbox":"10.5319860807,45.6094942176,10.6814601205,45.7018332911",
     "geom:latitude":45.656859,
     "geom:longitude":10.608499,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017187",
+        "eurostat:nuts_2021_id":"017187",
         "gn:id":6535871,
         "gp:id":12679457,
         "qs_pg:id":1102123
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"317f4a16407dcafabd564ddd05d0c5df",
+    "wof:geomhash":"fd642503e39bc78c711e2e3a36ef9dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404471343,
-    "wof:lastmodified":1582327735,
+    "wof:lastmodified":1684353938,
     "wof:name":"Toscolano-Maderno",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":7765,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

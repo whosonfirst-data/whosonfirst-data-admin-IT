@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grognardo",
+    "eurostat:nuts_2021_id":"006084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006084",
+    "eurostat:population":243,
+    "eurostat:population_year":2020,
     "geom:area":0.00103,
-    "geom:area_square_m":9068337.88953,
+    "geom:area_square_m":9068337.889531,
     "geom:bbox":"8.47109147381,44.6105207753,8.52226848818,44.6433289875",
     "geom:latitude":44.626829,
     "geom:longitude":8.494415,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006084",
+        "eurostat:nuts_2021_id":"006084",
         "gn:id":6543527,
         "gp:id":20075912,
         "qs_pg:id":50358
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b918b4601555be6aec8b46d62d0ac21b",
+    "wof:geomhash":"20a6a0f7e0339d1debde2ae2358bd47c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460163,
-    "wof:lastmodified":1582328010,
+    "wof:lastmodified":1684353711,
     "wof:name":"Grognardo",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":243,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Locate di Triulzi",
+    "eurostat:nuts_2021_id":"015125",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015125",
+    "eurostat:population":10341,
+    "eurostat:population_year":2020,
     "geom:area":0.001449,
-    "geom:area_square_m":12591978.418775,
+    "geom:area_square_m":12591978.418776,
     "geom:bbox":"9.20065282243,45.3279245292,9.25040237124,45.3896216259",
     "geom:latitude":45.357935,
     "geom:longitude":9.229598,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015125",
+        "eurostat:nuts_2021_id":"015125",
         "gn:id":6540585,
         "gp:id":12679989,
         "qs_pg:id":885791
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7dbe401b774600dcbffebe047c61a3d3",
+    "wof:geomhash":"e69eb70421f3d4f2606a9162e77c694c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468439,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353889,
     "wof:name":"Locate Di Triulzi",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":10341,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

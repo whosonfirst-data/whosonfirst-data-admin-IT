@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verderio",
+    "eurostat:nuts_2021_id":"097091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097091",
+    "eurostat:population":5610,
+    "eurostat:population_year":2020,
     "geom:area":0.000441,
     "geom:area_square_m":3809440.659384,
     "geom:bbox":"9.41865723987,45.6495869164,9.45571409312,45.6711009758",
@@ -122,6 +134,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -130,6 +144,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097091",
+        "eurostat:nuts_2021_id":"097091",
         "gn:id":6543346,
         "gp:id":12682669,
         "qs_pg:id":103855
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0a84ecb0635a506fab0b6f6fd3c27bc",
+    "wof:geomhash":"5d03e596cd1c4445fe790667dea6f819",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404469417,
-    "wof:lastmodified":1582328036,
+    "wof:lastmodified":1684353904,
     "wof:name":"Verderio Inferiore",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":5610,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

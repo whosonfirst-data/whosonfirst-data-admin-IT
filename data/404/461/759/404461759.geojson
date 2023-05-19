@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallepietra",
+    "eurostat:nuts_2021_id":"058108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058108",
+    "eurostat:population":258,
+    "eurostat:population_year":2020,
     "geom:area":0.005734,
-    "geom:area_square_m":52746352.592767,
+    "geom:area_square_m":52746352.592774,
     "geom:bbox":"13.1747880577,41.8722612097,13.2963443915,41.9769524822",
     "geom:latitude":41.932879,
     "geom:longitude":13.233732,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058108",
+        "eurostat:nuts_2021_id":"058108",
         "gn:id":6540528,
         "gp:id":12682351,
         "qs_pg:id":976946
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f28ad702febd6873283abe3ade7318f",
+    "wof:geomhash":"f6dae4550f821fe034410e97eb0ef629",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461759,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353745,
     "wof:name":"Vallepietra",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":258,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tambre",
+    "eurostat:nuts_2021_id":"025060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025060",
+    "eurostat:population":1306,
+    "eurostat:population_year":2020,
     "geom:area":0.005264,
-    "geom:area_square_m":45125968.9329,
+    "geom:area_square_m":45125968.932907,
     "geom:bbox":"12.3759425256,46.041841271,12.497263555,46.1528756105",
     "geom:latitude":46.114095,
     "geom:longitude":12.438911,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025060",
+        "eurostat:nuts_2021_id":"025060",
         "gn:id":6543571,
         "gp:id":12682133,
         "qs_pg:id":466138
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d910236b87e091979c23a484eaa99dd",
+    "wof:geomhash":"7cd23798f373275c462d8484a7adf1b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469973,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353913,
     "wof:name":"Tambre",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1306,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

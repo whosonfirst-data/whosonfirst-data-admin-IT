@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anversa degli Abruzzi",
+    "eurostat:nuts_2021_id":"066004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066004",
+    "eurostat:population":325,
+    "eurostat:population_year":2020,
     "geom:area":0.003513,
-    "geom:area_square_m":32285750.128351,
+    "geom:area_square_m":32285750.128352,
     "geom:bbox":"13.7676385065,41.9582530492,13.8651905568,42.0313006735",
     "geom:latitude":41.987934,
     "geom:longitude":13.811442,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066004",
+        "eurostat:nuts_2021_id":"066004",
         "gn:id":6540705,
         "gp:id":12676130,
         "qs_pg:id":1295731
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b9dce6818a5711a7b5550b4abd1bf6b",
+    "wof:geomhash":"8d2027215e41d158c6f3164017ac43aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404462075,
-    "wof:lastmodified":1582327868,
+    "wof:lastmodified":1684353752,
     "wof:name":"Anversa Degli Abruzzi",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":325,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

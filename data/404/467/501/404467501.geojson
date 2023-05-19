@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietra Ligure",
+    "eurostat:nuts_2021_id":"009049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009049",
+    "eurostat:population":8611,
+    "eurostat:population_year":2020,
     "geom:area":0.001112,
-    "geom:area_square_m":9865911.015552,
+    "geom:area_square_m":9865911.015551,
     "geom:bbox":"8.18782651517,44.1392968589,8.30354981553,44.1776202226",
     "geom:latitude":44.158447,
     "geom:longitude":8.257784,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009049",
+        "eurostat:nuts_2021_id":"009049",
         "gn:id":6537052,
         "gp:id":12681075,
         "qs_pg:id":537757
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be4cf60c63be077c780922d56c0e0451",
+    "wof:geomhash":"09a78cff6f6cfb07f124d73c88b21df6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404467501,
-    "wof:lastmodified":1582327979,
+    "wof:lastmodified":1684353875,
     "wof:name":"Pietra Ligure",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":8611,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

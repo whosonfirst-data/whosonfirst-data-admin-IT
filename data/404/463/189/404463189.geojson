@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Binetto",
+    "eurostat:nuts_2021_id":"072008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072008",
+    "eurostat:population":2214,
+    "eurostat:population_year":2020,
     "geom:area":0.001872,
-    "geom:area_square_m":17465263.202747,
+    "geom:area_square_m":17465263.202751,
     "geom:bbox":"16.5437116891,40.9727934831,16.7653849837,41.0408366304",
     "geom:latitude":41.009018,
     "geom:longitude":16.698776,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072008",
+        "eurostat:nuts_2021_id":"072008",
         "gn:id":6543293,
         "gp:id":20076967,
         "qs_pg:id":205210
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1614ab3904f54182e4a3a5d2bb00aa9a",
+    "wof:geomhash":"03a5f02355d530e3b3ed971f4df3c2be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463189,
-    "wof:lastmodified":1582327774,
+    "wof:lastmodified":1684353774,
     "wof:name":"Binetto",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":2214,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

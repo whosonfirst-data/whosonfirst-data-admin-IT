@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Contrada",
+    "eurostat:nuts_2021_id":"064029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064029",
+    "eurostat:population":3013,
+    "eurostat:population_year":2020,
     "geom:area":0.001096,
-    "geom:area_square_m":10246782.548843,
+    "geom:area_square_m":10246782.548845,
     "geom:bbox":"14.7465487537,40.8505366724,14.8147699769,40.88651366",
     "geom:latitude":40.869004,
     "geom:longitude":14.778253,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064029",
+        "eurostat:nuts_2021_id":"064029",
         "gn:id":6539816,
         "gp:id":12678873,
         "qs_pg:id":51108
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95655493495622416ec402c95ff1225e",
+    "wof:geomhash":"2bcd1b684f30f8e382b161aa87d8de1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404465259,
-    "wof:lastmodified":1582327831,
+    "wof:lastmodified":1684353828,
     "wof:name":"Contrada",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3013,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

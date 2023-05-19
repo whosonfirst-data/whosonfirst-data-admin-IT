@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagheria",
+    "eurostat:nuts_2021_id":"082006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082006",
+    "eurostat:population":54620,
+    "eurostat:population_year":2020,
     "geom:area":0.003054,
-    "geom:area_square_m":29728574.027282,
+    "geom:area_square_m":29728574.027281,
     "geom:bbox":"13.464799022,38.0352902422,13.5329716419,38.1196261045",
     "geom:latitude":38.076262,
     "geom:longitude":13.497011,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082006",
+        "eurostat:nuts_2021_id":"082006",
         "gn:id":6537735,
         "gp:id":12676417,
         "qs_pg:id":1078453
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5f889fc0dead3782d8ede26a0ab8a47",
+    "wof:geomhash":"f4d7690264b4d88983eee6f18c71af8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404464927,
-    "wof:lastmodified":1582327806,
+    "wof:lastmodified":1684353821,
     "wof:name":"Bagheria",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":54620,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

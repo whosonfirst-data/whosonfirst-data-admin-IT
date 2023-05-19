@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perdifumo",
+    "eurostat:nuts_2021_id":"065091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065091",
+    "eurostat:population":1767,
+    "eurostat:population_year":2020,
     "geom:area":0.002508,
-    "geom:area_square_m":23655629.721676,
+    "geom:area_square_m":23655629.721669,
     "geom:bbox":"14.9646088077,40.2556243356,15.046104164,40.3063407732",
     "geom:latitude":40.278306,
     "geom:longitude":15.006473,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065091",
+        "eurostat:nuts_2021_id":"065091"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"54b548a2eb70f8abed08c963b07ae95f",
+    "wof:geomhash":"e9237a26187197b2324c81027c084427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404465667,
-    "wof:lastmodified":1566723283,
+    "wof:lastmodified":1684353835,
     "wof:name":"Perdifumo",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":1767,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

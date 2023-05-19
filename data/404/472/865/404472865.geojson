@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Azzurro",
+    "eurostat:nuts_2021_id":"049013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049013",
+    "eurostat:population":3708,
+    "eurostat:population_year":2020,
     "geom:area":0.001467,
-    "geom:area_square_m":13314813.36454,
+    "geom:area_square_m":13314813.364541,
     "geom:bbox":"10.3533182504,42.7588899148,10.4213968345,42.7948066578",
     "geom:latitude":42.774855,
     "geom:longitude":10.388545,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049013",
+        "eurostat:nuts_2021_id":"049013",
         "gn:id":6538568,
         "gp:id":20076756,
         "qs_pg:id":1311205
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"951131e93b9bafb4c0961e2a97981349",
+    "wof:geomhash":"724588a341f2bd72a9e0f65efc84663b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404472865,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353972,
     "wof:name":"Porto Azzurro",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":3708,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Domenica Vittoria",
+    "eurostat:nuts_2021_id":"083083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083083",
+    "eurostat:population":894,
+    "eurostat:population_year":2020,
     "geom:area":0.002054,
-    "geom:area_square_m":20033138.839859,
+    "geom:area_square_m":20033138.839858,
     "geom:bbox":"14.9408425071,37.8914237774,15.0021636099,37.9787713037",
     "geom:latitude":37.934062,
     "geom:longitude":14.967509,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083083",
+        "eurostat:nuts_2021_id":"083083",
         "gn:id":6539161,
         "gp:id":12680235,
         "qs_pg:id":908064
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13423f439f812dc4dc13ddd84077928e",
+    "wof:geomhash":"62b2f993a2add0ce267eb4636af0888d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466371,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353848,
     "wof:name":"Santa Domenica Vittoria",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":894,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castrolibero",
+    "eurostat:nuts_2021_id":"078031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078031",
+    "eurostat:population":9610,
+    "eurostat:population_year":2020,
     "geom:area":0.001197,
-    "geom:area_square_m":11447667.921192,
+    "geom:area_square_m":11447667.921191,
     "geom:bbox":"16.183505109,39.2896246207,16.2334861966,39.3286942769",
     "geom:latitude":39.310394,
     "geom:longitude":16.205353,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078031",
+        "eurostat:nuts_2021_id":"078031"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a8a9b95095bf0d1c931288ccd9fc48a9",
+    "wof:geomhash":"30b6ca162f2035ce76fe1d2e4244771a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464115,
-    "wof:lastmodified":1566723246,
+    "wof:lastmodified":1684353797,
     "wof:name":"Castrolibero",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":9610,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

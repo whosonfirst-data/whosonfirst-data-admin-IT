@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavargna",
+    "eurostat:nuts_2021_id":"013062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013062",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.001744,
     "geom:area_square_m":14950798.356959,
     "geom:bbox":"9.07156509408,46.0776720446,9.12153003946,46.1349447399",
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013062",
+        "eurostat:nuts_2021_id":"013062",
         "gn:id":6540328,
         "gp:id":12677157,
         "qs_pg:id":209019
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88eaff699d84c915586c1afc2197f3ed",
+    "wof:geomhash":"ceccbf2f4f508a154042179abb83055f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404468029,
-    "wof:lastmodified":1582328087,
+    "wof:lastmodified":1684353883,
     "wof:name":"Cavargna",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

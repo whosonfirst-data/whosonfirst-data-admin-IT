@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marina di Gioiosa Ionica",
+    "eurostat:nuts_2021_id":"080045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080045",
+    "eurostat:population":6477,
+    "eurostat:population_year":2020,
     "geom:area":0.001649,
-    "geom:area_square_m":15995760.39913,
+    "geom:area_square_m":15995760.399134,
     "geom:bbox":"16.2973302365,38.2937157065,16.3548337215,38.3588168656",
     "geom:latitude":38.320805,
     "geom:longitude":16.333922,
@@ -32,6 +44,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,6 +54,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080045",
+        "eurostat:nuts_2021_id":"080045",
         "gp:id":12679593,
         "qs_pg:id":1294157
     },
@@ -47,7 +63,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e5c81798f169a5590871d5996eb73e8",
+    "wof:geomhash":"c49c6b122bea33610017e40cd4b5744c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +74,12 @@
         }
     ],
     "wof:id":404464573,
-    "wof:lastmodified":1582327799,
+    "wof:lastmodified":1684353809,
     "wof:name":"Marina Di Gioiosa Ionica",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":6477,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

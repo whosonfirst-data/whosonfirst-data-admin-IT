@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arona",
+    "eurostat:nuts_2021_id":"003008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003008",
+    "eurostat:population":13976,
+    "eurostat:population_year":2020,
     "geom:area":0.001756,
-    "geom:area_square_m":15146661.339294,
+    "geom:area_square_m":15146661.339299,
     "geom:bbox":"8.49667866229,45.7252004532,8.57967977141,45.7849440729",
     "geom:latitude":45.759912,
     "geom:longitude":8.542856,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003008",
+        "eurostat:nuts_2021_id":"003008",
         "gn:id":6541799,
         "gp:id":12676257,
         "qs_pg:id":190347
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e3b15e9a9100d020abed9d8420e3819",
+    "wof:geomhash":"d34996c3cd4009726536638111d3f350",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404457655,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353655,
     "wof:name":"Arona",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":13976,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

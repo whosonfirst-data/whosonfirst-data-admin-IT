@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Pierre",
+    "eurostat:nuts_2021_id":"007063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007063",
+    "eurostat:population":3228,
+    "eurostat:population_year":2020,
     "geom:area":0.003027,
-    "geom:area_square_m":26124972.891884,
+    "geom:area_square_m":26124972.89188,
     "geom:bbox":"7.15318933666,45.7026693194,7.24792958549,45.7791098608",
     "geom:latitude":45.738523,
     "geom:longitude":7.19917,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007063",
+        "eurostat:nuts_2021_id":"007063"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d68f4b0d85040798100f08c1799df42f",
+    "wof:geomhash":"0a33826e0d07bddd003345ad39e1f4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404459365,
-    "wof:lastmodified":1566723722,
+    "wof:lastmodified":1684353692,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":3228,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

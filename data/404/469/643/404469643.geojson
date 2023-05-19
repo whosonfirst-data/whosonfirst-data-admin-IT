@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Badia Calavena",
+    "eurostat:nuts_2021_id":"023005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023005",
+    "eurostat:population":2606,
+    "eurostat:population_year":2020,
     "geom:area":0.003106,
-    "geom:area_square_m":26879765.967225,
+    "geom:area_square_m":26879765.967226,
     "geom:bbox":"11.1178532135,45.5431527883,11.1965903328,45.6046477328",
     "geom:latitude":45.574583,
     "geom:longitude":11.154106,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023005",
+        "eurostat:nuts_2021_id":"023005",
         "gn:id":6538232,
         "gp:id":12676400,
         "qs_pg:id":1142815
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dbcf4e9d7d1431adaa3c3ac6cade1173",
+    "wof:geomhash":"a06f1b359cc1cd9c6b4ce04457fe1afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469643,
-    "wof:lastmodified":1582328026,
+    "wof:lastmodified":1684353907,
     "wof:name":"Badia Calavena",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":2606,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

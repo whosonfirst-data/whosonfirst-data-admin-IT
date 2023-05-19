@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arpaia",
+    "eurostat:nuts_2021_id":"062005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062005",
+    "eurostat:population":2000,
+    "eurostat:population_year":2020,
     "geom:area":0.000529,
-    "geom:area_square_m":4932493.947883,
+    "geom:area_square_m":4932493.947881,
     "geom:bbox":"14.5308993888,41.015037551,14.5665254137,41.0481251598",
     "geom:latitude":41.032433,
     "geom:longitude":14.548752,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062005",
+        "eurostat:nuts_2021_id":"062005",
         "gn:id":6537315,
         "gp:id":12676259,
         "qs_pg:id":38889
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"beb7fc6b57e2151f63e0e9de8076cb1e",
+    "wof:geomhash":"3824a2db0efa74f835509b0e41b44168",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460703,
-    "wof:lastmodified":1582328010,
+    "wof:lastmodified":1684353723,
     "wof:name":"Arpaia",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2000,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

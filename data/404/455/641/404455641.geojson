@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondov\u00ec",
+    "eurostat:nuts_2021_id":"004130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004130",
+    "eurostat:population":22360,
+    "eurostat:population_year":2020,
     "geom:area":0.009833,
     "geom:area_square_m":86858120.694398,
     "geom:bbox":"7.68934669868,44.3508990722,7.90482808939,44.4667172401",
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004130",
+        "eurostat:nuts_2021_id":"004130",
         "gn:id":6540143,
         "gp:id":12677094,
         "qs_pg:id":1310863
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e0dfc5162d0e723dcde629a65ca7943",
+    "wof:geomhash":"00573127433d7741df12532cc0259875",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404455641,
-    "wof:lastmodified":1582327819,
+    "wof:lastmodified":1684353607,
     "wof:name":"Mondov\u00ec",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":22360,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

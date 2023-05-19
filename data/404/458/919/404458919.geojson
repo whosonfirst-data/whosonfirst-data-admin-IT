@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orsara di Puglia",
+    "eurostat:nuts_2021_id":"071035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071035",
+    "eurostat:population":2604,
+    "eurostat:population_year":2020,
     "geom:area":0.00887,
-    "geom:area_square_m":82401307.759758,
+    "geom:area_square_m":82401307.759744,
     "geom:bbox":"15.1984662849,41.2406282591,15.4210751985,41.3339794794",
     "geom:latitude":41.295102,
     "geom:longitude":15.292124,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071035",
+        "eurostat:nuts_2021_id":"071035",
         "gn:id":6537541,
         "gp:id":12679564,
         "qs_pg:id":220875
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c3928b53645dbc65b44291888c06284",
+    "wof:geomhash":"0f88bd4d2abe5aa2699751ef91a58c07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458919,
-    "wof:lastmodified":1582327962,
+    "wof:lastmodified":1684353681,
     "wof:name":"Orsara Di Puglia",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":2604,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

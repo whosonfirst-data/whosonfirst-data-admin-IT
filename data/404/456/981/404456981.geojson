@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muro Lucano",
+    "eurostat:nuts_2021_id":"076053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076053",
+    "eurostat:population":5200,
+    "eurostat:population_year":2020,
     "geom:area":0.013364,
-    "geom:area_square_m":125217678.460297,
+    "geom:area_square_m":125217678.460322,
     "geom:bbox":"15.3791361918,40.6726110138,15.5448966798,40.8027758482",
     "geom:latitude":40.735604,
     "geom:longitude":15.467827,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076053",
+        "eurostat:nuts_2021_id":"076053",
         "gn:id":6537626,
         "gp:id":12677582,
         "qs_pg:id":393898
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19dad140347d8b0290afff59d07b5562",
+    "wof:geomhash":"4884e4dc9739f1582fb71029eb52376a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404456981,
-    "wof:lastmodified":1582328073,
+    "wof:lastmodified":1684353639,
     "wof:name":"Muro Lucano",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":5200,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

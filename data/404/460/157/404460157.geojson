@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gavi",
+    "eurostat:nuts_2021_id":"006081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006081",
+    "eurostat:population":4459,
+    "eurostat:population_year":2020,
     "geom:area":0.005058,
-    "geom:area_square_m":44464933.060072,
+    "geom:area_square_m":44464933.060068,
     "geom:bbox":"8.74359353797,44.6374417507,8.88959968878,44.7245883419",
     "geom:latitude":44.688029,
     "geom:longitude":8.814789,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006081",
+        "eurostat:nuts_2021_id":"006081",
         "gn:id":6538195,
         "gp:id":12679512,
         "qs_pg:id":1163497
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16866f375d25bee80fa8ffc4de204b1f",
+    "wof:geomhash":"a0504cb585dd8ec47968109977ead6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404460157,
-    "wof:lastmodified":1582327994,
+    "wof:lastmodified":1684353711,
     "wof:name":"Gavi",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":4459,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

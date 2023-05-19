@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortueri",
+    "eurostat:nuts_2021_id":"091066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091066",
+    "eurostat:population":1094,
+    "eurostat:population_year":2020,
     "geom:area":0.0041,
-    "geom:area_square_m":38826395.166689,
+    "geom:area_square_m":38826395.166686,
     "geom:bbox":"8.94512696602,39.9865996701,9.03163329122,40.0577136367",
     "geom:latitude":40.020525,
     "geom:longitude":8.987848,
@@ -170,6 +182,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -177,9 +191,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_091066",
+        "eurostat:nuts_2021_id":"091066"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a1065abe5b79b3c898ea2c9494e1a3d4",
+    "wof:geomhash":"d6e8e475f16d124178d0c8d1910b956c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,10 +207,12 @@
         }
     ],
     "wof:id":404460555,
-    "wof:lastmodified":1566723520,
+    "wof:lastmodified":1684353721,
     "wof:name":"Ortueri",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1094,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

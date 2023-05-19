@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolentino",
+    "eurostat:nuts_2021_id":"043053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043053",
+    "eurostat:population":18858,
+    "eurostat:population_year":2020,
     "geom:area":0.010512,
-    "geom:area_square_m":94743740.119929,
+    "geom:area_square_m":94743740.119942,
     "geom:bbox":"13.2430499399,43.1497206871,13.4266671779,43.2633333934",
     "geom:latitude":43.208002,
     "geom:longitude":13.312622,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043053",
+        "eurostat:nuts_2021_id":"043053",
         "gn:id":6541069,
         "gp:id":12681809,
         "qs_pg:id":1108917
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51afd9ef15c1704f176951a2ff120312",
+    "wof:geomhash":"48289b90524a58bbd4f5be2e090cde50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461043,
-    "wof:lastmodified":1582328142,
+    "wof:lastmodified":1684353730,
     "wof:name":"Tolentino",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":18858,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collesalvetti",
+    "eurostat:nuts_2021_id":"049008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049008",
+    "eurostat:population":16597,
+    "eurostat:population_year":2020,
     "geom:area":0.012035,
-    "geom:area_square_m":107816423.994506,
+    "geom:area_square_m":107816423.994501,
     "geom:bbox":"10.3381028061,43.4864154316,10.5098929494,43.6346338416",
     "geom:latitude":43.574332,
     "geom:longitude":10.434043,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049008",
+        "eurostat:nuts_2021_id":"049008",
         "gn:id":6542256,
         "gp:id":12677800,
         "qs_pg:id":1193713
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d886e960167264ed01b31a6d514d92d",
+    "wof:geomhash":"9309a38fbbc7c2462b57f6ea59d10e1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,10 +190,12 @@
         }
     ],
     "wof:id":404472853,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353971,
     "wof:name":"Collesalvetti",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":16597,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

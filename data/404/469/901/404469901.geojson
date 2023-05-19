@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Valle Agordina",
+    "eurostat:nuts_2021_id":"025027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025027",
+    "eurostat:population":1069,
+    "eurostat:population_year":2020,
     "geom:area":0.005678,
-    "geom:area_square_m":48524276.502737,
+    "geom:area_square_m":48524276.502738,
     "geom:bbox":"12.0374731247,46.2421838803,12.1580431053,46.3312834974",
     "geom:latitude":46.280965,
     "geom:longitude":12.09853,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025027",
+        "eurostat:nuts_2021_id":"025027",
         "gn:id":6538280,
         "gp:id":12678097,
         "qs_pg:id":1020001
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cc3b66da8d1015610c6c4b61b8f33de",
+    "wof:geomhash":"f9f7d750390d9d0491a40d08d0905416",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469901,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353912,
     "wof:name":"La Valle Agordina",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1069,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

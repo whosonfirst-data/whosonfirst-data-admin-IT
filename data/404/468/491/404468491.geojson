@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pero",
+    "eurostat:nuts_2021_id":"015170",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015170",
+    "eurostat:population":11473,
+    "eurostat:population_year":2020,
     "geom:area":0.000574,
-    "geom:area_square_m":4970946.274659,
+    "geom:area_square_m":4970946.274657,
     "geom:bbox":"9.0552268346,45.4968896402,9.09848375636,45.5241945027",
     "geom:latitude":45.51053,
     "geom:longitude":9.077222,
@@ -68,6 +80,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -75,9 +89,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_015170",
+        "eurostat:nuts_2021_id":"015170"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d4fe9b222dbb0afebcbfd8c050ba011a",
+    "wof:geomhash":"3d09f4077c010df4f57bf86d13af12bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +105,12 @@
         }
     ],
     "wof:id":404468491,
-    "wof:lastmodified":1566723623,
+    "wof:lastmodified":1684353890,
     "wof:name":"Pero",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":11473,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

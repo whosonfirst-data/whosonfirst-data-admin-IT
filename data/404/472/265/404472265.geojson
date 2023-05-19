@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel Maggiore",
+    "eurostat:nuts_2021_id":"037019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037019",
+    "eurostat:population":18622,
+    "eurostat:population_year":2020,
     "geom:area":0.003501,
     "geom:area_square_m":30835313.274604,
     "geom:bbox":"11.3081411508,44.5429744746,11.4146545388,44.6068188258",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037019",
+        "eurostat:nuts_2021_id":"037019",
         "gn:id":6540251,
         "gp:id":12677801,
         "qs_pg:id":248196
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f078dac0df23723e0071f5ffa4532c2",
+    "wof:geomhash":"c2c20b71dcc1571fe2493b36a6fd134c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472265,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353956,
     "wof:name":"Castel Maggiore",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":18622,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Livo",
+    "eurostat:nuts_2021_id":"022106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022106",
+    "eurostat:population":801,
+    "eurostat:population_year":2020,
     "geom:area":0.001781,
-    "geom:area_square_m":15183444.628746,
+    "geom:area_square_m":15183444.628747,
     "geom:bbox":"10.9670603532,46.3903339721,11.0352634871,46.4449678092",
     "geom:latitude":46.421343,
     "geom:longitude":11.00575,
@@ -95,6 +107,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -103,6 +117,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022106",
+        "eurostat:nuts_2021_id":"022106",
         "gn:id":6540097,
         "gp:id":12679981,
         "qs_pg:id":41250
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"180da417f17164eeb963dfd0c5f0d92a",
+    "wof:geomhash":"1e6e6cdd9f46498eeac0d4b545788dea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404473531,
-    "wof:lastmodified":1582327924,
+    "wof:lastmodified":1684353990,
     "wof:name":"Livo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":801,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campomaggiore",
+    "eurostat:nuts_2021_id":"076017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076017",
+    "eurostat:population":754,
+    "eurostat:population_year":2020,
     "geom:area":0.001316,
-    "geom:area_square_m":12361368.883461,
+    "geom:area_square_m":12361368.883458,
     "geom:bbox":"16.0621092008,40.5438571877,16.116852616,40.590952698",
     "geom:latitude":40.565926,
     "geom:longitude":16.087239,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076017",
+        "eurostat:nuts_2021_id":"076017",
         "gn:id":6542098,
         "gp:id":12677463,
         "qs_pg:id":50814
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57ee5ece525a59c4c77ef89bc8c472cb",
+    "wof:geomhash":"23f70d8ec074834b09699b274cf5efc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463427,
-    "wof:lastmodified":1582327782,
+    "wof:lastmodified":1684353780,
     "wof:name":"Campomaggiore",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":754,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pancrazio/St. Pankraz",
+    "eurostat:nuts_2021_id":"021084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021084",
+    "eurostat:population":1541,
+    "eurostat:population_year":2020,
     "geom:area":0.007415,
-    "geom:area_square_m":63025535.766506,
+    "geom:area_square_m":63025535.766513,
     "geom:bbox":"10.9942208904,46.5137701252,11.1308434274,46.6228524487",
     "geom:latitude":46.573875,
     "geom:longitude":11.066702,
@@ -117,6 +129,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021084",
+        "eurostat:nuts_2021_id":"021084",
         "gn:id":3167905,
         "gp:id":12680375,
         "qs_pg:id":41498
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63c619fec4f8c7cb48f07b50c9d435f9",
+    "wof:geomhash":"e6500ee398ef7d1bbeca31113ed9afce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404473231,
-    "wof:lastmodified":1582327929,
+    "wof:lastmodified":1684353983,
     "wof:name":"San Pancrazio",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1541,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

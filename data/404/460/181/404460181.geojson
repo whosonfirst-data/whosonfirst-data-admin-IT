@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melazzo",
+    "eurostat:nuts_2021_id":"006092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006092",
+    "eurostat:population":1294,
+    "eurostat:population_year":2020,
     "geom:area":0.00224,
-    "geom:area_square_m":19711675.298898,
+    "geom:area_square_m":19711675.298896,
     "geom:bbox":"8.3839070753,44.6110596235,8.45031335813,44.6743920719",
     "geom:latitude":44.63998,
     "geom:longitude":8.421113,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006092",
+        "eurostat:nuts_2021_id":"006092",
         "gn:id":6543528,
         "gp:id":20075913,
         "qs_pg:id":1025576
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3997fd896a2510ba9c7d5b244b4b112",
+    "wof:geomhash":"c8622097f01803af4808a73271301f16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460181,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353712,
     "wof:name":"Melazzo",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1294,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

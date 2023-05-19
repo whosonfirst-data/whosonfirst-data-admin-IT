@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monterotondo Marittimo",
+    "eurostat:nuts_2021_id":"053027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053027",
+    "eurostat:population":1298,
+    "eurostat:population_year":2020,
     "geom:area":0.01135,
-    "geom:area_square_m":102439964.201748,
+    "geom:area_square_m":102439964.201747,
     "geom:bbox":"10.7131412032,43.0668850172,10.9275837931,43.1649199949",
     "geom:latitude":43.121876,
     "geom:longitude":10.816028,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_053027",
+        "eurostat:nuts_2021_id":"053027"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"dd75ce67030f4901c129a4db0b65b809",
+    "wof:geomhash":"2dbbe1a5bca1cc01401790f1d449cb66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404473017,
-    "wof:lastmodified":1566723413,
+    "wof:lastmodified":1684353975,
     "wof:name":"Monterotondo Marittimo",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":1298,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Costa Serina",
+    "eurostat:nuts_2021_id":"016247",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016247",
+    "eurostat:population":897,
+    "eurostat:population_year":2020,
     "geom:area":0.001425,
-    "geom:area_square_m":12277090.301534,
+    "geom:area_square_m":12277090.301533,
     "geom:bbox":"9.71857227291,45.8020371499,9.77217749994,45.8427379488",
     "geom:latitude":45.82446,
     "geom:longitude":9.747756,
@@ -101,6 +113,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -108,9 +122,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_016247",
+        "eurostat:nuts_2021_id":"016247"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7dcb2a50de19b43b72ca7e9138e3de6d",
+    "wof:geomhash":"699f38aa079356c525e4d93d20a28cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +138,12 @@
         }
     ],
     "wof:id":404470913,
-    "wof:lastmodified":1566723145,
+    "wof:lastmodified":1684353930,
     "wof:name":"Costa Serina",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":897,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

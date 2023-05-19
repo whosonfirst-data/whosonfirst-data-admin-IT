@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino d'Agri",
+    "eurostat:nuts_2021_id":"076077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076077",
+    "eurostat:population":705,
+    "eurostat:population_year":2020,
     "geom:area":0.005291,
-    "geom:area_square_m":49933515.149293,
+    "geom:area_square_m":49933515.149299,
     "geom:bbox":"15.9838492946,40.2173584542,16.1419119432,40.2722564424",
     "geom:latitude":40.24531,
     "geom:longitude":16.051751,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_076077",
+        "eurostat:nuts_2021_id":"076077"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a1a2d4fd765319a73ca8caaba355813f",
+    "wof:geomhash":"5c11e597fa098e1f70551bd98b8fd3bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404457035,
-    "wof:lastmodified":1566723672,
+    "wof:lastmodified":1684353641,
     "wof:name":"San Martino D'Agri",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":705,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

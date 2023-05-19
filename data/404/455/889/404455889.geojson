@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verzuolo",
+    "eurostat:nuts_2021_id":"004240",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004240",
+    "eurostat:population":6421,
+    "eurostat:population_year":2020,
     "geom:area":0.002963,
-    "geom:area_square_m":26090148.738105,
+    "geom:area_square_m":26090148.738106,
     "geom:bbox":"7.42790745514,44.5723599463,7.55989151217,44.6209556883",
     "geom:latitude":44.594177,
     "geom:longitude":7.49426,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004240",
+        "eurostat:nuts_2021_id":"004240",
         "gn:id":6538165,
         "gp:id":12682400,
         "qs_pg:id":1186759
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64a2505c1990cddd091c84253b852e66",
+    "wof:geomhash":"53456943e95202d3bddd2998cfa44aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404455889,
-    "wof:lastmodified":1582327811,
+    "wof:lastmodified":1684353612,
     "wof:name":"Verzuolo",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":6421,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

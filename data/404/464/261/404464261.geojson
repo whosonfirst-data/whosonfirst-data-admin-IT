@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedivigliano",
+    "eurostat:nuts_2021_id":"078096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078096",
+    "eurostat:population":807,
+    "eurostat:population_year":2020,
     "geom:area":0.001719,
-    "geom:area_square_m":16491146.366241,
+    "geom:area_square_m":16491146.366238,
     "geom:bbox":"16.2588952756,39.094839366,16.3835160595,39.1252048608",
     "geom:latitude":39.111255,
     "geom:longitude":16.331901,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078096",
+        "eurostat:nuts_2021_id":"078096"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5f6e1332642cf30b71cf73b56f71a945",
+    "wof:geomhash":"09b3e24dea901a4ff78d73d62ed71152",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464261,
-    "wof:lastmodified":1566723219,
+    "wof:lastmodified":1684353801,
     "wof:name":"Pedivigliano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":807,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

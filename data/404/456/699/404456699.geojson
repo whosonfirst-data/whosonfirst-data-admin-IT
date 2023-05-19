@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pietro in Guarano",
+    "eurostat:nuts_2021_id":"078127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078127",
+    "eurostat:population":3573,
+    "eurostat:population_year":2020,
     "geom:area":0.005007,
-    "geom:area_square_m":47867704.399039,
+    "geom:area_square_m":47867704.399043,
     "geom:bbox":"16.2587001123,39.3289585255,16.4114791609,39.3937473182",
     "geom:latitude":39.357427,
     "geom:longitude":16.351255,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078127",
+        "eurostat:nuts_2021_id":"078127"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"76e43adb1aaa59f6d9aa10a988ead566",
+    "wof:geomhash":"5af86248a7de5448558080e23ff10c57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404456699,
-    "wof:lastmodified":1566723600,
+    "wof:lastmodified":1684353630,
     "wof:name":"San Pietro In Guarano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":3573,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

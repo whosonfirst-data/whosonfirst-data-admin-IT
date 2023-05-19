@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lumezzane",
+    "eurostat:nuts_2021_id":"017096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017096",
+    "eurostat:population":22002,
+    "eurostat:population_year":2020,
     "geom:area":0.003663,
-    "geom:area_square_m":31662876.349275,
+    "geom:area_square_m":31662876.349274,
     "geom:bbox":"10.2230918521,45.619336023,10.3226121534,45.6802326939",
     "geom:latitude":45.648679,
     "geom:longitude":10.269605,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017096",
+        "eurostat:nuts_2021_id":"017096",
         "gn:id":3174478,
         "gp:id":12681098,
         "qs_pg:id":248205
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"750fdfd29b63a895e3c1510bccc4aa59",
+    "wof:geomhash":"fba004e8a0ddcef74dc9305a7a2b17c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471139,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353934,
     "wof:name":"Lumezzane",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":22002,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

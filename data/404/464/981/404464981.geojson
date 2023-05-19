@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciminna",
+    "eurostat:nuts_2021_id":"082030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082030",
+    "eurostat:population":3560,
+    "eurostat:population_year":2020,
     "geom:area":0.00576,
-    "geom:area_square_m":56214901.043329,
+    "geom:area_square_m":56214901.043331,
     "geom:bbox":"13.4953876423,37.8360051628,13.6145657537,37.9243702689",
     "geom:latitude":37.876446,
     "geom:longitude":13.556648,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082030",
+        "eurostat:nuts_2021_id":"082030",
         "gn:id":6537742,
         "gp:id":12678663,
         "qs_pg:id":905397
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e4b92906298a1f754cec902e49d66be",
+    "wof:geomhash":"14fd68d966f92ddb9b225f5fcbb98af2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464981,
-    "wof:lastmodified":1582327807,
+    "wof:lastmodified":1684353822,
     "wof:name":"Ciminna",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":3560,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

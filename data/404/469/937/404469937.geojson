@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca Pietore",
+    "eurostat:nuts_2021_id":"025044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025044",
+    "eurostat:population":1196,
+    "eurostat:population_year":2020,
     "geom:area":0.008574,
-    "geom:area_square_m":73071935.623725,
+    "geom:area_square_m":73071935.623726,
     "geom:bbox":"11.8382638861,46.389753273,12.0159808855,46.4775054386",
     "geom:latitude":46.429266,
     "geom:longitude":11.931731,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025044",
+        "eurostat:nuts_2021_id":"025044",
         "gn:id":6543570,
         "gp:id":12678639,
         "qs_pg:id":1296417
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cfa8681c973ec164f32f82680322dc41",
+    "wof:geomhash":"f8e8224a1d83b5bff819492c180dfc94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469937,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353913,
     "wof:name":"Rocca Pietore",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1196,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

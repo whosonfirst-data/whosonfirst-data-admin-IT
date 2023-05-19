@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tricerro",
+    "eurostat:nuts_2021_id":"002147",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002147",
+    "eurostat:population":697,
+    "eurostat:population_year":2020,
     "geom:area":0.001405,
-    "geom:area_square_m":12231123.188214,
+    "geom:area_square_m":12231123.188216,
     "geom:bbox":"8.27302036693,45.2170197806,8.35183150928,45.2497538692",
     "geom:latitude":45.233337,
     "geom:longitude":8.312865,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002147",
+        "eurostat:nuts_2021_id":"002147",
         "gn:id":6538119,
         "gp:id":12682273,
         "qs_pg:id":333462
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"436cbf084bc7ffa57c7ae18fc8f83acc",
+    "wof:geomhash":"94623d40803d91586b8fa4dad13c6f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457627,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353654,
     "wof:name":"Tricerro",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":697,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

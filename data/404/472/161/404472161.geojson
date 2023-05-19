@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collecchio",
+    "eurostat:nuts_2021_id":"034009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034009",
+    "eurostat:population":14713,
+    "eurostat:population_year":2020,
     "geom:area":0.006689,
-    "geom:area_square_m":58742246.233848,
+    "geom:area_square_m":58742246.233853,
     "geom:bbox":"10.1210217725,44.6896533602,10.2864653401,44.8054588574",
     "geom:latitude":44.751095,
     "geom:longitude":10.207551,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034009",
+        "eurostat:nuts_2021_id":"034009",
         "gn:id":6538420,
         "gp:id":12678783,
         "qs_pg:id":190599
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f23d32b64c641592de082f544a524d5",
+    "wof:geomhash":"6728b274bcb38d9b517feabf7274df52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404472161,
-    "wof:lastmodified":1582327878,
+    "wof:lastmodified":1684353953,
     "wof:name":"Collecchio",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":14713,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

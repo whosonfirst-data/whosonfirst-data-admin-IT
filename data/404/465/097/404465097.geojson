@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Napoli",
+    "eurostat:nuts_2021_id":"063049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063049",
+    "eurostat:population":962589,
+    "eurostat:population_year":2020,
     "geom:area":0.01266,
-    "geom:area_square_m":118400592.542663,
+    "geom:area_square_m":118400592.54267,
     "geom:bbox":"14.132375,40.791211,14.353779,40.915873",
     "geom:latitude":40.856626,
     "geom:longitude":14.23939,
@@ -320,14 +332,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227525,
-        85685487
+        85685487,
+        404227525
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063049",
+        "eurostat:nuts_2021_id":"063049",
         "gn:id":3172395,
         "gp:id":20076932,
         "qs_pg:id":202411
@@ -339,7 +355,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a5af8b91b84d0175d792dc922099abd",
+    "wof:geomhash":"8b1bbc7347f661f5878e8a66c9381b4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -350,10 +366,12 @@
         }
     ],
     "wof:id":404465097,
-    "wof:lastmodified":1608040059,
+    "wof:lastmodified":1684353826,
     "wof:name":"Napoli",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":962589,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

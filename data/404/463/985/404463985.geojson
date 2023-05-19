@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cirigliano",
+    "eurostat:nuts_2021_id":"077005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077005",
+    "eurostat:population":310,
+    "eurostat:population_year":2020,
     "geom:area":0.001568,
-    "geom:area_square_m":14765502.258066,
+    "geom:area_square_m":14765502.258064,
     "geom:bbox":"16.1279845226,40.3847938529,16.1802232097,40.4510347049",
     "geom:latitude":40.418238,
     "geom:longitude":16.158907,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077005",
+        "eurostat:nuts_2021_id":"077005",
         "gn:id":6539021,
         "gp:id":12678683,
         "qs_pg:id":1296413
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c298a192b9ba9d7326d8cb0dc8896aa",
+    "wof:geomhash":"50b5d22c060b0959b4251d4babaed568",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404463985,
-    "wof:lastmodified":1582327775,
+    "wof:lastmodified":1684353793,
     "wof:name":"Cirigliano",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":310,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

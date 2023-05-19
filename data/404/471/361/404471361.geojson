@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017195",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verolanuova",
+    "eurostat:nuts_2021_id":"017195",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017195",
+    "eurostat:population":8156,
+    "eurostat:population_year":2020,
     "geom:area":0.002959,
-    "geom:area_square_m":25718471.750103,
+    "geom:area_square_m":25718471.750105,
     "geom:bbox":"10.0356561298,45.3000326281,10.1189835139,45.3750498565",
     "geom:latitude":45.337417,
     "geom:longitude":10.079168,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017195",
+        "eurostat:nuts_2021_id":"017195",
         "gn:id":6540199,
         "gp:id":12677255,
         "qs_pg:id":1292670
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b7607c63d284a6364f3dc2650c85422",
+    "wof:geomhash":"896a4d14ecc83d07c81725bed3e43bc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404471361,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353938,
     "wof:name":"Verolanuova",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":8156,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

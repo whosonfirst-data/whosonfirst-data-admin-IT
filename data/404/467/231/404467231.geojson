@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elini",
+    "eurostat:nuts_2021_id":"091019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091019",
+    "eurostat:population":551,
+    "eurostat:population_year":2020,
     "geom:area":0.001122,
-    "geom:area_square_m":10647336.082645,
+    "geom:area_square_m":10647336.082648,
     "geom:bbox":"9.50867686017,39.8818844446,9.65081509805,39.9180388115",
     "geom:latitude":39.901625,
     "geom:longitude":9.595157,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091019",
+        "eurostat:nuts_2021_id":"091019",
         "gn:id":6539249,
         "gp:id":12679136,
         "qs_pg:id":1314072
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af935ee39e1306a435fd61b03856ab81",
+    "wof:geomhash":"d1f0dd5b8bbbf691bf946445459f39ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467231,
-    "wof:lastmodified":1582327985,
+    "wof:lastmodified":1684353869,
     "wof:name":"Elini",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":551,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

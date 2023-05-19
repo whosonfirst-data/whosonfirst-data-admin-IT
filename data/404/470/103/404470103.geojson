@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Motta di Livenza",
+    "eurostat:nuts_2021_id":"026049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026049",
+    "eurostat:population":10852,
+    "eurostat:population_year":2020,
     "geom:area":0.004364,
-    "geom:area_square_m":37646497.51538,
+    "geom:area_square_m":37646497.515373,
     "geom:bbox":"12.5728852637,45.7238176907,12.6705367223,45.8047743795",
     "geom:latitude":45.766246,
     "geom:longitude":12.623206,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_026049",
+        "eurostat:nuts_2021_id":"026049"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"39b584495b4b2a7c4eb4698df7ecc668",
+    "wof:geomhash":"b1726e673091ee8f991c090b2e601e76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404470103,
-    "wof:lastmodified":1566723130,
+    "wof:lastmodified":1684353916,
     "wof:name":"Motta Di Livenza",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":10852,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

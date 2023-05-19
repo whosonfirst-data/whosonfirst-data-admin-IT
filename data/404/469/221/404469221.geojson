@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Volta Mantovana",
+    "eurostat:nuts_2021_id":"020070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020070",
+    "eurostat:population":7330,
+    "eurostat:population_year":2020,
     "geom:area":0.005795,
-    "geom:area_square_m":50391913.551048,
+    "geom:area_square_m":50391913.551047,
     "geom:bbox":"10.6096664656,45.2798693333,10.723433974,45.3543464357",
     "geom:latitude":45.314083,
     "geom:longitude":10.665239,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020070",
+        "eurostat:nuts_2021_id":"020070",
         "gn:id":6536227,
         "gp:id":12678502,
         "qs_pg:id":40329
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f35cd61fa5004a2dc9abe4f216d116c",
+    "wof:geomhash":"89d1c051f49fbd1f6cf01874879de461",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469221,
-    "wof:lastmodified":1582328027,
+    "wof:lastmodified":1684353901,
     "wof:name":"Volta Mantovana",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":7330,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Misano Adriatico",
+    "eurostat:nuts_2021_id":"099005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099005",
+    "eurostat:population":13621,
+    "eurostat:population_year":2020,
     "geom:area":0.002502,
     "geom:area_square_m":22272506.564751,
     "geom:bbox":"12.6341399108,43.933633843,12.721412843,43.9870975246",
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099005",
+        "eurostat:nuts_2021_id":"099005"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"fbad9f2776cf551e6886868d70ad7863",
+    "wof:geomhash":"fd17a1e7638567746b4accb1781ff1d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404472535,
-    "wof:lastmodified":1566723349,
+    "wof:lastmodified":1684353964,
     "wof:name":"Misano Adriatico",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":13621,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

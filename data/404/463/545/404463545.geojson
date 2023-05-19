@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sovico",
+    "eurostat:nuts_2021_id":"108041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108041",
+    "eurostat:population":8386,
+    "eurostat:population_year":2020,
     "geom:area":0.000377,
-    "geom:area_square_m":3258109.069286,
+    "geom:area_square_m":3258109.069285,
     "geom:bbox":"9.240404,45.634927,9.281505,45.657092",
     "geom:latitude":45.645915,
     "geom:longitude":9.259268,
@@ -134,14 +146,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227497,
-        85685723
+        85685723,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108041",
+        "eurostat:nuts_2021_id":"108041",
         "gn:id":6535152,
         "gp:id":12675916,
         "qs_pg:id":50699
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e5f929077933960700d7b785c920b36",
+    "wof:geomhash":"70cac979bfd5c0a7a52bc229200f73f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463545,
-    "wof:lastmodified":1608041544,
+    "wof:lastmodified":1684353782,
     "wof:name":"Sovico",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":8386,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

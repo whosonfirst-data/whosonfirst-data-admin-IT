@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino Buon Albergo",
+    "eurostat:nuts_2021_id":"023073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023073",
+    "eurostat:population":15818,
+    "eurostat:population_year":2020,
     "geom:area":0.003995,
-    "geom:area_square_m":34677588.605341,
+    "geom:area_square_m":34677588.605337,
     "geom:bbox":"11.0571200951,45.3788455987,11.1425362865,45.4761601675",
     "geom:latitude":45.41989,
     "geom:longitude":11.098672,
@@ -122,6 +134,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -130,6 +144,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023073",
+        "eurostat:nuts_2021_id":"023073",
         "gn:id":6540248,
         "gp:id":12677395,
         "qs_pg:id":1108215
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3b8820eb7cae86f8855a61b932361d2f",
+    "wof:geomhash":"bd46069636ff70bd6e83d9ec2e48aeec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404458063,
-    "wof:lastmodified":1582327945,
+    "wof:lastmodified":1684353662,
     "wof:name":"San Martino Buon Albergo",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":15818,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

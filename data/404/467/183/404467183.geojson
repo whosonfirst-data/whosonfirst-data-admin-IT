@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calangianus",
+    "eurostat:nuts_2021_id":"090021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090021",
+    "eurostat:population":3978,
+    "eurostat:population_year":2020,
     "geom:area":0.013567,
-    "geom:area_square_m":126786508.958014,
+    "geom:area_square_m":126786508.95803,
     "geom:bbox":"9.15978374412,40.8442999897,9.31754515914,40.9937841872",
     "geom:latitude":40.906105,
     "geom:longitude":9.242071,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090021",
+        "eurostat:nuts_2021_id":"090021",
         "gn:id":6541974,
         "gp:id":12677288,
         "qs_pg:id":399967
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ca8319a1007cda145711ccf2133a603",
+    "wof:geomhash":"60d2974de2ee816aa4139873e87d6e99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467183,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353867,
     "wof:name":"Calangianus",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":3978,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

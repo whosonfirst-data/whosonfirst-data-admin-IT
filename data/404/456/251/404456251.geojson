@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brandizzo",
+    "eurostat:nuts_2021_id":"001034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001034",
+    "eurostat:population":8822,
+    "eurostat:population_year":2020,
     "geom:area":0.000721,
     "geom:area_square_m":6281381.359418,
     "geom:bbox":"7.8133286841,45.1575585999,7.85574938222,45.1882959948",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001034",
+        "eurostat:nuts_2021_id":"001034",
         "gn:id":6540657,
         "gp:id":12677071,
         "qs_pg:id":946804
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"144ceaa390eac9de50695c06122b7546",
+    "wof:geomhash":"cda8fda6d67215c27db6b141018adecc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456251,
-    "wof:lastmodified":1582328054,
+    "wof:lastmodified":1684353619,
     "wof:name":"Brandizzo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":8822,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

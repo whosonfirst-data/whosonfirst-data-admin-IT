@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Volturara Irpina",
+    "eurostat:nuts_2021_id":"064119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064119",
+    "eurostat:population":3125,
+    "eurostat:population_year":2020,
     "geom:area":0.003444,
-    "geom:area_square_m":32206818.30019,
+    "geom:area_square_m":32206818.300183,
     "geom:bbox":"14.8974266376,40.8112498414,14.9752732942,40.9042565134",
     "geom:latitude":40.865874,
     "geom:longitude":14.940027,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064119",
+        "eurostat:nuts_2021_id":"064119",
         "gn:id":6537388,
         "gp:id":12682530,
         "qs_pg:id":1297128
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56824d15c304558c3d263d98354507db",
+    "wof:geomhash":"34217f3cc0ce6df8d669e37add457db2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465459,
-    "wof:lastmodified":1582327844,
+    "wof:lastmodified":1684353832,
     "wof:name":"Volturara Irpina",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":3125,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

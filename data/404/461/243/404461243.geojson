@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canino",
+    "eurostat:nuts_2021_id":"056012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056012",
+    "eurostat:population":5236,
+    "eurostat:population_year":2020,
     "geom:area":0.013567,
-    "geom:area_square_m":123795646.246772,
+    "geom:area_square_m":123795646.246784,
     "geom:bbox":"11.6134637676,42.3709129859,11.7786345043,42.4999592256",
     "geom:latitude":42.44371,
     "geom:longitude":11.694201,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056012",
+        "eurostat:nuts_2021_id":"056012",
         "gn:id":6536898,
         "gp:id":12677510,
         "qs_pg:id":39710
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38b94de728c6ecc954fa6351a5386d31",
+    "wof:geomhash":"3420c6b783d7dd56ec22edcaf20c2eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461243,
-    "wof:lastmodified":1582328128,
+    "wof:lastmodified":1684353735,
     "wof:name":"Canino",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":5236,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

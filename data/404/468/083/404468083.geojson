@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figino Serenza",
+    "eurostat:nuts_2021_id":"013101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013101",
+    "eurostat:population":5108,
+    "eurostat:population_year":2020,
     "geom:area":0.000573,
-    "geom:area_square_m":4948557.702252,
+    "geom:area_square_m":4948557.702251,
     "geom:bbox":"9.12021876116,45.7009929278,9.1536790425,45.7271749821",
     "geom:latitude":45.713093,
     "geom:longitude":9.135224,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013101",
+        "eurostat:nuts_2021_id":"013101",
         "gn:id":6543110,
         "gp:id":12682553,
         "qs_pg:id":980012
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9c62eb30cf9c6de9b634da8b33a5885",
+    "wof:geomhash":"2d56e7eebca1d423c5e27e62451823fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404468083,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353883,
     "wof:name":"Figino Serenza",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":5108,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

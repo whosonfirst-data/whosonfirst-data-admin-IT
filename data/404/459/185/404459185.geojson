@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Centuripe",
+    "eurostat:nuts_2021_id":"086007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086007",
+    "eurostat:population":5272,
+    "eurostat:population_year":2020,
     "geom:area":0.017675,
-    "geom:area_square_m":173153483.03436,
+    "geom:area_square_m":173153483.034389,
     "geom:bbox":"14.6619069744,37.5012676551,14.8289686634,37.712723062",
     "geom:latitude":37.603745,
     "geom:longitude":14.756341,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086007",
+        "eurostat:nuts_2021_id":"086007",
         "gn:id":6537795,
         "gp:id":12678046,
         "qs_pg:id":40040
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cfd8401f46e8ec1dc510734593b2f56a",
+    "wof:geomhash":"b4db1b25282fd2f001171b4571c09c7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459185,
-    "wof:lastmodified":1582328180,
+    "wof:lastmodified":1684353688,
     "wof:name":"Centuripe",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":5272,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

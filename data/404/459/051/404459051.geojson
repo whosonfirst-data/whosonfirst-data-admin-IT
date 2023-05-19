@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albi",
+    "eurostat:nuts_2021_id":"079002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079002",
+    "eurostat:population":870,
+    "eurostat:population_year":2020,
     "geom:area":0.003053,
-    "geom:area_square_m":29323897.232539,
+    "geom:area_square_m":29323897.232546,
     "geom:bbox":"16.5689664042,38.9873546247,16.646831007,39.0861957618",
     "geom:latitude":39.045375,
     "geom:longitude":16.601952,
@@ -230,6 +242,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -237,9 +251,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079002",
+        "eurostat:nuts_2021_id":"079002"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1ea00f6b6ce5bf46ec7e91cdc99a9199",
+    "wof:geomhash":"72939271d3407011eb2b985d0dead113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,10 +267,12 @@
         }
     ],
     "wof:id":404459051,
-    "wof:lastmodified":1566723755,
+    "wof:lastmodified":1684353684,
     "wof:name":"Albi",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":870,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

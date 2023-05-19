@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerveno",
+    "eurostat:nuts_2021_id":"017049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017049",
+    "eurostat:population":654,
+    "eurostat:population_year":2020,
     "geom:area":0.002505,
-    "geom:area_square_m":21513191.488553,
+    "geom:area_square_m":21513191.488561,
     "geom:bbox":"10.2257458064,45.9701457659,10.3441011905,46.0566290186",
     "geom:latitude":46.013931,
     "geom:longitude":10.285385,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017049",
+        "eurostat:nuts_2021_id":"017049",
         "gn:id":6537168,
         "gp:id":12678544,
         "qs_pg:id":1121115
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e6847f12a5411bdb5148f37a1923428",
+    "wof:geomhash":"a873d31b62fd7880e16914f5f798225a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404471033,
-    "wof:lastmodified":1582327730,
+    "wof:lastmodified":1684353932,
     "wof:name":"Cerveno",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":654,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

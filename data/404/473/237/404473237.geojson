@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scena/Schenna",
+    "eurostat:nuts_2021_id":"021087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021087",
+    "eurostat:population":2916,
+    "eurostat:population_year":2020,
     "geom:area":0.005663,
-    "geom:area_square_m":48012038.63744,
+    "geom:area_square_m":48012038.637442,
     "geom:bbox":"11.177181211,46.6708162465,11.286538826,46.7568275022",
     "geom:latitude":46.709757,
     "geom:longitude":11.234188,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021087",
+        "eurostat:nuts_2021_id":"021087",
         "gp:id":20076589,
         "qs_pg:id":1064723
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54516f805de279ea7630a1a9801967e3",
+    "wof:geomhash":"3d0d0557e29f27db8bb6ed3966569b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473237,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353983,
     "wof:name":"Scena",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2916,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bisignano",
+    "eurostat:nuts_2021_id":"078017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078017",
+    "eurostat:population":10147,
+    "eurostat:population_year":2020,
     "geom:area":0.00895,
-    "geom:area_square_m":85365861.870151,
+    "geom:area_square_m":85365861.870144,
     "geom:bbox":"16.2106648055,39.4779340823,16.3553354273,39.5737941862",
     "geom:latitude":39.521464,
     "geom:longitude":16.272326,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078017",
+        "eurostat:nuts_2021_id":"078017"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f7f9c66f1072237e6a13d6eaba85a040",
+    "wof:geomhash":"4b677c70656ac6ebce629f843c66139c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464083,
-    "wof:lastmodified":1566723215,
+    "wof:lastmodified":1684353796,
     "wof:name":"Bisignano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":10147,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

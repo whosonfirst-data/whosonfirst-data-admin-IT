@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coggiola",
+    "eurostat:nuts_2021_id":"096019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096019",
+    "eurostat:population":1742,
+    "eurostat:population_year":2020,
     "geom:area":0.00275,
-    "geom:area_square_m":23743536.66861,
+    "geom:area_square_m":23743536.668601,
     "geom:bbox":"8.115122367,45.6799357163,8.20470202486,45.748040781",
     "geom:latitude":45.713593,
     "geom:longitude":8.156844,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096019",
+        "eurostat:nuts_2021_id":"096019",
         "gn:id":6539389,
         "gp:id":12676800,
         "qs_pg:id":1187844
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a71ce8d839bb41854394de7c6481bfd",
+    "wof:geomhash":"d9303a5d127bb5999ae3c1c338f69acb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460331,
-    "wof:lastmodified":1582327994,
+    "wof:lastmodified":1684353715,
     "wof:name":"Coggiola",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":1742,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

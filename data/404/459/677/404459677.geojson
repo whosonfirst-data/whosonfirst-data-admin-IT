@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orvieto",
+    "eurostat:nuts_2021_id":"055023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055023",
+    "eurostat:population":20290,
+    "eurostat:population_year":2020,
     "geom:area":0.030893,
-    "geom:area_square_m":280581526.675538,
+    "geom:area_square_m":280581526.675533,
     "geom:bbox":"11.9821262017,42.628055947,12.315694382,42.8156407447",
     "geom:latitude":42.733968,
     "geom:longitude":12.151907,
@@ -203,6 +215,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -211,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055023",
+        "eurostat:nuts_2021_id":"055023",
         "gn:id":6539748,
         "gp:id":12676434,
         "qs_pg:id":429169
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a3589e33e7516502623e06d59f379c1",
+    "wof:geomhash":"9eb2cb0cdb88c57e361160e4a4282563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":404459677,
-    "wof:lastmodified":1582328172,
+    "wof:lastmodified":1684353698,
     "wof:name":"Orvieto",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":20290,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001270",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Susa",
+    "eurostat:nuts_2021_id":"001270",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001270",
+    "eurostat:population":6173,
+    "eurostat:population_year":2020,
     "geom:area":0.001257,
-    "geom:area_square_m":10966674.479893,
+    "geom:area_square_m":10966674.479892,
     "geom:bbox":"7.03126652747,45.1240741095,7.12693033313,45.1453136724",
     "geom:latitude":45.13502,
     "geom:longitude":7.076363,
@@ -203,6 +215,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -211,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001270",
+        "eurostat:nuts_2021_id":"001270",
         "gn:id":6540101,
         "gp:id":12681651,
         "qs_pg:id":218676
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b14a0502c5de203133642de161fd626",
+    "wof:geomhash":"f3c476ed27594d71f2c92fc76c93fe82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":404457351,
-    "wof:lastmodified":1582328110,
+    "wof:lastmodified":1684353648,
     "wof:name":"Susa",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":6173,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

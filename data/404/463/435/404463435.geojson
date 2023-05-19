@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Paolo Albanese",
+    "eurostat:nuts_2021_id":"076020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076020",
+    "eurostat:population":228,
+    "eurostat:population_year":2020,
     "geom:area":0.00316,
-    "geom:area_square_m":29926967.409727,
+    "geom:area_square_m":29926967.40974,
     "geom:bbox":"16.3157005355,39.9747928644,16.3838899409,40.067227649",
     "geom:latitude":40.018821,
     "geom:longitude":16.344988,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076020",
+        "eurostat:nuts_2021_id":"076020",
         "gn:id":6542067,
         "gp:id":12677984,
         "qs_pg:id":992733
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"be6fd90fba7e4962542054e769c736a3",
+    "wof:geomhash":"668bfd9d48bc001e904f4c2c244c93d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463435,
-    "wof:lastmodified":1582327785,
+    "wof:lastmodified":1684353780,
     "wof:name":"San Paolo Albanese",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

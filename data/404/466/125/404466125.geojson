@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Brigida",
+    "eurostat:nuts_2021_id":"016191",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016191",
+    "eurostat:population":540,
+    "eurostat:population_year":2020,
     "geom:area":0.001604,
-    "geom:area_square_m":13781095.056076,
+    "geom:area_square_m":13781095.05607,
     "geom:bbox":"9.59304771409,45.9541992125,9.64075805671,46.0401960066",
     "geom:latitude":46.000328,
     "geom:longitude":9.618798,
@@ -113,6 +125,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -121,6 +135,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016191",
+        "eurostat:nuts_2021_id":"016191",
         "gn:id":6536157,
         "gp:id":12681838,
         "qs_pg:id":242449
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0d886e9991c4099b4437dc8e12225ff",
+    "wof:geomhash":"b8580d1a06db2cccebd4c73926a9eb8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404466125,
-    "wof:lastmodified":1582328210,
+    "wof:lastmodified":1684353843,
     "wof:name":"Santa Brigida",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":540,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

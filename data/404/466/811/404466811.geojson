@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perfugas",
+    "eurostat:nuts_2021_id":"090056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090056",
+    "eurostat:population":2343,
+    "eurostat:population_year":2020,
     "geom:area":0.006505,
-    "geom:area_square_m":60857559.917583,
+    "geom:area_square_m":60857559.917584,
     "geom:bbox":"8.86068666315,40.7944919915,9.00969543834,40.8718067603",
     "geom:latitude":40.832252,
     "geom:longitude":8.930528,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090056",
+        "eurostat:nuts_2021_id":"090056",
         "gn:id":6537836,
         "gp:id":12679155,
         "qs_pg:id":1143042
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb60b68af0f8a5ed9cf2a61e44cd9f88",
+    "wof:geomhash":"75c6307587b0fe258456844048b2256f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466811,
-    "wof:lastmodified":1582328186,
+    "wof:lastmodified":1684353858,
     "wof:name":"Perfugas",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2343,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montegrino Valtravaglia",
+    "eurostat:nuts_2021_id":"012103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012103",
+    "eurostat:population":1499,
+    "eurostat:population_year":2020,
     "geom:area":0.001173,
-    "geom:area_square_m":10085250.793902,
+    "geom:area_square_m":10085250.793903,
     "geom:bbox":"8.75341465921,45.9508733118,8.80634568204,45.9848305187",
     "geom:latitude":45.967382,
     "geom:longitude":8.778738,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012103",
+        "eurostat:nuts_2021_id":"012103",
         "gn:id":6542470,
         "gp:id":20076058,
         "qs_pg:id":390386
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cde9b887f8568ac7c8cd3f71b032c1af",
+    "wof:geomhash":"0c087092fb4d322f4b8e4c1c9e0f3adc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467843,
-    "wof:lastmodified":1582327972,
+    "wof:lastmodified":1684353880,
     "wof:name":"Montegrino Valtravaglia",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":1499,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

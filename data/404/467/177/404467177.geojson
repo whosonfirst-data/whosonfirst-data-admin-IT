@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bortigiadas",
+    "eurostat:nuts_2021_id":"090014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090014",
+    "eurostat:population":743,
+    "eurostat:population_year":2020,
     "geom:area":0.008115,
-    "geom:area_square_m":75868260.93877,
+    "geom:area_square_m":75868260.938761,
     "geom:bbox":"8.89515361927,40.831198127,9.06540458015,40.921814508",
     "geom:latitude":40.88073,
     "geom:longitude":8.992711,
@@ -185,6 +197,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -193,6 +207,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090014",
+        "eurostat:nuts_2021_id":"090014",
         "gn:id":6540858,
         "gp:id":12677006,
         "qs_pg:id":961625
@@ -201,7 +217,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b73b4952857e27d75fbbca83d30c5ae",
+    "wof:geomhash":"b9065ddf5b7ae94492ac5f9ad41088b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,10 +228,12 @@
         }
     ],
     "wof:id":404467177,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353867,
     "wof:name":"Bortigiadas",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":743,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

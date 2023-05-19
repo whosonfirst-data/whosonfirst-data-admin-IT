@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceres",
+    "eurostat:nuts_2021_id":"001072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001072",
+    "eurostat:population":1033,
+    "eurostat:population_year":2020,
     "geom:area":0.003221,
-    "geom:area_square_m":28000500.185867,
+    "geom:area_square_m":28000522.796772,
     "geom:bbox":"7.297056,45.29483,7.41894,45.346994",
     "geom:latitude":45.320556,
     "geom:longitude":7.362911,
@@ -228,6 +240,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -236,6 +250,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001072",
+        "eurostat:nuts_2021_id":"001072",
         "gn:id":6537267,
         "gp:id":12678495,
         "qs_pg:id":1292688
@@ -244,7 +260,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"300d564386f1d5841e7db83776f4af5f",
+    "wof:geomhash":"85026d7c8426e5dc832a2c77ae3c1fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,10 +271,12 @@
         }
     ],
     "wof:id":404456335,
-    "wof:lastmodified":1636496853,
+    "wof:lastmodified":1684353621,
     "wof:name":"Ceres",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1033,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

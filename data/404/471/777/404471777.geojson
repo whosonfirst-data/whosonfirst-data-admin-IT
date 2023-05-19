@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiusanico",
+    "eurostat:nuts_2021_id":"008019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008019",
+    "eurostat:population":575,
+    "eurostat:population_year":2020,
     "geom:area":0.001516,
-    "geom:area_square_m":13489684.236788,
+    "geom:area_square_m":13489684.236785,
     "geom:bbox":"7.96761087284,43.9508319348,8.02033626707,44.0007611586",
     "geom:latitude":43.978054,
     "geom:longitude":7.994677,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008019",
+        "eurostat:nuts_2021_id":"008019",
         "gn:id":6536070,
         "gp:id":12679521,
         "qs_pg:id":1187920
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4f84d9c3771f8338ff406338440b0ae",
+    "wof:geomhash":"176ab79ce8144cbab278087c6bc1347b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471777,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353945,
     "wof:name":"Chiusanico",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":575,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

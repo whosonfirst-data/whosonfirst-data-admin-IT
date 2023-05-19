@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Curcuris",
+    "eurostat:nuts_2021_id":"095077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095077",
+    "eurostat:population":301,
+    "eurostat:population_year":2020,
     "geom:area":0.000755,
     "geom:area_square_m":7179816.549825,
     "geom:bbox":"8.80344076719,39.7368883612,8.85178583248,39.7616166158",
@@ -173,6 +185,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -180,9 +194,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_095077",
+        "eurostat:nuts_2021_id":"095077"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7d5aca9a8781040ba0a22a6fdfe81ec6",
+    "wof:geomhash":"ee33153e862fea8a3e822b7e416433ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +210,12 @@
         }
     ],
     "wof:id":404467135,
-    "wof:lastmodified":1566723461,
+    "wof:lastmodified":1684353866,
     "wof:name":"Curcuris",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":301,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

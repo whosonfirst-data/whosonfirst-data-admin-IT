@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bollate",
+    "eurostat:nuts_2021_id":"015027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015027",
+    "eurostat:population":36761,
+    "eurostat:population_year":2020,
     "geom:area":0.001513,
     "geom:area_square_m":13102811.427962,
     "geom:bbox":"9.08138971918,45.5303637107,9.14946739007,45.5688135045",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015027",
+        "eurostat:nuts_2021_id":"015027",
         "gn:id":6537111,
         "gp:id":12676534,
         "qs_pg:id":1095021
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fef3cdf982b44c30ae107724410be59e",
+    "wof:geomhash":"5f2d84890abca12a2fdab651c14924f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404468321,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353887,
     "wof:name":"Bollate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":36761,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

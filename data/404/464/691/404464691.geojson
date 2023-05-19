@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Ferdinando",
+    "eurostat:nuts_2021_id":"080097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080097",
+    "eurostat:population":4701,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
-    "geom:area_square_m":14072971.094784,
+    "geom:area_square_m":14072971.094783,
     "geom:bbox":"15.9084491684,38.4615629442,15.9672817887,38.5049806949",
     "geom:latitude":38.483794,
     "geom:longitude":15.935148,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080097",
+        "eurostat:nuts_2021_id":"080097",
         "gn:id":6540048,
         "gp:id":20077018,
         "qs_pg:id":51067
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e30bfb086d585db3689e812d473d9c39",
+    "wof:geomhash":"8d026f72bf927d07fd95c847e4e45644",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464691,
-    "wof:lastmodified":1582327805,
+    "wof:lastmodified":1684353813,
     "wof:name":"San Ferdinando",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":4701,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

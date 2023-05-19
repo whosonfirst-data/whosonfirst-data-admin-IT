@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altavilla Vicentina",
+    "eurostat:nuts_2021_id":"024004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024004",
+    "eurostat:population":11935,
+    "eurostat:population_year":2020,
     "geom:area":0.001925,
-    "geom:area_square_m":16683589.428162,
+    "geom:area_square_m":16683589.428161,
     "geom:bbox":"11.4420219935,45.4806197636,11.510542848,45.52624971",
     "geom:latitude":45.504391,
     "geom:longitude":11.477367,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024004",
+        "eurostat:nuts_2021_id":"024004",
         "gn:id":6538251,
         "gp:id":12676020,
         "qs_pg:id":1062328
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74ded3dd5719e6a075494a6368d38f33",
+    "wof:geomhash":"c251693a0917546bb3957b471f9f383d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469757,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353909,
     "wof:name":"Altavilla Vicentina",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":11935,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

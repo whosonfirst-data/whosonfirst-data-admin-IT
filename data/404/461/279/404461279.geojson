@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gradoli",
+    "eurostat:nuts_2021_id":"056028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056028",
+    "eurostat:population":1294,
+    "eurostat:population_year":2020,
     "geom:area":0.004804,
-    "geom:area_square_m":43712227.560067,
+    "geom:area_square_m":43712227.560065,
     "geom:bbox":"11.8245543764,42.5920875938,11.9508994229,42.6525047798",
     "geom:latitude":42.619076,
     "geom:longitude":11.880001,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056028",
+        "eurostat:nuts_2021_id":"056028",
         "gn:id":6536905,
         "gp:id":12679646,
         "qs_pg:id":1314118
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d8a75f3e104b4e145cb16ceb561638c",
+    "wof:geomhash":"b064a6fa327e3764b0f8cd90de112d74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461279,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353735,
     "wof:name":"Gradoli",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":1294,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

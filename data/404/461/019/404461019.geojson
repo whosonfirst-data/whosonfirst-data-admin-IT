@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Recanati",
+    "eurostat:nuts_2021_id":"043042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043042",
+    "eurostat:population":12470,
+    "eurostat:population_year":2020,
     "geom:area":0.001913,
-    "geom:area_square_m":17172223.691203,
+    "geom:area_square_m":17172223.691192,
     "geom:bbox":"13.6015780443,43.3999112927,13.6792849136,43.4741759827",
     "geom:latitude":43.436287,
     "geom:longitude":13.645053,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043042",
+        "eurostat:nuts_2021_id":"043042",
         "gn:id":6536790,
         "gp:id":20076790,
         "qs_pg:id":1120166
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c412e6f5bdf4a40e6ac695d3f34d9574",
+    "wof:geomhash":"e1c0c7157b2661e47db31e8ee416fc9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461019,
-    "wof:lastmodified":1582328143,
+    "wof:lastmodified":1684353729,
     "wof:name":"Porto Recanati",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":12470,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

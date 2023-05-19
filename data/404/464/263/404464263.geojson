@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piane Crati",
+    "eurostat:nuts_2021_id":"078097",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078097",
+    "eurostat:population":1411,
+    "eurostat:population_year":2020,
     "geom:area":0.000241,
-    "geom:area_square_m":2308906.919938,
+    "geom:area_square_m":2308906.919939,
     "geom:bbox":"16.300107953,39.225934889,16.3405770358,39.2434423748",
     "geom:latitude":39.234329,
     "geom:longitude":16.316168,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078097",
+        "eurostat:nuts_2021_id":"078097"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"96e78744ccc3d25ce2ec83a83c2960c1",
+    "wof:geomhash":"adff33e55327643060db1797af9ffc93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464263,
-    "wof:lastmodified":1566723244,
+    "wof:lastmodified":1684353801,
     "wof:name":"Piane Crati",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1411,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

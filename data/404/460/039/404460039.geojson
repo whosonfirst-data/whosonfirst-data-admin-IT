@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capriata d'Orba",
+    "eurostat:nuts_2021_id":"006029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006029",
+    "eurostat:population":1835,
+    "eurostat:population_year":2020,
     "geom:area":0.003236,
-    "geom:area_square_m":28429564.63478,
+    "geom:area_square_m":28429564.63479,
     "geom:bbox":"8.65669301745,44.6981765461,8.74304815763,44.7657858689",
     "geom:latitude":44.728983,
     "geom:longitude":8.694358,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006029",
+        "eurostat:nuts_2021_id":"006029",
         "gn:id":6542737,
         "gp:id":20075889,
         "qs_pg:id":1290038
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cb573f82c53f72de176b6c155faf910e",
+    "wof:geomhash":"240123803d02fd93f077669540921133",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460039,
-    "wof:lastmodified":1582328004,
+    "wof:lastmodified":1684353708,
     "wof:name":"Capriata D'Orba",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1835,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

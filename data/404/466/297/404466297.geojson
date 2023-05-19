@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Militello Rosmarino",
+    "eurostat:nuts_2021_id":"083050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083050",
+    "eurostat:population":1245,
+    "eurostat:population_year":2020,
     "geom:area":0.003014,
-    "geom:area_square_m":29364494.996779,
+    "geom:area_square_m":29364494.996759,
     "geom:bbox":"14.6246073364,37.9337102738,14.6859071546,38.0736967304",
     "geom:latitude":38.000677,
     "geom:longitude":14.660177,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083050",
+        "eurostat:nuts_2021_id":"083050",
         "gn:id":6537765,
         "gp:id":12680328,
         "qs_pg:id":961716
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d323b9169e3f28e68ccb028f441e364e",
+    "wof:geomhash":"6bf38dee4588c3e2e540a8a2356e968b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466297,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353846,
     "wof:name":"Militello Rosmarino",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1245,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

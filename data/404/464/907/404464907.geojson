@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trapani",
+    "eurostat:nuts_2021_id":"081021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081021",
+    "eurostat:population":67141,
+    "eurostat:population_year":2020,
     "geom:area":0.027938,
-    "geom:area_square_m":272514666.336462,
+    "geom:area_square_m":272514666.336464,
     "geom:bbox":"12.4793437786,37.8369164822,12.8006705639,38.0345416814",
     "geom:latitude":37.921255,
     "geom:longitude":12.626886,
@@ -233,6 +245,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -241,6 +255,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081021",
+        "eurostat:nuts_2021_id":"081021",
         "gn:id":6542155,
         "gp:id":20077028,
         "qs_pg:id":1059763
@@ -249,7 +265,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9aedb4082b5d3045f19246c8d7f863d5",
+    "wof:geomhash":"49a793390370c0b5f0676bd84f4b895d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,10 +276,12 @@
         }
     ],
     "wof:id":404464907,
-    "wof:lastmodified":1582327792,
+    "wof:lastmodified":1684353820,
     "wof:name":"Trapani",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":67141,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

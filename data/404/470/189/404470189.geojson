@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teglio Veneto",
+    "eurostat:nuts_2021_id":"027040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027040",
+    "eurostat:population":2273,
+    "eurostat:population_year":2020,
     "geom:area":0.001323,
-    "geom:area_square_m":11399202.187428,
+    "geom:area_square_m":11399202.187429,
     "geom:bbox":"12.8572321454,45.8009061422,12.9311789147,45.8337665132",
     "geom:latitude":45.816842,
     "geom:longitude":12.89191,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027040",
+        "eurostat:nuts_2021_id":"027040",
         "gn:id":6538324,
         "gp:id":12682149,
         "qs_pg:id":1061599
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de39f3f70708fba4ce802928205377cd",
+    "wof:geomhash":"541b3f544ddf18b03ad32b3cbbba216f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470189,
-    "wof:lastmodified":1582327745,
+    "wof:lastmodified":1684353917,
     "wof:name":"Teglio Veneto",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":2273,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

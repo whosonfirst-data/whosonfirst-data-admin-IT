@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Felino",
+    "eurostat:nuts_2021_id":"034013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034013",
+    "eurostat:population":9138,
+    "eurostat:population_year":2020,
     "geom:area":0.004355,
-    "geom:area_square_m":38288004.149179,
+    "geom:area_square_m":38288004.149175,
     "geom:bbox":"10.1783987227,44.6369623468,10.2979879638,44.7237964512",
     "geom:latitude":44.679495,
     "geom:longitude":10.238807,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034013",
+        "eurostat:nuts_2021_id":"034013",
         "gn:id":6538422,
         "gp:id":12676553,
         "qs_pg:id":905485
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"516a9018ad82b11760322e0819696cbe",
+    "wof:geomhash":"30bdc0be2b9bff30c0cfd399cb872940",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404472169,
-    "wof:lastmodified":1582327880,
+    "wof:lastmodified":1684353953,
     "wof:name":"Felino",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":9138,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

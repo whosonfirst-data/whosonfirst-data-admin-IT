@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bientina",
+    "eurostat:nuts_2021_id":"050001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050001",
+    "eurostat:population":8538,
+    "eurostat:population_year":2020,
     "geom:area":0.003295,
-    "geom:area_square_m":29439123.042113,
+    "geom:area_square_m":29439123.042117,
     "geom:bbox":"10.6077770996,43.688352604,10.6713486798,43.795844602",
     "geom:latitude":43.729408,
     "geom:longitude":10.641707,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050001",
+        "eurostat:nuts_2021_id":"050001",
         "gn:id":6536832,
         "gp:id":12676790,
         "qs_pg:id":892958
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a79c005f0e8a727ab6697b3910ac03f3",
+    "wof:geomhash":"97b41fe6cd5234f4a281ea37ee111b01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472883,
-    "wof:lastmodified":1582327898,
+    "wof:lastmodified":1684353972,
     "wof:name":"Bientina",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":8538,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

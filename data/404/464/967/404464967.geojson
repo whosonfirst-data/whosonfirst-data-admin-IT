@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellana Sicula",
+    "eurostat:nuts_2021_id":"082024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082024",
+    "eurostat:population":3200,
+    "eurostat:population_year":2020,
     "geom:area":0.007452,
-    "geom:area_square_m":72873392.265826,
+    "geom:area_square_m":72873392.265831,
     "geom:bbox":"13.8841756433,37.6292892994,14.0672383923,37.8396806784",
     "geom:latitude":37.730079,
     "geom:longitude":13.988062,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082024",
+        "eurostat:nuts_2021_id":"082024",
         "gn:id":6539125,
         "gp:id":12677299,
         "qs_pg:id":1195853
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c9b666d7b5cd2a1eb47feb668725e8d",
+    "wof:geomhash":"699abb712ffde917c8453e0d6995c5fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464967,
-    "wof:lastmodified":1582327800,
+    "wof:lastmodified":1684353822,
     "wof:name":"Castellana Sicula",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":3200,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

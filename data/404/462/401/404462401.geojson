@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teramo",
+    "eurostat:nuts_2021_id":"067041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067041",
+    "eurostat:population":53819,
+    "eurostat:population_year":2020,
     "geom:area":0.016733,
-    "geom:area_square_m":152159374.436308,
+    "geom:area_square_m":152159374.436323,
     "geom:bbox":"13.5814371533,42.5940958259,13.8272007208,42.7183378257",
     "geom:latitude":42.658236,
     "geom:longitude":13.710742,
@@ -224,6 +236,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -232,6 +246,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067041",
+        "eurostat:nuts_2021_id":"067041",
         "gn:id":6541856,
         "gp:id":12676370,
         "qs_pg:id":1108036
@@ -240,7 +256,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc78fe7bad303f9051d4a086047e7085",
+    "wof:geomhash":"23f716dfee47c02be6363f2ca43ec5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,10 +267,12 @@
         }
     ],
     "wof:id":404462401,
-    "wof:lastmodified":1582327856,
+    "wof:lastmodified":1684353758,
     "wof:name":"Teramo",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":53819,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

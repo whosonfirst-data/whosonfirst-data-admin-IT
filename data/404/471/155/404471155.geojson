@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manerbio",
+    "eurostat:nuts_2021_id":"017103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017103",
+    "eurostat:population":13318,
+    "eurostat:population_year":2020,
     "geom:area":0.003204,
-    "geom:area_square_m":27838685.502461,
+    "geom:area_square_m":27838685.502462,
     "geom:bbox":"10.1014552114,45.312705439,10.1824761732,45.3911675628",
     "geom:latitude":45.352581,
     "geom:longitude":10.146696,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017103",
+        "eurostat:nuts_2021_id":"017103",
         "gn:id":6536185,
         "gp:id":12680132,
         "qs_pg:id":272216
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"001bae5383e470a2d606bbb482ada2c5",
+    "wof:geomhash":"69e256c85de6585f753bffee03ca9a01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471155,
-    "wof:lastmodified":1582327724,
+    "wof:lastmodified":1684353934,
     "wof:name":"Manerbio",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":13318,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

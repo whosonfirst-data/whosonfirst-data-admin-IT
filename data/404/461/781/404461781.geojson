@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciampino",
+    "eurostat:nuts_2021_id":"058118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058118",
+    "eurostat:population":39118,
+    "eurostat:population_year":2020,
     "geom:area":0.001406,
     "geom:area_square_m":12961488.976989,
     "geom:bbox":"12.5838540065,41.7751095415,12.6449978721,41.8215894206",
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058118",
+        "eurostat:nuts_2021_id":"058118",
         "gn:id":6538691,
         "gp:id":12678642,
         "qs_pg:id":190582
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b9384ced3c54dd835b929d126d27cfc",
+    "wof:geomhash":"ad9d93a7202dd5af56372126fc719e64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404461781,
-    "wof:lastmodified":1582328147,
+    "wof:lastmodified":1684353745,
     "wof:name":"Ciampino",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":39118,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

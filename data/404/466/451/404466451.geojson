@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canicatt\u00ec",
+    "eurostat:nuts_2021_id":"084011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084011",
+    "eurostat:population":35530,
+    "eurostat:population_year":2020,
     "geom:area":0.00931,
-    "geom:area_square_m":91483400.504179,
+    "geom:area_square_m":91483400.504186,
     "geom:bbox":"13.7610812997,37.3179785676,13.9101212748,37.4383716356",
     "geom:latitude":37.371684,
     "geom:longitude":13.837842,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084011",
+        "eurostat:nuts_2021_id":"084011",
         "gn:id":6539170,
         "gp:id":12677508,
         "qs_pg:id":1078487
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52520ae22662788cea2ebcb29c3687a9",
+    "wof:geomhash":"97baa4eb7b817d28bd2c7ea9a877c55f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404466451,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353849,
     "wof:name":"Canicatt\u00ec",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":35530,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

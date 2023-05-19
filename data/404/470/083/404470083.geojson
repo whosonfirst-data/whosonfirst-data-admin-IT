@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maserada sul Piave",
+    "eurostat:nuts_2021_id":"026040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026040",
+    "eurostat:population":9363,
+    "eurostat:population_year":2020,
     "geom:area":0.003324,
     "geom:area_square_m":28678418.122683,
     "geom:bbox":"12.28831904,45.7201182494,12.395688518,45.7855738645",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026040",
+        "eurostat:nuts_2021_id":"026040",
         "gn:id":6538300,
         "gp:id":12677928,
         "qs_pg:id":271998
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e20c09612911c0fb1dc21559bbd01d59",
+    "wof:geomhash":"387d9b714872342151e58f44fa7f198f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470083,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353915,
     "wof:name":"Maserada Sul Piave",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":9363,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

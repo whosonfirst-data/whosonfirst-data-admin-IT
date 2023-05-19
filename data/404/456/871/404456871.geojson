@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteiasi",
+    "eurostat:nuts_2021_id":"073016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073016",
+    "eurostat:population":5499,
+    "eurostat:population_year":2020,
     "geom:area":0.001023,
     "geom:area_square_m":9623063.305735,
     "geom:bbox":"17.3468153526,40.4831640241,17.4095495057,40.5165079011",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073016",
+        "eurostat:nuts_2021_id":"073016",
         "gn:id":6538956,
         "gp:id":12680517,
         "qs_pg:id":537471
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fd0b460657233a299c5a91a8c535ad8",
+    "wof:geomhash":"482796bd28629d19e92e311674ba8db8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404456871,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353635,
     "wof:name":"Monteiasi",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":5499,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

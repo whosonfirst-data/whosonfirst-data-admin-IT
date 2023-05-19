@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Presenzano",
+    "eurostat:nuts_2021_id":"061065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061065",
+    "eurostat:population":1789,
+    "eurostat:population_year":2020,
     "geom:area":0.00342,
-    "geom:area_square_m":31732793.748183,
+    "geom:area_square_m":31732793.748187,
     "geom:bbox":"14.0289817648,41.3425424834,14.1280228152,41.4001016548",
     "geom:latitude":41.372736,
     "geom:longitude":14.077842,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_061065",
+        "eurostat:nuts_2021_id":"061065"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8a8cd8a56eef048c82f97151687dd91f",
+    "wof:geomhash":"c2d7450b3e80bfd00ecbfe9d75ff77c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404463101,
-    "wof:lastmodified":1566723191,
+    "wof:lastmodified":1684353772,
     "wof:name":"Presenzano",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":1789,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

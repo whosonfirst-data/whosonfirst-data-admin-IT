@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vito di Fagagna",
+    "eurostat:nuts_2021_id":"030106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030106",
+    "eurostat:population":1703,
+    "eurostat:population_year":2020,
     "geom:area":0.000995,
-    "geom:area_square_m":8536134.335782,
+    "geom:area_square_m":8536134.335783,
     "geom:bbox":"13.0332503142,46.060286856,13.0766591752,46.1021997012",
     "geom:latitude":46.084302,
     "geom:longitude":13.055066,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030106",
+        "eurostat:nuts_2021_id":"030106",
         "gn:id":6541602,
         "gp:id":12681781,
         "qs_pg:id":1164926
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5435074d4f6603643ac96440eb10849c",
+    "wof:geomhash":"791dfd8078f1f5c3a822e06dddf7f3eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404470675,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353926,
     "wof:name":"San Vito Di Fagagna",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1703,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

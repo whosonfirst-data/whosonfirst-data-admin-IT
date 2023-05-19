@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortisei/St. Ulrich",
+    "eurostat:nuts_2021_id":"021061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021061",
+    "eurostat:population":4864,
+    "eurostat:population_year":2020,
     "geom:area":0.002835,
-    "geom:area_square_m":24089905.676996,
+    "geom:area_square_m":24089905.677003,
     "geom:bbox":"11.6416065889,46.5647257996,11.7282194454,46.6168362917",
     "geom:latitude":46.590722,
     "geom:longitude":11.688193,
@@ -46,6 +58,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -54,6 +68,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021061",
+        "eurostat:nuts_2021_id":"021061",
         "gn:id":6535976,
         "gp:id":20076585,
         "qs_pg:id":1081851
@@ -62,7 +78,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03b2f21b1980f339a986f8507562b06b",
+    "wof:geomhash":"75e0221a1964065ef73b7433b4a4e704",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404473181,
-    "wof:lastmodified":1582327922,
+    "wof:lastmodified":1684353981,
     "wof:name":"Ortisei",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":4864,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

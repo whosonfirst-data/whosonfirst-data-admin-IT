@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verolavecchia",
+    "eurostat:nuts_2021_id":"017196",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017196",
+    "eurostat:population":3770,
+    "eurostat:population_year":2020,
     "geom:area":0.002419,
-    "geom:area_square_m":21030073.158467,
+    "geom:area_square_m":21030073.158463,
     "geom:bbox":"10.0193313142,45.2759005853,10.0780906681,45.3525918284",
     "geom:latitude":45.314512,
     "geom:longitude":10.048167,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017196",
+        "eurostat:nuts_2021_id":"017196",
         "gn:id":6540620,
         "gp:id":12682393,
         "qs_pg:id":1019678
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eda9b713030b9cc3cf33866b3da3567a",
+    "wof:geomhash":"5eb1a141fb278256b03c36a9fa1f179a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471363,
-    "wof:lastmodified":1582327712,
+    "wof:lastmodified":1684353938,
     "wof:name":"Verolavecchia",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":3770,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

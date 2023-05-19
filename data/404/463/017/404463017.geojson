@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel Volturno",
+    "eurostat:nuts_2021_id":"061027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061027",
+    "eurostat:population":26735,
+    "eurostat:population_year":2020,
     "geom:area":0.00789,
-    "geom:area_square_m":73602481.344863,
+    "geom:area_square_m":73602481.344858,
     "geom:bbox":"13.902298989,40.8989376822,14.0357507342,41.0899867902",
     "geom:latitude":41.026172,
     "geom:longitude":13.971809,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061027",
+        "eurostat:nuts_2021_id":"061027",
         "gn:id":6541898,
         "gp:id":12678210,
         "qs_pg:id":1250663
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01a0b4ccd4e12e5a9312457a2e7cea32",
+    "wof:geomhash":"4b51fa45dc3a3f28964ea462fc7ef928",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404463017,
-    "wof:lastmodified":1582327782,
+    "wof:lastmodified":1684353770,
     "wof:name":"Castel Volturno",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":26735,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

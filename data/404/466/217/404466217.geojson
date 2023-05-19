@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelmola",
+    "eurostat:nuts_2021_id":"083015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083015",
+    "eurostat:population":1094,
+    "eurostat:population_year":2020,
     "geom:area":0.001712,
-    "geom:area_square_m":16707991.462302,
+    "geom:area_square_m":16707991.462297,
     "geom:bbox":"15.2352763814,37.8429216213,15.2901987402,37.8893395973",
     "geom:latitude":37.866296,
     "geom:longitude":15.25959,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083015",
+        "eurostat:nuts_2021_id":"083015",
         "gn:id":6542235,
         "gp:id":20077039,
         "qs_pg:id":1059764
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f813aa38d1c6e6db6d5fc5503d5bff6",
+    "wof:geomhash":"3de139288e92224b1e8a2b7f58f189e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466217,
-    "wof:lastmodified":1582328188,
+    "wof:lastmodified":1684353845,
     "wof:name":"Castelmola",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1094,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

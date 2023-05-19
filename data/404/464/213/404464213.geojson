@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mangone",
+    "eurostat:nuts_2021_id":"078075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078075",
+    "eurostat:population":1904,
+    "eurostat:population_year":2020,
     "geom:area":0.001268,
-    "geom:area_square_m":12152841.600571,
+    "geom:area_square_m":12152841.600574,
     "geom:bbox":"16.2814919853,39.195320161,16.3846419529,39.2228677692",
     "geom:latitude":39.206557,
     "geom:longitude":16.326122,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078075",
+        "eurostat:nuts_2021_id":"078075"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d2186d0704fbe002d2c34c35d444dea1",
+    "wof:geomhash":"a9678de7ebf3a9390cf28ba82b110682",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464213,
-    "wof:lastmodified":1566723240,
+    "wof:lastmodified":1684353800,
     "wof:name":"Mangone",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1904,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

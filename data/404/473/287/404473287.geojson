@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vandoies/Vintl",
+    "eurostat:nuts_2021_id":"021110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021110",
+    "eurostat:population":3324,
+    "eurostat:population_year":2020,
     "geom:area":0.013076,
-    "geom:area_square_m":110504998.686376,
+    "geom:area_square_m":110504998.686371,
     "geom:bbox":"11.6125487591,46.7943271486,11.7817739083,46.957400668",
     "geom:latitude":46.886384,
     "geom:longitude":11.702569,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021110",
+        "eurostat:nuts_2021_id":"021110",
         "gp:id":12679437,
         "qs_pg:id":1301950
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05664e10aa10142a7cb6fd4dbf38e2fb",
+    "wof:geomhash":"eae7167bd64bfea71e3b3edeccf5fad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473287,
-    "wof:lastmodified":1582327915,
+    "wof:lastmodified":1684353985,
     "wof:name":"Vandoies",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3324,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

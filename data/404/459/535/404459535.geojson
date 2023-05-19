@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oggebbio",
+    "eurostat:nuts_2021_id":"103049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103049",
+    "eurostat:population":881,
+    "eurostat:population_year":2020,
     "geom:area":0.002492,
-    "geom:area_square_m":21405684.72742,
+    "geom:area_square_m":21405684.727416,
     "geom:bbox":"8.6021219473,45.9660757685,8.69060692755,46.0248421035",
     "geom:latitude":45.994737,
     "geom:longitude":8.644605,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103049",
+        "eurostat:nuts_2021_id":"103049",
         "gn:id":6542828,
         "gp:id":12681036,
         "qs_pg:id":1019871
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77d03b8737605b7f7fc9ac462173158d",
+    "wof:geomhash":"304163dd6827c8ec3d2b79bc75e119c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459535,
-    "wof:lastmodified":1582328155,
+    "wof:lastmodified":1684353695,
     "wof:name":"Oggebbio",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":881,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

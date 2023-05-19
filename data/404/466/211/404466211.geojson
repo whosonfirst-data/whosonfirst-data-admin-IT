@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalvecchio Siculo",
+    "eurostat:nuts_2021_id":"083012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083012",
+    "eurostat:population":763,
+    "eurostat:population_year":2020,
     "geom:area":0.003425,
-    "geom:area_square_m":33380320.104226,
+    "geom:area_square_m":33380320.104234,
     "geom:bbox":"15.2385668172,37.9381737142,15.3319611504,38.0321328311",
     "geom:latitude":37.982335,
     "geom:longitude":15.278506,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083012",
+        "eurostat:nuts_2021_id":"083012",
         "gn:id":6541328,
         "gp:id":12677994,
         "qs_pg:id":243488
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e0126c8387eb8041560014f2009917b8",
+    "wof:geomhash":"55caea650c43c4221141f6d2d3b5caf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466211,
-    "wof:lastmodified":1582328186,
+    "wof:lastmodified":1684353844,
     "wof:name":"Casalvecchio Siculo",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":763,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

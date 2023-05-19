@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Champorcher",
+    "eurostat:nuts_2021_id":"007018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007018",
+    "eurostat:population":384,
+    "eurostat:population_year":2020,
     "geom:area":0.007897,
-    "geom:area_square_m":68313163.906737,
+    "geom:area_square_m":68313163.906742,
     "geom:bbox":"7.49128863699,45.5628151163,7.66273531329,45.645700634",
     "geom:latitude":45.607934,
     "geom:longitude":7.58185,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007018",
+        "eurostat:nuts_2021_id":"007018",
         "gn:id":6542490,
         "gp:id":12678576,
         "qs_pg:id":1187901
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd3d29c29f14f31d1bd2fb01bc8e32cf",
+    "wof:geomhash":"787c05fec000643c88c955babf22e537",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404457963,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353660,
     "wof:name":"Champorcher",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":384,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

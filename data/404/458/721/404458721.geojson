@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vittorio Veneto",
+    "eurostat:nuts_2021_id":"026092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026092",
+    "eurostat:population":27980,
+    "eurostat:population_year":2020,
     "geom:area":0.00961,
-    "geom:area_square_m":82539263.620259,
+    "geom:area_square_m":82539263.620264,
     "geom:bbox":"12.2440761333,45.9132152985,12.3619717635,46.0825649963",
     "geom:latitude":46.00393,
     "geom:longitude":12.296775,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026092",
+        "eurostat:nuts_2021_id":"026092",
         "gn:id":6538312,
         "gp:id":12676030,
         "qs_pg:id":191252
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16426e3364229df85221a70b013ea5c1",
+    "wof:geomhash":"22831e37c115131ff23baa906bc0fe8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404458721,
-    "wof:lastmodified":1582327961,
+    "wof:lastmodified":1684353676,
     "wof:name":"Vittorio Veneto",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":27980,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trambileno",
+    "eurostat:nuts_2021_id":"022203",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022203",
+    "eurostat:population":1479,
+    "eurostat:population_year":2020,
     "geom:area":0.005872,
-    "geom:area_square_m":50588347.300134,
+    "geom:area_square_m":50588347.30012,
     "geom:bbox":"11.0460128039,45.7815235922,11.2044345579,45.8866372275",
     "geom:latitude":45.835364,
     "geom:longitude":11.129402,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022203",
+        "eurostat:nuts_2021_id":"022203",
         "gn:id":6542640,
         "gp:id":20076656,
         "qs_pg:id":281100
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"346a268b80c1f1f778d36ee771376d13",
+    "wof:geomhash":"f6db7260d4c4596bbdcdb663b6ae2a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471699,
-    "wof:lastmodified":1582327728,
+    "wof:lastmodified":1684353944,
     "wof:name":"Trambileno",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1479,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

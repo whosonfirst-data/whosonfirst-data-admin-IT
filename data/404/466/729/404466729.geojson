@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benetutti",
+    "eurostat:nuts_2021_id":"090008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090008",
+    "eurostat:population":1784,
+    "eurostat:population_year":2020,
     "geom:area":0.010031,
-    "geom:area_square_m":94419275.139415,
+    "geom:area_square_m":94419275.139404,
     "geom:bbox":"9.10223659262,40.3655572219,9.25096596197,40.5150859118",
     "geom:latitude":40.430019,
     "geom:longitude":9.165643,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090008",
+        "eurostat:nuts_2021_id":"090008",
         "gn:id":6537822,
         "gp:id":12676705,
         "qs_pg:id":1187842
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2a603bb4346364d2d9f87471cbdfa8f",
+    "wof:geomhash":"52f255f73099d126160af6c80dbff346",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466729,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353856,
     "wof:name":"Benetutti",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1784,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

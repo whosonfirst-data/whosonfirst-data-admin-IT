@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azzano Decimo",
+    "eurostat:nuts_2021_id":"093005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093005",
+    "eurostat:population":15753,
+    "eurostat:population_year":2020,
     "geom:area":0.005943,
-    "geom:area_square_m":51155025.55271,
+    "geom:area_square_m":51155025.552708,
     "geom:bbox":"12.6282822129,45.8243346381,12.766930189,45.9309007156",
     "geom:latitude":45.882285,
     "geom:longitude":12.6915,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093005",
+        "eurostat:nuts_2021_id":"093005",
         "gn:id":6541975,
         "gp:id":12676382,
         "qs_pg:id":1108037
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e68bac922df31e21d0bdb3cbedc27f47",
+    "wof:geomhash":"9222c52f001794263f2dc5af5d0fb3a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459111,
-    "wof:lastmodified":1582328164,
+    "wof:lastmodified":1684353686,
     "wof:name":"Azzano Decimo",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":15753,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

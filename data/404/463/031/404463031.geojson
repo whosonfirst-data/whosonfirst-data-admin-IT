@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontegreca",
+    "eurostat:nuts_2021_id":"061034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061034",
+    "eurostat:population":785,
+    "eurostat:population_year":2020,
     "geom:area":0.001043,
-    "geom:area_square_m":9661597.564245,
+    "geom:area_square_m":9661597.564243,
     "geom:bbox":"14.1666363776,41.4357735031,14.2106765844,41.4761132294",
     "geom:latitude":41.457266,
     "geom:longitude":14.185683,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061034",
+        "eurostat:nuts_2021_id":"061034",
         "gn:id":6539453,
         "gp:id":12679340,
         "qs_pg:id":287967
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93a7e461bfa1b454bd2e7987672946a2",
+    "wof:geomhash":"4834ff9230bbba28ae0edd8f36a914eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463031,
-    "wof:lastmodified":1582327770,
+    "wof:lastmodified":1684353771,
     "wof:name":"Fontegreca",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":785,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trevi",
+    "eurostat:nuts_2021_id":"054054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054054",
+    "eurostat:population":8349,
+    "eurostat:population_year":2020,
     "geom:area":0.007832,
-    "geom:area_square_m":70960504.095618,
+    "geom:area_square_m":70960504.095611,
     "geom:bbox":"12.6901994195,42.8339999979,12.8282275022,42.9337240223",
     "geom:latitude":42.881449,
     "geom:longitude":12.755689,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054054",
+        "eurostat:nuts_2021_id":"054054",
         "gn:id":6540493,
         "gp:id":12677515,
         "qs_pg:id":1187879
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e64039368a91f17b00c3ba2b955558ca",
+    "wof:geomhash":"d2e96e7750eb5988cb4002e6e1345e93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404458185,
-    "wof:lastmodified":1582327964,
+    "wof:lastmodified":1684353666,
     "wof:name":"Trevi",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":8349,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

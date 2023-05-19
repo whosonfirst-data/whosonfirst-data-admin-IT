@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006164",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solonghello",
+    "eurostat:nuts_2021_id":"006164",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006164",
+    "eurostat:population":209,
+    "eurostat:population_year":2020,
     "geom:area":0.000567,
-    "geom:area_square_m":4946041.008956,
+    "geom:area_square_m":4946041.008952,
     "geom:bbox":"8.27594298996,45.1107171918,8.30976642409,45.1483663397",
     "geom:latitude":45.129794,
     "geom:longitude":8.290914,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006164",
+        "eurostat:nuts_2021_id":"006164",
         "gn:id":6542890,
         "gp:id":12679170,
         "qs_pg:id":1003961
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c592a9bc5937c095dfa5a34512e02ef",
+    "wof:geomhash":"a38ee2db2bae9452c2584998560a2c86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456781,
-    "wof:lastmodified":1582328069,
+    "wof:lastmodified":1684353633,
     "wof:name":"Solonghello",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":209,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

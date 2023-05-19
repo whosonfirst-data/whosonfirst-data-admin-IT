@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torviscosa",
+    "eurostat:nuts_2021_id":"030123",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030123",
+    "eurostat:population":2714,
+    "eurostat:population_year":2020,
     "geom:area":0.005618,
     "geom:area_square_m":48416911.949713,
     "geom:bbox":"13.226132865,45.7563735531,13.3095595711,45.8744524612",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030123",
+        "eurostat:nuts_2021_id":"030123",
         "gn:id":6538397,
         "gp:id":12676347,
         "qs_pg:id":1101980
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"790b88f1bb36cded9b83ddb78340bcfb",
+    "wof:geomhash":"eeaca2921385e5f55180956aa7694caf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470711,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353926,
     "wof:name":"Torviscosa",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2714,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

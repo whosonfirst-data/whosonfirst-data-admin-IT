@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiarano",
+    "eurostat:nuts_2021_id":"026016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026016",
+    "eurostat:population":3671,
+    "eurostat:population_year":2020,
     "geom:area":0.0023,
-    "geom:area_square_m":19855796.733163,
+    "geom:area_square_m":19855796.733164,
     "geom:bbox":"12.5267260054,45.7084645073,12.6109105448,45.7551739542",
     "geom:latitude":45.7308,
     "geom:longitude":12.570078,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026016",
+        "eurostat:nuts_2021_id":"026016",
         "gn:id":6538295,
         "gp:id":12677807,
         "qs_pg:id":1059614
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"362b18e08da146d748898bb96b96145e",
+    "wof:geomhash":"53f64fbaa9ddd4abebb51ac983a54495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470029,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353914,
     "wof:name":"Chiarano",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":3671,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

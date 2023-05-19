@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montagna in Valtellina",
+    "eurostat:nuts_2021_id":"014044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014044",
+    "eurostat:population":2966,
+    "eurostat:population_year":2020,
     "geom:area":0.005248,
-    "geom:area_square_m":44894989.509409,
+    "geom:area_square_m":44894989.509412,
     "geom:bbox":"9.87303048434,46.1614121063,9.97655472401,46.2782648424",
     "geom:latitude":46.22181,
     "geom:longitude":9.924105,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014044",
+        "eurostat:nuts_2021_id":"014044",
         "gn:id":6543120,
         "gp:id":12677231,
         "qs_pg:id":1095043
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2158b9035c525bde74f235de4357079",
+    "wof:geomhash":"1164dba1757ebd849002c31565e012f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468211,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353885,
     "wof:name":"Montagna In Valtellina",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":2966,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

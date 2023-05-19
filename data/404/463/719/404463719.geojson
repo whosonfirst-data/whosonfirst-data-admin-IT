@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarego",
+    "eurostat:nuts_2021_id":"024098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024098",
+    "eurostat:population":6726,
+    "eurostat:population_year":2020,
     "geom:area":0.00275,
-    "geom:area_square_m":23866866.765714,
+    "geom:area_square_m":23866866.765716,
     "geom:bbox":"11.3789736015,45.3947425823,11.4485608809,45.454169901",
     "geom:latitude":45.421525,
     "geom:longitude":11.414622,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024098",
+        "eurostat:nuts_2021_id":"024098",
         "gn:id":6543000,
         "gp:id":12681825,
         "qs_pg:id":312993
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b7e65a5924e37231f6dfb51a12025648",
+    "wof:geomhash":"c4d2fae7ca3e5780b773882b81ab01ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463719,
-    "wof:lastmodified":1582327787,
+    "wof:lastmodified":1684353785,
     "wof:name":"Sarego",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":6726,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

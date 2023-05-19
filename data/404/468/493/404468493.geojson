@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peschiera Borromeo",
+    "eurostat:nuts_2021_id":"015171",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015171",
+    "eurostat:population":23944,
+    "eurostat:population_year":2020,
     "geom:area":0.002673,
     "geom:area_square_m":23187103.909792,
     "geom:bbox":"9.26374711311,45.4129254123,9.344586705,45.4722624423",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015171",
+        "eurostat:nuts_2021_id":"015171",
         "gn:id":3171153,
         "gp:id":12679968,
         "qs_pg:id":1108650
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3d83e1be4a265313a4df01336541f09",
+    "wof:geomhash":"147834c774bcbd661035506879bb0ac9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468493,
-    "wof:lastmodified":1582328088,
+    "wof:lastmodified":1684353890,
     "wof:name":"Peschiera Borromeo",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":23944,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

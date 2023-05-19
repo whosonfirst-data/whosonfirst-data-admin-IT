@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sogliano al Rubicone",
+    "eurostat:nuts_2021_id":"040046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040046",
+    "eurostat:population":3181,
+    "eurostat:population_year":2020,
     "geom:area":0.01047,
-    "geom:area_square_m":93168826.76201,
+    "geom:area_square_m":93168826.762013,
     "geom:bbox":"12.1699265995,43.9080300784,12.3535006791,44.0329438556",
     "geom:latitude":43.972904,
     "geom:longitude":12.26519,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040046",
+        "eurostat:nuts_2021_id":"040046",
         "gn:id":6536759,
         "gp:id":12677225,
         "qs_pg:id":1122874
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"742740ce950415d51cbc48a610ad105f",
+    "wof:geomhash":"ec908c80aff8fa6f627188b55a77ae56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472521,
-    "wof:lastmodified":1582327890,
+    "wof:lastmodified":1684353963,
     "wof:name":"Sogliano Al Rubicone",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":3181,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

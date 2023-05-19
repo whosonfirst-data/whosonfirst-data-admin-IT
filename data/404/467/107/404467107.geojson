@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tadasuni",
+    "eurostat:nuts_2021_id":"095064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095064",
+    "eurostat:population":148,
+    "eurostat:population_year":2020,
     "geom:area":0.000539,
-    "geom:area_square_m":5093214.314077,
+    "geom:area_square_m":5093214.314075,
     "geom:bbox":"8.87340850711,40.0778876043,8.90315173717,40.1203323579",
     "geom:latitude":40.105894,
     "geom:longitude":8.885218,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095064",
+        "eurostat:nuts_2021_id":"095064",
         "gn:id":6540880,
         "gp:id":12682129,
         "qs_pg:id":42817
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48fa05d9f01cf816ee2af3a1553a3a2c",
+    "wof:geomhash":"4b80bea4e650c24da5a0f18bec086043",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467107,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353865,
     "wof:name":"Tadasuni",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivanazzano Terme",
+    "eurostat:nuts_2021_id":"018122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018122",
+    "eurostat:population":5299,
+    "eurostat:population_year":2020,
     "geom:area":0.003299,
-    "geom:area_square_m":28876945.347858,
+    "geom:area_square_m":28876945.347855,
     "geom:bbox":"8.96963393404,44.9007301298,9.07704886924,44.9671883782",
     "geom:latitude":44.931445,
     "geom:longitude":9.018223,
@@ -141,6 +153,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -149,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018122",
+        "eurostat:nuts_2021_id":"018122",
         "gn:id":6537199,
         "gp:id":12680659,
         "qs_pg:id":466120
@@ -157,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aab95c0fcf6b72005521fc54f0532def",
+    "wof:geomhash":"594b81c88975163c9a64e25d259c1ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404471553,
-    "wof:lastmodified":1582327725,
+    "wof:lastmodified":1684353941,
     "wof:name":"Rivanazzano Terme",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":5299,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

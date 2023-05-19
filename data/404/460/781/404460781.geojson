@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moiano",
+    "eurostat:nuts_2021_id":"062040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062040",
+    "eurostat:population":4129,
+    "eurostat:population_year":2020,
     "geom:area":0.002155,
-    "geom:area_square_m":20087558.09814,
+    "geom:area_square_m":20087558.098144,
     "geom:bbox":"14.5029808452,41.0477985291,14.5892068643,41.1123711797",
     "geom:latitude":41.081176,
     "geom:longitude":14.540286,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062040",
+        "eurostat:nuts_2021_id":"062040",
         "gn:id":6539989,
         "gp:id":12680066,
         "qs_pg:id":1195744
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"059de29661fce211774103669ed29a3d",
+    "wof:geomhash":"3a8586297b8ed2a027efcc63896649fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460781,
-    "wof:lastmodified":1582328019,
+    "wof:lastmodified":1684353725,
     "wof:name":"Moiano",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":4129,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

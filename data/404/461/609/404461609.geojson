@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genazzano",
+    "eurostat:nuts_2021_id":"058042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058042",
+    "eurostat:population":5805,
+    "eurostat:population_year":2020,
     "geom:area":0.003468,
-    "geom:area_square_m":31959695.611972,
+    "geom:area_square_m":31959695.611967,
     "geom:bbox":"12.9506076573,41.7664068086,13.0140348454,41.8618080153",
     "geom:latitude":41.813531,
     "geom:longitude":12.981488,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058042",
+        "eurostat:nuts_2021_id":"058042",
         "gn:id":6536949,
         "gp:id":12679530,
         "qs_pg:id":1122914
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0bd7e26a7509d9915d1018ac0303bbe",
+    "wof:geomhash":"218d6702d88c57ca621368671f3c2a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461609,
-    "wof:lastmodified":1582328146,
+    "wof:lastmodified":1684353742,
     "wof:name":"Genazzano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":5805,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

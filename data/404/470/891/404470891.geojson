@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vigolo",
+    "eurostat:nuts_2021_id":"016237",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016237",
+    "eurostat:population":579,
+    "eurostat:population_year":2020,
     "geom:area":0.001424,
-    "geom:area_square_m":12289246.057481,
+    "geom:area_square_m":12289246.05748,
     "geom:bbox":"9.98608394125,45.699199955,10.0430146491,45.7433376286",
     "geom:latitude":45.720806,
     "geom:longitude":10.007429,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016237",
+        "eurostat:nuts_2021_id":"016237",
         "gn:id":6539784,
         "gp:id":12682428,
         "qs_pg:id":948929
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"483af7c482d3f1f4ea8eae031ea8c9bf",
+    "wof:geomhash":"3b233c5f0d74b094bf16cd1d2f078533",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404470891,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353929,
     "wof:name":"Vigolo",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":579,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

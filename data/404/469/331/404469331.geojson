@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Missaglia",
+    "eurostat:nuts_2021_id":"097049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097049",
+    "eurostat:population":8787,
+    "eurostat:population_year":2020,
     "geom:area":0.001332,
     "geom:area_square_m":11501292.399751,
     "geom:bbox":"9.32267694969,45.6769240501,9.36896619568,45.7272973907",
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097049",
+        "eurostat:nuts_2021_id":"097049",
         "gn:id":3173350,
         "gp:id":12680349,
         "qs_pg:id":243072
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf36b29146bd7f5f83f00dc65138eb6b",
+    "wof:geomhash":"c79d271ab347e70428b7cfd7d9a052bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404469331,
-    "wof:lastmodified":1582328023,
+    "wof:lastmodified":1684353902,
     "wof:name":"Missaglia",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":8787,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

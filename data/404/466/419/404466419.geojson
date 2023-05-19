@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venetico",
+    "eurostat:nuts_2021_id":"083104",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083104",
+    "eurostat:population":4008,
+    "eurostat:population_year":2020,
     "geom:area":0.000461,
-    "geom:area_square_m":4483468.225974,
+    "geom:area_square_m":4483468.225976,
     "geom:bbox":"15.3566953693,38.1836292245,15.3886613518,38.2235463025",
     "geom:latitude":38.203902,
     "geom:longitude":15.373656,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083104",
+        "eurostat:nuts_2021_id":"083104",
         "gn:id":6540296,
         "gp:id":12681694,
         "qs_pg:id":333210
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfccb87fa0250a6b51181f953f056f32",
+    "wof:geomhash":"fdd535e272d674f3b9e50dde07ef1ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466419,
-    "wof:lastmodified":1582328200,
+    "wof:lastmodified":1684353848,
     "wof:name":"Venetico",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":4008,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Gavino Monreale",
+    "eurostat:nuts_2021_id":"111062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111062",
+    "eurostat:population":8400,
+    "eurostat:population_year":2020,
     "geom:area":0.009166,
-    "geom:area_square_m":87390925.573726,
+    "geom:area_square_m":87390925.573727,
     "geom:bbox":"8.70730180349,39.5035834119,8.85509788489,39.598122602",
     "geom:latitude":39.550243,
     "geom:longitude":8.777249,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111062",
+        "eurostat:nuts_2021_id":"111062",
         "gn:id":6539298,
         "gp:id":12681622,
         "qs_pg:id":51363
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"283b10621bb0788338c3f27bf92b3150",
+    "wof:geomhash":"4a6a8d7f3398c98678ae55f851117814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467303,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353871,
     "wof:name":"San Gavino Monreale",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":8400,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Filippo del Mela",
+    "eurostat:nuts_2021_id":"083077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083077",
+    "eurostat:population":6907,
+    "eurostat:population_year":2020,
     "geom:area":0.001027,
-    "geom:area_square_m":9978064.553405,
+    "geom:area_square_m":9978064.553402,
     "geom:bbox":"15.2531468782,38.1588510903,15.2930745246,38.2070548461",
     "geom:latitude":38.183149,
     "geom:longitude":15.276995,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083077",
+        "eurostat:nuts_2021_id":"083077",
         "gn:id":6542272,
         "gp:id":12680754,
         "qs_pg:id":1013925
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c78f1167f28f862a4534edc1832af748",
+    "wof:geomhash":"90feac8f2a83cb8bfa0b82c73959453c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466357,
-    "wof:lastmodified":1582328198,
+    "wof:lastmodified":1684353847,
     "wof:name":"San Filippo Del Mela",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":6907,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

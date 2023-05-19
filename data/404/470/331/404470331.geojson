@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pernumia",
+    "eurostat:nuts_2021_id":"028061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028061",
+    "eurostat:population":3818,
+    "eurostat:population_year":2020,
     "geom:area":0.00151,
-    "geom:area_square_m":13145725.072842,
+    "geom:area_square_m":13145725.07284,
     "geom:bbox":"11.7729500162,45.240087258,11.8491782886,45.287511958",
     "geom:latitude":45.262976,
     "geom:longitude":11.799364,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_028061",
+        "eurostat:nuts_2021_id":"028061"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"067ac00a454f303a256b272e53ca855e",
+    "wof:geomhash":"96e61d324d5805805ba3477cee0812ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404470331,
-    "wof:lastmodified":1566723130,
+    "wof:lastmodified":1684353920,
     "wof:name":"Pernumia",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3818,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

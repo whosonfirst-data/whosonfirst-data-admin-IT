@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portoscuso",
+    "eurostat:nuts_2021_id":"111057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111057",
+    "eurostat:population":4998,
+    "eurostat:population_year":2020,
     "geom:area":0.003975,
-    "geom:area_square_m":38087604.916652,
+    "geom:area_square_m":38087604.916658,
     "geom:bbox":"8.35526125192,39.1501872181,8.45645787407,39.2485260142",
     "geom:latitude":39.201279,
     "geom:longitude":8.411856,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111057",
+        "eurostat:nuts_2021_id":"111057",
         "gn:id":6537905,
         "gp:id":20076837,
         "qs_pg:id":248824
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66db3a28b32b3903d1d2028503973c1c",
+    "wof:geomhash":"129c182c656af7886a7fa839bea1dfbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467369,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353873,
     "wof:name":"Portoscuso",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":4998,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

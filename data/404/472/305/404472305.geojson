@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marzabotto",
+    "eurostat:nuts_2021_id":"037036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037036",
+    "eurostat:population":6831,
+    "eurostat:population_year":2020,
     "geom:area":0.00841,
-    "geom:area_square_m":74381449.917672,
+    "geom:area_square_m":74381449.917671,
     "geom:bbox":"11.1237054858,44.2816976585,11.2823930801,44.3863357237",
     "geom:latitude":44.338441,
     "geom:longitude":11.202417,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_037036",
+        "eurostat:nuts_2021_id":"037036"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"46c7299e894be3d4ba91c94f37fe781c",
+    "wof:geomhash":"7489e6658c5c41b826d896a5a3d775a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404472305,
-    "wof:lastmodified":1566723371,
+    "wof:lastmodified":1684353957,
     "wof:name":"Marzabotto",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":6831,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

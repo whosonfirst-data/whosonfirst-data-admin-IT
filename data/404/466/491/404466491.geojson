@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Empedocle",
+    "eurostat:nuts_2021_id":"084028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084028",
+    "eurostat:population":16300,
+    "eurostat:population_year":2020,
     "geom:area":0.002556,
-    "geom:area_square_m":25137667.393785,
+    "geom:area_square_m":25137667.393789,
     "geom:bbox":"13.4611698473,37.2751003201,13.5511390821,37.3429292197",
     "geom:latitude":37.310503,
     "geom:longitude":13.507025,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084028",
+        "eurostat:nuts_2021_id":"084028",
         "gn:id":6541341,
         "gp:id":12681237,
         "qs_pg:id":241668
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f28c88ccfc0bca06a2df4778661d937f",
+    "wof:geomhash":"5301835f7f17d92594f4631fcd07ada0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466491,
-    "wof:lastmodified":1582328193,
+    "wof:lastmodified":1684353850,
     "wof:name":"Porto Empedocle",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":16300,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

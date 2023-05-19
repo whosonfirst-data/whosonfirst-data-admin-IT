@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_045016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca in Lunigiana",
+    "eurostat:nuts_2021_id":"045016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI11",
+    "eurostat:nuts_2021_level_lau":"045016",
+    "eurostat:population":4675,
+    "eurostat:population_year":2020,
     "geom:area":0.003308,
-    "geom:area_square_m":29281022.027825,
+    "geom:area_square_m":29281022.027834,
     "geom:bbox":"9.94076338653,44.2428019341,10.0001563218,44.3480649868",
     "geom:latitude":44.289839,
     "geom:longitude":9.965179,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_045016",
+        "eurostat:nuts_2021_id":"045016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"029dcb92d4215b9f43add7367b208432",
+    "wof:geomhash":"d3f76e070274af97df458ff687a2a14b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404472605,
-    "wof:lastmodified":1566723356,
+    "wof:lastmodified":1684353965,
     "wof:name":"Villafranca In Lunigiana",
     "wof:parent_id":85685395,
     "wof:placetype":"localadmin",
+    "wof:population":4675,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

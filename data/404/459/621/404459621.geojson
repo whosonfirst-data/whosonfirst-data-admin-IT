@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valfabbrica",
+    "eurostat:nuts_2021_id":"054057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054057",
+    "eurostat:population":3286,
+    "eurostat:population_year":2020,
     "geom:area":0.010205,
-    "geom:area_square_m":92020202.77676,
+    "geom:area_square_m":92020202.776766,
     "geom:bbox":"12.5520963718,43.1283107354,12.7137952222,43.2401475955",
     "geom:latitude":43.17957,
     "geom:longitude":12.633711,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054057",
+        "eurostat:nuts_2021_id":"054057",
         "gn:id":3164916,
         "gp:id":12677780,
         "qs_pg:id":287946
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89323da7bcb0ef515404d9a95fb3792a",
+    "wof:geomhash":"0510ae19cdd8d0932496fd1a2de3c930",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459621,
-    "wof:lastmodified":1582328157,
+    "wof:lastmodified":1684353697,
     "wof:name":"Valfabbrica",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":3286,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

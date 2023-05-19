@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guidizzolo",
+    "eurostat:nuts_2021_id":"020028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020028",
+    "eurostat:population":6000,
+    "eurostat:population_year":2020,
     "geom:area":0.002569,
-    "geom:area_square_m":22338203.958957,
+    "geom:area_square_m":22338203.958956,
     "geom:bbox":"10.5372024542,45.2792252437,10.6039888032,45.3423530804",
     "geom:latitude":45.308825,
     "geom:longitude":10.570936,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020028",
+        "eurostat:nuts_2021_id":"020028",
         "gn:id":6537236,
         "gp:id":12679733,
         "qs_pg:id":1196008
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f77f44732e2df7484da2efeff6c98663",
+    "wof:geomhash":"5dffeb1025ec15e1c9489075d545d784",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469127,
-    "wof:lastmodified":1582328031,
+    "wof:lastmodified":1684353899,
     "wof:name":"Guidizzolo",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":6000,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

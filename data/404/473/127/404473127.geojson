@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laces/Latsch",
+    "eurostat:nuts_2021_id":"021037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021037",
+    "eurostat:population":5198,
+    "eurostat:population_year":2020,
     "geom:area":0.009243,
-    "geom:area_square_m":78530563.826875,
+    "geom:area_square_m":78530563.826879,
     "geom:bbox":"10.7870067457,46.5415008953,10.9304102487,46.6663687076",
     "geom:latitude":46.601197,
     "geom:longitude":10.857453,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021037",
+        "eurostat:nuts_2021_id":"021037",
         "gp:id":12679117,
         "qs_pg:id":507969
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b757d84bbb6dc792bb2b99ac5a717bf",
+    "wof:geomhash":"0386373c7b2018a7d294fd042babcc76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473127,
-    "wof:lastmodified":1582327921,
+    "wof:lastmodified":1684353979,
     "wof:name":"Laces",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":5198,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

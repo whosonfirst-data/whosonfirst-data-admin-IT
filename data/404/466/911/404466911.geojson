@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallermosa",
+    "eurostat:nuts_2021_id":"111095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111095",
+    "eurostat:population":1874,
+    "eurostat:population_year":2020,
     "geom:area":0.006459,
-    "geom:area_square_m":61748267.309595,
+    "geom:area_square_m":61748267.309597,
     "geom:bbox":"8.69933751423,39.3265221853,8.85056372864,39.4066477742",
     "geom:latitude":39.366329,
     "geom:longitude":8.77659,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111095",
+        "eurostat:nuts_2021_id":"111095",
         "gn:id":6537919,
         "gp:id":12682352,
         "qs_pg:id":976947
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae53569c3efef802d2abee7b37fee900",
+    "wof:geomhash":"663176e871e7eda8004c37846becae2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466911,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353861,
     "wof:name":"Vallermosa",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1874,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

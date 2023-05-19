@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_088011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scicli",
+    "eurostat:nuts_2021_id":"088011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG18",
+    "eurostat:nuts_2021_level_lau":"088011",
+    "eurostat:population":26837,
+    "eurostat:population_year":2020,
     "geom:area":0.013925,
-    "geom:area_square_m":137916996.691815,
+    "geom:area_square_m":137916996.691821,
     "geom:bbox":"14.5941201141,36.7098935729,14.7734630074,36.8399251524",
     "geom:latitude":36.776484,
     "geom:longitude":14.697896,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_088011",
+        "eurostat:nuts_2021_id":"088011",
         "gn:id":6537816,
         "gp:id":12677882,
         "qs_pg:id":213746
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"710574a13a1f1fe67e2153496f8650ab",
+    "wof:geomhash":"ad225c6693ad1cfc78c521c54611b927",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466667,
-    "wof:lastmodified":1582328191,
+    "wof:lastmodified":1684353854,
     "wof:name":"Scicli",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":26837,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

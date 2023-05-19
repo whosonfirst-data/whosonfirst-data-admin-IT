@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rovereto",
+    "eurostat:nuts_2021_id":"022161",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022161",
+    "eurostat:population":40285,
+    "eurostat:population_year":2020,
     "geom:area":0.005908,
-    "geom:area_square_m":50873907.726626,
+    "geom:area_square_m":50873907.726612,
     "geom:bbox":"10.9965143535,45.7991896436,11.1240725389,45.9189463186",
     "geom:latitude":45.865197,
     "geom:longitude":11.045832,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022161",
+        "eurostat:nuts_2021_id":"022161",
         "gn:id":6539916,
         "gp:id":12675886,
         "qs_pg:id":388616
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1189bde1c5fa4eb7bb3c2e041c3342a9",
+    "wof:geomhash":"d22aa989a02862535f037a731514683d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404471609,
-    "wof:lastmodified":1582327731,
+    "wof:lastmodified":1684353942,
     "wof:name":"Rovereto",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":40285,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

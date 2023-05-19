@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbania",
+    "eurostat:nuts_2021_id":"001021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001021",
+    "eurostat:population":1598,
+    "eurostat:population_year":2020,
     "geom:area":0.001469,
     "geom:area_square_m":12780986.120352,
     "geom:bbox":"7.58494337544,45.2805559368,7.65999836838,45.3086300168",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001021",
+        "eurostat:nuts_2021_id":"001021",
         "gn:id":6538037,
         "gp:id":12676538,
         "qs_pg:id":39059
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5109ee4cc3a1bd4501b730a85bdb62ae",
+    "wof:geomhash":"123b409d78f3b1907aafbd51ba784fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456221,
-    "wof:lastmodified":1582328050,
+    "wof:lastmodified":1684353619,
     "wof:name":"Barbania",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1598,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Airola",
+    "eurostat:nuts_2021_id":"062001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062001",
+    "eurostat:population":8204,
+    "eurostat:population_year":2020,
     "geom:area":0.001588,
-    "geom:area_square_m":14810974.793135,
+    "geom:area_square_m":14810974.793136,
     "geom:bbox":"14.5239690626,41.0414151031,14.5976517647,41.0743329782",
     "geom:latitude":41.057435,
     "geom:longitude":14.564322,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062001",
+        "eurostat:nuts_2021_id":"062001",
         "gn:id":6537314,
         "gp:id":12675860,
         "qs_pg:id":270798
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e14664ae5b6e8de01f7ecd79182bb07",
+    "wof:geomhash":"e84bace67592951d4613237422c0e8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404460695,
-    "wof:lastmodified":1582328004,
+    "wof:lastmodified":1684353723,
     "wof:name":"Airola",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":8204,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

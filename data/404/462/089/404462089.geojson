@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barrea",
+    "eurostat:nuts_2021_id":"066010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066010",
+    "eurostat:population":713,
+    "eurostat:population_year":2020,
     "geom:area":0.0094,
-    "geom:area_square_m":86689717.572898,
+    "geom:area_square_m":86689717.572896,
     "geom:bbox":"13.8977134072,41.703489909,14.0358631881,41.8456592208",
     "geom:latitude":41.768047,
     "geom:longitude":13.978147,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066010",
+        "eurostat:nuts_2021_id":"066010",
         "gn:id":6541198,
         "gp:id":12676594,
         "qs_pg:id":76140
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1487bf174923b208fb3b9790d236b990",
+    "wof:geomhash":"65657a9cc5b0fad2b75bba26b532c063",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462089,
-    "wof:lastmodified":1582327866,
+    "wof:lastmodified":1684353752,
     "wof:name":"Barrea",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":713,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

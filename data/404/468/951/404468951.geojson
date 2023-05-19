@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paderno Ponchielli",
+    "eurostat:nuts_2021_id":"019065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019065",
+    "eurostat:population":1404,
+    "eurostat:population_year":2020,
     "geom:area":0.002747,
-    "geom:area_square_m":23925040.224125,
+    "geom:area_square_m":23925040.224119,
     "geom:bbox":"9.89453685094,45.1940157358,9.95282536764,45.2725632438",
     "geom:latitude":45.2308,
     "geom:longitude":9.926513,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019065",
+        "eurostat:nuts_2021_id":"019065",
         "gn:id":6542208,
         "gp:id":12680862,
         "qs_pg:id":288180
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"06c48856dcd22d41088f90d195fcf300",
+    "wof:geomhash":"df85201a154be3699ed3fc7791d7ccfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468951,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353897,
     "wof:name":"Paderno Ponchielli",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1404,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

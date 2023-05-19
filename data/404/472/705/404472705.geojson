@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massa e Cozzile",
+    "eurostat:nuts_2021_id":"047008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047008",
+    "eurostat:population":7875,
+    "eurostat:population_year":2020,
     "geom:area":0.001795,
-    "geom:area_square_m":15990409.243876,
+    "geom:area_square_m":15990409.243874,
     "geom:bbox":"10.7292696244,43.8561353403,10.7702051828,43.9432184882",
     "geom:latitude":43.906368,
     "geom:longitude":10.751777,
@@ -41,6 +53,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -49,6 +63,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047008",
+        "eurostat:nuts_2021_id":"047008",
         "gn:id":6540264,
         "gp:id":12680225,
         "qs_pg:id":1059646
@@ -57,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a3526ffa04d71058e9ef1d12153258d",
+    "wof:geomhash":"ada41aacd4a2e4751eae08867b224230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404472705,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353967,
     "wof:name":"Massa E Cozzile",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":7875,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

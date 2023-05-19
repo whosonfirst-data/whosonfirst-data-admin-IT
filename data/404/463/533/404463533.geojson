@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ornago",
+    "eurostat:nuts_2021_id":"108036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108036",
+    "eurostat:population":5223,
+    "eurostat:population_year":2020,
     "geom:area":0.000679,
-    "geom:area_square_m":5875446.965526,
+    "geom:area_square_m":5875446.965525,
     "geom:bbox":"9.39799893219,45.5893789781,9.45021009672,45.6113637339",
     "geom:latitude":45.599028,
     "geom:longitude":9.42139,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108036",
+        "eurostat:nuts_2021_id":"108036",
         "gn:id":6537125,
         "gp:id":12680801,
         "qs_pg:id":378390
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c5f19a5ace6d76afc5f8086d637a616",
+    "wof:geomhash":"8f0bd119db79487e8032b95c28b76e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463533,
-    "wof:lastmodified":1582327761,
+    "wof:lastmodified":1684353782,
     "wof:name":"Ornago",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":5223,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

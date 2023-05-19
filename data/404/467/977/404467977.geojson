@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brunate",
+    "eurostat:nuts_2021_id":"013032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013032",
+    "eurostat:population":1685,
+    "eurostat:population_year":2020,
     "geom:area":0.000235,
-    "geom:area_square_m":2021937.612232,
+    "geom:area_square_m":2021937.612231,
     "geom:bbox":"9.08365019042,45.81108121,9.11488647859,45.8285643337",
     "geom:latitude":45.821398,
     "geom:longitude":9.09979,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013032",
+        "eurostat:nuts_2021_id":"013032",
         "gn:id":6536109,
         "gp:id":12677146,
         "qs_pg:id":191455
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34973d29dd46a935b73b68625d041ef7",
+    "wof:geomhash":"dee23e9b3a8ca6fe8abe9ceb45e2cd30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467977,
-    "wof:lastmodified":1582327975,
+    "wof:lastmodified":1684353882,
     "wof:name":"Brunate",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1685,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

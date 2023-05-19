@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fuscaldo",
+    "eurostat:nuts_2021_id":"078058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078058",
+    "eurostat:population":8168,
+    "eurostat:population_year":2020,
     "geom:area":0.006308,
-    "geom:area_square_m":60246235.382826,
+    "geom:area_square_m":60246235.382838,
     "geom:bbox":"15.9917204225,39.3846139046,16.0874032277,39.4860499913",
     "geom:latitude":39.436214,
     "geom:longitude":16.040581,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078058",
+        "eurostat:nuts_2021_id":"078058"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0a2e20835b4982b201ddfce49359bdb2",
+    "wof:geomhash":"534708fff3931e2394805d865e495ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464175,
-    "wof:lastmodified":1566723227,
+    "wof:lastmodified":1684353799,
     "wof:name":"Fuscaldo",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":8168,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

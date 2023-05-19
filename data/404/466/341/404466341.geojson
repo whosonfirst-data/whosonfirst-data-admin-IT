@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reitano",
+    "eurostat:nuts_2021_id":"083070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083070",
+    "eurostat:population":749,
+    "eurostat:population_year":2020,
     "geom:area":0.001441,
-    "geom:area_square_m":14044885.074448,
+    "geom:area_square_m":14044885.07445,
     "geom:bbox":"14.3248691836,37.9522792029,14.3614498941,38.0190014472",
     "geom:latitude":37.98157,
     "geom:longitude":14.33894,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083070",
+        "eurostat:nuts_2021_id":"083070",
         "gn:id":6541333,
         "gp:id":12681347,
         "qs_pg:id":947284
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5a8a9a2f250b10760758dd6b498785e",
+    "wof:geomhash":"13af9f14d45e02372a36c356b9557ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466341,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353847,
     "wof:name":"Reitano",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":749,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fara Vicentino",
+    "eurostat:nuts_2021_id":"024040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024040",
+    "eurostat:population":3787,
+    "eurostat:population_year":2020,
     "geom:area":0.001754,
-    "geom:area_square_m":15137177.334736,
+    "geom:area_square_m":15137177.334732,
     "geom:bbox":"11.5344439635,45.7053515087,11.5944180054,45.7641313679",
     "geom:latitude":45.735618,
     "geom:longitude":11.55986,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024040",
+        "eurostat:nuts_2021_id":"024040",
         "gn:id":6541569,
         "gp:id":12681538,
         "qs_pg:id":333200
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33763982fd2ea57e79eae1823862881d",
+    "wof:geomhash":"5d967971a822e31cc92a9c2327e1df47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463587,
-    "wof:lastmodified":1582327776,
+    "wof:lastmodified":1684353783,
     "wof:name":"Fara Vicentino",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":3787,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

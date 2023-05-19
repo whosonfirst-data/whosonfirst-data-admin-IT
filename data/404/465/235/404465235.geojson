@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capriglia Irpina",
+    "eurostat:nuts_2021_id":"064018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064018",
+    "eurostat:population":2340,
+    "eurostat:population_year":2020,
     "geom:area":0.000797,
-    "geom:area_square_m":7441458.337682,
+    "geom:area_square_m":7441458.337684,
     "geom:bbox":"14.7530381424,40.9365197491,14.8001966085,40.9743446653",
     "geom:latitude":40.956455,
     "geom:longitude":14.778504,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064018",
+        "eurostat:nuts_2021_id":"064018",
         "gn:id":6542192,
         "gp:id":12677620,
         "qs_pg:id":1016781
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"553d048a6625f48c05b0a1a336c35ccd",
+    "wof:geomhash":"04ab3fa82bd9aa042ec421126dbb21fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465235,
-    "wof:lastmodified":1582327831,
+    "wof:lastmodified":1684353828,
     "wof:name":"Capriglia Irpina",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":2340,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ripi",
+    "eurostat:nuts_2021_id":"060058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060058",
+    "eurostat:population":5223,
+    "eurostat:population_year":2020,
     "geom:area":0.003405,
-    "geom:area_square_m":31489649.894109,
+    "geom:area_square_m":31489649.894113,
     "geom:bbox":"13.3986843451,41.5584326107,13.4874170395,41.636577988",
     "geom:latitude":41.596527,
     "geom:longitude":13.442919,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060058",
+        "eurostat:nuts_2021_id":"060058",
         "gn:id":6536992,
         "gp:id":12681385,
         "qs_pg:id":333138
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3eb258da464bf1d95e1bf60a8b105cd9",
+    "wof:geomhash":"1ef60b9d7f0058177a107277553e8600",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461993,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353750,
     "wof:name":"Ripi",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":5223,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

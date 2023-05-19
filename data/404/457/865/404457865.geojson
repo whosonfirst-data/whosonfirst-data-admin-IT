@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baldissero d'Alba",
+    "eurostat:nuts_2021_id":"004010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004010",
+    "eurostat:population":1066,
+    "eurostat:population_year":2020,
     "geom:area":0.001743,
-    "geom:area_square_m":15303004.231608,
+    "geom:area_square_m":15303004.23161,
     "geom:bbox":"7.8360345803,44.7354650567,7.93971127998,44.7880862354",
     "geom:latitude":44.765179,
     "geom:longitude":7.88988,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004010",
+        "eurostat:nuts_2021_id":"004010"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b2d67834de09360809bf771ff25c0e72",
+    "wof:geomhash":"dca6181c797bc0aa62f15a1549fdb305",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404457865,
-    "wof:lastmodified":1566723673,
+    "wof:lastmodified":1684353658,
     "wof:name":"Baldissero D'Alba",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":1066,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

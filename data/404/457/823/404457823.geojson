@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Suno",
+    "eurostat:nuts_2021_id":"003143",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003143",
+    "eurostat:population":2731,
+    "eurostat:population_year":2020,
     "geom:area":0.002463,
-    "geom:area_square_m":21294652.265871,
+    "geom:area_square_m":21294652.265872,
     "geom:bbox":"8.50581687664,45.6010003555,8.58664833285,45.649850602",
     "geom:latitude":45.627209,
     "geom:longitude":8.54582,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003143",
+        "eurostat:nuts_2021_id":"003143",
         "gn:id":6538136,
         "gp:id":12682119,
         "qs_pg:id":538130
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7dc84207a6e180cb448d4bb069e2cb7b",
+    "wof:geomhash":"2642cd584948958a47e9397b067a642e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457823,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353657,
     "wof:name":"Suno",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":2731,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

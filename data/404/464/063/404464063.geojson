@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altilia",
+    "eurostat:nuts_2021_id":"078008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078008",
+    "eurostat:population":684,
+    "eurostat:population_year":2020,
     "geom:area":0.00109,
-    "geom:area_square_m":10458793.727821,
+    "geom:area_square_m":10458793.727819,
     "geom:bbox":"16.2382958703,39.0980037337,16.2854760035,39.1492656113",
     "geom:latitude":39.127094,
     "geom:longitude":16.257384,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078008",
+        "eurostat:nuts_2021_id":"078008"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"07e737b16dd8aeac6c86cc0f9f983278",
+    "wof:geomhash":"ea5ce149b32c04267bff988728681469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464063,
-    "wof:lastmodified":1566723222,
+    "wof:lastmodified":1684353796,
     "wof:name":"Altilia",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":684,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

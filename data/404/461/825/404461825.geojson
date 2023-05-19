@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontinia",
+    "eurostat:nuts_2021_id":"059017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059017",
+    "eurostat:population":14894,
+    "eurostat:population_year":2020,
     "geom:area":0.012045,
-    "geom:area_square_m":111720705.735009,
+    "geom:area_square_m":111720705.735014,
     "geom:bbox":"12.9989540057,41.3286496085,13.1932178229,41.4599214314",
     "geom:latitude":41.4026,
     "geom:longitude":13.11205,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059017",
+        "eurostat:nuts_2021_id":"059017",
         "gn:id":6541618,
         "gp:id":12676956,
         "qs_pg:id":213496
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d91402921d346f2dbdfdf485ed4639bb",
+    "wof:geomhash":"90ec93965aee450f30996a41c1fb7fbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461825,
-    "wof:lastmodified":1582328143,
+    "wof:lastmodified":1684353747,
     "wof:name":"Pontinia",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":14894,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

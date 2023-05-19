@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gemonio",
+    "eurostat:nuts_2021_id":"012074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012074",
+    "eurostat:population":2882,
+    "eurostat:population_year":2020,
     "geom:area":0.000426,
     "geom:area_square_m":3668928.892285,
     "geom:bbox":"8.6638203125,45.8677998926,8.69928467347,45.8917990643",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012074",
+        "eurostat:nuts_2021_id":"012074",
         "gn:id":6540568,
         "gp:id":12679528,
         "qs_pg:id":40933
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"992a01a55817b30213ee4d56f462910f",
+    "wof:geomhash":"39e6df7946daf24a020bc0f3bc6b7c83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467777,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353879,
     "wof:name":"Gemonio",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":2882,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

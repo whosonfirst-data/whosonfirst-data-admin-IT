@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001300",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villafranca Piemonte",
+    "eurostat:nuts_2021_id":"001300",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001300",
+    "eurostat:population":4602,
+    "eurostat:population_year":2020,
     "geom:area":0.005778,
-    "geom:area_square_m":50701794.608192,
+    "geom:area_square_m":50701794.608184,
     "geom:bbox":"7.40939696895,44.7558843056,7.56732852916,44.8257123458",
     "geom:latitude":44.795604,
     "geom:longitude":7.484981,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001300",
+        "eurostat:nuts_2021_id":"001300",
         "gn:id":6542075,
         "gp:id":12678030,
         "qs_pg:id":960044
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc1c5f38784aaacf969c1fb5e96335a5",
+    "wof:geomhash":"e29d93a73b8d58c0f56201fd383673c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457419,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353649,
     "wof:name":"Villafranca Piemonte",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4602,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

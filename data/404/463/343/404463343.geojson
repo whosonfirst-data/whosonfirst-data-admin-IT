@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lequile",
+    "eurostat:nuts_2021_id":"075036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075036",
+    "eurostat:population":8704,
+    "eurostat:population_year":2020,
     "geom:area":0.003843,
-    "geom:area_square_m":36253592.971884,
+    "geom:area_square_m":36253592.971887,
     "geom:bbox":"18.0862242407,40.2360289244,18.1725829581,40.3300306458",
     "geom:latitude":40.274749,
     "geom:longitude":18.133329,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075036",
+        "eurostat:nuts_2021_id":"075036",
         "gn:id":6540764,
         "gp:id":12679121,
         "qs_pg:id":968265
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25afa8e545fd33b7fe829fbf929a7508",
+    "wof:geomhash":"2f89ded3651aa4cd2db63d6e73034fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463343,
-    "wof:lastmodified":1582327790,
+    "wof:lastmodified":1684353778,
     "wof:name":"Lequile",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":8704,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

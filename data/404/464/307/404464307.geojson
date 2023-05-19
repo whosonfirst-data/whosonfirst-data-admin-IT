@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sangineto",
+    "eurostat:nuts_2021_id":"078117",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078117",
+    "eurostat:population":1269,
+    "eurostat:population_year":2020,
     "geom:area":0.002863,
-    "geom:area_square_m":27269402.688114,
+    "geom:area_square_m":27269402.688121,
     "geom:bbox":"15.8601419636,39.5774082012,15.95573926,39.6426819937",
     "geom:latitude":39.610818,
     "geom:longitude":15.912645,
@@ -122,6 +134,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -129,9 +143,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078117",
+        "eurostat:nuts_2021_id":"078117"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"27f1eca978a875a0c1d2d90f0fb2c34c",
+    "wof:geomhash":"bdf40aa8a9dc0ef6ea15c9232ba0c8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404464307,
-    "wof:lastmodified":1566723207,
+    "wof:lastmodified":1684353802,
     "wof:name":"Sangineto",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1269,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

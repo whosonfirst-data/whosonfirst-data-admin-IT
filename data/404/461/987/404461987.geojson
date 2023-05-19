@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontecorvo",
+    "eurostat:nuts_2021_id":"060056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060056",
+    "eurostat:population":12754,
+    "eurostat:population_year":2020,
     "geom:area":0.009541,
-    "geom:area_square_m":88426833.260717,
+    "geom:area_square_m":88426833.260722,
     "geom:bbox":"13.5522162023,41.400291809,13.7378998978,41.5047588568",
     "geom:latitude":41.448129,
     "geom:longitude":13.645063,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060056",
+        "eurostat:nuts_2021_id":"060056",
         "gn:id":6540539,
         "gp:id":12681212,
         "qs_pg:id":246981
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a1d98e9e97a157bb9b537a66a0aa2ce",
+    "wof:geomhash":"ce24851576003ce4031bd5dca9455240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461987,
-    "wof:lastmodified":1582328148,
+    "wof:lastmodified":1684353750,
     "wof:name":"Pontecorvo",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":12754,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

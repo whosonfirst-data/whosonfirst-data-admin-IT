@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cencenighe Agordino",
+    "eurostat:nuts_2021_id":"025010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025010",
+    "eurostat:population":1260,
+    "eurostat:population_year":2020,
     "geom:area":0.002118,
-    "geom:area_square_m":18077242.896993,
+    "geom:area_square_m":18077242.896992,
     "geom:bbox":"11.9273139408,46.3251750315,12.0036196515,46.3693309979",
     "geom:latitude":46.346118,
     "geom:longitude":11.969596,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025010",
+        "eurostat:nuts_2021_id":"025010",
         "gn:id":6542249,
         "gp:id":12678459,
         "qs_pg:id":244958
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f3b00938980aef2e5109a0b8121b945a",
+    "wof:geomhash":"75e7be78249ed2f2d9c44d93ef7a74cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469863,
-    "wof:lastmodified":1582328041,
+    "wof:lastmodified":1684353911,
     "wof:name":"Cencenighe Agordino",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1260,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

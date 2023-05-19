@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino in Rio",
+    "eurostat:nuts_2021_id":"035037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035037",
+    "eurostat:population":8201,
+    "eurostat:population_year":2020,
     "geom:area":0.002581,
-    "geom:area_square_m":22677522.397243,
+    "geom:area_square_m":22677522.39724,
     "geom:bbox":"10.7395957815,44.6812974694,10.8215724098,44.7451500941",
     "geom:latitude":44.71515,
     "geom:longitude":10.784044,
@@ -32,6 +44,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,6 +54,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035037",
+        "eurostat:nuts_2021_id":"035037",
         "gp:id":12679520,
         "qs_pg:id":1263645
     },
@@ -47,7 +63,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a780b463f68d986f4ff1ec3fa3eec3f",
+    "wof:geomhash":"7d14342f8e5518f61f3c25088bc4ae0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +74,12 @@
         }
     ],
     "wof:id":404457095,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353642,
     "wof:name":"San Martino In Rio",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":8201,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

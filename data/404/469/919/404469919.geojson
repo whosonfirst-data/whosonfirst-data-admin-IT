@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ospitale di Cadore",
+    "eurostat:nuts_2021_id":"025035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025035",
+    "eurostat:population":268,
+    "eurostat:population_year":2020,
     "geom:area":0.004644,
-    "geom:area_square_m":39652641.611577,
+    "geom:area_square_m":39652641.611579,
     "geom:bbox":"12.2596571327,46.2923714338,12.3715057383,46.3662697741",
     "geom:latitude":46.327388,
     "geom:longitude":12.307829,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025035",
+        "eurostat:nuts_2021_id":"025035",
         "gn:id":6536274,
         "gp:id":12680833,
         "qs_pg:id":1018453
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79936df93b9b342299e4a278717c6fda",
+    "wof:geomhash":"1b7df0b2b656a3550dee8aab4764d36a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469919,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353912,
     "wof:name":"Ospitale Di Cadore",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":268,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gerocarne",
+    "eurostat:nuts_2021_id":"102016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102016",
+    "eurostat:population":2034,
+    "eurostat:population_year":2020,
     "geom:area":0.004634,
-    "geom:area_square_m":44794563.067001,
+    "geom:area_square_m":44794563.066983,
     "geom:bbox":"16.1384702686,38.5507691281,16.2927855728,38.6323951533",
     "geom:latitude":38.585806,
     "geom:longitude":16.212508,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102016",
+        "eurostat:nuts_2021_id":"102016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b7d672070b021ff19fd33f4410f75b97",
+    "wof:geomhash":"2fe93a4f20b318f5878ea400cd68a9b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464787,
-    "wof:lastmodified":1566723249,
+    "wof:lastmodified":1684353816,
     "wof:name":"Gerocarne",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":2034,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

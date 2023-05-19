@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Breme",
+    "eurostat:nuts_2021_id":"018022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018022",
+    "eurostat:population":737,
+    "eurostat:population_year":2020,
     "geom:area":0.002154,
-    "geom:area_square_m":18787523.891265,
+    "geom:area_square_m":18787523.891268,
     "geom:bbox":"8.58533742429,45.1023958052,8.65664061493,45.1579208572",
     "geom:latitude":45.132997,
     "geom:longitude":8.622313,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018022",
+        "eurostat:nuts_2021_id":"018022",
         "gn:id":6537189,
         "gp:id":12677086,
         "qs_pg:id":191417
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c88a282934117085af7cc775fdd08ccf",
+    "wof:geomhash":"aa3c467c231fe381539728f9337c2726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458313,
-    "wof:lastmodified":1582327949,
+    "wof:lastmodified":1684353668,
     "wof:name":"Breme",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":737,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

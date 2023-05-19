@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Locana",
+    "eurostat:nuts_2021_id":"001134",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001134",
+    "eurostat:population":1427,
+    "eurostat:population_year":2020,
     "geom:area":0.015245,
     "geom:area_square_m":132275547.182339,
     "geom:bbox":"7.32298682426,45.35778666,7.51159753617,45.5258540614",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001134",
+        "eurostat:nuts_2021_id":"001134",
         "gn:id":6539517,
         "gp:id":12678100,
         "qs_pg:id":1142919
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4239938df9e564d72c1335d3d817bc0a",
+    "wof:geomhash":"eb5a7184fdc4ee378ef7464c4d34d3b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456475,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353625,
     "wof:name":"Locana",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1427,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

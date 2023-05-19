@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plat\u00ec",
+    "eurostat:nuts_2021_id":"080060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080060",
+    "eurostat:population":3768,
+    "eurostat:population_year":2020,
     "geom:area":0.005189,
-    "geom:area_square_m":50408069.138543,
+    "geom:area_square_m":50408069.138537,
     "geom:bbox":"16.0014177595,38.1881164,16.1382979401,38.2566711221",
     "geom:latitude":38.221873,
     "geom:longitude":16.065835,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080060",
+        "eurostat:nuts_2021_id":"080060",
         "gn:id":6537718,
         "gp:id":12678681,
         "qs_pg:id":40460
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2b980ee97ecca1759c4515a08fe2632",
+    "wof:geomhash":"cf2c231fa4e8884d9a1a16027c6a5d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464607,
-    "wof:lastmodified":1582327805,
+    "wof:lastmodified":1684353811,
     "wof:name":"Plat\u00ec",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":3768,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

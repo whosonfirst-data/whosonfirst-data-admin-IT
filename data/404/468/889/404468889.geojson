@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cremosano",
+    "eurostat:nuts_2021_id":"019037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019037",
+    "eurostat:population":1730,
+    "eurostat:population_year":2020,
     "geom:area":0.000662,
-    "geom:area_square_m":5749122.801407,
+    "geom:area_square_m":5749122.801408,
     "geom:bbox":"9.62936327667,45.3744040424,9.66518386063,45.4040492039",
     "geom:latitude":45.389074,
     "geom:longitude":9.645728,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_019037",
+        "eurostat:nuts_2021_id":"019037"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"245d63a800a47c55980b9e92774df7fe",
+    "wof:geomhash":"a94cf17c333644544ee5fe4391811013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404468889,
-    "wof:lastmodified":1566723617,
+    "wof:lastmodified":1684353896,
     "wof:name":"Cremosano",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1730,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

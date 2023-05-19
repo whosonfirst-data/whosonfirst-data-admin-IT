@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cossoine",
+    "eurostat:nuts_2021_id":"090027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090027",
+    "eurostat:population":788,
+    "eurostat:population_year":2020,
     "geom:area":0.004161,
-    "geom:area_square_m":39158621.646544,
+    "geom:area_square_m":39158621.646545,
     "geom:bbox":"8.59332207177,40.4006397001,8.73748028126,40.4831301587",
     "geom:latitude":40.443133,
     "geom:longitude":8.676272,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090027",
+        "eurostat:nuts_2021_id":"090027",
         "gn:id":6541774,
         "gp:id":12678955,
         "qs_pg:id":40616
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a87a761f9023aabce134a7d347a13997",
+    "wof:geomhash":"47809c29bb9c24b2bc9965bd43bf4309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466763,
-    "wof:lastmodified":1582328182,
+    "wof:lastmodified":1684353857,
     "wof:name":"Cossoine",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":788,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villasalto",
+    "eurostat:nuts_2021_id":"111104",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111104",
+    "eurostat:population":1016,
+    "eurostat:population_year":2020,
     "geom:area":0.013655,
-    "geom:area_square_m":130348515.641084,
+    "geom:area_square_m":130348515.641078,
     "geom:bbox":"9.2724900287,39.4103256087,9.49839911429,39.5510355792",
     "geom:latitude":39.468007,
     "geom:longitude":9.394222,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111104",
+        "eurostat:nuts_2021_id":"111104",
         "gn:id":6539318,
         "gp:id":12682486,
         "qs_pg:id":49346
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2e3340fd27aeb8f1213ebe9476ac598",
+    "wof:geomhash":"3263d612f801cf911fe5504098e6d989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466915,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353861,
     "wof:name":"Villasalto",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1016,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

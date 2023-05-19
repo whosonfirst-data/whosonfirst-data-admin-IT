@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aidone",
+    "eurostat:nuts_2021_id":"086002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086002",
+    "eurostat:population":4674,
+    "eurostat:population_year":2020,
     "geom:area":0.021347,
-    "geom:area_square_m":209635829.621193,
+    "geom:area_square_m":209635829.62119,
     "geom:bbox":"14.385992648,37.3486637218,14.6335015052,37.5085459871",
     "geom:latitude":37.420968,
     "geom:longitude":14.497564,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086002",
+        "eurostat:nuts_2021_id":"086002",
         "gn:id":6537793,
         "gp:id":12675847,
         "qs_pg:id":1163402
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6160bf294994f716c0a6d70fec9fd23",
+    "wof:geomhash":"62528aba00b47cf383e8d51ba8f2c94f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466577,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353852,
     "wof:name":"Aidone",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":4674,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

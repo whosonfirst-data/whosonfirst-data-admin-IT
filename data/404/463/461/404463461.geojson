@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Musso",
+    "eurostat:nuts_2021_id":"013160",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013160",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.000432,
     "geom:area_square_m":3699518.7902,
     "geom:bbox":"9.24133585152,46.107455032,9.29512213059,46.121806369",
@@ -89,6 +101,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -97,6 +111,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013160",
+        "eurostat:nuts_2021_id":"013160",
         "gn:id":6536114,
         "gp:id":12680645,
         "qs_pg:id":1009331
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54e09b6edd8e26028a4c121e67a92e85",
+    "wof:geomhash":"7030d1c6c054e94e518bc20009514889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404463461,
-    "wof:lastmodified":1582327785,
+    "wof:lastmodified":1684353781,
     "wof:name":"Musso",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

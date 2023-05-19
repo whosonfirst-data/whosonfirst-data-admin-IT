@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vigolzone",
+    "eurostat:nuts_2021_id":"033045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033045",
+    "eurostat:population":4200,
+    "eurostat:population_year":2020,
     "geom:area":0.004792,
-    "geom:area_square_m":41978760.763023,
+    "geom:area_square_m":41978760.763026,
     "geom:bbox":"9.56799765263,44.8313504309,9.71542957465,44.9483271567",
     "geom:latitude":44.889774,
     "geom:longitude":9.639411,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033045",
+        "eurostat:nuts_2021_id":"033045",
         "gn:id":6536703,
         "gp:id":12676782,
         "qs_pg:id":1059593
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ad474603eda9f25ec26595c99cc987a",
+    "wof:geomhash":"3c4b7c0f31d9ef1cc17734f4bdf3735f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472133,
-    "wof:lastmodified":1582327879,
+    "wof:lastmodified":1684353953,
     "wof:name":"Vigolzone",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":4200,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

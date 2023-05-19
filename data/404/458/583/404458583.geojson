@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serra San Quirico",
+    "eurostat:nuts_2021_id":"042047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042047",
+    "eurostat:population":2671,
+    "eurostat:population_year":2020,
     "geom:area":0.005475,
-    "geom:area_square_m":49155559.10658,
+    "geom:area_square_m":49155559.106583,
     "geom:bbox":"12.9728584206,43.3811313657,13.0926239411,43.4816964196",
     "geom:latitude":43.438872,
     "geom:longitude":13.037394,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042047",
+        "eurostat:nuts_2021_id":"042047",
         "gn:id":6536783,
         "gp:id":12681159,
         "qs_pg:id":1102200
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1e0808435ac14a12ca6b5e1b0940370",
+    "wof:geomhash":"23faa7ebf16d423ec27e9ec379560979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458583,
-    "wof:lastmodified":1582327963,
+    "wof:lastmodified":1684353673,
     "wof:name":"Serra San Quirico",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":2671,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

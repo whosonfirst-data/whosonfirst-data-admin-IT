@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buttigliera Alta",
+    "eurostat:nuts_2021_id":"001045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001045",
+    "eurostat:population":6347,
+    "eurostat:population_year":2020,
     "geom:area":0.000926,
     "geom:area_square_m":8083070.366877,
     "geom:bbox":"7.41736479795,45.0586706502,7.4570847162,45.089693835",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001045",
+        "eurostat:nuts_2021_id":"001045",
         "gn:id":6537263,
         "gp:id":12677214,
         "qs_pg:id":39529
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5699f5613f2c37f6520370e0b28e3080",
+    "wof:geomhash":"6216a376994a693609edbec991582550",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456275,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353620,
     "wof:name":"Buttigliera Alta",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":6347,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

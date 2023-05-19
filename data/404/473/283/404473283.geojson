@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle Aurina/Ahrntal",
+    "eurostat:nuts_2021_id":"021108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021108",
+    "eurostat:population":6015,
+    "eurostat:population_year":2020,
     "geom:area":0.022207,
-    "geom:area_square_m":187317808.522486,
+    "geom:area_square_m":187317808.52249,
     "geom:bbox":"11.8069188082,46.914871023,12.0784908699,47.0617017592",
     "geom:latitude":46.988084,
     "geom:longitude":11.943176,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021108",
+        "eurostat:nuts_2021_id":"021108",
         "gp:id":12678970,
         "qs_pg:id":1169112
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33c5bd685c785dedaa61d0deafb90e7e",
+    "wof:geomhash":"84d225ffdc8bc835603a3e374d1fbe33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473283,
-    "wof:lastmodified":1582327925,
+    "wof:lastmodified":1684353985,
     "wof:name":"Valle Aurina",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":6015,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

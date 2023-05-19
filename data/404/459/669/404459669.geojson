@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montefranco",
+    "eurostat:nuts_2021_id":"055019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055019",
+    "eurostat:population":1298,
+    "eurostat:population_year":2020,
     "geom:area":0.001105,
-    "geom:area_square_m":10055518.609575,
+    "geom:area_square_m":10055518.609574,
     "geom:bbox":"12.7253449172,42.5814895585,12.7815442326,42.6222109891",
     "geom:latitude":42.601993,
     "geom:longitude":12.753693,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055019",
+        "eurostat:nuts_2021_id":"055019",
         "gn:id":6536890,
         "gp:id":12680508,
         "qs_pg:id":287973
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"725f44de966d9a584a7715cbb443c2b0",
+    "wof:geomhash":"985e5c3c0e5c7f9d4d3ae6a5ad417fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459669,
-    "wof:lastmodified":1582328160,
+    "wof:lastmodified":1684353698,
     "wof:name":"Montefranco",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":1298,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

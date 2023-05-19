@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivarolo del Re ed Uniti",
+    "eurostat:nuts_2021_id":"019083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019083",
+    "eurostat:population":1869,
+    "eurostat:population_year":2020,
     "geom:area":0.003123,
-    "geom:area_square_m":27287410.749089,
+    "geom:area_square_m":27287410.749087,
     "geom:bbox":"10.4096225549,45.0137980769,10.5213929075,45.0593753561",
     "geom:latitude":45.036205,
     "geom:longitude":10.469904,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019083",
+        "eurostat:nuts_2021_id":"019083",
         "gn:id":6540196,
         "gp:id":12681397,
         "qs_pg:id":49343
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ee35ab414d28b375338c0dbdfe2ccf9",
+    "wof:geomhash":"6c49c3e9e5d3c7c4be08cf76eadf99a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468993,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353897,
     "wof:name":"Rivarolo Del Re Ed Uniti",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1869,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

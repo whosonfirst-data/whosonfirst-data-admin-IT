@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Partinico",
+    "eurostat:nuts_2021_id":"082054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082054",
+    "eurostat:population":31569,
+    "eurostat:population_year":2020,
     "geom:area":0.011061,
-    "geom:area_square_m":107744979.290971,
+    "geom:area_square_m":107744979.29097,
     "geom:bbox":"12.9820077427,37.9464689293,13.1534852326,38.0835238833",
     "geom:latitude":38.024945,
     "geom:longitude":13.064795,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082054",
+        "eurostat:nuts_2021_id":"082054",
         "gn:id":6537749,
         "gp:id":12680937,
         "qs_pg:id":1195937
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43152bc134dd86c81e3cd832a5dc5f02",
+    "wof:geomhash":"3c865a48c7ce440f2ba34b2dad21e990",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404465035,
-    "wof:lastmodified":1582327842,
+    "wof:lastmodified":1684353824,
     "wof:name":"Partinico",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":31569,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

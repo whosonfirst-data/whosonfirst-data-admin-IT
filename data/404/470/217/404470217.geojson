@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnoli di Sopra",
+    "eurostat:nuts_2021_id":"028008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028008",
+    "eurostat:population":3458,
+    "eurostat:population_year":2020,
     "geom:area":0.003998,
-    "geom:area_square_m":34848838.347441,
+    "geom:area_square_m":34848838.347444,
     "geom:bbox":"11.8466574817,45.1516580064,11.9530599237,45.2108323512",
     "geom:latitude":45.181395,
     "geom:longitude":11.898429,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028008",
+        "eurostat:nuts_2021_id":"028008",
         "gn:id":6536664,
         "gp:id":12676453,
         "qs_pg:id":536087
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5b0a46f4718aa9623889d2001531b939",
+    "wof:geomhash":"34157e1d02db7244928316807a8bd1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470217,
-    "wof:lastmodified":1582327741,
+    "wof:lastmodified":1684353918,
     "wof:name":"Bagnoli Di Sopra",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3458,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorno",
+    "eurostat:nuts_2021_id":"016116",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016116",
+    "eurostat:population":1519,
+    "eurostat:population_year":2020,
     "geom:area":0.001159,
-    "geom:area_square_m":9983515.629931,
+    "geom:area_square_m":9983515.629932,
     "geom:bbox":"9.82097694305,45.8461535628,9.86777914457,45.8992413006",
     "geom:latitude":45.866427,
     "geom:longitude":9.842838,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016116",
+        "eurostat:nuts_2021_id":"016116",
         "gn:id":6536149,
         "gp:id":12679638,
         "qs_pg:id":910457
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8d0b92e8fd01630800db3440f45dac7",
+    "wof:geomhash":"e7409a06668ca90e7cfc8df251caa834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404465961,
-    "wof:lastmodified":1582327837,
+    "wof:lastmodified":1684353840,
     "wof:name":"Gorno",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1519,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

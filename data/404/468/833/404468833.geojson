@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capergnanica",
+    "eurostat:nuts_2021_id":"019012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019012",
+    "eurostat:population":2165,
+    "eurostat:population_year":2020,
     "geom:area":0.000785,
     "geom:area_square_m":6827931.690204,
     "geom:bbox":"9.62572222799,45.3125790072,9.66637965688,45.3499904727",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019012",
+        "eurostat:nuts_2021_id":"019012",
         "gn:id":6537209,
         "gp:id":12677563,
         "qs_pg:id":203839
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41c740f723adfb9bb1f2767349cba842",
+    "wof:geomhash":"1c3ee7894585a2ad5b322a2a8ed31ab0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468833,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353895,
     "wof:name":"Capergnanica",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":2165,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

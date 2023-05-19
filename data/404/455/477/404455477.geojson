@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castino",
+    "eurostat:nuts_2021_id":"004057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004057",
+    "eurostat:population":477,
+    "eurostat:population_year":2020,
     "geom:area":0.001761,
-    "geom:area_square_m":15501576.660976,
+    "geom:area_square_m":15501576.660981,
     "geom:bbox":"8.12124204752,44.59687355,8.19845985257,44.6529013844",
     "geom:latitude":44.625107,
     "geom:longitude":8.16029,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004057",
+        "eurostat:nuts_2021_id":"004057",
         "gn:id":6539565,
         "gp:id":12678367,
         "qs_pg:id":49305
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95b5d453cefbf5b4aee6367e414b3611",
+    "wof:geomhash":"5669a8f3eceb84398f124ddc22a4ac07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455477,
-    "wof:lastmodified":1582327812,
+    "wof:lastmodified":1684353604,
     "wof:name":"Castino",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":477,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Canavese",
+    "eurostat:nuts_2021_id":"001301",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001301",
+    "eurostat:population":1214,
+    "eurostat:population_year":2020,
     "geom:area":0.000462,
     "geom:area_square_m":4023762.734882,
     "geom:bbox":"7.53271507863,45.2199302573,7.56239691727,45.2504026234",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001301",
+        "eurostat:nuts_2021_id":"001301",
         "gn:id":6543409,
         "gp:id":20076531,
         "qs_pg:id":205162
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77f1ba89bd97914533fcb52ed1f4bd45",
+    "wof:geomhash":"98f060569c5cb2ea72fba2175da8f0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457421,
-    "wof:lastmodified":1582328112,
+    "wof:lastmodified":1684353649,
     "wof:name":"Villanova Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1214,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

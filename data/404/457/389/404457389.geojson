@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001287",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valperga",
+    "eurostat:nuts_2021_id":"001287",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001287",
+    "eurostat:population":3026,
+    "eurostat:population_year":2020,
     "geom:area":0.001369,
-    "geom:area_square_m":11889212.646897,
+    "geom:area_square_m":11889212.646895,
     "geom:bbox":"7.62737627776,45.3427181252,7.6954316053,45.3858568535",
     "geom:latitude":45.368028,
     "geom:longitude":7.65989,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001287",
+        "eurostat:nuts_2021_id":"001287",
         "gn:id":6538090,
         "gp:id":12682359,
         "qs_pg:id":886517
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"757e35002656d8680813238e90aaf6fa",
+    "wof:geomhash":"71654c3439eaaa1364e5aa6e7dd43fab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457389,
-    "wof:lastmodified":1582328119,
+    "wof:lastmodified":1684353648,
     "wof:name":"Valperga",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3026,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

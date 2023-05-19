@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccabianca",
+    "eurostat:nuts_2021_id":"034030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034030",
+    "eurostat:population":2923,
+    "eurostat:population_year":2020,
     "geom:area":0.00462,
-    "geom:area_square_m":40395784.326005,
+    "geom:area_square_m":40395784.326006,
     "geom:bbox":"10.1680849338,44.9620976331,10.2651664962,45.0340137405",
     "geom:latitude":44.997927,
     "geom:longitude":10.211482,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034030",
+        "eurostat:nuts_2021_id":"034030",
         "gn:id":6540410,
         "gp:id":12679017,
         "qs_pg:id":265144
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c74bb2252fcab72352f87c6b30139747",
+    "wof:geomhash":"9a03df85ffd57c2591ed45b96e32eddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467599,
-    "wof:lastmodified":1582327980,
+    "wof:lastmodified":1684353877,
     "wof:name":"Roccabianca",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":2923,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

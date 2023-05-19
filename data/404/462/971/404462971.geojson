@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellona",
+    "eurostat:nuts_2021_id":"061007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061007",
+    "eurostat:population":6106,
+    "eurostat:population_year":2020,
     "geom:area":0.001258,
-    "geom:area_square_m":11717271.501231,
+    "geom:area_square_m":11717271.501232,
     "geom:bbox":"14.2177130673,41.1166684747,14.2699296964,41.1738737559",
     "geom:latitude":41.14628,
     "geom:longitude":14.238503,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061007",
+        "eurostat:nuts_2021_id":"061007",
         "gn:id":6541897,
         "gp:id":12676681,
         "qs_pg:id":1013471
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a1988713bc36a15404f33098a88b91e",
+    "wof:geomhash":"5d218450b482733f58bdc2785373577d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404462971,
-    "wof:lastmodified":1582327861,
+    "wof:lastmodified":1684353770,
     "wof:name":"Bellona",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":6106,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

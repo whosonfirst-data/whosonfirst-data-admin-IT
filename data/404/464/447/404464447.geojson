@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorbo San Basile",
+    "eurostat:nuts_2021_id":"079134",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079134",
+    "eurostat:population":792,
+    "eurostat:population_year":2020,
     "geom:area":0.00611,
-    "geom:area_square_m":58667113.953673,
+    "geom:area_square_m":58667113.953693,
     "geom:bbox":"16.4705873067,38.9978532418,16.5769499408,39.1087534518",
     "geom:latitude":39.052759,
     "geom:longitude":16.517001,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079134",
+        "eurostat:nuts_2021_id":"079134"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"07d9785d7000b9b6cd557e7b9e7cc53b",
+    "wof:geomhash":"1f935e9c71d7b46fe64a0e51b0509e8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404464447,
-    "wof:lastmodified":1566723213,
+    "wof:lastmodified":1684353806,
     "wof:name":"Sorbo San Basile",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":792,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

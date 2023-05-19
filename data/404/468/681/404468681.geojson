@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Branzi",
+    "eurostat:nuts_2021_id":"016036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016036",
+    "eurostat:population":694,
+    "eurostat:population_year":2020,
     "geom:area":0.003044,
-    "geom:area_square_m":26142837.243654,
+    "geom:area_square_m":26142837.243655,
     "geom:bbox":"9.72116616098,45.9766846557,9.84184596841,46.0321925549",
     "geom:latitude":45.999172,
     "geom:longitude":9.778627,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016036",
+        "eurostat:nuts_2021_id":"016036",
         "gn:id":6543746,
         "gp:id":12680395,
         "qs_pg:id":397200
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5097b1ffee608bba07ab6c2753c427ef",
+    "wof:geomhash":"fac6ac8e4d5cb0bf14b4d18e7b7de72e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468681,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353893,
     "wof:name":"Branzi",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":694,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

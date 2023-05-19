@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalmaiocco",
+    "eurostat:nuts_2021_id":"098009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098009",
+    "eurostat:population":3224,
+    "eurostat:population_year":2020,
     "geom:area":0.000542,
-    "geom:area_square_m":4707107.518002,
+    "geom:area_square_m":4707107.518003,
     "geom:bbox":"9.35303882858,45.3461949169,9.39030232237,45.3711526114",
     "geom:latitude":45.359007,
     "geom:longitude":9.3725,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098009",
+        "eurostat:nuts_2021_id":"098009",
         "gn:id":6538010,
         "gp:id":12677979,
         "qs_pg:id":1019667
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f830f371042fc6adf2fbcc774a13505",
+    "wof:geomhash":"87e698c35c962140be306f8888c1b90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469445,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353904,
     "wof:name":"Casalmaiocco",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":3224,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

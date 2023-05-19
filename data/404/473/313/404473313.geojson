@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeno",
+    "eurostat:nuts_2021_id":"022003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022003",
+    "eurostat:population":3148,
+    "eurostat:population_year":2020,
     "geom:area":0.001041,
-    "geom:area_square_m":8950566.153556,
+    "geom:area_square_m":8950566.153553,
     "geom:bbox":"11.0693093836,45.9525903207,11.1161782737,45.9932298084",
     "geom:latitude":45.971204,
     "geom:longitude":11.092653,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022003",
+        "eurostat:nuts_2021_id":"022003",
         "gn:id":6540651,
         "gp:id":12675933,
         "qs_pg:id":946688
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19db33a4b373aabbbb6b3c6164d68d5d",
+    "wof:geomhash":"90e04571dbcefa79d4f7c845c0ca370f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473313,
-    "wof:lastmodified":1582327922,
+    "wof:lastmodified":1684353986,
     "wof:name":"Aldeno",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":3148,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

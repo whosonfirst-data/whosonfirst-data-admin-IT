@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casarano",
+    "eurostat:nuts_2021_id":"075016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075016",
+    "eurostat:population":19802,
+    "eurostat:population_year":2020,
     "geom:area":0.004028,
-    "geom:area_square_m":38140193.229221,
+    "geom:area_square_m":38140193.229212,
     "geom:bbox":"18.1230114636,39.9806833863,18.2205466124,40.0632706931",
     "geom:latitude":40.01828,
     "geom:longitude":18.174539,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075016",
+        "eurostat:nuts_2021_id":"075016",
         "gn:id":6541736,
         "gp:id":12678010,
         "qs_pg:id":1095051
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74252b735e2e3e531c68f808459047ca",
+    "wof:geomhash":"cb9ce97abca00c24445873f51f79da80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404463297,
-    "wof:lastmodified":1582327785,
+    "wof:lastmodified":1684353777,
     "wof:name":"Casarano",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":19802,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

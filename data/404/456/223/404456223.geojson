@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bardonecchia",
+    "eurostat:nuts_2021_id":"001022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001022",
+    "eurostat:population":3159,
+    "eurostat:population_year":2020,
     "geom:area":0.015114,
-    "geom:area_square_m":131918910.04793,
+    "geom:area_square_m":131918910.047922,
     "geom:bbox":"6.62665031038,45.0193084622,6.85550734202,45.1598239236",
     "geom:latitude":45.100738,
     "geom:longitude":6.731381,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001022",
+        "eurostat:nuts_2021_id":"001022",
         "gn:id":6539513,
         "gp:id":12676250,
         "qs_pg:id":1122865
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30e3012a52f401c6e584944e45a537a3",
+    "wof:geomhash":"659b96ae6cf8428b363152efe9a243ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404456223,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353619,
     "wof:name":"Bardonecchia",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3159,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

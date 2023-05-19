@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siamaggiore",
+    "eurostat:nuts_2021_id":"095056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095056",
+    "eurostat:population":904,
+    "eurostat:population_year":2020,
     "geom:area":0.001389,
     "geom:area_square_m":13170059.955991,
     "geom:bbox":"8.61200387162,39.9267564803,8.65407294766,39.9784760979",
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095056",
+        "eurostat:nuts_2021_id":"095056",
         "gn:id":6539374,
         "gp:id":12682005,
         "qs_pg:id":1004487
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a2b344313dcf6d0a759dfc2eb41e2559",
+    "wof:geomhash":"73b9b39d01516eb887adc371775d1fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467089,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353865,
     "wof:name":"Siamaggiore",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":904,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

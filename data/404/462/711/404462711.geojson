@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Eusanio del Sangro",
+    "eurostat:nuts_2021_id":"069085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069085",
+    "eurostat:population":2357,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
-    "geom:area_square_m":23696977.608233,
+    "geom:area_square_m":23696977.608231,
     "geom:bbox":"14.3014602354,42.1289335788,14.4089686611,42.1884081653",
     "geom:latitude":42.157305,
     "geom:longitude":14.356816,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_069085",
+        "eurostat:nuts_2021_id":"069085"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7b666b12127cb5ae180cf63193bcdfc1",
+    "wof:geomhash":"2ccd245e80cdd92dbeaf2a4a76854f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404462711,
-    "wof:lastmodified":1566723343,
+    "wof:lastmodified":1684353763,
     "wof:name":"Sant'Eusanio Del Sangro",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":2357,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

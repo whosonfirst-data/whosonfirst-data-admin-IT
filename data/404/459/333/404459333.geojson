@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pollein",
+    "eurostat:nuts_2021_id":"007049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007049",
+    "eurostat:population":1537,
+    "eurostat:population_year":2020,
     "geom:area":0.001772,
-    "geom:area_square_m":15300316.761537,
+    "geom:area_square_m":15300316.761536,
     "geom:bbox":"7.33864237744,45.678274255,7.39422645969,45.7379106985",
     "geom:latitude":45.710585,
     "geom:longitude":7.368671,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007049",
+        "eurostat:nuts_2021_id":"007049",
         "gn:id":6536061,
         "gp:id":12681188,
         "qs_pg:id":1173232
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b92bae5ad1c73d4dc0202c766e27ba2e",
+    "wof:geomhash":"3b3248933d41b3f903768e45974aeba4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459333,
-    "wof:lastmodified":1582328169,
+    "wof:lastmodified":1684353692,
     "wof:name":"Pollein",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1537,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

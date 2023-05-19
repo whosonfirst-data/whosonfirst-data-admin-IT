@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ionadi",
+    "eurostat:nuts_2021_id":"102017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102017",
+    "eurostat:population":4476,
+    "eurostat:population_year":2020,
     "geom:area":0.000904,
-    "geom:area_square_m":8730875.014265,
+    "geom:area_square_m":8730875.014267,
     "geom:bbox":"16.0421241579,38.6109204657,16.0791253886,38.6615530261",
     "geom:latitude":38.637101,
     "geom:longitude":16.062845,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102017",
+        "eurostat:nuts_2021_id":"102017"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"46e2c205a5f8305976d9bc89ea7c46e6",
+    "wof:geomhash":"ab578e62eb481057527d234bc3dc382b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464789,
-    "wof:lastmodified":1566723249,
+    "wof:lastmodified":1684353817,
     "wof:name":"Ionadi",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":4476,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

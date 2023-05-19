@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortazzone",
+    "eurostat:nuts_2021_id":"005047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005047",
+    "eurostat:population":593,
+    "eurostat:population_year":2020,
     "geom:area":0.00118,
     "geom:area_square_m":10318047.108895,
     "geom:bbox":"8.02783380728,44.9552920244,8.07495243786,44.9971838014",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005047",
+        "eurostat:nuts_2021_id":"005047",
         "gn:id":6538173,
         "gp:id":12678936,
         "qs_pg:id":1102094
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee868a04c2421d08023605da63110eff",
+    "wof:geomhash":"321e653f26bba4cd064f0d847104eba5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456015,
-    "wof:lastmodified":1582328049,
+    "wof:lastmodified":1684353615,
     "wof:name":"Cortazzone",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":593,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

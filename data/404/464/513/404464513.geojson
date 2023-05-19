@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo Calabro",
+    "eurostat:nuts_2021_id":"080018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080018",
+    "eurostat:population":4521,
+    "eurostat:population_year":2020,
     "geom:area":0.000818,
-    "geom:area_square_m":7944050.485175,
+    "geom:area_square_m":7944050.485176,
     "geom:bbox":"15.6462329573,38.199968541,15.6943658711,38.236243661",
     "geom:latitude":38.217946,
     "geom:longitude":15.668633,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080018",
+        "eurostat:nuts_2021_id":"080018",
         "gn:id":6543634,
         "gp:id":12680640,
         "qs_pg:id":213809
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"174656511f58f1d2d071c7456b018d82",
+    "wof:geomhash":"0b9d30fc3f9f54e03bdb652538317713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464513,
-    "wof:lastmodified":1582327806,
+    "wof:lastmodified":1684353808,
     "wof:name":"Campo Calabro",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":4521,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

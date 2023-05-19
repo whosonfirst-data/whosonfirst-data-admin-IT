@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Girifalco",
+    "eurostat:nuts_2021_id":"079059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079059",
+    "eurostat:population":5771,
+    "eurostat:population_year":2020,
     "geom:area":0.004426,
-    "geom:area_square_m":42644195.514592,
+    "geom:area_square_m":42644195.514582,
     "geom:bbox":"16.3806858046,38.7524607364,16.4876631566,38.8497178809",
     "geom:latitude":38.811216,
     "geom:longitude":16.428337,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079059",
+        "eurostat:nuts_2021_id":"079059"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"213604231df9e51e88f076dfd0ada535",
+    "wof:geomhash":"183374a57103a7d2393015b222611bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464361,
-    "wof:lastmodified":1566723229,
+    "wof:lastmodified":1684353804,
     "wof:name":"Girifalco",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":5771,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

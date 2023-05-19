@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genova",
+    "eurostat:nuts_2021_id":"010025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010025",
+    "eurostat:population":574090,
+    "eurostat:population_year":2020,
     "geom:area":0.027185,
-    "geom:area_square_m":239993787.945733,
+    "geom:area_square_m":239993793.099234,
     "geom:bbox":"8.665761,44.379074,9.095625,44.519821",
     "geom:latitude":44.441487,
     "geom:longitude":8.893096,
@@ -42,6 +54,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -50,6 +64,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010025",
+        "eurostat:nuts_2021_id":"010025",
         "gn:id":6542282,
         "gp:id":12675811,
         "qs_pg:id":209084
@@ -58,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f20bca4a9f59a373e3a34f8d479b094",
+    "wof:geomhash":"3ced9790db8e49df58416a94a22b79d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404471975,
-    "wof:lastmodified":1636496844,
+    "wof:lastmodified":1684353949,
     "wof:name":"Genova",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":574090,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

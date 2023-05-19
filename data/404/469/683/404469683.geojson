@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavaion Veronese",
+    "eurostat:nuts_2021_id":"023023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023023",
+    "eurostat:population":6026,
+    "eurostat:population_year":2020,
     "geom:area":0.001487,
-    "geom:area_square_m":12884355.641843,
+    "geom:area_square_m":12884355.641841,
     "geom:bbox":"10.7448094885,45.5122853736,10.8061537201,45.5500038877",
     "geom:latitude":45.531103,
     "geom:longitude":10.778139,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023023",
+        "eurostat:nuts_2021_id":"023023",
         "gn:id":6538236,
         "gp:id":12678399,
         "qs_pg:id":1193878
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c7b0e0b05b92cff64a7d3d3902d747b",
+    "wof:geomhash":"b068564d58fabd7929129f75132e0fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469683,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353908,
     "wof:name":"Cavaion Veronese",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":6026,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

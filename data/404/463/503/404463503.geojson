@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castione Andevenno",
+    "eurostat:nuts_2021_id":"014015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014015",
+    "eurostat:population":1575,
+    "eurostat:population_year":2020,
     "geom:area":0.001986,
-    "geom:area_square_m":17003741.269279,
+    "geom:area_square_m":17003741.269277,
     "geom:bbox":"9.78203154227,46.15696291,9.82986394173,46.2187722835",
     "geom:latitude":46.18451,
     "geom:longitude":9.806126,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014015",
+        "eurostat:nuts_2021_id":"014015",
         "gn:id":6542547,
         "gp:id":12682622,
         "qs_pg:id":1019826
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa6b46a28192c3c60609f3a1e6c3753b",
+    "wof:geomhash":"20105d1cc6ee31c24f43919273011db4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463503,
-    "wof:lastmodified":1582327763,
+    "wof:lastmodified":1684353781,
     "wof:name":"Castione Andevenno",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":1575,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

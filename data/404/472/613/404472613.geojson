@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagni di Lucca",
+    "eurostat:nuts_2021_id":"046002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046002",
+    "eurostat:population":5865,
+    "eurostat:population_year":2020,
     "geom:area":0.018501,
-    "geom:area_square_m":164452306.467132,
+    "geom:area_square_m":164452306.467112,
     "geom:bbox":"10.5394238293,43.9534185796,10.7378516017,44.1181883218",
     "geom:latitude":44.039158,
     "geom:longitude":10.639233,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046002",
+        "eurostat:nuts_2021_id":"046002",
         "gn:id":6539959,
         "gp:id":12676440,
         "qs_pg:id":1120142
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0716e0d106602d7f337d9f8f93bdd79e",
+    "wof:geomhash":"3858079f6457ce2ace0e46ea4ebc39e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472613,
-    "wof:lastmodified":1582327898,
+    "wof:lastmodified":1684353965,
     "wof:name":"Bagni Di Lucca",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":5865,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

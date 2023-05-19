@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caprese Michelangelo",
+    "eurostat:nuts_2021_id":"051007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051007",
+    "eurostat:population":1399,
+    "eurostat:population_year":2020,
     "geom:area":0.007417,
-    "geom:area_square_m":66367504.745331,
+    "geom:area_square_m":66367504.745328,
     "geom:bbox":"11.9142673233,43.588730975,12.0401151012,43.6891970133",
     "geom:latitude":43.639755,
     "geom:longitude":11.981652,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051007",
+        "eurostat:nuts_2021_id":"051007",
         "gn:id":6540480,
         "gp:id":12677613,
         "qs_pg:id":39760
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f796457a67f1f4d9063c50c4fdedcdd9",
+    "wof:geomhash":"67ac30c7bc1acf5c608b007e9cc40175",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404472983,
-    "wof:lastmodified":1582327889,
+    "wof:lastmodified":1684353975,
     "wof:name":"Caprese Michelangelo",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":1399,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

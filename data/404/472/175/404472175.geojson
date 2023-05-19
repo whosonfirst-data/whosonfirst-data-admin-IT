@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montese",
+    "eurostat:nuts_2021_id":"036026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036026",
+    "eurostat:population":3286,
+    "eurostat:population_year":2020,
     "geom:area":0.009132,
-    "geom:area_square_m":80862936.892779,
+    "geom:area_square_m":80862936.892772,
     "geom:bbox":"10.8559984848,44.2054177372,11.0065419499,44.3256686789",
     "geom:latitude":44.267328,
     "geom:longitude":10.924049,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036026",
+        "eurostat:nuts_2021_id":"036026",
         "gn:id":6540423,
         "gp:id":12678290,
         "qs_pg:id":536614
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"099d8b86c716fea74e97e38cf3502d44",
+    "wof:geomhash":"cb15e38ae5aed849789ccdb3e235e449",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472175,
-    "wof:lastmodified":1582327892,
+    "wof:lastmodified":1684353954,
     "wof:name":"Montese",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":3286,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

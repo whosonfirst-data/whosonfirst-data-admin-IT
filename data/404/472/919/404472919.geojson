@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casciana Terme Lari",
+    "eurostat:nuts_2021_id":"050040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050040",
+    "eurostat:population":12287,
+    "eurostat:population_year":2020,
     "geom:area":0.005001,
-    "geom:area_square_m":44790676.082478,
+    "geom:area_square_m":44790676.08247,
     "geom:bbox":"10.5524794432,43.5303574553,10.6341063835,43.6418716599",
     "geom:latitude":43.584525,
     "geom:longitude":10.594345,
@@ -110,6 +122,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -118,6 +132,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050040",
+        "eurostat:nuts_2021_id":"050040",
         "gn:id":6536836,
         "gp:id":12679873,
         "qs_pg:id":496773
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"af5b3a2a93a29f9c45bfbd3eac90260d",
+    "wof:geomhash":"5b7ee19926bfd43884a6896a6f14d9b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404472919,
-    "wof:lastmodified":1582327908,
+    "wof:lastmodified":1684353973,
     "wof:name":"Lari",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":12287,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Netro",
+    "eurostat:nuts_2021_id":"096039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096039",
+    "eurostat:population":941,
+    "eurostat:population_year":2020,
     "geom:area":0.001449,
-    "geom:area_square_m":12547724.017003,
+    "geom:area_square_m":12547724.017004,
     "geom:bbox":"7.91177565052,45.5259599306,7.97398952937,45.5679719432",
     "geom:latitude":45.54546,
     "geom:longitude":7.940307,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_096039",
+        "eurostat:nuts_2021_id":"096039"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b361e388a8c6a76ffd98614f72e6271d",
+    "wof:geomhash":"c8942e083b1c7cf200caa627c48fbe43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404460375,
-    "wof:lastmodified":1566723538,
+    "wof:lastmodified":1684353716,
     "wof:name":"Netro",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":941,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

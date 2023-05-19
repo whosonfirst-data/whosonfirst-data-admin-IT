@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lusevera",
+    "eurostat:nuts_2021_id":"030051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030051",
+    "eurostat:population":607,
+    "eurostat:population_year":2020,
     "geom:area":0.006182,
     "geom:area_square_m":52818588.887487,
     "geom:bbox":"13.1985389912,46.2432829874,13.381196768,46.3324463152",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030051",
+        "eurostat:nuts_2021_id":"030051",
         "gn:id":6536342,
         "gp:id":12680643,
         "qs_pg:id":41710
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70b57fa856c4dc549f80483a09149459",
+    "wof:geomhash":"45fcf2ee1011567902ecab85a3935c47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470551,
-    "wof:lastmodified":1582327736,
+    "wof:lastmodified":1684353923,
     "wof:name":"Lusevera",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":607,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

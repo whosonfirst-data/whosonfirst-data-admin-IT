@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca d'Arazzo",
+    "eurostat:nuts_2021_id":"005093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005093",
+    "eurostat:population":901,
+    "eurostat:population_year":2020,
     "geom:area":0.001431,
-    "geom:area_square_m":12545657.351032,
+    "geom:area_square_m":12545657.351029,
     "geom:bbox":"8.26092856381,44.8432398105,8.31543075517,44.8913843507",
     "geom:latitude":44.863543,
     "geom:longitude":8.288772,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005093",
+        "eurostat:nuts_2021_id":"005093",
         "gn:id":6542414,
         "gp:id":20075866,
         "qs_pg:id":1014321
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2e8d2d84de1eb4ab4abed4312db91d94",
+    "wof:geomhash":"3d03ff7fda2ea56fd340433078d03929",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404456115,
-    "wof:lastmodified":1582328069,
+    "wof:lastmodified":1684353617,
     "wof:name":"Rocca D'Arazzo",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":901,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Premilcuore",
+    "eurostat:nuts_2021_id":"040033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040033",
+    "eurostat:population":723,
+    "eurostat:population_year":2020,
     "geom:area":0.011048,
     "geom:area_square_m":98327748.902935,
     "geom:bbox":"11.6822593614,43.8986351786,11.8700220451,44.0370858101",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040033",
+        "eurostat:nuts_2021_id":"040033",
         "gn:id":6536756,
         "gp:id":12681279,
         "qs_pg:id":42174
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d1292adf22dcf9c0c97cad7c0c21ae6",
+    "wof:geomhash":"dc01d4b1c5c10d91b74154797a745e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472505,
-    "wof:lastmodified":1582327879,
+    "wof:lastmodified":1684353963,
     "wof:name":"Premilcuore",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":723,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malvito",
+    "eurostat:nuts_2021_id":"078073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078073",
+    "eurostat:population":1751,
+    "eurostat:population_year":2020,
     "geom:area":0.003977,
-    "geom:area_square_m":37890746.371141,
+    "geom:area_square_m":37890746.371122,
     "geom:bbox":"15.9936513067,39.5658220866,16.1389064278,39.6422169267",
     "geom:latitude":39.607763,
     "geom:longitude":16.050776,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078073",
+        "eurostat:nuts_2021_id":"078073"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"40f206cbd136ae293dbddc7cc45b4e91",
+    "wof:geomhash":"a9cd7d4bb16eb0ec017c2843782268ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404464209,
-    "wof:lastmodified":1566723240,
+    "wof:lastmodified":1684353800,
     "wof:name":"Malvito",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1751,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

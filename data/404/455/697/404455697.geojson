@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ormea",
+    "eurostat:nuts_2021_id":"004155",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004155",
+    "eurostat:population":1557,
+    "eurostat:population_year":2020,
     "geom:area":0.014014,
-    "geom:area_square_m":124325661.869216,
+    "geom:area_square_m":124325661.869203,
     "geom:bbox":"7.74367882227,44.1046485605,7.98906233001,44.2222580018",
     "geom:latitude":44.155982,
     "geom:longitude":7.867398,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004155",
+        "eurostat:nuts_2021_id":"004155",
         "gn:id":6541555,
         "gp:id":12680800,
         "qs_pg:id":41824
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7291635817c7c2f9d06425136c41e223",
+    "wof:geomhash":"e6145791d244d748f52540f10e26db0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455697,
-    "wof:lastmodified":1582327820,
+    "wof:lastmodified":1684353609,
     "wof:name":"Ormea",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":1557,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

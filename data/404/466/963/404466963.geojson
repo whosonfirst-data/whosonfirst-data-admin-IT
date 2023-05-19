@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Tulo",
+    "eurostat:nuts_2021_id":"111099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111099",
+    "eurostat:population":1056,
+    "eurostat:population_year":2020,
     "geom:area":0.004257,
-    "geom:area_square_m":40443849.373457,
+    "geom:area_square_m":40443849.373463,
     "geom:bbox":"9.15824667044,39.7498046604,9.23398381844,39.8324866282",
     "geom:latitude":39.789777,
     "geom:longitude":9.191825,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111099",
+        "eurostat:nuts_2021_id":"111099",
         "gn:id":6543651,
         "gp:id":12682476,
         "qs_pg:id":49348
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee04f5f0c0720b8073fa76abaf6d357f",
+    "wof:geomhash":"af781bfafd56a0ca2736add7036e65bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466963,
-    "wof:lastmodified":1582328184,
+    "wof:lastmodified":1684353862,
     "wof:name":"Villanova Tulo",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1056,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

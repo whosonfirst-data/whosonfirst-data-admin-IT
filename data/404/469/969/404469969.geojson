@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sovramonte",
+    "eurostat:nuts_2021_id":"025058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025058",
+    "eurostat:population":1357,
+    "eurostat:population_year":2020,
     "geom:area":0.005875,
-    "geom:area_square_m":50400901.202362,
+    "geom:area_square_m":50400901.202363,
     "geom:bbox":"11.7587571534,46.0237796337,11.858797175,46.1112439976",
     "geom:latitude":46.070742,
     "geom:longitude":11.803176,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025058",
+        "eurostat:nuts_2021_id":"025058",
         "gn:id":6542787,
         "gp:id":12679341,
         "qs_pg:id":1187919
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e1eebab2b581931fb9873437aeaefa5",
+    "wof:geomhash":"6e8c89e413121365df1c19b4042c15e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469969,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353913,
     "wof:name":"Sovramonte",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1357,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

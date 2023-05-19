@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luzzara",
+    "eurostat:nuts_2021_id":"035026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035026",
+    "eurostat:population":8703,
+    "eurostat:population_year":2020,
     "geom:area":0.004394,
-    "geom:area_square_m":38451577.128829,
+    "geom:area_square_m":38451577.128828,
     "geom:bbox":"10.6503877303,44.9220757859,10.7707101416,44.9920069991",
     "geom:latitude":44.953754,
     "geom:longitude":10.711322,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035026",
+        "eurostat:nuts_2021_id":"035026",
         "gn:id":6540417,
         "gp:id":12677256,
         "qs_pg:id":103798
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66952e5f0264900ebbddd38da258573d",
+    "wof:geomhash":"82026bdae1f027c193cc265cd0b20b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457069,
-    "wof:lastmodified":1582328117,
+    "wof:lastmodified":1684353641,
     "wof:name":"Luzzara",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":8703,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

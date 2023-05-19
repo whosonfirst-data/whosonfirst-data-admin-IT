@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vieste",
+    "eurostat:nuts_2021_id":"071060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071060",
+    "eurostat:population":13859,
+    "eurostat:population_year":2020,
     "geom:area":0.018198,
-    "geom:area_square_m":167639252.662371,
+    "geom:area_square_m":167639252.662376,
     "geom:bbox":"16.0383880241,41.7608311648,16.2015921945,41.9327892707",
     "geom:latitude":41.841782,
     "geom:longitude":16.119777,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071060",
+        "eurostat:nuts_2021_id":"071060",
         "gn:id":6538935,
         "gp:id":12679209,
         "qs_pg:id":1102113
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d30a270304a3a5439c7781668c7b6083",
+    "wof:geomhash":"91f7f36857300d95e6f788d17c27777a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463167,
-    "wof:lastmodified":1582327763,
+    "wof:lastmodified":1684353773,
     "wof:name":"Vieste",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":13859,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

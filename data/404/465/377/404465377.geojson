@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salza Irpina",
+    "eurostat:nuts_2021_id":"064081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064081",
+    "eurostat:population":741,
+    "eurostat:population_year":2020,
     "geom:area":0.000527,
-    "geom:area_square_m":4927436.048158,
+    "geom:area_square_m":4927436.048162,
     "geom:bbox":"14.8766788752,40.8973179623,14.9199466147,40.9285019904",
     "geom:latitude":40.914095,
     "geom:longitude":14.9008,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_064081",
+        "eurostat:nuts_2021_id":"064081"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d359d5de4062a9b262f7c243a777c28d",
+    "wof:geomhash":"8e7d42f7d42c3465417877d2ad46040c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404465377,
-    "wof:lastmodified":1566723286,
+    "wof:lastmodified":1684353830,
     "wof:name":"Salza Irpina",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":741,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

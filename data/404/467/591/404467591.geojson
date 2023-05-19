@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palanzano",
+    "eurostat:nuts_2021_id":"034026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034026",
+    "eurostat:population":1085,
+    "eurostat:population_year":2020,
     "geom:area":0.007895,
-    "geom:area_square_m":69701218.810284,
+    "geom:area_square_m":69701218.810275,
     "geom:bbox":"10.1306729204,44.3807637934,10.3031855571,44.4915582569",
     "geom:latitude":44.441397,
     "geom:longitude":10.207786,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034026",
+        "eurostat:nuts_2021_id":"034026",
         "gn:id":6538427,
         "gp:id":20076740,
         "qs_pg:id":1018221
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56840d18f488e0a4a0abd872859ef783",
+    "wof:geomhash":"7d5d5e13e0fee1a857819843a57693b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467591,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353877,
     "wof:name":"Palanzano",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":1085,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

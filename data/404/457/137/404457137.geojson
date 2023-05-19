@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fanano",
+    "eurostat:nuts_2021_id":"036011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036011",
+    "eurostat:population":2970,
+    "eurostat:population_year":2020,
     "geom:area":0.010123,
-    "geom:area_square_m":89757165.741029,
+    "geom:area_square_m":89757165.741032,
     "geom:bbox":"10.7002789573,44.1159659118,10.8613054707,44.2505472416",
     "geom:latitude":44.188765,
     "geom:longitude":10.782539,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036011",
+        "eurostat:nuts_2021_id":"036011",
         "gn:id":6541634,
         "gp:id":12679196,
         "qs_pg:id":40743
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e31ae15b94d3dddaaf8145dc722fc47c",
+    "wof:geomhash":"e6e489f8e78120ce338c502f534b146e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457137,
-    "wof:lastmodified":1582328111,
+    "wof:lastmodified":1684353643,
     "wof:name":"Fanano",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":2970,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

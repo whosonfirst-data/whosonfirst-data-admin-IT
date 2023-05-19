@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio Albanese",
+    "eurostat:nuts_2021_id":"078118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078118",
+    "eurostat:population":1364,
+    "eurostat:population_year":2020,
     "geom:area":0.002357,
-    "geom:area_square_m":22453117.341967,
+    "geom:area_square_m":22453117.341981,
     "geom:bbox":"16.4422635723,39.5598456942,16.4875859,39.6466682361",
     "geom:latitude":39.60153,
     "geom:longitude":16.463458,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078118",
+        "eurostat:nuts_2021_id":"078118"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"935ed22b0382b63d0faf8b9a80ab0140",
+    "wof:geomhash":"eb8778a1ff1d6268648f76db239c16dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404464309,
-    "wof:lastmodified":1566723208,
+    "wof:lastmodified":1684353802,
     "wof:name":"San Giorgio Albanese",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1364,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

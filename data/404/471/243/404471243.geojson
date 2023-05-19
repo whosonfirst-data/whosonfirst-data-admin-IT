@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pian Camuno",
+    "eurostat:nuts_2021_id":"017142",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017142",
+    "eurostat:population":4770,
+    "eurostat:population_year":2020,
     "geom:area":0.001268,
-    "geom:area_square_m":10925977.993405,
+    "geom:area_square_m":10925977.993403,
     "geom:bbox":"10.1180966494,45.8089299313,10.2102765559,45.8519349233",
     "geom:latitude":45.830502,
     "geom:longitude":10.161496,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017142",
+        "eurostat:nuts_2021_id":"017142",
         "gn:id":6540614,
         "gp:id":20076269,
         "qs_pg:id":1110617
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc6fcc20d4a755a4c7eeed2efdde7b3d",
+    "wof:geomhash":"da79de1710a3c3706d7371f2f32dfc6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471243,
-    "wof:lastmodified":1582327714,
+    "wof:lastmodified":1684353936,
     "wof:name":"Pian Camuno",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4770,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

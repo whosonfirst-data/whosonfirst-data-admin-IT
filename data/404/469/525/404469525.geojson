@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve Fissiraga",
+    "eurostat:nuts_2021_id":"098045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098045",
+    "eurostat:population":1732,
+    "eurostat:population_year":2020,
     "geom:area":0.001407,
-    "geom:area_square_m":12247682.761691,
+    "geom:area_square_m":12247682.761693,
     "geom:bbox":"9.42453644827,45.24397869,9.47703870876,45.2931792183",
     "geom:latitude":45.266191,
     "geom:longitude":9.451932,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098045",
+        "eurostat:nuts_2021_id":"098045",
         "gn:id":6543353,
         "gp:id":12682673,
         "qs_pg:id":1078601
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5052a58095af6c0a62ad793eaa34850",
+    "wof:geomhash":"8b7bbfddcf6ae2eedda87f8eedb05586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469525,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353905,
     "wof:name":"Pieve Fissiraga",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":1732,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

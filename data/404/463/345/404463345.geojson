@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leverano",
+    "eurostat:nuts_2021_id":"075037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075037",
+    "eurostat:population":13956,
+    "eurostat:population_year":2020,
     "geom:area":0.005173,
-    "geom:area_square_m":48788157.027757,
+    "geom:area_square_m":48788157.027759,
     "geom:bbox":"17.8931774045,40.2494851431,18.0445580231,40.3267093376",
     "geom:latitude":40.290605,
     "geom:longitude":17.970686,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075037",
+        "eurostat:nuts_2021_id":"075037",
         "gn:id":6538971,
         "gp:id":12679944,
         "qs_pg:id":1143137
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f49f4b51e8136f783469f7ed8fe8f698",
+    "wof:geomhash":"7d3aeaee192ffd7a852cfa7c62435a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463345,
-    "wof:lastmodified":1582327788,
+    "wof:lastmodified":1684353778,
     "wof:name":"Leverano",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":13956,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

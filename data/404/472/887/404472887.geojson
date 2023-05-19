@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calci",
+    "eurostat:nuts_2021_id":"050003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050003",
+    "eurostat:population":6322,
+    "eurostat:population_year":2020,
     "geom:area":0.002812,
     "geom:area_square_m":25129582.842755,
     "geom:bbox":"10.4843247697,43.6998304362,10.557322055,43.7620007706",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050003",
+        "eurostat:nuts_2021_id":"050003",
         "gn:id":6541094,
         "gp:id":12677302,
         "qs_pg:id":219053
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2caecf954572b4ccee39b15030a5b49",
+    "wof:geomhash":"466c942de905f1583ae71003c44e6dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472887,
-    "wof:lastmodified":1582327883,
+    "wof:lastmodified":1684353972,
     "wof:name":"Calci",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":6322,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

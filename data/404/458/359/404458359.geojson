@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzonovo",
+    "eurostat:nuts_2021_id":"028070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028070",
+    "eurostat:population":3534,
+    "eurostat:population_year":2020,
     "geom:area":0.002817,
     "geom:area_square_m":24552482.300866,
     "geom:bbox":"11.7721035011,45.1376885639,11.8451634388,45.2123355029",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028070",
+        "eurostat:nuts_2021_id":"028070",
         "gn:id":6536674,
         "gp:id":20076704,
         "qs_pg:id":245073
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3dd54e3655221f43df6984cae85f94d0",
+    "wof:geomhash":"026060da0ba5637c865bf283e0ff740b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458359,
-    "wof:lastmodified":1582327950,
+    "wof:lastmodified":1684353668,
     "wof:name":"Pozzonovo",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":3534,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

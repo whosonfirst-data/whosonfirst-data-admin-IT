@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casale Marittimo",
+    "eurostat:nuts_2021_id":"050006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050006",
+    "eurostat:population":1073,
+    "eurostat:population_year":2020,
     "geom:area":0.001585,
     "geom:area_square_m":14269062.410981,
     "geom:bbox":"10.5618550577,43.2826262204,10.6571581957,43.3087113847",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050006",
+        "eurostat:nuts_2021_id":"050006",
         "gn:id":6538572,
         "gp:id":12677965,
         "qs_pg:id":50902
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"098cc31a28f733b44d1caeaebbeb358c",
+    "wof:geomhash":"9ba5f74f4c27f18e1d524d98499f102a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472893,
-    "wof:lastmodified":1582327888,
+    "wof:lastmodified":1684353972,
     "wof:name":"Casale Marittimo",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":1073,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

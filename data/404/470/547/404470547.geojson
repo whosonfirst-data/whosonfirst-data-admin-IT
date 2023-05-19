@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lignano Sabbiadoro",
+    "eurostat:nuts_2021_id":"030049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030049",
+    "eurostat:population":6837,
+    "eurostat:population_year":2020,
     "geom:area":0.001811,
-    "geom:area_square_m":15646087.221447,
+    "geom:area_square_m":15646087.221454,
     "geom:bbox":"13.0619074639,45.643276357,13.1534925996,45.6996688712",
     "geom:latitude":45.672185,
     "geom:longitude":13.102911,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030049",
+        "eurostat:nuts_2021_id":"030049",
         "gn:id":6542083,
         "gp:id":12679958,
         "qs_pg:id":1292204
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e771dfb0f7e90cd272f4d5af161b868",
+    "wof:geomhash":"d2d53e8b90209f1cec670c12679147c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404470547,
-    "wof:lastmodified":1582327756,
+    "wof:lastmodified":1684353923,
     "wof:name":"Lignano Sabbiadoro",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":6837,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

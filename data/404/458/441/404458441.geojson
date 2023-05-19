@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adria",
+    "eurostat:nuts_2021_id":"029001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029001",
+    "eurostat:population":19159,
+    "eurostat:population_year":2020,
     "geom:area":0.012945,
-    "geom:area_square_m":113074195.738711,
+    "geom:area_square_m":113074195.738714,
     "geom:bbox":"11.943603995,44.9956048287,12.1640446061,45.1195837094",
     "geom:latitude":45.056868,
     "geom:longitude":12.0453,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029001",
+        "eurostat:nuts_2021_id":"029001",
         "gn:id":6539929,
         "gp:id":12675795,
         "qs_pg:id":38602
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64d54a599cadf2a156ec02c3f9ffef0c",
+    "wof:geomhash":"9fe4ff4137b77afbc15baae8ff9b638e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404458441,
-    "wof:lastmodified":1582327942,
+    "wof:lastmodified":1684353670,
     "wof:name":"Adria",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":19159,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

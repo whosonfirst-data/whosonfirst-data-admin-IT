@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caines/Kuens",
+    "eurostat:nuts_2021_id":"021014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021014",
+    "eurostat:population":386,
+    "eurostat:population_year":2020,
     "geom:area":0.000192,
     "geom:area_square_m":1630488.068084,
     "geom:bbox":"11.1595208696,46.6904850553,11.18281445,46.7140751076",
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021014",
+        "eurostat:nuts_2021_id":"021014"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0d1e919bbe61ac23626ef932f0eff09a",
+    "wof:geomhash":"47081a7fbd0982bd00b8e90a2eeecfa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473075,
-    "wof:lastmodified":1566723411,
+    "wof:lastmodified":1684353977,
     "wof:name":"Caines",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":386,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

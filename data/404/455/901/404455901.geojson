@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004246",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Solaro",
+    "eurostat:nuts_2021_id":"004246",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004246",
+    "eurostat:population":745,
+    "eurostat:population_year":2020,
     "geom:area":0.001681,
-    "geom:area_square_m":14764716.50819,
+    "geom:area_square_m":14764716.508192,
     "geom:bbox":"7.53696811445,44.7112249271,7.60282239884,44.7639169957",
     "geom:latitude":44.734285,
     "geom:longitude":7.573491,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004246",
+        "eurostat:nuts_2021_id":"004246",
         "gn:id":6543476,
         "gp:id":20075824,
         "qs_pg:id":50309
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e38d9b90c12d817231b7b9d8285adbe5",
+    "wof:geomhash":"aba62778bd65aecd0c01b20eed18485f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455901,
-    "wof:lastmodified":1582327809,
+    "wof:lastmodified":1684353613,
     "wof:name":"Villanova Solaro",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":745,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

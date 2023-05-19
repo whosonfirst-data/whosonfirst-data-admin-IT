@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lignana",
+    "eurostat:nuts_2021_id":"002070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002070",
+    "eurostat:population":545,
+    "eurostat:population_year":2020,
     "geom:area":0.002591,
-    "geom:area_square_m":22540906.308775,
+    "geom:area_square_m":22540906.308776,
     "geom:bbox":"8.25998982603,45.2689303518,8.37225125872,45.3083551388",
     "geom:latitude":45.287459,
     "geom:longitude":8.319446,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002070",
+        "eurostat:nuts_2021_id":"002070",
         "gn:id":6538108,
         "gp:id":12679957,
         "qs_pg:id":1059641
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbaa492b6dd51f0cdd0886ebe6b4f24c",
+    "wof:geomhash":"3304880fa0fea49b6730730eb7b4ed37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404457545,
-    "wof:lastmodified":1582328107,
+    "wof:lastmodified":1684353652,
     "wof:name":"Lignana",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":545,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

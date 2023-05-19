@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccasecca",
+    "eurostat:nuts_2021_id":"060060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060060",
+    "eurostat:population":7326,
+    "eurostat:population_year":2020,
     "geom:area":0.004662,
-    "geom:area_square_m":43149221.622534,
+    "geom:area_square_m":43149221.622542,
     "geom:bbox":"13.5848869628,41.4937569869,13.6878413099,41.5841141125",
     "geom:latitude":41.53494,
     "geom:longitude":13.639572,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060060",
+        "eurostat:nuts_2021_id":"060060",
         "gn:id":6539984,
         "gp:id":12680268,
         "qs_pg:id":41433
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa756832a27de95faf3750622d33e36c",
+    "wof:geomhash":"98bb06b0be1da045912f528e1e857382",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461997,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353750,
     "wof:name":"Roccasecca",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":7326,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

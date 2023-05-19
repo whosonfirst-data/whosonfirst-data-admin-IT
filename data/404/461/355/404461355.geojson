@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amatrice",
+    "eurostat:nuts_2021_id":"057002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057002",
+    "eurostat:population":2381,
+    "eurostat:population_year":2020,
     "geom:area":0.019094,
     "geom:area_square_m":173717266.816212,
     "geom:bbox":"13.1672251218,42.5695015588,13.4098141624,42.6950947323",
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057002",
+        "eurostat:nuts_2021_id":"057002",
         "gn:id":6540504,
         "gp:id":12676050,
         "qs_pg:id":902508
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"510c77ef0f09983cbdd2fd67bbc96dd4",
+    "wof:geomhash":"19b194c1e9ee4b09b1780ac9f68845fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404461355,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353737,
     "wof:name":"Amatrice",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":2381,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

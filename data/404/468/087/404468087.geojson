@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garzeno",
+    "eurostat:nuts_2021_id":"013106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013106",
+    "eurostat:population":708,
+    "eurostat:population_year":2020,
     "geom:area":0.00335,
-    "geom:area_square_m":28708386.816791,
+    "geom:area_square_m":28708386.816792,
     "geom:bbox":"9.14137780333,46.0972021592,9.25884009159,46.158810183",
     "geom:latitude":46.128761,
     "geom:longitude":9.195413,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013106",
+        "eurostat:nuts_2021_id":"013106",
         "gn:id":6537096,
         "gp:id":12679505,
         "qs_pg:id":238783
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09a8de7c9c43c9f11a1b586192d20b58",
+    "wof:geomhash":"10037c2ce47a33abaa833658ffb9c864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404468087,
-    "wof:lastmodified":1582328086,
+    "wof:lastmodified":1684353883,
     "wof:name":"Garzeno",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":708,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

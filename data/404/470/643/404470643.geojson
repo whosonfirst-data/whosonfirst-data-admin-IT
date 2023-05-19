@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Resia",
+    "eurostat:nuts_2021_id":"030092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030092",
+    "eurostat:population":944,
+    "eurostat:population_year":2020,
     "geom:area":0.013918,
-    "geom:area_square_m":118787463.547417,
+    "geom:area_square_m":118787463.547421,
     "geom:bbox":"13.2287548855,46.2982063114,13.4820550346,46.3973528418",
     "geom:latitude":46.351083,
     "geom:longitude":13.34524,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030092",
+        "eurostat:nuts_2021_id":"030092",
         "gn:id":6542689,
         "gp:id":12678012,
         "qs_pg:id":910992
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"add0ce6992abf06028ff9f13575a8479",
+    "wof:geomhash":"bec0c6a119937d57eea37fc05a80fc4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404470643,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353925,
     "wof:name":"Resia",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":944,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferrandina",
+    "eurostat:nuts_2021_id":"077008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077008",
+    "eurostat:population":8308,
+    "eurostat:population_year":2020,
     "geom:area":0.022957,
-    "geom:area_square_m":215927849.853628,
+    "geom:area_square_m":215927849.853611,
     "geom:bbox":"16.3385410339,40.3791220858,16.5300954343,40.5834033348",
     "geom:latitude":40.47808,
     "geom:longitude":16.429801,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_077008",
+        "eurostat:nuts_2021_id":"077008"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"432a967d3fbba233586d354bc86b1fd3",
+    "wof:geomhash":"c6520e2b16790544a31f6577d7f069fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404463993,
-    "wof:lastmodified":1566723190,
+    "wof:lastmodified":1684353793,
     "wof:name":"Ferrandina",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":8308,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

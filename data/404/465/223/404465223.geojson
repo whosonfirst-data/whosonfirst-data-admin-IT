@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cairano",
+    "eurostat:nuts_2021_id":"064013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064013",
+    "eurostat:population":297,
+    "eurostat:population_year":2020,
     "geom:area":0.001467,
-    "geom:area_square_m":13707564.843445,
+    "geom:area_square_m":13707564.843447,
     "geom:bbox":"15.3400465149,40.8755698412,15.4052455047,40.9153263107",
     "geom:latitude":40.894939,
     "geom:longitude":15.371922,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064013",
+        "eurostat:nuts_2021_id":"064013",
         "gn:id":6538775,
         "gp:id":12677273,
         "qs_pg:id":1102018
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aec359ca211c3c0a4a2e14f053d7e323",
+    "wof:geomhash":"9a2bc6e149b143916b731aec94c68d72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404465223,
-    "wof:lastmodified":1582327840,
+    "wof:lastmodified":1684353828,
     "wof:name":"Cairano",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":297,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

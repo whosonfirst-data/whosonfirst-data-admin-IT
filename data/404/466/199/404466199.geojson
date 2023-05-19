@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brolo",
+    "eurostat:nuts_2021_id":"083007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083007",
+    "eurostat:population":5829,
+    "eurostat:population_year":2020,
     "geom:area":0.000783,
-    "geom:area_square_m":7616991.95608,
+    "geom:area_square_m":7616991.956081,
     "geom:bbox":"14.8084204811,38.1262653756,14.8586599098,38.1627053371",
     "geom:latitude":38.146836,
     "geom:longitude":14.832537,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083007",
+        "eurostat:nuts_2021_id":"083007",
         "gn:id":6540052,
         "gp:id":12677126,
         "qs_pg:id":1234433
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c998c05b922983d18c6059cc06266637",
+    "wof:geomhash":"17264dc7f7064dcc1336d927ddb44a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466199,
-    "wof:lastmodified":1582328199,
+    "wof:lastmodified":1684353844,
     "wof:name":"Brolo",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":5829,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

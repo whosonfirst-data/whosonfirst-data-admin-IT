@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceriano Laghetto",
+    "eurostat:nuts_2021_id":"108018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108018",
+    "eurostat:population":6607,
+    "eurostat:population_year":2020,
     "geom:area":0.000817,
-    "geom:area_square_m":7067422.488521,
+    "geom:area_square_m":7067422.48852,
     "geom:bbox":"9.05055719543,45.6208357454,9.11055280918,45.6384747922",
     "geom:latitude":45.629519,
     "geom:longitude":9.081541,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108018",
+        "eurostat:nuts_2021_id":"108018",
         "gn:id":3179076,
         "gp:id":12678510,
         "qs_pg:id":956965
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8136dd78f4f51380fe0a60e161f9416d",
+    "wof:geomhash":"654279d052f95815b7cfd7420f8185b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469601,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353906,
     "wof:name":"Ceriano Laghetto",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":6607,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

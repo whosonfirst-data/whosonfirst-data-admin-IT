@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sambuco",
+    "eurostat:nuts_2021_id":"004204",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004204",
+    "eurostat:population":85,
+    "eurostat:population_year":2020,
     "geom:area":0.005209,
-    "geom:area_square_m":46057785.638179,
+    "geom:area_square_m":46057785.638176,
     "geom:bbox":"7.04072767155,44.3029718949,7.12340882696,44.3915091099",
     "geom:latitude":44.346869,
     "geom:longitude":7.083468,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004204",
+        "eurostat:nuts_2021_id":"004204",
         "gn:id":6540945,
         "gp:id":12681558,
         "qs_pg:id":1296857
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8a2a9c0933ec70c8fa6192afeca56c7",
+    "wof:geomhash":"b0471e244741c0295ca07e90c430cbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455807,
-    "wof:lastmodified":1582327819,
+    "wof:lastmodified":1684353611,
     "wof:name":"Sambuco",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

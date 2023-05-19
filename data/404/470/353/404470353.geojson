@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelmassa",
+    "eurostat:nuts_2021_id":"029012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029012",
+    "eurostat:population":4051,
+    "eurostat:population_year":2020,
     "geom:area":0.001352,
-    "geom:area_square_m":11814741.568529,
+    "geom:area_square_m":11814741.568526,
     "geom:bbox":"11.298918796,44.9956377624,11.3622259399,45.0461471537",
     "geom:latitude":45.022369,
     "geom:longitude":11.325625,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029012",
+        "eurostat:nuts_2021_id":"029012",
         "gn:id":6540401,
         "gp:id":12678295,
         "qs_pg:id":333883
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d260ea2c8aa59f07c6c3ebabc8f0323d",
+    "wof:geomhash":"ced59d58eb3c3c7195a13427eabbfb4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470353,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353920,
     "wof:name":"Castelmassa",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":4051,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

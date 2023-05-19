@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brentino Belluno",
+    "eurostat:nuts_2021_id":"023013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023013",
+    "eurostat:population":1343,
+    "eurostat:population_year":2020,
     "geom:area":0.003001,
     "geom:area_square_m":25929585.395032,
     "geom:bbox":"10.8435600755,45.6052169523,10.9260567942,45.7174026001",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023013",
+        "eurostat:nuts_2021_id":"023013",
         "gn:id":6542646,
         "gp:id":12676684,
         "qs_pg:id":39168
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f5523307787834c18f22f8bdaf5cc7b7",
+    "wof:geomhash":"9b4dc78613727064fe8847cd06669020",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469661,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353907,
     "wof:name":"Brentino Belluno",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":1343,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Augusta",
+    "eurostat:nuts_2021_id":"089001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089001",
+    "eurostat:population":35698,
+    "eurostat:population_year":2020,
     "geom:area":0.011218,
-    "geom:area_square_m":110395105.055348,
+    "geom:area_square_m":110395105.055344,
     "geom:bbox":"15.0325473311,37.1823887751,15.2576435912,37.3446666628",
     "geom:latitude":37.262427,
     "geom:longitude":15.148763,
@@ -194,6 +206,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -202,6 +216,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089001",
+        "eurostat:nuts_2021_id":"089001",
         "gn:id":6541772,
         "gp:id":12676336,
         "qs_pg:id":248773
@@ -210,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a2bace2c73780ab29a5bb02a20fc179",
+    "wof:geomhash":"158ec74c4291c1236c5b52b3e3f16479",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,10 +237,12 @@
         }
     ],
     "wof:id":404466673,
-    "wof:lastmodified":1582328188,
+    "wof:lastmodified":1684353854,
     "wof:name":"Augusta",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":35698,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

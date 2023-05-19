@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondavio",
+    "eurostat:nuts_2021_id":"041028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041028",
+    "eurostat:population":3725,
+    "eurostat:population_year":2020,
     "geom:area":0.003302,
-    "geom:area_square_m":29530337.716584,
+    "geom:area_square_m":29530337.716579,
     "geom:bbox":"12.9197154076,43.6230804501,13.0264200247,43.7257815462",
     "geom:latitude":43.668565,
     "geom:longitude":12.97054,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041028",
+        "eurostat:nuts_2021_id":"041028",
         "gn:id":6538496,
         "gp:id":12680405,
         "qs_pg:id":408775
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c7c0a6027102053436846fd48f6160b",
+    "wof:geomhash":"44c523b15ad555dc6a6d39b4aebb070c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459763,
-    "wof:lastmodified":1582328152,
+    "wof:lastmodified":1684353701,
     "wof:name":"Mondavio",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":3725,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

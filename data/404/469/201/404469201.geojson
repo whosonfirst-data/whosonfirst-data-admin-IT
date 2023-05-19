@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sermide e Felonica",
+    "eurostat:nuts_2021_id":"020061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020061",
+    "eurostat:population":7259,
+    "eurostat:population_year":2020,
     "geom:area":0.006509,
-    "geom:area_square_m":56928785.939234,
+    "geom:area_square_m":56928785.939236,
     "geom:bbox":"11.2129235456,44.9383022491,11.3275348832,45.0317278347",
     "geom:latitude":44.98224,
     "geom:longitude":11.267897,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020061",
+        "eurostat:nuts_2021_id":"020061",
         "gn:id":6536226,
         "gp:id":12677763,
         "qs_pg:id":39863
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e59af683d96423dea65dcec67692dcfb",
+    "wof:geomhash":"059d3805d048153c26af604349941bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469201,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353901,
     "wof:name":"Sermide",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":7259,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

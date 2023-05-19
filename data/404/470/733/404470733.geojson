@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Santina",
+    "eurostat:nuts_2021_id":"030133",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030133",
+    "eurostat:population":2200,
+    "eurostat:population_year":2020,
     "geom:area":0.001518,
-    "geom:area_square_m":12943733.746865,
+    "geom:area_square_m":12943733.746868,
     "geom:bbox":"12.9044525895,46.3787686637,12.976738118,46.4240379949",
     "geom:latitude":46.405811,
     "geom:longitude":12.937479,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030133",
+        "eurostat:nuts_2021_id":"030133",
         "gn:id":6538399,
         "gp:id":12679769,
         "qs_pg:id":1205781
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2301cea47b5700e0c487bd8546ef0a20",
+    "wof:geomhash":"a005ffb6db06cad50d42fcfde18e49c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470733,
-    "wof:lastmodified":1582327747,
+    "wof:lastmodified":1684353927,
     "wof:name":"Villa Santina",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2200,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buseto Palizzolo",
+    "eurostat:nuts_2021_id":"081002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081002",
+    "eurostat:population":2855,
+    "eurostat:population_year":2020,
     "geom:area":0.007454,
-    "geom:area_square_m":72636745.898547,
+    "geom:area_square_m":72636745.898528,
     "geom:bbox":"12.6644861075,37.9429278139,12.8112971606,38.0426838528",
     "geom:latitude":37.98961,
     "geom:longitude":12.73643,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081002",
+        "eurostat:nuts_2021_id":"081002",
         "gn:id":6543640,
         "gp:id":12677134,
         "qs_pg:id":231479
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e76eddfdc0d59ee1a928317357a2e86e",
+    "wof:geomhash":"3878be9a85dee5636d9975c792f35363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404464867,
-    "wof:lastmodified":1582327797,
+    "wof:lastmodified":1684353818,
     "wof:name":"Buseto Palizzolo",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":2855,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

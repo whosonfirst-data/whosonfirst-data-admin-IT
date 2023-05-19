@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferentino",
+    "eurostat:nuts_2021_id":"060033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060033",
+    "eurostat:population":20864,
+    "eurostat:population_year":2020,
     "geom:area":0.008741,
-    "geom:area_square_m":80704859.618782,
+    "geom:area_square_m":80704859.618785,
     "geom:bbox":"13.1912917012,41.6326572426,13.3153893978,41.7784432693",
     "geom:latitude":41.694693,
     "geom:longitude":13.248394,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060033",
+        "eurostat:nuts_2021_id":"060033",
         "gn:id":6539766,
         "gp:id":12679234,
         "qs_pg:id":1195239
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78cf864f549146aa83069e61b7d5d3d6",
+    "wof:geomhash":"b252c1b662da7129871500db2b6c885f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404461937,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353749,
     "wof:name":"Ferentino",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":20864,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

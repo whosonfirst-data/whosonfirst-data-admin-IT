@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pietro a Maida",
+    "eurostat:nuts_2021_id":"079114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079114",
+    "eurostat:population":4011,
+    "eurostat:population_year":2020,
     "geom:area":0.001692,
-    "geom:area_square_m":16291483.500223,
+    "geom:area_square_m":16291483.500224,
     "geom:bbox":"16.2746169703,38.8280894518,16.3602685114,38.8752634398",
     "geom:latitude":38.853628,
     "geom:longitude":16.327031,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079114",
+        "eurostat:nuts_2021_id":"079114"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"931af118fbcbe98a3bdb0be499dd6163",
+    "wof:geomhash":"a7a5645beb967b8ae75c4e4eae580a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464417,
-    "wof:lastmodified":1566723235,
+    "wof:lastmodified":1684353805,
     "wof:name":"San Pietro A Maida",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":4011,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

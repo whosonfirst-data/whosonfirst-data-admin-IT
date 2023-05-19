@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losine",
+    "eurostat:nuts_2021_id":"017094",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017094",
+    "eurostat:population":611,
+    "eurostat:population_year":2020,
     "geom:area":0.000727,
-    "geom:area_square_m":6243875.112833,
+    "geom:area_square_m":6243875.112831,
     "geom:bbox":"10.2828490001,45.9645905109,10.3348841319,45.9953225964",
     "geom:latitude":45.979446,
     "geom:longitude":10.308003,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017094",
+        "eurostat:nuts_2021_id":"017094",
         "gn:id":6542604,
         "gp:id":20076255,
         "qs_pg:id":955241
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bb4a939d9e12d01bc18690df3d18e32",
+    "wof:geomhash":"a64000108cada07b6974b200c180d90f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471135,
-    "wof:lastmodified":1582327709,
+    "wof:lastmodified":1684353934,
     "wof:name":"Losine",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":611,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

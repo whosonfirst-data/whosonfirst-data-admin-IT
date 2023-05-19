@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Correzzola",
+    "eurostat:nuts_2021_id":"028035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028035",
+    "eurostat:population":5140,
+    "eurostat:population_year":2020,
     "geom:area":0.004846,
-    "geom:area_square_m":42206068.499863,
+    "geom:area_square_m":42206068.499862,
     "geom:bbox":"12.0038131047,45.1934751445,12.1851041016,45.2409142357",
     "geom:latitude":45.217366,
     "geom:longitude":12.07934,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028035",
+        "eurostat:nuts_2021_id":"028035",
         "gn:id":6536671,
         "gp:id":12678849,
         "qs_pg:id":1059631
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f58b0ef4ae2c598eb0f182ff3d90f7a9",
+    "wof:geomhash":"8c143710e469cc9e80794c575b815fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470273,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353919,
     "wof:name":"Correzzola",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":5140,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

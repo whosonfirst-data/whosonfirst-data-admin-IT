@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alice Castello",
+    "eurostat:nuts_2021_id":"002004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002004",
+    "eurostat:population":2544,
+    "eurostat:population_year":2020,
     "geom:area":0.002823,
-    "geom:area_square_m":24526731.945378,
+    "geom:area_square_m":24526731.945374,
     "geom:bbox":"8.03082757877,45.3447081214,8.13527491205,45.3979017422",
     "geom:latitude":45.369718,
     "geom:longitude":8.085423,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002004",
+        "eurostat:nuts_2021_id":"002004",
         "gn:id":6538097,
         "gp:id":12675956,
         "qs_pg:id":934650
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"26281d7c23920e0695bdf8c803cc163c",
+    "wof:geomhash":"7c248d1c196466f18fdb9429f4c78445",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457459,
-    "wof:lastmodified":1582328117,
+    "wof:lastmodified":1684353650,
     "wof:name":"Alice Castello",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":2544,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

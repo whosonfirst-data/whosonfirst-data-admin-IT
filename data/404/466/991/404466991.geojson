@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bauladu",
+    "eurostat:nuts_2021_id":"095013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095013",
+    "eurostat:population":668,
+    "eurostat:population_year":2020,
     "geom:area":0.002557,
-    "geom:area_square_m":24214736.986343,
+    "geom:area_square_m":24214736.986342,
     "geom:bbox":"8.64822466715,39.9939053034,8.71257327429,40.0583496935",
     "geom:latitude":40.024281,
     "geom:longitude":8.682287,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095013",
+        "eurostat:nuts_2021_id":"095013",
         "gn:id":6537964,
         "gp:id":12676641,
         "qs_pg:id":1019697
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c89d061e3fb467e0a3be36e9d4786ca",
+    "wof:geomhash":"2b60e22f152d7788dd68de246f250a74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466991,
-    "wof:lastmodified":1582328183,
+    "wof:lastmodified":1684353863,
     "wof:name":"Bauladu",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":668,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

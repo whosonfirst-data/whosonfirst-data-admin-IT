@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fratte Rosa",
+    "eurostat:nuts_2021_id":"041016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041016",
+    "eurostat:population":913,
+    "eurostat:population_year":2020,
     "geom:area":0.001741,
-    "geom:area_square_m":15575819.46474,
+    "geom:area_square_m":15575819.464739,
     "geom:bbox":"12.8786539769,43.6201233451,12.9401509283,43.6599377324",
     "geom:latitude":43.639942,
     "geom:longitude":12.911687,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041016",
+        "eurostat:nuts_2021_id":"041016",
         "gn:id":6536762,
         "gp:id":20076782,
         "qs_pg:id":1149950
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2dd1c21012136666bc75db178223d03f",
+    "wof:geomhash":"d79d5cde584aa8760c694baa04cef570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459735,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353700,
     "wof:name":"Fratte Rosa",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":913,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

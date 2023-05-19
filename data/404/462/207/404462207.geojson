@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oricola",
+    "eurostat:nuts_2021_id":"066062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066062",
+    "eurostat:population":1272,
+    "eurostat:population_year":2020,
     "geom:area":0.001993,
-    "geom:area_square_m":18295121.908744,
+    "geom:area_square_m":18295121.908743,
     "geom:bbox":"13.0185539812,42.0295772313,13.0694848664,42.0954226925",
     "geom:latitude":42.066616,
     "geom:longitude":13.043665,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_066062",
+        "eurostat:nuts_2021_id":"066062"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a77dce9e72fa42252ea3edb559044798",
+    "wof:geomhash":"17cbd082977e0beed4d4f874c701a196",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404462207,
-    "wof:lastmodified":1566723336,
+    "wof:lastmodified":1684353754,
     "wof:name":"Oricola",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":1272,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

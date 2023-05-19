@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alberobello",
+    "eurostat:nuts_2021_id":"072003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072003",
+    "eurostat:population":10621,
+    "eurostat:population_year":2020,
     "geom:area":0.004308,
-    "geom:area_square_m":40326420.36936,
+    "geom:area_square_m":40326420.369372,
     "geom:bbox":"17.1846482733,40.7569335111,17.3102529472,40.826197039",
     "geom:latitude":40.797285,
     "geom:longitude":17.23815,
@@ -191,6 +203,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -199,6 +213,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072003",
+        "eurostat:nuts_2021_id":"072003",
         "gn:id":6541733,
         "gp:id":12675906,
         "qs_pg:id":1142765
@@ -207,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1be14eaecbfa87c62904801568e0fcb7",
+    "wof:geomhash":"ba7bf04b59301bd7dca03078710a2752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,10 +234,12 @@
         }
     ],
     "wof:id":404463183,
-    "wof:lastmodified":1582327788,
+    "wof:lastmodified":1684353774,
     "wof:name":"Alberobello",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":10621,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

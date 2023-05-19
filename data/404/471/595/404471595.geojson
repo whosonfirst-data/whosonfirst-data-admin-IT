@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romeno",
+    "eurostat:nuts_2021_id":"022155",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022155",
+    "eurostat:population":1408,
+    "eurostat:population_year":2020,
     "geom:area":0.001068,
-    "geom:area_square_m":9106779.774609,
+    "geom:area_square_m":9106779.774608,
     "geom:bbox":"11.0829415066,46.3681379778,11.1310167883,46.4072068539",
     "geom:latitude":46.385217,
     "geom:longitude":11.109545,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022155",
+        "eurostat:nuts_2021_id":"022155",
         "gn:id":6536244,
         "gp:id":12681472,
         "qs_pg:id":1093141
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81ffb7c9205a23a14b8a76dd8d096cef",
+    "wof:geomhash":"4c1df9dd5b33d3b7ee39d8bdbdaea42d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471595,
-    "wof:lastmodified":1582327710,
+    "wof:lastmodified":1684353942,
     "wof:name":"Romeno",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1408,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

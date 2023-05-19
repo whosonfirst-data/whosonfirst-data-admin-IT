@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cisano Bergamasco",
+    "eurostat:nuts_2021_id":"016074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016074",
+    "eurostat:population":6311,
+    "eurostat:population_year":2020,
     "geom:area":0.000904,
     "geom:area_square_m":7803913.328804,
     "geom:bbox":"9.44589447722,45.7325129821,9.49235855383,45.7680631811",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016074",
+        "eurostat:nuts_2021_id":"016074",
         "gn:id":6540595,
         "gp:id":12678686,
         "qs_pg:id":1296527
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"640ee0d0e91d33a2eafb9717da824d1a",
+    "wof:geomhash":"d5cd59dcd3f70126563070e1c3acd5e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404465869,
-    "wof:lastmodified":1582327832,
+    "wof:lastmodified":1684353839,
     "wof:name":"Cisano Bergamasco",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":6311,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

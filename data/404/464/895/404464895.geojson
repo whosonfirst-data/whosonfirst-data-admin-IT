@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_081015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Partanna",
+    "eurostat:nuts_2021_id":"081015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG11",
+    "eurostat:nuts_2021_level_lau":"081015",
+    "eurostat:population":10324,
+    "eurostat:population_year":2020,
     "geom:area":0.008436,
-    "geom:area_square_m":82514702.323084,
+    "geom:area_square_m":82514702.323086,
     "geom:bbox":"12.8282702559,37.6680664264,12.9610544793,37.7680455224",
     "geom:latitude":37.721238,
     "geom:longitude":12.893276,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_081015",
+        "eurostat:nuts_2021_id":"081015",
         "gn:id":6540821,
         "gp:id":12680936,
         "qs_pg:id":537665
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf08b8f33f6fbb97153c55ec42e3c8f3",
+    "wof:geomhash":"a0861ab89256a152e6e9254103d7cc98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464895,
-    "wof:lastmodified":1582327796,
+    "wof:lastmodified":1684353820,
     "wof:name":"Partanna",
     "wof:parent_id":85685581,
     "wof:placetype":"localadmin",
+    "wof:population":10324,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giardini-Naxos",
+    "eurostat:nuts_2021_id":"083032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083032",
+    "eurostat:population":9337,
+    "eurostat:population_year":2020,
     "geom:area":0.000538,
     "geom:area_square_m":5252666.604964,
     "geom:bbox":"15.2454311413,37.8072149177,15.2807780341,37.8461564889",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_083032",
+        "eurostat:nuts_2021_id":"083032"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"ab281a809af6712cac393ec1c6141b8d",
+    "wof:geomhash":"4b081b68a15f95ffb90527f8d9ae1edc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404466257,
-    "wof:lastmodified":1566723772,
+    "wof:lastmodified":1684353845,
     "wof:name":"Giardini-Naxos",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":9337,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

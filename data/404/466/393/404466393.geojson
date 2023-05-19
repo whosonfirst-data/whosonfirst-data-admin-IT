@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savoca",
+    "eurostat:nuts_2021_id":"083093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083093",
+    "eurostat:population":1732,
+    "eurostat:population_year":2020,
     "geom:area":0.000924,
     "geom:area_square_m":9009125.211806,
     "geom:bbox":"15.3133622622,37.9336258573,15.3555802008,37.9765564072",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_083093",
+        "eurostat:nuts_2021_id":"083093"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8fd2172f083d49d4fc9d59d737946e6d",
+    "wof:geomhash":"dad37e421a7c432849dcf23bd70f59a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404466393,
-    "wof:lastmodified":1566723784,
+    "wof:lastmodified":1684353848,
     "wof:name":"Savoca",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":1732,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

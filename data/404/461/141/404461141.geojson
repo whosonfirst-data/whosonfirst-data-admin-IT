@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Francavilla d'Ete",
+    "eurostat:nuts_2021_id":"109007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109007",
+    "eurostat:population":928,
+    "eurostat:population_year":2020,
     "geom:area":0.001127,
     "geom:area_square_m":10160629.890243,
     "geom:bbox":"13.5163864947,43.1700514596,13.5588250563,43.2124894015",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109007",
+        "eurostat:nuts_2021_id":"109007",
         "gn:id":6536797,
         "gp:id":12679397,
         "qs_pg:id":203996
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33f4d08ce0728011af2081cf4b4bebf3",
+    "wof:geomhash":"67d34b42f13aed070c71fb2a381aaa6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404461141,
-    "wof:lastmodified":1582328149,
+    "wof:lastmodified":1684353733,
     "wof:name":"Francavilla D'Ete",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":928,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

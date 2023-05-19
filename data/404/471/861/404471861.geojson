@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanremo",
+    "eurostat:nuts_2021_id":"008055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008055",
+    "eurostat:population":54850,
+    "eurostat:population_year":2020,
     "geom:area":0.006265,
-    "geom:area_square_m":55880142.253944,
+    "geom:area_square_m":55880142.253945,
     "geom:bbox":"7.705134616,43.7960033511,7.84710280995,43.8758080168",
     "geom:latitude":43.838105,
     "geom:longitude":7.767479,
@@ -245,6 +257,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -252,9 +266,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_008055",
+        "eurostat:nuts_2021_id":"008055"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bff79ea7bc0abf92dc4f4ad2d7c4a2e4",
+    "wof:geomhash":"6afcf19a5bec8bc2b5657d74a6a9164d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -265,10 +282,12 @@
         }
     ],
     "wof:id":404471861,
-    "wof:lastmodified":1566723098,
+    "wof:lastmodified":1684353947,
     "wof:name":"Sanremo",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":54850,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

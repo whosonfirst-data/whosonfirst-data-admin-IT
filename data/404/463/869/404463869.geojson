@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siena",
+    "eurostat:nuts_2021_id":"052032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052032",
+    "eurostat:population":53922,
+    "eurostat:population_year":2020,
     "geom:area":0.013155,
-    "geom:area_square_m":118359630.978662,
+    "geom:area_square_m":118359630.97868,
     "geom:bbox":"11.2299241144,43.2498833371,11.4286140416,43.3662517742",
     "geom:latitude":43.310522,
     "geom:longitude":11.333839,
@@ -293,6 +305,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -301,6 +315,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052032",
+        "eurostat:nuts_2021_id":"052032",
         "gn:id":6541466,
         "gp:id":12677037,
         "qs_pg:id":1150574
@@ -309,7 +325,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d740dda4e8d1d152e7c0a479afcfc20",
+    "wof:geomhash":"68b4f0f69242676767946b0a67ac8c04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,10 +336,12 @@
         }
     ],
     "wof:id":404463869,
-    "wof:lastmodified":1582327770,
+    "wof:lastmodified":1684353788,
     "wof:name":"Siena",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":53922,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

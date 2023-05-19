@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Travo",
+    "eurostat:nuts_2021_id":"033043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033043",
+    "eurostat:population":2141,
+    "eurostat:population_year":2020,
     "geom:area":0.00923,
-    "geom:area_square_m":80902510.007007,
+    "geom:area_square_m":80902510.007005,
     "geom:bbox":"9.44892986898,44.7957265258,9.59455709275,44.9209601543",
     "geom:latitude":44.857677,
     "geom:longitude":9.526011,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033043",
+        "eurostat:nuts_2021_id":"033043",
         "gn:id":6540406,
         "gp:id":12678317,
         "qs_pg:id":1293063
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96d74f2523776fe954c06995ab0a6591",
+    "wof:geomhash":"0591ecc90cab38f69ebce5a56e5cd428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472129,
-    "wof:lastmodified":1582327891,
+    "wof:lastmodified":1684353952,
     "wof:name":"Travo",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":2141,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

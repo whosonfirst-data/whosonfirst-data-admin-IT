@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serravalle Scrivia",
+    "eurostat:nuts_2021_id":"006160",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006160",
+    "eurostat:population":5974,
+    "eurostat:population_year":2020,
     "geom:area":0.001813,
-    "geom:area_square_m":15928596.270561,
+    "geom:area_square_m":15928596.270556,
     "geom:bbox":"8.82088778193,44.6953007644,8.88584807572,44.7582273655",
     "geom:latitude":44.72381,
     "geom:longitude":8.849637,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006160",
+        "eurostat:nuts_2021_id":"006160",
         "gn:id":6536447,
         "gp:id":12681985,
         "qs_pg:id":1102237
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"522f669040fef6ac36c91ba8523cd9d3",
+    "wof:geomhash":"980a9ce18270e2d5ae8a233d49b221b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404456773,
-    "wof:lastmodified":1582328071,
+    "wof:lastmodified":1684353632,
     "wof:name":"Serravalle Scrivia",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":5974,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

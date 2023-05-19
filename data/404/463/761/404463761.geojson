@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montemignaio",
+    "eurostat:nuts_2021_id":"051023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051023",
+    "eurostat:population":532,
+    "eurostat:population_year":2020,
     "geom:area":0.002898,
-    "geom:area_square_m":25887842.365616,
+    "geom:area_square_m":25887842.365614,
     "geom:bbox":"11.5720369248,43.7142366188,11.6366974628,43.7885965785",
     "geom:latitude":43.749293,
     "geom:longitude":11.60551,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051023",
+        "eurostat:nuts_2021_id":"051023",
         "gn:id":6542741,
         "gp:id":20076763,
         "qs_pg:id":1103169
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db1a230764fbdeb53326b7a94be71765",
+    "wof:geomhash":"8770f4f2e724091cdf117947357f3221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404463761,
-    "wof:lastmodified":1582327780,
+    "wof:lastmodified":1684353785,
     "wof:name":"Montemignaio",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":532,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

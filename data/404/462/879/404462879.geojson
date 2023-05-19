@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conca Casale",
+    "eurostat:nuts_2021_id":"094018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094018",
+    "eurostat:population":173,
+    "eurostat:population_year":2020,
     "geom:area":0.001551,
     "geom:area_square_m":14360091.76358,
     "geom:bbox":"13.9727617015,41.4802873568,14.0442207356,41.5218127699",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094018",
+        "eurostat:nuts_2021_id":"094018",
         "gn:id":6540874,
         "gp:id":12678848,
         "qs_pg:id":40560
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ade7b98d978b1be4d64b575afc30af10",
+    "wof:geomhash":"b804c5cbb41a061e2f06db7199cee422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462879,
-    "wof:lastmodified":1582327866,
+    "wof:lastmodified":1684353768,
     "wof:name":"Conca Casale",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":173,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

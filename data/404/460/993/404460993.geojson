@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte San Giusto",
+    "eurostat:nuts_2021_id":"043031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043031",
+    "eurostat:population":7704,
+    "eurostat:population_year":2020,
     "geom:area":0.002215,
-    "geom:area_square_m":19950277.905793,
+    "geom:area_square_m":19950277.9058,
     "geom:bbox":"13.5534586173,43.2082417158,13.6096531172,43.2677576516",
     "geom:latitude":43.23729,
     "geom:longitude":13.581757,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043031",
+        "eurostat:nuts_2021_id":"043031",
         "gn:id":6536788,
         "gp:id":12680470,
         "qs_pg:id":1016794
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f106f74da544b3dbf0e46d3b18a4adfc",
+    "wof:geomhash":"a6bd3cdc3a35aeea7cfbac73fe8d39d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404460993,
-    "wof:lastmodified":1582328010,
+    "wof:lastmodified":1684353728,
     "wof:name":"Monte San Giusto",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":7704,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

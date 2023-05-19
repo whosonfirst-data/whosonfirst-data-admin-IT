@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borbona",
+    "eurostat:nuts_2021_id":"057006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057006",
+    "eurostat:population":603,
+    "eurostat:population_year":2020,
     "geom:area":0.00524,
-    "geom:area_square_m":47776520.212138,
+    "geom:area_square_m":47776520.212132,
     "geom:bbox":"13.0928500767,42.4438713316,13.1784887764,42.540379522",
     "geom:latitude":42.493505,
     "geom:longitude":13.134889,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057006",
+        "eurostat:nuts_2021_id":"057006",
         "gn:id":6538644,
         "gp:id":12676555,
         "qs_pg:id":536131
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7e65e45e2dc6596a6586033afe6f20b",
+    "wof:geomhash":"66d120db9c1d6369a987b05b72bb3cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461365,
-    "wof:lastmodified":1582328123,
+    "wof:lastmodified":1684353737,
     "wof:name":"Borbona",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":603,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

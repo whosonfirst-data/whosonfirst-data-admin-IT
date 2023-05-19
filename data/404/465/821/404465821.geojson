@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caprino Bergamasco",
+    "eurostat:nuts_2021_id":"016052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016052",
+    "eurostat:population":3086,
+    "eurostat:population_year":2020,
     "geom:area":0.001017,
-    "geom:area_square_m":8770156.326273,
+    "geom:area_square_m":8770156.326274,
     "geom:bbox":"9.47873032302,45.7361001183,9.52154057768,45.7842586374",
     "geom:latitude":45.759317,
     "geom:longitude":9.497114,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016052",
+        "eurostat:nuts_2021_id":"016052",
         "gn:id":6536142,
         "gp:id":12677625,
         "qs_pg:id":1252554
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a70c49859c22eaa5cd42865766f37044",
+    "wof:geomhash":"506663afc06d1f1be051260a8ef75712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465821,
-    "wof:lastmodified":1582327829,
+    "wof:lastmodified":1684353838,
     "wof:name":"Caprino Bergamasco",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":3086,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

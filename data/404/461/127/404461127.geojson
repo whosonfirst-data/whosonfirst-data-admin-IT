@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venarotta",
+    "eurostat:nuts_2021_id":"044073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044073",
+    "eurostat:population":1971,
+    "eurostat:population_year":2020,
     "geom:area":0.003321,
-    "geom:area_square_m":30083777.186552,
+    "geom:area_square_m":30083777.186551,
     "geom:bbox":"13.4720334559,42.8505842686,13.5432188898,42.9328977034",
     "geom:latitude":42.887716,
     "geom:longitude":13.503192,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_044073",
+        "eurostat:nuts_2021_id":"044073",
         "gn:id":6538546,
         "gp:id":12679584,
         "qs_pg:id":1143087
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b252ffa70c6b73f744b23e011665efd6",
+    "wof:geomhash":"b7db1a375e2aa2656839ebbe1e482570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461127,
-    "wof:lastmodified":1582328134,
+    "wof:lastmodified":1684353732,
     "wof:name":"Venarotta",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":1971,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

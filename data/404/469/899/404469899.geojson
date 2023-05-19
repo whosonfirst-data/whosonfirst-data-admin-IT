@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamon",
+    "eurostat:nuts_2021_id":"025026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025026",
+    "eurostat:population":2791,
+    "eurostat:population_year":2020,
     "geom:area":0.006317,
-    "geom:area_square_m":54202538.081456,
+    "geom:area_square_m":54202538.081452,
     "geom:bbox":"11.6662093974,46.0151016115,11.7660652916,46.1051829266",
     "geom:latitude":46.058123,
     "geom:longitude":11.723578,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025026",
+        "eurostat:nuts_2021_id":"025026",
         "gn:id":6538279,
         "gp:id":20076685,
         "qs_pg:id":1205676
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0557f1b9e9cf1bbb99b67a95a30de57a",
+    "wof:geomhash":"b3209f14c89d3f8a1dd00061fccb480d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469899,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353912,
     "wof:name":"Lamon",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":2791,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

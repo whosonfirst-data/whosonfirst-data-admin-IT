@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maretto",
+    "eurostat:nuts_2021_id":"005062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005062",
+    "eurostat:population":383,
+    "eurostat:population_year":2020,
     "geom:area":0.000562,
-    "geom:area_square_m":4917750.274196,
+    "geom:area_square_m":4917750.274194,
     "geom:bbox":"8.01977464147,44.9298002048,8.05706779479,44.9598890909",
     "geom:latitude":44.941414,
     "geom:longitude":8.038512,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005062",
+        "eurostat:nuts_2021_id":"005062",
         "gn:id":6542398,
         "gp:id":20075852,
         "qs_pg:id":1110557
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85d2a3f38c7cad53024fe81878bcaaf5",
+    "wof:geomhash":"51ea410c9e0a77e603c36d7425a95935",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456047,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353616,
     "wof:name":"Maretto",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":383,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

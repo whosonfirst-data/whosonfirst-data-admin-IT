@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca d'Evandro",
+    "eurostat:nuts_2021_id":"061069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061069",
+    "eurostat:population":3088,
+    "eurostat:population_year":2020,
     "geom:area":0.005314,
-    "geom:area_square_m":49302827.680599,
+    "geom:area_square_m":49302827.680578,
     "geom:bbox":"13.861275456,41.3195476567,13.9522092325,41.4287162409",
     "geom:latitude":41.380174,
     "geom:longitude":13.904326,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061069",
+        "eurostat:nuts_2021_id":"061069",
         "gn:id":6536341,
         "gp:id":12677856,
         "qs_pg:id":243391
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"792849811e0c49fffc9a138705a63464",
+    "wof:geomhash":"89190c2d415fb65174456381b2c84a3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463111,
-    "wof:lastmodified":1582327774,
+    "wof:lastmodified":1684353772,
     "wof:name":"Rocca D'Evandro",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":3088,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

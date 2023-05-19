@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mompantero",
+    "eurostat:nuts_2021_id":"001154",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001154",
+    "eurostat:population":643,
+    "eurostat:population_year":2020,
     "geom:area":0.003473,
-    "geom:area_square_m":30274133.047755,
+    "geom:area_square_m":30274133.047751,
     "geom:bbox":"7.02242051037,45.139602545,7.13182392568,45.2033153124",
     "geom:latitude":45.16884,
     "geom:longitude":7.076071,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001154",
+        "eurostat:nuts_2021_id":"001154",
         "gn:id":6542377,
         "gp:id":20076488,
         "qs_pg:id":1110671
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b2e09276f243a45351d83df36500b66",
+    "wof:geomhash":"96c29c9650159fcebc33866b8257ed27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456521,
-    "wof:lastmodified":1582328056,
+    "wof:lastmodified":1684353626,
     "wof:name":"Mompantero",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":643,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

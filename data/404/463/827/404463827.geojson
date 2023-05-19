@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaiole in Chianti",
+    "eurostat:nuts_2021_id":"052013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052013",
+    "eurostat:population":2635,
+    "eurostat:population_year":2020,
     "geom:area":0.014327,
-    "geom:area_square_m":128633134.916326,
+    "geom:area_square_m":128633134.916331,
     "geom:bbox":"11.3545228093,43.355236627,11.550845616,43.5127830577",
     "geom:latitude":43.440335,
     "geom:longitude":11.446227,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052013",
+        "eurostat:nuts_2021_id":"052013",
         "gn:id":6538598,
         "gp:id":12679459,
         "qs_pg:id":192316
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50def83b860ef7683bdbbbc0d0ab7ea2",
+    "wof:geomhash":"c63f9fbf23fc3fdf486502c29192052f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463827,
-    "wof:lastmodified":1582327764,
+    "wof:lastmodified":1684353787,
     "wof:name":"Gaiole In Chianti",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":2635,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

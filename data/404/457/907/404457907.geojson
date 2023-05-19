@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boves",
+    "eurostat:nuts_2021_id":"004028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004028",
+    "eurostat:population":9717,
+    "eurostat:population_year":2020,
     "geom:area":0.005749,
-    "geom:area_square_m":50871751.828524,
+    "geom:area_square_m":50871751.82853,
     "geom:bbox":"7.50288459601,44.2386658478,7.60254146232,44.3616586584",
     "geom:latitude":44.307595,
     "geom:longitude":7.55948,
@@ -71,6 +83,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004028",
+        "eurostat:nuts_2021_id":"004028",
         "gn:id":6541849,
         "gp:id":12677048,
         "qs_pg:id":1081841
@@ -87,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95a2402521f358896bd0eb82641b720b",
+    "wof:geomhash":"8c7087d307e5b21edac3d5d5bd117fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404457907,
-    "wof:lastmodified":1582328095,
+    "wof:lastmodified":1684353659,
     "wof:name":"Boves",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":9717,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

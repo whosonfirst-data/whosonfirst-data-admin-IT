@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nizza di Sicilia",
+    "eurostat:nuts_2021_id":"083061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083061",
+    "eurostat:population":3628,
+    "eurostat:population_year":2020,
     "geom:area":0.001367,
-    "geom:area_square_m":13316203.041263,
+    "geom:area_square_m":13316203.041261,
     "geom:bbox":"15.3194220981,37.9833362646,15.4175302093,38.0455337498",
     "geom:latitude":38.015058,
     "geom:longitude":15.36368,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083061",
+        "eurostat:nuts_2021_id":"083061",
         "gn:id":6540833,
         "gp:id":12680682,
         "qs_pg:id":1160721
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2ae3c4f67641b2a0b2729c87fcc7e85",
+    "wof:geomhash":"3b79dae7feccb5636dabb109aa698cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404466321,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353847,
     "wof:name":"Nizza Di Sicilia",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":3628,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Badesi",
+    "eurostat:nuts_2021_id":"090081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090081",
+    "eurostat:population":1857,
+    "eurostat:population_year":2020,
     "geom:area":0.003351,
-    "geom:area_square_m":31289981.545608,
+    "geom:area_square_m":31289981.545606,
     "geom:bbox":"8.80259229736,40.9304021216,8.93585819448,40.9872443071",
     "geom:latitude":40.956174,
     "geom:longitude":8.879816,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090081",
+        "eurostat:nuts_2021_id":"090081",
         "gn:id":6537846,
         "gp:id":12676392,
         "qs_pg:id":1095004
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1320dda35fcf117c9f757a328bb06572",
+    "wof:geomhash":"3277f4132a556ce66eb330647933da17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467171,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353867,
     "wof:name":"Badesi",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1857,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

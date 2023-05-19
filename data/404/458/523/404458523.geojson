@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ameglia",
+    "eurostat:nuts_2021_id":"011001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011001",
+    "eurostat:population":4364,
+    "eurostat:population_year":2020,
     "geom:area":0.001593,
-    "geom:area_square_m":14155285.952773,
+    "geom:area_square_m":14155285.952771,
     "geom:bbox":"9.94158907949,44.0354310975,9.99929877707,44.0812411412",
     "geom:latitude":44.058219,
     "geom:longitude":9.969906,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011001",
+        "eurostat:nuts_2021_id":"011001",
         "gn:id":6540154,
         "gp:id":12676056,
         "qs_pg:id":76014
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c384fe3797a457c3ffe1c2612ae749c",
+    "wof:geomhash":"ae0384556d871260b83258ce4bdddda7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404458523,
-    "wof:lastmodified":1582327963,
+    "wof:lastmodified":1684353671,
     "wof:name":"Ameglia",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":4364,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

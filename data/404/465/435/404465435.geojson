@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teora",
+    "eurostat:nuts_2021_id":"064108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064108",
+    "eurostat:population":1459,
+    "eurostat:population_year":2020,
     "geom:area":0.002464,
-    "geom:area_square_m":23039687.498322,
+    "geom:area_square_m":23039687.49832,
     "geom:bbox":"15.2065570229,40.8376011909,15.2831886799,40.8910750398",
     "geom:latitude":40.861093,
     "geom:longitude":15.246821,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064108",
+        "eurostat:nuts_2021_id":"064108",
         "gn:id":6539999,
         "gp:id":12682156,
         "qs_pg:id":333457
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"91dfb9c7803d5925277e3e37c7bebcbc",
+    "wof:geomhash":"b5474d654b316e129284f3f5ef8f221c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465435,
-    "wof:lastmodified":1582327844,
+    "wof:lastmodified":1684353831,
     "wof:name":"Teora",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1459,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

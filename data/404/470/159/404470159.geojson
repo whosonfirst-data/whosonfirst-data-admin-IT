@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noale",
+    "eurostat:nuts_2021_id":"027026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027026",
+    "eurostat:population":16199,
+    "eurostat:population_year":2020,
     "geom:area":0.002843,
     "geom:area_square_m":24618675.920614,
     "geom:bbox":"12.031473303,45.5286987303,12.1133145928,45.5777617371",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027026",
+        "eurostat:nuts_2021_id":"027026",
         "gn:id":6538318,
         "gp:id":12680683,
         "qs_pg:id":1296841
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18097e9a9c606ff1f150f333727d259f",
+    "wof:geomhash":"e86d4203379db17f5e06ed1f8ed69a04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470159,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353917,
     "wof:name":"Noale",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":16199,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

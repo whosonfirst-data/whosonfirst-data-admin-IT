@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruda",
+    "eurostat:nuts_2021_id":"030098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030098",
+    "eurostat:population":2859,
+    "eurostat:population_year":2020,
     "geom:area":0.00225,
-    "geom:area_square_m":19381612.89034,
+    "geom:area_square_m":19381612.890341,
     "geom:bbox":"13.3375574886,45.8086300556,13.4293544866,45.8592595571",
     "geom:latitude":45.837117,
     "geom:longitude":13.387291,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030098",
+        "eurostat:nuts_2021_id":"030098",
         "gn:id":6538390,
         "gp:id":12607756,
         "qs_pg:id":1259918
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"416eabf9eab0fa604f6aeccf38d721d3",
+    "wof:geomhash":"22e8baa82893029550fac12d90be8cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404470657,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353925,
     "wof:name":"Ruda",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2859,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

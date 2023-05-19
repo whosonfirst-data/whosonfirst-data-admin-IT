@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caldaro sulla strada del vino/Kaltern an der Weinstra\u00dfe",
+    "eurostat:nuts_2021_id":"021015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021015",
+    "eurostat:population":8085,
+    "eurostat:population_year":2020,
     "geom:area":0.00562,
-    "geom:area_square_m":47928903.297372,
+    "geom:area_square_m":47928903.297378,
     "geom:bbox":"11.1995307266,46.3238895184,11.2935364204,46.4438925627",
     "geom:latitude":46.393379,
     "geom:longitude":11.245497,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021015",
+        "eurostat:nuts_2021_id":"021015"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4d529f479b4b7a88f9b547aa26e6ab1c",
+    "wof:geomhash":"ed485fbf62bb5c92da58ca856ae13f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473079,
-    "wof:lastmodified":1566723394,
+    "wof:lastmodified":1684353977,
     "wof:name":"Caldaro Sulla Strada Del Vino",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":8085,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

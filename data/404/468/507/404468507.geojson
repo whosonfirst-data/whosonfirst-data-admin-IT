@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzuolo Martesana",
+    "eurostat:nuts_2021_id":"015178",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015178",
+    "eurostat:population":8598,
+    "eurostat:population_year":2020,
     "geom:area":0.001399,
-    "geom:area_square_m":12121219.349522,
+    "geom:area_square_m":12121219.349521,
     "geom:bbox":"9.42563695244,45.4903612762,9.49554565399,45.5311067168",
     "geom:latitude":45.512254,
     "geom:longitude":9.460129,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_015178",
+        "eurostat:nuts_2021_id":"015178"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9b7731ac6a128f16c5ca8997f93a694b",
+    "wof:geomhash":"5696eabacbd4bd43edf8587f038436c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404468507,
-    "wof:lastmodified":1566723629,
+    "wof:lastmodified":1684353890,
     "wof:name":"Pozzuolo Martesana",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":8598,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

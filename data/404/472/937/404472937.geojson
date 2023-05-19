@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peccioli",
+    "eurostat:nuts_2021_id":"050025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050025",
+    "eurostat:population":4740,
+    "eurostat:population_year":2020,
     "geom:area":0.010305,
-    "geom:area_square_m":92376744.481358,
+    "geom:area_square_m":92376744.48133,
     "geom:bbox":"10.685895114,43.4773502062,10.8485322044,43.5844385389",
     "geom:latitude":43.534259,
     "geom:longitude":10.775393,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050025",
+        "eurostat:nuts_2021_id":"050025",
         "gn:id":6536838,
         "gp:id":12678435,
         "qs_pg:id":203923
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f0bf37ae6eb02bfec14ae03f765472e",
+    "wof:geomhash":"e44f8619772658ffd3c4cb7e3687ced3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472937,
-    "wof:lastmodified":1582327879,
+    "wof:lastmodified":1684353973,
     "wof:name":"Peccioli",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":4740,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

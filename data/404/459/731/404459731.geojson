@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fermignano",
+    "eurostat:nuts_2021_id":"041014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041014",
+    "eurostat:population":8407,
+    "eurostat:population_year":2020,
     "geom:area":0.00487,
-    "geom:area_square_m":43563737.093648,
+    "geom:area_square_m":43563737.093646,
     "geom:bbox":"12.5848706991,43.6315853583,12.7621899118,43.7020599718",
     "geom:latitude":43.666859,
     "geom:longitude":12.661642,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041014",
+        "eurostat:nuts_2021_id":"041014",
         "gn:id":6541839,
         "gp:id":12679237,
         "qs_pg:id":1252130
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1ca5fee48b077bd3a82050a1cdeed09",
+    "wof:geomhash":"0d2cec012e706092e2488fe383abd64d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459731,
-    "wof:lastmodified":1582328155,
+    "wof:lastmodified":1684353700,
     "wof:name":"Fermignano",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":8407,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perinaldo",
+    "eurostat:nuts_2021_id":"008040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008040",
+    "eurostat:population":833,
+    "eurostat:population_year":2020,
     "geom:area":0.002274,
-    "geom:area_square_m":20272008.792646,
+    "geom:area_square_m":20272008.792648,
     "geom:bbox":"7.6469881367,43.8306668132,7.72324550241,43.8802785954",
     "geom:latitude":43.856987,
     "geom:longitude":7.682676,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008040",
+        "eurostat:nuts_2021_id":"008040",
         "gn:id":6536076,
         "gp:id":12679402,
         "qs_pg:id":1187917
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7bd9c02556ab1426aa6babd80a20d65",
+    "wof:geomhash":"6c89c0ea02dc52c967065903aa5f63a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471827,
-    "wof:lastmodified":1582327712,
+    "wof:lastmodified":1684353946,
     "wof:name":"Perinaldo",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":833,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

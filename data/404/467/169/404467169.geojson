@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arzachena",
+    "eurostat:nuts_2021_id":"090006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090006",
+    "eurostat:population":13815,
+    "eurostat:population_year":2020,
     "geom:area":0.02476,
-    "geom:area_square_m":230744002.033316,
+    "geom:area_square_m":230744002.033339,
     "geom:bbox":"9.27870050614,41.0137754516,9.57223339107,41.1578173721",
     "geom:latitude":41.090628,
     "geom:longitude":9.411331,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090006",
+        "eurostat:nuts_2021_id":"090006",
         "gn:id":6539219,
         "gp:id":20076801,
         "qs_pg:id":1198895
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"046dac39de15614defabd013b527c126",
+    "wof:geomhash":"a745a9d74935cd175fb6c142f8ae5824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404467169,
-    "wof:lastmodified":1582327968,
+    "wof:lastmodified":1684353867,
     "wof:name":"Arzachena",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":13815,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

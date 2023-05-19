@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valle Agricola",
+    "eurostat:nuts_2021_id":"061096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061096",
+    "eurostat:population":804,
+    "eurostat:population_year":2020,
     "geom:area":0.00262,
-    "geom:area_square_m":24291339.08509,
+    "geom:area_square_m":24291339.085096,
     "geom:bbox":"14.2199061476,41.3994455789,14.3093491109,41.4432997341",
     "geom:latitude":41.422429,
     "geom:longitude":14.26339,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061096",
+        "eurostat:nuts_2021_id":"061096",
         "gn:id":6541151,
         "gp:id":12682340,
         "qs_pg:id":194530
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6f5d180682aad7f9395d70a1025bd10",
+    "wof:geomhash":"c75115caf5782d63bcb974a5ed0e71f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460673,
-    "wof:lastmodified":1582328000,
+    "wof:lastmodified":1684353723,
     "wof:name":"Valle Agricola",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":804,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

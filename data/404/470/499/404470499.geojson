@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colloredo di Monte Albano",
+    "eurostat:nuts_2021_id":"030028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030028",
+    "eurostat:population":2179,
+    "eurostat:population_year":2020,
     "geom:area":0.002529,
-    "geom:area_square_m":21661513.844205,
+    "geom:area_square_m":21661513.844202,
     "geom:bbox":"13.0708885667,46.1370756631,13.1672061906,46.1932000618",
     "geom:latitude":46.161978,
     "geom:longitude":13.117129,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030028",
+        "eurostat:nuts_2021_id":"030028",
         "gn:id":6542175,
         "gp:id":12676353,
         "qs_pg:id":221378
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d66d2d17960a0c3e9cfec0a9c172600",
+    "wof:geomhash":"efb4b33185ce335c7764f7915d1d9476",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404470499,
-    "wof:lastmodified":1582327742,
+    "wof:lastmodified":1684353923,
     "wof:name":"Colloredo Di Monte Albano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2179,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

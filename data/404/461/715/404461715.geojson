@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca Santo Stefano",
+    "eurostat:nuts_2021_id":"058089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058089",
+    "eurostat:population":949,
+    "eurostat:population_year":2020,
     "geom:area":0.001037,
-    "geom:area_square_m":9540085.040677,
+    "geom:area_square_m":9540085.040676,
     "geom:bbox":"13.0007151203,41.9008040944,13.059299339,41.9291111865",
     "geom:latitude":41.913956,
     "geom:longitude":13.033109,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058089",
+        "eurostat:nuts_2021_id":"058089",
         "gn:id":6543035,
         "gp:id":20076908,
         "qs_pg:id":205200
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2be86062673717064cceb5cf80a5124",
+    "wof:geomhash":"3e3d0e010667a74ff7d9c16f22a844fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461715,
-    "wof:lastmodified":1582328134,
+    "wof:lastmodified":1684353744,
     "wof:name":"Rocca Santo Stefano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":949,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

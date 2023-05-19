@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Voghera",
+    "eurostat:nuts_2021_id":"018182",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018182",
+    "eurostat:population":39345,
+    "eurostat:population_year":2020,
     "geom:area":0.007247,
-    "geom:area_square_m":63356086.471622,
+    "geom:area_square_m":63356086.471627,
     "geom:bbox":"8.96066759522,44.9588296144,9.07004689207,45.0690099547",
     "geom:latitude":45.008402,
     "geom:longitude":9.013571,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018182",
+        "eurostat:nuts_2021_id":"018182",
         "gn:id":6540635,
         "gp:id":12680796,
         "qs_pg:id":1292237
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"66c063d398dd9f88df91287af6250c35",
+    "wof:geomhash":"59c9c13d601c18ef2bf031fc2ec29bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404468787,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353894,
     "wof:name":"Voghera",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":39345,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cassino",
+    "eurostat:nuts_2021_id":"060019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060019",
+    "eurostat:population":36283,
+    "eurostat:population_year":2020,
     "geom:area":0.008964,
-    "geom:area_square_m":83041449.087842,
+    "geom:area_square_m":83041449.087854,
     "geom:bbox":"13.7776311854,41.4159938922,13.9083288651,41.5444180821",
     "geom:latitude":41.47885,
     "geom:longitude":13.835632,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060019",
+        "eurostat:nuts_2021_id":"060019",
         "gn:id":6541654,
         "gp:id":12677272,
         "qs_pg:id":1310864
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c487b78cd5f1a4c34ddd31986d67a3f4",
+    "wof:geomhash":"fb8b23e17018d08a17c6f3b8370fa700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404461905,
-    "wof:lastmodified":1582328139,
+    "wof:lastmodified":1684353748,
     "wof:name":"Cassino",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":36283,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

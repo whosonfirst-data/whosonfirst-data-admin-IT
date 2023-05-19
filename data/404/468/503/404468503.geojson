@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzo d'Adda",
+    "eurostat:nuts_2021_id":"015177",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015177",
+    "eurostat:population":6229,
+    "eurostat:population_year":2020,
     "geom:area":0.00048,
-    "geom:area_square_m":4158485.716311,
+    "geom:area_square_m":4158485.716312,
     "geom:bbox":"9.47978007252,45.5578984964,9.51386472972,45.5872741574",
     "geom:latitude":45.57159,
     "geom:longitude":9.497691,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015177",
+        "eurostat:nuts_2021_id":"015177",
         "gn:id":6542548,
         "gp:id":20076567,
         "qs_pg:id":1174667
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7471d1a74de1a024598d96719e4a7987",
+    "wof:geomhash":"490fbf3280562cd6568e1102b650eaf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468503,
-    "wof:lastmodified":1582328076,
+    "wof:lastmodified":1684353890,
     "wof:name":"Pozzo D'Adda",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":6229,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

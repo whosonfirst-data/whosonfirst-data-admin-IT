@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meleti",
+    "eurostat:nuts_2021_id":"098038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098038",
+    "eurostat:population":460,
+    "eurostat:population_year":2020,
     "geom:area":0.000845,
     "geom:area_square_m":7374720.69811,
     "geom:bbox":"9.80979446663,45.1090536881,9.84539614872,45.154168509",
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098038",
+        "eurostat:nuts_2021_id":"098038",
         "gn:id":6541981,
         "gp:id":12680266,
         "qs_pg:id":1195790
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cceefaf06d4645905bbf8de9d1a2022f",
+    "wof:geomhash":"f9737fbab5a88d665f2cb7929abddff4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404469509,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353905,
     "wof:name":"Meleti",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":460,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

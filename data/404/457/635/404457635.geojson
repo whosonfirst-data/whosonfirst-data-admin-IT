@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valduggia",
+    "eurostat:nuts_2021_id":"002152",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002152",
+    "eurostat:population":1933,
+    "eurostat:population_year":2020,
     "geom:area":0.003288,
-    "geom:area_square_m":28381212.635749,
+    "geom:area_square_m":28381212.635758,
     "geom:bbox":"8.30768559676,45.6963626022,8.39203779465,45.7755654259",
     "geom:latitude":45.728441,
     "geom:longitude":8.348683,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002152",
+        "eurostat:nuts_2021_id":"002152",
         "gn:id":6540668,
         "gp:id":12682330,
         "qs_pg:id":1180550
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"052d7b8be75796c0675dbaba790874f0",
+    "wof:geomhash":"591e12938742268aec78265f76c1a6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457635,
-    "wof:lastmodified":1582328103,
+    "wof:lastmodified":1684353654,
     "wof:name":"Valduggia",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":1933,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

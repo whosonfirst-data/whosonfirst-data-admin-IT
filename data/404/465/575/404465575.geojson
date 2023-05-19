@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eboli",
+    "eurostat:nuts_2021_id":"065050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065050",
+    "eurostat:population":39442,
+    "eurostat:population_year":2020,
     "geom:area":0.014548,
-    "geom:area_square_m":136658219.527589,
+    "geom:area_square_m":136658219.527634,
     "geom:bbox":"14.9061148564,40.4810278985,15.0986679391,40.6520643981",
     "geom:latitude":40.562158,
     "geom:longitude":15.005558,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065050",
+        "eurostat:nuts_2021_id":"065050",
         "gn:id":6541807,
         "gp:id":12679131,
         "qs_pg:id":1073085
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"599dc31763d9a3c84c0361845b305381",
+    "wof:geomhash":"eaaf4f8fda808f20efa3c518903599f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404465575,
-    "wof:lastmodified":1582327834,
+    "wof:lastmodified":1684353834,
     "wof:name":"Eboli",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":39442,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

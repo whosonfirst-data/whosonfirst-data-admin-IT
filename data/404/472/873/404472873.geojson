@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rosignano Marittimo",
+    "eurostat:nuts_2021_id":"049017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049017",
+    "eurostat:population":30672,
+    "eurostat:population_year":2020,
     "geom:area":0.013435,
-    "geom:area_square_m":120658598.878904,
+    "geom:area_square_m":120658598.87891,
     "geom:bbox":"10.3788334294,43.318756306,10.5090636036,43.5073460385",
     "geom:latitude":43.421131,
     "geom:longitude":10.452881,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -165,6 +179,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049017",
+        "eurostat:nuts_2021_id":"049017",
         "gn:id":6541093,
         "gp:id":12678051,
         "qs_pg:id":1193748
@@ -173,7 +189,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76e795bc735cc0451099a440df46ecef",
+    "wof:geomhash":"cc6cda8b8adc12bacb5ab490d9122851",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,10 +199,12 @@
         }
     ],
     "wof:id":404472873,
-    "wof:lastmodified":1582327883,
+    "wof:lastmodified":1684353972,
     "wof:name":"Rosignano Marittimo",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":30672,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

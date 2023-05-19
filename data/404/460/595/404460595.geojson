@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ballao",
+    "eurostat:nuts_2021_id":"111003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111003",
+    "eurostat:population":743,
+    "eurostat:population_year":2020,
     "geom:area":0.004891,
-    "geom:area_square_m":46619156.236824,
+    "geom:area_square_m":46619156.236817,
     "geom:bbox":"9.31389153457,39.5342251253,9.44197184334,39.6175693422",
     "geom:latitude":39.57341,
     "geom:longitude":9.382231,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111003",
+        "eurostat:nuts_2021_id":"111003",
         "gn:id":6537889,
         "gp:id":12676499,
         "qs_pg:id":946794
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1e779f4e82c9131e495e5df06c2f8d71",
+    "wof:geomhash":"b44d9df657f2134f27063541f57b1301",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460595,
-    "wof:lastmodified":1582327995,
+    "wof:lastmodified":1684353722,
     "wof:name":"Ballao",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":743,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

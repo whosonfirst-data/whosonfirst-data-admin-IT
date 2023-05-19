@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villette",
+    "eurostat:nuts_2021_id":"103076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103076",
+    "eurostat:population":268,
+    "eurostat:population_year":2020,
     "geom:area":0.00086,
-    "geom:area_square_m":7371262.951698,
+    "geom:area_square_m":7371262.951696,
     "geom:bbox":"8.51620260703,46.107172989,8.55781379576,46.1645085971",
     "geom:latitude":46.13525,
     "geom:longitude":8.537911,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103076",
+        "eurostat:nuts_2021_id":"103076",
         "gn:id":6543368,
         "gp:id":20075995,
         "qs_pg:id":50410
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38e1410c19a28b01812733ce213e4671",
+    "wof:geomhash":"c05c5f2ce70a7e663201cd7f5c55a562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404459597,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353696,
     "wof:name":"Villette",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":268,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oglianico",
+    "eurostat:nuts_2021_id":"001170",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001170",
+    "eurostat:population":1460,
+    "eurostat:population_year":2020,
     "geom:area":0.000724,
-    "geom:area_square_m":6292323.889534,
+    "geom:area_square_m":6292323.889533,
     "geom:bbox":"7.6658535835,45.2688505314,7.70983134929,45.3526402218",
     "geom:latitude":45.318107,
     "geom:longitude":7.691713,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001170",
+        "eurostat:nuts_2021_id":"001170",
         "gn:id":6540916,
         "gp:id":12680741,
         "qs_pg:id":1095171
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83fff335ef8c811c26473299c833d936",
+    "wof:geomhash":"764148091593a9ed7c92ff940e92ff13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456557,
-    "wof:lastmodified":1582328047,
+    "wof:lastmodified":1684353627,
     "wof:name":"Oglianico",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1460,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

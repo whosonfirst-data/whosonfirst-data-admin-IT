@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scanno",
+    "eurostat:nuts_2021_id":"066093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066093",
+    "eurostat:population":1762,
+    "eurostat:population_year":2020,
     "geom:area":0.014559,
-    "geom:area_square_m":134047437.691927,
+    "geom:area_square_m":134047437.691913,
     "geom:bbox":"13.8237837641,41.8027866983,13.993703928,41.9683016034",
     "geom:latitude":41.876722,
     "geom:longitude":13.901052,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066093",
+        "eurostat:nuts_2021_id":"066093",
         "gn:id":6537447,
         "gp:id":12679419,
         "qs_pg:id":1095080
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5ab2fe447a01aaf0baf228a027b5032f",
+    "wof:geomhash":"6ba588fdc5ab44f78fe33bc76ad07bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404462275,
-    "wof:lastmodified":1582327856,
+    "wof:lastmodified":1684353755,
     "wof:name":"Scanno",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":1762,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

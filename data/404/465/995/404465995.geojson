@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Madone",
+    "eurostat:nuts_2021_id":"016131",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016131",
+    "eurostat:population":4083,
+    "eurostat:population_year":2020,
     "geom:area":0.000354,
-    "geom:area_square_m":3064147.276477,
+    "geom:area_square_m":3064147.276476,
     "geom:bbox":"9.52803822411,45.6410603232,9.56353906831,45.6599059227",
     "geom:latitude":45.649849,
     "geom:longitude":9.546442,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016131",
+        "eurostat:nuts_2021_id":"016131",
         "gn:id":6542957,
         "gp:id":20076193,
         "qs_pg:id":1290014
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39a0b332399009d964131d928057f15e",
+    "wof:geomhash":"f49a0886b57fb0831edd50d32cdc4bdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404465995,
-    "wof:lastmodified":1582327836,
+    "wof:lastmodified":1684353841,
     "wof:name":"Madone",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4083,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

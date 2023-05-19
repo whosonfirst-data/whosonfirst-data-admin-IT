@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_088004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giarratana",
+    "eurostat:nuts_2021_id":"088004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG18",
+    "eurostat:nuts_2021_level_lau":"088004",
+    "eurostat:population":2862,
+    "eurostat:population_year":2020,
     "geom:area":0.004395,
     "geom:area_square_m":43365438.64284,
     "geom:bbox":"14.7732571423,37.0083060845,14.8430410762,37.1395957659",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_088004",
+        "eurostat:nuts_2021_id":"088004",
         "gn:id":6537814,
         "gp:id":12679570,
         "qs_pg:id":247353
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27904e3c33bd0f089ef5ed7717e8367e",
+    "wof:geomhash":"63ebd6c71a1da64ed5624520b406e80b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466653,
-    "wof:lastmodified":1582328207,
+    "wof:lastmodified":1684353854,
     "wof:name":"Giarratana",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":2862,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

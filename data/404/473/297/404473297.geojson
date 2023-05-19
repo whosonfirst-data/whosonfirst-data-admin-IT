@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villandro/Villanders",
+    "eurostat:nuts_2021_id":"021114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021114",
+    "eurostat:population":1825,
+    "eurostat:population_year":2020,
     "geom:area":0.005164,
-    "geom:area_square_m":43835171.516395,
+    "geom:area_square_m":43835171.516397,
     "geom:bbox":"11.4084293808,46.6137890718,11.5611648819,46.676632041",
     "geom:latitude":46.644776,
     "geom:longitude":11.484949,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021114",
+        "eurostat:nuts_2021_id":"021114",
         "gp:id":12678629,
         "qs_pg:id":1223680
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3ede774db65efbfd4a284c41de8f738",
+    "wof:geomhash":"4f8cfa0ba14194c09d69e664785a0fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473297,
-    "wof:lastmodified":1582327931,
+    "wof:lastmodified":1684353986,
     "wof:name":"Villandro",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":1825,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

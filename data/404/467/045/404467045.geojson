@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ollastra",
+    "eurostat:nuts_2021_id":"095037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095037",
+    "eurostat:population":1182,
+    "eurostat:population_year":2020,
     "geom:area":0.002265,
     "geom:area_square_m":21465903.88944,
     "geom:bbox":"8.71200742486,39.9357663245,8.79795948942,39.988918687",
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095037",
+        "eurostat:nuts_2021_id":"095037",
         "gn:id":6543652,
         "gp:id":12680761,
         "qs_pg:id":1315791
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4da8849cb9a35594d582d80d7152da83",
+    "wof:geomhash":"1e705170f2006c186a48d167c45896f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404467045,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353864,
     "wof:name":"Ollastra",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":1182,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

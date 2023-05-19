@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortona",
+    "eurostat:nuts_2021_id":"051017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051017",
+    "eurostat:population":21795,
+    "eurostat:population_year":2020,
     "geom:area":0.037996,
-    "geom:area_square_m":342144386.89387,
+    "geom:area_square_m":342144386.893893,
     "geom:bbox":"11.8334855632,43.156367649,12.2239507086,43.3725885932",
     "geom:latitude":43.261622,
     "geom:longitude":11.999938,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051017",
+        "eurostat:nuts_2021_id":"051017",
         "gn:id":6536842,
         "gp:id":12676985,
         "qs_pg:id":50746
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1441544f23b566fa40032b1463ca196",
+    "wof:geomhash":"3cde63e4e2b08f183fc313572388e7a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404463747,
-    "wof:lastmodified":1582327774,
+    "wof:lastmodified":1684353785,
     "wof:name":"Cortona",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":21795,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

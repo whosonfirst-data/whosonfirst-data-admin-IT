@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dovadola",
+    "eurostat:nuts_2021_id":"040011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040011",
+    "eurostat:population":1575,
+    "eurostat:population_year":2020,
     "geom:area":0.00438,
-    "geom:area_square_m":38875006.273996,
+    "geom:area_square_m":38875006.27401,
     "geom:bbox":"11.8312482975,44.0755477393,11.9154726958,44.170483531",
     "geom:latitude":44.122156,
     "geom:longitude":11.879261,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040011",
+        "eurostat:nuts_2021_id":"040011",
         "gn:id":6536755,
         "gp:id":12679118,
         "qs_pg:id":1019817
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"727a1103586f70d2d1747e220c1bc57c",
+    "wof:geomhash":"cfd5105113079278d130220577aadd40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472475,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353962,
     "wof:name":"Dovadola",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":1575,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

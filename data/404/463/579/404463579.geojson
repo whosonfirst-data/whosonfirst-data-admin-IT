@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Creazzo",
+    "eurostat:nuts_2021_id":"024036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024036",
+    "eurostat:population":11347,
+    "eurostat:population_year":2020,
     "geom:area":0.001214,
-    "geom:area_square_m":10513805.166251,
+    "geom:area_square_m":10513805.166252,
     "geom:bbox":"11.4470627277,45.5182694887,11.5025459971,45.5559577635",
     "geom:latitude":45.537455,
     "geom:longitude":11.469999,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024036",
+        "eurostat:nuts_2021_id":"024036",
         "gn:id":6542289,
         "gp:id":12682639,
         "qs_pg:id":1093213
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8dc5754660297aaeddd01fc2b8ac5d12",
+    "wof:geomhash":"fc638d7cd0984edd753e8ca233173aee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463579,
-    "wof:lastmodified":1582327789,
+    "wof:lastmodified":1684353782,
     "wof:name":"Creazzo",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":11347,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

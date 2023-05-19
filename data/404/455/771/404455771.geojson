@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca Cigli\u00e8",
+    "eurostat:nuts_2021_id":"004188",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004188",
+    "eurostat:population":130,
+    "eurostat:population_year":2020,
     "geom:area":0.000794,
-    "geom:area_square_m":7005483.361574,
+    "geom:area_square_m":7005483.361571,
     "geom:bbox":"7.93394315503,44.4204790622,7.96644331483,44.4668132342",
     "geom:latitude":44.443625,
     "geom:longitude":7.949472,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004188",
+        "eurostat:nuts_2021_id":"004188",
         "gn:id":6543465,
         "gp:id":20075801,
         "qs_pg:id":202087
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79690094636492ad1f0a49868e66a50e",
+    "wof:geomhash":"b2ad5de2e798c2e4904aad2418738fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455771,
-    "wof:lastmodified":1582327815,
+    "wof:lastmodified":1684353610,
     "wof:name":"Rocca Cigli\u00e8",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":130,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

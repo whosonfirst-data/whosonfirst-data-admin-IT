@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Assoro",
+    "eurostat:nuts_2021_id":"086003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086003",
+    "eurostat:population":5016,
+    "eurostat:population_year":2020,
     "geom:area":0.011383,
-    "geom:area_square_m":111553038.653943,
+    "geom:area_square_m":111553038.653925,
     "geom:bbox":"14.3894364913,37.4883980165,14.5388578613,37.6596102979",
     "geom:latitude":37.577139,
     "geom:longitude":14.451247,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086003",
+        "eurostat:nuts_2021_id":"086003",
         "gn:id":6541346,
         "gp:id":12676316,
         "qs_pg:id":221125
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60dabd235e717140aebe8cdc91586803",
+    "wof:geomhash":"6632b2dc6e16676695fdfc29fe0fa262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459175,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353688,
     "wof:name":"Assoro",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":5016,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

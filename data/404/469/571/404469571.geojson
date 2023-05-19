@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcore",
+    "eurostat:nuts_2021_id":"108004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108004",
+    "eurostat:population":18028,
+    "eurostat:population_year":2020,
     "geom:area":0.001068,
-    "geom:area_square_m":9231769.622552,
+    "geom:area_square_m":9231769.622554,
     "geom:bbox":"9.29819482717,45.6051859285,9.34637586893,45.6496143532",
     "geom:latitude":45.629705,
     "geom:longitude":9.323799,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108004",
+        "eurostat:nuts_2021_id":"108004",
         "gn:id":6540169,
         "gp:id":12676197,
         "qs_pg:id":103793
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a06b80fba524ac1b80ce0d583b64f562",
+    "wof:geomhash":"181455b0fa5172008043531da2822be3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469571,
-    "wof:lastmodified":1582328041,
+    "wof:lastmodified":1684353906,
     "wof:name":"Arcore",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":18028,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

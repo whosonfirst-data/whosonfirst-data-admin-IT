@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mezzenile",
+    "eurostat:nuts_2021_id":"001152",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001152",
+    "eurostat:population":761,
+    "eurostat:population_year":2020,
     "geom:area":0.003337,
-    "geom:area_square_m":29034460.209923,
+    "geom:area_square_m":29034460.209921,
     "geom:bbox":"7.28918761919,45.2573921946,7.42508396309,45.3078882506",
     "geom:latitude":45.28199,
     "geom:longitude":7.36663,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001152",
+        "eurostat:nuts_2021_id":"001152",
         "gn:id":6543784,
         "gp:id":20076487,
         "qs_pg:id":50726
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc67694c4eb652aa8dbd0c47e3938015",
+    "wof:geomhash":"abfb8fdb3c7282ccef2b24e770ea053d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456515,
-    "wof:lastmodified":1582328073,
+    "wof:lastmodified":1684353626,
     "wof:name":"Mezzenile",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":761,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

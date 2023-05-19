@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siurgus Donigala",
+    "eurostat:nuts_2021_id":"111086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111086",
+    "eurostat:population":1940,
+    "eurostat:population_year":2020,
     "geom:area":0.008016,
-    "geom:area_square_m":76379989.280106,
+    "geom:area_square_m":76379989.280114,
     "geom:bbox":"9.14397759136,39.5380477468,9.29529080537,39.6435901346",
     "geom:latitude":39.589866,
     "geom:longitude":9.212211,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111086",
+        "eurostat:nuts_2021_id":"111086",
         "gn:id":2523071,
         "gp:id":12679109,
         "qs_pg:id":40693
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b86e83426cfdbbba9dbf771d1e020598",
+    "wof:geomhash":"2018b278656ebd3988192b335913e9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466897,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353861,
     "wof:name":"Siurgus Donigala",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1940,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Candido/Innichen",
+    "eurostat:nuts_2021_id":"021077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021077",
+    "eurostat:population":3349,
+    "eurostat:population_year":2020,
     "geom:area":0.009387,
-    "geom:area_square_m":79582482.540098,
+    "geom:area_square_m":79582482.540079,
     "geom:bbox":"12.2434283357,46.638522575,12.3837586554,46.7797522436",
     "geom:latitude":46.713733,
     "geom:longitude":12.307388,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021077",
+        "eurostat:nuts_2021_id":"021077",
         "gp:id":12679761,
         "qs_pg:id":222946
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e177bc901e77ca5c21cf754e9c719c1",
+    "wof:geomhash":"2f7a614c303ebe94b538973eddf7d568",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473217,
-    "wof:lastmodified":1582327916,
+    "wof:lastmodified":1684353983,
     "wof:name":"San Candido",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3349,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

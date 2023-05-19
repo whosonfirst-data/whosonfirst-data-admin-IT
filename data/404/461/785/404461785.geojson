@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiumicino",
+    "eurostat:nuts_2021_id":"058120",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058120",
+    "eurostat:population":81718,
+    "eurostat:population_year":2020,
     "geom:area":0.02318,
-    "geom:area_square_m":213381735.729049,
+    "geom:area_square_m":213381735.729072,
     "geom:bbox":"12.1246698985,41.7410283522,12.3169975789,42.0202917359",
     "geom:latitude":41.887826,
     "geom:longitude":12.228499,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058120",
+        "eurostat:nuts_2021_id":"058120",
         "gn:id":6540287,
         "gp:id":20076911,
         "qs_pg:id":52053
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"235502628e8609dea8344d7114d07903",
+    "wof:geomhash":"e43cb81f3744399bd04bb3e14529d8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404461785,
-    "wof:lastmodified":1582328134,
+    "wof:lastmodified":1684353746,
     "wof:name":"Fiumicino",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":81718,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

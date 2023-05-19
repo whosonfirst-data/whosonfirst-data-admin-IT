@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Russi",
+    "eurostat:nuts_2021_id":"039016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039016",
+    "eurostat:population":12299,
+    "eurostat:population_year":2020,
     "geom:area":0.00522,
-    "geom:area_square_m":46141408.208586,
+    "geom:area_square_m":46141408.208587,
     "geom:bbox":"11.987608569,44.3280904262,12.1058876754,44.4116743965",
     "geom:latitude":44.372661,
     "geom:longitude":12.047761,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039016",
+        "eurostat:nuts_2021_id":"039016",
         "gn:id":6538486,
         "gp:id":12679619,
         "qs_pg:id":1195339
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89a155ae5d848851d7639734cccd25d3",
+    "wof:geomhash":"77b373ff3438b38bd6d1b7643002cd11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472453,
-    "wof:lastmodified":1582327889,
+    "wof:lastmodified":1684353961,
     "wof:name":"Russi",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":12299,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

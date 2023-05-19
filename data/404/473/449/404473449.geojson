@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Daiano",
+    "eurostat:nuts_2021_id":"022070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022070",
+    "eurostat:population":660,
+    "eurostat:population_year":2020,
     "geom:area":0.001111,
-    "geom:area_square_m":9486773.551607,
+    "geom:area_square_m":9486773.551604,
     "geom:bbox":"11.406267968,46.2952225891,11.4596074631,46.3341682663",
     "geom:latitude":46.31544,
     "geom:longitude":11.435817,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022070",
+        "eurostat:nuts_2021_id":"022070",
         "gn:id":6542981,
         "gp:id":20076610,
         "qs_pg:id":1311200
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83e10da2db4ca7563d9d0635a2a398bd",
+    "wof:geomhash":"7a62ce0ff1ef90e41125d5e3460dc3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473449,
-    "wof:lastmodified":1582327915,
+    "wof:lastmodified":1684353989,
     "wof:name":"Daiano",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":660,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

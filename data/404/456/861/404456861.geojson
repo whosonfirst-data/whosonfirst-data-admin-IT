@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lizzano",
+    "eurostat:nuts_2021_id":"073011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073011",
+    "eurostat:population":9789,
+    "eurostat:population_year":2020,
     "geom:area":0.004944,
-    "geom:area_square_m":46570728.014866,
+    "geom:area_square_m":46570728.014865,
     "geom:bbox":"17.4088835924,40.3145456915,17.4916316125,40.420808642",
     "geom:latitude":40.373868,
     "geom:longitude":17.451463,
@@ -89,6 +101,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -97,6 +111,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073011",
+        "eurostat:nuts_2021_id":"073011",
         "gn:id":6540024,
         "gp:id":12679983,
         "qs_pg:id":41258
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7080a1154be6fcfc2a4a410da19a796a",
+    "wof:geomhash":"15bb579c1386e8458500d0ffcb221b69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404456861,
-    "wof:lastmodified":1582328052,
+    "wof:lastmodified":1684353635,
     "wof:name":"Lizzano",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":9789,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

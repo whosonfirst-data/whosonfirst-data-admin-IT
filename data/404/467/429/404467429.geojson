@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buguggiate",
+    "eurostat:nuts_2021_id":"012025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012025",
+    "eurostat:population":3127,
+    "eurostat:population_year":2020,
     "geom:area":0.00029,
     "geom:area_square_m":2500914.80825,
     "geom:bbox":"8.792298,45.769728,8.8206,45.798575",
@@ -140,14 +152,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227497,
-        85685231
+        85685231,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012025",
+        "eurostat:nuts_2021_id":"012025",
         "gn:id":6543080,
         "gp:id":20076022,
         "qs_pg:id":1163797
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ca1ba367db5b83f53c965221083dcd6b",
+    "wof:geomhash":"9afabf872d3a96ea5637d0bae5d7bc5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467429,
-    "wof:lastmodified":1608041258,
+    "wof:lastmodified":1684353874,
     "wof:name":"Buguggiate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":3127,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

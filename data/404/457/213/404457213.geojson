@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quassolo",
+    "eurostat:nuts_2021_id":"001209",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001209",
+    "eurostat:population":352,
+    "eurostat:population_year":2020,
     "geom:area":0.000456,
-    "geom:area_square_m":3949298.9756,
+    "geom:area_square_m":3949298.975599,
     "geom:bbox":"7.80644660482,45.5141713051,7.84416150096,45.5354663285",
     "geom:latitude":45.525271,
     "geom:longitude":7.827133,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001209",
+        "eurostat:nuts_2021_id":"001209",
         "gn:id":6538074,
         "gp:id":12681306,
         "qs_pg:id":42183
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5ecfe4f1fa3e5d4151c26221b958eb7",
+    "wof:geomhash":"1a1804e23fd330cda3dff39a28184650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457213,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353645,
     "wof:name":"Quassolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":352,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

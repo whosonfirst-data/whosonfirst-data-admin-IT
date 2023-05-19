@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiusa/Klausen",
+    "eurostat:nuts_2021_id":"021022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021022",
+    "eurostat:population":5219,
+    "eurostat:population_year":2020,
     "geom:area":0.006029,
     "geom:area_square_m":51152610.828052,
     "geom:bbox":"11.4560026449,46.6200798692,11.6464319353,46.7237127114",
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021022",
+        "eurostat:nuts_2021_id":"021022",
         "gp:id":12679902,
         "qs_pg:id":1305690
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c105313a69bf10e0424d36ae29c6d17e",
+    "wof:geomhash":"3e9d494f562e4ea0fcfbedd739e49f57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473093,
-    "wof:lastmodified":1582327931,
+    "wof:lastmodified":1684353978,
     "wof:name":"Chiusa",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":5219,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

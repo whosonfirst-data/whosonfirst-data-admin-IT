@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caiazzo",
+    "eurostat:nuts_2021_id":"061009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061009",
+    "eurostat:population":5350,
+    "eurostat:population_year":2020,
     "geom:area":0.003959,
-    "geom:area_square_m":36839131.021942,
+    "geom:area_square_m":36839131.021944,
     "geom:bbox":"14.3235299541,41.1453682999,14.4196764778,41.2223721463",
     "geom:latitude":41.183082,
     "geom:longitude":14.372754,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061009",
+        "eurostat:nuts_2021_id":"061009",
         "gn:id":6542278,
         "gp:id":12677270,
         "qs_pg:id":399966
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b520eb75b338f236607102b7b63df78",
+    "wof:geomhash":"6d32afa84fa48856524154b5388da7f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404462975,
-    "wof:lastmodified":1582327875,
+    "wof:lastmodified":1684353770,
     "wof:name":"Caiazzo",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":5350,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

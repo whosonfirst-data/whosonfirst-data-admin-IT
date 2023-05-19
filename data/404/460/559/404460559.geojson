@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osidda",
+    "eurostat:nuts_2021_id":"091068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091068",
+    "eurostat:population":224,
+    "eurostat:population_year":2020,
     "geom:area":0.002731,
-    "geom:area_square_m":25667769.913097,
+    "geom:area_square_m":25667769.913095,
     "geom:bbox":"9.18220865089,40.5013803759,9.28650345216,40.5402104464",
     "geom:latitude":40.521157,
     "geom:longitude":9.230594,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091068",
+        "eurostat:nuts_2021_id":"091068",
         "gn:id":6537872,
         "gp:id":12680823,
         "qs_pg:id":41843
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b75ec3c48e73c7ad3594e4039b726e8",
+    "wof:geomhash":"80c57e7aed44d27b09056708337224f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404460559,
-    "wof:lastmodified":1582327995,
+    "wof:lastmodified":1684353721,
     "wof:name":"Osidda",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":224,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

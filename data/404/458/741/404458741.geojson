@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_027006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavarzere",
+    "eurostat:nuts_2021_id":"027006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH35",
+    "eurostat:nuts_2021_level_lau":"027006",
+    "eurostat:population":13348,
+    "eurostat:population_year":2020,
     "geom:area":0.016051,
-    "geom:area_square_m":140037391.039758,
+    "geom:area_square_m":140037391.039751,
     "geom:bbox":"11.962008996,45.0556046438,12.2371899148,45.1708209301",
     "geom:latitude":45.123988,
     "geom:longitude":12.120024,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_027006",
+        "eurostat:nuts_2021_id":"027006",
         "gn:id":6539690,
         "gp:id":12677064,
         "qs_pg:id":1142835
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"513f3740aff52ad1b1a073f84ac515a7",
+    "wof:geomhash":"1cb02f202f84ddf103ba7b795e7cf11e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458741,
-    "wof:lastmodified":1582327949,
+    "wof:lastmodified":1684353676,
     "wof:name":"Cavarzere",
     "wof:parent_id":85685305,
     "wof:placetype":"localadmin",
+    "wof:population":13348,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

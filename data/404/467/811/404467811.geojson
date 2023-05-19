@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lonate Ceppino",
+    "eurostat:nuts_2021_id":"012089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012089",
+    "eurostat:population":5054,
+    "eurostat:population_year":2020,
     "geom:area":0.000559,
-    "geom:area_square_m":4829532.867764,
+    "geom:area_square_m":4829532.867763,
     "geom:bbox":"8.86718732273,45.6898927734,8.89431084181,45.7298450167",
     "geom:latitude":45.70771,
     "geom:longitude":8.88056,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012089",
+        "eurostat:nuts_2021_id":"012089",
         "gn:id":6540325,
         "gp:id":12677274,
         "qs_pg:id":1180434
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"17505591043a106e7911f896f7a004ee",
+    "wof:geomhash":"e70fa4fd9e12e45d283f9744c68f2f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467811,
-    "wof:lastmodified":1582327969,
+    "wof:lastmodified":1684353880,
     "wof:name":"Lonate Ceppino",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":5054,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

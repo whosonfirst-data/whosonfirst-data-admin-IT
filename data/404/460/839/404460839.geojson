@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino Sannita",
+    "eurostat:nuts_2021_id":"062065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062065",
+    "eurostat:population":1204,
+    "eurostat:population_year":2020,
     "geom:area":0.000659,
-    "geom:area_square_m":6144875.987522,
+    "geom:area_square_m":6144875.98752,
     "geom:bbox":"14.8179091951,41.0339270159,14.8499968115,41.0719666204",
     "geom:latitude":41.056171,
     "geom:longitude":14.835316,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062065",
+        "eurostat:nuts_2021_id":"062065",
         "gn:id":6538750,
         "gp:id":12681701,
         "qs_pg:id":1252160
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9026763d2ba4cb4deafbe952df97e4a1",
+    "wof:geomhash":"1eda2a5750d1e63dea5a1538c08a1af7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460839,
-    "wof:lastmodified":1582328017,
+    "wof:lastmodified":1684353726,
     "wof:name":"San Martino Sannita",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1204,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

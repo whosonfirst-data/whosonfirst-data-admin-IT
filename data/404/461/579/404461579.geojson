@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cervara di Roma",
+    "eurostat:nuts_2021_id":"058028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058028",
+    "eurostat:population":450,
+    "eurostat:population_year":2020,
     "geom:area":0.003442,
-    "geom:area_square_m":31633751.939581,
+    "geom:area_square_m":31633751.939578,
     "geom:bbox":"13.0328758755,41.9599128215,13.1443996932,42.0234929763",
     "geom:latitude":41.985562,
     "geom:longitude":13.082337,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058028",
+        "eurostat:nuts_2021_id":"058028",
         "gn:id":6538672,
         "gp:id":12678541,
         "qs_pg:id":1095062
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1745eb4b1c214cecb90fba9560d216a3",
+    "wof:geomhash":"cfb01da783c3b4b1c29947b7cb365d70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404461579,
-    "wof:lastmodified":1582328149,
+    "wof:lastmodified":1684353741,
     "wof:name":"Cervara Di Roma",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":450,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

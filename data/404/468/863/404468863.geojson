@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelverde",
+    "eurostat:nuts_2021_id":"019026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019026",
+    "eurostat:population":5671,
+    "eurostat:population_year":2020,
     "geom:area":0.00354,
-    "geom:area_square_m":30843504.843488,
+    "geom:area_square_m":30843504.843493,
     "geom:bbox":"9.94917829435,45.16351239,10.0401235916,45.2379628885",
     "geom:latitude":45.199743,
     "geom:longitude":9.989659,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019026",
+        "eurostat:nuts_2021_id":"019026",
         "gn:id":6540639,
         "gp:id":20076348,
         "qs_pg:id":246977
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e337c15e300320cc664b2c04177946c2",
+    "wof:geomhash":"66bd297d20de143b39056f58480d63d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404468863,
-    "wof:lastmodified":1582328091,
+    "wof:lastmodified":1684353896,
     "wof:name":"Castelverde",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":5671,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

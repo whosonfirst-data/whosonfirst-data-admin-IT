@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rasura",
+    "eurostat:nuts_2021_id":"014055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014055",
+    "eurostat:population":289,
+    "eurostat:population_year":2020,
     "geom:area":0.000699,
     "geom:area_square_m":5990430.00538,
     "geom:bbox":"9.50103483299,46.0836835685,9.55899530076,46.1057199827",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014055",
+        "eurostat:nuts_2021_id":"014055",
         "gn:id":6537103,
         "gp:id":12681330,
         "qs_pg:id":272947
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7aeabaa762e623b3db310c73139e2408",
+    "wof:geomhash":"438d3acb126727159dc29793f63d4a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468237,
-    "wof:lastmodified":1582328090,
+    "wof:lastmodified":1684353886,
     "wof:name":"Rasura",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":289,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

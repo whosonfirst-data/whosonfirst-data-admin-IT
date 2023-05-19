@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salisano",
+    "eurostat:nuts_2021_id":"057063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057063",
+    "eurostat:population":518,
+    "eurostat:population_year":2020,
     "geom:area":0.001917,
-    "geom:area_square_m":17542207.056577,
+    "geom:area_square_m":17542207.056579,
     "geom:bbox":"12.7162058176,42.2438612524,12.7687250704,42.3050719139",
     "geom:latitude":42.275714,
     "geom:longitude":12.743246,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057063",
+        "eurostat:nuts_2021_id":"057063",
         "gn:id":6540512,
         "gp:id":20076862,
         "qs_pg:id":1009420
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"985c6b27d2607aaebf2965076eb86858",
+    "wof:geomhash":"838b132f44edafcf179fc1f5ee04fb80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404461493,
-    "wof:lastmodified":1582328143,
+    "wof:lastmodified":1684353740,
     "wof:name":"Salisano",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":518,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

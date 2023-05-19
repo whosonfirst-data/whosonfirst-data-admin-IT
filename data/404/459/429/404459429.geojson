@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anzola d'Ossola",
+    "eurostat:nuts_2021_id":"103002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103002",
+    "eurostat:population":406,
+    "eurostat:population_year":2020,
     "geom:area":0.001586,
-    "geom:area_square_m":13634589.923892,
+    "geom:area_square_m":13634589.923891,
     "geom:bbox":"8.30968124227,45.9467390085,8.36486424366,45.9945803167",
     "geom:latitude":45.970054,
     "geom:longitude":8.340064,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103002",
+        "eurostat:nuts_2021_id":"103002",
         "gn:id":6539439,
         "gp:id":12676139,
         "qs_pg:id":998615
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d80ee9117051557520ce62cd7bec345",
+    "wof:geomhash":"e4e3808a11e07d3291613e815cb5b923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459429,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353693,
     "wof:name":"Anzola D'Ossola",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

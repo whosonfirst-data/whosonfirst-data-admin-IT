@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arpaise",
+    "eurostat:nuts_2021_id":"062006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062006",
+    "eurostat:population":738,
+    "eurostat:population_year":2020,
     "geom:area":0.000709,
-    "geom:area_square_m":6615906.712859,
+    "geom:area_square_m":6615906.712858,
     "geom:bbox":"14.7282140935,41.008832168,14.7760617516,41.0421617639",
     "geom:latitude":41.02243,
     "geom:longitude":14.749065,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062006",
+        "eurostat:nuts_2021_id":"062006",
         "gn:id":6537316,
         "gp:id":12676260,
         "qs_pg:id":1016774
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e31eb0cf7e76240c191c519075cc49b",
+    "wof:geomhash":"63a0f4c273f10b3e943444dd85775a74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460705,
-    "wof:lastmodified":1582328008,
+    "wof:lastmodified":1684353723,
     "wof:name":"Arpaise",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":738,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

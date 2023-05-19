@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grugliasco",
+    "eurostat:nuts_2021_id":"001120",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001120",
+    "eurostat:population":37627,
+    "eurostat:population_year":2020,
     "geom:area":0.001501,
-    "geom:area_square_m":13110529.224169,
+    "geom:area_square_m":13110529.224168,
     "geom:bbox":"7.55475794871,45.0337294201,7.62534003247,45.071127546",
     "geom:latitude":45.055447,
     "geom:longitude":7.59328,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001120",
+        "eurostat:nuts_2021_id":"001120",
         "gn:id":6537276,
         "gp:id":12679702,
         "qs_pg:id":1102131
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ddc1dc971b2c445b526a989fe97793b",
+    "wof:geomhash":"8197f5968ba796dd4af7e005423c6ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404456443,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353624,
     "wof:name":"Grugliasco",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":37627,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

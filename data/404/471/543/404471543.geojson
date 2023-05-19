@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portalbera",
+    "eurostat:nuts_2021_id":"018118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018118",
+    "eurostat:population":1480,
+    "eurostat:population_year":2020,
     "geom:area":0.000513,
     "geom:area_square_m":4473584.518818,
     "geom:bbox":"9.29796872061,45.0849055306,9.34379867014,45.1048359251",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018118",
+        "eurostat:nuts_2021_id":"018118",
         "gn:id":6541501,
         "gp:id":12681229,
         "qs_pg:id":1108832
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e4800cba4baba41d6f351129cee10a5d",
+    "wof:geomhash":"b213ab12ac702ebb2072f99fdb0965c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471543,
-    "wof:lastmodified":1582327720,
+    "wof:lastmodified":1684353941,
     "wof:name":"Portalbera",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1480,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

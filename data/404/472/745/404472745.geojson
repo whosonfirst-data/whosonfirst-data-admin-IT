@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borgo San Lorenzo",
+    "eurostat:nuts_2021_id":"048004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048004",
+    "eurostat:population":18240,
+    "eurostat:population_year":2020,
     "geom:area":0.016412,
-    "geom:area_square_m":146068255.235857,
+    "geom:area_square_m":146068255.235833,
     "geom:bbox":"11.3063130419,43.869984693,11.5344852356,44.0634778757",
     "geom:latitude":43.963268,
     "geom:longitude":11.404747,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048004",
+        "eurostat:nuts_2021_id":"048004",
         "gn:id":6538555,
         "gp:id":12676964,
         "qs_pg:id":1150643
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9217c36bc5b637ff2434caf8bb04122d",
+    "wof:geomhash":"2e02c082a5fb7bd4a9d011f348cf8b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404472745,
-    "wof:lastmodified":1582327909,
+    "wof:lastmodified":1684353968,
     "wof:name":"Borgo San Lorenzo",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":18240,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

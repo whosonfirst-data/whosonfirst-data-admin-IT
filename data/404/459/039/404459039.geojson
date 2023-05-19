@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078150",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trebisacce",
+    "eurostat:nuts_2021_id":"078150",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078150",
+    "eurostat:population":8908,
+    "eurostat:population_year":2020,
     "geom:area":0.002787,
-    "geom:area_square_m":26442207.999081,
+    "geom:area_square_m":26442207.999079,
     "geom:bbox":"16.4771025437,39.8436757988,16.5764452013,39.9080337079",
     "geom:latitude":39.879996,
     "geom:longitude":16.52146,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078150",
+        "eurostat:nuts_2021_id":"078150"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c7ad82d40f26a727a4dbd0d1427a29e8",
+    "wof:geomhash":"c83870074b15c194bf5f413aaa25b5ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404459039,
-    "wof:lastmodified":1566723736,
+    "wof:lastmodified":1684353684,
     "wof:name":"Trebisacce",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":8908,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

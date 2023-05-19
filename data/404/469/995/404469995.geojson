@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altivole",
+    "eurostat:nuts_2021_id":"026001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026001",
+    "eurostat:population":7006,
+    "eurostat:population_year":2020,
     "geom:area":0.002536,
-    "geom:area_square_m":21884827.049956,
+    "geom:area_square_m":21884827.049954,
     "geom:bbox":"11.8897088078,45.7254404135,11.9986848655,45.7725571237",
     "geom:latitude":45.750012,
     "geom:longitude":11.952797,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026001",
+        "eurostat:nuts_2021_id":"026001",
         "gn:id":6543002,
         "gp:id":20076693,
         "qs_pg:id":1298665
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ceae717600576f11a3240c3c93ebf4e",
+    "wof:geomhash":"f806959fb8c9e64d6a4d947d1722d19b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469995,
-    "wof:lastmodified":1582328033,
+    "wof:lastmodified":1684353914,
     "wof:name":"Altivole",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":7006,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

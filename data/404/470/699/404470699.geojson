@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tavagnacco",
+    "eurostat:nuts_2021_id":"030118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030118",
+    "eurostat:population":14865,
+    "eurostat:population_year":2020,
     "geom:area":0.001785,
-    "geom:area_square_m":15301102.929056,
+    "geom:area_square_m":15301102.929057,
     "geom:bbox":"13.1893994461,46.0862030797,13.2604720616,46.1370213039",
     "geom:latitude":46.110097,
     "geom:longitude":13.221045,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030118",
+        "eurostat:nuts_2021_id":"030118",
         "gn:id":6542026,
         "gp:id":12678401,
         "qs_pg:id":1078513
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed5afb344a993bacfc936b8cb6e20ff1",
+    "wof:geomhash":"5320d17bc26fc461034ab7f0f58a23f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470699,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353926,
     "wof:name":"Tavagnacco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":14865,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

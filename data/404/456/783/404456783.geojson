@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spigno Monferrato",
+    "eurostat:nuts_2021_id":"006165",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006165",
+    "eurostat:population":976,
+    "eurostat:population_year":2020,
     "geom:area":0.006215,
-    "geom:area_square_m":54782936.124058,
+    "geom:area_square_m":54782936.124059,
     "geom:bbox":"8.27827000255,44.4649145511,8.41082856825,44.5745278331",
     "geom:latitude":44.532579,
     "geom:longitude":8.340592,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006165",
+        "eurostat:nuts_2021_id":"006165",
         "gn:id":6536450,
         "gp:id":12680437,
         "qs_pg:id":1314669
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44796f7b353364fe3da8292cc97cbffe",
+    "wof:geomhash":"bd0ad82dd2c047dbbb690a337dc61613",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456783,
-    "wof:lastmodified":1582328058,
+    "wof:lastmodified":1684353633,
     "wof:name":"Spigno Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":976,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

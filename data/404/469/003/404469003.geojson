@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Bassano",
+    "eurostat:nuts_2021_id":"019088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019088",
+    "eurostat:population":2182,
+    "eurostat:population_year":2020,
     "geom:area":0.001597,
-    "geom:area_square_m":13905510.736341,
+    "geom:area_square_m":13905510.736343,
     "geom:bbox":"9.76372077516,45.2180806824,9.83798372806,45.2592757249",
     "geom:latitude":45.238861,
     "geom:longitude":9.801113,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019088",
+        "eurostat:nuts_2021_id":"019088",
         "gn:id":6540217,
         "gp:id":12681572,
         "qs_pg:id":1061586
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cea2a7b4b94d1754588653306989597c",
+    "wof:geomhash":"46bd4d3f1eb423370b6688219e1a8b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469003,
-    "wof:lastmodified":1582328039,
+    "wof:lastmodified":1684353898,
     "wof:name":"San Bassano",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":2182,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

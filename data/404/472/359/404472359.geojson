@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zola Predosa",
+    "eurostat:nuts_2021_id":"037060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037060",
+    "eurostat:population":19095,
+    "eurostat:population_year":2020,
     "geom:area":0.004271,
-    "geom:area_square_m":37671876.661536,
+    "geom:area_square_m":37671876.661533,
     "geom:bbox":"11.1649054913,44.4568239876,11.2569925462,44.5328119793",
     "geom:latitude":44.494906,
     "geom:longitude":11.210582,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037060",
+        "eurostat:nuts_2021_id":"037060",
         "gn:id":6541539,
         "gp:id":12678863,
         "qs_pg:id":217896
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6b42b4560fef46ef82bcc090743fdc3",
+    "wof:geomhash":"559d01f3b55c324fcf13fe19c371015a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472359,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353959,
     "wof:name":"Zola Predosa",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":19095,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

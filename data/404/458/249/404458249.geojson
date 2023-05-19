@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tavernerio",
+    "eurostat:nuts_2021_id":"013222",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013222",
+    "eurostat:population":5755,
+    "eurostat:population_year":2020,
     "geom:area":0.001379,
     "geom:area_square_m":11887085.631537,
     "geom:bbox":"9.1157430101,45.7865274095,9.1624859728,45.8387158946",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013222",
+        "eurostat:nuts_2021_id":"013222",
         "gn:id":6543729,
         "gp:id":12682561,
         "qs_pg:id":1196855
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff0b67b6486937ed3d62b66bbb03c1e9",
+    "wof:geomhash":"64d4bee45dbc26f992e1cce6248d69ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404458249,
-    "wof:lastmodified":1582327955,
+    "wof:lastmodified":1684353667,
     "wof:name":"Tavernerio",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":5755,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

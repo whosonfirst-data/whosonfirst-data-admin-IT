@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Issiglio",
+    "eurostat:nuts_2021_id":"001124",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001124",
+    "eurostat:population":395,
+    "eurostat:population_year":2020,
     "geom:area":0.000633,
     "geom:area_square_m":5494934.105795,
     "geom:bbox":"7.71464008725,45.4335125806,7.7612931468,45.4640052215",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001124",
+        "eurostat:nuts_2021_id":"001124",
         "gn:id":6543380,
         "gp:id":20076474,
         "qs_pg:id":1174668
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2fefb03de6ba16430526f2a4a195d255",
+    "wof:geomhash":"97c30e3329836f33d71023b50b225a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456453,
-    "wof:lastmodified":1582328054,
+    "wof:lastmodified":1684353625,
     "wof:name":"Issiglio",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

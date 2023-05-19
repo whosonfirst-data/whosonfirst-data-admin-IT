@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cimone",
+    "eurostat:nuts_2021_id":"022058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022058",
+    "eurostat:population":694,
+    "eurostat:population_year":2020,
     "geom:area":0.001139,
     "geom:area_square_m":9785435.006545,
     "geom:bbox":"11.0358841038,45.9566335677,11.0878929098,45.997661664",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022058",
+        "eurostat:nuts_2021_id":"022058",
         "gn:id":6542622,
         "gp:id":20076605,
         "qs_pg:id":549787
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4919915266b936078a058d665ad6d8b1",
+    "wof:geomhash":"ea538f5f70d83ad6d2b63fe2f60b1e22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473425,
-    "wof:lastmodified":1582327915,
+    "wof:lastmodified":1684353988,
     "wof:name":"Cimone",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":694,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

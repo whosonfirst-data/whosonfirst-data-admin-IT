@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alba",
+    "eurostat:nuts_2021_id":"004003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004003",
+    "eurostat:population":31609,
+    "eurostat:population_year":2020,
     "geom:area":0.006087,
-    "geom:area_square_m":53509561.133476,
+    "geom:area_square_m":53509561.133474,
     "geom:bbox":"7.96640334955,44.6379643255,8.0985586983,44.7345047819",
     "geom:latitude":44.687838,
     "geom:longitude":8.030822,
@@ -89,6 +101,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -97,6 +111,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004003",
+        "eurostat:nuts_2021_id":"004003",
         "gn:id":6540671,
         "gp:id":12675876,
         "qs_pg:id":1150509
@@ -105,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f5cd1c8db2c71b051400ef5e5ae5e32f",
+    "wof:geomhash":"f575cf6889bb9f0ac5704519cbe58360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404457851,
-    "wof:lastmodified":1582328103,
+    "wof:lastmodified":1684353658,
     "wof:name":"Alba",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":31609,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

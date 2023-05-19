@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marmentino",
+    "eurostat:nuts_2021_id":"017105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017105",
+    "eurostat:population":655,
+    "eurostat:population_year":2020,
     "geom:area":0.002087,
-    "geom:area_square_m":18002971.452288,
+    "geom:area_square_m":18002971.452292,
     "geom:bbox":"10.2475674017,45.7273924667,10.3375445928,45.7877370838",
     "geom:latitude":45.751772,
     "geom:longitude":10.289165,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017105",
+        "eurostat:nuts_2021_id":"017105",
         "gn:id":6542768,
         "gp:id":20076258,
         "qs_pg:id":1149885
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cfcdd6e7974e58f83424119923a35ada",
+    "wof:geomhash":"45f1fa869d6279d2269f4fe1f3e40f09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471159,
-    "wof:lastmodified":1582327710,
+    "wof:lastmodified":1684353935,
     "wof:name":"Marmentino",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":655,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perano",
+    "eurostat:nuts_2021_id":"069065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069065",
+    "eurostat:population":1564,
+    "eurostat:population_year":2020,
     "geom:area":0.000703,
     "geom:area_square_m":6446651.998523,
     "geom:bbox":"14.3658513347,42.0943016623,14.4201224241,42.1221874141",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069065",
+        "eurostat:nuts_2021_id":"069065",
         "gn:id":6537489,
         "gp:id":12680978,
         "qs_pg:id":323965
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e73bdc13806cf5c6a38ba25c89a7780",
+    "wof:geomhash":"fd81e5d43bda79962d69f2ee3ea82e36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462665,
-    "wof:lastmodified":1582327870,
+    "wof:lastmodified":1684353762,
     "wof:name":"Perano",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":1564,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terranuova Bracciolini",
+    "eurostat:nuts_2021_id":"051039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051039",
+    "eurostat:population":12259,
+    "eurostat:population_year":2020,
     "geom:area":0.009563,
-    "geom:area_square_m":85698225.928623,
+    "geom:area_square_m":85698225.92862,
     "geom:bbox":"11.5339249052,43.5068586757,11.723163886,43.6111521628",
     "geom:latitude":43.55514,
     "geom:longitude":11.615138,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051039",
+        "eurostat:nuts_2021_id":"051039",
         "gn:id":6538594,
         "gp:id":12677451,
         "qs_pg:id":1108216
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0436f019d1497ec26cadcfa6afbf8e91",
+    "wof:geomhash":"43b0c5874dce2f80ed14a2ba3b54cbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463797,
-    "wof:lastmodified":1582327760,
+    "wof:lastmodified":1684353786,
     "wof:name":"Terranuova Bracciolini",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":12259,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

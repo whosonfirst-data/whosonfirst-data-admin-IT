@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marcedusa",
+    "eurostat:nuts_2021_id":"079071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079071",
+    "eurostat:population":406,
+    "eurostat:population_year":2020,
     "geom:area":0.001614,
-    "geom:area_square_m":15506425.747345,
+    "geom:area_square_m":15506425.747351,
     "geom:bbox":"16.8270720046,38.9840280312,16.898740335,39.0455326434",
     "geom:latitude":39.013113,
     "geom:longitude":16.859349,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079071",
+        "eurostat:nuts_2021_id":"079071"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6dd5ddae5b79a997c4de63a12c9a7f9c",
+    "wof:geomhash":"24a6187a9a636ff26a3c6e67b8fb9681",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464377,
-    "wof:lastmodified":1566723224,
+    "wof:lastmodified":1684353804,
     "wof:name":"Marcedusa",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

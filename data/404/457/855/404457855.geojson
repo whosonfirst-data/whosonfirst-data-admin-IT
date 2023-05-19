@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alto",
+    "eurostat:nuts_2021_id":"004005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004005",
+    "eurostat:population":137,
+    "eurostat:population_year":2020,
     "geom:area":0.000839,
     "geom:area_square_m":7451942.775218,
     "geom:bbox":"7.96687952433,44.1023032165,8.01563443117,44.133547938",
@@ -53,6 +65,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -60,9 +74,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004005",
+        "eurostat:nuts_2021_id":"004005"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"24ccf6e1f05a22aafaa3950e3d4059b3",
+    "wof:geomhash":"d5b566c7adf8ab266d6ba74ed59d1a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +90,12 @@
         }
     ],
     "wof:id":404457855,
-    "wof:lastmodified":1566723675,
+    "wof:lastmodified":1684353658,
     "wof:name":"Alto",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":137,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

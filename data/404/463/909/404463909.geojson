@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massa Marittima",
+    "eurostat:nuts_2021_id":"053015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053015",
+    "eurostat:population":8297,
+    "eurostat:population_year":2020,
     "geom:area":0.03132,
-    "geom:area_square_m":283024528.319962,
+    "geom:area_square_m":283024528.319968,
     "geom:bbox":"10.7537177267,42.958711182,11.0485285862,43.14253436",
     "geom:latitude":43.045555,
     "geom:longitude":10.901269,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053015",
+        "eurostat:nuts_2021_id":"053015",
         "gn:id":6538609,
         "gp:id":12677918,
         "qs_pg:id":536511
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d93ba3b29ead0191efde4c70dc13109f",
+    "wof:geomhash":"f5801b4319f6d7b548309e99bc36285c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404463909,
-    "wof:lastmodified":1582327760,
+    "wof:lastmodified":1684353790,
     "wof:name":"Massa Marittima",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":8297,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

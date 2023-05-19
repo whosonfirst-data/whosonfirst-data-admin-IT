@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvi",
+    "eurostat:nuts_2021_id":"062012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062012",
+    "eurostat:population":2596,
+    "eurostat:population_year":2020,
     "geom:area":0.002378,
-    "geom:area_square_m":22161990.296047,
+    "geom:area_square_m":22161990.296045,
     "geom:bbox":"14.8589068093,41.058741192,14.9435033464,41.1170882153",
     "geom:latitude":41.086108,
     "geom:longitude":14.899686,
@@ -86,6 +98,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -93,9 +107,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_062012",
+        "eurostat:nuts_2021_id":"062012"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bda85fc76e2e7adce63f939f079fab30",
+    "wof:geomhash":"45e131a4a0ff793b1655bf36e1166451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +123,12 @@
         }
     ],
     "wof:id":404460719,
-    "wof:lastmodified":1566723535,
+    "wof:lastmodified":1684353724,
     "wof:name":"Calvi",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2596,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

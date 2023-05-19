@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arzano",
+    "eurostat:nuts_2021_id":"063005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063005",
+    "eurostat:population":33801,
+    "eurostat:population_year":2020,
     "geom:area":0.000501,
     "geom:area_square_m":4681294.808791,
     "geom:bbox":"14.248919,40.900885,14.282649,40.924959",
@@ -167,14 +179,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227525,
-        85685487
+        85685487,
+        404227525
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063005",
+        "eurostat:nuts_2021_id":"063005",
         "gn:id":6539810,
         "gp:id":12676292,
         "qs_pg:id":231214
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92bcf3f1b54a31fd3e43ee58b8ed1c76",
+    "wof:geomhash":"4eef83e8157219198bc0a4aca262c462",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404460879,
-    "wof:lastmodified":1608041356,
+    "wof:lastmodified":1684353726,
     "wof:name":"Arzano",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":33801,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

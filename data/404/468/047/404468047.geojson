@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Como",
+    "eurostat:nuts_2021_id":"013075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013075",
+    "eurostat:population":85915,
+    "eurostat:population_year":2020,
     "geom:area":0.004299,
-    "geom:area_square_m":37060407.54075,
+    "geom:area_square_m":37060407.540747,
     "geom:bbox":"9.03127432361,45.7588692971,9.13698261298,45.8421742297",
     "geom:latitude":45.804235,
     "geom:longitude":9.081011,
@@ -263,6 +275,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -271,6 +285,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013075",
+        "eurostat:nuts_2021_id":"013075",
         "gn:id":6542055,
         "gp:id":20076094,
         "qs_pg:id":901147
@@ -279,7 +295,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"409fbc35588b7f1aa118d171932827e4",
+    "wof:geomhash":"e4108542435dbbc8bad77b28b15979ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -290,10 +306,12 @@
         }
     ],
     "wof:id":404468047,
-    "wof:lastmodified":1582328079,
+    "wof:lastmodified":1684353883,
     "wof:name":"Como",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":85915,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

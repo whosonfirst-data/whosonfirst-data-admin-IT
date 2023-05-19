@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strozza",
+    "eurostat:nuts_2021_id":"016208",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016208",
+    "eurostat:population":1068,
+    "eurostat:population_year":2020,
     "geom:area":0.000443,
     "geom:area_square_m":3818967.863643,
     "geom:bbox":"9.56524087967,45.7587169224,9.59637798062,45.7822028436",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016208",
+        "eurostat:nuts_2021_id":"016208",
         "gn:id":6540179,
         "gp:id":12682111,
         "qs_pg:id":210596
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"914a687e1d82474b0b43d53e5b0bfbcb",
+    "wof:geomhash":"2a4ad7fab937f3057b1ce551d6bb7003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466163,
-    "wof:lastmodified":1582328199,
+    "wof:lastmodified":1684353844,
     "wof:name":"Strozza",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1068,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

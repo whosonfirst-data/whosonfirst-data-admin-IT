@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Samarate",
+    "eurostat:nuts_2021_id":"012118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012118",
+    "eurostat:population":16174,
+    "eurostat:population_year":2020,
     "geom:area":0.001849,
     "geom:area_square_m":15989922.69663,
     "geom:bbox":"8.72651564208,45.6004700345,8.82074763208,45.6430549081",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012118",
+        "eurostat:nuts_2021_id":"012118",
         "gn:id":6537085,
         "gp:id":12678025,
         "qs_pg:id":40021
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"466163826af11bd9c685da57b6228528",
+    "wof:geomhash":"0ca9be4172e0c36312221d6fa28e7ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467877,
-    "wof:lastmodified":1582327983,
+    "wof:lastmodified":1684353881,
     "wof:name":"Samarate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":16174,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

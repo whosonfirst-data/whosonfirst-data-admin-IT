@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enna",
+    "eurostat:nuts_2021_id":"086009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086009",
+    "eurostat:population":26658,
+    "eurostat:population_year":2020,
     "geom:area":0.036396,
-    "geom:area_square_m":356955292.560416,
+    "geom:area_square_m":356955292.560439,
     "geom:bbox":"14.0866492326,37.4246033162,14.4994698321,37.6789059395",
     "geom:latitude":37.518867,
     "geom:longitude":14.288646,
@@ -203,6 +215,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -211,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086009",
+        "eurostat:nuts_2021_id":"086009",
         "gn:id":6541871,
         "gp:id":12679142,
         "qs_pg:id":1122911
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90ef8a002817558fe3252cc4c05b3643",
+    "wof:geomhash":"85f1a7e793181b635f0425293ecacfc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":404459189,
-    "wof:lastmodified":1582328163,
+    "wof:lastmodified":1684353688,
     "wof:name":"Enna",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":26658,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

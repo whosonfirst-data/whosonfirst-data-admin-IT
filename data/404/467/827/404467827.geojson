@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malnate",
+    "eurostat:nuts_2021_id":"012096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012096",
+    "eurostat:population":16723,
+    "eurostat:population_year":2020,
     "geom:area":0.001043,
-    "geom:area_square_m":8987542.163198,
+    "geom:area_square_m":8987542.163195,
     "geom:bbox":"8.85614194175,45.7813266474,8.90869725736,45.8143556963",
     "geom:latitude":45.797274,
     "geom:longitude":8.882394,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012096",
+        "eurostat:nuts_2021_id":"012096",
         "gn:id":6540571,
         "gp:id":12680117,
         "qs_pg:id":1317125
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e95a7b795b4eaa7263810c806f28bfb",
+    "wof:geomhash":"f5c1ad4c4ab9bb02462a1a6570ec8f97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467827,
-    "wof:lastmodified":1582327968,
+    "wof:lastmodified":1684353880,
     "wof:name":"Malnate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":16723,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

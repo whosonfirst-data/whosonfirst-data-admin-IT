@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veglie",
+    "eurostat:nuts_2021_id":"075092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075092",
+    "eurostat:population":13697,
+    "eurostat:population_year":2020,
     "geom:area":0.006517,
-    "geom:area_square_m":61418244.800862,
+    "geom:area_square_m":61418244.800856,
     "geom:bbox":"17.8359625544,40.3066657385,18.005306714,40.3816344404",
     "geom:latitude":40.342458,
     "geom:longitude":17.92485,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075092",
+        "eurostat:nuts_2021_id":"075092",
         "gn:id":6537602,
         "gp:id":12682376,
         "qs_pg:id":42978
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ca9f393b5280a239c66e8a72ed8b037",
+    "wof:geomhash":"9ca37c2b9ce8d553b5e123d38eef483e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456663,
-    "wof:lastmodified":1582328066,
+    "wof:lastmodified":1684353629,
     "wof:name":"Veglie",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":13697,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

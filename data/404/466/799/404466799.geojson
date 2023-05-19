@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olmedo",
+    "eurostat:nuts_2021_id":"090048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090048",
+    "eurostat:population":4185,
+    "eurostat:population_year":2020,
     "geom:area":0.003566,
-    "geom:area_square_m":33452268.354298,
+    "geom:area_square_m":33452268.354301,
     "geom:bbox":"8.34030574662,40.6196223672,8.4262210045,40.6835798641",
     "geom:latitude":40.650644,
     "geom:longitude":8.383677,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090048",
+        "eurostat:nuts_2021_id":"090048",
         "gn:id":6539234,
         "gp:id":12680764,
         "qs_pg:id":892889
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b593d37de6bbafefec360790c6c370a",
+    "wof:geomhash":"35b97721f45ff2e88164fd8f2fd4d8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404466799,
-    "wof:lastmodified":1582328182,
+    "wof:lastmodified":1684353858,
     "wof:name":"Olmedo",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":4185,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

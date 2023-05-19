@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Musei",
+    "eurostat:nuts_2021_id":"111043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111043",
+    "eurostat:population":1523,
+    "eurostat:population_year":2020,
     "geom:area":0.002119,
-    "geom:area_square_m":20273176.512492,
+    "geom:area_square_m":20273176.512489,
     "geom:bbox":"8.64844489178,39.2782906455,8.73103704957,39.3221367931",
     "geom:latitude":39.298486,
     "geom:longitude":8.689457,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111043",
+        "eurostat:nuts_2021_id":"111043",
         "gn:id":6539291,
         "gp:id":12680642,
         "qs_pg:id":41713
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31f2d0dbb3341c3fd8d431733bf0d6a2",
+    "wof:geomhash":"2514b7b6973fd8f3ed30628d393bd7ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404467359,
-    "wof:lastmodified":1582327979,
+    "wof:lastmodified":1684353872,
     "wof:name":"Musei",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1523,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

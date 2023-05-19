@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pisoniano",
+    "eurostat:nuts_2021_id":"058077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058077",
+    "eurostat:population":736,
+    "eurostat:population_year":2020,
     "geom:area":0.001399,
-    "geom:area_square_m":12877735.892464,
+    "geom:area_square_m":12877735.892463,
     "geom:bbox":"12.9370493968,41.887092924,12.9940846454,41.9306772618",
     "geom:latitude":41.909405,
     "geom:longitude":12.962553,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_058077",
+        "eurostat:nuts_2021_id":"058077"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a74468965db3071781daf9b635a3c570",
+    "wof:geomhash":"75c269a08ff3a3e5bf41d467e6297cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404461689,
-    "wof:lastmodified":1566723689,
+    "wof:lastmodified":1684353743,
     "wof:name":"Pisoniano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":736,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

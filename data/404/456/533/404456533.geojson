@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalto Dora",
+    "eurostat:nuts_2021_id":"001160",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001160",
+    "eurostat:population":3380,
+    "eurostat:population_year":2020,
     "geom:area":0.000847,
     "geom:area_square_m":7344527.104081,
     "geom:bbox":"7.83792369465,45.4774927181,7.8875538514,45.5068026857",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001160",
+        "eurostat:nuts_2021_id":"001160",
         "gn:id":6541432,
         "gp:id":12680442,
         "qs_pg:id":41542
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b9329e7082e6834d59fb86e33ee4ab01",
+    "wof:geomhash":"de9c96f77de3ee61d7f82a8219a5eb41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456533,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353626,
     "wof:name":"Montalto Dora",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":3380,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

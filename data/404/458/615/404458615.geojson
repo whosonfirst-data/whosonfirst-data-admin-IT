@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cingoli",
+    "eurostat:nuts_2021_id":"043012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043012",
+    "eurostat:population":9962,
+    "eurostat:population_year":2020,
     "geom:area":0.016427,
-    "geom:area_square_m":147626805.969618,
+    "geom:area_square_m":147626805.96961,
     "geom:bbox":"13.1219261713,43.3216132953,13.336402597,43.4612964873",
     "geom:latitude":43.383376,
     "geom:longitude":13.231133,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_043012",
+        "eurostat:nuts_2021_id":"043012"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b7b130c103eb09d557028e15cd67c569",
+    "wof:geomhash":"db751ed0047376a1de744f5df74b3788",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404458615,
-    "wof:lastmodified":1566723449,
+    "wof:lastmodified":1684353674,
     "wof:name":"Cingoli",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":9962,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

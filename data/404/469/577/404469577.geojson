@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernareggio",
+    "eurostat:nuts_2021_id":"108007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108007",
+    "eurostat:population":11285,
+    "eurostat:population_year":2020,
     "geom:area":0.000685,
-    "geom:area_square_m":5924854.234708,
+    "geom:area_square_m":5924854.234707,
     "geom:bbox":"9.38161591459,45.6318358384,9.42359765837,45.6660355074",
     "geom:latitude":45.649375,
     "geom:longitude":9.402856,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108007",
+        "eurostat:nuts_2021_id":"108007",
         "gp:id":20076542,
         "qs_pg:id":1174518
     },
@@ -149,7 +165,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8c6ff78344f45575896773823faf860",
+    "wof:geomhash":"a783965b6d97cf6930a5c14ca462d886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404469577,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353906,
     "wof:name":"Bernareggio",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":11285,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

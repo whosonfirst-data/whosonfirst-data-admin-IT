@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borutta",
+    "eurostat:nuts_2021_id":"090015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090015",
+    "eurostat:population":267,
+    "eurostat:population_year":2020,
     "geom:area":0.000506,
     "geom:area_square_m":4756851.086334,
     "geom:bbox":"8.73058986535,40.5061245264,8.75826797422,40.5417156739",
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090015",
+        "eurostat:nuts_2021_id":"090015",
         "gn:id":6541353,
         "gp:id":12676895,
         "qs_pg:id":399931
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9df699692c3f3e3f0f8a191520c2b4aa",
+    "wof:geomhash":"921c69c652bb9aca0adc03a807fe4699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466739,
-    "wof:lastmodified":1582328183,
+    "wof:lastmodified":1684353857,
     "wof:name":"Borutta",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":267,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

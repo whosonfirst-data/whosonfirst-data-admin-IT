@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Albano Stura",
+    "eurostat:nuts_2021_id":"004211",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004211",
+    "eurostat:population":2359,
+    "eurostat:population_year":2020,
     "geom:area":0.003108,
-    "geom:area_square_m":27413848.597222,
+    "geom:area_square_m":27413848.597219,
     "geom:bbox":"7.67178239288,44.4592380238,7.7759403652,44.5394494805",
     "geom:latitude":44.48968,
     "geom:longitude":7.72258,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004211",
+        "eurostat:nuts_2021_id":"004211",
         "gn:id":6538161,
         "gp:id":12678512,
         "qs_pg:id":1314088
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"199be55fdd8176bf68dc13d3eac33103",
+    "wof:geomhash":"953b178f017a6b5a1dfe6538afe25964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455823,
-    "wof:lastmodified":1582327818,
+    "wof:lastmodified":1684353611,
     "wof:name":"Sant'Albano Stura",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2359,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

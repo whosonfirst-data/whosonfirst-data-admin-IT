@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solero",
+    "eurostat:nuts_2021_id":"006163",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006163",
+    "eurostat:population":1634,
+    "eurostat:population_year":2020,
     "geom:area":0.002572,
-    "geom:area_square_m":22523151.948207,
+    "geom:area_square_m":22523151.948205,
     "geom:bbox":"8.45825026844,44.8827354216,8.53638143145,44.9368048144",
     "geom:latitude":44.912544,
     "geom:longitude":8.501564,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006163",
+        "eurostat:nuts_2021_id":"006163",
         "gn:id":6536449,
         "gp:id":12682039,
         "qs_pg:id":469027
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ddee6792df1074c33d3156e3d1224a1",
+    "wof:geomhash":"0caf61e43d43ca9b4d5581dc84fd320b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404456779,
-    "wof:lastmodified":1582328058,
+    "wof:lastmodified":1684353633,
     "wof:name":"Solero",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1634,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006171",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terruggia",
+    "eurostat:nuts_2021_id":"006171",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006171",
+    "eurostat:population":922,
+    "eurostat:population_year":2020,
     "geom:area":0.000831,
-    "geom:area_square_m":7256082.241204,
+    "geom:area_square_m":7256082.241202,
     "geom:bbox":"8.42688567993,45.0566191022,8.469168199,45.0956134952",
     "geom:latitude":45.077511,
     "geom:longitude":8.450411,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006171",
+        "eurostat:nuts_2021_id":"006171",
         "gn:id":6536451,
         "gp:id":12682169,
         "qs_pg:id":42850
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ffeb8082df7e54ac1f0f7974c8fa5df7",
+    "wof:geomhash":"37c32beca3a636742d96d97d15cb54b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456797,
-    "wof:lastmodified":1582328045,
+    "wof:lastmodified":1684353633,
     "wof:name":"Terruggia",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":922,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

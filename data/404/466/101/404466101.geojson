@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ranzanico",
+    "eurostat:nuts_2021_id":"016179",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016179",
+    "eurostat:population":1230,
+    "eurostat:population_year":2020,
     "geom:area":0.000835,
-    "geom:area_square_m":7201722.518951,
+    "geom:area_square_m":7201722.51895,
     "geom:bbox":"9.91779555814,45.769978594,9.96119740092,45.8081396254",
     "geom:latitude":45.791085,
     "geom:longitude":9.940246,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016179",
+        "eurostat:nuts_2021_id":"016179",
         "gn:id":6543163,
         "gp:id":20076218,
         "qs_pg:id":1208106
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82e22be849aa8335c6cab633c60f92e9",
+    "wof:geomhash":"887c4adfde5febfb93e9b99b3ce6d3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466101,
-    "wof:lastmodified":1582328200,
+    "wof:lastmodified":1684353842,
     "wof:name":"Ranzanico",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1230,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

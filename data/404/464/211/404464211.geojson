@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mandatoriccio",
+    "eurostat:nuts_2021_id":"078074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078074",
+    "eurostat:population":2715,
+    "eurostat:population_year":2020,
     "geom:area":0.003867,
-    "geom:area_square_m":36897552.953511,
+    "geom:area_square_m":36897552.9535,
     "geom:bbox":"16.8124150555,39.4474917184,16.9018991605,39.5441092759",
     "geom:latitude":39.49776,
     "geom:longitude":16.848676,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078074",
+        "eurostat:nuts_2021_id":"078074"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d49319d943fa8da5d4777349bb11bc81",
+    "wof:geomhash":"6372a1a5495aafcb3c4764eca15a722b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464211,
-    "wof:lastmodified":1566723213,
+    "wof:lastmodified":1684353800,
     "wof:name":"Mandatoriccio",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2715,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

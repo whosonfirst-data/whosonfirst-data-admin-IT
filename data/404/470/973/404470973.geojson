@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borno",
+    "eurostat:nuts_2021_id":"017022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017022",
+    "eurostat:population":2667,
+    "eurostat:population_year":2020,
     "geom:area":0.003541,
-    "geom:area_square_m":30441966.856462,
+    "geom:area_square_m":30441924.380099,
     "geom:bbox":"10.113979,45.926527,10.227781,45.987052",
     "geom:latitude":45.95566,
     "geom:longitude":10.179213,
@@ -98,6 +110,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -106,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017022",
+        "eurostat:nuts_2021_id":"017022",
         "gn:id":6540350,
         "gp:id":12676995,
         "qs_pg:id":213734
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f47a3ba2828dc9516231bbe5c8e43ee9",
+    "wof:geomhash":"cb21cf6e9335e0301e9a8ef340977768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404470973,
-    "wof:lastmodified":1636496845,
+    "wof:lastmodified":1684353931,
     "wof:name":"Borno",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2667,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

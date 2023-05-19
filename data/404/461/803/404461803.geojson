@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fondi",
+    "eurostat:nuts_2021_id":"059007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059007",
+    "eurostat:population":39643,
+    "eurostat:population_year":2020,
     "geom:area":0.015441,
-    "geom:area_square_m":143361629.205318,
+    "geom:area_square_m":143361629.205321,
     "geom:bbox":"13.281340845,41.2735632479,13.5128315055,41.4046072411",
     "geom:latitude":41.336256,
     "geom:longitude":13.409709,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059007",
+        "eurostat:nuts_2021_id":"059007",
         "gn:id":6541136,
         "gp:id":20076865,
         "qs_pg:id":205196
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e2e8b683fa53d804b5954e82fc632ca",
+    "wof:geomhash":"45d55a52d87f997390ecc63a92099878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404461803,
-    "wof:lastmodified":1582328130,
+    "wof:lastmodified":1684353746,
     "wof:name":"Fondi",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":39643,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

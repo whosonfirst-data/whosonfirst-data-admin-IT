@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Lorenzo Maggiore",
+    "eurostat:nuts_2021_id":"062062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062062",
+    "eurostat:population":2036,
+    "eurostat:population_year":2020,
     "geom:area":0.001742,
-    "geom:area_square_m":16199109.688186,
+    "geom:area_square_m":16199109.688184,
     "geom:bbox":"14.6051365457,41.2094954259,14.6508191843,41.2761973781",
     "geom:latitude":41.238722,
     "geom:longitude":14.625126,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_062062",
+        "eurostat:nuts_2021_id":"062062"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"1739aa04ca972243ef38075ae3e88d4a",
+    "wof:geomhash":"9794528ea93f5a6ae24bc7648a517ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404460831,
-    "wof:lastmodified":1566723529,
+    "wof:lastmodified":1684353726,
     "wof:name":"San Lorenzo Maggiore",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":2036,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

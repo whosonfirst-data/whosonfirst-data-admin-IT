@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luzzi",
+    "eurostat:nuts_2021_id":"078070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078070",
+    "eurostat:population":9095,
+    "eurostat:population_year":2020,
     "geom:area":0.008048,
-    "geom:area_square_m":76845860.754908,
+    "geom:area_square_m":76845860.754907,
     "geom:bbox":"16.2207810259,39.409378555,16.3730777639,39.4887523124",
     "geom:latitude":39.449397,
     "geom:longitude":16.302581,
@@ -119,6 +131,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -126,9 +140,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078070",
+        "eurostat:nuts_2021_id":"078070"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cebc6b75072907ab2e531a043a6eb780",
+    "wof:geomhash":"7a0bed891fc6f77e4bbee72466c9b70c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +156,12 @@
         }
     ],
     "wof:id":404464201,
-    "wof:lastmodified":1566723243,
+    "wof:lastmodified":1684353800,
     "wof:name":"Luzzi",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":9095,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

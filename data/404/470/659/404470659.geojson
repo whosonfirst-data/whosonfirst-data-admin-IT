@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Daniele del Friuli",
+    "eurostat:nuts_2021_id":"030099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030099",
+    "eurostat:population":8010,
+    "eurostat:population_year":2020,
     "geom:area":0.004045,
-    "geom:area_square_m":34642079.400587,
+    "geom:area_square_m":34642079.400584,
     "geom:bbox":"12.9376783158,46.1198383297,13.0625608331,46.218646641",
     "geom:latitude":46.156729,
     "geom:longitude":13.002415,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030099",
+        "eurostat:nuts_2021_id":"030099",
         "gn:id":6538391,
         "gp:id":12681605,
         "qs_pg:id":1296954
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f4be78081708648913aed309a03be32",
+    "wof:geomhash":"cf7d6cfa5ddbba7a9b7c1a01a69c259b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404470659,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353925,
     "wof:name":"San Daniele Del Friuli",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":8010,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

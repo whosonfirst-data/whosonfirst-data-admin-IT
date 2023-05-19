@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cassacco",
+    "eurostat:nuts_2021_id":"030019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030019",
+    "eurostat:population":2862,
+    "eurostat:population_year":2020,
     "geom:area":0.001358,
-    "geom:area_square_m":11629667.549869,
+    "geom:area_square_m":11629667.549872,
     "geom:bbox":"13.1588539013,46.1603566278,13.214310261,46.2060419354",
     "geom:latitude":46.18123,
     "geom:longitude":13.184942,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030019",
+        "eurostat:nuts_2021_id":"030019",
         "gn:id":6542024,
         "gp:id":12678137,
         "qs_pg:id":1158649
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a364f258a886911d9b8eb32e20a2a3c6",
+    "wof:geomhash":"de4290bb7ac7da1ea771452bf6e674d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470479,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353922,
     "wof:name":"Cassacco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2862,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

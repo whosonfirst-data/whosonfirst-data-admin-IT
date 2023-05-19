@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Joppolo Giancaxio",
+    "eurostat:nuts_2021_id":"084019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084019",
+    "eurostat:population":1151,
+    "eurostat:population_year":2020,
     "geom:area":0.001941,
     "geom:area_square_m":19073185.943051,
     "geom:bbox":"13.5421789717,37.3399026091,13.591298632,37.4259617994",
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_084019",
+        "eurostat:nuts_2021_id":"084019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"35360bc6d1121c34ed535958cb30c0d4",
+    "wof:geomhash":"6968a83eb2808316e155a805f789af4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404466469,
-    "wof:lastmodified":1566723791,
+    "wof:lastmodified":1684353850,
     "wof:name":"Joppolo Giancaxio",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":1151,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

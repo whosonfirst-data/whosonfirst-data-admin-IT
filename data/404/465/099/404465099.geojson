@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nola",
+    "eurostat:nuts_2021_id":"063050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063050",
+    "eurostat:population":34450,
+    "eurostat:population_year":2020,
     "geom:area":0.00417,
-    "geom:area_square_m":38963417.290105,
+    "geom:area_square_m":38963417.290108,
     "geom:bbox":"14.4522419168,40.8573194015,14.5791296487,40.9838602784",
     "geom:latitude":40.924334,
     "geom:longitude":14.511146,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063050",
+        "eurostat:nuts_2021_id":"063050",
         "gn:id":6541905,
         "gp:id":20076933,
         "qs_pg:id":1163822
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13083120e4dddc5d78d3d1272fa0d152",
+    "wof:geomhash":"56f89433a4daa9cbf5df78a3b03c56b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404465099,
-    "wof:lastmodified":1582327832,
+    "wof:lastmodified":1684353826,
     "wof:name":"Nola",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":34450,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

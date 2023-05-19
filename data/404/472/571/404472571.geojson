@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_045001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aulla",
+    "eurostat:nuts_2021_id":"045001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI11",
+    "eurostat:nuts_2021_level_lau":"045001",
+    "eurostat:population":10957,
+    "eurostat:population_year":2020,
     "geom:area":0.006758,
     "geom:area_square_m":59909597.516102,
     "geom:bbox":"9.89241438415,44.163568828,10.0631258675,44.2513342083",
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_045001",
+        "eurostat:nuts_2021_id":"045001",
         "gn:id":6541878,
         "gp:id":12676338,
         "qs_pg:id":232239
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0703ad6b97aadd8c540d06ebc348d82f",
+    "wof:geomhash":"9c58d35de72d745dbfd587f4a020b3ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404472571,
-    "wof:lastmodified":1582327906,
+    "wof:lastmodified":1684353964,
     "wof:name":"Aulla",
     "wof:parent_id":85685395,
     "wof:placetype":"localadmin",
+    "wof:population":10957,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

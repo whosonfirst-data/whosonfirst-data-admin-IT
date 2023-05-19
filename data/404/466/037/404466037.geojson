@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ornica",
+    "eurostat:nuts_2021_id":"016151",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016151",
+    "eurostat:population":147,
+    "eurostat:population_year":2020,
     "geom:area":0.001755,
     "geom:area_square_m":15071811.831685,
     "geom:bbox":"9.53180328615,45.9656687346,9.59640177104,46.0239745624",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_016151",
+        "eurostat:nuts_2021_id":"016151"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4faf68ae1b6c800eb77deea11b6ab459",
+    "wof:geomhash":"c92283eec0361de8ac13a5a4f9440acd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404466037,
-    "wof:lastmodified":1566723776,
+    "wof:lastmodified":1684353841,
     "wof:name":"Ornica",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontenure",
+    "eurostat:nuts_2021_id":"033037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033037",
+    "eurostat:population":6535,
+    "eurostat:population_year":2020,
     "geom:area":0.003865,
-    "geom:area_square_m":33799438.50095,
+    "geom:area_square_m":33799438.500953,
     "geom:bbox":"9.75380625203,44.9421164042,9.84135888419,45.0352535599",
     "geom:latitude":44.993269,
     "geom:longitude":9.795988,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033037",
+        "eurostat:nuts_2021_id":"033037",
         "gn:id":6541543,
         "gp:id":12680633,
         "qs_pg:id":218660
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c197f716f021016934cfa5cbca0d595e",
+    "wof:geomhash":"52e9a83dd4ed449b5527a8473bb45f81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472115,
-    "wof:lastmodified":1582327906,
+    "wof:lastmodified":1684353952,
     "wof:name":"Pontenure",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":6535,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

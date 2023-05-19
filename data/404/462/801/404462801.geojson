@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colletorto",
+    "eurostat:nuts_2021_id":"070021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070021",
+    "eurostat:population":1779,
+    "eurostat:population_year":2020,
     "geom:area":0.00386,
-    "geom:area_square_m":35665402.992406,
+    "geom:area_square_m":35665402.992403,
     "geom:bbox":"14.9317798376,41.6217917337,15.0471508716,41.6823026113",
     "geom:latitude":41.654598,
     "geom:longitude":14.996945,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070021",
+        "eurostat:nuts_2021_id":"070021",
         "gn:id":6537505,
         "gp:id":12678803,
         "qs_pg:id":40528
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5af0a43a2cde729c612c741d60aef153",
+    "wof:geomhash":"624007b27475415b93043a34200cd5a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404462801,
-    "wof:lastmodified":1582327871,
+    "wof:lastmodified":1684353766,
     "wof:name":"Colletorto",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1779,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

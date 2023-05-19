@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montorso Vicentino",
+    "eurostat:nuts_2021_id":"024068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024068",
+    "eurostat:population":3069,
+    "eurostat:population_year":2020,
     "geom:area":0.00107,
     "geom:area_square_m":9273215.787677,
     "geom:bbox":"11.3202867052,45.4798691111,11.3891368653,45.5031622565",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024068",
+        "eurostat:nuts_2021_id":"024068",
         "gn:id":6540382,
         "gp:id":12680580,
         "qs_pg:id":1208558
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"910d325f7dbcc8dd0de9fbcd1ef385e9",
+    "wof:geomhash":"7d3eca7cdcfefa546a982f3e6a3e8bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463651,
-    "wof:lastmodified":1582327769,
+    "wof:lastmodified":1684353784,
     "wof:name":"Montorso Vicentino",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":3069,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

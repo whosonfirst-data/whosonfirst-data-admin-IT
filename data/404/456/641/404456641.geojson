@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Surbo",
+    "eurostat:nuts_2021_id":"075083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075083",
+    "eurostat:population":14944,
+    "eurostat:population_year":2020,
     "geom:area":0.002175,
-    "geom:area_square_m":20472779.948493,
+    "geom:area_square_m":20472779.948506,
     "geom:bbox":"18.111961142,40.3656840833,18.1576053852,40.4602056616",
     "geom:latitude":40.413459,
     "geom:longitude":18.133581,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075083",
+        "eurostat:nuts_2021_id":"075083",
         "gn:id":6538988,
         "gp:id":12682123,
         "qs_pg:id":1173497
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"17120d26792dbeea8bbb51a6a584ce00",
+    "wof:geomhash":"8001ae5d1efe831c22b91f21abc54e35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456641,
-    "wof:lastmodified":1582328065,
+    "wof:lastmodified":1684353629,
     "wof:name":"Surbo",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":14944,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

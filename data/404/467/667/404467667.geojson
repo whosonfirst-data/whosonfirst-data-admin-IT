@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casina",
+    "eurostat:nuts_2021_id":"035013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035013",
+    "eurostat:population":4400,
+    "eurostat:population_year":2020,
     "geom:area":0.007226,
-    "geom:area_square_m":63703122.924822,
+    "geom:area_square_m":63703122.92481,
     "geom:bbox":"10.4142935232,44.483349053,10.5665071018,44.5741436558",
     "geom:latitude":44.527573,
     "geom:longitude":10.489864,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035013",
+        "eurostat:nuts_2021_id":"035013",
         "gp:id":12677798,
         "qs_pg:id":222880
     },
@@ -149,7 +165,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6c2584a539bcc5f651b6a5a0e00fd05",
+    "wof:geomhash":"606da2ef49eeb6a707ce671491ef2d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404467667,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353878,
     "wof:name":"Casina",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":4400,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

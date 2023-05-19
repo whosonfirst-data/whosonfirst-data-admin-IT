@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontebba",
+    "eurostat:nuts_2021_id":"030076",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030076",
+    "eurostat:population":1348,
+    "eurostat:population_year":2020,
     "geom:area":0.011662,
-    "geom:area_square_m":99227599.804205,
+    "geom:area_square_m":99227599.804193,
     "geom:bbox":"13.2057259488,46.4677086534,13.3895047333,46.5700495528",
     "geom:latitude":46.517506,
     "geom:longitude":13.30018,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030076",
+        "eurostat:nuts_2021_id":"030076",
         "gn:id":6538383,
         "gp:id":12676441,
         "qs_pg:id":536088
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c13f2e224bbc8efb4f9cfdb19ccdb681",
+    "wof:geomhash":"13e6024858c50e7d8017e9c7e56e0c84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404470607,
-    "wof:lastmodified":1582327755,
+    "wof:lastmodified":1684353924,
     "wof:name":"Pontebba",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1348,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

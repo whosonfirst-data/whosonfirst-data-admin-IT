@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellammare di Stabia",
+    "eurostat:nuts_2021_id":"063024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063024",
+    "eurostat:population":65300,
+    "eurostat:population_year":2020,
     "geom:area":0.001889,
-    "geom:area_square_m":17712777.285126,
+    "geom:area_square_m":17712777.285123,
     "geom:bbox":"14.4419326066,40.6643607796,14.5025073321,40.7417558879",
     "geom:latitude":40.69613,
     "geom:longitude":14.481356,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063024",
+        "eurostat:nuts_2021_id":"063024",
         "gn:id":6541903,
         "gp:id":12678244,
         "qs_pg:id":50937
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"26c8a0ef143bae7f3ccf540918dbc530",
+    "wof:geomhash":"50813ee49268669959269f093a2e87ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404460921,
-    "wof:lastmodified":1582328020,
+    "wof:lastmodified":1684353727,
     "wof:name":"Castellammare Di Stabia",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":65300,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

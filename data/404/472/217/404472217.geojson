@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soliera",
+    "eurostat:nuts_2021_id":"036044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036044",
+    "eurostat:population":15567,
+    "eurostat:population_year":2020,
     "geom:area":0.005788,
-    "geom:area_square_m":50833180.48818,
+    "geom:area_square_m":50833180.488178,
     "geom:bbox":"10.8907726952,44.7045591776,10.9962570895,44.7939430373",
     "geom:latitude":44.747698,
     "geom:longitude":10.941759,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036044",
+        "eurostat:nuts_2021_id":"036044",
         "gn:id":6536735,
         "gp:id":12677785,
         "qs_pg:id":907114
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"884f07788fedbc4149b7c6dc7da2462f",
+    "wof:geomhash":"32dfd00b026b08f563347e6a55a3c3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472217,
-    "wof:lastmodified":1582327883,
+    "wof:lastmodified":1684353954,
     "wof:name":"Soliera",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":15567,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

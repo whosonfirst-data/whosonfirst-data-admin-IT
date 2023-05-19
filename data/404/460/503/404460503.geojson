@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gadoni",
+    "eurostat:nuts_2021_id":"091025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091025",
+    "eurostat:population":748,
+    "eurostat:population_year":2020,
     "geom:area":0.004577,
-    "geom:area_square_m":43427568.843138,
+    "geom:area_square_m":43427568.843141,
     "geom:bbox":"9.12779448676,39.8256329655,9.21308212961,39.9348585675",
     "geom:latitude":39.886659,
     "geom:longitude":9.174137,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091025",
+        "eurostat:nuts_2021_id":"091025",
         "gn:id":6539253,
         "gp:id":12679448,
         "qs_pg:id":426052
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e83f0d77b94b6f9c107d937ed21d4480",
+    "wof:geomhash":"215dbe4d334b0520d0b9ef0dd7223cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404460503,
-    "wof:lastmodified":1582327996,
+    "wof:lastmodified":1684353719,
     "wof:name":"Gadoni",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":748,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

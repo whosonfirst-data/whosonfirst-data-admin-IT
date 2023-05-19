@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scalea",
+    "eurostat:nuts_2021_id":"078138",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078138",
+    "eurostat:population":11363,
+    "eurostat:population_year":2020,
     "geom:area":0.002354,
-    "geom:area_square_m":22364805.425902,
+    "geom:area_square_m":22364805.425906,
     "geom:bbox":"15.7745288861,39.7615034714,15.8308744367,39.8386117688",
     "geom:latitude":39.80164,
     "geom:longitude":15.804779,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078138",
+        "eurostat:nuts_2021_id":"078138"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c6bbf3eeeb73fd9bd23927f621c3d384",
+    "wof:geomhash":"475e7715c8259f0f5cd14b1b5966c0b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404459011,
-    "wof:lastmodified":1566723748,
+    "wof:lastmodified":1684353684,
     "wof:name":"Scalea",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":11363,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

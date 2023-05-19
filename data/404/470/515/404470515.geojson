@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enemonzo",
+    "eurostat:nuts_2021_id":"030035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030035",
+    "eurostat:population":1313,
+    "eurostat:population_year":2020,
     "geom:area":0.002776,
-    "geom:area_square_m":23668612.816634,
+    "geom:area_square_m":23668612.81663,
     "geom:bbox":"12.817098612,46.37034496,12.9251518309,46.4531032928",
     "geom:latitude":46.405243,
     "geom:longitude":12.882758,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030035",
+        "eurostat:nuts_2021_id":"030035",
         "gn:id":6536246,
         "gp:id":12679141,
         "qs_pg:id":1013105
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e24f71c3c3cf30e239de9ba8d8bd71a3",
+    "wof:geomhash":"351a3fa823b71f63119bb029ced6a60a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470515,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353923,
     "wof:name":"Enemonzo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1313,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

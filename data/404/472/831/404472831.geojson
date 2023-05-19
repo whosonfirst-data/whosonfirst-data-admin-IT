@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaglia",
+    "eurostat:nuts_2021_id":"048046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048046",
+    "eurostat:population":5231,
+    "eurostat:population_year":2020,
     "geom:area":0.006377,
-    "geom:area_square_m":56832037.183348,
+    "geom:area_square_m":56832037.183335,
     "geom:bbox":"11.2298500112,43.8372805689,11.3541571204,43.9345475775",
     "geom:latitude":43.888164,
     "geom:longitude":11.289771,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048046",
+        "eurostat:nuts_2021_id":"048046",
         "gn:id":6540473,
         "gp:id":12676822,
         "qs_pg:id":39255
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c793426ac951ebb159c3b759b4ad59b",
+    "wof:geomhash":"34dddc4cea6a464c7f1dc5e0d2cf5b87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472831,
-    "wof:lastmodified":1582327902,
+    "wof:lastmodified":1684353970,
     "wof:name":"Vaglia",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":5231,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

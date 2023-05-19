@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rigolato",
+    "eurostat:nuts_2021_id":"030094",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030094",
+    "eurostat:population":395,
+    "eurostat:population_year":2020,
     "geom:area":0.003605,
-    "geom:area_square_m":30652459.265386,
+    "geom:area_square_m":30652459.265388,
     "geom:bbox":"12.7695159867,46.5311896819,12.8968094881,46.5790218469",
     "geom:latitude":46.557636,
     "geom:longitude":12.838724,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030094",
+        "eurostat:nuts_2021_id":"030094",
         "gn:id":6536323,
         "gp:id":12679611,
         "qs_pg:id":41005
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65eea4ffd02e61297a40341cf7a65156",
+    "wof:geomhash":"b4bdc70c5ec03854bc72ea0abb96f7ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470649,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353925,
     "wof:name":"Rigolato",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_045010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massa",
+    "eurostat:nuts_2021_id":"045010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI11",
+    "eurostat:nuts_2021_level_lau":"045010",
+    "eurostat:population":68514,
+    "eurostat:population_year":2020,
     "geom:area":0.010546,
-    "geom:area_square_m":93717973.082053,
+    "geom:area_square_m":93717973.082058,
     "geom:bbox":"10.0605111854,43.9804655038,10.2432428784,44.1220830498",
     "geom:latitude":44.054915,
     "geom:longitude":10.161462,
@@ -200,6 +212,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -208,6 +222,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_045010",
+        "eurostat:nuts_2021_id":"045010",
         "gn:id":6542128,
         "gp:id":12676127,
         "qs_pg:id":1060865
@@ -216,7 +232,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c75688f42cc0ef64e349c72de5851cb",
+    "wof:geomhash":"dca3a610a55f13f0a4d9b464427bea3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,10 +243,12 @@
         }
     ],
     "wof:id":404472593,
-    "wof:lastmodified":1582327877,
+    "wof:lastmodified":1684353965,
     "wof:name":"Massa",
     "wof:parent_id":85685395,
     "wof:placetype":"localadmin",
+    "wof:population":68514,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

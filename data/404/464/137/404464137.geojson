@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Civita",
+    "eurostat:nuts_2021_id":"078041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078041",
+    "eurostat:population":872,
+    "eurostat:population_year":2020,
     "geom:area":0.002881,
-    "geom:area_square_m":27350187.617164,
+    "geom:area_square_m":27350187.617185,
     "geom:bbox":"16.2638300828,39.7944394997,16.3681525256,39.9047274439",
     "geom:latitude":39.848819,
     "geom:longitude":16.310674,
@@ -35,6 +47,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -42,9 +56,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078041",
+        "eurostat:nuts_2021_id":"078041"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c718c8e75afa0ade0b8fc6fa5965f596",
+    "wof:geomhash":"7c845d4061a8c2b33ae3b13684c0bc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,10 +72,12 @@
         }
     ],
     "wof:id":404464137,
-    "wof:lastmodified":1566723233,
+    "wof:lastmodified":1684353798,
     "wof:name":"Civita",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":872,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

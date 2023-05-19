@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tarzo",
+    "eurostat:nuts_2021_id":"026084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026084",
+    "eurostat:population":4270,
+    "eurostat:population_year":2020,
     "geom:area":0.002773,
-    "geom:area_square_m":23831824.47432,
+    "geom:area_square_m":23831824.474317,
     "geom:bbox":"12.1798812389,45.9374775498,12.262059584,45.993398878",
     "geom:latitude":45.963322,
     "geom:longitude":12.225516,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026084",
+        "eurostat:nuts_2021_id":"026084",
         "gn:id":6536652,
         "gp:id":12677228,
         "qs_pg:id":248324
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"368317c331cd21e9a1d38cf90cb17a4b",
+    "wof:geomhash":"c2e4dfd5177b3a11b7887cf94784a0a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404458703,
-    "wof:lastmodified":1582327952,
+    "wof:lastmodified":1684353675,
     "wof:name":"Tarzo",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":4270,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sersale",
+    "eurostat:nuts_2021_id":"079130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079130",
+    "eurostat:population":4436,
+    "eurostat:population_year":2020,
     "geom:area":0.005486,
-    "geom:area_square_m":52717453.498197,
+    "geom:area_square_m":52717453.498223,
     "geom:bbox":"16.6377721849,38.9048111864,16.7846859361,39.1037524464",
     "geom:latitude":38.998907,
     "geom:longitude":16.715881,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079130",
+        "eurostat:nuts_2021_id":"079130"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6ffd7b7aea958886634eb147cfbbd667",
+    "wof:geomhash":"cc83fbbf792447198b52db00487853a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464441,
-    "wof:lastmodified":1566723216,
+    "wof:lastmodified":1684353806,
     "wof:name":"Sersale",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":4436,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

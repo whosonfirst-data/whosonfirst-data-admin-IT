@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaglianico",
+    "eurostat:nuts_2021_id":"096026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096026",
+    "eurostat:population":3823,
+    "eurostat:population_year":2020,
     "geom:area":0.000519,
-    "geom:area_square_m":4491320.449585,
+    "geom:area_square_m":4491320.449586,
     "geom:bbox":"8.06212828427,45.5172019902,8.10148561,45.5476336736",
     "geom:latitude":45.534591,
     "geom:longitude":8.080769,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096026",
+        "eurostat:nuts_2021_id":"096026",
         "gn:id":6539390,
         "gp:id":12679451,
         "qs_pg:id":40878
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d11474d54cf000c725285b561aa08a7b",
+    "wof:geomhash":"355e2fd2ce54e7877789df6d81b92365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460347,
-    "wof:lastmodified":1582328007,
+    "wof:lastmodified":1684353716,
     "wof:name":"Gaglianico",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":3823,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

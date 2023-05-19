@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casalduni",
+    "eurostat:nuts_2021_id":"062015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062015",
+    "eurostat:population":1289,
+    "eurostat:population_year":2020,
     "geom:area":0.002496,
-    "geom:area_square_m":23198815.945884,
+    "geom:area_square_m":23198815.94589,
     "geom:bbox":"14.6538756721,41.2351105138,14.7357496007,41.2842499912",
     "geom:latitude":41.256421,
     "geom:longitude":14.688712,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062015",
+        "eurostat:nuts_2021_id":"062015",
         "gn:id":6542058,
         "gp:id":12677948,
         "qs_pg:id":901534
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df3681331c24c1106a56734625fd8d13",
+    "wof:geomhash":"8d94006f0a1ce746498f2daeaec8438a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460725,
-    "wof:lastmodified":1582328004,
+    "wof:lastmodified":1684353724,
     "wof:name":"Casalduni",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1289,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caravino",
+    "eurostat:nuts_2021_id":"001056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001056",
+    "eurostat:population":911,
+    "eurostat:population_year":2020,
     "geom:area":0.001327,
-    "geom:area_square_m":11518571.806899,
+    "geom:area_square_m":11518571.8069,
     "geom:bbox":"7.91426829141,45.3771482009,7.99381167565,45.420187206",
     "geom:latitude":45.399703,
     "geom:longitude":7.960667,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001056",
+        "eurostat:nuts_2021_id":"001056",
         "gn:id":6538046,
         "gp:id":12677644,
         "qs_pg:id":1163440
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67f89666cef1d69cd34c4f53c5c9ac46",
+    "wof:geomhash":"a130d6f45e76a1336926be3ec70d8478",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456299,
-    "wof:lastmodified":1582328068,
+    "wof:lastmodified":1684353620,
     "wof:name":"Caravino",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":911,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

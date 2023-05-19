@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urbania",
+    "eurostat:nuts_2021_id":"041066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041066",
+    "eurostat:population":6927,
+    "eurostat:population_year":2020,
     "geom:area":0.00864,
-    "geom:area_square_m":77299507.725001,
+    "geom:area_square_m":77299507.725016,
     "geom:bbox":"12.4471753216,43.5926774457,12.5992579904,43.700819891",
     "geom:latitude":43.650488,
     "geom:longitude":12.520655,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041066",
+        "eurostat:nuts_2021_id":"041066",
         "gn:id":6538506,
         "gp:id":12681765,
         "qs_pg:id":1122970
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d884590a33c77576feeb32da715f0897",
+    "wof:geomhash":"99307f92caaba3f25cfcf8929cb695f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459849,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353703,
     "wof:name":"Urbania",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":6927,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

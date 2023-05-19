@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abbadia Cerreto",
+    "eurostat:nuts_2021_id":"098001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098001",
+    "eurostat:population":270,
+    "eurostat:population_year":2020,
     "geom:area":0.000712,
-    "geom:area_square_m":6189458.655066,
+    "geom:area_square_m":6189458.655067,
     "geom:bbox":"9.57148689884,45.2992620206,9.61253041834,45.3399064364",
     "geom:latitude":45.313154,
     "geom:longitude":9.59178,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098001",
+        "eurostat:nuts_2021_id":"098001",
         "gn:id":6543681,
         "gp:id":20076392,
         "qs_pg:id":1018617
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14eec943e2f8a94656b3a1a29ba908ba",
+    "wof:geomhash":"fe453d8db0be8ddd96937087ffe58d21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469427,
-    "wof:lastmodified":1582328038,
+    "wof:lastmodified":1684353904,
     "wof:name":"Abbadia Cerreto",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":270,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

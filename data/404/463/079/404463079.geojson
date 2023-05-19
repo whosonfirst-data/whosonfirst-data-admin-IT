@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pastorano",
+    "eurostat:nuts_2021_id":"061055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061055",
+    "eurostat:population":3015,
+    "eurostat:population_year":2020,
     "geom:area":0.001499,
-    "geom:area_square_m":13949491.741544,
+    "geom:area_square_m":13949491.741547,
     "geom:bbox":"14.12954176,41.1370503887,14.2127254073,41.1930918062",
     "geom:latitude":41.16494,
     "geom:longitude":14.17488,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061055",
+        "eurostat:nuts_2021_id":"061055",
         "gn:id":6543716,
         "gp:id":12681763,
         "qs_pg:id":273240
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93f57888e74556e19941438192220d5f",
+    "wof:geomhash":"42cddf11e5b600e519dda80274f97eba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463079,
-    "wof:lastmodified":1582327765,
+    "wof:lastmodified":1684353771,
     "wof:name":"Pastorano",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":3015,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

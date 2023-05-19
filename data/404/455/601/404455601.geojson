@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macra",
+    "eurostat:nuts_2021_id":"004112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004112",
+    "eurostat:population":49,
+    "eurostat:population_year":2020,
     "geom:area":0.002791,
-    "geom:area_square_m":24613137.236476,
+    "geom:area_square_m":24613137.23647,
     "geom:bbox":"7.12424051348,44.4626443002,7.22001177414,44.5429413526",
     "geom:latitude":44.50495,
     "geom:longitude":7.173444,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004112",
+        "eurostat:nuts_2021_id":"004112",
         "gn:id":6543449,
         "gp:id":20075770,
         "qs_pg:id":1166745
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a67df669e9ad10d123976f9db2e7fa60",
+    "wof:geomhash":"7fce75381397fc3745d76e66b9b1c00f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455601,
-    "wof:lastmodified":1582327820,
+    "wof:lastmodified":1684353607,
     "wof:name":"Macra",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":49,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

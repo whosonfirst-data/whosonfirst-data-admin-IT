@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robecco Pavese",
+    "eurostat:nuts_2021_id":"018124",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018124",
+    "eurostat:population":541,
+    "eurostat:population_year":2020,
     "geom:area":0.000793,
-    "geom:area_square_m":6925124.003994,
+    "geom:area_square_m":6925124.003993,
     "geom:bbox":"9.13434242618,45.0296146795,9.16798887838,45.0752519248",
     "geom:latitude":45.049088,
     "geom:longitude":9.149746,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018124",
+        "eurostat:nuts_2021_id":"018124",
         "gn:id":6542629,
         "gp:id":20076321,
         "qs_pg:id":205122
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9e859d7636b79b1ca816de14244c56a",
+    "wof:geomhash":"695035d0b88ea3fd8393c73e87a6bfef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471557,
-    "wof:lastmodified":1582327711,
+    "wof:lastmodified":1684353942,
     "wof:name":"Robecco Pavese",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":541,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

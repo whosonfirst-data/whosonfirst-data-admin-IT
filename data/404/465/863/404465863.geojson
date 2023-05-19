@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerete",
+    "eurostat:nuts_2021_id":"016071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016071",
+    "eurostat:population":1588,
+    "eurostat:population_year":2020,
     "geom:area":0.001631,
-    "geom:area_square_m":14046652.757132,
+    "geom:area_square_m":14046652.757131,
     "geom:bbox":"9.96349911128,45.8304106334,10.0344181474,45.8780412744",
     "geom:latitude":45.855389,
     "geom:longitude":9.999354,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016071",
+        "eurostat:nuts_2021_id":"016071",
         "gn:id":6536143,
         "gp:id":12678503,
         "qs_pg:id":910425
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"55b1558bf3e96eb0512fe57fce8f773d",
+    "wof:geomhash":"df5db9eaadbf4345e03e749e4e0806c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465863,
-    "wof:lastmodified":1582327845,
+    "wof:lastmodified":1684353839,
     "wof:name":"Cerete",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":1588,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

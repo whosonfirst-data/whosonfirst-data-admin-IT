@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paesana",
+    "eurostat:nuts_2021_id":"004157",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004157",
+    "eurostat:population":2682,
+    "eurostat:population_year":2020,
     "geom:area":0.006615,
-    "geom:area_square_m":58167953.4449,
+    "geom:area_square_m":58167953.444904,
     "geom:bbox":"7.20013930446,44.6187890938,7.30873422289,44.7174098416",
     "geom:latitude":44.671318,
     "geom:longitude":7.247486,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004157",
+        "eurostat:nuts_2021_id":"004157",
         "gn:id":6536421,
         "gp:id":12680869,
         "qs_pg:id":41875
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c74ca2fd9057e9f4da4cfb1ab149e99",
+    "wof:geomhash":"90b306fe0f52e591dc06c7438309f27c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455701,
-    "wof:lastmodified":1582327809,
+    "wof:lastmodified":1684353609,
     "wof:name":"Paesana",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2682,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

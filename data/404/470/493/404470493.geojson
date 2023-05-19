@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiusaforte",
+    "eurostat:nuts_2021_id":"030025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030025",
+    "eurostat:population":621,
+    "eurostat:population_year":2020,
     "geom:area":0.011699,
-    "geom:area_square_m":99751211.421655,
+    "geom:area_square_m":99751211.421653,
     "geom:bbox":"13.2405273685,46.3689865425,13.517828782,46.4448881883",
     "geom:latitude":46.404245,
     "geom:longitude":13.385634,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030025",
+        "eurostat:nuts_2021_id":"030025",
         "gn:id":6536307,
         "gp:id":12678417,
         "qs_pg:id":248226
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28d4e11c0d545fc021ce434a100822fa",
+    "wof:geomhash":"3da0aacf73b4ffc095c342b9f947b8bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470493,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353922,
     "wof:name":"Chiusaforte",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":621,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

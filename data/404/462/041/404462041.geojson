@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trevi nel Lazio",
+    "eurostat:nuts_2021_id":"060080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060080",
+    "eurostat:population":1798,
+    "eurostat:population_year":2020,
     "geom:area":0.005877,
-    "geom:area_square_m":54122649.107942,
+    "geom:area_square_m":54122649.107935,
     "geom:bbox":"13.1842193479,41.8313664609,13.3267363863,41.9261324706",
     "geom:latitude":41.865133,
     "geom:longitude":13.25037,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060080",
+        "eurostat:nuts_2021_id":"060080",
         "gn:id":6536998,
         "gp:id":12682263,
         "qs_pg:id":1112574
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9ab6f33b0d353527db37370c951299a8",
+    "wof:geomhash":"8d74c3cf7e5ed2a0a2b1503b641f0fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404462041,
-    "wof:lastmodified":1582327853,
+    "wof:lastmodified":1684353751,
     "wof:name":"Trevi Nel Lazio",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":1798,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

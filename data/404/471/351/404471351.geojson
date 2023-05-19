@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017190",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trenzano",
+    "eurostat:nuts_2021_id":"017190",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017190",
+    "eurostat:population":5460,
+    "eurostat:population_year":2020,
     "geom:area":0.002315,
-    "geom:area_square_m":20069558.317134,
+    "geom:area_square_m":20069558.317141,
     "geom:bbox":"9.96938932618,45.4528857425,10.0357407304,45.5168158939",
     "geom:latitude":45.478675,
     "geom:longitude":10.003328,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017190",
+        "eurostat:nuts_2021_id":"017190",
         "gn:id":6543190,
         "gp:id":20076279,
         "qs_pg:id":1290072
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aa3fa235029ceb277e5de626610c640c",
+    "wof:geomhash":"813d134f9a9ae19cb4f177264d3913da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404471351,
-    "wof:lastmodified":1582327723,
+    "wof:lastmodified":1684353938,
     "wof:name":"Trenzano",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":5460,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

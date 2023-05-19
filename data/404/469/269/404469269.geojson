@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cesana Brianza",
+    "eurostat:nuts_2021_id":"097021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097021",
+    "eurostat:population":2393,
+    "eurostat:population_year":2020,
     "geom:area":0.000428,
-    "geom:area_square_m":3689544.385245,
+    "geom:area_square_m":3689544.385244,
     "geom:bbox":"9.27403183828,45.8032755831,9.31564770323,45.8369944876",
     "geom:latitude":45.817487,
     "geom:longitude":9.297354,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097021",
+        "eurostat:nuts_2021_id":"097021",
         "gn:id":6535694,
         "gp:id":20076374,
         "qs_pg:id":248718
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc201e44826e45966bb9862b52b32b7e",
+    "wof:geomhash":"0104b297993ea8ec7cd9250094b1ba09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469269,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353902,
     "wof:name":"Cesana Brianza",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":2393,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vessalico",
+    "eurostat:nuts_2021_id":"008066",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008066",
+    "eurostat:population":245,
+    "eurostat:population_year":2020,
     "geom:area":0.001176,
-    "geom:area_square_m":10450663.774232,
+    "geom:area_square_m":10450663.774233,
     "geom:bbox":"7.93964101896,44.0260011202,7.98607656962,44.08366196",
     "geom:latitude":44.050323,
     "geom:longitude":7.956976,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008066",
+        "eurostat:nuts_2021_id":"008066",
         "gn:id":6536467,
         "gp:id":12682403,
         "qs_pg:id":42993
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a1b25902a8b77eb66006e4850636807c",
+    "wof:geomhash":"6c501dbd7b4d25a3da3069521d89e786",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471885,
-    "wof:lastmodified":1582327727,
+    "wof:lastmodified":1684353947,
     "wof:name":"Vessalico",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel San Pietro Romano",
+    "eurostat:nuts_2021_id":"058025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058025",
+    "eurostat:population":853,
+    "eurostat:population_year":2020,
     "geom:area":0.001655,
-    "geom:area_square_m":15243591.102513,
+    "geom:area_square_m":15243591.102512,
     "geom:bbox":"12.846510123,41.8365614732,12.9402949708,41.8745880156",
     "geom:latitude":41.857958,
     "geom:longitude":12.90136,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058025",
+        "eurostat:nuts_2021_id":"058025",
         "gn:id":6540518,
         "gp:id":12678200,
         "qs_pg:id":213752
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5dd3432765c9cfe430c5f7d2dc70a2ec",
+    "wof:geomhash":"085e6c18ada7bd40f8d06e96803ff254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404461571,
-    "wof:lastmodified":1582328147,
+    "wof:lastmodified":1684353741,
     "wof:name":"Castel San Pietro Romano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":853,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

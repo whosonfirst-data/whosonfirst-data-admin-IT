@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorgono",
+    "eurostat:nuts_2021_id":"091086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091086",
+    "eurostat:population":1605,
+    "eurostat:population_year":2020,
     "geom:area":0.005918,
-    "geom:area_square_m":56040807.417669,
+    "geom:area_square_m":56040807.41767,
     "geom:bbox":"9.00416215583,39.971667295,9.13691371274,40.053985389",
     "geom:latitude":40.017646,
     "geom:longitude":9.080066,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091086",
+        "eurostat:nuts_2021_id":"091086",
         "gn:id":6540868,
         "gp:id":12681708,
         "qs_pg:id":1084052
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"597a5ef467c6421633c19e96c6e9622f",
+    "wof:geomhash":"da09e5ec86f90c417c51ff5f80fc520d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404460577,
-    "wof:lastmodified":1582328021,
+    "wof:lastmodified":1684353721,
     "wof:name":"Sorgono",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1605,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piana Crixia",
+    "eurostat:nuts_2021_id":"009048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009048",
+    "eurostat:population":797,
+    "eurostat:population_year":2020,
     "geom:area":0.003447,
-    "geom:area_square_m":30405493.752943,
+    "geom:area_square_m":30405493.752944,
     "geom:bbox":"8.21623823793,44.4640961868,8.33785292192,44.5287381025",
     "geom:latitude":44.494269,
     "geom:longitude":8.272977,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009048",
+        "eurostat:nuts_2021_id":"009048",
         "gn:id":6536364,
         "gp:id":12681039,
         "qs_pg:id":998686
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f1320c049dfbc98ac2e53bfa8372e2d2",
+    "wof:geomhash":"2587929f8d0d6ae968060d7c7effd212",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467499,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353875,
     "wof:name":"Piana Crixia",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":797,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

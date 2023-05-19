@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004245",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Mondov\u00ec",
+    "eurostat:nuts_2021_id":"004245",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004245",
+    "eurostat:population":5802,
+    "eurostat:population_year":2020,
     "geom:area":0.003202,
-    "geom:area_square_m":28311760.123017,
+    "geom:area_square_m":28311760.123023,
     "geom:bbox":"7.71365082191,44.3248307371,7.79283186067,44.3974387462",
     "geom:latitude":44.35864,
     "geom:longitude":7.750374,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004245",
+        "eurostat:nuts_2021_id":"004245",
         "gn:id":6540308,
         "gp:id":12682466,
         "qs_pg:id":1158566
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"202ec91b1f74dfad2547e0c0c0caf671",
+    "wof:geomhash":"af14e2d28f5f16405e36e02fbb6e7dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455899,
-    "wof:lastmodified":1582327821,
+    "wof:lastmodified":1684353613,
     "wof:name":"Villanova Mondov\u00ec",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":5802,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vidor",
+    "eurostat:nuts_2021_id":"026090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026090",
+    "eurostat:population":3671,
+    "eurostat:population_year":2020,
     "geom:area":0.001555,
     "geom:area_square_m":13386712.539465,
     "geom:bbox":"12.0273949862,45.8452907943,12.0758212759,45.8949337075",
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026090",
+        "eurostat:nuts_2021_id":"026090",
         "gn:id":6540997,
         "gp:id":12680612,
         "qs_pg:id":235103
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c994e9cf6b1e837a9cce29d6d4c53ed5",
+    "wof:geomhash":"3f9a380ebc131648c0d43be09e82d587",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404458717,
-    "wof:lastmodified":1582327961,
+    "wof:lastmodified":1684353676,
     "wof:name":"Vidor",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":3671,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cossato",
+    "eurostat:nuts_2021_id":"096020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096020",
+    "eurostat:population":14372,
+    "eurostat:population_year":2020,
     "geom:area":0.003198,
-    "geom:area_square_m":27690004.620228,
+    "geom:area_square_m":27690004.620218,
     "geom:bbox":"8.14992554987,45.5098153773,8.22045902617,45.6109196625",
     "geom:latitude":45.552922,
     "geom:longitude":8.184373,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096020",
+        "eurostat:nuts_2021_id":"096020",
         "gn:id":6540883,
         "gp:id":12678257,
         "qs_pg:id":1092972
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"892895023e8c0362fadfe10efc34f8e7",
+    "wof:geomhash":"7153a75ac789495596a15fee770ff09f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404460335,
-    "wof:lastmodified":1582328009,
+    "wof:lastmodified":1684353715,
     "wof:name":"Cossato",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":14372,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

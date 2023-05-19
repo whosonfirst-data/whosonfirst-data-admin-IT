@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Edolo",
+    "eurostat:nuts_2021_id":"017068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017068",
+    "eurostat:population":4474,
+    "eurostat:population_year":2020,
     "geom:area":0.010365,
-    "geom:area_square_m":88734178.085953,
+    "geom:area_square_m":88734178.085947,
     "geom:bbox":"10.2281207173,46.1401278032,10.5197189191,46.2134162875",
     "geom:latitude":46.182204,
     "geom:longitude":10.381419,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017068",
+        "eurostat:nuts_2021_id":"017068",
         "gn:id":6537169,
         "gp:id":12676485,
         "qs_pg:id":1187836
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f194bc34715c90e269211d0ad66aaee7",
+    "wof:geomhash":"4556041c46ae05914f6271a113bc667f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471075,
-    "wof:lastmodified":1582327727,
+    "wof:lastmodified":1684353933,
     "wof:name":"Edolo",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4474,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelluccio Valmaggiore",
+    "eurostat:nuts_2021_id":"071016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071016",
+    "eurostat:population":1253,
+    "eurostat:population_year":2020,
     "geom:area":0.002865,
-    "geom:area_square_m":26595070.42649,
+    "geom:area_square_m":26595070.426492,
     "geom:bbox":"15.167285201,41.3188757528,15.2494478063,41.3870781652",
     "geom:latitude":41.352778,
     "geom:longitude":15.209907,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071016",
+        "eurostat:nuts_2021_id":"071016",
         "gn:id":6541248,
         "gp:id":12678291,
         "qs_pg:id":1195903
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5def00f11f27a757140b0942c512ae64",
+    "wof:geomhash":"e12568e9c4f4dc15c5e0263332d0b70d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458879,
-    "wof:lastmodified":1582327953,
+    "wof:lastmodified":1684353680,
     "wof:name":"Castelluccio Valmaggiore",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":1253,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

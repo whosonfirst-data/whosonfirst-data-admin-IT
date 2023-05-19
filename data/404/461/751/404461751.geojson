@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolfa",
+    "eurostat:nuts_2021_id":"058105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058105",
+    "eurostat:population":4923,
+    "eurostat:population_year":2020,
     "geom:area":0.018307,
-    "geom:area_square_m":167904831.220541,
+    "geom:area_square_m":167904831.220556,
     "geom:bbox":"11.8735366162,42.0087729699,12.0753644394,42.241091781",
     "geom:latitude":42.122688,
     "geom:longitude":11.970785,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058105",
+        "eurostat:nuts_2021_id":"058105",
         "gn:id":6536968,
         "gp:id":12676442,
         "qs_pg:id":1187837
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"200cc023d38b491cafe16e435108a4c0",
+    "wof:geomhash":"976b967931e10a6b0f2340b532996075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461751,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353745,
     "wof:name":"Tolfa",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":4923,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

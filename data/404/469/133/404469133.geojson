@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marcaria",
+    "eurostat:nuts_2021_id":"020031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020031",
+    "eurostat:population":6451,
+    "eurostat:population_year":2020,
     "geom:area":0.01027,
-    "geom:area_square_m":89631135.279331,
+    "geom:area_square_m":89631135.279341,
     "geom:bbox":"10.5061967226,45.0344913103,10.6745547578,45.1808303642",
     "geom:latitude":45.104681,
     "geom:longitude":10.597305,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020031",
+        "eurostat:nuts_2021_id":"020031",
         "gn:id":6536591,
         "gp:id":12677422,
         "qs_pg:id":1024138
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"33c6fb7ab6a8b25bf397be601b709e11",
+    "wof:geomhash":"6ee001b741a210cae6746336114141d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404469133,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353899,
     "wof:name":"Marcaria",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":6451,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

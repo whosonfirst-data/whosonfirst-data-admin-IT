@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aragona",
+    "eurostat:nuts_2021_id":"084003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084003",
+    "eurostat:population":9195,
+    "eurostat:population_year":2020,
     "geom:area":0.007579,
     "geom:area_square_m":74425908.43312,
     "geom:bbox":"13.5594992973,37.3516821974,13.6629633039,37.4872162528",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084003",
+        "eurostat:nuts_2021_id":"084003",
         "gn:id":6539869,
         "gp:id":12676173,
         "qs_pg:id":38855
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b90ce292b5402def97e4ef7e444bc9bf",
+    "wof:geomhash":"317348592fcd50eb5449f980a8690b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466433,
-    "wof:lastmodified":1582328206,
+    "wof:lastmodified":1684353849,
     "wof:name":"Aragona",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":9195,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

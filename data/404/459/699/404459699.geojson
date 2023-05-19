@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_055033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avigliano Umbro",
+    "eurostat:nuts_2021_id":"055033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI22",
+    "eurostat:nuts_2021_level_lau":"055033",
+    "eurostat:population":2453,
+    "eurostat:population_year":2020,
     "geom:area":0.005631,
-    "geom:area_square_m":51199342.5156,
+    "geom:area_square_m":51199342.515603,
     "geom:bbox":"12.3355901644,42.6240129392,12.4791186214,42.7080306122",
     "geom:latitude":42.664529,
     "geom:longitude":12.409763,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_055033",
+        "eurostat:nuts_2021_id":"055033",
         "gn:id":6542257,
         "gp:id":12678205,
         "qs_pg:id":1102059
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"26c6db9bddbe680e5370809a2043915c",
+    "wof:geomhash":"b0075d8e11376ff727d855e0b90db3fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404459699,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353699,
     "wof:name":"Avigliano Umbro",
     "wof:parent_id":85685443,
     "wof:placetype":"localadmin",
+    "wof:population":2453,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

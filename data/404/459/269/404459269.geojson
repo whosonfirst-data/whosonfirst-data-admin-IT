@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Militello in Val di Catania",
+    "eurostat:nuts_2021_id":"087025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087025",
+    "eurostat:population":7062,
+    "eurostat:population_year":2020,
     "geom:area":0.006312,
-    "geom:area_square_m":62098143.221895,
+    "geom:area_square_m":62098143.221914,
     "geom:bbox":"14.7343431984,37.2285239153,14.8593678749,37.326326723",
     "geom:latitude":37.280561,
     "geom:longitude":14.788022,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087025",
+        "eurostat:nuts_2021_id":"087025",
         "gn:id":6541349,
         "gp:id":12677857,
         "qs_pg:id":1102050
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"807ea9205d06eeafdbac244d2177152b",
+    "wof:geomhash":"a1b26e5e864f14edac0c6f223e9a75c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459269,
-    "wof:lastmodified":1582328162,
+    "wof:lastmodified":1684353690,
     "wof:name":"Militello In Val Di Catania",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":7062,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

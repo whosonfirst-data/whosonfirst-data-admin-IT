@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gignod",
+    "eurostat:nuts_2021_id":"007030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007030",
+    "eurostat:population":1741,
+    "eurostat:population_year":2020,
     "geom:area":0.003007,
-    "geom:area_square_m":25931967.215228,
+    "geom:area_square_m":25931967.215226,
     "geom:bbox":"7.18925330872,45.762782368,7.31805340694,45.8063740909",
     "geom:latitude":45.783299,
     "geom:longitude":7.260053,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007030",
+        "eurostat:nuts_2021_id":"007030",
         "gn:id":6543059,
         "gp:id":12676178,
         "qs_pg:id":287904
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7627ddebd3ab5c37274b4d9291497171",
+    "wof:geomhash":"0f7af261396b7bd08b6f2c6e5ffa7c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404459291,
-    "wof:lastmodified":1582328174,
+    "wof:lastmodified":1684353691,
     "wof:name":"Gignod",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1741,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteroni d'Arbia",
+    "eurostat:nuts_2021_id":"052017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052017",
+    "eurostat:population":9067,
+    "eurostat:population_year":2020,
     "geom:area":0.011732,
-    "geom:area_square_m":105716394.572051,
+    "geom:area_square_m":105716394.572025,
     "geom:bbox":"11.2931342011,43.1581080546,11.4751831857,43.2744308954",
     "geom:latitude":43.219173,
     "geom:longitude":11.389431,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052017",
+        "eurostat:nuts_2021_id":"052017",
         "gn:id":6536851,
         "gp:id":12679698,
         "qs_pg:id":248315
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c71e75dd6f8ce3d2c1b42458989397e",
+    "wof:geomhash":"abed41e552072d09b8b026df788ef1c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463835,
-    "wof:lastmodified":1582327769,
+    "wof:lastmodified":1684353787,
     "wof:name":"Monteroni D'Arbia",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":9067,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

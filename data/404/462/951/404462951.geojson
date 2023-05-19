@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sesto Campano",
+    "eurostat:nuts_2021_id":"094050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094050",
+    "eurostat:population":2239,
+    "eurostat:population_year":2020,
     "geom:area":0.00379,
-    "geom:area_square_m":35143518.212359,
+    "geom:area_square_m":35143518.212356,
     "geom:bbox":"14.0199920112,41.3863896092,14.1137380379,41.4605105379",
     "geom:latitude":41.42072,
     "geom:longitude":14.062877,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094050",
+        "eurostat:nuts_2021_id":"094050",
         "gn:id":6540876,
         "gp:id":12681426,
         "qs_pg:id":1102214
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b7286aa92bac4a4e0972e771529ab16",
+    "wof:geomhash":"832516ef584da61cebfe598c48a13a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462951,
-    "wof:lastmodified":1582327865,
+    "wof:lastmodified":1684353769,
     "wof:name":"Sesto Campano",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":2239,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

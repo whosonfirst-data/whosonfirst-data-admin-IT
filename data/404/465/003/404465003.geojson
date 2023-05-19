@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Godrano",
+    "eurostat:nuts_2021_id":"082040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082040",
+    "eurostat:population":1122,
+    "eurostat:population_year":2020,
     "geom:area":0.00398,
-    "geom:area_square_m":38852482.945503,
+    "geom:area_square_m":38852482.945515,
     "geom:bbox":"13.3764025161,37.8127488449,13.4480316641,37.9085664441",
     "geom:latitude":37.856352,
     "geom:longitude":13.414454,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082040",
+        "eurostat:nuts_2021_id":"082040",
         "gn:id":6539130,
         "gp:id":12679620,
         "qs_pg:id":1314073
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa95b7de575e0ea8c88c1acf264fa775",
+    "wof:geomhash":"1097ed5b225f7e146b031e78259934f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465003,
-    "wof:lastmodified":1582327842,
+    "wof:lastmodified":1684353823,
     "wof:name":"Godrano",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1122,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

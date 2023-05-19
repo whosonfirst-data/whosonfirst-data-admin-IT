@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trivignano Udinese",
+    "eurostat:nuts_2021_id":"030128",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030128",
+    "eurostat:population":1595,
+    "eurostat:population_year":2020,
     "geom:area":0.002137,
-    "geom:area_square_m":18379948.772253,
+    "geom:area_square_m":18379948.772251,
     "geom:bbox":"13.2973785221,45.9169305503,13.3761239072,45.9614203057",
     "geom:latitude":45.939981,
     "geom:longitude":13.337848,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030128",
+        "eurostat:nuts_2021_id":"030128",
         "gn:id":6536695,
         "gp:id":12678724,
         "qs_pg:id":1142992
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5db0a3b38ef35ed6a60ab298232a1bd2",
+    "wof:geomhash":"20d01e8ff5c16b8596d5a75ee5db3a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470723,
-    "wof:lastmodified":1582327746,
+    "wof:lastmodified":1684353926,
     "wof:name":"Trivignano Udinese",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1595,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

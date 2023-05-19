@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sesto Fiorentino",
+    "eurostat:nuts_2021_id":"048043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048043",
+    "eurostat:population":49158,
+    "eurostat:population_year":2020,
     "geom:area":0.005459,
-    "geom:area_square_m":48690745.441993,
+    "geom:area_square_m":48690745.441988,
     "geom:bbox":"11.1447646111,43.7997659396,11.2914900841,43.8803287273",
     "geom:latitude":43.840038,
     "geom:longitude":11.221756,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048043",
+        "eurostat:nuts_2021_id":"048043",
         "gn:id":6538566,
         "gp:id":12678349,
         "qs_pg:id":235241
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"634e7b8667733c388d2aabad9a455f86",
+    "wof:geomhash":"3237ab0d5029d937893dbeae6e157527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472823,
-    "wof:lastmodified":1582327898,
+    "wof:lastmodified":1684353970,
     "wof:name":"Sesto Fiorentino",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":49158,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

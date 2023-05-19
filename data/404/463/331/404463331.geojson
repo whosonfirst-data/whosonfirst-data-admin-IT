@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_075031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gallipoli",
+    "eurostat:nuts_2021_id":"075031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF45",
+    "eurostat:nuts_2021_level_lau":"075031",
+    "eurostat:population":20182,
+    "eurostat:population_year":2020,
     "geom:area":0.004289,
-    "geom:area_square_m":40609365.477694,
+    "geom:area_square_m":40609365.477752,
     "geom:bbox":"17.9447760328,39.9705225899,18.0774566538,40.1143562607",
     "geom:latitude":40.031357,
     "geom:longitude":18.026148,
@@ -215,6 +227,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -223,6 +237,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_075031",
+        "eurostat:nuts_2021_id":"075031",
         "gn:id":6541943,
         "gp:id":20076980,
         "qs_pg:id":1056065
@@ -231,7 +247,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44b305b498c9fa822b8c2bab0fa6f87e",
+    "wof:geomhash":"df98cb3d362ccd38913b711024462470",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -242,10 +258,12 @@
         }
     ],
     "wof:id":404463331,
-    "wof:lastmodified":1582327761,
+    "wof:lastmodified":1684353777,
     "wof:name":"Gallipoli",
     "wof:parent_id":85685547,
     "wof:placetype":"localadmin",
+    "wof:population":20182,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

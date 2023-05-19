@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Biagio Saracinisco",
+    "eurostat:nuts_2021_id":"060061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060061",
+    "eurostat:population":315,
+    "eurostat:population_year":2020,
     "geom:area":0.003361,
-    "geom:area_square_m":31066340.60534,
+    "geom:area_square_m":31066340.605357,
     "geom:bbox":"13.8898815902,41.5881532234,13.9967379127,41.6647129213",
     "geom:latitude":41.619911,
     "geom:longitude":13.947957,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060061",
+        "eurostat:nuts_2021_id":"060061",
         "gn:id":6542259,
         "gp:id":12681584,
         "qs_pg:id":42390
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d622e23194784b216541b2410cb1789b",
+    "wof:geomhash":"8ac18666dfae44cbda1eebea739c793b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461999,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353750,
     "wof:name":"San Biagio Saracinisco",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":315,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

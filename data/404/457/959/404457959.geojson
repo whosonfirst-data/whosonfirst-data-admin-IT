@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chamois",
+    "eurostat:nuts_2021_id":"007016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007016",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.001683,
     "geom:area_square_m":14501964.655931,
     "geom:bbox":"7.60420594634,45.8229053356,7.68469066875,45.8591647819",
@@ -219,6 +231,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -227,6 +241,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007016",
+        "eurostat:nuts_2021_id":"007016",
         "gn:id":6542489,
         "gp:id":20075998,
         "qs_pg:id":218806
@@ -235,7 +251,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36affe629a7bb193cf1cff945576987d",
+    "wof:geomhash":"347eb19105d07fad4ac7fce0a7a933a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,10 +262,12 @@
         }
     ],
     "wof:id":404457959,
-    "wof:lastmodified":1582328109,
+    "wof:lastmodified":1684353660,
     "wof:name":"Chamois",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

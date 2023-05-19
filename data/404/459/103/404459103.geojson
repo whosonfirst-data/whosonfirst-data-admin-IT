@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arba",
+    "eurostat:nuts_2021_id":"093002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093002",
+    "eurostat:population":1318,
+    "eurostat:population_year":2020,
     "geom:area":0.001781,
-    "geom:area_square_m":15254246.256674,
+    "geom:area_square_m":15254246.256676,
     "geom:bbox":"12.7653132714,46.1176035405,12.8191981083,46.1767835324",
     "geom:latitude":46.146538,
     "geom:longitude":12.799334,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093002",
+        "eurostat:nuts_2021_id":"093002",
         "gn:id":6539323,
         "gp:id":12676176,
         "qs_pg:id":270227
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"209ae5e2dcc876bd78ee7138d3c2b003",
+    "wof:geomhash":"36da39a2d7a5ee086de3110c4cf5dc15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404459103,
-    "wof:lastmodified":1582328153,
+    "wof:lastmodified":1684353686,
     "wof:name":"Arba",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":1318,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

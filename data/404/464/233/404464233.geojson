@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mormanno",
+    "eurostat:nuts_2021_id":"078084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078084",
+    "eurostat:population":2798,
+    "eurostat:population_year":2020,
     "geom:area":0.008238,
-    "geom:area_square_m":78176687.037241,
+    "geom:area_square_m":78176687.037257,
     "geom:bbox":"15.8939611082,39.8145633306,16.0491027184,39.9405836582",
     "geom:latitude":39.877133,
     "geom:longitude":15.993933,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078084",
+        "eurostat:nuts_2021_id":"078084"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7d4c83ce7b4e5c31ac6e773467fcced5",
+    "wof:geomhash":"1e7f940dacefd0c9a8f47d1fcf23d245",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464233,
-    "wof:lastmodified":1566723223,
+    "wof:lastmodified":1684353800,
     "wof:name":"Mormanno",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2798,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

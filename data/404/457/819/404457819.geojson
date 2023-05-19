@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soriso",
+    "eurostat:nuts_2021_id":"003140",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003140",
+    "eurostat:population":747,
+    "eurostat:population_year":2020,
     "geom:area":0.000737,
-    "geom:area_square_m":6361900.525962,
+    "geom:area_square_m":6361900.525961,
     "geom:bbox":"8.37724755319,45.7201815816,8.42129972173,45.7517127454",
     "geom:latitude":45.736952,
     "geom:longitude":8.398152,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003140",
+        "eurostat:nuts_2021_id":"003140",
         "gn:id":6543273,
         "gp:id":20075723,
         "qs_pg:id":50269
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d4c55e22f422d1e5db1e9a81ed0a5114",
+    "wof:geomhash":"5e69c544fc3598e4ec612f15188af581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457819,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353657,
     "wof:name":"Soriso",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":747,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

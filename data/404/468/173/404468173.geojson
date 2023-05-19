@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dubino",
+    "eurostat:nuts_2021_id":"014027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014027",
+    "eurostat:population":3711,
+    "eurostat:population_year":2020,
     "geom:area":0.001543,
     "geom:area_square_m":13217515.615194,
     "geom:bbox":"9.42160088987,46.1436519222,9.47232228861,46.1899187614",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014027",
+        "eurostat:nuts_2021_id":"014027",
         "gn:id":6542011,
         "gp:id":12679128,
         "qs_pg:id":40710
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f55002b959f2807e911cc0ac4c62c9d0",
+    "wof:geomhash":"3ee434f512711fb8843be0638a248461",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468173,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353884,
     "wof:name":"Dubino",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":3711,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

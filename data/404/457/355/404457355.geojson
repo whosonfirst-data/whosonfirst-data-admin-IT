@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001272",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torino",
+    "eurostat:nuts_2021_id":"001272",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001272",
+    "eurostat:population":870952,
+    "eurostat:population_year":2020,
     "geom:area":0.014864,
-    "geom:area_square_m":129798253.726723,
+    "geom:area_square_m":129798253.726734,
     "geom:bbox":"7.57786973585,45.0067751143,7.77337507278,45.1402010719",
     "geom:latitude":45.071733,
     "geom:longitude":7.678022,
@@ -473,6 +485,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -481,6 +495,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001272",
+        "eurostat:nuts_2021_id":"001272",
         "gn:id":3165525,
         "gp:id":12675704,
         "qs_pg:id":201737
@@ -489,7 +505,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb0736c5a12c3c046a35675b29d28c1c",
+    "wof:geomhash":"9b147763d055866dee7f2295e9fb043c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -500,10 +516,12 @@
         }
     ],
     "wof:id":404457355,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353648,
     "wof:name":"Turin",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":870952,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

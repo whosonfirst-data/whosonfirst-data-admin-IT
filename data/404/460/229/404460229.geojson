@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murisengo",
+    "eurostat:nuts_2021_id":"006113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006113",
+    "eurostat:population":1343,
+    "eurostat:population_year":2020,
     "geom:area":0.001751,
     "geom:area_square_m":15288052.748041,
     "geom:bbox":"8.10936845289,45.0515325569,8.17133681686,45.1072295268",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006113",
+        "eurostat:nuts_2021_id":"006113",
         "gn:id":6538210,
         "gp:id":12680637,
         "qs_pg:id":41687
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8a8bcf84c3cb0590e40dab281839537e",
+    "wof:geomhash":"82c2aed62f44c3340507223c1cfe003a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460229,
-    "wof:lastmodified":1582327997,
+    "wof:lastmodified":1684353713,
     "wof:name":"Murisengo",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1343,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

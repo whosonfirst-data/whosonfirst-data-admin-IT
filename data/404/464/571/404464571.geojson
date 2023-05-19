@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mammola",
+    "eurostat:nuts_2021_id":"080044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080044",
+    "eurostat:population":2648,
+    "eurostat:population_year":2020,
     "geom:area":0.008283,
-    "geom:area_square_m":80297682.880356,
+    "geom:area_square_m":80297682.880357,
     "geom:bbox":"16.1524046063,38.31418859,16.2613131653,38.439358414",
     "geom:latitude":38.375969,
     "geom:longitude":16.213861,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080044",
+        "eurostat:nuts_2021_id":"080044",
         "gn:id":6539100,
         "gp:id":12677812,
         "qs_pg:id":1163444
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac5102096b08502175718ddd19b72f5e",
+    "wof:geomhash":"e6aa721c3ffff2bf16c959c0b9b9635f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464571,
-    "wof:lastmodified":1582327806,
+    "wof:lastmodified":1684353809,
     "wof:name":"Mammola",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":2648,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

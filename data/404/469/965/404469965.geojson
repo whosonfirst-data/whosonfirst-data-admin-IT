@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sospirolo",
+    "eurostat:nuts_2021_id":"025056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025056",
+    "eurostat:population":3127,
+    "eurostat:population_year":2020,
     "geom:area":0.007668,
-    "geom:area_square_m":65661491.835398,
+    "geom:area_square_m":65661491.835393,
     "geom:bbox":"11.9851420311,46.1152440257,12.1272224882,46.2184648204",
     "geom:latitude":46.168461,
     "geom:longitude":12.060915,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025056",
+        "eurostat:nuts_2021_id":"025056",
         "gn:id":6536634,
         "gp:id":20076689,
         "qs_pg:id":52040
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2340e886861cdf22966d0c0545bafe74",
+    "wof:geomhash":"189a698dd84c772f28f03ea4ad83cbef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469965,
-    "wof:lastmodified":1582328024,
+    "wof:lastmodified":1684353913,
     "wof:name":"Sospirolo",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":3127,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

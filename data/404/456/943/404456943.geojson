@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genzano di Lucania",
+    "eurostat:nuts_2021_id":"076036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076036",
+    "eurostat:population":5566,
+    "eurostat:population_year":2020,
     "geom:area":0.022131,
-    "geom:area_square_m":207004696.984185,
+    "geom:area_square_m":207004696.984178,
     "geom:bbox":"15.9525927362,40.7664944397,16.2441115797,40.9285311349",
     "geom:latitude":40.847673,
     "geom:longitude":16.118897,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076036",
+        "eurostat:nuts_2021_id":"076036",
         "gn:id":6537619,
         "gp:id":12679535,
         "qs_pg:id":1263111
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7bec13031a571ebd79580f9e3e57f989",
+    "wof:geomhash":"1d4b6aaabfb66ec503b32ccdbe70fc05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404456943,
-    "wof:lastmodified":1582328072,
+    "wof:lastmodified":1684353637,
     "wof:name":"Genzano Di Lucania",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":5566,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

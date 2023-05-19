@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beura-Cardezza",
+    "eurostat:nuts_2021_id":"103011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103011",
+    "eurostat:population":1450,
+    "eurostat:population_year":2020,
     "geom:area":0.003322,
-    "geom:area_square_m":28504152.841746,
+    "geom:area_square_m":28504152.84174,
     "geom:bbox":"8.26903615634,46.0309300607,8.37909468144,46.0928097784",
     "geom:latitude":46.056513,
     "geom:longitude":8.319966,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103011",
+        "eurostat:nuts_2021_id":"103011",
         "gn:id":6535872,
         "gp:id":12675988,
         "qs_pg:id":785637
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78c875fffe42002416d8c34c1530cdbd",
+    "wof:geomhash":"3300124853f83af7a9feb91fff58a6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459449,
-    "wof:lastmodified":1582328156,
+    "wof:lastmodified":1684353693,
     "wof:name":"Beura-Cardezza",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":1450,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

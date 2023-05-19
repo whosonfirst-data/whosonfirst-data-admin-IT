@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paularo",
+    "eurostat:nuts_2021_id":"030073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030073",
+    "eurostat:population":2457,
+    "eurostat:population_year":2020,
     "geom:area":0.009863,
-    "geom:area_square_m":83891892.179731,
+    "geom:area_square_m":83891892.179727,
     "geom:bbox":"13.053303507,46.4750656766,13.2019093071,46.6018223335",
     "geom:latitude":46.539869,
     "geom:longitude":13.12993,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030073",
+        "eurostat:nuts_2021_id":"030073",
         "gn:id":6536314,
         "gp:id":12680952,
         "qs_pg:id":41941
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7100d50dbf8598ceedd6b83a1ebbfc5c",
+    "wof:geomhash":"186ab98fd63b76241e9821aaa79eb77f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404470601,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353924,
     "wof:name":"Paularo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2457,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

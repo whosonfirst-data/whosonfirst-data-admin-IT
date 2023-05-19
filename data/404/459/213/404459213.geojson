@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarosa",
+    "eurostat:nuts_2021_id":"086020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086020",
+    "eurostat:population":4646,
+    "eurostat:population_year":2020,
     "geom:area":0.005576,
-    "geom:area_square_m":54630340.964969,
+    "geom:area_square_m":54630340.964975,
     "geom:bbox":"14.1325247422,37.5328508483,14.2373053941,37.6452301522",
     "geom:latitude":37.593026,
     "geom:longitude":14.177539,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086020",
+        "eurostat:nuts_2021_id":"086020",
         "gn:id":6539193,
         "gp:id":12682480,
         "qs_pg:id":43060
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"908c82214702d68bbe014fa3144bcd45",
+    "wof:geomhash":"aa2c7f17491e82c2df39d1179f580067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459213,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353689,
     "wof:name":"Villarosa",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":4646,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

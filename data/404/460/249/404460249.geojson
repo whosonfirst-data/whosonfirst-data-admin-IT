@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oviglio",
+    "eurostat:nuts_2021_id":"006122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006122",
+    "eurostat:population":1198,
+    "eurostat:population_year":2020,
     "geom:area":0.003118,
-    "geom:area_square_m":27329453.158247,
+    "geom:area_square_m":27329453.158244,
     "geom:bbox":"8.42243620176,44.8376527823,8.52636826168,44.902704679",
     "geom:latitude":44.865196,
     "geom:longitude":8.481936,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006122",
+        "eurostat:nuts_2021_id":"006122",
         "gn:id":6542419,
         "gp:id":12680849,
         "qs_pg:id":1026183
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02869b3eedda0a0843e499f3aeffe446",
+    "wof:geomhash":"baa7ed8aabfb39acd01c5be5797d6ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460249,
-    "wof:lastmodified":1582328014,
+    "wof:lastmodified":1684353713,
     "wof:name":"Oviglio",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

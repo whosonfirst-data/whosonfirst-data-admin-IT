@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pozzuolo del Friuli",
+    "eurostat:nuts_2021_id":"030079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030079",
+    "eurostat:population":6953,
+    "eurostat:population_year":2020,
     "geom:area":0.003984,
     "geom:area_square_m":34226141.36791,
     "geom:bbox":"13.140610058,45.9635747313,13.2650305402,46.0271818307",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030079",
+        "eurostat:nuts_2021_id":"030079",
         "gn:id":6536317,
         "gp:id":12677726,
         "qs_pg:id":1228220
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbd26a9ced69d06884fbae276616b8f8",
+    "wof:geomhash":"10491dd53e081b8c7f97eb22604e4514",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470615,
-    "wof:lastmodified":1582327752,
+    "wof:lastmodified":1684353925,
     "wof:name":"Pozzuolo Del Friuli",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":6953,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

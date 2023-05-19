@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buonconvento",
+    "eurostat:nuts_2021_id":"052003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052003",
+    "eurostat:population":3087,
+    "eurostat:population_year":2020,
     "geom:area":0.007173,
-    "geom:area_square_m":64720276.496933,
+    "geom:area_square_m":64720276.496924,
     "geom:bbox":"11.4009124752,43.1002504279,11.5465561662,43.1984378387",
     "geom:latitude":43.141069,
     "geom:longitude":11.472872,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052003",
+        "eurostat:nuts_2021_id":"052003",
         "gn:id":6538595,
         "gp:id":12676779,
         "qs_pg:id":1293012
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9fe6d89bd5b1dc0c6c49c5f46d75eac4",
+    "wof:geomhash":"0bdb73f0ad8549f59f2e09c4cd3742a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463803,
-    "wof:lastmodified":1582327769,
+    "wof:lastmodified":1684353786,
     "wof:name":"Buonconvento",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":3087,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

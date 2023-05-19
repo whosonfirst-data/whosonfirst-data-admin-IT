@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burcei",
+    "eurostat:nuts_2021_id":"111007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111007",
+    "eurostat:population":2740,
+    "eurostat:population_year":2020,
     "geom:area":0.009921,
-    "geom:area_square_m":94845568.818141,
+    "geom:area_square_m":94845568.818144,
     "geom:bbox":"9.33134881844,39.3058663731,9.47035302951,39.4241351812",
     "geom:latitude":39.360744,
     "geom:longitude":9.401318,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111007",
+        "eurostat:nuts_2021_id":"111007",
         "gn:id":6537891,
         "gp:id":12677183,
         "qs_pg:id":248021
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"161e88d2839ca4077c16415782de1ad9",
+    "wof:geomhash":"59dbd1e76ebf69403ebcbde802c0c208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404460599,
-    "wof:lastmodified":1582328009,
+    "wof:lastmodified":1684353722,
     "wof:name":"Burcei",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":2740,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

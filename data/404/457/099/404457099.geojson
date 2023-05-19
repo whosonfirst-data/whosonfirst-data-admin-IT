@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Ilario d'Enza",
+    "eurostat:nuts_2021_id":"035039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035039",
+    "eurostat:population":11309,
+    "eurostat:population_year":2020,
     "geom:area":0.0023,
-    "geom:area_square_m":20200406.527885,
+    "geom:area_square_m":20200406.527883,
     "geom:bbox":"10.4250852959,44.7290730898,10.5166792159,44.773526531",
     "geom:latitude":44.750909,
     "geom:longitude":10.467524,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035039",
+        "eurostat:nuts_2021_id":"035039",
         "gn:id":6538445,
         "gp:id":12681834,
         "qs_pg:id":1037376
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77e9152abeedd8b60f55b47d7a7fdac8",
+    "wof:geomhash":"11c0862642f94e88f6116429841a91c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457099,
-    "wof:lastmodified":1582328103,
+    "wof:lastmodified":1684353642,
     "wof:name":"Sant'Ilario D'Enza",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":11309,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

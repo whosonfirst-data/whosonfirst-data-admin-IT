@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laterza",
+    "eurostat:nuts_2021_id":"073009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073009",
+    "eurostat:population":15067,
+    "eurostat:population_year":2020,
     "geom:area":0.016991,
-    "geom:area_square_m":159410001.738291,
+    "geom:area_square_m":159410001.738282,
     "geom:bbox":"16.6965727504,40.5719707436,16.8733327861,40.7332180199",
     "geom:latitude":40.645631,
     "geom:longitude":16.785753,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073009",
+        "eurostat:nuts_2021_id":"073009",
         "gn:id":6541261,
         "gp:id":12679882,
         "qs_pg:id":41165
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a3015d68badd019145f900443721515",
+    "wof:geomhash":"f57b2c160ed94800bf9835eb1aa2e157",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404456855,
-    "wof:lastmodified":1582328068,
+    "wof:lastmodified":1684353634,
     "wof:name":"Laterza",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":15067,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

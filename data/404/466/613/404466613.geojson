@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Agata li Battiati",
+    "eurostat:nuts_2021_id":"087045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087045",
+    "eurostat:population":9543,
+    "eurostat:population_year":2020,
     "geom:area":0.000317,
-    "geom:area_square_m":3103923.234449,
+    "geom:area_square_m":3103923.234451,
     "geom:bbox":"15.072528,37.540182,15.094783,37.570762",
     "geom:latitude":37.553821,
     "geom:longitude":15.081422,
@@ -38,14 +50,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227533,
-        85685617
+        85685617,
+        404227533
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087045",
+        "eurostat:nuts_2021_id":"087045",
         "gn:id":6542347,
         "gp:id":20077064,
         "qs_pg:id":51094
@@ -57,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b66bbaaa60911341b921b478a77bbbd7",
+    "wof:geomhash":"52f13a26890c89d6243490e7f6be7efa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404466613,
-    "wof:lastmodified":1608041346,
+    "wof:lastmodified":1684353853,
     "wof:name":"Sant'Agata Li Battiati",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":9543,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

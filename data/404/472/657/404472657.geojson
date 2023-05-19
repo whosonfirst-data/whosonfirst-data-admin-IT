@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pescaglia",
+    "eurostat:nuts_2021_id":"046022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046022",
+    "eurostat:population":3371,
+    "eurostat:population_year":2020,
     "geom:area":0.007915,
-    "geom:area_square_m":70447872.749143,
+    "geom:area_square_m":70447872.749133,
     "geom:bbox":"10.3490541029,43.9029388702,10.4944929483,44.0015945511",
     "geom:latitude":43.962081,
     "geom:longitude":10.421037,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046022",
+        "eurostat:nuts_2021_id":"046022",
         "gn:id":6536815,
         "gp:id":12679524,
         "qs_pg:id":886118
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"180172ba329a5c1f51eedb050ff96378",
+    "wof:geomhash":"959fe309e66efface6bbeb6c0f733098",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404472657,
-    "wof:lastmodified":1582327889,
+    "wof:lastmodified":1684353966,
     "wof:name":"Pescaglia",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":3371,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

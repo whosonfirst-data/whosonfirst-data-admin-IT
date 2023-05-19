@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sutera",
+    "eurostat:nuts_2021_id":"085020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085020",
+    "eurostat:population":1299,
+    "eurostat:population_year":2020,
     "geom:area":0.003614,
-    "geom:area_square_m":35443464.515226,
+    "geom:area_square_m":35443464.515232,
     "geom:bbox":"13.6873278114,37.477448455,13.7880211419,37.5613471645",
     "geom:latitude":37.520894,
     "geom:longitude":13.745572,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085020",
+        "eurostat:nuts_2021_id":"085020",
         "gn:id":6539183,
         "gp:id":12682126,
         "qs_pg:id":42816
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0184f491592535cf15f81955cef7229d",
+    "wof:geomhash":"fc8528a915200d61c04920d6396ef0c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404466569,
-    "wof:lastmodified":1582328182,
+    "wof:lastmodified":1684353852,
     "wof:name":"Sutera",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":1299,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

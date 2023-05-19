@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Levico Terme",
+    "eurostat:nuts_2021_id":"022104",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022104",
+    "eurostat:population":8133,
+    "eurostat:population_year":2020,
     "geom:area":0.007297,
-    "geom:area_square_m":62680346.336889,
+    "geom:area_square_m":62680346.336882,
     "geom:bbox":"11.2648141534,45.9421305655,11.3833698815,46.0500185182",
     "geom:latitude":45.996598,
     "geom:longitude":11.330194,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022104",
+        "eurostat:nuts_2021_id":"022104",
         "gn:id":6539505,
         "gp:id":12678095,
         "qs_pg:id":1317094
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13fbcc8ace967eec34cb26b693a5875f",
+    "wof:geomhash":"ef5e3fbefafcae91eea22373325c4cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404473525,
-    "wof:lastmodified":1582327933,
+    "wof:lastmodified":1684353990,
     "wof:name":"Levico Terme",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":8133,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

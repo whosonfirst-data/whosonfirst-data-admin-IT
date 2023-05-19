@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fossato di Vico",
+    "eurostat:nuts_2021_id":"054019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054019",
+    "eurostat:population":2738,
+    "eurostat:population_year":2020,
     "geom:area":0.00392,
     "geom:area_square_m":35276705.152374,
     "geom:bbox":"12.7027220981,43.2681707948,12.8025010399,43.3411305681",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_054019",
+        "eurostat:nuts_2021_id":"054019"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"403c952991a6b28b02340865e57b869f",
+    "wof:geomhash":"732ed331153e9fb50c9403d9c4a86c0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404458107,
-    "wof:lastmodified":1566723443,
+    "wof:lastmodified":1684353663,
     "wof:name":"Fossato Di Vico",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":2738,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

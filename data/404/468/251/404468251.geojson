@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spriana",
+    "eurostat:nuts_2021_id":"014062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014062",
+    "eurostat:population":81,
+    "eurostat:population_year":2020,
     "geom:area":0.000897,
     "geom:area_square_m":7671502.083456,
     "geom:bbox":"9.85872961799,46.1978381588,9.90560158931,46.2310577278",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014062",
+        "eurostat:nuts_2021_id":"014062",
         "gn:id":6543123,
         "gp:id":20076141,
         "qs_pg:id":1189197
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1c6c0a1c1efc7a7cd5fe6280edcbb13",
+    "wof:geomhash":"444046c80d1c8f72a74b1cfcdb1eb9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468251,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353886,
     "wof:name":"Spriana",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortina sulla strada del vino/Kurtinig an der Weinstra\u00dfe",
+    "eurostat:nuts_2021_id":"021025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021025",
+    "eurostat:population":653,
+    "eurostat:population_year":2020,
     "geom:area":0.000233,
     "geom:area_square_m":1994314.096784,
     "geom:bbox":"11.21413314,46.2566977472,11.2329502753,46.2751299531",
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021025",
+        "eurostat:nuts_2021_id":"021025"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b8fc9dfa3b7054b8975f9d1cb44f5f88",
+    "wof:geomhash":"ef05796b316fa89bd671acfc5573cd31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473101,
-    "wof:lastmodified":1566723408,
+    "wof:lastmodified":1684353978,
     "wof:name":"Cortina Sulla Strada Del Vino",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":653,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

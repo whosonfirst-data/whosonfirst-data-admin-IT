@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Francavilla in Sinni",
+    "eurostat:nuts_2021_id":"076034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076034",
+    "eurostat:population":4132,
+    "eurostat:population_year":2020,
     "geom:area":0.004899,
-    "geom:area_square_m":46373901.015425,
+    "geom:area_square_m":46373901.01543,
     "geom:bbox":"16.1712403258,39.9927780039,16.2574436793,40.096677275",
     "geom:latitude":40.050746,
     "geom:longitude":16.219754,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_076034",
+        "eurostat:nuts_2021_id":"076034"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"654bd55820e020691f795ee87c3011e4",
+    "wof:geomhash":"ba82e51f5afa87cb33da151fc529e933",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404456939,
-    "wof:lastmodified":1566723574,
+    "wof:lastmodified":1684353637,
     "wof:name":"Francavilla In Sinni",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":4132,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poggio San Marcello",
+    "eurostat:nuts_2021_id":"042037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042037",
+    "eurostat:population":660,
+    "eurostat:population_year":2020,
     "geom:area":0.001485,
-    "geom:area_square_m":13313841.416256,
+    "geom:area_square_m":13313841.416253,
     "geom:bbox":"13.0370805625,43.4922157659,13.1435018878,43.5475486541",
     "geom:latitude":43.51666,
     "geom:longitude":13.085993,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042037",
+        "eurostat:nuts_2021_id":"042037",
         "gn:id":6543590,
         "gp:id":20076788,
         "qs_pg:id":1198884
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52dd42bfca1f06dfd578764a029216b1",
+    "wof:geomhash":"7a7c5f5eb988b5ded48551f1ff18b921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459933,
-    "wof:lastmodified":1582328170,
+    "wof:lastmodified":1684353705,
     "wof:name":"Poggio San Marcello",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":660,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

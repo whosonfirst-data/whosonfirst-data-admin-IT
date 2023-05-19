@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondolfo",
+    "eurostat:nuts_2021_id":"041029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041029",
+    "eurostat:population":14340,
+    "eurostat:population_year":2020,
     "geom:area":0.002545,
-    "geom:area_square_m":22736248.677494,
+    "geom:area_square_m":22736248.677496,
     "geom:bbox":"13.0841568793,43.7259395622,13.1734606451,43.7736157947",
     "geom:latitude":43.749408,
     "geom:longitude":13.122491,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041029",
+        "eurostat:nuts_2021_id":"041029",
         "gn:id":6538497,
         "gp:id":12677781,
         "qs_pg:id":276728
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d361c4043c9f71147e3d3de6b1d6f73",
+    "wof:geomhash":"7db25bc6fa381f215861d5be94f1fd63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459765,
-    "wof:lastmodified":1582328154,
+    "wof:lastmodified":1684353701,
     "wof:name":"Mondolfo",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":14340,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

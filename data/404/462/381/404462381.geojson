@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Notaresco",
+    "eurostat:nuts_2021_id":"067032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067032",
+    "eurostat:population":6635,
+    "eurostat:population_year":2020,
     "geom:area":0.004176,
-    "geom:area_square_m":37969678.902932,
+    "geom:area_square_m":37969678.902924,
     "geom:bbox":"13.8462918222,42.6161935898,13.9286021009,42.7056956416",
     "geom:latitude":42.660644,
     "geom:longitude":13.886305,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067032",
+        "eurostat:nuts_2021_id":"067032",
         "gn:id":6540719,
         "gp:id":12679723,
         "qs_pg:id":41070
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c29532a9f93834a46dff6c0d25e93396",
+    "wof:geomhash":"a7e9328b879807104e7b862e5ebe14e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462381,
-    "wof:lastmodified":1582327875,
+    "wof:lastmodified":1684353757,
     "wof:name":"Notaresco",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":6635,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melicucc\u00e0",
+    "eurostat:nuts_2021_id":"080048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080048",
+    "eurostat:population":863,
+    "eurostat:population_year":2020,
     "geom:area":0.001778,
-    "geom:area_square_m":17252992.363722,
+    "geom:area_square_m":17252992.363724,
     "geom:bbox":"15.8378509264,38.2670066912,15.8969158701,38.3229686358",
     "geom:latitude":38.293683,
     "geom:longitude":15.869583,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080048",
+        "eurostat:nuts_2021_id":"080048",
         "gn:id":6539860,
         "gp:id":12680270,
         "qs_pg:id":1019493
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"815dec67408bbc2745592f35a0b27c6d",
+    "wof:geomhash":"1b99e5fda8f54b6a8b93e57ab84b5ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404464579,
-    "wof:lastmodified":1582327807,
+    "wof:lastmodified":1684353810,
     "wof:name":"Melicucc\u00e0",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":863,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

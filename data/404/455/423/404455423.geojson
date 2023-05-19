@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brossasco",
+    "eurostat:nuts_2021_id":"004033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004033",
+    "eurostat:population":1025,
+    "eurostat:population_year":2020,
     "geom:area":0.003181,
-    "geom:area_square_m":28016826.561747,
+    "geom:area_square_m":28016826.561746,
     "geom:bbox":"7.25817569462,44.5356064705,7.38430043412,44.6151191082",
     "geom:latitude":44.582011,
     "geom:longitude":7.327911,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004033",
+        "eurostat:nuts_2021_id":"004033"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4a99ca338284b41fb782758131211068",
+    "wof:geomhash":"0076225250f63276a8c61d76b25af6b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404455423,
-    "wof:lastmodified":1566723257,
+    "wof:lastmodified":1684353603,
     "wof:name":"Brossasco",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":1025,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valsinni",
+    "eurostat:nuts_2021_id":"077030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077030",
+    "eurostat:population":1423,
+    "eurostat:population_year":2020,
     "geom:area":0.003375,
-    "geom:area_square_m":31894742.569162,
+    "geom:area_square_m":31894742.569157,
     "geom:bbox":"16.3934089124,40.1239187917,16.5031734672,40.2000013168",
     "geom:latitude":40.158006,
     "geom:longitude":16.450032,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077030",
+        "eurostat:nuts_2021_id":"077030",
         "gn:id":6537654,
         "gp:id":12682361,
         "qs_pg:id":1143797
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff0b646eb4e6f0b8f60d04062ea82326",
+    "wof:geomhash":"503e570ac73f1ed4b8a26c3c3466baac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464043,
-    "wof:lastmodified":1582327803,
+    "wof:lastmodified":1684353795,
     "wof:name":"Valsinni",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":1423,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

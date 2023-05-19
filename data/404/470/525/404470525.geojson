@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flaibano",
+    "eurostat:nuts_2021_id":"030039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030039",
+    "eurostat:population":1102,
+    "eurostat:population_year":2020,
     "geom:area":0.002011,
-    "geom:area_square_m":17256085.061869,
+    "geom:area_square_m":17256085.061868,
     "geom:bbox":"12.9153040077,46.0422002179,13.0131292942,46.0763394738",
     "geom:latitude":46.056862,
     "geom:longitude":12.968544,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030039",
+        "eurostat:nuts_2021_id":"030039",
         "gn:id":6538367,
         "gp:id":12679294,
         "qs_pg:id":1070782
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ab1d99522f23054552d15f4a922f8b5",
+    "wof:geomhash":"faa58c16e8c9cef41bdaa9d412e7c804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470525,
-    "wof:lastmodified":1582327757,
+    "wof:lastmodified":1684353923,
     "wof:name":"Flaibano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":1102,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

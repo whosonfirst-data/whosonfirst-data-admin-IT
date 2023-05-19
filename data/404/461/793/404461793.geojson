@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bassiano",
+    "eurostat:nuts_2021_id":"059002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059002",
+    "eurostat:population":1477,
+    "eurostat:population_year":2020,
     "geom:area":0.00349,
-    "geom:area_square_m":32292904.951544,
+    "geom:area_square_m":32292904.951542,
     "geom:bbox":"12.9829403972,41.5103398397,13.0802450845,41.581509438",
     "geom:latitude":41.550225,
     "geom:longitude":13.031613,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059002",
+        "eurostat:nuts_2021_id":"059002",
         "gn:id":6538692,
         "gp:id":12676625,
         "qs_pg:id":39124
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"17901749390de068af2cae01e95c74d4",
+    "wof:geomhash":"b8d10d8b21ea0843d7b208c81795939e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461793,
-    "wof:lastmodified":1582328137,
+    "wof:lastmodified":1684353746,
     "wof:name":"Bassiano",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":1477,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

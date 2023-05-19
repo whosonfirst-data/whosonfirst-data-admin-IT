@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cercepiccola",
+    "eurostat:nuts_2021_id":"070018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070018",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
     "geom:area":0.001801,
-    "geom:area_square_m":16692314.878516,
+    "geom:area_square_m":16692314.878522,
     "geom:bbox":"14.6564673222,41.4269089585,14.6987101514,41.4860208154",
     "geom:latitude":41.457001,
     "geom:longitude":14.679042,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070018",
+        "eurostat:nuts_2021_id":"070018",
         "gn:id":6537504,
         "gp:id":12678488,
         "qs_pg:id":1015070
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"812988767474ca94ae42a87986155414",
+    "wof:geomhash":"eef123c93d481bec96092d19dbf4707b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462793,
-    "wof:lastmodified":1582327863,
+    "wof:lastmodified":1684353765,
     "wof:name":"Cercepiccola",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

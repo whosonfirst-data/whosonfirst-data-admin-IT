@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torricella Peligna",
+    "eurostat:nuts_2021_id":"069095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069095",
+    "eurostat:population":1252,
+    "eurostat:population_year":2020,
     "geom:area":0.00391,
-    "geom:area_square_m":35922544.676773,
+    "geom:area_square_m":35922544.676767,
     "geom:bbox":"14.202343439,41.9941213746,14.3446515745,42.0596641412",
     "geom:latitude":42.020137,
     "geom:longitude":14.26718,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069095",
+        "eurostat:nuts_2021_id":"069095",
         "gn:id":6541236,
         "gp:id":12679190,
         "qs_pg:id":1009312
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed77fc09eee7c9a9c35863fad2f281a1",
+    "wof:geomhash":"448f1ded924a89689075e1904538e358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462733,
-    "wof:lastmodified":1582327863,
+    "wof:lastmodified":1684353764,
     "wof:name":"Torricella Peligna",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":1252,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

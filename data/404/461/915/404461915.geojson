@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceccano",
+    "eurostat:nuts_2021_id":"060024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060024",
+    "eurostat:population":23102,
+    "eurostat:population_year":2020,
     "geom:area":0.006575,
-    "geom:area_square_m":60826644.02431,
+    "geom:area_square_m":60826644.024313,
     "geom:bbox":"13.2826324773,41.513502553,13.3812555708,41.6188905791",
     "geom:latitude":41.566394,
     "geom:longitude":13.331463,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060024",
+        "eurostat:nuts_2021_id":"060024",
         "gn:id":6538704,
         "gp:id":12678428,
         "qs_pg:id":891991
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf475a9721a48f2931b5ea4c644c8658",
+    "wof:geomhash":"ff208be5d99f11830a40f8b48f2fa274",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404461915,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353749,
     "wof:name":"Ceccano",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":23102,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

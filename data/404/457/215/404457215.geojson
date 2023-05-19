@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quincinetto",
+    "eurostat:nuts_2021_id":"001210",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001210",
+    "eurostat:population":1029,
+    "eurostat:population_year":2020,
     "geom:area":0.002051,
-    "geom:area_square_m":17757713.154514,
+    "geom:area_square_m":17757713.154515,
     "geom:bbox":"7.72924044312,45.5345173193,7.8264942375,45.5827003811",
     "geom:latitude":45.556988,
     "geom:longitude":7.778285,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001210",
+        "eurostat:nuts_2021_id":"001210",
         "gn:id":6538075,
         "gp:id":12681311,
         "qs_pg:id":42188
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d52ed618e83e8ca7b7fa8dc0ac48a0e3",
+    "wof:geomhash":"521c3c4c77892ff89e99097fe2284a58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457215,
-    "wof:lastmodified":1582328113,
+    "wof:lastmodified":1684353645,
     "wof:name":"Quincinetto",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1029,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

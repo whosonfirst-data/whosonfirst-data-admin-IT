@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castions di Strada",
+    "eurostat:nuts_2021_id":"030020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030020",
+    "eurostat:population":3746,
+    "eurostat:population_year":2020,
     "geom:area":0.003799,
-    "geom:area_square_m":32697009.602113,
+    "geom:area_square_m":32697009.602119,
     "geom:bbox":"13.1519549022,45.8258437234,13.231600089,45.9324913749",
     "geom:latitude":45.889895,
     "geom:longitude":13.184005,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030020",
+        "eurostat:nuts_2021_id":"030020",
         "gn:id":6542144,
         "gp:id":12678372,
         "qs_pg:id":961659
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2552ce34905681313b391c61e4501673",
+    "wof:geomhash":"12aeb1160812f6389ef5b08aedf6ed1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470481,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353922,
     "wof:name":"Castions Di Strada",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":3746,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

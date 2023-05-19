@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belforte del Chienti",
+    "eurostat:nuts_2021_id":"043004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043004",
+    "eurostat:population":1852,
+    "eurostat:population_year":2020,
     "geom:area":0.001773,
-    "geom:area_square_m":15992919.322698,
+    "geom:area_square_m":15992919.322701,
     "geom:bbox":"13.2096840621,43.1418969235,13.2758652299,43.1850127182",
     "geom:latitude":43.164109,
     "geom:longitude":13.244169,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043004",
+        "eurostat:nuts_2021_id":"043004",
         "gn:id":6540452,
         "gp:id":12676661,
         "qs_pg:id":1019698
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee4bfbe623d2ec32f0070145d23a9e38",
+    "wof:geomhash":"c7e2b99c80dce6962f7972c0d73dae26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458597,
-    "wof:lastmodified":1582327951,
+    "wof:lastmodified":1684353673,
     "wof:name":"Belforte Del Chienti",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":1852,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

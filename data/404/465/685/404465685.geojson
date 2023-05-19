@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontecagnano Faiano",
+    "eurostat:nuts_2021_id":"065099",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065099",
+    "eurostat:population":26390,
+    "eurostat:population_year":2020,
     "geom:area":0.003937,
-    "geom:area_square_m":36950855.283504,
+    "geom:area_square_m":36950855.283505,
     "geom:bbox":"14.8392818532,40.5799928531,14.92793082,40.6764166564",
     "geom:latitude":40.626545,
     "geom:longitude":14.88704,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065099",
+        "eurostat:nuts_2021_id":"065099"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"207284461b663f18ab6b797d3ea629df",
+    "wof:geomhash":"3991b4282cf577a639d21b9aae461886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404465685,
-    "wof:lastmodified":1566723295,
+    "wof:lastmodified":1684353836,
     "wof:name":"Pontecagnano Faiano",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":26390,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

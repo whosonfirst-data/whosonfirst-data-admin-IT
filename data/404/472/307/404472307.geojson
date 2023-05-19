@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medicina",
+    "eurostat:nuts_2021_id":"037037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037037",
+    "eurostat:population":16835,
+    "eurostat:population_year":2020,
     "geom:area":0.018003,
-    "geom:area_square_m":158735399.452369,
+    "geom:area_square_m":158735399.452363,
     "geom:bbox":"11.5311883725,44.4446410697,11.77525003,44.5844002238",
     "geom:latitude":44.514147,
     "geom:longitude":11.669039,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037037",
+        "eurostat:nuts_2021_id":"037037",
         "gn:id":6540254,
         "gp:id":12676784,
         "qs_pg:id":1059594
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31eb6406d44d6baf5e186bdad7617cc3",
+    "wof:geomhash":"39ec8e89ae3b525bb3f202a1c149afa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472307,
-    "wof:lastmodified":1582327877,
+    "wof:lastmodified":1684353957,
     "wof:name":"Medicina",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":16835,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

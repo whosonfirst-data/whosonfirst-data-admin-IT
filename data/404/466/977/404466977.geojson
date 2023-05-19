@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arborea",
+    "eurostat:nuts_2021_id":"095006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095006",
+    "eurostat:population":3844,
+    "eurostat:population_year":2020,
     "geom:area":0.00999,
-    "geom:area_square_m":94947310.469147,
+    "geom:area_square_m":94947310.469151,
     "geom:bbox":"8.50445503607,39.7061617637,8.64571793561,39.8306489028",
     "geom:latitude":39.771866,
     "geom:longitude":8.575741,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095006",
+        "eurostat:nuts_2021_id":"095006",
         "gn:id":6539884,
         "gp:id":12676179,
         "qs_pg:id":38854
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8804af49493caf25968f98a7bc6373f4",
+    "wof:geomhash":"d61aa355cdb0ab89c6fed9425d739256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466977,
-    "wof:lastmodified":1582328193,
+    "wof:lastmodified":1684353863,
     "wof:name":"Arborea",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":3844,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

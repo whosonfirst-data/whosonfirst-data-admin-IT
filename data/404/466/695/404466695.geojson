@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lentini",
+    "eurostat:nuts_2021_id":"089011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089011",
+    "eurostat:population":22979,
+    "eurostat:population_year":2020,
     "geom:area":0.021909,
-    "geom:area_square_m":215410965.833257,
+    "geom:area_square_m":215410965.833261,
     "geom:bbox":"14.7783684025,37.2478012063,15.0329742014,37.4126899382",
     "geom:latitude":37.331698,
     "geom:longitude":14.916988,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089011",
+        "eurostat:nuts_2021_id":"089011",
         "gn:id":6539211,
         "gp:id":20077070,
         "qs_pg:id":51096
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe0c7e8a400cad1d30030c3e561b72b8",
+    "wof:geomhash":"562b462b522d1bed849f647fd82098be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404466695,
-    "wof:lastmodified":1582328193,
+    "wof:lastmodified":1684353855,
     "wof:name":"Lentini",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":22979,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

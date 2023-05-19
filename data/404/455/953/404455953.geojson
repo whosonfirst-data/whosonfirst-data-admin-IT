@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capriglio",
+    "eurostat:nuts_2021_id":"005019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005019",
+    "eurostat:population":316,
+    "eurostat:population_year":2020,
     "geom:area":0.000578,
-    "geom:area_square_m":5048946.35892,
+    "geom:area_square_m":5048946.358919,
     "geom:bbox":"7.994095733,44.989923702,8.02682526138,45.0246592827",
     "geom:latitude":45.006871,
     "geom:longitude":8.00991,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005019",
+        "eurostat:nuts_2021_id":"005019",
         "gn:id":6542383,
         "gp:id":20075834,
         "qs_pg:id":995434
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e91bb36bebd57f5e9b8a9affe2b8143",
+    "wof:geomhash":"af3a798df6a68494169c2ebfc5cead31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455953,
-    "wof:lastmodified":1582327809,
+    "wof:lastmodified":1684353614,
     "wof:name":"Capriglio",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":316,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

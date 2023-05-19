@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lodi Vecchio",
+    "eurostat:nuts_2021_id":"098032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098032",
+    "eurostat:population":7602,
+    "eurostat:population_year":2020,
     "geom:area":0.001889,
-    "geom:area_square_m":16427061.452741,
+    "geom:area_square_m":16427061.45274,
     "geom:bbox":"9.37626246848,45.2790908545,9.45519324645,45.3229995745",
     "geom:latitude":45.301603,
     "geom:longitude":9.417077,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098032",
+        "eurostat:nuts_2021_id":"098032",
         "gn:id":6541391,
         "gp:id":12679995,
         "qs_pg:id":537219
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"02b6340eba197b9293853e01e42f4ccf",
+    "wof:geomhash":"b1fc0afbe5fb7d4ef3f88a7087a918eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404469497,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353905,
     "wof:name":"Lodi Vecchio",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":7602,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

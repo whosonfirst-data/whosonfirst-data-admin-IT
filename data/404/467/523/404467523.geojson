@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stellanello",
+    "eurostat:nuts_2021_id":"009059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009059",
+    "eurostat:population":839,
+    "eurostat:population_year":2020,
     "geom:area":0.001999,
-    "geom:area_square_m":17784035.012999,
+    "geom:area_square_m":17784035.012998,
     "geom:bbox":"8.0061664813,43.9790925739,8.09639188643,44.0180088592",
     "geom:latitude":43.997212,
     "geom:longitude":8.055865,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009059",
+        "eurostat:nuts_2021_id":"009059",
         "gn:id":6536365,
         "gp:id":12682092,
         "qs_pg:id":948789
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1f04bf4368ff0b42b60cdebd69b23b7e",
+    "wof:geomhash":"b12600b100fc997573fd33c682258f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467523,
-    "wof:lastmodified":1582327991,
+    "wof:lastmodified":1684353875,
     "wof:name":"Stellanello",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":839,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

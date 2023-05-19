@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osio Sotto",
+    "eurostat:nuts_2021_id":"016153",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016153",
+    "eurostat:population":12655,
+    "eurostat:population_year":2020,
     "geom:area":0.000876,
     "geom:area_square_m":7574089.946003,
     "geom:bbox":"9.55946819269,45.6006446968,9.61363815779,45.626698405",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016153",
+        "eurostat:nuts_2021_id":"016153",
         "gn:id":6542295,
         "gp:id":12682613,
         "qs_pg:id":1196920
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0049e25ff876e86d7fcbfd55cea1706",
+    "wof:geomhash":"ea08c75bfc98dc3f3741aeddc7682b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466043,
-    "wof:lastmodified":1582328203,
+    "wof:lastmodified":1684353842,
     "wof:name":"Osio Sotto",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":12655,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

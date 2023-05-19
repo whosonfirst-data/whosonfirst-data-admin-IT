@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavagna",
+    "eurostat:nuts_2021_id":"010028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010028",
+    "eurostat:population":12561,
+    "eurostat:population_year":2020,
     "geom:area":0.001566,
-    "geom:area_square_m":13858388.978995,
+    "geom:area_square_m":13858388.978994,
     "geom:bbox":"9.33273185834,44.2833646602,9.40722019022,44.3247208101",
     "geom:latitude":44.306053,
     "geom:longitude":9.374751,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010028",
+        "eurostat:nuts_2021_id":"010028",
         "gn:id":6540150,
         "gp:id":12681357,
         "qs_pg:id":1163540
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c45091eef2b227616bb8cd5713b9ee36",
+    "wof:geomhash":"fd4ccfdfffb1af282759198f8148b1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404471983,
-    "wof:lastmodified":1582327719,
+    "wof:lastmodified":1684353950,
     "wof:name":"Lavagna",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":12561,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

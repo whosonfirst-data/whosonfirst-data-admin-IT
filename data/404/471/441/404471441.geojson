@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giussago",
+    "eurostat:nuts_2021_id":"018072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018072",
+    "eurostat:population":5334,
+    "eurostat:population_year":2020,
     "geom:area":0.002837,
-    "geom:area_square_m":24687714.114382,
+    "geom:area_square_m":24687714.114379,
     "geom:bbox":"9.11084451729,45.2461125333,9.19649366827,45.3110711622",
     "geom:latitude":45.28079,
     "geom:longitude":9.151282,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018072",
+        "eurostat:nuts_2021_id":"018072",
         "gn:id":6539677,
         "gp:id":12679609,
         "qs_pg:id":466103
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c68f2fc6a2bec4b187d245c7650b8ac0",
+    "wof:geomhash":"ea0e49cd938505c1fef273c0618626c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471441,
-    "wof:lastmodified":1582327714,
+    "wof:lastmodified":1684353940,
     "wof:name":"Giussago",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":5334,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piazzolo",
+    "eurostat:nuts_2021_id":"016166",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016166",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.000482,
-    "geom:area_square_m":4145291.975518,
+    "geom:area_square_m":4145291.975519,
     "geom:bbox":"9.65358112861,45.9590104702,9.69266194373,45.9878290348",
     "geom:latitude":45.973903,
     "geom:longitude":9.672794,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016166",
+        "eurostat:nuts_2021_id":"016166",
         "gn:id":6542563,
         "gp:id":12681064,
         "qs_pg:id":1009343
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37aa09c552fda04d271572a9f2a285d9",
+    "wof:geomhash":"e142f820890c74837d9b06f2873dd6cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466071,
-    "wof:lastmodified":1582328189,
+    "wof:lastmodified":1684353842,
     "wof:name":"Piazzolo",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

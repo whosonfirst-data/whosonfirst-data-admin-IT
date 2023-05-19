@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esine",
+    "eurostat:nuts_2021_id":"017070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017070",
+    "eurostat:population":5216,
+    "eurostat:population_year":2020,
     "geom:area":0.003515,
-    "geom:area_square_m":30252048.168131,
+    "geom:area_square_m":30252048.168127,
     "geom:bbox":"10.2098300829,45.8455281257,10.3099233977,45.9331731899",
     "geom:latitude":45.890742,
     "geom:longitude":10.258138,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017070",
+        "eurostat:nuts_2021_id":"017070",
         "gn:id":6540609,
         "gp:id":12679160,
         "qs_pg:id":1164921
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea445b83de536561b9533714730d49e6",
+    "wof:geomhash":"892f1aa4537f7f1e4ef0aec1df4814a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471081,
-    "wof:lastmodified":1582327726,
+    "wof:lastmodified":1684353933,
     "wof:name":"Esine",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":5216,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

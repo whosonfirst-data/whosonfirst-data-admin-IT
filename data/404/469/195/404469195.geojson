@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni del Dosso",
+    "eurostat:nuts_2021_id":"020058",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020058",
+    "eurostat:population":1247,
+    "eurostat:population_year":2020,
     "geom:area":0.001756,
-    "geom:area_square_m":15357709.785972,
+    "geom:area_square_m":15357709.785971,
     "geom:bbox":"11.0227225363,44.9488841854,11.1075886296,45.0001861344",
     "geom:latitude":44.971187,
     "geom:longitude":11.065206,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_020058",
+        "eurostat:nuts_2021_id":"020058"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5eb152738e5d890c9e572b932c5a495b",
+    "wof:geomhash":"6acd441aa14cf6bd549e69d2d0def47f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404469195,
-    "wof:lastmodified":1566723541,
+    "wof:lastmodified":1684353901,
     "wof:name":"San Giovanni Del Dosso",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":1247,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

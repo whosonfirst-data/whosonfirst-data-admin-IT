@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001259",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sauze d'Oulx",
+    "eurostat:nuts_2021_id":"001259",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001259",
+    "eurostat:population":1090,
+    "eurostat:population_year":2020,
     "geom:area":0.001976,
     "geom:area_square_m":17275976.745593,
     "geom:bbox":"6.83758567557,44.9932822349,6.90376545764,45.0399869822",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001259",
+        "eurostat:nuts_2021_id":"001259",
         "gn:id":6541438,
         "gp:id":12679447,
         "qs_pg:id":1309566
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d6886935cf9e0c02149009ddf8b72c97",
+    "wof:geomhash":"1bda45ad7549cb3b44ef667b980a6b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457325,
-    "wof:lastmodified":1582328108,
+    "wof:lastmodified":1684353647,
     "wof:name":"Sauze D'Oulx",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1090,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

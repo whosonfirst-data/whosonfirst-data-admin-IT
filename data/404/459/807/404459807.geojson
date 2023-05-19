@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietrarubbia",
+    "eurostat:nuts_2021_id":"041048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041048",
+    "eurostat:population":624,
+    "eurostat:population_year":2020,
     "geom:area":0.001485,
-    "geom:area_square_m":13250289.739086,
+    "geom:area_square_m":13250289.739085,
     "geom:bbox":"12.3498582358,43.7746708499,12.4112640696,43.8213128727",
     "geom:latitude":43.798785,
     "geom:longitude":12.38205,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041048",
+        "eurostat:nuts_2021_id":"041048",
         "gp:id":12680292,
         "qs_pg:id":207965
     },
@@ -149,7 +165,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0628834af2506e6ed2276098d66e48b8",
+    "wof:geomhash":"27671860930b10d3cdf0b83663793abc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404459807,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353702,
     "wof:name":"Pietrarubbia",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":624,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

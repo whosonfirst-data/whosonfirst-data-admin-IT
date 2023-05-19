@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lungro",
+    "eurostat:nuts_2021_id":"078069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078069",
+    "eurostat:population":2364,
+    "eurostat:population_year":2020,
     "geom:area":0.003715,
-    "geom:area_square_m":35321484.368782,
+    "geom:area_square_m":35321484.368773,
     "geom:bbox":"16.0252189887,39.6978539464,16.1668554436,39.7877790587",
     "geom:latitude":39.746119,
     "geom:longitude":16.111779,
@@ -128,6 +140,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -135,9 +149,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078069",
+        "eurostat:nuts_2021_id":"078069"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a2fa2a529ee8bed01c6d9af19644971e",
+    "wof:geomhash":"563b249249b12bdc5a146336a5626f17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +165,12 @@
         }
     ],
     "wof:id":404464199,
-    "wof:lastmodified":1566723232,
+    "wof:lastmodified":1684353800,
     "wof:name":"Lungro",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":2364,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

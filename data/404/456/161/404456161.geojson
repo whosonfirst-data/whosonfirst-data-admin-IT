@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viale",
+    "eurostat:nuts_2021_id":"005114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005114",
+    "eurostat:population":241,
+    "eurostat:population_year":2020,
     "geom:area":0.000454,
     "geom:area_square_m":3969549.378285,
     "geom:bbox":"8.03285806762,44.9922844792,8.07069856619,45.0137139224",
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005114",
+        "eurostat:nuts_2021_id":"005114",
         "gn:id":6543507,
         "gp:id":20075879,
         "qs_pg:id":50342
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"424a9ab8ead21d9cc9a61cdae27af494",
+    "wof:geomhash":"ddfbc50c3620c732a590d4e7402467e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404456161,
-    "wof:lastmodified":1582328047,
+    "wof:lastmodified":1684353618,
     "wof:name":"Viale",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

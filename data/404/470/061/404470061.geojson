@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fregona",
+    "eurostat:nuts_2021_id":"026030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026030",
+    "eurostat:population":2854,
+    "eurostat:population_year":2020,
     "geom:area":0.00496,
-    "geom:area_square_m":42584201.722138,
+    "geom:area_square_m":42584201.722149,
     "geom:bbox":"12.3082124248,45.9810589903,12.4164653327,46.0762989588",
     "geom:latitude":46.029693,
     "geom:longitude":12.362447,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026030",
+        "eurostat:nuts_2021_id":"026030",
         "gn:id":6538298,
         "gp:id":12676971,
         "qs_pg:id":1193350
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67551e20f7d78ea17590e87f0b2c05cc",
+    "wof:geomhash":"09dd099fdb10a51a61ef2517b2fcb58d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470061,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353915,
     "wof:name":"Fregona",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":2854,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

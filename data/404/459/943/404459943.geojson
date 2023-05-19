@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Marcello",
+    "eurostat:nuts_2021_id":"042041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042041",
+    "eurostat:population":2000,
+    "eurostat:population_year":2020,
     "geom:area":0.002866,
-    "geom:area_square_m":25678794.324797,
+    "geom:area_square_m":25678794.3248,
     "geom:bbox":"13.1577616134,43.5224807459,13.2741370888,43.5905908363",
     "geom:latitude":43.562446,
     "geom:longitude":13.206228,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042041",
+        "eurostat:nuts_2021_id":"042041",
         "gn:id":6541062,
         "gp:id":12681685,
         "qs_pg:id":220879
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db5fc7c8dd825191726e3e8a24779156",
+    "wof:geomhash":"9a04fbce67033f8fc62398590fdbb927",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404459943,
-    "wof:lastmodified":1582328179,
+    "wof:lastmodified":1684353705,
     "wof:name":"San Marcello",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":2000,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

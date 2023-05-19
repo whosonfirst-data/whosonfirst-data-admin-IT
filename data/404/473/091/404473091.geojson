@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chienes/Kiens",
+    "eurostat:nuts_2021_id":"021021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021021",
+    "eurostat:population":2927,
+    "eurostat:population_year":2020,
     "geom:area":0.003968,
-    "geom:area_square_m":33582269.792769,
+    "geom:area_square_m":33582269.792756,
     "geom:bbox":"11.7682560937,46.774784443,11.8637233855,46.870273324",
     "geom:latitude":46.814584,
     "geom:longitude":11.823443,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021021",
+        "eurostat:nuts_2021_id":"021021",
         "gp:id":12678606,
         "qs_pg:id":1190026
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7312acff9131d1ee01ed46c32f0752dd",
+    "wof:geomhash":"bf0156ce747debe58d021c247921d77d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473091,
-    "wof:lastmodified":1582327917,
+    "wof:lastmodified":1684353978,
     "wof:name":"Chienes",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2927,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

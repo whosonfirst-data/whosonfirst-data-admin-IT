@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schio",
+    "eurostat:nuts_2021_id":"024100",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024100",
+    "eurostat:population":38981,
+    "eurostat:population_year":2020,
     "geom:area":0.007652,
-    "geom:area_square_m":66049871.94749,
+    "geom:area_square_m":66049871.947488,
     "geom:bbox":"11.287506642,45.6686256169,11.4267068727,45.7785372608",
     "geom:latitude":45.726147,
     "geom:longitude":11.34939,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024100",
+        "eurostat:nuts_2021_id":"024100",
         "gn:id":6538270,
         "gp:id":20076682,
         "qs_pg:id":1151197
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84998282b2126c1fa3f778b583304aa0",
+    "wof:geomhash":"a61a8347c0afc8fc74275f9558d84b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404463723,
-    "wof:lastmodified":1582327776,
+    "wof:lastmodified":1684353785,
     "wof:name":"Schio",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":38981,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

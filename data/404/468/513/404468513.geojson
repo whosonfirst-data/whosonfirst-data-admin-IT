@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rho",
+    "eurostat:nuts_2021_id":"015182",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015182",
+    "eurostat:population":51323,
+    "eurostat:population_year":2020,
     "geom:area":0.002564,
-    "geom:area_square_m":22210761.605059,
+    "geom:area_square_m":22210761.605061,
     "geom:bbox":"9.00657139591,45.5023057931,9.09643526533,45.5598698713",
     "geom:latitude":45.530859,
     "geom:longitude":9.049677,
@@ -200,6 +212,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -208,6 +222,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015182",
+        "eurostat:nuts_2021_id":"015182",
         "gn:id":6540094,
         "gp:id":12681362,
         "qs_pg:id":248790
@@ -216,7 +232,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d11f1c3a32036519adbfa6abffd81f59",
+    "wof:geomhash":"c89f4eebe0312dc28ba377e7f4c38b83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,10 +243,12 @@
         }
     ],
     "wof:id":404468513,
-    "wof:lastmodified":1582328092,
+    "wof:lastmodified":1684353890,
     "wof:name":"Rho",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":51323,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

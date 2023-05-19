@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mara",
+    "eurostat:nuts_2021_id":"090038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090038",
+    "eurostat:population":562,
+    "eurostat:population_year":2020,
     "geom:area":0.00198,
-    "geom:area_square_m":18637681.895497,
+    "geom:area_square_m":18637681.895492,
     "geom:bbox":"8.6011505154,40.4047439072,8.66380452251,40.4658683513",
     "geom:latitude":40.437243,
     "geom:longitude":8.635553,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090038",
+        "eurostat:nuts_2021_id":"090038",
         "gn:id":6539231,
         "gp:id":12680145,
         "qs_pg:id":1023691
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6262d26437408320f9449b05fd464eac",
+    "wof:geomhash":"5399688b9b33c74b8e789bdb7bb5558e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404466781,
-    "wof:lastmodified":1582328209,
+    "wof:lastmodified":1684353858,
     "wof:name":"Mara",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":562,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

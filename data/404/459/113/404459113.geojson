@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barcis",
+    "eurostat:nuts_2021_id":"093006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093006",
+    "eurostat:population":243,
+    "eurostat:population_year":2020,
     "geom:area":0.012039,
-    "geom:area_square_m":103056305.57667,
+    "geom:area_square_m":103056305.576679,
     "geom:bbox":"12.4423565153,46.1276576331,12.605371813,46.2442299569",
     "geom:latitude":46.190974,
     "geom:longitude":12.525696,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_093006",
+        "eurostat:nuts_2021_id":"093006"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cd7860d23121ca730e0b6c6b4eb69012",
+    "wof:geomhash":"6446b29b03b68c38bc01a397017c2f84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404459113,
-    "wof:lastmodified":1566723759,
+    "wof:lastmodified":1684353686,
     "wof:name":"Barcis",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":243,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cordovado",
+    "eurostat:nuts_2021_id":"093018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093018",
+    "eurostat:population":2762,
+    "eurostat:population_year":2020,
     "geom:area":0.00139,
-    "geom:area_square_m":11973339.162573,
+    "geom:area_square_m":11973339.162572,
     "geom:bbox":"12.8697417434,45.8196740853,12.9205825051,45.868949114",
     "geom:latitude":45.842599,
     "geom:longitude":12.895109,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093018",
+        "eurostat:nuts_2021_id":"093018",
         "gn:id":6537930,
         "gp:id":12678898,
         "qs_pg:id":1252552
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"06166067657d88877019e4216ebdd271",
+    "wof:geomhash":"aa803d9edee823aa41cf6ab507681dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459139,
-    "wof:lastmodified":1582328169,
+    "wof:lastmodified":1684353687,
     "wof:name":"Cordovado",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":2762,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

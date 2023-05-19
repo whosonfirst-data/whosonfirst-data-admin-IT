@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Afragola",
+    "eurostat:nuts_2021_id":"063002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063002",
+    "eurostat:population":64354,
+    "eurostat:population_year":2020,
     "geom:area":0.001907,
-    "geom:area_square_m":17815815.896902,
+    "geom:area_square_m":17815815.8969,
     "geom:bbox":"14.2925837415,40.8971756741,14.3616763681,40.9468943436",
     "geom:latitude":40.925983,
     "geom:longitude":14.326238,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063002",
+        "eurostat:nuts_2021_id":"063002",
         "gn:id":6541162,
         "gp:id":12675802,
         "qs_pg:id":388623
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3fc595d66ff99d1a5a92c1dfb3c01430",
+    "wof:geomhash":"e05516b930d95c52ca099b7c23129d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404460871,
-    "wof:lastmodified":1582328013,
+    "wof:lastmodified":1684353726,
     "wof:name":"Afragola",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":64354,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

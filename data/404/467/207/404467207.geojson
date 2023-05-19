@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Antonio di Gallura",
+    "eurostat:nuts_2021_id":"090085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090085",
+    "eurostat:population":1492,
+    "eurostat:population_year":2020,
     "geom:area":0.008747,
-    "geom:area_square_m":81658187.238346,
+    "geom:area_square_m":81658187.238339,
     "geom:bbox":"9.25226198968,40.9218796656,9.41019205928,41.019982717",
     "geom:latitude":40.977274,
     "geom:longitude":9.326363,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090085",
+        "eurostat:nuts_2021_id":"090085",
         "gn:id":6542275,
         "gp:id":12681567,
         "qs_pg:id":902530
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dde2227bb5402fbc0aac8878171d0486",
+    "wof:geomhash":"6da8328cc5848c3bf228a402a26144f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404467207,
-    "wof:lastmodified":1582327986,
+    "wof:lastmodified":1684353868,
     "wof:name":"Sant'Antonio Di Gallura",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1492,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

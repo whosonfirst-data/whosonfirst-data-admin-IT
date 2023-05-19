@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solbiate Olona",
+    "eurostat:nuts_2021_id":"012122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012122",
+    "eurostat:population":5433,
+    "eurostat:population_year":2020,
     "geom:area":0.00057,
     "geom:area_square_m":4924364.937138,
     "geom:bbox":"8.85217666887,45.6395268315,8.89312505818,45.659480052",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012122",
+        "eurostat:nuts_2021_id":"012122",
         "gn:id":6537087,
         "gp:id":12682036,
         "qs_pg:id":1196494
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3a359f0e909896a802b5a93370cf281",
+    "wof:geomhash":"baf128654b94c0f87e3728442ecebc01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467885,
-    "wof:lastmodified":1582327984,
+    "wof:lastmodified":1684353881,
     "wof:name":"Solbiate Olona",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":5433,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

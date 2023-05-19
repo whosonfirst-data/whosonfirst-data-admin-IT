@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sesto San Giovanni",
+    "eurostat:nuts_2021_id":"015209",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015209",
+    "eurostat:population":81841,
+    "eurostat:population_year":2020,
     "geom:area":0.001349,
-    "geom:area_square_m":11681862.33451,
+    "geom:area_square_m":11681862.334509,
     "geom:bbox":"9.20562248013,45.5174271489,9.2717176177,45.5564684091",
     "geom:latitude":45.535207,
     "geom:longitude":9.242428,
@@ -191,6 +203,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -199,6 +213,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015209",
+        "eurostat:nuts_2021_id":"015209",
         "gn:id":6536522,
         "gp:id":12681991,
         "qs_pg:id":1150787
@@ -207,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc9fe8b39ccdbf770e57c84cd658dc83",
+    "wof:geomhash":"4568baa0a230c03f36bec2f9578cea6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,10 +234,12 @@
         }
     ],
     "wof:id":404468551,
-    "wof:lastmodified":1582328074,
+    "wof:lastmodified":1684353891,
     "wof:name":"Sesto San Giovanni",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":81841,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

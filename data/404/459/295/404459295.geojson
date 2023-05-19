@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gressoney-La-Trinit\u00e9",
+    "eurostat:nuts_2021_id":"007032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007032",
+    "eurostat:population":314,
+    "eurostat:population_year":2020,
     "geom:area":0.007712,
-    "geom:area_square_m":66399743.990522,
+    "geom:area_square_m":66399743.99052,
     "geom:bbox":"7.78045995592,45.8186864771,7.87596033424,45.9268462948",
     "geom:latitude":45.872037,
     "geom:longitude":7.828672,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007032",
+        "eurostat:nuts_2021_id":"007032"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"76a7a3397d6fc3da6742cf4afee879ca",
+    "wof:geomhash":"bf33d989f48ffc9cb00fbfdf4c118ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404459295,
-    "wof:lastmodified":1566723732,
+    "wof:lastmodified":1684353691,
     "wof:name":"Gressoney-La-Trinit\u00e8",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":314,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

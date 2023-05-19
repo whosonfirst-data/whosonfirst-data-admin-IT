@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernalda",
+    "eurostat:nuts_2021_id":"077003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077003",
+    "eurostat:population":12115,
+    "eurostat:population_year":2020,
     "geom:area":0.013257,
-    "geom:area_square_m":124822784.731447,
+    "geom:area_square_m":124822784.731425,
     "geom:bbox":"16.6488827491,40.3419509504,16.8669719559,40.4706831434",
     "geom:latitude":40.409124,
     "geom:longitude":16.762346,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077003",
+        "eurostat:nuts_2021_id":"077003",
         "gn:id":6541744,
         "gp:id":12676724,
         "qs_pg:id":1310854
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ace361e299a148a46c259a14e64fef98",
+    "wof:geomhash":"c251c98834c814b8c895b98a7a29cd5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404463981,
-    "wof:lastmodified":1582327790,
+    "wof:lastmodified":1684353793,
     "wof:name":"Bernalda",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":12115,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

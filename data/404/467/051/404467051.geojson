@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palmas Arborea",
+    "eurostat:nuts_2021_id":"095039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095039",
+    "eurostat:population":1498,
+    "eurostat:population_year":2020,
     "geom:area":0.004142,
-    "geom:area_square_m":39321210.347876,
+    "geom:area_square_m":39321210.347879,
     "geom:bbox":"8.62498866367,39.8066555693,8.75540849563,39.8876914324",
     "geom:latitude":39.853575,
     "geom:longitude":8.690631,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095039",
+        "eurostat:nuts_2021_id":"095039",
         "gn:id":6539367,
         "gp:id":12680895,
         "qs_pg:id":947204
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c8e9084117615e8eeec9b0d5e8a08fa",
+    "wof:geomhash":"c4a783f0be3bc3fd2855d9076fb0729d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404467051,
-    "wof:lastmodified":1582327988,
+    "wof:lastmodified":1684353864,
     "wof:name":"Palmas Arborea",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":1498,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

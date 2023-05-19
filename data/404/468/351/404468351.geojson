@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carugate",
+    "eurostat:nuts_2021_id":"015051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015051",
+    "eurostat:population":15678,
+    "eurostat:population_year":2020,
     "geom:area":0.000621,
     "geom:area_square_m":5378034.880563,
     "geom:bbox":"9.32125842113,45.5398272685,9.36672234164,45.5620209746",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015051",
+        "eurostat:nuts_2021_id":"015051",
         "gn:id":6539477,
         "gp:id":12677750,
         "qs_pg:id":1108253
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32a78ee1d7f8368a10d3b95228595a0f",
+    "wof:geomhash":"c355ffdf428897d4fee03c0669adb3d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468351,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353887,
     "wof:name":"Carugate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":15678,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

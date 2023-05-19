@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montescudo-Monte Colombo",
+    "eurostat:nuts_2021_id":"099029",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099029",
+    "eurostat:population":6850,
+    "eurostat:population_year":2020,
     "geom:area":0.002267,
-    "geom:area_square_m":20187398.191634,
+    "geom:area_square_m":20187398.191632,
     "geom:bbox":"12.4924425837,43.8971954004,12.5764146659,43.9520709188",
     "geom:latitude":43.924098,
     "geom:longitude":12.532829,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099029",
+        "eurostat:nuts_2021_id":"099029"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bef83f1739cd2a4879bf00af02e89ab1",
+    "wof:geomhash":"49731902333eadf3ea3be2834dd351f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404472547,
-    "wof:lastmodified":1566723384,
+    "wof:lastmodified":1684353964,
     "wof:name":"Montescudo",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":6850,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_100006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaiano",
+    "eurostat:nuts_2021_id":"100006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI15",
+    "eurostat:nuts_2021_level_lau":"100006",
+    "eurostat:population":10054,
+    "eurostat:population_year":2020,
     "geom:area":0.003828,
-    "geom:area_square_m":34075951.053199,
+    "geom:area_square_m":34075951.053203,
     "geom:bbox":"11.0816017104,43.9140669549,11.1751655012,43.9823394372",
     "geom:latitude":43.952838,
     "geom:longitude":11.134558,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_100006",
+        "eurostat:nuts_2021_id":"100006",
         "gn:id":6541787,
         "gp:id":12679216,
         "qs_pg:id":190619
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc4d7f5f93301a4e4b9697d3aeea379f",
+    "wof:geomhash":"3f286e02a518b3b75a9ae6ffd6863ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404473033,
-    "wof:lastmodified":1582327930,
+    "wof:lastmodified":1684353976,
     "wof:name":"Vaiano",
     "wof:parent_id":85685683,
     "wof:placetype":"localadmin",
+    "wof:population":10054,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

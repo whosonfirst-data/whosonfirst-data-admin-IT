@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silvi",
+    "eurostat:nuts_2021_id":"067040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067040",
+    "eurostat:population":15649,
+    "eurostat:population_year":2020,
     "geom:area":0.002253,
-    "geom:area_square_m":20521509.337491,
+    "geom:area_square_m":20521509.33749,
     "geom:bbox":"14.0564196494,42.5255199039,14.1463308365,42.5789351427",
     "geom:latitude":42.552815,
     "geom:longitude":14.096592,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067040",
+        "eurostat:nuts_2021_id":"067040",
         "gn:id":6542292,
         "gp:id":12680184,
         "qs_pg:id":190745
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef6beeb3d8be480b2767b72071683aed",
+    "wof:geomhash":"b96e8c8e4afe21bc0187dc63bc4cb794",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462399,
-    "wof:lastmodified":1582327852,
+    "wof:lastmodified":1684353758,
     "wof:name":"Silvi",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":15649,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

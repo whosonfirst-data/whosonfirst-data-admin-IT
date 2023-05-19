@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ossi",
+    "eurostat:nuts_2021_id":"090051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090051",
+    "eurostat:population":5646,
+    "eurostat:population_year":2020,
     "geom:area":0.003206,
-    "geom:area_square_m":30079065.463799,
+    "geom:area_square_m":30079065.463806,
     "geom:bbox":"8.55214368467,40.6046311433,8.64399031442,40.7007135817",
     "geom:latitude":40.654017,
     "geom:longitude":8.603716,
@@ -83,6 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090051",
+        "eurostat:nuts_2021_id":"090051",
         "gn:id":6537833,
         "gp:id":12680836,
         "qs_pg:id":394114
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5fe81d2e1cfe1bc4b8d8f7d6e7c83808",
+    "wof:geomhash":"628a0401eed5002f8258c1f37e064ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404466803,
-    "wof:lastmodified":1582328191,
+    "wof:lastmodified":1684353858,
     "wof:name":"Ossi",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":5646,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malito",
+    "eurostat:nuts_2021_id":"078072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078072",
+    "eurostat:population":753,
+    "eurostat:population_year":2020,
     "geom:area":0.001748,
-    "geom:area_square_m":16753553.316258,
+    "geom:area_square_m":16753553.316256,
     "geom:bbox":"16.2148099766,39.1376445095,16.2825214889,39.195989212",
     "geom:latitude":39.166394,
     "geom:longitude":16.248707,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078072",
+        "eurostat:nuts_2021_id":"078072"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f404233a74f46849612cc23063285281",
+    "wof:geomhash":"bf45ae92dc1fb61f47559e5ca43a4509",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464207,
-    "wof:lastmodified":1566723241,
+    "wof:lastmodified":1684353800,
     "wof:name":"Malito",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":753,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palazzo Adriano",
+    "eurostat:nuts_2021_id":"082052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082052",
+    "eurostat:population":1928,
+    "eurostat:population_year":2020,
     "geom:area":0.013245,
-    "geom:area_square_m":129664407.576751,
+    "geom:area_square_m":129664407.576699,
     "geom:bbox":"13.3187653797,37.5392341027,13.4642437383,37.783350363",
     "geom:latitude":37.653696,
     "geom:longitude":13.378201,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082052",
+        "eurostat:nuts_2021_id":"082052",
         "gn:id":6539134,
         "gp:id":12678630,
         "qs_pg:id":1292691
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff89ed231ffa88138597efe50b4a71fa",
+    "wof:geomhash":"caf5be909db17f5f2b8a20eae9178827",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404465029,
-    "wof:lastmodified":1582327840,
+    "wof:lastmodified":1684353824,
     "wof:name":"Palazzo Adriano",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1928,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fossato Serralta",
+    "eurostat:nuts_2021_id":"079052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079052",
+    "eurostat:population":581,
+    "eurostat:population_year":2020,
     "geom:area":0.001221,
-    "geom:area_square_m":11729347.406013,
+    "geom:area_square_m":11729347.406012,
     "geom:bbox":"16.5035143584,38.9845571285,16.6049376555,39.0192483417",
     "geom:latitude":39.001221,
     "geom:longitude":16.563713,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079052",
+        "eurostat:nuts_2021_id":"079052"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"170863036458fca14630a0a65a2e8c87",
+    "wof:geomhash":"f9181c83b80c3c0a62fe21069339d11d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404464353,
-    "wof:lastmodified":1566723209,
+    "wof:lastmodified":1684353804,
     "wof:name":"Fossato Serralta",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":581,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

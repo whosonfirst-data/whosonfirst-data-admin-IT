@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gairo",
+    "eurostat:nuts_2021_id":"091026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091026",
+    "eurostat:population":1370,
+    "eurostat:population_year":2020,
     "geom:area":0.008162,
-    "geom:area_square_m":77475196.426302,
+    "geom:area_square_m":77475196.426301,
     "geom:bbox":"9.38022798566,39.7209727785,9.67679029726,39.9302874499",
     "geom:latitude":39.85557,
     "geom:longitude":9.49194,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091026",
+        "eurostat:nuts_2021_id":"091026",
         "gn:id":6539662,
         "gp:id":12679460,
         "qs_pg:id":1263632
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d859bad60d767aad62ee70016a5046b",
+    "wof:geomhash":"683cfe21f11f9d18649d9c879dc09750",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404467233,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353869,
     "wof:name":"Gairo",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":1370,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biandrate",
+    "eurostat:nuts_2021_id":"003018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003018",
+    "eurostat:population":1296,
+    "eurostat:population_year":2020,
     "geom:area":0.001434,
     "geom:area_square_m":12435132.095055,
     "geom:bbox":"8.4347897497,45.4241842245,8.51641372357,45.4677065726",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003018",
+        "eurostat:nuts_2021_id":"003018",
         "gn:id":6537294,
         "gp:id":12676771,
         "qs_pg:id":1092890
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c78e9d6a5c6dff050ba90f4c837bd70c",
+    "wof:geomhash":"df7655b8d197107c6073074000edb656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457661,
-    "wof:lastmodified":1582328104,
+    "wof:lastmodified":1684353655,
     "wof:name":"Biandrate",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1296,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

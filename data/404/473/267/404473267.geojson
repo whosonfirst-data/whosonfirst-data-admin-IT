@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tirolo/Tirol",
+    "eurostat:nuts_2021_id":"021101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021101",
+    "eurostat:population":2443,
+    "eurostat:population_year":2020,
     "geom:area":0.003014,
-    "geom:area_square_m":25556863.735525,
+    "geom:area_square_m":25556863.735523,
     "geom:bbox":"11.0607220187,46.671535725,11.1780485649,46.7454925655",
     "geom:latitude":46.713791,
     "geom:longitude":11.129015,
@@ -165,6 +177,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -173,6 +187,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021101",
+        "eurostat:nuts_2021_id":"021101",
         "gn:id":6535953,
         "gp:id":12682645,
         "qs_pg:id":1150801
@@ -181,7 +197,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c2cc558d442f38662f10fdaa975f520",
+    "wof:geomhash":"ddb32d31d1fdacc94eb13a5f0e3c7ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,10 +208,12 @@
         }
     ],
     "wof:id":404473267,
-    "wof:lastmodified":1582327919,
+    "wof:lastmodified":1684353984,
     "wof:name":"Tirolo",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2443,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

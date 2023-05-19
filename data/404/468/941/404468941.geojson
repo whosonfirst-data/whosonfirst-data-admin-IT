@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moscazzano",
+    "eurostat:nuts_2021_id":"019060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019060",
+    "eurostat:population":750,
+    "eurostat:population_year":2020,
     "geom:area":0.000936,
-    "geom:area_square_m":8140991.53127,
+    "geom:area_square_m":8140991.531268,
     "geom:bbox":"9.65704082192,45.2680904054,9.69618456665,45.3190404034",
     "geom:latitude":45.291481,
     "geom:longitude":9.679163,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019060",
+        "eurostat:nuts_2021_id":"019060",
         "gn:id":6537215,
         "gp:id":12680608,
         "qs_pg:id":947110
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c772287a4be83636bf86c007b7109e29",
+    "wof:geomhash":"6acfd31203c0076828c466ac357ef731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468941,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353897,
     "wof:name":"Moscazzano",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":750,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

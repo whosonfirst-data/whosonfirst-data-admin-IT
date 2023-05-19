@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ozzano dell'Emilia",
+    "eurostat:nuts_2021_id":"037046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037046",
+    "eurostat:population":13928,
+    "eurostat:population_year":2020,
     "geom:area":0.007339,
-    "geom:area_square_m":64806543.629597,
+    "geom:area_square_m":64806543.629579,
     "geom:bbox":"11.4022565251,44.3579635967,11.5514090428,44.4952603719",
     "geom:latitude":44.428503,
     "geom:longitude":11.476263,
@@ -62,6 +74,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037046",
+        "eurostat:nuts_2021_id":"037046",
         "gn:id":3171759,
         "gp:id":12679362,
         "qs_pg:id":1078530
@@ -78,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"885f3641eacaf143fa2d2c76fcece7aa",
+    "wof:geomhash":"dcb2c96b9e8abd3c2271bc90ee80a7c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404472327,
-    "wof:lastmodified":1582327906,
+    "wof:lastmodified":1684353958,
     "wof:name":"Ozzano Dell'Emilia",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":13928,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

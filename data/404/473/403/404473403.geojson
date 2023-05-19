@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castello Tesino",
+    "eurostat:nuts_2021_id":"022048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022048",
+    "eurostat:population":1182,
+    "eurostat:population_year":2020,
     "geom:area":0.013131,
-    "geom:area_square_m":112540299.576723,
+    "geom:area_square_m":112540299.576691,
     "geom:bbox":"11.5505293614,46.0124189153,11.7144403506,46.2160974706",
     "geom:latitude":46.121135,
     "geom:longitude":11.645937,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022048",
+        "eurostat:nuts_2021_id":"022048",
         "gn:id":6536234,
         "gp:id":12679857,
         "qs_pg:id":1102141
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8800ad7d8486df379fc00ec8e27f54bd",
+    "wof:geomhash":"04e7ab63ac2a53b3d87b0acbbb1e003b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404473403,
-    "wof:lastmodified":1582327932,
+    "wof:lastmodified":1684353988,
     "wof:name":"Castello Tesino",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":1182,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

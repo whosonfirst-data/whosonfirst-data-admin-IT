@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grantorto",
+    "eurostat:nuts_2021_id":"028042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028042",
+    "eurostat:population":4556,
+    "eurostat:population_year":2020,
     "geom:area":0.001632,
-    "geom:area_square_m":14123021.997184,
+    "geom:area_square_m":14123021.997185,
     "geom:bbox":"11.6989849062,45.5798684993,11.7664891333,45.6232400649",
     "geom:latitude":45.601579,
     "geom:longitude":11.731356,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028042",
+        "eurostat:nuts_2021_id":"028042",
         "gn:id":6541004,
         "gp:id":12679659,
         "qs_pg:id":295096
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7a937f45fe5f34a2531e296a1ed58ca",
+    "wof:geomhash":"388386fc9c99eb678890d7ee72e8d597",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470289,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353919,
     "wof:name":"Grantorto",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":4556,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

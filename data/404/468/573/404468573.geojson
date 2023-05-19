@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vanzago",
+    "eurostat:nuts_2021_id":"015229",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015229",
+    "eurostat:population":9358,
+    "eurostat:population_year":2020,
     "geom:area":0.000698,
-    "geom:area_square_m":6044473.491465,
+    "geom:area_square_m":6044473.491467,
     "geom:bbox":"8.96111656031,45.5045978653,9.01009973605,45.5348102689",
     "geom:latitude":45.519646,
     "geom:longitude":8.984587,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015229",
+        "eurostat:nuts_2021_id":"015229",
         "gn:id":6540341,
         "gp:id":20076575,
         "qs_pg:id":219326
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bff773547291138cc7ff17ef6a9873b1",
+    "wof:geomhash":"c3c82ca5ff38a3c9c34504377bb2a382",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468573,
-    "wof:lastmodified":1582328084,
+    "wof:lastmodified":1684353891,
     "wof:name":"Vanzago",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":9358,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

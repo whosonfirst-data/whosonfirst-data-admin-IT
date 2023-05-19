@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_089009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Floridia",
+    "eurostat:nuts_2021_id":"089009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG19",
+    "eurostat:nuts_2021_level_lau":"089009",
+    "eurostat:population":22557,
+    "eurostat:population_year":2020,
     "geom:area":0.002666,
-    "geom:area_square_m":26297897.744428,
+    "geom:area_square_m":26297897.744433,
     "geom:bbox":"15.0401332912,37.0637929453,15.1726695929,37.0982045995",
     "geom:latitude":37.080911,
     "geom:longitude":15.115427,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_089009",
+        "eurostat:nuts_2021_id":"089009",
         "gn:id":6539209,
         "gp:id":12679302,
         "qs_pg:id":1195257
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5363322d643294bfd672292c3a0a463",
+    "wof:geomhash":"f1fe711bb9987d3c1891901a052b71ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404466691,
-    "wof:lastmodified":1582328207,
+    "wof:lastmodified":1684353855,
     "wof:name":"Floridia",
     "wof:parent_id":85685627,
     "wof:placetype":"localadmin",
+    "wof:population":22557,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

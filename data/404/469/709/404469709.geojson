@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soave",
+    "eurostat:nuts_2021_id":"023081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023081",
+    "eurostat:population":7149,
+    "eurostat:population_year":2020,
     "geom:area":0.002613,
-    "geom:area_square_m":22670702.044754,
+    "geom:area_square_m":22670702.044751,
     "geom:bbox":"11.2144319186,45.3971114375,11.2734326093,45.4748719932",
     "geom:latitude":45.436337,
     "geom:longitude":11.242026,
@@ -50,6 +62,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -58,6 +72,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023081",
+        "eurostat:nuts_2021_id":"023081",
         "gn:id":6539684,
         "gp:id":12678217,
         "qs_pg:id":1295728
@@ -66,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5ea95a6c46177b0552f8663a450962b",
+    "wof:geomhash":"10e1af0ed53590903d2b4c350e0c420f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404469709,
-    "wof:lastmodified":1582328025,
+    "wof:lastmodified":1684353908,
     "wof:name":"Soave",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":7149,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

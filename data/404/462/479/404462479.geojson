@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pescara",
+    "eurostat:nuts_2021_id":"068028",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068028",
+    "eurostat:population":119800,
+    "eurostat:population_year":2020,
     "geom:area":0.003746,
-    "geom:area_square_m":34178274.391915,
+    "geom:area_square_m":34178274.39191,
     "geom:bbox":"14.152912,42.415459,14.254532,42.493925",
     "geom:latitude":42.455973,
     "geom:longitude":14.203391,
@@ -254,14 +266,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227519,
-        85685513
+        85685513,
+        404227519
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_068028",
+        "eurostat:nuts_2021_id":"068028",
         "gn:id":6540108,
         "gp:id":12680996,
         "qs_pg:id":1150744
@@ -273,7 +289,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"437c16f4303009ec9745abcff3b2be3b",
+    "wof:geomhash":"31387126a5abb21b56968484fad93f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,10 +300,12 @@
         }
     ],
     "wof:id":404462479,
-    "wof:lastmodified":1608040064,
+    "wof:lastmodified":1684353759,
     "wof:name":"Pescara",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":119800,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

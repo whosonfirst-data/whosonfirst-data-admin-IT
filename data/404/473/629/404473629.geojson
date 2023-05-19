@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riva del Garda",
+    "eurostat:nuts_2021_id":"022153",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022153",
+    "eurostat:population":17602,
+    "eurostat:population_year":2020,
     "geom:area":0.004722,
-    "geom:area_square_m":40643591.288336,
+    "geom:area_square_m":40643591.288337,
     "geom:bbox":"10.7636406159,45.8323544939,10.8755284906,45.9408953062",
     "geom:latitude":45.889119,
     "geom:longitude":10.821308,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022153",
+        "eurostat:nuts_2021_id":"022153",
         "gn:id":6541810,
         "gp:id":12679511,
         "qs_pg:id":907070
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9d3cff3cdda43ed2fd4028cd64caea8",
+    "wof:geomhash":"1ba6ecc69c7837d1a2212c1c4ee954d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404473629,
-    "wof:lastmodified":1582327916,
+    "wof:lastmodified":1684353992,
     "wof:name":"Riva Del Garda",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":17602,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Centallo",
+    "eurostat:nuts_2021_id":"004061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004061",
+    "eurostat:population":6957,
+    "eurostat:population_year":2020,
     "geom:area":0.004809,
-    "geom:area_square_m":42420660.789576,
+    "geom:area_square_m":42420660.78958,
     "geom:bbox":"7.54768247877,44.4427308003,7.6437194087,44.5297364693",
     "geom:latitude":44.488213,
     "geom:longitude":7.592937,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004061",
+        "eurostat:nuts_2021_id":"004061",
         "gn:id":6538148,
         "gp:id":12678466,
         "qs_pg:id":345535
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afa9c258c11b08d82b440835ef8faa73",
+    "wof:geomhash":"7ad367ecbe07e0ae8724b3c0c6623240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455485,
-    "wof:lastmodified":1582327811,
+    "wof:lastmodified":1684353604,
     "wof:name":"Centallo",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":6957,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

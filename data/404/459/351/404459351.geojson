@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roisan",
+    "eurostat:nuts_2021_id":"007057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007057",
+    "eurostat:population":1024,
+    "eurostat:population_year":2020,
     "geom:area":0.001695,
     "geom:area_square_m":14612601.295428,
     "geom:bbox":"7.30022454342,45.7635437478,7.35656597518,45.8135397263",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007057",
+        "eurostat:nuts_2021_id":"007057",
         "gn:id":6541473,
         "gp:id":12678269,
         "qs_pg:id":1195902
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"143af941837bf34ec100772832c1754e",
+    "wof:geomhash":"6ad50eaa154c52a454c7a4a69fa2a09a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459351,
-    "wof:lastmodified":1582328168,
+    "wof:lastmodified":1684353692,
     "wof:name":"Roisan",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1024,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

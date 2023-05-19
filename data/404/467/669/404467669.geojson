@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castellarano",
+    "eurostat:nuts_2021_id":"035014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035014",
+    "eurostat:population":15421,
+    "eurostat:population_year":2020,
     "geom:area":0.006574,
-    "geom:area_square_m":57960297.296056,
+    "geom:area_square_m":57960297.296051,
     "geom:bbox":"10.6537754383,44.4677605226,10.7650164933,44.571214546",
     "geom:latitude":44.522839,
     "geom:longitude":10.70193,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035014",
+        "eurostat:nuts_2021_id":"035014",
         "gn:id":6538439,
         "gp:id":12678251,
         "qs_pg:id":356004
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01015d1fef5b43918f1431dab89cf799",
+    "wof:geomhash":"85578b467da8fb413b35c0d064d60bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404467669,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353878,
     "wof:name":"Castellarano",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":15421,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

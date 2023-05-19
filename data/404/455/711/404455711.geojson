@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perletto",
+    "eurostat:nuts_2021_id":"004161",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004161",
+    "eurostat:population":268,
+    "eurostat:population_year":2020,
     "geom:area":0.001122,
     "geom:area_square_m":9879894.907161,
     "geom:bbox":"8.1875150215,44.5697221726,8.24576086008,44.6181260984",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004161",
+        "eurostat:nuts_2021_id":"004161"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5d4b0f84feae4bde4cd7c563a955c1bc",
+    "wof:geomhash":"9c25b8cbde0cd32b0ae97955ba1e11bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404455711,
-    "wof:lastmodified":1566723271,
+    "wof:lastmodified":1684353609,
     "wof:name":"Perletto",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":268,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

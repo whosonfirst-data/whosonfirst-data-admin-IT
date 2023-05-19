@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acireale",
+    "eurostat:nuts_2021_id":"087004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087004",
+    "eurostat:population":51876,
+    "eurostat:population_year":2020,
     "geom:area":0.0041,
-    "geom:area_square_m":40150046.954457,
+    "geom:area_square_m":40150046.954463,
     "geom:bbox":"15.1152002567,37.5740180572,15.1998399261,37.6832900093",
     "geom:latitude":37.634315,
     "geom:longitude":15.160722,
@@ -191,6 +203,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -199,6 +213,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087004",
+        "eurostat:nuts_2021_id":"087004",
         "gn:id":6540849,
         "gp:id":12675741,
         "qs_pg:id":408755
@@ -207,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d080ba35a7bd8be066132849e9fc5b2a",
+    "wof:geomhash":"dd3adee836469ca7bfb95acce5a40aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,10 +234,12 @@
         }
     ],
     "wof:id":404459223,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353689,
     "wof:name":"Acireale",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":51876,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

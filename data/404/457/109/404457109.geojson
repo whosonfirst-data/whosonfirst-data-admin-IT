@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viano",
+    "eurostat:nuts_2021_id":"035044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035044",
+    "eurostat:population":3332,
+    "eurostat:population_year":2020,
     "geom:area":0.005095,
-    "geom:area_square_m":44897876.090445,
+    "geom:area_square_m":44897876.090439,
     "geom:bbox":"10.5378429498,44.4997655766,10.6689930728,44.5915283687",
     "geom:latitude":44.549757,
     "geom:longitude":10.594507,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035044",
+        "eurostat:nuts_2021_id":"035044",
         "gn:id":3164434,
         "gp:id":12677217,
         "qs_pg:id":39526
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64c19e3fc126f8a14d99a4c6fc3b2bda",
+    "wof:geomhash":"026c26acd4c1cbcd8c57a125b781b1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404457109,
-    "wof:lastmodified":1582328109,
+    "wof:lastmodified":1684353642,
     "wof:name":"Viano",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":3332,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

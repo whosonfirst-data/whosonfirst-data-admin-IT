@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ronco Scrivia",
+    "eurostat:nuts_2021_id":"010049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010049",
+    "eurostat:population":4219,
+    "eurostat:population_year":2020,
     "geom:area":0.003416,
-    "geom:area_square_m":30073842.90486,
+    "geom:area_square_m":30073842.904862,
     "geom:bbox":"8.89273247962,44.5718411905,9.00311246271,44.6301023617",
     "geom:latitude":44.6059,
     "geom:longitude":8.944293,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010049",
+        "eurostat:nuts_2021_id":"010049",
         "gn:id":6541625,
         "gp:id":12681480,
         "qs_pg:id":248791
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"222c7b19fa9c304f8cc7e85797a1f64e",
+    "wof:geomhash":"3f60b5209ad90c0320c16cb9d3a8651f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458481,
-    "wof:lastmodified":1582327954,
+    "wof:lastmodified":1684353670,
     "wof:name":"Ronco Scrivia",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":4219,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

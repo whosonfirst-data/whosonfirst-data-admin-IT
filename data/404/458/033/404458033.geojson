@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peschiera del Garda",
+    "eurostat:nuts_2021_id":"023059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023059",
+    "eurostat:population":10930,
+    "eurostat:population_year":2020,
     "geom:area":0.002101,
-    "geom:area_square_m":18225303.863997,
+    "geom:area_square_m":18225303.863996,
     "geom:bbox":"10.6229915462,45.4158068077,10.715890486,45.4625974654",
     "geom:latitude":45.438416,
     "geom:longitude":10.673929,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023059",
+        "eurostat:nuts_2021_id":"023059",
         "gn:id":6536265,
         "gp:id":12681000,
         "qs_pg:id":1078571
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"76347c1518491f231d6766a2d25b39ea",
+    "wof:geomhash":"5ce795853ced28cdc27c363b9fa636b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458033,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353662,
     "wof:name":"Peschiera Del Garda",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":10930,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garbagna Novarese",
+    "eurostat:nuts_2021_id":"003069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003069",
+    "eurostat:population":1424,
+    "eurostat:population_year":2020,
     "geom:area":0.001156,
-    "geom:area_square_m":10034919.731918,
+    "geom:area_square_m":10034919.731916,
     "geom:bbox":"8.62560354213,45.3775704744,8.69694840234,45.4075887682",
     "geom:latitude":45.391856,
     "geom:longitude":8.66076,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003069",
+        "eurostat:nuts_2021_id":"003069",
         "gn:id":6543802,
         "gp:id":20075715,
         "qs_pg:id":1234163
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4ca3e68bcaa66cc38a6876b4e9b5b93",
+    "wof:geomhash":"b25db71d78f964b6a762c377af008423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457731,
-    "wof:lastmodified":1582328097,
+    "wof:lastmodified":1684353656,
     "wof:name":"Garbagna Novarese",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1424,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

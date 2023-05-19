@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Anzio",
+    "eurostat:nuts_2021_id":"058007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058007",
+    "eurostat:population":57951,
+    "eurostat:population_year":2020,
     "geom:area":0.0047,
-    "geom:area_square_m":43528437.109538,
+    "geom:area_square_m":43528437.109535,
     "geom:bbox":"12.552478689,41.4427588882,12.6457386271,41.5445849022",
     "geom:latitude":41.501977,
     "geom:longitude":12.607788,
@@ -209,6 +221,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -217,6 +231,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058007",
+        "eurostat:nuts_2021_id":"058007",
         "gn:id":6542092,
         "gp:id":12676136,
         "qs_pg:id":1069108
@@ -225,7 +241,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6aac4a927aa1303490de12f1b66270f",
+    "wof:geomhash":"186680c3e7eac78899bc10eb830ab891",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,10 +252,12 @@
         }
     ],
     "wof:id":404461531,
-    "wof:lastmodified":1582328138,
+    "wof:lastmodified":1684353740,
     "wof:name":"Anzio",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":57951,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

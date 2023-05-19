@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bergeggi",
+    "eurostat:nuts_2021_id":"009010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009010",
+    "eurostat:population":1073,
+    "eurostat:population_year":2020,
     "geom:area":0.000416,
-    "geom:area_square_m":3685468.140197,
+    "geom:area_square_m":3685468.140196,
     "geom:bbox":"8.41337752922,44.2335126469,8.45636960741,44.2675310416",
     "geom:latitude":44.24794,
     "geom:longitude":8.438497,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009010",
+        "eurostat:nuts_2021_id":"009010",
         "gn:id":6536470,
         "gp:id":12676719,
         "qs_pg:id":1102002
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5690a74d038c1c9c0772d29383a9db11",
+    "wof:geomhash":"5188b3177b780cdbb4cc817ce9d82c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471911,
-    "wof:lastmodified":1582327731,
+    "wof:lastmodified":1684353948,
     "wof:name":"Bergeggi",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":1073,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berchidda",
+    "eurostat:nuts_2021_id":"090009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090009",
+    "eurostat:population":2694,
+    "eurostat:population_year":2020,
     "geom:area":0.021556,
-    "geom:area_square_m":201802017.433158,
+    "geom:area_square_m":201802017.433145,
     "geom:bbox":"9.08774008923,40.6907227881,9.31656535382,40.8540400823",
     "geom:latitude":40.790528,
     "geom:longitude":9.208332,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090009",
+        "eurostat:nuts_2021_id":"090009",
         "gn:id":6537823,
         "gp:id":12676712,
         "qs_pg:id":76158
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"64aa063edc85f5d1198f7df1abdc1b9c",
+    "wof:geomhash":"19136f6195673be401498328fd9abfa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467175,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353867,
     "wof:name":"Berchidda",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2694,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

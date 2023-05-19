@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gattatico",
+    "eurostat:nuts_2021_id":"035022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035022",
+    "eurostat:population":5800,
+    "eurostat:population_year":2020,
     "geom:area":0.004796,
-    "geom:area_square_m":42076108.731145,
+    "geom:area_square_m":42076108.731146,
     "geom:bbox":"10.4232310424,44.7473597396,10.5378177462,44.8355941667",
     "geom:latitude":44.799851,
     "geom:longitude":10.471549,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035022",
+        "eurostat:nuts_2021_id":"035022",
         "gn:id":6536348,
         "gp:id":12677991,
         "qs_pg:id":1037328
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bde79900b3f93a0e750261cf01379418",
+    "wof:geomhash":"23fc59831802d6086ce4903233226ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404457061,
-    "wof:lastmodified":1582328116,
+    "wof:lastmodified":1684353641,
     "wof:name":"Gattatico",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":5800,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

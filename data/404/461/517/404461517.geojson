@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Affile",
+    "eurostat:nuts_2021_id":"058001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058001",
+    "eurostat:population":1463,
+    "eurostat:population_year":2020,
     "geom:area":0.001636,
     "geom:area_square_m":15060385.33038,
     "geom:bbox":"13.051245047,41.8658708159,13.1206197029,41.913785982",
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058001",
+        "eurostat:nuts_2021_id":"058001",
         "gn:id":6538665,
         "gp:id":12675800,
         "qs_pg:id":38603
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e6c6e8804c2e19c393e11579274be4b",
+    "wof:geomhash":"8ff1a2d333cd48d1ee4b1523afde0f10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404461517,
-    "wof:lastmodified":1582328133,
+    "wof:lastmodified":1684353740,
     "wof:name":"Affile",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":1463,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

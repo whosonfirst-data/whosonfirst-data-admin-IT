@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamporo",
+    "eurostat:nuts_2021_id":"002067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002067",
+    "eurostat:population":521,
+    "eurostat:population_year":2020,
     "geom:area":0.001106,
-    "geom:area_square_m":9629369.007826,
+    "geom:area_square_m":9629369.007824,
     "geom:bbox":"8.07018600093,45.2176503998,8.13924807207,45.2474267309",
     "geom:latitude":45.232653,
     "geom:longitude":8.101,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002067",
+        "eurostat:nuts_2021_id":"002067",
         "gn:id":6539541,
         "gp:id":12679859,
         "qs_pg:id":246207
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"47f93be54f381fc251db40c44c27818e",
+    "wof:geomhash":"35a1df9b395372daf1e9884f2afe2fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457539,
-    "wof:lastmodified":1582328108,
+    "wof:lastmodified":1684353652,
     "wof:name":"Lamporo",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":521,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

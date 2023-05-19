@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_099022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maiolo",
+    "eurostat:nuts_2021_id":"099022",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH59",
+    "eurostat:nuts_2021_level_lau":"099022",
+    "eurostat:population":800,
+    "eurostat:population_year":2020,
     "geom:area":0.002716,
-    "geom:area_square_m":24207042.394069,
+    "geom:area_square_m":24207042.394075,
     "geom:bbox":"12.2782534656,43.8459472305,12.3528259115,43.91701739",
     "geom:latitude":43.88009,
     "geom:longitude":12.313647,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_099022",
+        "eurostat:nuts_2021_id":"099022"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a600067638b6fbe61f8cf5081c7ff1d6",
+    "wof:geomhash":"72f463ecbb038b03f65ae6331b4ceb31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404459753,
-    "wof:lastmodified":1566723723,
+    "wof:lastmodified":1684353700,
     "wof:name":"Maiolo",
     "wof:parent_id":85685675,
     "wof:placetype":"localadmin",
+    "wof:population":800,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

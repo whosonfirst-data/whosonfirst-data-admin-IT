@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pomezia",
+    "eurostat:nuts_2021_id":"058079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058079",
+    "eurostat:population":64417,
+    "eurostat:population_year":2020,
     "geom:area":0.009347,
-    "geom:area_square_m":86342952.101093,
+    "geom:area_square_m":86342952.101117,
     "geom:bbox":"12.4158714793,41.5957470335,12.5953840882,41.7144516717",
     "geom:latitude":41.662052,
     "geom:longitude":12.505085,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058079",
+        "eurostat:nuts_2021_id":"058079",
         "gn:id":6536960,
         "gp:id":12676967,
         "qs_pg:id":213497
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf3a392175bda51d0e59c4b4b3e9c5f2",
+    "wof:geomhash":"6c1a1d71e7c20a04e0380a33a6cc8b14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404461693,
-    "wof:lastmodified":1582328131,
+    "wof:lastmodified":1684353743,
     "wof:name":"Pomezia",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":64417,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

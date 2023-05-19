@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Felitto",
+    "eurostat:nuts_2021_id":"065051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065051",
+    "eurostat:population":1213,
+    "eurostat:population_year":2020,
     "geom:area":0.004378,
-    "geom:area_square_m":41236050.471761,
+    "geom:area_square_m":41236050.471762,
     "geom:bbox":"15.1821775715,40.3527528383,15.3091625562,40.4207722848",
     "geom:latitude":40.386002,
     "geom:longitude":15.252415,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065051",
+        "eurostat:nuts_2021_id":"065051",
         "gn:id":6543622,
         "gp:id":12679229,
         "qs_pg:id":49310
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1313bb2e9452595a00476d71e33fcc77",
+    "wof:geomhash":"a90a3811b4e57d43ac3251462517063d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404465577,
-    "wof:lastmodified":1582327847,
+    "wof:lastmodified":1684353834,
     "wof:name":"Felitto",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":1213,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

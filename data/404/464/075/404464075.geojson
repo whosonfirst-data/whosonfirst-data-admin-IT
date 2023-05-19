@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belsito",
+    "eurostat:nuts_2021_id":"078014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078014",
+    "eurostat:population":914,
+    "eurostat:population_year":2020,
     "geom:area":0.001194,
-    "geom:area_square_m":11441305.939271,
+    "geom:area_square_m":11441305.939267,
     "geom:bbox":"16.2643534319,39.1454718849,16.2994699603,39.2002360444",
     "geom:latitude":39.173243,
     "geom:longitude":16.281884,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078014",
+        "eurostat:nuts_2021_id":"078014"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c5ee758eeadb149cc718a28813e6cfb6",
+    "wof:geomhash":"45d1bacbafef9b3327f53ff69e6f9fc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464075,
-    "wof:lastmodified":1566723237,
+    "wof:lastmodified":1684353796,
     "wof:name":"Belsito",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":914,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atina",
+    "eurostat:nuts_2021_id":"060011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060011",
+    "eurostat:population":4264,
+    "eurostat:population_year":2020,
     "geom:area":0.003219,
-    "geom:area_square_m":29755492.110261,
+    "geom:area_square_m":29755492.110262,
     "geom:bbox":"13.7509874476,41.5902134329,13.8401225113,41.6536102176",
     "geom:latitude":41.621067,
     "geom:longitude":13.790842,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060011",
+        "eurostat:nuts_2021_id":"060011",
         "gn:id":6538702,
         "gp:id":12676327,
         "qs_pg:id":76090
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18fe2d0a956ea86858945a97de61c282",
+    "wof:geomhash":"2a6247209ba4356c095a3250c3cf0152",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404461887,
-    "wof:lastmodified":1582328127,
+    "wof:lastmodified":1684353748,
     "wof:name":"Atina",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":4264,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

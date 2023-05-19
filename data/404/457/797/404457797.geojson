@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pombia",
+    "eurostat:nuts_2021_id":"003121",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003121",
+    "eurostat:population":2140,
+    "eurostat:population_year":2020,
     "geom:area":0.00142,
-    "geom:area_square_m":12278143.743073,
+    "geom:area_square_m":12278143.743072,
     "geom:bbox":"8.60688198429,45.6321646891,8.68865683253,45.660822333",
     "geom:latitude":45.646166,
     "geom:longitude":8.646509,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003121",
+        "eurostat:nuts_2021_id":"003121",
         "gn:id":6540104,
         "gp:id":12681195,
         "qs_pg:id":1296852
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18623c0c514e1bc34f1ef3e8147294a5",
+    "wof:geomhash":"9eb66a05239d23a0b899d41b2c9ef0fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457797,
-    "wof:lastmodified":1582328094,
+    "wof:lastmodified":1684353657,
     "wof:name":"Pombia",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":2140,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nerviano",
+    "eurostat:nuts_2021_id":"015154",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015154",
+    "eurostat:population":17142,
+    "eurostat:population_year":2020,
     "geom:area":0.001529,
-    "geom:area_square_m":13238521.068591,
+    "geom:area_square_m":13238521.068592,
     "geom:bbox":"8.95136429686,45.5230903743,9.0095666617,45.57730087",
     "geom:latitude":45.552477,
     "geom:longitude":8.980023,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015154",
+        "eurostat:nuts_2021_id":"015154",
         "gn:id":6540588,
         "gp:id":12676537,
         "qs_pg:id":427268
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2433c47630a43a98fbbe3d560cfba2b5",
+    "wof:geomhash":"7c7077c6d135b5d09631248345a0ccbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468465,
-    "wof:lastmodified":1582328081,
+    "wof:lastmodified":1684353889,
     "wof:name":"Nerviano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":17142,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

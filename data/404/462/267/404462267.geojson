@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sante Marie",
+    "eurostat:nuts_2021_id":"066089",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066089",
+    "eurostat:population":1145,
+    "eurostat:population_year":2020,
     "geom:area":0.004434,
-    "geom:area_square_m":40664655.335318,
+    "geom:area_square_m":40664655.335316,
     "geom:bbox":"13.1480367052,42.0734956139,13.2652218436,42.1588415327",
     "geom:latitude":42.118616,
     "geom:longitude":13.210589,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066089",
+        "eurostat:nuts_2021_id":"066089",
         "gn:id":6539826,
         "gp:id":12681156,
         "qs_pg:id":537813
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f4480d126f49dcf968b6bbf529e7aff",
+    "wof:geomhash":"71503b6ab88b5c3863fa05a1b3dcae48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462267,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353755,
     "wof:name":"Sante Marie",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":1145,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

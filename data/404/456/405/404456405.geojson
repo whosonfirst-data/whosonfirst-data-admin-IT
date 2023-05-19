@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fenestrelle",
+    "eurostat:nuts_2021_id":"001103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001103",
+    "eurostat:population":506,
+    "eurostat:population_year":2020,
     "geom:area":0.005642,
-    "geom:area_square_m":49314115.132252,
+    "geom:area_square_m":49314115.132253,
     "geom:bbox":"6.98947549258,44.9879993783,7.10917339425,45.0662629938",
     "geom:latitude":45.022245,
     "geom:longitude":7.058288,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001103",
+        "eurostat:nuts_2021_id":"001103",
         "gn:id":6538059,
         "gp:id":12679231,
         "qs_pg:id":1163495
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e783879936ac0302546b17f410e97c77",
+    "wof:geomhash":"8d9e16abc8097dd3ca87ef1d789dfd77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456405,
-    "wof:lastmodified":1582328066,
+    "wof:lastmodified":1684353623,
     "wof:name":"Fenestrelle",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":506,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

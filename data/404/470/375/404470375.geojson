@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fratta Polesine",
+    "eurostat:nuts_2021_id":"029024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029024",
+    "eurostat:population":2582,
+    "eurostat:population_year":2020,
     "geom:area":0.002389,
-    "geom:area_square_m":20881969.949527,
+    "geom:area_square_m":20881969.94953,
     "geom:bbox":"11.5862298799,44.9943220647,11.6733205705,45.0530609307",
     "geom:latitude":45.021191,
     "geom:longitude":11.633274,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029024",
+        "eurostat:nuts_2021_id":"029024",
         "gn:id":6540402,
         "gp:id":12679416,
         "qs_pg:id":1143064
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3041bdd3833bd2def807edf25caa3bc4",
+    "wof:geomhash":"44ae350abaa25cc12fb3815aca899cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470375,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353920,
     "wof:name":"Fratta Polesine",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":2582,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

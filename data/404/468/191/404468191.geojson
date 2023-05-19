@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Madesimo",
+    "eurostat:nuts_2021_id":"014035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014035",
+    "eurostat:population":533,
+    "eurostat:population_year":2020,
     "geom:area":0.010039,
     "geom:area_square_m":85508831.279354,
     "geom:bbox":"9.24659625168,46.4135682322,9.4090546551,46.5096912305",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014035",
+        "eurostat:nuts_2021_id":"014035",
         "gn:id":6536119,
         "gp:id":12675997,
         "qs_pg:id":38745
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc921e1c293a00a95729e44a2a4896cc",
+    "wof:geomhash":"855428c7d444c73fc0f5ee9aa99a298b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404468191,
-    "wof:lastmodified":1582328084,
+    "wof:lastmodified":1684353885,
     "wof:name":"Madesimo",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":533,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

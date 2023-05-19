@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flussio",
+    "eurostat:nuts_2021_id":"095080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095080",
+    "eurostat:population":436,
+    "eurostat:population_year":2020,
     "geom:area":0.000728,
     "geom:area_square_m":6872585.685267,
     "geom:bbox":"8.52715640326,40.2324132174,8.57254152808,40.2730466357",
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095080",
+        "eurostat:nuts_2021_id":"095080",
         "gn:id":6537854,
         "gp:id":12679297,
         "qs_pg:id":246282
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9102d7ddb36245f8ecb67a28200d58b",
+    "wof:geomhash":"43f89f9a974968e62c6afd195f8c24fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467143,
-    "wof:lastmodified":1582327977,
+    "wof:lastmodified":1684353866,
     "wof:name":"Flussio",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":436,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

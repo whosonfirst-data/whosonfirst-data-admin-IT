@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montevago",
+    "eurostat:nuts_2021_id":"084025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084025",
+    "eurostat:population":2876,
+    "eurostat:population_year":2020,
     "geom:area":0.003354,
-    "geom:area_square_m":32822316.122077,
+    "geom:area_square_m":32822316.122072,
     "geom:bbox":"12.8929234805,37.6572251229,12.9948771467,37.7292320338",
     "geom:latitude":37.688431,
     "geom:longitude":12.950607,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084025",
+        "eurostat:nuts_2021_id":"084025",
         "gn:id":6541767,
         "gp:id":12680560,
         "qs_pg:id":41643
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2054c3c81f2af615a579c3edb9e4ad7",
+    "wof:geomhash":"ad5db2107477392f0caac485e59d1c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404466483,
-    "wof:lastmodified":1582328187,
+    "wof:lastmodified":1684353850,
     "wof:name":"Montevago",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":2876,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

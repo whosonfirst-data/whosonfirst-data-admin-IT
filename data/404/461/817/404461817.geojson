@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maenza",
+    "eurostat:nuts_2021_id":"059013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059013",
+    "eurostat:population":3060,
+    "eurostat:population_year":2020,
     "geom:area":0.004536,
-    "geom:area_square_m":41984547.500917,
+    "geom:area_square_m":41984547.500923,
     "geom:bbox":"13.1239787795,41.5027113936,13.2277203779,41.5880693425",
     "geom:latitude":41.542814,
     "geom:longitude":13.18297,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059013",
+        "eurostat:nuts_2021_id":"059013",
         "gn:id":6536971,
         "gp:id":12680085,
         "qs_pg:id":41309
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"618a91b654ad63d811dc5258260da715",
+    "wof:geomhash":"1c17d29e2f71915099baaae856627159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461817,
-    "wof:lastmodified":1582328128,
+    "wof:lastmodified":1684353747,
     "wof:name":"Maenza",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":3060,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

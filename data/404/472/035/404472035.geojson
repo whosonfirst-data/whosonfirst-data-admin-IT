@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agazzano",
+    "eurostat:nuts_2021_id":"033001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033001",
+    "eurostat:population":2002,
+    "eurostat:population_year":2020,
     "geom:area":0.004126,
-    "geom:area_square_m":36095475.48151,
+    "geom:area_square_m":36095475.481508,
     "geom:bbox":"9.45493560999,44.9279825071,9.54854928546,45.0119198823",
     "geom:latitude":44.967389,
     "geom:longitude":9.501977,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033001",
+        "eurostat:nuts_2021_id":"033001",
         "gn:id":6538409,
         "gp:id":12675806,
         "qs_pg:id":1314040
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82985fcc5ca112738aa3d49220255bc9",
+    "wof:geomhash":"7875687f4bfda6d7e648e45dd8cc2ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404472035,
-    "wof:lastmodified":1582327902,
+    "wof:lastmodified":1684353951,
     "wof:name":"Agazzano",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":2002,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

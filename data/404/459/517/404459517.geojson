@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malesco",
+    "eurostat:nuts_2021_id":"103041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103041",
+    "eurostat:population":1384,
+    "eurostat:population_year":2020,
     "geom:area":0.005027,
-    "geom:area_square_m":43105776.359104,
+    "geom:area_square_m":43105776.359097,
     "geom:bbox":"8.42046717024,46.0430658509,8.56134047903,46.1416013943",
     "geom:latitude":46.091999,
     "geom:longitude":8.483801,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103041",
+        "eurostat:nuts_2021_id":"103041",
         "gn:id":6538216,
         "gp:id":12675981,
         "qs_pg:id":1309518
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c747abd5b12000435fe66ca8fc7eb76",
+    "wof:geomhash":"c1d753fcf1c289184db3fcea330fc85f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404459517,
-    "wof:lastmodified":1582328163,
+    "wof:lastmodified":1684353695,
     "wof:name":"Malesco",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":1384,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

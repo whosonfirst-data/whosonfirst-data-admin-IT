@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Condove",
+    "eurostat:nuts_2021_id":"001093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001093",
+    "eurostat:population":4485,
+    "eurostat:population_year":2020,
     "geom:area":0.008141,
-    "geom:area_square_m":70983239.702224,
+    "geom:area_square_m":70983239.70223,
     "geom:bbox":"7.20371582978,45.1075108469,7.33439583342,45.1976185478",
     "geom:latitude":45.157094,
     "geom:longitude":7.27186,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001093",
+        "eurostat:nuts_2021_id":"001093"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a354094403d8e84a9740c07a5e22a563",
+    "wof:geomhash":"f6d9f1f58d7dc40b8d2d64e4c89aa6ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404456383,
-    "wof:lastmodified":1566723586,
+    "wof:lastmodified":1684353622,
     "wof:name":"Condove",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4485,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

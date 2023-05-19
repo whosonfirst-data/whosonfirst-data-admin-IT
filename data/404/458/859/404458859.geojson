@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tufara",
+    "eurostat:nuts_2021_id":"070082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070082",
+    "eurostat:population":832,
+    "eurostat:population_year":2020,
     "geom:area":0.003809,
-    "geom:area_square_m":35282846.094009,
+    "geom:area_square_m":35282846.093995,
     "geom:bbox":"14.8934683831,41.4474987949,15.0076989885,41.5240060412",
     "geom:latitude":41.482632,
     "geom:longitude":14.951219,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070082",
+        "eurostat:nuts_2021_id":"070082",
         "gn:id":6543291,
         "gp:id":20076897,
         "qs_pg:id":1009422
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f2037561fd117febf9e46911711672f",
+    "wof:geomhash":"6f626ee64c0edefac38081b8c9d04d19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458859,
-    "wof:lastmodified":1582327943,
+    "wof:lastmodified":1684353679,
     "wof:name":"Tufara",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":832,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

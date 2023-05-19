@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saronno",
+    "eurostat:nuts_2021_id":"012119",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012119",
+    "eurostat:population":39332,
+    "eurostat:population_year":2020,
     "geom:area":0.001277,
-    "geom:area_square_m":11041097.450018,
+    "geom:area_square_m":11041097.450015,
     "geom:bbox":"9.01270033007,45.6083550426,9.06258991282,45.6467124106",
     "geom:latitude":45.627063,
     "geom:longitude":9.036701,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012119",
+        "eurostat:nuts_2021_id":"012119",
         "gn:id":6537086,
         "gp:id":12681891,
         "qs_pg:id":1078585
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10fa052250655b89e5ddbfc7a199c047",
+    "wof:geomhash":"2f775caa41e700fceda7806214aedbca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404467879,
-    "wof:lastmodified":1582327982,
+    "wof:lastmodified":1684353881,
     "wof:name":"Saronno",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":39332,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

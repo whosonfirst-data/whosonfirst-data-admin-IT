@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parete",
+    "eurostat:nuts_2021_id":"061054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061054",
+    "eurostat:population":11943,
+    "eurostat:population_year":2020,
     "geom:area":0.000598,
-    "geom:area_square_m":5580188.749146,
+    "geom:area_square_m":5580188.749145,
     "geom:bbox":"14.1297711861,40.943515362,14.1740549589,40.9671883468",
     "geom:latitude":40.955711,
     "geom:longitude":14.154104,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061054",
+        "eurostat:nuts_2021_id":"061054",
         "gn:id":6542349,
         "gp:id":20076917,
         "qs_pg:id":1163823
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"319d7cd319bfe8a6a18c3e660fbb5022",
+    "wof:geomhash":"6ffa8d39ae1941dc4c240592aa96c073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463077,
-    "wof:lastmodified":1582327766,
+    "wof:lastmodified":1684353771,
     "wof:name":"Parete",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":11943,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

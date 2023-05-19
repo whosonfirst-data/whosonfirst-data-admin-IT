@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casacalenda",
+    "eurostat:nuts_2021_id":"070011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070011",
+    "eurostat:population":1988,
+    "eurostat:population_year":2020,
     "geom:area":0.007248,
     "geom:area_square_m":66846976.550142,
     "geom:bbox":"14.7853399134,41.697290533,14.9039420661,41.8255466363",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070011",
+        "eurostat:nuts_2021_id":"070011",
         "gn:id":6537500,
         "gp:id":12677932,
         "qs_pg:id":1163451
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac38ec4eb7f2d24ad796b5574aed7300",
+    "wof:geomhash":"7976d304e1191e2c48b75e7a1afb2399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462777,
-    "wof:lastmodified":1582327862,
+    "wof:lastmodified":1684353765,
     "wof:name":"Casacalenda",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1988,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

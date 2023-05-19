@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calliano",
+    "eurostat:nuts_2021_id":"005014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005014",
+    "eurostat:population":1287,
+    "eurostat:population_year":2020,
     "geom:area":0.001975,
-    "geom:area_square_m":17268396.453644,
+    "geom:area_square_m":17268396.453647,
     "geom:bbox":"8.20963316051,44.9790106628,8.29139027967,45.026038692",
     "geom:latitude":45.002844,
     "geom:longitude":8.251883,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005014",
+        "eurostat:nuts_2021_id":"005014",
         "gn:id":6540136,
         "gp:id":12677330,
         "qs_pg:id":257819
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"621fe4ae64cd21027dc66385a3f02bc3",
+    "wof:geomhash":"1e4a586a8f93cc7f534a13be0837f19c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404455943,
-    "wof:lastmodified":1582327823,
+    "wof:lastmodified":1684353614,
     "wof:name":"Calliano",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1287,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

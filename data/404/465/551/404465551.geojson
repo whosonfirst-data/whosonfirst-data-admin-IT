@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ceraso",
+    "eurostat:nuts_2021_id":"065040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065040",
+    "eurostat:population":2301,
+    "eurostat:population_year":2020,
     "geom:area":0.004883,
-    "geom:area_square_m":46125334.515657,
+    "geom:area_square_m":46125334.515654,
     "geom:bbox":"15.1722710686,40.150289141,15.3338793106,40.2149309691",
     "geom:latitude":40.187644,
     "geom:longitude":15.247583,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065040",
+        "eurostat:nuts_2021_id":"065040"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"81d0a71bf043b5e1b6933484aa61878a",
+    "wof:geomhash":"354a08472fc542c8e867e70afca3620f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404465551,
-    "wof:lastmodified":1566723272,
+    "wof:lastmodified":1684353833,
     "wof:name":"Ceraso",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":2301,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

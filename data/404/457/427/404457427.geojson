@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villareggia",
+    "eurostat:nuts_2021_id":"001304",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001304",
+    "eurostat:population":1010,
+    "eurostat:population_year":2020,
     "geom:area":0.00131,
-    "geom:area_square_m":11391455.589655,
+    "geom:area_square_m":11391455.589658,
     "geom:bbox":"7.94400686302,45.2613833297,7.9918184919,45.3179839357",
     "geom:latitude":45.292569,
     "geom:longitude":7.975723,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001304",
+        "eurostat:nuts_2021_id":"001304",
         "gn:id":6538094,
         "gp:id":12682484,
         "qs_pg:id":886886
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19b0c440038b6f1f0440cc106f9f6a56",
+    "wof:geomhash":"cfc866c75b8d8f7a4e7ea3958036663b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457427,
-    "wof:lastmodified":1582328114,
+    "wof:lastmodified":1684353649,
     "wof:name":"Villareggia",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1010,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

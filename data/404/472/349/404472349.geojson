@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Agata Bolognese",
+    "eurostat:nuts_2021_id":"037056",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037056",
+    "eurostat:population":7473,
+    "eurostat:population_year":2020,
     "geom:area":0.003948,
-    "geom:area_square_m":34723280.337513,
+    "geom:area_square_m":34723280.337511,
     "geom:bbox":"11.0781478767,44.6284933406,11.1833579426,44.7023074051",
     "geom:latitude":44.665817,
     "geom:longitude":11.127503,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037056",
+        "eurostat:nuts_2021_id":"037056",
         "gn:id":6536745,
         "gp:id":12681575,
         "qs_pg:id":240510
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43d36153baed91f06fde4b329512f85d",
+    "wof:geomhash":"82aa78595d3786eb0104e7b8c782883c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404472349,
-    "wof:lastmodified":1582327892,
+    "wof:lastmodified":1684353959,
     "wof:name":"Sant'Agata Bolognese",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":7473,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

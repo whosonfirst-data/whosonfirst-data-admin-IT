@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Greccio",
+    "eurostat:nuts_2021_id":"057031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057031",
+    "eurostat:population":1551,
+    "eurostat:population_year":2020,
     "geom:area":0.001951,
-    "geom:area_square_m":17798266.049188,
+    "geom:area_square_m":17798266.049186,
     "geom:bbox":"12.7247588989,42.4297177232,12.7873362334,42.4704975078",
     "geom:latitude":42.449954,
     "geom:longitude":12.754706,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057031",
+        "eurostat:nuts_2021_id":"057031",
         "gn:id":3175850,
         "gp:id":20076859,
         "qs_pg:id":1197122
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60898c95594a21cf6e40993a23c52e22",
+    "wof:geomhash":"14fe542019a3167d721242f95efc2082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461421,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353738,
     "wof:name":"Greccio",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":1551,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

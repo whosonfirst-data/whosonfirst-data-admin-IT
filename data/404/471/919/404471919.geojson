@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bormida",
+    "eurostat:nuts_2021_id":"009014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009014",
+    "eurostat:population":357,
+    "eurostat:population_year":2020,
     "geom:area":0.002535,
-    "geom:area_square_m":22442629.647108,
+    "geom:area_square_m":22442629.647111,
     "geom:bbox":"8.19320448982,44.2379068916,8.26818279001,44.3013537201",
     "geom:latitude":44.267104,
     "geom:longitude":8.232093,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009014",
+        "eurostat:nuts_2021_id":"009014",
         "gn:id":6542501,
         "gp:id":20076420,
         "qs_pg:id":1149899
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f74662e601da74a917ba357c6b4f360",
+    "wof:geomhash":"bc6abcd380af0c988e25494020c15841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404471919,
-    "wof:lastmodified":1582327733,
+    "wof:lastmodified":1684353948,
     "wof:name":"Bormida",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":357,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

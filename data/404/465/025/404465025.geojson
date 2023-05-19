@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montelepre",
+    "eurostat:nuts_2021_id":"082050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082050",
+    "eurostat:population":6015,
+    "eurostat:population_year":2020,
     "geom:area":0.001013,
-    "geom:area_square_m":9861018.96806,
+    "geom:area_square_m":9861018.968062,
     "geom:bbox":"13.160380125,38.0704138187,13.2199810096,38.1021735447",
     "geom:latitude":38.085066,
     "geom:longitude":13.187903,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082050",
+        "eurostat:nuts_2021_id":"082050",
         "gn:id":6540824,
         "gp:id":12680524,
         "qs_pg:id":51262
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4db3816aab459c760100d098aa72fa66",
+    "wof:geomhash":"0182e24f0d02a14ba8a383b728b631f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404465025,
-    "wof:lastmodified":1582327829,
+    "wof:lastmodified":1684353823,
     "wof:name":"Montelepre",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":6015,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

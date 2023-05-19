@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lierna",
+    "eurostat:nuts_2021_id":"097043",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097043",
+    "eurostat:population":2139,
+    "eurostat:population_year":2020,
     "geom:area":0.001305,
     "geom:area_square_m":11220625.302971,
     "geom:bbox":"9.28596928551,45.94235637,9.35615138521,45.9782735999",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097043",
+        "eurostat:nuts_2021_id":"097043",
         "gn:id":3174737,
         "gp:id":12679956,
         "qs_pg:id":245535
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5339d2f670ad3455e6faefab2888d11e",
+    "wof:geomhash":"a088d10a5072837f191a90e50520fc9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469319,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353902,
     "wof:name":"Lierna",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":2139,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canale d'Agordo",
+    "eurostat:nuts_2021_id":"025023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025023",
+    "eurostat:population":1096,
+    "eurostat:population_year":2020,
     "geom:area":0.005367,
     "geom:area_square_m":45823535.310564,
     "geom:bbox":"11.8263276556,46.269920082,11.9326006981,46.4015663295",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025023",
+        "eurostat:nuts_2021_id":"025023",
         "gn:id":6540252,
         "gp:id":12677481,
         "qs_pg:id":223828
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ae751b1467d242e9b395f24058ac668a",
+    "wof:geomhash":"290293bd3db398a20f29df312c9a666f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404469893,
-    "wof:lastmodified":1582328030,
+    "wof:lastmodified":1684353912,
     "wof:name":"Canale D'Agordo",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":1096,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

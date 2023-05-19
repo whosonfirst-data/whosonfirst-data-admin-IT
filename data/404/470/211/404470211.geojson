@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arre",
+    "eurostat:nuts_2021_id":"028006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028006",
+    "eurostat:population":2108,
+    "eurostat:population_year":2020,
     "geom:area":0.001413,
     "geom:area_square_m":12310816.556003,
     "geom:bbox":"11.9092287941,45.1915387174,11.9650946675,45.2347214849",
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028006",
+        "eurostat:nuts_2021_id":"028006",
         "gn:id":6538327,
         "gp:id":12676268,
         "qs_pg:id":203715
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9db643a648006c22aed3a48eb94e6be8",
+    "wof:geomhash":"4abeb177074c49b5f6e4d3adf3ae1609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404470211,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353918,
     "wof:name":"Arre",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":2108,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

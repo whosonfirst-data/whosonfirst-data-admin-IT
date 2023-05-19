@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonate Sopra",
+    "eurostat:nuts_2021_id":"016030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016030",
+    "eurostat:population":10158,
+    "eurostat:population_year":2020,
     "geom:area":0.000711,
     "geom:area_square_m":6141297.502892,
     "geom:bbox":"9.53938762791,45.6704824884,9.58942606474,45.6948213589",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016030",
+        "eurostat:nuts_2021_id":"016030",
         "gn:id":6539486,
         "gp:id":12676882,
         "qs_pg:id":1073081
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b45b9b89d0aa5369e076204e53565719",
+    "wof:geomhash":"e12448cf37cd3a3b7d97c8b00febe857",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468669,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353892,
     "wof:name":"Bonate Sopra",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":10158,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

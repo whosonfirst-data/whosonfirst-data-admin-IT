@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Crucoli",
+    "eurostat:nuts_2021_id":"101011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101011",
+    "eurostat:population":2978,
+    "eurostat:population_year":2020,
     "geom:area":0.005218,
-    "geom:area_square_m":49837672.780489,
+    "geom:area_square_m":49837672.780493,
     "geom:bbox":"16.953014904,39.3888834141,17.0527793603,39.4823271631",
     "geom:latitude":39.43083,
     "geom:longitude":17.000489,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101011",
+        "eurostat:nuts_2021_id":"101011"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a982142071306fe507590095d1cef1d7",
+    "wof:geomhash":"d883b615874ef73622af4440bde617ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464715,
-    "wof:lastmodified":1566723226,
+    "wof:lastmodified":1684353814,
     "wof:name":"Crucoli",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":2978,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

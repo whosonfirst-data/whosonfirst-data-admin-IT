@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mogliano",
+    "eurostat:nuts_2021_id":"043025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043025",
+    "eurostat:population":4485,
+    "eurostat:population_year":2020,
     "geom:area":0.003232,
-    "geom:area_square_m":29135975.351942,
+    "geom:area_square_m":29135975.351943,
     "geom:bbox":"13.4351487016,43.1634049407,13.5283596507,43.2168606047",
     "geom:latitude":43.189186,
     "geom:longitude":13.483695,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043025",
+        "eurostat:nuts_2021_id":"043025",
         "gn:id":6539955,
         "gp:id":12680360,
         "qs_pg:id":41486
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88fba2f68a65be2e354280a1751701b9",
+    "wof:geomhash":"0ee7e8db33bae5c1dce463b78f54b459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404460979,
-    "wof:lastmodified":1582328005,
+    "wof:lastmodified":1684353728,
     "wof:name":"Mogliano",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":4485,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

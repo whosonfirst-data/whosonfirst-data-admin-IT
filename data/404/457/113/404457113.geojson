@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Minozzo",
+    "eurostat:nuts_2021_id":"035045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035045",
+    "eurostat:population":3609,
+    "eurostat:population_year":2020,
     "geom:area":0.01897,
-    "geom:area_square_m":167823942.564797,
+    "geom:area_square_m":167823942.564799,
     "geom:bbox":"10.336046535,44.2260318118,10.5269527054,44.4057079195",
     "geom:latitude":44.318318,
     "geom:longitude":10.44143,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035045",
+        "eurostat:nuts_2021_id":"035045",
         "gn:id":3164203,
         "gp:id":12678524,
         "qs_pg:id":246055
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c3e85e348d896008ecad3789bd75722",
+    "wof:geomhash":"a834afe4dd63fb32e2f6c88b3c61c2fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404457113,
-    "wof:lastmodified":1582328120,
+    "wof:lastmodified":1684353642,
     "wof:name":"Villa Minozzo",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":3609,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escolca",
+    "eurostat:nuts_2021_id":"111019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111019",
+    "eurostat:population":560,
+    "eurostat:population_year":2020,
     "geom:area":0.001551,
     "geom:area_square_m":14758169.724452,
     "geom:bbox":"9.04631227872,39.6378597193,9.15268520074,39.7122296716",
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111019",
+        "eurostat:nuts_2021_id":"111019",
         "gn:id":6537853,
         "gp:id":12679159,
         "qs_pg:id":268551
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6ace308d8eea81fefe1cf3f96448a90",
+    "wof:geomhash":"c2b5960180439c55209e3818103dc96f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466937,
-    "wof:lastmodified":1582328184,
+    "wof:lastmodified":1684353862,
     "wof:name":"Escolca",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":560,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

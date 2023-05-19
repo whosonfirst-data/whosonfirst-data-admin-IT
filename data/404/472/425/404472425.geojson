@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brisighella",
+    "eurostat:nuts_2021_id":"039004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039004",
+    "eurostat:population":7358,
+    "eurostat:population_year":2020,
     "geom:area":0.021867,
-    "geom:area_square_m":193865701.717087,
+    "geom:area_square_m":193865701.717069,
     "geom:bbox":"11.5838163111,44.0990717004,11.9276436681,44.2779900153",
     "geom:latitude":44.194423,
     "geom:longitude":11.740966,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_039004",
+        "eurostat:nuts_2021_id":"039004",
         "gn:id":6538483,
         "gp:id":12677121,
         "qs_pg:id":39467
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c49c0332af340494b3f06ab49cc8aad",
+    "wof:geomhash":"dad318bca388a060ff9e3d128e1c296d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404472425,
-    "wof:lastmodified":1582327882,
+    "wof:lastmodified":1684353960,
     "wof:name":"Brisighella",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":7358,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Latina",
+    "eurostat:nuts_2021_id":"059011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059011",
+    "eurostat:population":129133,
+    "eurostat:population_year":2020,
     "geom:area":0.029869,
-    "geom:area_square_m":276758827.682087,
+    "geom:area_square_m":276758827.682092,
     "geom:bbox":"12.7196831272,41.3835962767,13.0247627069,41.5618563105",
     "geom:latitude":41.466366,
     "geom:longitude":12.877923,
@@ -95,6 +107,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -103,6 +117,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059011",
+        "eurostat:nuts_2021_id":"059011",
         "gn:id":6542115,
         "gp:id":12675728,
         "qs_pg:id":248603
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01287e014fe6708c2a75e48c1d84b92c",
+    "wof:geomhash":"4d5b4b54b43677ff82237f791288c192",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404461813,
-    "wof:lastmodified":1582328142,
+    "wof:lastmodified":1684353746,
     "wof:name":"Latina",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":129133,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

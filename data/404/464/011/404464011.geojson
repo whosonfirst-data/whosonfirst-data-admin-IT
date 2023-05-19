@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_077016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalbano Jonico",
+    "eurostat:nuts_2021_id":"077016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF52",
+    "eurostat:nuts_2021_level_lau":"077016",
+    "eurostat:population":6988,
+    "eurostat:population_year":2020,
     "geom:area":0.014272,
-    "geom:area_square_m":134582525.129388,
+    "geom:area_square_m":134582525.129384,
     "geom:bbox":"16.4747437427,40.2425690574,16.6890019707,40.3597310921",
     "geom:latitude":40.303919,
     "geom:longitude":16.575281,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_077016",
+        "eurostat:nuts_2021_id":"077016",
         "gn:id":6541278,
         "gp:id":12680436,
         "qs_pg:id":41543
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bff974288590f937e956dcbf33a9a23b",
+    "wof:geomhash":"d4b198fcf5db50284188f572e219ba63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404464011,
-    "wof:lastmodified":1582327802,
+    "wof:lastmodified":1684353794,
     "wof:name":"Montalbano Jonico",
     "wof:parent_id":85685559,
     "wof:placetype":"localadmin",
+    "wof:population":6988,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

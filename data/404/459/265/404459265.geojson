@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mascali",
+    "eurostat:nuts_2021_id":"087023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087023",
+    "eurostat:population":14429,
+    "eurostat:population_year":2020,
     "geom:area":0.003845,
-    "geom:area_square_m":37584673.261164,
+    "geom:area_square_m":37584673.261168,
     "geom:bbox":"15.1105564886,37.7327946937,15.2239038166,37.7934377515",
     "geom:latitude":37.766471,
     "geom:longitude":15.166958,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087023",
+        "eurostat:nuts_2021_id":"087023",
         "gn:id":6539198,
         "gp:id":12676109,
         "qs_pg:id":385989
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dba0450f68f42d0179a41d56ebc01338",
+    "wof:geomhash":"d0d222c42aaf26507d00ea31f5ad47a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459265,
-    "wof:lastmodified":1582328174,
+    "wof:lastmodified":1684353690,
     "wof:name":"Mascali",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":14429,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

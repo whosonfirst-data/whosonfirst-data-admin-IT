@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salerno",
+    "eurostat:nuts_2021_id":"065116",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065116",
+    "eurostat:population":132702,
+    "eurostat:population_year":2020,
     "geom:area":0.006343,
-    "geom:area_square_m":59478262.437363,
+    "geom:area_square_m":59478262.437373,
     "geom:bbox":"14.7340732479,40.6259826999,14.8742539683,40.7269393513",
     "geom:latitude":40.677839,
     "geom:longitude":14.810284,
@@ -245,6 +257,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -252,9 +266,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065116",
+        "eurostat:nuts_2021_id":"065116"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"2efe174d816fdbb9148892d3775c2b35",
+    "wof:geomhash":"0070c8173ec387ba36de4507d5f023a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -265,10 +282,12 @@
         }
     ],
     "wof:id":404465723,
-    "wof:lastmodified":1566723288,
+    "wof:lastmodified":1684353836,
     "wof:name":"Salerno",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":132702,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

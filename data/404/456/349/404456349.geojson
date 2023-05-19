@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chieri",
+    "eurostat:nuts_2021_id":"001078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001078",
+    "eurostat:population":36770,
+    "eurostat:population_year":2020,
     "geom:area":0.006189,
-    "geom:area_square_m":54113450.039653,
+    "geom:area_square_m":54113450.039656,
     "geom:bbox":"7.77526195646,44.9515351287,7.88933514317,45.0620336233",
     "geom:latitude":45.003564,
     "geom:longitude":7.827833,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001078",
+        "eurostat:nuts_2021_id":"001078",
         "gn:id":6539800,
         "gp:id":12678607,
         "qs_pg:id":1059627
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6600ff1ae48574c61f1fbc47f5a19f6",
+    "wof:geomhash":"57e2ae5a0b83f10e0fd9f822e6f76ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404456349,
-    "wof:lastmodified":1582328057,
+    "wof:lastmodified":1684353622,
     "wof:name":"Chieri",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":36770,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

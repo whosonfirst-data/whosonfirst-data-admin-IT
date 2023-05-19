@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_025025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gosaldo",
+    "eurostat:nuts_2021_id":"025025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH33",
+    "eurostat:nuts_2021_level_lau":"025025",
+    "eurostat:population":562,
+    "eurostat:population_year":2020,
     "geom:area":0.005648,
     "geom:area_square_m":48329559.476441,
     "geom:bbox":"11.9096343923,46.1669556421,12.0555552127,46.2489624962",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_025025",
+        "eurostat:nuts_2021_id":"025025",
         "gn:id":6536381,
         "gp:id":12679642,
         "qs_pg:id":242300
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4cab769521ff5b49ccf5ed4e10685fa2",
+    "wof:geomhash":"8094d57acbbb107ead582f0611430aa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469897,
-    "wof:lastmodified":1582328041,
+    "wof:lastmodified":1684353912,
     "wof:name":"Gosaldo",
     "wof:parent_id":85685293,
     "wof:placetype":"localadmin",
+    "wof:population":562,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

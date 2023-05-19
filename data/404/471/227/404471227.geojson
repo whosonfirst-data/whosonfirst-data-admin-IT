@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paspardo",
+    "eurostat:nuts_2021_id":"017135",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017135",
+    "eurostat:population":599,
+    "eurostat:population_year":2020,
     "geom:area":0.001297,
     "geom:area_square_m":11132879.231083,
     "geom:bbox":"10.352784556,46.0263489687,10.4107731161,46.0616148647",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017135",
+        "eurostat:nuts_2021_id":"017135",
         "gn:id":6537176,
         "gp:id":12680941,
         "qs_pg:id":41926
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f59ad7e7ab99f9622b7c0b8360b5886c",
+    "wof:geomhash":"03953a762671bf5a3fdd6b9782b81197",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471227,
-    "wof:lastmodified":1582327712,
+    "wof:lastmodified":1684353936,
     "wof:name":"Paspardo",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":599,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

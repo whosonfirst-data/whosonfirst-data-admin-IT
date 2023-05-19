@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Apollinare",
+    "eurostat:nuts_2021_id":"060067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060067",
+    "eurostat:population":1872,
+    "eurostat:population_year":2020,
     "geom:area":0.001934,
-    "geom:area_square_m":17937506.185058,
+    "geom:area_square_m":17937506.185059,
     "geom:bbox":"13.7966055989,41.3745997792,13.8635850226,41.4234607058",
     "geom:latitude":41.40158,
     "geom:longitude":13.827918,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060067",
+        "eurostat:nuts_2021_id":"060067",
         "gn:id":6542048,
         "qs_pg:id":1063421
     },
@@ -143,7 +159,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6911ee286c5eea3cd172e3e76c7a5c7e",
+    "wof:geomhash":"1b937bd6efe4d268811013bca14d4471",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":404462013,
-    "wof:lastmodified":1582327854,
+    "wof:lastmodified":1684353751,
     "wof:name":"Sant'Apollinare",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":1872,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

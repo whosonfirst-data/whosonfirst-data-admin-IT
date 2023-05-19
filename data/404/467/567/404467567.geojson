@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontevivo",
+    "eurostat:nuts_2021_id":"034016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034016",
+    "eurostat:population":5687,
+    "eurostat:population_year":2020,
     "geom:area":0.002962,
     "geom:area_square_m":25964673.580805,
     "geom:bbox":"10.1587403274,44.8226876487,10.2458448209,44.8718440453",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034016",
+        "eurostat:nuts_2021_id":"034016",
         "gn:id":6540409,
         "gp:id":12676770,
         "qs_pg:id":1193149
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c847c8a8d05fcf2a8997c7328ad30ffc",
+    "wof:geomhash":"c5fc45bfc3627f01b39db19d68824383",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467567,
-    "wof:lastmodified":1582327966,
+    "wof:lastmodified":1684353876,
     "wof:name":"Fontevivo",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":5687,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

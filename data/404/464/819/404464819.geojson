@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ricadi",
+    "eurostat:nuts_2021_id":"102030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102030",
+    "eurostat:population":4976,
+    "eurostat:population_year":2020,
     "geom:area":0.002313,
-    "geom:area_square_m":22343947.10205,
+    "geom:area_square_m":22343947.102045,
     "geom:bbox":"15.8259671713,38.6032488847,15.8871940661,38.6722948225",
     "geom:latitude":38.635924,
     "geom:longitude":15.857602,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102030",
+        "eurostat:nuts_2021_id":"102030"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"319342fa1059b80c0c7285c122927f44",
+    "wof:geomhash":"49a223e595c6eb99b3316e0c8337a443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464819,
-    "wof:lastmodified":1566723216,
+    "wof:lastmodified":1684353817,
     "wof:name":"Ricadi",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":4976,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

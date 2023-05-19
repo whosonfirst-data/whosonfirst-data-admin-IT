@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Martino Siccomario",
+    "eurostat:nuts_2021_id":"018137",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018137",
+    "eurostat:population":6448,
+    "eurostat:population_year":2020,
     "geom:area":0.001637,
     "geom:area_square_m":14270945.459349,
     "geom:bbox":"9.0802257173,45.1368748913,9.14784126102,45.1821301705",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018137",
+        "eurostat:nuts_2021_id":"018137",
         "gn:id":6537203,
         "gp:id":12681702,
         "qs_pg:id":1316725
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1f7fcc9d59804c471c24267646d9439e",
+    "wof:geomhash":"59236f9e3971d971b534032effed0f49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471587,
-    "wof:lastmodified":1582327721,
+    "wof:lastmodified":1684353942,
     "wof:name":"San Martino Siccomario",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":6448,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

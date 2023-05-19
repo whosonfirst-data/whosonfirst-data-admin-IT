@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_097020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cernusco Lombardone",
+    "eurostat:nuts_2021_id":"097020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC43",
+    "eurostat:nuts_2021_level_lau":"097020",
+    "eurostat:population":3859,
+    "eurostat:population_year":2020,
     "geom:area":0.000433,
-    "geom:area_square_m":3736154.766027,
+    "geom:area_square_m":3736154.766028,
     "geom:bbox":"9.37307591989,45.6806591672,9.40856779783,45.7033076559",
     "geom:latitude":45.690854,
     "geom:longitude":9.393813,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_097020",
+        "eurostat:nuts_2021_id":"097020",
         "gn:id":6543668,
         "gp:id":12682609,
         "qs_pg:id":628455
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92504a3a5df3d3f16c1a1a3c557230f8",
+    "wof:geomhash":"6b0bb512ce180c4f9f72924ca034f9b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404469267,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353902,
     "wof:name":"Cernusco Lombardone",
     "wof:parent_id":85685669,
     "wof:placetype":"localadmin",
+    "wof:population":3859,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

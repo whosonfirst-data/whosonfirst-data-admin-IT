@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erula",
+    "eurostat:nuts_2021_id":"090088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090088",
+    "eurostat:population":725,
+    "eurostat:population_year":2020,
     "geom:area":0.004197,
-    "geom:area_square_m":39297320.880683,
+    "geom:area_square_m":39297320.880684,
     "geom:bbox":"8.8915065777,40.7482525636,8.99432189108,40.8154142848",
     "geom:latitude":40.78358,
     "geom:longitude":8.938859,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090088",
+        "eurostat:nuts_2021_id":"090088",
         "gn:id":6541362,
         "gp:id":20076818,
         "qs_pg:id":50949
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c68517b91d769f7520feeeb57a037e4",
+    "wof:geomhash":"721b7daae9d6536fd344fa8790f4a418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404460469,
-    "wof:lastmodified":1582328015,
+    "wof:lastmodified":1684353718,
     "wof:name":"Erula",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":725,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

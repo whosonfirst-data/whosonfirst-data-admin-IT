@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Farra di Soligo",
+    "eurostat:nuts_2021_id":"026026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026026",
+    "eurostat:population":8622,
+    "eurostat:population_year":2020,
     "geom:area":0.003284,
-    "geom:area_square_m":28255221.614282,
+    "geom:area_square_m":28255221.614284,
     "geom:bbox":"12.0547246838,45.8771124055,12.1697328417,45.9300259879",
     "geom:latitude":45.902637,
     "geom:longitude":12.117295,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026026",
+        "eurostat:nuts_2021_id":"026026",
         "gn:id":6541570,
         "gp:id":12679210,
         "qs_pg:id":1195971
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6786fef167b893f68756c19122403e1d",
+    "wof:geomhash":"60a952ff41ace67ecee1c896645d93e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404470051,
-    "wof:lastmodified":1582327755,
+    "wof:lastmodified":1684353915,
     "wof:name":"Farra Di Soligo",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":8622,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

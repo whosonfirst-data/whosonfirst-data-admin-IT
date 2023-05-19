@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni al Natisone",
+    "eurostat:nuts_2021_id":"030101",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030101",
+    "eurostat:population":6096,
+    "eurostat:population_year":2020,
     "geom:area":0.002787,
     "geom:area_square_m":23957967.439058,
     "geom:bbox":"13.3701888721,45.9313382477,13.4428599472,45.999392946",
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030101",
+        "eurostat:nuts_2021_id":"030101",
         "gn:id":6538393,
         "gp:id":12679094,
         "qs_pg:id":317578
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"775140126a66bb9fedf5795d15434641",
+    "wof:geomhash":"c9a6e6925559dd854e13c04dbc82035a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404470663,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353925,
     "wof:name":"San Giovanni Al Natisone",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":6096,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

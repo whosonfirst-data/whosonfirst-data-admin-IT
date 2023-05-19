@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sossano",
+    "eurostat:nuts_2021_id":"024102",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024102",
+    "eurostat:population":4260,
+    "eurostat:population_year":2020,
     "geom:area":0.002399,
-    "geom:area_square_m":20847575.339494,
+    "geom:area_square_m":20847575.339491,
     "geom:bbox":"11.48698226,45.3142884846,11.5641092334,45.3846650024",
     "geom:latitude":45.351676,
     "geom:longitude":11.516232,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024102",
+        "eurostat:nuts_2021_id":"024102",
         "gn:id":6540987,
         "gp:id":12682060,
         "qs_pg:id":1004490
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b988d9f57d0997df8f113e7a2a32e32",
+    "wof:geomhash":"db16bba8f75a10fe2997b96cda3f2e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404463727,
-    "wof:lastmodified":1582327790,
+    "wof:lastmodified":1684353785,
     "wof:name":"Sossano",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":4260,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

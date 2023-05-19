@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gambettola",
+    "eurostat:nuts_2021_id":"040015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040015",
+    "eurostat:population":10719,
+    "eurostat:population_year":2020,
     "geom:area":0.000873,
-    "geom:area_square_m":7748721.102299,
+    "geom:area_square_m":7748721.102301,
     "geom:bbox":"12.322331944,44.104205651,12.3704439834,44.1329140547",
     "geom:latitude":44.118176,
     "geom:longitude":12.347877,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040015",
+        "eurostat:nuts_2021_id":"040015",
         "gn:id":6538489,
         "gp:id":12679489,
         "qs_pg:id":1317123
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fcd80a00e1b5d557cd4fda5d631af0a0",
+    "wof:geomhash":"07e681762a10e233929b6085f80c11a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472485,
-    "wof:lastmodified":1582327881,
+    "wof:lastmodified":1684353962,
     "wof:name":"Gambettola",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":10719,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

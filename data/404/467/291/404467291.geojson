@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Las Plassas",
+    "eurostat:nuts_2021_id":"111037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111037",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.00116,
-    "geom:area_square_m":11040461.182155,
+    "geom:area_square_m":11040461.182156,
     "geom:bbox":"8.95597942187,39.6564555081,9.01419301163,39.6936458287",
     "geom:latitude":39.674718,
     "geom:longitude":8.979033,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111037",
+        "eurostat:nuts_2021_id":"111037",
         "gn:id":6539287,
         "gp:id":12679878,
         "qs_pg:id":246633
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f225bf78fe46fc0b5295a3456411286",
+    "wof:geomhash":"f39f15725970ca111b6fcd17a43e5a38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467291,
-    "wof:lastmodified":1582327986,
+    "wof:lastmodified":1684353871,
     "wof:name":"Las Plassas",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

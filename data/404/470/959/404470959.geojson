@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berzo Demo",
+    "eurostat:nuts_2021_id":"017016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017016",
+    "eurostat:population":1582,
+    "eurostat:population_year":2020,
     "geom:area":0.0018,
-    "geom:area_square_m":15434448.485272,
+    "geom:area_square_m":15434448.485271,
     "geom:bbox":"10.3081569172,46.0805927931,10.3876508701,46.1255465531",
     "geom:latitude":46.103127,
     "geom:longitude":10.343299,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017016",
+        "eurostat:nuts_2021_id":"017016",
         "gn:id":3182121,
         "gp:id":12676744,
         "qs_pg:id":49130
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c131498fb98e664e12720449a18deb1",
+    "wof:geomhash":"4ecd170c6251590e8016e1dd2b9f198f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470959,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353930,
     "wof:name":"Berzo Demo",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1582,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarentino/Sarntal",
+    "eurostat:nuts_2021_id":"021086",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021086",
+    "eurostat:population":7160,
+    "eurostat:population_year":2020,
     "geom:area":0.035561,
-    "geom:area_square_m":301496666.893888,
+    "geom:area_square_m":301496666.893878,
     "geom:bbox":"11.273249497,46.5699346734,11.5120923143,46.8204049381",
     "geom:latitude":46.711846,
     "geom:longitude":11.38668,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021086",
+        "eurostat:nuts_2021_id":"021086",
         "gp:id":12675714,
         "qs_pg:id":1301630
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e90dc281af6d0f141f99467fb3b43843",
+    "wof:geomhash":"f177f1882ce6278287e6470852e2a874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473235,
-    "wof:lastmodified":1582327918,
+    "wof:lastmodified":1684353983,
     "wof:name":"Sarentino",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":7160,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

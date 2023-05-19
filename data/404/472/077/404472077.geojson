@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferriere",
+    "eurostat:nuts_2021_id":"033020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033020",
+    "eurostat:population":1157,
+    "eurostat:population_year":2020,
     "geom:area":0.020259,
-    "geom:area_square_m":178264205.433021,
+    "geom:area_square_m":178264205.433015,
     "geom:bbox":"9.38502842733,44.5558556716,9.60233307661,44.6999443538",
     "geom:latitude":44.63309,
     "geom:longitude":9.487718,
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033020",
+        "eurostat:nuts_2021_id":"033020",
         "gn:id":6540265,
         "gp:id":12677142,
         "qs_pg:id":1293014
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e9b331fe8c0f3701a7d1faa3ad10a8f",
+    "wof:geomhash":"a065f97e911bc554bda5c48235f6c413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404472077,
-    "wof:lastmodified":1582327882,
+    "wof:lastmodified":1684353951,
     "wof:name":"Ferriere",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":1157,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

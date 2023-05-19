@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cusano Milanino",
+    "eurostat:nuts_2021_id":"015098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015098",
+    "eurostat:population":18944,
+    "eurostat:population_year":2020,
     "geom:area":0.000355,
     "geom:area_square_m":3077054.466478,
     "geom:bbox":"9.168209,45.54292,9.19948,45.562113",
@@ -137,14 +149,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227497,
-        85685243
+        85685243,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015098",
+        "eurostat:nuts_2021_id":"015098",
         "gn:id":6537115,
         "gp:id":12679047,
         "qs_pg:id":894284
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e011e0156bdc06be83d6d8dfaa8661f",
+    "wof:geomhash":"0f65d9cec1e19db348368aa81850dd2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468403,
-    "wof:lastmodified":1608041560,
+    "wof:lastmodified":1684353888,
     "wof:name":"Cusano Milanino",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":18944,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

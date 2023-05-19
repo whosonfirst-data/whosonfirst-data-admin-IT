@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaprio d'Agogna",
+    "eurostat:nuts_2021_id":"003153",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003153",
+    "eurostat:population":976,
+    "eurostat:population_year":2020,
     "geom:area":0.001156,
     "geom:area_square_m":9997121.661726,
     "geom:bbox":"8.51801384357,45.5888660415,8.58865403139,45.6187657402",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003153",
+        "eurostat:nuts_2021_id":"003153",
         "gn:id":6538138,
         "gp:id":12682368,
         "qs_pg:id":1164924
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7be2498739fae7a28c8c3ac4a0a71e1b",
+    "wof:geomhash":"0da9b1473ce973ab044dbebb739305e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457833,
-    "wof:lastmodified":1582328104,
+    "wof:lastmodified":1684353657,
     "wof:name":"Vaprio D'Agogna",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":976,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

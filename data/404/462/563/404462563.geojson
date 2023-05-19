@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglione Messer Marino",
+    "eurostat:nuts_2021_id":"069020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069020",
+    "eurostat:population":1627,
+    "eurostat:population_year":2020,
     "geom:area":0.005182,
-    "geom:area_square_m":47713384.431764,
+    "geom:area_square_m":47713384.431779,
     "geom:bbox":"14.3758453072,41.834383133,14.5179594212,41.9097212403",
     "geom:latitude":41.871341,
     "geom:longitude":14.444012,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069020",
+        "eurostat:nuts_2021_id":"069020",
         "gn:id":6538873,
         "gp:id":12678362,
         "qs_pg:id":40248
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8676a22f55672e127df02826a48fceee",
+    "wof:geomhash":"bcef9dfa91d1597b425964af9a7a388b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462563,
-    "wof:lastmodified":1582327864,
+    "wof:lastmodified":1684353761,
     "wof:name":"Castiglione Messer Marino",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":1627,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

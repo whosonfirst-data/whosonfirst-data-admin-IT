@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016246",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zogno",
+    "eurostat:nuts_2021_id":"016246",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016246",
+    "eurostat:population":8801,
+    "eurostat:population_year":2020,
     "geom:area":0.004078,
-    "geom:area_square_m":35156084.076951,
+    "geom:area_square_m":35156084.076953,
     "geom:bbox":"9.62476562665,45.7635763586,9.73156895974,45.8292032031",
     "geom:latitude":45.794374,
     "geom:longitude":9.680213,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016246",
+        "eurostat:nuts_2021_id":"016246",
         "gn:id":6540603,
         "gp:id":12682077,
         "qs_pg:id":793320
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e9748d83c9c8c4caae1ecd7187c79157",
+    "wof:geomhash":"0d7ea5dbaded463c32fe699f0f7762f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404470911,
-    "wof:lastmodified":1582327755,
+    "wof:lastmodified":1684353930,
     "wof:name":"Zogno",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":8801,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boca",
+    "eurostat:nuts_2021_id":"003019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003019",
+    "eurostat:population":1152,
+    "eurostat:population_year":2020,
     "geom:area":0.00111,
-    "geom:area_square_m":9593003.641346,
+    "geom:area_square_m":9593003.641347,
     "geom:bbox":"8.37377523025,45.6590112944,8.44319068452,45.7034646113",
     "geom:latitude":45.680963,
     "geom:longitude":8.407813,
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003019",
+        "eurostat:nuts_2021_id":"003019",
         "gn:id":6543419,
         "gp:id":20075706,
         "qs_pg:id":1198639
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd6d8789cf32b289ad69bd3cd992b3b1",
+    "wof:geomhash":"9d3934c35830585b2256769fc438f216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404457663,
-    "wof:lastmodified":1582328115,
+    "wof:lastmodified":1684353655,
     "wof:name":"Boca",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":1152,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

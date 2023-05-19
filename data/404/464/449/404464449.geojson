@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soverato",
+    "eurostat:nuts_2021_id":"079137",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079137",
+    "eurostat:population":8981,
+    "eurostat:population_year":2020,
     "geom:area":0.000799,
     "geom:area_square_m":7711384.08241,
     "geom:bbox":"16.5057830479,38.6776293756,16.558716426,38.7061186458",
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079137",
+        "eurostat:nuts_2021_id":"079137"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"9f710f5e589b026dee5d13a1586ef706",
+    "wof:geomhash":"4ba73fa39db4d66426e657df705feb21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464449,
-    "wof:lastmodified":1566723214,
+    "wof:lastmodified":1684353806,
     "wof:name":"Soverato",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":8981,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

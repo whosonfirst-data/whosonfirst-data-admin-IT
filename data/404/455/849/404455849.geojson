@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sommariva Perno",
+    "eurostat:nuts_2021_id":"004223",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004223",
+    "eurostat:population":2723,
+    "eurostat:population_year":2020,
     "geom:area":0.001943,
-    "geom:area_square_m":17068214.789464,
+    "geom:area_square_m":17068214.789463,
     "geom:bbox":"7.83575263633,44.7088189574,7.93566844034,44.7807892599",
     "geom:latitude":44.745619,
     "geom:longitude":7.888896,
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004223",
+        "eurostat:nuts_2021_id":"004223"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"469abd0459a25cd068b23d966b11d378",
+    "wof:geomhash":"930eb599daef55528d4055de4feec097",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404455849,
-    "wof:lastmodified":1566723265,
+    "wof:lastmodified":1684353612,
     "wof:name":"Sommariva Perno",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2723,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

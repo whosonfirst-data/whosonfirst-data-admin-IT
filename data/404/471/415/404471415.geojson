@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dorno",
+    "eurostat:nuts_2021_id":"018061",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018061",
+    "eurostat:population":4615,
+    "eurostat:population_year":2020,
     "geom:area":0.0035,
-    "geom:area_square_m":30524585.834015,
+    "geom:area_square_m":30524585.834017,
     "geom:bbox":"8.89570635789,45.1131268091,8.99682880552,45.1797379792",
     "geom:latitude":45.148659,
     "geom:longitude":8.952675,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018061",
+        "eurostat:nuts_2021_id":"018061",
         "gn:id":6539499,
         "gp:id":12679115,
         "qs_pg:id":40696
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fb2e24669a1c1268a53207c218fd03f",
+    "wof:geomhash":"b624ba4b8f9226b5f862ddd421d9f3ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404471415,
-    "wof:lastmodified":1582327714,
+    "wof:lastmodified":1684353939,
     "wof:name":"Dorno",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":4615,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Donato Milanese",
+    "eurostat:nuts_2021_id":"015192",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015192",
+    "eurostat:population":32844,
+    "eurostat:population_year":2020,
     "geom:area":0.001481,
     "geom:area_square_m":12857442.949273,
     "geom:bbox":"9.21486604948,45.3891518038,9.30138493166,45.4377647505",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015192",
+        "eurostat:nuts_2021_id":"015192",
         "gn:id":6537131,
         "gp:id":12681609,
         "qs_pg:id":1118725
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"26110dabfdae35aa17e1fdf782700b27",
+    "wof:geomhash":"a3d90dae34ce974a47211b4cacb8d15d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404468531,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353890,
     "wof:name":"San Donato Milanese",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":32844,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

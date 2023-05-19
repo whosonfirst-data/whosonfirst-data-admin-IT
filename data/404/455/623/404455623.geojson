@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melle",
+    "eurostat:nuts_2021_id":"004122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004122",
+    "eurostat:population":284,
+    "eurostat:population_year":2020,
     "geom:area":0.003161,
-    "geom:area_square_m":27858872.618812,
+    "geom:area_square_m":27858872.618814,
     "geom:bbox":"7.26798193027,44.5139392546,7.35057968191,44.5814820753",
     "geom:latitude":44.547581,
     "geom:longitude":7.308851,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004122",
+        "eurostat:nuts_2021_id":"004122",
         "gn:id":6538154,
         "gp:id":20075773,
         "qs_pg:id":1149864
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d83617927e5428b835a9459e2bea45f0",
+    "wof:geomhash":"1bb0fbec997b7455d7b914cf5ac44a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404455623,
-    "wof:lastmodified":1582327818,
+    "wof:lastmodified":1684353607,
     "wof:name":"Melle",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":284,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

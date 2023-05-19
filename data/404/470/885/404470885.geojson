@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vertova",
+    "eurostat:nuts_2021_id":"016234",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016234",
+    "eurostat:population":4553,
+    "eurostat:population_year":2020,
     "geom:area":0.001819,
-    "geom:area_square_m":15668846.454464,
+    "geom:area_square_m":15668846.454463,
     "geom:bbox":"9.76949023801,45.8031508603,9.85990170136,45.8581209415",
     "geom:latitude":45.828683,
     "geom:longitude":9.813834,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016234",
+        "eurostat:nuts_2021_id":"016234",
         "gn:id":6541523,
         "gp:id":12682398,
         "qs_pg:id":42992
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"931c834fe77042fab60d2192f2195fa2",
+    "wof:geomhash":"6ed9f57dbd1c40c1bc4c4f424933ab17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470885,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353929,
     "wof:name":"Vertova",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":4553,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

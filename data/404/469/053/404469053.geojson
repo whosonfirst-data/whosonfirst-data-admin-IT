@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trigolo",
+    "eurostat:nuts_2021_id":"019110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019110",
+    "eurostat:population":1688,
+    "eurostat:population_year":2020,
     "geom:area":0.001845,
-    "geom:area_square_m":16036287.697488,
+    "geom:area_square_m":16036287.697483,
     "geom:bbox":"9.79060042515,45.2982292263,9.84506106969,45.3565285568",
     "geom:latitude":45.326603,
     "geom:longitude":9.818109,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019110",
+        "eurostat:nuts_2021_id":"019110",
         "gn:id":6541594,
         "gp:id":12682275,
         "qs_pg:id":1044370
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7828d41fbdb983f904931adaafd06c7c",
+    "wof:geomhash":"7f4d748c25600afe8888fc67da06f453",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469053,
-    "wof:lastmodified":1582328028,
+    "wof:lastmodified":1684353898,
     "wof:name":"Trigolo",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":1688,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

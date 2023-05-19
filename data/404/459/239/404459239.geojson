@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caltagirone",
+    "eurostat:nuts_2021_id":"087011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087011",
+    "eurostat:population":37355,
+    "eurostat:population_year":2020,
     "geom:area":0.038708,
-    "geom:area_square_m":381294203.398615,
+    "geom:area_square_m":381294203.398562,
     "geom:bbox":"14.3736644367,37.0501237423,14.663987463,37.3091165563",
     "geom:latitude":37.190896,
     "geom:longitude":14.511966,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087011",
+        "eurostat:nuts_2021_id":"087011",
         "gn:id":6541967,
         "gp:id":12677338,
         "qs_pg:id":1292125
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4cff20540db26c328023b14807e4793b",
+    "wof:geomhash":"1260f787adba603a765dc9731e447ddd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404459239,
-    "wof:lastmodified":1582328174,
+    "wof:lastmodified":1684353689,
     "wof:name":"Caltagirone",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":37355,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

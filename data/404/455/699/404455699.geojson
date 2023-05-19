@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostana",
+    "eurostat:nuts_2021_id":"004156",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004156",
+    "eurostat:population":89,
+    "eurostat:population_year":2020,
     "geom:area":0.0016,
-    "geom:area_square_m":14062274.36081,
+    "geom:area_square_m":14062274.360811,
     "geom:bbox":"7.16894160683,44.6832643897,7.22413251911,44.7337242246",
     "geom:latitude":44.707209,
     "geom:longitude":7.192936,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004156",
+        "eurostat:nuts_2021_id":"004156",
         "gn:id":6542435,
         "gp:id":20075784,
         "qs_pg:id":978336
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2831faa4a0ed95a020f0654c84b2c5c4",
+    "wof:geomhash":"0522b0c216e6edf8f011699c473333cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455699,
-    "wof:lastmodified":1582327820,
+    "wof:lastmodified":1684353609,
     "wof:name":"Ostana",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

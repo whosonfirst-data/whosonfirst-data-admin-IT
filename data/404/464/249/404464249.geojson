@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paola",
+    "eurostat:nuts_2021_id":"078091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078091",
+    "eurostat:population":15505,
+    "eurostat:population_year":2020,
     "geom:area":0.004444,
-    "geom:area_square_m":42490346.425882,
+    "geom:area_square_m":42490346.425881,
     "geom:bbox":"16.0203340884,39.3220193169,16.0980952665,39.3985995877",
     "geom:latitude":39.361475,
     "geom:longitude":16.06242,
@@ -35,6 +47,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -42,9 +56,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078091",
+        "eurostat:nuts_2021_id":"078091"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bc0f8307613b92bb4ef06b41a662c545",
+    "wof:geomhash":"5bd1671ff1bc1130a116c955d42c228f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,10 +72,12 @@
         }
     ],
     "wof:id":404464249,
-    "wof:lastmodified":1566723238,
+    "wof:lastmodified":1684353801,
     "wof:name":"Paola",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":15505,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piacenza",
+    "eurostat:nuts_2021_id":"033032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033032",
+    "eurostat:population":104315,
+    "eurostat:population_year":2020,
     "geom:area":0.013512,
-    "geom:area_square_m":118059149.89555,
+    "geom:area_square_m":118059179.365383,
     "geom:bbox":"9.599786,44.992314,9.823869,45.113506",
     "geom:latitude":45.041408,
     "geom:longitude":9.717855,
@@ -293,6 +305,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -301,6 +315,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033032",
+        "eurostat:nuts_2021_id":"033032",
         "gn:id":6542025,
         "gp:id":12680607,
         "qs_pg:id":1150726
@@ -309,7 +325,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d85318d2b573a4508637ec74dba5e5f",
+    "wof:geomhash":"8d469c90479a8be14032bd286fee405e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,10 +336,12 @@
         }
     ],
     "wof:id":404472103,
-    "wof:lastmodified":1636496850,
+    "wof:lastmodified":1684353952,
     "wof:name":"Piacenza",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":104315,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

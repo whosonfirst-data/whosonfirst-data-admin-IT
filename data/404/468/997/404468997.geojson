@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Robecco d'Oglio",
+    "eurostat:nuts_2021_id":"019085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019085",
+    "eurostat:population":2287,
+    "eurostat:population_year":2020,
     "geom:area":0.002061,
-    "geom:area_square_m":17934840.3029,
+    "geom:area_square_m":17934840.302899,
     "geom:bbox":"10.0243623778,45.2329109836,10.1007396708,45.2814648251",
     "geom:latitude":45.25798,
     "geom:longitude":10.05942,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_019085",
+        "eurostat:nuts_2021_id":"019085"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"50c59c1e5ea2e8c49f6ad2dbffc69b13",
+    "wof:geomhash":"605a05cc3670b48885d1bb155d40c919",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404468997,
-    "wof:lastmodified":1566723615,
+    "wof:lastmodified":1684353897,
     "wof:name":"Robecco D'Oglio",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":2287,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rapagnano",
+    "eurostat:nuts_2021_id":"109035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109035",
+    "eurostat:population":2003,
+    "eurostat:population_year":2020,
     "geom:area":0.001396,
-    "geom:area_square_m":12590554.534249,
+    "geom:area_square_m":12590554.534251,
     "geom:bbox":"13.5782423601,43.1369304172,13.6375097299,43.175894872",
     "geom:latitude":43.158263,
     "geom:longitude":13.607563,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109035",
+        "eurostat:nuts_2021_id":"109035",
         "gn:id":6541640,
         "gp:id":12681325,
         "qs_pg:id":1019700
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba8199511003236cb738449eb0c9488c",
+    "wof:geomhash":"a51a40854740f32b95286c1504cb350e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461205,
-    "wof:lastmodified":1582328132,
+    "wof:lastmodified":1684353734,
     "wof:name":"Rapagnano",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":2003,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

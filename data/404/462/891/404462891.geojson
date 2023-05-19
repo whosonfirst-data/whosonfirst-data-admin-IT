@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_094023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isernia",
+    "eurostat:nuts_2021_id":"094023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF21",
+    "eurostat:nuts_2021_level_lau":"094023",
+    "eurostat:population":21585,
+    "eurostat:population_year":2020,
     "geom:area":0.00744,
-    "geom:area_square_m":68791557.378795,
+    "geom:area_square_m":68791557.378817,
     "geom:bbox":"14.161645691,41.5464916222,14.2771121606,41.6757250502",
     "geom:latitude":41.607203,
     "geom:longitude":14.216252,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_094023",
+        "eurostat:nuts_2021_id":"094023",
         "gn:id":6540113,
         "gp:id":12678327,
         "qs_pg:id":1301888
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddbc43a27b13baa18d14c6af916ff942",
+    "wof:geomhash":"51065e7005a71ef774ba40f05dfa4cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404462891,
-    "wof:lastmodified":1582327870,
+    "wof:lastmodified":1684353768,
     "wof:name":"Isernia",
     "wof:parent_id":85685653,
     "wof:placetype":"localadmin",
+    "wof:population":21585,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

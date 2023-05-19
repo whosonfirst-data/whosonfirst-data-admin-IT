@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ottana",
+    "eurostat:nuts_2021_id":"091070",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091070",
+    "eurostat:population":2254,
+    "eurostat:population_year":2020,
     "geom:area":0.004773,
-    "geom:area_square_m":45060329.596114,
+    "geom:area_square_m":45060329.596116,
     "geom:bbox":"8.99023859269,40.1794190951,9.08598548101,40.2696944598",
     "geom:latitude":40.226388,
     "geom:longitude":9.038598,
@@ -167,6 +179,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -174,9 +188,12 @@
         404227535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_091070",
+        "eurostat:nuts_2021_id":"091070"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"80c4537a8f8af4340b4a790650e2cf64",
+    "wof:geomhash":"31921eda467ae1467a6522661a6c19d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,10 +204,12 @@
         }
     ],
     "wof:id":404460561,
-    "wof:lastmodified":1566723502,
+    "wof:lastmodified":1684353721,
     "wof:name":"Ottana",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":2254,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

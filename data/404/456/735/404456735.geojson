@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ricaldone",
+    "eurostat:nuts_2021_id":"006143",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006143",
+    "eurostat:population":640,
+    "eurostat:population_year":2020,
     "geom:area":0.001196,
-    "geom:area_square_m":10501332.487804,
+    "geom:area_square_m":10501332.487805,
     "geom:bbox":"8.45110698184,44.7024415105,8.50491980391,44.783236982",
     "geom:latitude":44.736769,
     "geom:longitude":8.474777,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006143",
+        "eurostat:nuts_2021_id":"006143",
         "gn:id":3169434,
         "gp:id":20075936,
         "qs_pg:id":1289750
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2b7a41ad5c9c16ec8d66571318f7613",
+    "wof:geomhash":"1fbb31de28a50773386957c4a72df578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404456735,
-    "wof:lastmodified":1582328061,
+    "wof:lastmodified":1684353631,
     "wof:name":"Ricaldone",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

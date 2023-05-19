@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Valtravaglia",
+    "eurostat:nuts_2021_id":"012114",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012114",
+    "eurostat:population":2330,
+    "eurostat:population_year":2020,
     "geom:area":0.001902,
-    "geom:area_square_m":16347340.169416,
+    "geom:area_square_m":16347340.169419,
     "geom:bbox":"8.65414232299,45.9287531259,8.73012932775,45.9868765185",
     "geom:latitude":45.959479,
     "geom:longitude":8.696275,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012114",
+        "eurostat:nuts_2021_id":"012114",
         "gn:id":6537083,
         "gp:id":12681239,
         "qs_pg:id":1143287
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"975cf5324690dab89dd66c6b7f5aff3e",
+    "wof:geomhash":"0293a4c5947acd676fa992a38b738d7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467867,
-    "wof:lastmodified":1582327974,
+    "wof:lastmodified":1684353881,
     "wof:name":"Porto Valtravaglia",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":2330,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

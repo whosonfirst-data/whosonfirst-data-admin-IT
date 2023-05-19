@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piancastagnaio",
+    "eurostat:nuts_2021_id":"052020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052020",
+    "eurostat:population":4064,
+    "eurostat:population_year":2020,
     "geom:area":0.007662,
-    "geom:area_square_m":69485537.486366,
+    "geom:area_square_m":69485537.486362,
     "geom:bbox":"11.6234419014,42.785725642,11.7689984386,42.8642208593",
     "geom:latitude":42.823988,
     "geom:longitude":11.692142,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052020",
+        "eurostat:nuts_2021_id":"052020",
         "gn:id":6536852,
         "gp:id":12677881,
         "qs_pg:id":247810
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90d1f7526b11e5400359d8a9385faf29",
+    "wof:geomhash":"049305878f0f5a9c57156ab89acf1caf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463841,
-    "wof:lastmodified":1582327780,
+    "wof:lastmodified":1684353787,
     "wof:name":"Piancastagnaio",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":4064,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

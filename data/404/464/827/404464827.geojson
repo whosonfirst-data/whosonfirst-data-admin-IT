@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Gregorio d'Ippona",
+    "eurostat:nuts_2021_id":"102034",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102034",
+    "eurostat:population":2631,
+    "eurostat:population_year":2020,
     "geom:area":0.001286,
-    "geom:area_square_m":12418726.826432,
+    "geom:area_square_m":12418726.826434,
     "geom:bbox":"16.0706244192,38.6305205783,16.1425930219,38.6684116552",
     "geom:latitude":38.647078,
     "geom:longitude":16.103882,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102034",
+        "eurostat:nuts_2021_id":"102034"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8f4baee749b378f1b6d0db99f8fe146e",
+    "wof:geomhash":"59b15b8bd1c155c9e968bbfe4f5f91f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464827,
-    "wof:lastmodified":1566723213,
+    "wof:lastmodified":1684353817,
     "wof:name":"San Gregorio D'Ippona",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":2631,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

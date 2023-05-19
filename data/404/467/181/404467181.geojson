@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Budoni",
+    "eurostat:nuts_2021_id":"090091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090091",
+    "eurostat:population":5299,
+    "eurostat:population_year":2020,
     "geom:area":0.005788,
-    "geom:area_square_m":54255576.814257,
+    "geom:area_square_m":54255576.814248,
     "geom:bbox":"9.62417393163,40.6579747932,9.7677601165,40.7519096814",
     "geom:latitude":40.704001,
     "geom:longitude":9.687678,
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090091",
+        "eurostat:nuts_2021_id":"090091",
         "gn:id":6543650,
         "gp:id":20076822,
         "qs_pg:id":1298666
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce35dfcab559bdd1d0e7d23669c958be",
+    "wof:geomhash":"d50589e6808facda489b46630418c7fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404467181,
-    "wof:lastmodified":1582327978,
+    "wof:lastmodified":1684353867,
     "wof:name":"Budoni",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":5299,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

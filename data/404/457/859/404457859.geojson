@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arguello",
+    "eurostat:nuts_2021_id":"004007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004007",
+    "eurostat:population":200,
+    "eurostat:population_year":2020,
     "geom:area":0.000558,
     "geom:area_square_m":4910647.371425,
     "geom:bbox":"8.06953003433,44.5760410877,8.12481130794,44.600601977",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004007",
+        "eurostat:nuts_2021_id":"004007",
         "gn:id":6543808,
         "gp:id":20075728,
         "qs_pg:id":1158770
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc0aa5f1a041143212bc24d67f778dff",
+    "wof:geomhash":"097c42139c8602f5024268e5250405ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457859,
-    "wof:lastmodified":1582328101,
+    "wof:lastmodified":1684353658,
     "wof:name":"Arguello",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

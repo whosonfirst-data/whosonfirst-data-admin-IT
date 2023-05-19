@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carinaro",
+    "eurostat:nuts_2021_id":"061016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061016",
+    "eurostat:population":7083,
+    "eurostat:population_year":2020,
     "geom:area":0.000673,
     "geom:area_square_m":6283262.607497,
     "geom:bbox":"14.2119710913,40.9781144741,14.2440508684,41.0318922579",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061016",
+        "eurostat:nuts_2021_id":"061016",
         "gn:id":6543606,
         "gp:id":12682587,
         "qs_pg:id":1164406
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75cacaecf53c0ac54db284d9de0fb54e",
+    "wof:geomhash":"49846174058d035c8a6983c6eb24f216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462991,
-    "wof:lastmodified":1582327850,
+    "wof:lastmodified":1684353770,
     "wof:name":"Carinaro",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":7083,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

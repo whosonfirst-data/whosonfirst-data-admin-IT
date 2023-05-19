@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mantello",
+    "eurostat:nuts_2021_id":"014039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014039",
+    "eurostat:population":742,
+    "eurostat:population_year":2020,
     "geom:area":0.000441,
     "geom:area_square_m":3778129.185798,
     "geom:bbox":"9.46372571482,46.1398127265,9.49884789094,46.1744953157",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014039",
+        "eurostat:nuts_2021_id":"014039",
         "gn:id":6543119,
         "gp:id":20076138,
         "qs_pg:id":968294
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34384cdd929dfecbcd24178e6d2ff538",
+    "wof:geomhash":"fff4d0432b0e5094712156a76c2a744a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404468201,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353885,
     "wof:name":"Mantello",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":742,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

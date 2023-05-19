@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vailate",
+    "eurostat:nuts_2021_id":"019112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019112",
+    "eurostat:population":4527,
+    "eurostat:population_year":2020,
     "geom:area":0.001116,
     "geom:area_square_m":9678110.792227,
     "geom:bbox":"9.57690112168,45.4387245306,9.62666445475,45.4760537248",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019112",
+        "eurostat:nuts_2021_id":"019112",
         "gn:id":6537228,
         "gp:id":12682323,
         "qs_pg:id":1275603
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"915b280e074a9cce867af40e624632a3",
+    "wof:geomhash":"2aba20d9ffe9a39d2bd66f891a8ceb60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404469057,
-    "wof:lastmodified":1582328040,
+    "wof:lastmodified":1684353898,
     "wof:name":"Vailate",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":4527,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

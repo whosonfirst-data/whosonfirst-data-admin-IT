@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reggello",
+    "eurostat:nuts_2021_id":"048035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048035",
+    "eurostat:population":16625,
+    "eurostat:population_year":2020,
     "geom:area":0.013583,
-    "geom:area_square_m":121432237.993836,
+    "geom:area_square_m":121432237.993844,
     "geom:bbox":"11.44900501,43.6261003864,11.6117855938,43.768079052",
     "geom:latitude":43.696578,
     "geom:longitude":11.520622,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048035",
+        "eurostat:nuts_2021_id":"048035",
         "gn:id":6536825,
         "gp:id":12679112,
         "qs_pg:id":240916
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4e33ac31f133019b0c64575bd6aad0c",
+    "wof:geomhash":"4dc77cc2acf1d3f285265b9cc49299ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472805,
-    "wof:lastmodified":1582327889,
+    "wof:lastmodified":1684353970,
     "wof:name":"Reggello",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":16625,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

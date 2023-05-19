@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Paolo",
+    "eurostat:nuts_2021_id":"017138",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017138",
+    "eurostat:population":4495,
+    "eurostat:population_year":2020,
     "geom:area":0.002163,
-    "geom:area_square_m":18787770.287138,
+    "geom:area_square_m":18787770.28714,
     "geom:bbox":"9.99097518179,45.3478766828,10.0736367801,45.3974655006",
     "geom:latitude":45.374524,
     "geom:longitude":10.028445,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017138",
+        "eurostat:nuts_2021_id":"017138",
         "gn:id":6539627,
         "gp:id":12680966,
         "qs_pg:id":204148
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea5167576e02dd89ed185feeb321ac0b",
+    "wof:geomhash":"0284e15e732c7b0f64e7a41aa00c0446",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404471233,
-    "wof:lastmodified":1582327718,
+    "wof:lastmodified":1684353936,
     "wof:name":"San Paolo",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4495,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

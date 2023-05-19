@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_056023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corchiano",
+    "eurostat:nuts_2021_id":"056023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI41",
+    "eurostat:nuts_2021_level_lau":"056023",
+    "eurostat:population":3672,
+    "eurostat:population_year":2020,
     "geom:area":0.003605,
-    "geom:area_square_m":32944462.907361,
+    "geom:area_square_m":32944462.907357,
     "geom:bbox":"12.3146192652,42.3202782708,12.4248510446,42.3945922586",
     "geom:latitude":42.353738,
     "geom:longitude":12.361608,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_056023",
+        "eurostat:nuts_2021_id":"056023",
         "gn:id":6536903,
         "gp:id":12678893,
         "qs_pg:id":1194944
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e0b01f7ca6a217eec0e867f8aec3713",
+    "wof:geomhash":"671aadc83528a57e1402a042fcbacc8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461267,
-    "wof:lastmodified":1582328131,
+    "wof:lastmodified":1684353735,
     "wof:name":"Corchiano",
     "wof:parent_id":85685451,
     "wof:placetype":"localadmin",
+    "wof:population":3672,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

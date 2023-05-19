@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carunchio",
+    "eurostat:nuts_2021_id":"069012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069012",
+    "eurostat:population":631,
+    "eurostat:population_year":2020,
     "geom:area":0.003519,
-    "geom:area_square_m":32375841.205604,
+    "geom:area_square_m":32375841.20561,
     "geom:bbox":"14.5007716296,41.8769101221,14.5836130197,41.9610992354",
     "geom:latitude":41.920126,
     "geom:longitude":14.532441,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069012",
+        "eurostat:nuts_2021_id":"069012",
         "gn:id":6538872,
         "gp:id":12677751,
         "qs_pg:id":39845
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f93577e84bf17342ddaf683545081605",
+    "wof:geomhash":"4cd22aa42777a59d0f3ebc35483c8b79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462545,
-    "wof:lastmodified":1582327862,
+    "wof:lastmodified":1684353760,
     "wof:name":"Carunchio",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":631,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

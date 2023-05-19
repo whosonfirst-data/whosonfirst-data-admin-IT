@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Copiano",
+    "eurostat:nuts_2021_id":"018053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018053",
+    "eurostat:population":1772,
+    "eurostat:population_year":2020,
     "geom:area":0.000497,
-    "geom:area_square_m":4334073.265592,
+    "geom:area_square_m":4334073.265593,
     "geom:bbox":"9.31506705719,45.1815718386,9.35274529096,45.2072941357",
     "geom:latitude":45.195553,
     "geom:longitude":9.331531,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018053",
+        "eurostat:nuts_2021_id":"018053",
         "gn:id":6539497,
         "gp:id":12678887,
         "qs_pg:id":1012862
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bd357d3d7219dd4892fe7dabeb258fb",
+    "wof:geomhash":"29dad09f7b1d556ab08595e290f01be5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471397,
-    "wof:lastmodified":1582327711,
+    "wof:lastmodified":1684353939,
     "wof:name":"Copiano",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":1772,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laurito",
+    "eurostat:nuts_2021_id":"065062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065062",
+    "eurostat:population":745,
+    "eurostat:population_year":2020,
     "geom:area":0.002124,
-    "geom:area_square_m":20070412.897817,
+    "geom:area_square_m":20070412.897819,
     "geom:bbox":"15.365487929,40.1355281672,15.4348536421,40.2060718205",
     "geom:latitude":40.167393,
     "geom:longitude":15.399362,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065062",
+        "eurostat:nuts_2021_id":"065062",
         "gn:id":6538208,
         "gp:id":12679893,
         "qs_pg:id":41171
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6238b6ea34960fbd1fb27335248cf2b3",
+    "wof:geomhash":"07c89b1de654a3640ea1d4b9519f23bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404465601,
-    "wof:lastmodified":1582327843,
+    "wof:lastmodified":1684353834,
     "wof:name":"Laurito",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":745,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

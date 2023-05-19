@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morsasco",
+    "eurostat:nuts_2021_id":"006112",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006112",
+    "eurostat:population":627,
+    "eurostat:population_year":2020,
     "geom:area":0.001169,
     "geom:area_square_m":10280785.977422,
     "geom:bbox":"8.52316148952,44.6498724718,8.57688142124,44.6831603549",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006112",
+        "eurostat:nuts_2021_id":"006112",
         "gn:id":6542880,
         "gp:id":20075925,
         "qs_pg:id":1023785
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6fd1c40457f343aa1b8d92d806a901b",
+    "wof:geomhash":"8f188fa82398231c059a05a5830d4b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460227,
-    "wof:lastmodified":1582327997,
+    "wof:lastmodified":1684353713,
     "wof:name":"Morsasco",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":627,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

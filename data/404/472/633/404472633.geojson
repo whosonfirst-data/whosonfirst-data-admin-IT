@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coreglia Antelminelli",
+    "eurostat:nuts_2021_id":"046011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046011",
+    "eurostat:population":5190,
+    "eurostat:population_year":2020,
     "geom:area":0.00595,
     "geom:area_square_m":52860823.947934,
     "geom:bbox":"10.4910881259,44.0176525088,10.6289031294,44.1207982825",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046011",
+        "eurostat:nuts_2021_id":"046011",
         "gn:id":6536812,
         "gp:id":12679558,
         "qs_pg:id":242301
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8269b081aff0f37c14ffa6d679b388c",
+    "wof:geomhash":"4fefd209cc6e966230f4f1006a5dadf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472633,
-    "wof:lastmodified":1582327885,
+    "wof:lastmodified":1684353966,
     "wof:name":"Coreglia Antelminelli",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":5190,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

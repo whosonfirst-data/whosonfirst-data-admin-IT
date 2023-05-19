@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orgosolo",
+    "eurostat:nuts_2021_id":"091062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091062",
+    "eurostat:population":4117,
+    "eurostat:population_year":2020,
     "geom:area":0.023555,
-    "geom:area_square_m":222541029.316558,
+    "geom:area_square_m":222541029.316557,
     "geom:bbox":"9.29327728247,40.072127797,9.51014286009,40.2805046998",
     "geom:latitude":40.177362,
     "geom:longitude":9.385436,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091062",
+        "eurostat:nuts_2021_id":"091062",
         "gn:id":6537868,
         "gp:id":12680788,
         "qs_pg:id":1309608
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"452d5778ae417e3193660b699b3fef45",
+    "wof:geomhash":"aaa1a643e75761db37dcdd620e942fce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404460547,
-    "wof:lastmodified":1582328019,
+    "wof:lastmodified":1684353720,
     "wof:name":"Orgosolo",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":4117,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel Focognano",
+    "eurostat:nuts_2021_id":"051008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051008",
+    "eurostat:population":3025,
+    "eurostat:population_year":2020,
     "geom:area":0.006314,
-    "geom:area_square_m":56500206.766539,
+    "geom:area_square_m":56500206.766538,
     "geom:bbox":"11.6681475086,43.5942342154,11.8542049921,43.6801966798",
     "geom:latitude":43.641547,
     "geom:longitude":11.783248,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051008",
+        "eurostat:nuts_2021_id":"051008",
         "gn:id":6542027,
         "gp:id":12678183,
         "qs_pg:id":961654
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5a75f3812ea9a535e6a585936c4f118",
+    "wof:geomhash":"f43a7cfde425c1e69df2522efae479c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472985,
-    "wof:lastmodified":1582327892,
+    "wof:lastmodified":1684353975,
     "wof:name":"Castel Focognano",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":3025,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

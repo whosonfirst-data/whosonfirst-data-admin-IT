@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_049002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campiglia Marittima",
+    "eurostat:nuts_2021_id":"049002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI16",
+    "eurostat:nuts_2021_level_lau":"049002",
+    "eurostat:population":12789,
+    "eurostat:population_year":2020,
     "geom:area":0.009202,
-    "geom:area_square_m":83173064.740219,
+    "geom:area_square_m":83173064.740223,
     "geom:bbox":"10.5443152573,42.9856813203,10.7233100199,43.0930778501",
     "geom:latitude":43.034992,
     "geom:longitude":10.614548,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -159,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_049002",
+        "eurostat:nuts_2021_id":"049002",
         "gn:id":6541091,
         "gp:id":12677412,
         "qs_pg:id":1293017
@@ -167,7 +183,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4eddc703e288c6dc2c7949410f04f188",
+    "wof:geomhash":"d262cdaa68bb3276ab285f19da06f8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404472839,
-    "wof:lastmodified":1582327904,
+    "wof:lastmodified":1684353970,
     "wof:name":"Campiglia Marittima",
     "wof:parent_id":85685413,
     "wof:placetype":"localadmin",
+    "wof:population":12789,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

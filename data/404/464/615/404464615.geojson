@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riace",
+    "eurostat:nuts_2021_id":"080064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080064",
+    "eurostat:population":2142,
+    "eurostat:population_year":2020,
     "geom:area":0.001658,
-    "geom:area_square_m":16069113.924557,
+    "geom:area_square_m":16069113.92456,
     "geom:bbox":"16.4703856648,38.3767222729,16.5470708642,38.4314331021",
     "geom:latitude":38.404713,
     "geom:longitude":16.508265,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080064",
+        "eurostat:nuts_2021_id":"080064",
         "gn:id":6543637,
         "gp:id":12678043,
         "qs_pg:id":1315717
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f0f74485e40e968a90906bf6db13f8c",
+    "wof:geomhash":"b0f481431befcd8b2a1282ca5da73bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404464615,
-    "wof:lastmodified":1582327803,
+    "wof:lastmodified":1684353811,
     "wof:name":"Riace",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":2142,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

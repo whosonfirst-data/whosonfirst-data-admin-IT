@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipomo",
+    "eurostat:nuts_2021_id":"013129",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013129",
+    "eurostat:population":5977,
+    "eurostat:population_year":2020,
     "geom:area":0.000266,
     "geom:area_square_m":2294199.052312,
     "geom:bbox":"9.1111922268,45.7817985475,9.13438819193,45.800080637",
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013129",
+        "eurostat:nuts_2021_id":"013129",
         "gn:id":6543114,
         "gp:id":12677388,
         "qs_pg:id":1310866
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20c8b35674bcbbb89a017b757ce7feb2",
+    "wof:geomhash":"c1e24c025737d2d00ce71cf2cc817022",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468129,
-    "wof:lastmodified":1582328082,
+    "wof:lastmodified":1684353884,
     "wof:name":"Lipomo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":5977,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

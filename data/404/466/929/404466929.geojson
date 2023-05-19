@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiadas",
+    "eurostat:nuts_2021_id":"111011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111011",
+    "eurostat:population":1678,
+    "eurostat:population_year":2020,
     "geom:area":0.010848,
-    "geom:area_square_m":103882373.205353,
+    "geom:area_square_m":103882373.205348,
     "geom:bbox":"9.45004539508,39.1530482615,9.57968230992,39.3185010234",
     "geom:latitude":39.243095,
     "geom:longitude":9.519302,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111011",
+        "eurostat:nuts_2021_id":"111011",
         "gn:id":6539580,
         "gp:id":20076845,
         "qs_pg:id":248332
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15749f4928153bfc7fccd9d26a948d53",
+    "wof:geomhash":"d232042cd5660ca215a5ccad20e13976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404466929,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353862,
     "wof:name":"Castiadas",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":1678,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

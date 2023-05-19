@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piverone",
+    "eurostat:nuts_2021_id":"001196",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001196",
+    "eurostat:population":1373,
+    "eurostat:population_year":2020,
     "geom:area":0.00127,
-    "geom:area_square_m":11016814.316049,
+    "geom:area_square_m":11016814.316047,
     "geom:bbox":"7.97222698577,45.4222842426,8.03843905796,45.4609432031",
     "geom:latitude":45.440989,
     "geom:longitude":8.009042,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001196",
+        "eurostat:nuts_2021_id":"001196",
         "gn:id":6543397,
         "gp:id":20076499,
         "qs_pg:id":833644
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e5ec6d212b211995a914e78ff791c25",
+    "wof:geomhash":"430ad4f2fd2b06d9c9173d04fa2df2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457185,
-    "wof:lastmodified":1582328121,
+    "wof:lastmodified":1684353644,
     "wof:name":"Piverone",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1373,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lestizza",
+    "eurostat:nuts_2021_id":"030048",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030048",
+    "eurostat:population":3709,
+    "eurostat:population_year":2020,
     "geom:area":0.003977,
-    "geom:area_square_m":34180175.870028,
+    "geom:area_square_m":34180175.870025,
     "geom:bbox":"13.047147207,45.9397559548,13.1718596225,45.9962218092",
     "geom:latitude":45.971205,
     "geom:longitude":13.114044,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_030048",
+        "eurostat:nuts_2021_id":"030048"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"848425b2079c3b544419ac22cc900b86",
+    "wof:geomhash":"87c11aa59c0bd59a7d935e95009c32f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404470545,
-    "wof:lastmodified":1566723145,
+    "wof:lastmodified":1684353923,
     "wof:name":"Lestizza",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":3709,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

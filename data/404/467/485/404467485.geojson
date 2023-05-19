@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Noli",
+    "eurostat:nuts_2021_id":"009042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009042",
+    "eurostat:population":2590,
+    "eurostat:population_year":2020,
     "geom:area":0.00109,
-    "geom:area_square_m":9656671.339665,
+    "geom:area_square_m":9656671.339666,
     "geom:bbox":"8.37221255747,44.1896616718,8.4253471764,44.2358190567",
     "geom:latitude":44.210075,
     "geom:longitude":8.398436,
@@ -152,6 +164,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -159,9 +173,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_009042",
+        "eurostat:nuts_2021_id":"009042"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"526125580549bddece525d4db7eafa0d",
+    "wof:geomhash":"ee0f9a6cf319ec837682ca2d3b8f23b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +189,12 @@
         }
     ],
     "wof:id":404467485,
-    "wof:lastmodified":1566723467,
+    "wof:lastmodified":1684353875,
     "wof:name":"Noli",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":2590,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

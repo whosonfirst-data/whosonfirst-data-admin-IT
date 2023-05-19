@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ariano nel Polesine",
+    "eurostat:nuts_2021_id":"029002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029002",
+    "eurostat:population":4193,
+    "eurostat:population_year":2020,
     "geom:area":0.009183,
-    "geom:area_square_m":80376524.533885,
+    "geom:area_square_m":80376524.533902,
     "geom:bbox":"12.0475500679,44.7944193873,12.4028686405,44.9938242457",
     "geom:latitude":44.939442,
     "geom:longitude":12.202627,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029002",
+        "eurostat:nuts_2021_id":"029002",
         "gn:id":6540229,
         "gp:id":20076711,
         "qs_pg:id":50884
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21ca27c3302dc835b4d0ea8931c1b1fb",
+    "wof:geomhash":"3830e80e10d8e6c7efabbc8d8daa07b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404458445,
-    "wof:lastmodified":1582327956,
+    "wof:lastmodified":1684353670,
     "wof:name":"Ariano Nel Polesine",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":4193,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

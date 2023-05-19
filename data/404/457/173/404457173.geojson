@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinerolo",
+    "eurostat:nuts_2021_id":"001191",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001191",
+    "eurostat:population":36178,
+    "eurostat:population_year":2020,
     "geom:area":0.005736,
-    "geom:area_square_m":50250558.761752,
+    "geom:area_square_m":50250558.761748,
     "geom:bbox":"7.27965252777,44.8441325445,7.4217071693,44.9758265596",
     "geom:latitude":44.891249,
     "geom:longitude":7.348037,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001191",
+        "eurostat:nuts_2021_id":"001191",
         "gn:id":6540662,
         "gp:id":12681121,
         "qs_pg:id":1108820
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ba970b8a1ea4e2a51004b1892e1fe6f7",
+    "wof:geomhash":"54de6436f9fdec4e06fc3ec796cc5f53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404457173,
-    "wof:lastmodified":1582328105,
+    "wof:lastmodified":1684353644,
     "wof:name":"Pinerolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":36178,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giano Vetusto",
+    "eurostat:nuts_2021_id":"061040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061040",
+    "eurostat:population":660,
+    "eurostat:population_year":2020,
     "geom:area":0.001169,
-    "geom:area_square_m":10871792.048382,
+    "geom:area_square_m":10871792.048384,
     "geom:bbox":"14.1550974787,41.188453829,14.2160067523,41.230457151",
     "geom:latitude":41.208764,
     "geom:longitude":14.186249,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061040",
+        "eurostat:nuts_2021_id":"061040",
         "gn:id":6536372,
         "gp:id":12679562,
         "qs_pg:id":40947
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e048a33be361189dd9ac58c7d1ac2018",
+    "wof:geomhash":"137708dc9eddaf04583ef281ed9e9021",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463045,
-    "wof:lastmodified":1582327780,
+    "wof:lastmodified":1684353771,
     "wof:name":"Giano Vetusto",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":660,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

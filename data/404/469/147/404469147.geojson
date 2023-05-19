@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Motteggiana",
+    "eurostat:nuts_2021_id":"020037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020037",
+    "eurostat:population":2522,
+    "eurostat:population_year":2020,
     "geom:area":0.002832,
-    "geom:area_square_m":24744550.063145,
+    "geom:area_square_m":24744550.063144,
     "geom:bbox":"10.6652218551,45.00896553,10.8466924818,45.0529802277",
     "geom:latitude":45.03469,
     "geom:longitude":10.763791,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020037",
+        "eurostat:nuts_2021_id":"020037",
         "gn:id":6542979,
         "gp:id":12681934,
         "qs_pg:id":972380
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86c2a64aa25fefe2b3a66d8834d478fd",
+    "wof:geomhash":"0f3ae055460f2775c5c25f92059c761b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404469147,
-    "wof:lastmodified":1582328043,
+    "wof:lastmodified":1684353900,
     "wof:name":"Motteggiana",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":2522,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vestone",
+    "eurostat:nuts_2021_id":"017197",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017197",
+    "eurostat:population":4288,
+    "eurostat:population_year":2020,
     "geom:area":0.001499,
     "geom:area_square_m":12940452.476218,
     "geom:bbox":"10.3614006929,45.6878259389,10.435570314,45.7314036352",
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017197",
+        "eurostat:nuts_2021_id":"017197",
         "gn:id":6537183,
         "gp:id":12680715,
         "qs_pg:id":1078569
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"683da7df326a2e7e68cdf476493de692",
+    "wof:geomhash":"d4ed98ad9097454d5d7fa6e3c37c1e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404471365,
-    "wof:lastmodified":1582327710,
+    "wof:lastmodified":1684353938,
     "wof:name":"Vestone",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":4288,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_038011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagosanto",
+    "eurostat:nuts_2021_id":"038011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH56",
+    "eurostat:nuts_2021_level_lau":"038011",
+    "eurostat:population":4785,
+    "eurostat:population_year":2020,
     "geom:area":0.003912,
-    "geom:area_square_m":34339971.980833,
+    "geom:area_square_m":34339971.980836,
     "geom:bbox":"12.0982773995,44.7327424367,12.1812207234,44.8098784753",
     "geom:latitude":44.770486,
     "geom:longitude":12.143213,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_038011",
+        "eurostat:nuts_2021_id":"038011",
         "gn:id":6538481,
         "gp:id":12678068,
         "qs_pg:id":388649
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"635d97de4ed7bfbad15af6cfe72330c7",
+    "wof:geomhash":"b1dca6b73196c4c9539f6d72325e59cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472383,
-    "wof:lastmodified":1582327890,
+    "wof:lastmodified":1684353960,
     "wof:name":"Lagosanto",
     "wof:parent_id":85685359,
     "wof:placetype":"localadmin",
+    "wof:population":4785,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

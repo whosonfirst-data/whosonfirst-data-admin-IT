@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Curino",
+    "eurostat:nuts_2021_id":"096023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096023",
+    "eurostat:population":468,
+    "eurostat:population_year":2020,
     "geom:area":0.0025,
-    "geom:area_square_m":21615040.492671,
+    "geom:area_square_m":21615040.492667,
     "geom:bbox":"8.21044331804,45.6037814432,8.26898460006,45.6722308774",
     "geom:latitude":45.636414,
     "geom:longitude":8.237053,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096023",
+        "eurostat:nuts_2021_id":"096023",
         "gn:id":6542812,
         "gp:id":20075960,
         "qs_pg:id":1181300
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8144d73cdd4b27abd3dd0b32477ed459",
+    "wof:geomhash":"10c95ff4625bf80b0eb1a49430a2d694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404460341,
-    "wof:lastmodified":1582328005,
+    "wof:lastmodified":1684353716,
     "wof:name":"Curino",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":468,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

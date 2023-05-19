@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olivetta San Michele",
+    "eurostat:nuts_2021_id":"008038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008038",
+    "eurostat:population":193,
+    "eurostat:population_year":2020,
     "geom:area":0.00155,
-    "geom:area_square_m":13817771.094004,
+    "geom:area_square_m":13817771.094006,
     "geom:bbox":"7.49482482215,43.84483115,7.55323993993,43.8942693876",
     "geom:latitude":43.868406,
     "geom:longitude":7.521434,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_008038",
+        "eurostat:nuts_2021_id":"008038"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"70d33f16f34f6861c7c12ff835c94b0b",
+    "wof:geomhash":"9300f0a2dd0479423cd02523defb9de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404471823,
-    "wof:lastmodified":1566723115,
+    "wof:lastmodified":1684353946,
     "wof:name":"Olivetta San Michele",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":193,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

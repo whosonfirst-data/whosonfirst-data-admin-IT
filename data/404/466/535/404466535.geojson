@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_085005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campofranco",
+    "eurostat:nuts_2021_id":"085005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG15",
+    "eurostat:nuts_2021_level_lau":"085005",
+    "eurostat:population":2854,
+    "eurostat:population_year":2020,
     "geom:area":0.003666,
-    "geom:area_square_m":35973795.492587,
+    "geom:area_square_m":35973795.49259,
     "geom:bbox":"13.6505366996,37.4399823874,13.7529226459,37.5325912478",
     "geom:latitude":37.488201,
     "geom:longitude":13.701088,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_085005",
+        "eurostat:nuts_2021_id":"085005",
         "gn:id":6541344,
         "gp:id":12677449,
         "qs_pg:id":1314067
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1240a91c9656bdd25f4bfa1b69f05148",
+    "wof:geomhash":"126c72f98db366987e54c6b5fc3778d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466535,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353851,
     "wof:name":"Campofranco",
     "wof:parent_id":85685605,
     "wof:placetype":"localadmin",
+    "wof:population":2854,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

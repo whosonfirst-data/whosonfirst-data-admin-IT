@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melegnano",
+    "eurostat:nuts_2021_id":"015140",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015140",
+    "eurostat:population":18379,
+    "eurostat:population_year":2020,
     "geom:area":0.000574,
-    "geom:area_square_m":4991184.32716,
+    "geom:area_square_m":4991184.327159,
     "geom:bbox":"9.29670264069,45.3426025634,9.33964101736,45.3680103733",
     "geom:latitude":45.3552,
     "geom:longitude":9.320141,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_015140",
+        "eurostat:nuts_2021_id":"015140"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"37a7146c30ed5e0a8257a9ca263e930e",
+    "wof:geomhash":"341a37a77c6f9b494c0f0fbe0129b296",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404468453,
-    "wof:lastmodified":1566723623,
+    "wof:lastmodified":1684353889,
     "wof:name":"Melegnano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":18379,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

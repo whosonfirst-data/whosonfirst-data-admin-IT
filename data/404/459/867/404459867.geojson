@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Camerata Picena",
+    "eurostat:nuts_2021_id":"042007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042007",
+    "eurostat:population":2547,
+    "eurostat:population_year":2020,
     "geom:area":0.001322,
-    "geom:area_square_m":11843300.023158,
+    "geom:area_square_m":11843300.023161,
     "geom:bbox":"13.3308865443,43.5649194066,13.4042243551,43.5997733604",
     "geom:latitude":43.581844,
     "geom:longitude":13.366663,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042007",
+        "eurostat:nuts_2021_id":"042007",
         "gn:id":6541056,
         "gp:id":12679654,
         "qs_pg:id":1012863
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c8fe2e39e2a901ca1d63237057d06af",
+    "wof:geomhash":"37a6112f07df089d5e0b1857de308768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459867,
-    "wof:lastmodified":1582328162,
+    "wof:lastmodified":1684353703,
     "wof:name":"Camerata Picena",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":2547,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorg\u00e0",
+    "eurostat:nuts_2021_id":"023084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023084",
+    "eurostat:population":3005,
+    "eurostat:population_year":2020,
     "geom:area":0.003612,
     "geom:area_square_m":31472009.810712,
     "geom:bbox":"10.9305871259,45.1486397651,11.0396283195,45.2381857932",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023084",
+        "eurostat:nuts_2021_id":"023084",
         "gn:id":6543559,
         "gp:id":12676891,
         "qs_pg:id":270399
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eeae60d68e30272f9a7bc2df9ae5f030",
+    "wof:geomhash":"b0d87f73274aad37daa3ae4acfd90285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469717,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353909,
     "wof:name":"Sorg\u00e0",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":3005,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

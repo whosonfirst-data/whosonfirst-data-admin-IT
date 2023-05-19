@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bertiolo",
+    "eurostat:nuts_2021_id":"030010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030010",
+    "eurostat:population":2418,
+    "eurostat:population_year":2020,
     "geom:area":0.00302,
     "geom:area_square_m":25966376.720946,
     "geom:bbox":"13.0274812039,45.8966839107,13.1094115056,45.9725297092",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030010",
+        "eurostat:nuts_2021_id":"030010",
         "gn:id":6536301,
         "gp:id":12676740,
         "qs_pg:id":76165
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1f9c088f09e9ebec4055b277c8653cb4",
+    "wof:geomhash":"68c3f09ada18a15f1f1f0490711c90c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470461,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353922,
     "wof:name":"Bertiolo",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2418,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

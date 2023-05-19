@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serrara Fontana",
+    "eurostat:nuts_2021_id":"063078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063078",
+    "eurostat:population":3110,
+    "eurostat:population_year":2020,
     "geom:area":0.000684,
-    "geom:area_square_m":6413934.060908,
+    "geom:area_square_m":6413934.060905,
     "geom:bbox":"13.8801453365,40.692042597,13.9071807061,40.7313755955",
     "geom:latitude":40.714141,
     "geom:longitude":13.894122,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063078",
+        "eurostat:nuts_2021_id":"063078",
         "gn:id":6541167,
         "gp:id":12681982,
         "qs_pg:id":538094
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"100641cad641e0708d01830f47e1c62d",
+    "wof:geomhash":"b3c345c967acb11e1c164c4ce6d5f63a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465163,
-    "wof:lastmodified":1582327838,
+    "wof:lastmodified":1684353827,
     "wof:name":"Serrara Fontana",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":3110,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavagnolo",
+    "eurostat:nuts_2021_id":"001069",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001069",
+    "eurostat:population":2247,
+    "eurostat:population_year":2020,
     "geom:area":0.001411,
-    "geom:area_square_m":12309809.155328,
+    "geom:area_square_m":12309809.15532,
     "geom:bbox":"8.00487622469,45.1252135892,8.06059404744,45.1799469097",
     "geom:latitude":45.146005,
     "geom:longitude":8.03438,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_001069",
+        "eurostat:nuts_2021_id":"001069"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"64db3e4e20b59e6a7c479310a8eb2106",
+    "wof:geomhash":"a3c08f40afb3c59b9b0b180a81e1e46f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404456329,
-    "wof:lastmodified":1566723607,
+    "wof:lastmodified":1684353621,
     "wof:name":"Cavagnolo",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":2247,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

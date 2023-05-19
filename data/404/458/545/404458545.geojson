@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_011011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelnuovo Magra",
+    "eurostat:nuts_2021_id":"011011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC34",
+    "eurostat:nuts_2021_level_lau":"011011",
+    "eurostat:population":8384,
+    "eurostat:population_year":2020,
     "geom:area":0.001689,
-    "geom:area_square_m":14997637.009046,
+    "geom:area_square_m":14997637.009048,
     "geom:bbox":"9.99240286737,44.0644957011,10.0461914083,44.1195970848",
     "geom:latitude":44.095134,
     "geom:longitude":10.017308,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_011011",
+        "eurostat:nuts_2021_id":"011011",
         "gn:id":6537070,
         "gp:id":12678315,
         "qs_pg:id":1019933
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86e74168cd0ae2fc7289d9eea1fb9f6b",
+    "wof:geomhash":"c68fdabb30b21161909506f4d4a01fac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404458545,
-    "wof:lastmodified":1582327949,
+    "wof:lastmodified":1684353672,
     "wof:name":"Castelnuovo Magra",
     "wof:parent_id":85685225,
     "wof:placetype":"localadmin",
+    "wof:population":8384,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

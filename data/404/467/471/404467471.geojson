@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_009036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mallare",
+    "eurostat:nuts_2021_id":"009036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC32",
+    "eurostat:nuts_2021_level_lau":"009036",
+    "eurostat:population":1081,
+    "eurostat:population_year":2020,
     "geom:area":0.003581,
-    "geom:area_square_m":31690505.35012,
+    "geom:area_square_m":31690505.350117,
     "geom:bbox":"8.24963407557,44.2560952569,8.32953232431,44.3270289545",
     "geom:latitude":44.29242,
     "geom:longitude":8.295518,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_009036",
+        "eurostat:nuts_2021_id":"009036",
         "gn:id":6542443,
         "gp:id":12680760,
         "qs_pg:id":1321568
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d514a55a2910ee033fd3a72bba215a1d",
+    "wof:geomhash":"0017d57bcb9572058d0a1771952aa08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404467471,
-    "wof:lastmodified":1582327969,
+    "wof:lastmodified":1684353874,
     "wof:name":"Mallare",
     "wof:parent_id":85685215,
     "wof:placetype":"localadmin",
+    "wof:population":1081,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

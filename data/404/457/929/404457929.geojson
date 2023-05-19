@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aosta",
+    "eurostat:nuts_2021_id":"007003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007003",
+    "eurostat:population":34052,
+    "eurostat:population_year":2020,
     "geom:area":0.002474,
-    "geom:area_square_m":21350717.094196,
+    "geom:area_square_m":21350717.094197,
     "geom:bbox":"7.23879718939,45.7262452922,7.34798498011,45.7726367026",
     "geom:latitude":45.749383,
     "geom:longitude":7.301761,
@@ -275,6 +287,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -283,6 +297,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007003",
+        "eurostat:nuts_2021_id":"007003",
         "gn:id":6541471,
         "gp:id":12676142,
         "qs_pg:id":1078438
@@ -291,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4f6dea04af15b3720a17fa3218c6730",
+    "wof:geomhash":"df263239b20ac9124150f6761bcd83c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,10 +318,12 @@
         }
     ],
     "wof:id":404457929,
-    "wof:lastmodified":1582328118,
+    "wof:lastmodified":1684353660,
     "wof:name":"Aosta",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":34052,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

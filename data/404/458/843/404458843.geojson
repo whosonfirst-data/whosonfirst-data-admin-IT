@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sepino",
+    "eurostat:nuts_2021_id":"070075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070075",
+    "eurostat:population":1833,
+    "eurostat:population_year":2020,
     "geom:area":0.006579,
-    "geom:area_square_m":61007447.500609,
+    "geom:area_square_m":61007447.500614,
     "geom:bbox":"14.5646953224,41.3639174434,14.699949518,41.4498457016",
     "geom:latitude":41.412098,
     "geom:longitude":14.621458,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070075",
+        "eurostat:nuts_2021_id":"070075",
         "gn:id":6537528,
         "gp:id":12679325,
         "qs_pg:id":1187918
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a525fbc38914c5b5659ceb03047f4bd",
+    "wof:geomhash":"b45e855fa9b263a344ccad0d09ed95a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404458843,
-    "wof:lastmodified":1582327943,
+    "wof:lastmodified":1684353679,
     "wof:name":"Sepino",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":1833,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

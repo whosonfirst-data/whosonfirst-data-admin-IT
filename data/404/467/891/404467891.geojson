@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taino",
+    "eurostat:nuts_2021_id":"012125",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012125",
+    "eurostat:population":3676,
+    "eurostat:population_year":2020,
     "geom:area":0.000883,
-    "geom:area_square_m":7619337.719566,
+    "geom:area_square_m":7619337.719567,
     "geom:bbox":"8.59919013495,45.7481135753,8.64177486489,45.7810455087",
     "geom:latitude":45.763021,
     "geom:longitude":8.618684,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012125",
+        "eurostat:nuts_2021_id":"012125",
         "gn:id":6536488,
         "gp:id":12682130,
         "qs_pg:id":1019295
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9c2d051ecf54873929ae225f4ab2417",
+    "wof:geomhash":"3dd51b119bb1b8f4807fd89b81d0a91a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404467891,
-    "wof:lastmodified":1582327986,
+    "wof:lastmodified":1684353881,
     "wof:name":"Taino",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":3676,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004235",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valloriate",
+    "eurostat:nuts_2021_id":"004235",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004235",
+    "eurostat:population":104,
+    "eurostat:population_year":2020,
     "geom:area":0.001914,
-    "geom:area_square_m":16928565.499614,
+    "geom:area_square_m":16928565.499615,
     "geom:bbox":"7.30828260112,44.3222428584,7.39243894018,44.3621658919",
     "geom:latitude":44.3418,
     "geom:longitude":7.347981,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_004235",
+        "eurostat:nuts_2021_id":"004235"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"5b15005cfe09ab6e25f471b84f64cd60",
+    "wof:geomhash":"c08ffa60d83a9e33e37d9b49d68d7a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404455877,
-    "wof:lastmodified":1566723264,
+    "wof:lastmodified":1684353612,
     "wof:name":"Valloriate",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

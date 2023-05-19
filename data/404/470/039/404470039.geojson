@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colle Umberto",
+    "eurostat:nuts_2021_id":"026020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026020",
+    "eurostat:population":5128,
+    "eurostat:population_year":2020,
     "geom:area":0.001574,
-    "geom:area_square_m":13535907.540102,
+    "geom:area_square_m":13535907.540101,
     "geom:bbox":"12.321321684,45.9239588041,12.3774347124,45.9665286662",
     "geom:latitude":45.94322,
     "geom:longitude":12.348838,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026020",
+        "eurostat:nuts_2021_id":"026020",
         "gn:id":6538296,
         "gp:id":12682643,
         "qs_pg:id":190951
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddec42d2d451e8745117071f2941c56d",
+    "wof:geomhash":"0d9129e6102c6629cdf23035628a7882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470039,
-    "wof:lastmodified":1582327744,
+    "wof:lastmodified":1684353914,
     "wof:name":"Colle Umberto",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":5128,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

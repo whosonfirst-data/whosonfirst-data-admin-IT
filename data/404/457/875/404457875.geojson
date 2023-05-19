@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bastia Mondov\u00ec",
+    "eurostat:nuts_2021_id":"004014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004014",
+    "eurostat:population":643,
+    "eurostat:population_year":2020,
     "geom:area":0.001358,
-    "geom:area_square_m":11983747.167434,
+    "geom:area_square_m":11983747.167438,
     "geom:bbox":"7.87383100102,44.4271643502,7.93335797644,44.4689177959",
     "geom:latitude":44.448369,
     "geom:longitude":7.900794,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004014",
+        "eurostat:nuts_2021_id":"004014",
         "gn:id":6543810,
         "gp:id":20075732,
         "qs_pg:id":1298607
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"406f79c2f7165c6f6ba342f2ece89c25",
+    "wof:geomhash":"b832130284fb26a23d5af7ff8cbc5589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457875,
-    "wof:lastmodified":1582328101,
+    "wof:lastmodified":1684353658,
     "wof:name":"Bastia Mondov\u00ec",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":643,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Este",
+    "eurostat:nuts_2021_id":"028037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028037",
+    "eurostat:population":16189,
+    "eurostat:population_year":2020,
     "geom:area":0.003757,
-    "geom:area_square_m":32726589.77119,
+    "geom:area_square_m":32726589.771192,
     "geom:bbox":"11.610382107,45.1784856129,11.7238037109,45.2615782005",
     "geom:latitude":45.219611,
     "geom:longitude":11.659399,
@@ -86,6 +98,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -94,6 +108,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028037",
+        "eurostat:nuts_2021_id":"028037",
         "gn:id":6541003,
         "gp:id":12679164,
         "qs_pg:id":1296589
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"108e1ef586f432e8b2605fdf3430ef4b",
+    "wof:geomhash":"bdb9c95ba18be8ea8cf3c1ed8ec5e94a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404470277,
-    "wof:lastmodified":1582327750,
+    "wof:lastmodified":1684353919,
     "wof:name":"Este",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":16189,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

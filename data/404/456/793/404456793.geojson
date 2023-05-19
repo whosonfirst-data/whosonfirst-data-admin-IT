@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tagliolo Monferrato",
+    "eurostat:nuts_2021_id":"006169",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006169",
+    "eurostat:population":1538,
+    "eurostat:population_year":2020,
     "geom:area":0.002974,
-    "geom:area_square_m":26177869.596555,
+    "geom:area_square_m":26177869.596546,
     "geom:bbox":"8.65682747916,44.5707951973,8.74198645533,44.6601849228",
     "geom:latitude":44.612244,
     "geom:longitude":8.696565,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006169",
+        "eurostat:nuts_2021_id":"006169",
         "gn:id":6543046,
         "gp:id":12681417,
         "qs_pg:id":496785
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8406c2bca8a0cd0b609afeea3004dad",
+    "wof:geomhash":"1de1c51d67d890959037e75761525c26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456793,
-    "wof:lastmodified":1582328060,
+    "wof:lastmodified":1684353633,
     "wof:name":"Tagliolo Monferrato",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1538,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

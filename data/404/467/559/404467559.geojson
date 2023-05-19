@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busalla",
+    "eurostat:nuts_2021_id":"010006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010006",
+    "eurostat:population":5392,
+    "eurostat:population_year":2020,
     "geom:area":0.001935,
-    "geom:area_square_m":17040513.272132,
+    "geom:area_square_m":17040513.272129,
     "geom:bbox":"8.91924452461,44.5524299751,9.0145615585,44.6179238656",
     "geom:latitude":44.584119,
     "geom:longitude":8.970094,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010006",
+        "eurostat:nuts_2021_id":"010006",
         "gn:id":6536091,
         "gp:id":12677195,
         "qs_pg:id":209023
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3863b1f98a451eb31a2991afe5c9f6b0",
+    "wof:geomhash":"b9229822fcc7017fe69431de1ed55a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404467559,
-    "wof:lastmodified":1582327966,
+    "wof:lastmodified":1684353876,
     "wof:name":"Busalla",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":5392,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

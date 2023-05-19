@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivarolo Mantovano",
+    "eurostat:nuts_2021_id":"020050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020050",
+    "eurostat:population":2474,
+    "eurostat:population_year":2020,
     "geom:area":0.00292,
-    "geom:area_square_m":25502266.278171,
+    "geom:area_square_m":25502266.278172,
     "geom:bbox":"10.4114360696,45.0412997488,10.4951378989,45.0936504705",
     "geom:latitude":45.069077,
     "geom:longitude":10.44791,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020050",
+        "eurostat:nuts_2021_id":"020050",
         "gn:id":6536222,
         "gp:id":12678706,
         "qs_pg:id":40471
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c49fcc5cebba563989d348220fe4ab2",
+    "wof:geomhash":"30c2178b604ee46f599b9a3d1a31a80e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404469177,
-    "wof:lastmodified":1582328042,
+    "wof:lastmodified":1684353900,
     "wof:name":"Rivarolo Mantovano",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":2474,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altavilla Milicia",
+    "eurostat:nuts_2021_id":"082004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082004",
+    "eurostat:population":8376,
+    "eurostat:population_year":2020,
     "geom:area":0.002432,
-    "geom:area_square_m":23696213.231941,
+    "geom:area_square_m":23696213.231944,
     "geom:bbox":"13.5287429296,37.9857302614,13.6077742751,38.0518481777",
     "geom:latitude":38.018005,
     "geom:longitude":13.568587,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082004",
+        "eurostat:nuts_2021_id":"082004",
         "gn:id":6541320,
         "gp:id":12680129,
         "qs_pg:id":289751
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3d0bab1572af87ae8197dd731827af4",
+    "wof:geomhash":"913563391a3de7e7a1da934624cdf2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464921,
-    "wof:lastmodified":1582327807,
+    "wof:lastmodified":1684353821,
     "wof:name":"Altavilla Milicia",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":8376,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

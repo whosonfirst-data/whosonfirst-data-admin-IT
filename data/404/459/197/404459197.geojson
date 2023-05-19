@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nissoria",
+    "eurostat:nuts_2021_id":"086013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086013",
+    "eurostat:population":2958,
+    "eurostat:population_year":2020,
     "geom:area":0.006285,
-    "geom:area_square_m":61495043.562426,
+    "geom:area_square_m":61495043.562427,
     "geom:bbox":"14.3863688382,37.6370445458,14.511398603,37.7495713533",
     "geom:latitude":37.695178,
     "geom:longitude":14.449924,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086013",
+        "eurostat:nuts_2021_id":"086013",
         "gn:id":6537796,
         "gp:id":12680681,
         "qs_pg:id":968272
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c0a451a7d742c53f679339f9e73ef4c",
+    "wof:geomhash":"aac3af17b5003579e75c421c1ea647d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459197,
-    "wof:lastmodified":1582328169,
+    "wof:lastmodified":1684353688,
     "wof:name":"Nissoria",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":2958,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016245",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zanica",
+    "eurostat:nuts_2021_id":"016245",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016245",
+    "eurostat:population":8804,
+    "eurostat:population_year":2020,
     "geom:area":0.001727,
-    "geom:area_square_m":14928719.936092,
+    "geom:area_square_m":14928719.936094,
     "geom:bbox":"9.6671698258,45.6131805223,9.74212956975,45.6605535945",
     "geom:latitude":45.632466,
     "geom:longitude":9.698061,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016245",
+        "eurostat:nuts_2021_id":"016245",
         "gn:id":6536165,
         "gp:id":12682538,
         "qs_pg:id":385761
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"233cebfff9b73a06cf71d8ef84c5305c",
+    "wof:geomhash":"a33fbaa5c3c99b50240d734cce5c4b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470909,
-    "wof:lastmodified":1582327736,
+    "wof:lastmodified":1684353929,
     "wof:name":"Zanica",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":8804,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riva presso Chieri",
+    "eurostat:nuts_2021_id":"001215",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001215",
+    "eurostat:population":4765,
+    "eurostat:population_year":2020,
     "geom:area":0.00409,
-    "geom:area_square_m":35777022.975589,
+    "geom:area_square_m":35777022.975594,
     "geom:bbox":"7.84188281039,44.9356030941,7.93436412897,45.0195174791",
     "geom:latitude":44.979409,
     "geom:longitude":7.888872,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001215",
+        "eurostat:nuts_2021_id":"001215",
         "gn:id":6538078,
         "gp:id":12681387,
         "qs_pg:id":333158
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb1629c2fdc33fc8d43da6062fa696ec",
+    "wof:geomhash":"0fcbf904309c0de187a22f338daf855e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457227,
-    "wof:lastmodified":1582328098,
+    "wof:lastmodified":1684353645,
     "wof:name":"Riva Presso Chieri",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4765,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montegranaro",
+    "eurostat:nuts_2021_id":"109018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109018",
+    "eurostat:population":12785,
+    "eurostat:population_year":2020,
     "geom:area":0.003472,
-    "geom:area_square_m":31280113.116568,
+    "geom:area_square_m":31280113.116558,
     "geom:bbox":"13.595235979,43.1998886933,13.6596923539,43.2737225048",
     "geom:latitude":43.237305,
     "geom:longitude":13.629411,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109018",
+        "eurostat:nuts_2021_id":"109018",
         "gn:id":6538538,
         "gp:id":12680513,
         "qs_pg:id":961725
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09c3cbb5ce484f5a43f42aaa49b93169",
+    "wof:geomhash":"83498de709d713398f25da3e0c6c30dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404461167,
-    "wof:lastmodified":1582328125,
+    "wof:lastmodified":1684353733,
     "wof:name":"Montegranaro",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":12785,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

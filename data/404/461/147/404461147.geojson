@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_109009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lapedona",
+    "eurostat:nuts_2021_id":"109009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI35",
+    "eurostat:nuts_2021_level_lau":"109009",
+    "eurostat:population":1172,
+    "eurostat:population_year":2020,
     "geom:area":0.001646,
-    "geom:area_square_m":14856183.262908,
+    "geom:area_square_m":14856183.262907,
     "geom:bbox":"13.7450747488,43.0765190929,13.8156388441,43.1316151393",
     "geom:latitude":43.107621,
     "geom:longitude":13.774812,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_109009",
+        "eurostat:nuts_2021_id":"109009",
         "gn:id":6541072,
         "gp:id":12679866,
         "qs_pg:id":1315721
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a15aaa6d12c27091ae4e2b0b7fac7746",
+    "wof:geomhash":"c1011cf0e0d7d4d829f3b2f742f5e367",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404461147,
-    "wof:lastmodified":1582328150,
+    "wof:lastmodified":1684353733,
     "wof:name":"Lapedona",
     "wof:parent_id":85685727,
     "wof:placetype":"localadmin",
+    "wof:population":1172,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

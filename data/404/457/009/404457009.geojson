@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rapone",
+    "eurostat:nuts_2021_id":"076065",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076065",
+    "eurostat:population":913,
+    "eurostat:population_year":2020,
     "geom:area":0.00313,
-    "geom:area_square_m":29278146.16221,
+    "geom:area_square_m":29278146.162213,
     "geom:bbox":"15.46750238,40.8169130711,15.5316832709,40.8980043846",
     "geom:latitude":40.855286,
     "geom:longitude":15.496501,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076065",
+        "eurostat:nuts_2021_id":"076065",
         "gn:id":6539010,
         "gp:id":12681329,
         "qs_pg:id":1314742
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49b1dc7a4251ec24914b4410621f3223",
+    "wof:geomhash":"520a1170aa013a312a8b5c01a9fc4ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404457009,
-    "wof:lastmodified":1582328102,
+    "wof:lastmodified":1684353640,
     "wof:name":"Rapone",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":913,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

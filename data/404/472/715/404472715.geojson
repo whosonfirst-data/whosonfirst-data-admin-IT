@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieve a Nievole",
+    "eurostat:nuts_2021_id":"047013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047013",
+    "eurostat:population":9233,
+    "eurostat:population_year":2020,
     "geom:area":0.001421,
-    "geom:area_square_m":12664467.721205,
+    "geom:area_square_m":12664467.721209,
     "geom:bbox":"10.7723479748,43.8305721771,10.8160717161,43.9067074941",
     "geom:latitude":43.869008,
     "geom:longitude":10.793438,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047013",
+        "eurostat:nuts_2021_id":"047013",
         "gn:id":6542317,
         "gp:id":12682590,
         "qs_pg:id":43116
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3232cd0e5930bf2a070d60d0bc68ade0",
+    "wof:geomhash":"91433a96405c23148104ce51ca2aae20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472715,
-    "wof:lastmodified":1582327892,
+    "wof:lastmodified":1684353968,
     "wof:name":"Pieve A Nievole",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":9233,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

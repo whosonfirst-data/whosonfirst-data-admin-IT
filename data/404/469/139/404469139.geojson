@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marmirolo",
+    "eurostat:nuts_2021_id":"020033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020033",
+    "eurostat:population":7781,
+    "eurostat:population_year":2020,
     "geom:area":0.004817,
-    "geom:area_square_m":41937621.790858,
+    "geom:area_square_m":41937621.790854,
     "geom:bbox":"10.7002599371,45.1926984348,10.7969468778,45.3188144524",
     "geom:latitude":45.241159,
     "geom:longitude":10.745741,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020033",
+        "eurostat:nuts_2021_id":"020033",
         "gn:id":6539793,
         "gp:id":12680166,
         "qs_pg:id":190744
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"73c47740d5208bc5e969b949f006d529",
+    "wof:geomhash":"41ea3b6c8dfe345ddcb4134b3b7b679b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404469139,
-    "wof:lastmodified":1582328035,
+    "wof:lastmodified":1684353900,
     "wof:name":"Marmirolo",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":7781,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

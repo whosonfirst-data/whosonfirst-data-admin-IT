@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Oyen",
+    "eurostat:nuts_2021_id":"007062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007062",
+    "eurostat:population":200,
+    "eurostat:population_year":2020,
     "geom:area":0.001091,
-    "geom:area_square_m":9401633.048975,
+    "geom:area_square_m":9401633.048974,
     "geom:bbox":"7.1902227279,45.7892469444,7.2253716618,45.859499768",
     "geom:latitude":45.820609,
     "geom:longitude":7.204833,
@@ -62,6 +74,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -69,9 +83,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007062",
+        "eurostat:nuts_2021_id":"007062"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0aac0afaf3ead0a82da5cd8566da93de",
+    "wof:geomhash":"5bdd10bea3a4ec206e9527f4042bc98b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,10 +99,12 @@
         }
     ],
     "wof:id":404459363,
-    "wof:lastmodified":1566723725,
+    "wof:lastmodified":1684353692,
     "wof:name":"Saint-Oyen",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

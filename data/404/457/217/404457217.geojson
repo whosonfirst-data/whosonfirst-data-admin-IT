@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reano",
+    "eurostat:nuts_2021_id":"001211",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001211",
+    "eurostat:population":1776,
+    "eurostat:population_year":2020,
     "geom:area":0.000762,
-    "geom:area_square_m":6654287.104476,
+    "geom:area_square_m":6654287.104475,
     "geom:bbox":"7.40220191666,45.0402878337,7.45709114265,45.0650519422",
     "geom:latitude":45.053033,
     "geom:longitude":7.428334,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001211",
+        "eurostat:nuts_2021_id":"001211",
         "gn:id":6537283,
         "gp:id":12681336,
         "qs_pg:id":218148
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b412f3bf2184d3b09cc69311a7d12af5",
+    "wof:geomhash":"ba401dad10b9b0e3123709fb93be0a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457217,
-    "wof:lastmodified":1582328100,
+    "wof:lastmodified":1684353645,
     "wof:name":"Reano",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1776,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

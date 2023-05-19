@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Affi",
+    "eurostat:nuts_2021_id":"023001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023001",
+    "eurostat:population":2366,
+    "eurostat:population_year":2020,
     "geom:area":0.001139,
-    "geom:area_square_m":9862150.636328,
+    "geom:area_square_m":9862150.636327,
     "geom:bbox":"10.7443599592,45.5412631532,10.8041315478,45.5759361881",
     "geom:latitude":45.556789,
     "geom:longitude":10.776784,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023001",
+        "eurostat:nuts_2021_id":"023001",
         "gn:id":6538229,
         "gp:id":12675799,
         "qs_pg:id":1055862
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1b789c953b2c484cb0427d706ff3f66",
+    "wof:geomhash":"b4a88959f7bdba777b42bd961f36261f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469633,
-    "wof:lastmodified":1582328028,
+    "wof:lastmodified":1684353907,
     "wof:name":"Affi",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":2366,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

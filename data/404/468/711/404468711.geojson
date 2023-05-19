@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Semiana",
+    "eurostat:nuts_2021_id":"018148",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018148",
+    "eurostat:population":204,
+    "eurostat:population_year":2020,
     "geom:area":0.001113,
     "geom:area_square_m":9707299.189479,
     "geom:bbox":"8.70090506667,45.1221949186,8.75462138635,45.1591247885",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018148",
+        "eurostat:nuts_2021_id":"018148",
         "gn:id":6536205,
         "gp:id":12681954,
         "qs_pg:id":42680
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"13427479d11606a8e76ffdc1d4146707",
+    "wof:geomhash":"2481ca172902491757b0c94c36763e2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404468711,
-    "wof:lastmodified":1582328093,
+    "wof:lastmodified":1684353893,
     "wof:name":"Semiana",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":204,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

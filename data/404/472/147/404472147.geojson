@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bedonia",
+    "eurostat:nuts_2021_id":"034003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034003",
+    "eurostat:population":3288,
+    "eurostat:population_year":2020,
     "geom:area":0.019209,
-    "geom:area_square_m":169338040.368413,
+    "geom:area_square_m":169338040.368415,
     "geom:bbox":"9.48800630277,44.4400937125,9.66756884955,44.6123111342",
     "geom:latitude":44.525336,
     "geom:longitude":9.579039,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034003",
+        "eurostat:nuts_2021_id":"034003",
         "gn:id":6536704,
         "gp:id":20076738,
         "qs_pg:id":50895
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"498f5179569f315004460d2886b03cea",
+    "wof:geomhash":"14038bd4124f07b21554b5276c285f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404472147,
-    "wof:lastmodified":1582327909,
+    "wof:lastmodified":1684353953,
     "wof:name":"Bedonia",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":3288,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paluzza",
+    "eurostat:nuts_2021_id":"030071",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030071",
+    "eurostat:population":2056,
+    "eurostat:population_year":2020,
     "geom:area":0.008173,
-    "geom:area_square_m":69470220.77259,
+    "geom:area_square_m":69470220.772595,
     "geom:bbox":"12.8883804611,46.5008149568,13.0630235874,46.6104512484",
     "geom:latitude":46.572474,
     "geom:longitude":12.982984,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030071",
+        "eurostat:nuts_2021_id":"030071",
         "gn:id":6536313,
         "gp:id":12678728,
         "qs_pg:id":1296440
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f4c64e212cd19c520613fdf5d0399ae",
+    "wof:geomhash":"325766e9d09ea113501e6035fd8218d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470597,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353924,
     "wof:name":"Paluzza",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":2056,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_088012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vittoria",
+    "eurostat:nuts_2021_id":"088012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG18",
+    "eurostat:nuts_2021_level_lau":"088012",
+    "eurostat:population":63740,
+    "eurostat:population_year":2020,
     "geom:area":0.018368,
-    "geom:area_square_m":181491815.563018,
+    "geom:area_square_m":181491815.563021,
     "geom:bbox":"14.3877740835,36.8738329172,14.5972662063,37.0534552194",
     "geom:latitude":36.95681,
     "geom:longitude":14.496177,
@@ -95,6 +107,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -103,6 +117,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_088012",
+        "eurostat:nuts_2021_id":"088012",
         "gn:id":6540063,
         "gp:id":12675723,
         "qs_pg:id":956449
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6f0bbb05ef2ec3e0a8a306e7f22ddd7",
+    "wof:geomhash":"0991a8f2d549800ae50a765f00ffbdc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404466671,
-    "wof:lastmodified":1582328202,
+    "wof:lastmodified":1684353854,
     "wof:name":"Vittoria",
     "wof:parent_id":85685621,
     "wof:placetype":"localadmin",
+    "wof:population":63740,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

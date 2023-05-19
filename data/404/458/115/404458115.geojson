@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gualdo Tadino",
+    "eurostat:nuts_2021_id":"054023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054023",
+    "eurostat:population":14730,
+    "eurostat:population_year":2020,
     "geom:area":0.01375,
-    "geom:area_square_m":123884260.676683,
+    "geom:area_square_m":123884260.676695,
     "geom:bbox":"12.6571895838,43.162302284,12.838552876,43.2863773799",
     "geom:latitude":43.228161,
     "geom:longitude":12.754769,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054023",
+        "eurostat:nuts_2021_id":"054023",
         "gn:id":6536873,
         "gp:id":12678894,
         "qs_pg:id":51106
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8585b36fd756818d1b5cff758437c5f",
+    "wof:geomhash":"31331185aaf39e75a38080e84ddf0d06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404458115,
-    "wof:lastmodified":1582327960,
+    "wof:lastmodified":1684353664,
     "wof:name":"Gualdo Tadino",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":14730,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

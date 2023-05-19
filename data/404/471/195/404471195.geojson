@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Odolo",
+    "eurostat:nuts_2021_id":"017121",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017121",
+    "eurostat:population":1929,
+    "eurostat:population_year":2020,
     "geom:area":0.000756,
-    "geom:area_square_m":6532246.483148,
+    "geom:area_square_m":6532246.483149,
     "geom:bbox":"10.3717247835,45.6222300895,10.409343926,45.6532966568",
     "geom:latitude":45.639198,
     "geom:longitude":10.387923,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017121",
+        "eurostat:nuts_2021_id":"017121",
         "gn:id":6537175,
         "gp:id":12680735,
         "qs_pg:id":204133
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a409dd2d3adaccbde4039e4e9ddd8b0",
+    "wof:geomhash":"85f48a5a4b202aa39f2057b12c21c698",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471195,
-    "wof:lastmodified":1582327710,
+    "wof:lastmodified":1684353935,
     "wof:name":"Odolo",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1929,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

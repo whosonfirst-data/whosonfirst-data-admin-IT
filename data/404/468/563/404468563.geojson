@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trezzano sul Naviglio",
+    "eurostat:nuts_2021_id":"015220",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015220",
+    "eurostat:population":21303,
+    "eurostat:population_year":2020,
     "geom:area":0.001239,
     "geom:area_square_m":10750656.39005,
     "geom:bbox":"9.02481851305,45.4042389852,9.08972975767,45.4397950828",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015220",
+        "eurostat:nuts_2021_id":"015220",
         "gn:id":6536523,
         "gp:id":12682268,
         "qs_pg:id":902535
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3620e342ca5165f49539f05576e3ef59",
+    "wof:geomhash":"3f69d860a21c7c4c82823e74d2b6f5af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468563,
-    "wof:lastmodified":1582328085,
+    "wof:lastmodified":1684353891,
     "wof:name":"Trezzano Sul Naviglio",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":21303,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

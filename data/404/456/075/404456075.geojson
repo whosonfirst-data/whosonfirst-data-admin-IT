@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005074",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montaldo Scarampi",
+    "eurostat:nuts_2021_id":"005074",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005074",
+    "eurostat:population":740,
+    "eurostat:population_year":2020,
     "geom:area":0.000756,
     "geom:area_square_m":6625590.592272,
     "geom:bbox":"8.24583720101,44.8150454391,8.29793283023,44.848882491",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005074",
+        "eurostat:nuts_2021_id":"005074",
         "gn:id":6542408,
         "gp:id":20075856,
         "qs_pg:id":50333
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89e0163efd3bec8ad7affa9841f30106",
+    "wof:geomhash":"c0dbf69a09b9ccc5c623843fcdc82382",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456075,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353616,
     "wof:name":"Montaldo Scarampi",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

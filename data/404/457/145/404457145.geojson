@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Formigine",
+    "eurostat:nuts_2021_id":"036015",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036015",
+    "eurostat:population":34546,
+    "eurostat:population_year":2020,
     "geom:area":0.005298,
-    "geom:area_square_m":46658009.803337,
+    "geom:area_square_m":46658009.803341,
     "geom:bbox":"10.7844801359,44.5381552928,10.9208125181,44.6283546869",
     "geom:latitude":44.580016,
     "geom:longitude":10.845964,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036015",
+        "eurostat:nuts_2021_id":"036015",
         "gn:id":6538453,
         "gp:id":12678104,
         "qs_pg:id":907116
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d534da716fad5bf4bde153c58b534f1",
+    "wof:geomhash":"6d4c600376340cbddcaacce30d0c40dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404457145,
-    "wof:lastmodified":1582328105,
+    "wof:lastmodified":1684353643,
     "wof:name":"Formigine",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":34546,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

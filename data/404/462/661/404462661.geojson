@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pennadomo",
+    "eurostat:nuts_2021_id":"069063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069063",
+    "eurostat:population":219,
+    "eurostat:population_year":2020,
     "geom:area":0.001193,
-    "geom:area_square_m":10960399.227055,
+    "geom:area_square_m":10960399.227056,
     "geom:bbox":"14.2822734523,41.9803278632,14.3529824568,42.0340616121",
     "geom:latitude":42.004473,
     "geom:longitude":14.320867,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069063",
+        "eurostat:nuts_2021_id":"069063",
         "gn:id":6538883,
         "gp:id":12680975,
         "qs_pg:id":257908
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09de6249cfa9d970c34e5fc8b36d7b47",
+    "wof:geomhash":"0292772d648c9b702d159dca8202ad7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462661,
-    "wof:lastmodified":1582327859,
+    "wof:lastmodified":1684353762,
     "wof:name":"Pennadomo",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

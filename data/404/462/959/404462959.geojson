@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alife",
+    "eurostat:nuts_2021_id":"061002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061002",
+    "eurostat:population":7555,
+    "eurostat:population_year":2020,
     "geom:area":0.006889,
-    "geom:area_square_m":63971593.989814,
+    "geom:area_square_m":63971593.989828,
     "geom:bbox":"14.2754895875,41.2702766193,14.3947338395,41.3877952654",
     "geom:latitude":41.323308,
     "geom:longitude":14.333857,
@@ -47,6 +59,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -55,6 +69,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061002",
+        "eurostat:nuts_2021_id":"061002",
         "gn:id":6539769,
         "gp:id":12675958,
         "qs_pg:id":1187804
@@ -63,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"409c08a604858fd722e383f5ba87343d",
+    "wof:geomhash":"06e5f52bc00841e78b0e7b7d7c4a31e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +90,12 @@
         }
     ],
     "wof:id":404462959,
-    "wof:lastmodified":1582327863,
+    "wof:lastmodified":1684353770,
     "wof:name":"Alife",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":7555,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

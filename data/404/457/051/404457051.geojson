@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canossa",
+    "eurostat:nuts_2021_id":"035018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035018",
+    "eurostat:population":3729,
+    "eurostat:population_year":2020,
     "geom:area":0.006015,
-    "geom:area_square_m":53000236.382409,
+    "geom:area_square_m":53000236.382411,
     "geom:bbox":"10.3510971695,44.4985757581,10.4781460748,44.6164220267",
     "geom:latitude":44.551103,
     "geom:longitude":10.412791,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035018",
+        "eurostat:nuts_2021_id":"035018",
         "gn:id":6536351,
         "gp:id":12677528,
         "qs_pg:id":1037329
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c6967e239681e1124d02d2063ca5f7e2",
+    "wof:geomhash":"f58529bda5d6519d08bc80356fe513ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457051,
-    "wof:lastmodified":1582328117,
+    "wof:lastmodified":1684353641,
     "wof:name":"Canossa",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":3729,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

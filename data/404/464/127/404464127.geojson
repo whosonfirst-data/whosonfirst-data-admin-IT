@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerisano",
+    "eurostat:nuts_2021_id":"078037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078037",
+    "eurostat:population":3047,
+    "eurostat:population_year":2020,
     "geom:area":0.001585,
     "geom:area_square_m":15174384.101907,
     "geom:bbox":"16.1267482601,39.2586734698,16.2031162074,39.2981453847",
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078037",
+        "eurostat:nuts_2021_id":"078037"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4f1e49514eea6fa9299c0f09e54f91ce",
+    "wof:geomhash":"4b609e2a3bcd6f21b867d6e9a9e0b087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464127,
-    "wof:lastmodified":1566723226,
+    "wof:lastmodified":1684353798,
     "wof:name":"Cerisano",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":3047,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

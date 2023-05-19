@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_038014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mesola",
+    "eurostat:nuts_2021_id":"038014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH56",
+    "eurostat:nuts_2021_level_lau":"038014",
+    "eurostat:population":6633,
+    "eurostat:population_year":2020,
     "geom:area":0.009597,
     "geom:area_square_m":84054063.380005,
     "geom:bbox":"12.0992322974,44.8236880992,12.2949360365,44.9618069405",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_038014",
+        "eurostat:nuts_2021_id":"038014",
         "gn:id":6541039,
         "gp:id":20076746,
         "qs_pg:id":1252405
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fcd1e00d0761020e399a6a5db171800f",
+    "wof:geomhash":"49e83d22910210690ec5fbd8e321bdb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472389,
-    "wof:lastmodified":1582327907,
+    "wof:lastmodified":1684353960,
     "wof:name":"Mesola",
     "wof:parent_id":85685359,
     "wof:placetype":"localadmin",
+    "wof:population":6633,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

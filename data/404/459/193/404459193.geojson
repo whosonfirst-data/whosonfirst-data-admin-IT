@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leonforte",
+    "eurostat:nuts_2021_id":"086011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086011",
+    "eurostat:population":12858,
+    "eurostat:population_year":2020,
     "geom:area":0.008575,
-    "geom:area_square_m":83957093.277611,
+    "geom:area_square_m":83957093.277617,
     "geom:bbox":"14.3084321717,37.5654660002,14.4147340344,37.708078611",
     "geom:latitude":37.644687,
     "geom:longitude":14.365596,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086011",
+        "eurostat:nuts_2021_id":"086011",
         "gn:id":6541965,
         "gp:id":12677862,
         "qs_pg:id":1309536
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2287cfcc8ec8aabd0e5237d964a5053",
+    "wof:geomhash":"be33751a5de5773f7acac030f12167d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459193,
-    "wof:lastmodified":1582328155,
+    "wof:lastmodified":1684353688,
     "wof:name":"Leonforte",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":12858,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

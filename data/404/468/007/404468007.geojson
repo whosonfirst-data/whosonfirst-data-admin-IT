@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carlazzo",
+    "eurostat:nuts_2021_id":"013047",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013047",
+    "eurostat:population":3187,
+    "eurostat:population_year":2020,
     "geom:area":0.001481,
-    "geom:area_square_m":12712716.560144,
+    "geom:area_square_m":12712716.560143,
     "geom:bbox":"9.12347309952,46.0308713786,9.18643545864,46.0777359162",
     "geom:latitude":46.052154,
     "geom:longitude":9.158072,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013047",
+        "eurostat:nuts_2021_id":"013047",
         "gn:id":6537094,
         "gp:id":12677698,
         "qs_pg:id":1142877
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8577b29395435004fcd1c930e21524b",
+    "wof:geomhash":"846224b2e3ddd44ea44c4fa984470546",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404468007,
-    "wof:lastmodified":1582328080,
+    "wof:lastmodified":1684353883,
     "wof:name":"Carlazzo",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":3187,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

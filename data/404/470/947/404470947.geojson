@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbariga",
+    "eurostat:nuts_2021_id":"017011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017011",
+    "eurostat:population":2320,
+    "eurostat:population_year":2020,
     "geom:area":0.001304,
-    "geom:area_square_m":11318301.6678,
+    "geom:area_square_m":11318301.667798,
     "geom:bbox":"10.0229698024,45.3877193152,10.0733629804,45.4276182081",
     "geom:latitude":45.407127,
     "geom:longitude":10.046571,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017011",
+        "eurostat:nuts_2021_id":"017011",
         "gn:id":6543172,
         "gp:id":20076241,
         "qs_pg:id":904729
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eff064c1f1e60e461123920ac4e469fa",
+    "wof:geomhash":"a5b8f9ef7fa8dc788839c60381848efa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404470947,
-    "wof:lastmodified":1582327746,
+    "wof:lastmodified":1684353930,
     "wof:name":"Barbariga",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2320,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

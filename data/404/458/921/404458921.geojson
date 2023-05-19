@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_071036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orta Nova",
+    "eurostat:nuts_2021_id":"071036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF46",
+    "eurostat:nuts_2021_level_lau":"071036",
+    "eurostat:population":17333,
+    "eurostat:population_year":2020,
     "geom:area":0.011239,
-    "geom:area_square_m":104370237.770617,
+    "geom:area_square_m":104370237.770625,
     "geom:bbox":"15.6037181781,41.2464571664,15.8293133856,41.3778684053",
     "geom:latitude":41.321309,
     "geom:longitude":15.721522,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_071036",
+        "eurostat:nuts_2021_id":"071036",
         "gn:id":6541936,
         "gp:id":12680810,
         "qs_pg:id":342109
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f914822b5df76aa55cd51a4e96c3a33",
+    "wof:geomhash":"7a517c42b7a51f702fa9b944ba217c75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458921,
-    "wof:lastmodified":1582327962,
+    "wof:lastmodified":1684353681,
     "wof:name":"Orta Nova",
     "wof:parent_id":85685527,
     "wof:placetype":"localadmin",
+    "wof:population":17333,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

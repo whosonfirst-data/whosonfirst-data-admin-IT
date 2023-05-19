@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giorgio Piacentino",
+    "eurostat:nuts_2021_id":"033040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033040",
+    "eurostat:population":5654,
+    "eurostat:population_year":2020,
     "geom:area":0.005611,
-    "geom:area_square_m":49124795.270694,
+    "geom:area_square_m":49124795.27069,
     "geom:bbox":"9.68965740266,44.868436298,9.79584578336,44.9779635665",
     "geom:latitude":44.923783,
     "geom:longitude":9.739954,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033040",
+        "eurostat:nuts_2021_id":"033040",
         "gn:id":6536702,
         "gp:id":12678471,
         "qs_pg:id":248723
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"feef64a0be9ff2eba3dd3315894c2a04",
+    "wof:geomhash":"e96f05cd63c72298e31f369204910437",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404472121,
-    "wof:lastmodified":1582327893,
+    "wof:lastmodified":1684353952,
     "wof:name":"San Giorgio Piacentino",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":5654,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

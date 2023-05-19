@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gabiano",
+    "eurostat:nuts_2021_id":"006077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006077",
+    "eurostat:population":1052,
+    "eurostat:population_year":2020,
     "geom:area":0.002035,
-    "geom:area_square_m":17742243.608801,
+    "geom:area_square_m":17742243.608798,
     "geom:bbox":"8.17174154648,45.1252033491,8.2435363864,45.1783176152",
     "geom:latitude":45.152489,
     "geom:longitude":8.206246,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006077",
+        "eurostat:nuts_2021_id":"006077",
         "gn:id":6539667,
         "gp:id":12679444,
         "qs_pg:id":40875
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12d1264dfb1ea0703c4fd4b62dd76127",
+    "wof:geomhash":"ec3525a9e181919c9d3297c9659c8d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404460147,
-    "wof:lastmodified":1582328021,
+    "wof:lastmodified":1684353711,
     "wof:name":"Gabiano",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1052,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

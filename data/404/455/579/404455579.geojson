@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Isasca",
+    "eurostat:nuts_2021_id":"004103",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004103",
+    "eurostat:population":78,
+    "eurostat:population_year":2020,
     "geom:area":0.000576,
-    "geom:area_square_m":5069951.136368,
+    "geom:area_square_m":5069951.136367,
     "geom:bbox":"7.34768243474,44.5774297287,7.39090680921,44.6011728535",
     "geom:latitude":44.590209,
     "geom:longitude":7.370384,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004103",
+        "eurostat:nuts_2021_id":"004103",
         "gn:id":6543833,
         "gp:id":20075765,
         "qs_pg:id":50288
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f76efa835edce22965eb21706aa0b62",
+    "wof:geomhash":"8e1245c212eb5520a5f4e0e86c67ff8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455579,
-    "wof:lastmodified":1582327823,
+    "wof:lastmodified":1684353606,
     "wof:name":"Isasca",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":78,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

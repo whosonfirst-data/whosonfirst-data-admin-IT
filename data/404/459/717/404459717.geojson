@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantiano",
+    "eurostat:nuts_2021_id":"041008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041008",
+    "eurostat:population":2128,
+    "eurostat:population_year":2020,
     "geom:area":0.009247,
-    "geom:area_square_m":82987850.042439,
+    "geom:area_square_m":82987850.042435,
     "geom:bbox":"12.5429371287,43.4165560683,12.7153311298,43.5180742512",
     "geom:latitude":43.468062,
     "geom:longitude":12.627136,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041008",
+        "eurostat:nuts_2021_id":"041008",
         "gn:id":6541049,
         "gp:id":12677540,
         "qs_pg:id":1016780
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7dda5740a319311bf940b33125266a58",
+    "wof:geomhash":"9440a524c1a0c9095eff646b08223116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459717,
-    "wof:lastmodified":1582328177,
+    "wof:lastmodified":1684353699,
     "wof:name":"Cantiano",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":2128,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

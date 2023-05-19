@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_067008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campli",
+    "eurostat:nuts_2021_id":"067008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF12",
+    "eurostat:nuts_2021_level_lau":"067008",
+    "eurostat:population":6942,
+    "eurostat:population_year":2020,
     "geom:area":0.008048,
-    "geom:area_square_m":73097794.736476,
+    "geom:area_square_m":73097794.736482,
     "geom:bbox":"13.6009869944,42.6948771946,13.7895192505,42.7870105485",
     "geom:latitude":42.734388,
     "geom:longitude":13.697339,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_067008",
+        "eurostat:nuts_2021_id":"067008",
         "gn:id":6541519,
         "gp:id":12676634,
         "qs_pg:id":905487
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de2997dead7333270ed927805ea786d9",
+    "wof:geomhash":"504e28dcdfb8b0c48f27ba77112df71b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404462327,
-    "wof:lastmodified":1582327872,
+    "wof:lastmodified":1684353756,
     "wof:name":"Campli",
     "wof:parent_id":85685509,
     "wof:placetype":"localadmin",
+    "wof:population":6942,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

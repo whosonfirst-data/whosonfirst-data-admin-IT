@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seggiano",
+    "eurostat:nuts_2021_id":"053025",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053025",
+    "eurostat:population":990,
+    "eurostat:population_year":2020,
     "geom:area":0.00545,
-    "geom:area_square_m":49336026.861533,
+    "geom:area_square_m":49336026.861525,
     "geom:bbox":"11.5190158165,42.8880734698,11.6269363974,42.9704597632",
     "geom:latitude":42.933087,
     "geom:longitude":11.572427,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053025",
+        "eurostat:nuts_2021_id":"053025",
         "gn:id":6538611,
         "gp:id":12681160,
         "qs_pg:id":1187976
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff89f1b484f750b95870dbc7c7ae6011",
+    "wof:geomhash":"92de9ea5393b0a3e609a61ffb7e134c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404473013,
-    "wof:lastmodified":1582327915,
+    "wof:lastmodified":1684353975,
     "wof:name":"Seggiano",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":990,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

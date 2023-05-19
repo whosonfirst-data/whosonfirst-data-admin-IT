@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_039009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cotignola",
+    "eurostat:nuts_2021_id":"039009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH57",
+    "eurostat:nuts_2021_level_lau":"039009",
+    "eurostat:population":7375,
+    "eurostat:population_year":2020,
     "geom:area":0.003966,
-    "geom:area_square_m":35050819.68404,
+    "geom:area_square_m":35050819.684039,
     "geom:bbox":"11.8524989413,44.344378056,11.9838544365,44.4085622953",
     "geom:latitude":44.380034,
     "geom:longitude":11.911804,
@@ -149,6 +161,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -156,9 +170,12 @@
         404227509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_039009",
+        "eurostat:nuts_2021_id":"039009"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"25e44f3aff5ff436f7e61dbf3c4db502",
+    "wof:geomhash":"106c80ea024d5840c4cc9435202e07e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +186,12 @@
         }
     ],
     "wof:id":404472437,
-    "wof:lastmodified":1566723356,
+    "wof:lastmodified":1684353961,
     "wof:name":"Cotignola",
     "wof:parent_id":85685363,
     "wof:placetype":"localadmin",
+    "wof:population":7375,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

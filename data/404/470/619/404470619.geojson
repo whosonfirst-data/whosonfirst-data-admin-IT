@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prato Carnico",
+    "eurostat:nuts_2021_id":"030081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030081",
+    "eurostat:population":880,
+    "eurostat:population_year":2020,
     "geom:area":0.009568,
-    "geom:area_square_m":81417241.967283,
+    "geom:area_square_m":81417241.96728,
     "geom:bbox":"12.6300898317,46.4780022279,12.8495548954,46.5514006612",
     "geom:latitude":46.515888,
     "geom:longitude":12.738185,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030081",
+        "eurostat:nuts_2021_id":"030081",
         "gn:id":6536251,
         "gp:id":12678090,
         "qs_pg:id":1295949
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c68e4b42b6d73c77594e4d6dbe17553",
+    "wof:geomhash":"685e0e8ea221b8754fb9b5b334a800a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470619,
-    "wof:lastmodified":1582327740,
+    "wof:lastmodified":1684353925,
     "wof:name":"Prato Carnico",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":880,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

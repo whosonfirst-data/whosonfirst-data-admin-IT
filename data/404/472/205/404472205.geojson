@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_036039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Prospero",
+    "eurostat:nuts_2021_id":"036039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH54",
+    "eurostat:nuts_2021_level_lau":"036039",
+    "eurostat:population":6046,
+    "eurostat:population_year":2020,
     "geom:area":0.00393,
-    "geom:area_square_m":34490303.181438,
+    "geom:area_square_m":34490303.18144,
     "geom:bbox":"10.9825896593,44.7490304285,11.0867151055,44.8240021833",
     "geom:latitude":44.78948,
     "geom:longitude":11.032679,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_036039",
+        "eurostat:nuts_2021_id":"036039",
         "gn:id":6543015,
         "gp:id":12678061,
         "qs_pg:id":385997
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e34301a22016daf53eb5f3a3bea18e9e",
+    "wof:geomhash":"56c997937946fc2f72e0585004350bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472205,
-    "wof:lastmodified":1582327889,
+    "wof:lastmodified":1684353954,
     "wof:name":"San Prospero",
     "wof:parent_id":85685347,
     "wof:placetype":"localadmin",
+    "wof:population":6046,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

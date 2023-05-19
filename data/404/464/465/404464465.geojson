@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre di Ruggiero",
+    "eurostat:nuts_2021_id":"079148",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079148",
+    "eurostat:population":972,
+    "eurostat:population_year":2020,
     "geom:area":0.002601,
-    "geom:area_square_m":25118307.612812,
+    "geom:area_square_m":25118307.612817,
     "geom:bbox":"16.3264290877,38.6209579107,16.3937008085,38.7029284387",
     "geom:latitude":38.65899,
     "geom:longitude":16.358387,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079148",
+        "eurostat:nuts_2021_id":"079148"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d7544c67ec841b3545092029c4daf014",
+    "wof:geomhash":"b7b71566884a016692efce538ae71112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464465,
-    "wof:lastmodified":1566723223,
+    "wof:lastmodified":1684353807,
     "wof:name":"Torre Di Ruggiero",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":972,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

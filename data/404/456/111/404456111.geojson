@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roatto",
+    "eurostat:nuts_2021_id":"005091",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005091",
+    "eurostat:population":374,
+    "eurostat:population_year":2020,
     "geom:area":0.000732,
     "geom:area_square_m":6407571.197112,
     "geom:bbox":"7.998400748,44.9359849704,8.03505628053,44.9683682646",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005091",
+        "eurostat:nuts_2021_id":"005091",
         "gn:id":6542412,
         "gp:id":20075864,
         "qs_pg:id":1197089
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"364b2f257f2909a02dfda56814f5d71b",
+    "wof:geomhash":"b94ca499942322de6b80403ed2fa55f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456111,
-    "wof:lastmodified":1582328056,
+    "wof:lastmodified":1684353617,
     "wof:name":"Roatto",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":374,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

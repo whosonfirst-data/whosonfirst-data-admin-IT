@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montecastello",
+    "eurostat:nuts_2021_id":"006105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006105",
+    "eurostat:population":307,
+    "eurostat:population_year":2020,
     "geom:area":0.000854,
     "geom:area_square_m":7476725.20764,
     "geom:bbox":"8.67021951489,44.9420758695,8.71353569765,44.9730141837",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006105",
+        "eurostat:nuts_2021_id":"006105",
         "gn:id":6543532,
         "gp:id":20075922,
         "qs_pg:id":1189187
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"22a2b7f8075d51be462fabd5e8b71cd7",
+    "wof:geomhash":"6201aec0a8ba416803b57124dda4a3b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460211,
-    "wof:lastmodified":1582327997,
+    "wof:lastmodified":1684353712,
     "wof:name":"Montecastello",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":307,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

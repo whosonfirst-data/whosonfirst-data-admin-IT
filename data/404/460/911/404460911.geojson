@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_063019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casamicciola Terme",
+    "eurostat:nuts_2021_id":"063019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF33",
+    "eurostat:nuts_2021_level_lau":"063019",
+    "eurostat:population":8053,
+    "eurostat:population_year":2020,
     "geom:area":0.000621,
-    "geom:area_square_m":5822136.208527,
+    "geom:area_square_m":5822136.208529,
     "geom:bbox":"13.8907754113,40.7291389791,13.9317988479,40.7527878852",
     "geom:latitude":40.740988,
     "geom:longitude":13.90959,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_063019",
+        "eurostat:nuts_2021_id":"063019",
         "gn:id":3180125,
         "gp:id":12678003,
         "qs_pg:id":1193728
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"63aeffcfdb77933cf5751bc6a3c61049",
+    "wof:geomhash":"f159832545d82da2436d7385eba39202",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404460911,
-    "wof:lastmodified":1582328019,
+    "wof:lastmodified":1684353727,
     "wof:name":"Casamicciola Terme",
     "wof:parent_id":85685487,
     "wof:placetype":"localadmin",
+    "wof:population":8053,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sandigliano",
+    "eurostat:nuts_2021_id":"096059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096059",
+    "eurostat:population":2645,
+    "eurostat:population_year":2020,
     "geom:area":0.001178,
-    "geom:area_square_m":10206217.506206,
+    "geom:area_square_m":10206217.506205,
     "geom:bbox":"8.05194767339,45.4948139026,8.10066967115,45.5305889657",
     "geom:latitude":45.511852,
     "geom:longitude":8.077751,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096059",
+        "eurostat:nuts_2021_id":"096059",
         "gn:id":6537996,
         "gp:id":12681787,
         "qs_pg:id":42555
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"615a9dacb250f841cddbedbf6eedc65f",
+    "wof:geomhash":"03af25edc22107e0c7998ac5957ad834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460417,
-    "wof:lastmodified":1582328012,
+    "wof:lastmodified":1684353717,
     "wof:name":"Sandigliano",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":2645,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

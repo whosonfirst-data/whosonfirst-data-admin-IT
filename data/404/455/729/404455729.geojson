@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piozzo",
+    "eurostat:nuts_2021_id":"004169",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004169",
+    "eurostat:population":982,
+    "eurostat:population_year":2020,
     "geom:area":0.00162,
-    "geom:area_square_m":14283959.249944,
+    "geom:area_square_m":14283959.249942,
     "geom:bbox":"7.84897561365,44.4930457755,7.90984247847,44.5421789885",
     "geom:latitude":44.516376,
     "geom:longitude":7.880976,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004169",
+        "eurostat:nuts_2021_id":"004169",
         "gn:id":6543459,
         "gp:id":20075791,
         "qs_pg:id":1095559
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a6d5ce330d68f122a090c08ebd4fdd6",
+    "wof:geomhash":"8e8d9025bccf066ca6df0e133b1a437f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404455729,
-    "wof:lastmodified":1582327823,
+    "wof:lastmodified":1684353609,
     "wof:name":"Piozzo",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":982,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

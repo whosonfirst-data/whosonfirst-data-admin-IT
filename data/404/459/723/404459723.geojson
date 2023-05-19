@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_041010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cartoceto",
+    "eurostat:nuts_2021_id":"041010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI31",
+    "eurostat:nuts_2021_level_lau":"041010",
+    "eurostat:population":7983,
+    "eurostat:population_year":2020,
     "geom:area":0.00259,
-    "geom:area_square_m":23122145.164597,
+    "geom:area_square_m":23122145.16459,
     "geom:bbox":"12.8618027899,43.7551790673,12.9764771396,43.8097348248",
     "geom:latitude":43.77777,
     "geom:longitude":12.911608,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_041010",
+        "eurostat:nuts_2021_id":"041010",
         "gn:id":6543584,
         "gp:id":12679827,
         "qs_pg:id":1195682
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f2e70f515dbee71a7931e3de531c4dfe",
+    "wof:geomhash":"ffa376be7a90ecfc96313c3ed7fec08a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459723,
-    "wof:lastmodified":1582328165,
+    "wof:lastmodified":1684353699,
     "wof:name":"Cartoceto",
     "wof:parent_id":85685375,
     "wof:placetype":"localadmin",
+    "wof:population":7983,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

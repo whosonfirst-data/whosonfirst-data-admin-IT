@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortanze",
+    "eurostat:nuts_2021_id":"005046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005046",
+    "eurostat:population":274,
+    "eurostat:population_year":2020,
     "geom:area":0.000511,
-    "geom:area_square_m":4469979.134713,
+    "geom:area_square_m":4469979.134714,
     "geom:bbox":"8.07046667441,45.0052808492,8.10040907474,45.0355725425",
     "geom:latitude":45.017631,
     "geom:longitude":8.087313,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005046",
+        "eurostat:nuts_2021_id":"005046",
         "gn:id":6538172,
         "gp:id":12678935,
         "qs_pg:id":995403
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"56ce369bd4deb6a11ca37c86e8499b2b",
+    "wof:geomhash":"c91a015c6c313d88f7836c301a7fa843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456011,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353615,
     "wof:name":"Cortanze",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

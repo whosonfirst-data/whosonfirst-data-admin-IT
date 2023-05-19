@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova d'Asti",
+    "eurostat:nuts_2021_id":"005118",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005118",
+    "eurostat:population":5647,
+    "eurostat:population_year":2020,
     "geom:area":0.004786,
-    "geom:area_square_m":41884937.212534,
+    "geom:area_square_m":41884937.212532,
     "geom:bbox":"7.88346891655,44.912304687,7.99416105687,44.9939168347",
     "geom:latitude":44.951423,
     "geom:longitude":7.934813,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005118",
+        "eurostat:nuts_2021_id":"005118",
         "gn:id":6536429,
         "gp:id":12682469,
         "qs_pg:id":1196672
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"debe6f36a54b25c9f800ed41d498b89d",
+    "wof:geomhash":"be469dd15447ccce531eebfa1345f164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404456169,
-    "wof:lastmodified":1582328048,
+    "wof:lastmodified":1684353618,
     "wof:name":"Villanova D'Asti",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":5647,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

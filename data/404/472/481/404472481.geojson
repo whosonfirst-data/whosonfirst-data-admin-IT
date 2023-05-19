@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galeata",
+    "eurostat:nuts_2021_id":"040014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040014",
+    "eurostat:population":2446,
+    "eurostat:population_year":2020,
     "geom:area":0.007079,
-    "geom:area_square_m":62974982.294512,
+    "geom:area_square_m":62974982.294515,
     "geom:bbox":"11.8496611457,43.9300507919,11.9941461165,44.0573116754",
     "geom:latitude":43.991233,
     "geom:longitude":11.913533,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040014",
+        "eurostat:nuts_2021_id":"040014",
         "gn:id":6538488,
         "gp:id":12677168,
         "qs_pg:id":946828
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ce2219e2a549d4f1b2a4a82de4e691e",
+    "wof:geomhash":"b25c575ac680485beacc07529126a3aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472481,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353962,
     "wof:name":"Galeata",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":2446,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

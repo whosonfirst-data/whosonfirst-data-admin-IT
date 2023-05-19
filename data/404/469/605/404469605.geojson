@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cesano Maderno",
+    "eurostat:nuts_2021_id":"108019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108019",
+    "eurostat:population":39518,
+    "eurostat:population_year":2020,
     "geom:area":0.00133,
     "geom:area_square_m":11496310.636246,
     "geom:bbox":"9.10798371841,45.6144525374,9.19079705271,45.6434791619",
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108019",
+        "eurostat:nuts_2021_id":"108019",
         "gn:id":6541989,
         "gp:id":12678558,
         "qs_pg:id":1037433
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4326dbb52ac2a13788844ce3e1f24a59",
+    "wof:geomhash":"49661e484f555aacca05c0528b81f429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404469605,
-    "wof:lastmodified":1582328028,
+    "wof:lastmodified":1684353906,
     "wof:name":"Cesano Maderno",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":39518,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

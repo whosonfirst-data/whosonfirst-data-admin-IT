@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orciano Pisano",
+    "eurostat:nuts_2021_id":"050023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050023",
+    "eurostat:population":614,
+    "eurostat:population_year":2020,
     "geom:area":0.001294,
     "geom:area_square_m":11606050.249816,
     "geom:bbox":"10.4738929103,43.472705798,10.5272488183,43.5180600081",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050023",
+        "eurostat:nuts_2021_id":"050023",
         "gn:id":6543598,
         "gp:id":20076760,
         "qs_pg:id":1197121
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c90e3d9acce503f49b9f27d895d731a",
+    "wof:geomhash":"e855b850dbf734d145214f0a04ba444b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472931,
-    "wof:lastmodified":1582327877,
+    "wof:lastmodified":1684353973,
     "wof:name":"Orciano Pisano",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":614,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

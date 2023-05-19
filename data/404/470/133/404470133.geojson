@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Povegliano",
+    "eurostat:nuts_2021_id":"026062",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026062",
+    "eurostat:population":5178,
+    "eurostat:population_year":2020,
     "geom:area":0.001492,
     "geom:area_square_m":12875558.931284,
     "geom:bbox":"12.1524250994,45.7361962221,12.2298904513,45.7723270063",
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026062",
+        "eurostat:nuts_2021_id":"026062",
         "gn:id":6539921,
         "gp:id":12677363,
         "qs_pg:id":1000558
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8064cb3a1f999c51019ab7ffb482332b",
+    "wof:geomhash":"5ca17ab689a2e9edb24008d5db601ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404470133,
-    "wof:lastmodified":1582327737,
+    "wof:lastmodified":1684353916,
     "wof:name":"Povegliano",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":5178,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

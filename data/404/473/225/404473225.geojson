@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Lorenzo di Sebato/St. Lorenzen",
+    "eurostat:nuts_2021_id":"021081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021081",
+    "eurostat:population":3879,
+    "eurostat:population_year":2020,
     "geom:area":0.006058,
-    "geom:area_square_m":51308931.166884,
+    "geom:area_square_m":51308931.166887,
     "geom:bbox":"11.797935988,46.7299524221,11.9369152574,46.8014050201",
     "geom:latitude":46.765662,
     "geom:longitude":11.871815,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021081",
+        "eurostat:nuts_2021_id":"021081",
         "gp:id":12679304,
         "qs_pg:id":235735
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9f231af645d11ea8cf03a146a7edd2b0",
+    "wof:geomhash":"eef089477a02671fe5266e1314f94bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473225,
-    "wof:lastmodified":1582327928,
+    "wof:lastmodified":1684353983,
     "wof:name":"San Lorenzo Di Sebato",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3879,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

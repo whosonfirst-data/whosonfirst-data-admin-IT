@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molino dei Torti",
+    "eurostat:nuts_2021_id":"006096",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006096",
+    "eurostat:population":589,
+    "eurostat:population_year":2020,
     "geom:area":0.000315,
     "geom:area_square_m":2749023.671325,
     "geom:bbox":"8.88276480344,45.0163681273,8.90480255335,45.0404165143",
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006096",
+        "eurostat:nuts_2021_id":"006096",
         "gn:id":6542872,
         "gp:id":12678912,
         "qs_pg:id":40599
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0cfded690785b9fc3fecb90452e0fa7",
+    "wof:geomhash":"5607dd05a77ee578f78736a5c73c7683",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404460191,
-    "wof:lastmodified":1582328009,
+    "wof:lastmodified":1684353712,
     "wof:name":"Molino Dei Torti",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":589,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

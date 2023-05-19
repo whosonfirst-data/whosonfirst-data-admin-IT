@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Norma",
+    "eurostat:nuts_2021_id":"059016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059016",
+    "eurostat:population":3823,
+    "eurostat:population_year":2020,
     "geom:area":0.003366,
-    "geom:area_square_m":31119996.91504,
+    "geom:area_square_m":31119996.915041,
     "geom:bbox":"12.9275921662,41.5704877322,13.0253456449,41.6407604752",
     "geom:latitude":41.6016,
     "geom:longitude":12.980146,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059016",
+        "eurostat:nuts_2021_id":"059016",
         "gn:id":6538696,
         "gp:id":12680701,
         "qs_pg:id":537497
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf26996fe3e1476ea5a573f199b7c2f2",
+    "wof:geomhash":"b984d86f6b63edcc384743e456475be4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461823,
-    "wof:lastmodified":1582328140,
+    "wof:lastmodified":1684353747,
     "wof:name":"Norma",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":3823,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Subbiano",
+    "eurostat:nuts_2021_id":"051037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051037",
+    "eurostat:population":6394,
+    "eurostat:population_year":2020,
     "geom:area":0.008672,
-    "geom:area_square_m":77658024.833819,
+    "geom:area_square_m":77658024.833821,
     "geom:bbox":"11.8380727071,43.5373877707,11.967996971,43.6499301811",
     "geom:latitude":43.593972,
     "geom:longitude":11.904601,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051037",
+        "eurostat:nuts_2021_id":"051037",
         "gn:id":6540482,
         "gp:id":12677296,
         "qs_pg:id":209092
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d5a625800382c63bfc4722cb97498da",
+    "wof:geomhash":"da8628d90e258eed3be5755096a801f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463793,
-    "wof:lastmodified":1582327778,
+    "wof:lastmodified":1684353786,
     "wof:name":"Subbiano",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":6394,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

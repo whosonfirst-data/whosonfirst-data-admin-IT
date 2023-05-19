@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_103010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belgirate",
+    "eurostat:nuts_2021_id":"103010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC14",
+    "eurostat:nuts_2021_level_lau":"103010",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.000826,
     "geom:area_square_m":7118015.380344,
     "geom:bbox":"8.56030151405,45.8282334618,8.59548826299,45.8606000594",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_103010",
+        "eurostat:nuts_2021_id":"103010",
         "gn:id":6538032,
         "gp:id":20075984,
         "qs_pg:id":248061
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed66f354a6420e6e5486b4c1383083d8",
+    "wof:geomhash":"64701dba78a0b58530c369d07601e59e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404459447,
-    "wof:lastmodified":1582328156,
+    "wof:lastmodified":1684353693,
     "wof:name":"Belgirate",
     "wof:parent_id":85685695,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

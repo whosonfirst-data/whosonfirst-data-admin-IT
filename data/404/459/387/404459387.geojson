@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verr\u00e8s",
+    "eurostat:nuts_2021_id":"007073",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007073",
+    "eurostat:population":2632,
+    "eurostat:population_year":2020,
     "geom:area":0.000966,
     "geom:area_square_m":8346081.342987,
     "geom:bbox":"7.67147868377,45.647408739,7.72722552823,45.6879285165",
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_007073",
+        "eurostat:nuts_2021_id":"007073"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"83961ebaef0f5aa5ac9765b441a063f2",
+    "wof:geomhash":"d49d9b294a1e7836399fde2f72907b26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404459387,
-    "wof:lastmodified":1566723758,
+    "wof:lastmodified":1684353692,
     "wof:name":"Verr\u00e8s",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":2632,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

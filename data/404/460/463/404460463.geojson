@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viddalba",
+    "eurostat:nuts_2021_id":"090082",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090082",
+    "eurostat:population":1663,
+    "eurostat:population_year":2020,
     "geom:area":0.005393,
     "geom:area_square_m":50389122.914212,
     "geom:bbox":"8.86829460518,40.8850547532,8.99177125817,40.9623188686",
@@ -182,6 +194,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -190,6 +204,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090082",
+        "eurostat:nuts_2021_id":"090082",
         "gn:id":6543648,
         "gp:id":12680028,
         "qs_pg:id":41278
@@ -198,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d96fb6bf5598b732679dcc1d70b5c4f3",
+    "wof:geomhash":"606c8d8a0517129218e9e3dc448f917b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,10 +225,12 @@
         }
     ],
     "wof:id":404460463,
-    "wof:lastmodified":1582328001,
+    "wof:lastmodified":1684353718,
     "wof:name":"Viddalba",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":1663,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteverdi Marittimo",
+    "eurostat:nuts_2021_id":"050021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050021",
+    "eurostat:population":767,
+    "eurostat:population_year":2020,
     "geom:area":0.010864,
-    "geom:area_square_m":97956153.330529,
+    "geom:area_square_m":97956153.330501,
     "geom:bbox":"10.6431930214,43.1085168104,10.7755468855,43.2472878471",
     "geom:latitude":43.182277,
     "geom:longitude":10.715391,
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_050021",
+        "eurostat:nuts_2021_id":"050021"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8147a6fce2e5dd1510a98e5b798991b1",
+    "wof:geomhash":"397886fac22eae11e16deca5cdf9dd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404472927,
-    "wof:lastmodified":1566723384,
+    "wof:lastmodified":1684353973,
     "wof:name":"Monteverdi Marittimo",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":767,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

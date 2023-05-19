@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pier d'Isonzo",
+    "eurostat:nuts_2021_id":"031021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031021",
+    "eurostat:population":1989,
+    "eurostat:population_year":2020,
     "geom:area":0.001043,
     "geom:area_square_m":8987622.125158,
     "geom:bbox":"13.4282146089,45.8251868525,13.4867601089,45.8657232378",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031021",
+        "eurostat:nuts_2021_id":"031021",
         "gn:id":6538406,
         "gp:id":12676653,
         "qs_pg:id":1013347
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bc969cc2886110dc8aa7e0cb383d39be",
+    "wof:geomhash":"b7bc51aef30ce253f7f3570746f01062",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404459077,
-    "wof:lastmodified":1582328157,
+    "wof:lastmodified":1684353685,
     "wof:name":"San Pier D'Isonzo",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":1989,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

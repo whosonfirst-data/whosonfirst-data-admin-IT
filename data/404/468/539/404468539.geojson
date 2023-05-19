@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Vittore Olona",
+    "eurostat:nuts_2021_id":"015201",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015201",
+    "eurostat:population":8340,
+    "eurostat:population_year":2020,
     "geom:area":0.000402,
     "geom:area_square_m":3482127.02015,
     "geom:bbox":"8.925134,45.571875,8.964454,45.593454",
@@ -134,14 +146,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
-        404227497,
-        85685243
+        85685243,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015201",
+        "eurostat:nuts_2021_id":"015201",
         "gn:id":6542934,
         "gp:id":12682602,
         "qs_pg:id":538353
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5e5cf637941d1f8d24f4c54ac9ee56a",
+    "wof:geomhash":"9f26abb9e2e5af49538ec78c0a9dfac3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468539,
-    "wof:lastmodified":1608041566,
+    "wof:lastmodified":1684353890,
     "wof:name":"San Vittore Olona",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":8340,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

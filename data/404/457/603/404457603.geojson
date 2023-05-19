@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rovasenda",
+    "eurostat:nuts_2021_id":"002122",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002122",
+    "eurostat:population":928,
+    "eurostat:population_year":2020,
     "geom:area":0.003374,
     "geom:area_square_m":29223126.999209,
     "geom:bbox":"8.2774400463,45.4968684841,8.34801977713,45.5790372982",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002122",
+        "eurostat:nuts_2021_id":"002122",
         "gn:id":6538115,
         "gp:id":12677045,
         "qs_pg:id":1059601
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57eb12ef71499fdc03a37d924d2557f7",
+    "wof:geomhash":"25f08e357832579bc8c9e6248abea6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404457603,
-    "wof:lastmodified":1582328103,
+    "wof:lastmodified":1684353653,
     "wof:name":"Rovasenda",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":928,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

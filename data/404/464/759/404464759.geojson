@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brognaturo",
+    "eurostat:nuts_2021_id":"102004",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102004",
+    "eurostat:population":592,
+    "eurostat:population_year":2020,
     "geom:area":0.002631,
-    "geom:area_square_m":25432230.550359,
+    "geom:area_square_m":25432230.550356,
     "geom:bbox":"16.3378458727,38.5538305119,16.4348433281,38.6126915162",
     "geom:latitude":38.586446,
     "geom:longitude":16.387452,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102004",
+        "eurostat:nuts_2021_id":"102004"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"c47d372817b12de7ee3d8c1a8757ade6",
+    "wof:geomhash":"f45a9fc99b5982a4b53e392a5f0a09d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464759,
-    "wof:lastmodified":1566723233,
+    "wof:lastmodified":1684353816,
     "wof:name":"Brognaturo",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":592,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

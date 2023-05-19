@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bitritto",
+    "eurostat:nuts_2021_id":"072012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072012",
+    "eurostat:population":11296,
+    "eurostat:population_year":2020,
     "geom:area":0.001907,
-    "geom:area_square_m":17783859.256765,
+    "geom:area_square_m":17783859.256764,
     "geom:bbox":"16.798272903,41.0058687455,16.8456351772,41.0694886557",
     "geom:latitude":41.036291,
     "geom:longitude":16.82335,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_072012",
+        "eurostat:nuts_2021_id":"072012"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"bfccec96e4e8cd02a7c435732f21bde5",
+    "wof:geomhash":"39d9fcece2518b19b6bfec46993f7ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404463197,
-    "wof:lastmodified":1566723191,
+    "wof:lastmodified":1684353774,
     "wof:name":"Bitritto",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":11296,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

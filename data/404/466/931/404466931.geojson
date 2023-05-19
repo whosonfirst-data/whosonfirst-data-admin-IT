@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elmas",
+    "eurostat:nuts_2021_id":"092108",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092108",
+    "eurostat:population":9519,
+    "eurostat:population_year":2020,
     "geom:area":0.001423,
     "geom:area_square_m":13625896.845147,
     "geom:bbox":"9.01508708964,39.2383107381,9.08479489934,39.2847970792",
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092108",
+        "eurostat:nuts_2021_id":"092108",
         "gn:id":6539581,
         "gp:id":20076847,
         "qs_pg:id":1059761
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34a8176b6efc62850b631609cfacb381",
+    "wof:geomhash":"82a684af0f65224f3d77366285436441",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404466931,
-    "wof:lastmodified":1582328182,
+    "wof:lastmodified":1684353862,
     "wof:name":"Elmas",
     "wof:parent_id":1360702173,
     "wof:placetype":"localadmin",
+    "wof:population":9519,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

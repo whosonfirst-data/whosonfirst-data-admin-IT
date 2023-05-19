@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_051038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talla",
+    "eurostat:nuts_2021_id":"051038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI18",
+    "eurostat:nuts_2021_level_lau":"051038",
+    "eurostat:population":999,
+    "eurostat:population_year":2020,
     "geom:area":0.006673,
-    "geom:area_square_m":59752913.314731,
+    "geom:area_square_m":59752913.314726,
     "geom:bbox":"11.6860612549,43.5566423784,11.8291663166,43.6425546543",
     "geom:latitude":43.600994,
     "geom:longitude":11.761193,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_051038",
+        "eurostat:nuts_2021_id":"051038",
         "gn:id":6539967,
         "gp:id":12676429,
         "qs_pg:id":1195809
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70ed0b3420d9bfa6213a6a7e4623aae6",
+    "wof:geomhash":"60804144fa6241ba25fcc30a84662c03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404463795,
-    "wof:lastmodified":1582327780,
+    "wof:lastmodified":1684353786,
     "wof:name":"Talla",
     "wof:parent_id":85685423,
     "wof:placetype":"localadmin",
+    "wof:population":999,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

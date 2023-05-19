@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campodoro",
+    "eurostat:nuts_2021_id":"028018",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028018",
+    "eurostat:population":2647,
+    "eurostat:population_year":2020,
     "geom:area":0.001292,
-    "geom:area_square_m":11194977.606676,
+    "geom:area_square_m":11194977.606674,
     "geom:bbox":"11.7279987569,45.4741373239,11.7732357002,45.5214371213",
     "geom:latitude":45.499738,
     "geom:longitude":11.75273,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_028018",
+        "eurostat:nuts_2021_id":"028018",
         "gn:id":6536667,
         "gp:id":12677444,
         "qs_pg:id":291419
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cdadd4e671ed3a8c5b0a93d6d266113d",
+    "wof:geomhash":"6f8429ec21b42097a9da7792d102eba5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470239,
-    "wof:lastmodified":1582327754,
+    "wof:lastmodified":1684353918,
     "wof:name":"Campodoro",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":2647,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

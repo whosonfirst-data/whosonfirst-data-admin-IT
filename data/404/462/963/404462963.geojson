@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvignano",
+    "eurostat:nuts_2021_id":"061003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061003",
+    "eurostat:population":4714,
+    "eurostat:population_year":2020,
     "geom:area":0.004079,
-    "geom:area_square_m":37920465.633839,
+    "geom:area_square_m":37920465.633838,
     "geom:bbox":"14.3116739614,41.2073053561,14.4013936188,41.2806620217",
     "geom:latitude":41.243037,
     "geom:longitude":14.358084,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061003",
+        "eurostat:nuts_2021_id":"061003",
         "gn:id":6538719,
         "gp:id":12676037,
         "qs_pg:id":38770
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"314d9ccf750ce13bd7eb250ed9b86009",
+    "wof:geomhash":"f4d71a0563dd318c4a4a1733841ce47c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462963,
-    "wof:lastmodified":1582327852,
+    "wof:lastmodified":1684353770,
     "wof:name":"Alvignano",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":4714,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

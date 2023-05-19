@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marnate",
+    "eurostat:nuts_2021_id":"012098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012098",
+    "eurostat:population":8024,
+    "eurostat:population_year":2020,
     "geom:area":0.00056,
-    "geom:area_square_m":4839178.865158,
+    "geom:area_square_m":4839178.865159,
     "geom:bbox":"8.89205386822,45.619076606,8.93702733835,45.64146235",
     "geom:latitude":45.63045,
     "geom:longitude":8.913529,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012098",
+        "eurostat:nuts_2021_id":"012098",
         "gn:id":6540158,
         "gp:id":12680190,
         "qs_pg:id":291437
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16e1841a04104dea69e8769b817bbe63",
+    "wof:geomhash":"d6cb82b6d10652206c502c98e298ef56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467831,
-    "wof:lastmodified":1582327985,
+    "wof:lastmodified":1684353880,
     "wof:name":"Marnate",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":8024,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

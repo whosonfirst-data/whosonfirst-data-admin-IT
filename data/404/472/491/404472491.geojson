@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_040019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meldola",
+    "eurostat:nuts_2021_id":"040019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH58",
+    "eurostat:nuts_2021_level_lau":"040019",
+    "eurostat:population":10013,
+    "eurostat:population_year":2020,
     "geom:area":0.008882,
     "geom:area_square_m":78871398.635935,
     "geom:bbox":"11.9966371261,44.0342275319,12.1350875061,44.1512562263",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_040019",
+        "eurostat:nuts_2021_id":"040019",
         "gn:id":6538491,
         "gp:id":12679714,
         "qs_pg:id":53064
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a58ca3bd1f5d206806533e00601f61b4",
+    "wof:geomhash":"16000fa0f13ff15b7bb4c304cca912d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404472491,
-    "wof:lastmodified":1582327889,
+    "wof:lastmodified":1684353962,
     "wof:name":"Meldola",
     "wof:parent_id":85685367,
     "wof:placetype":"localadmin",
+    "wof:population":10013,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

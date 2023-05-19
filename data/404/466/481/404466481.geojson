@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montallegro",
+    "eurostat:nuts_2021_id":"084024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084024",
+    "eurostat:population":2484,
+    "eurostat:population_year":2020,
     "geom:area":0.002781,
-    "geom:area_square_m":27323650.477127,
+    "geom:area_square_m":27323650.477129,
     "geom:bbox":"13.2921853413,37.3630703132,13.4087885014,37.4152808027",
     "geom:latitude":37.391326,
     "geom:longitude":13.353626,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084024",
+        "eurostat:nuts_2021_id":"084024",
         "gn:id":6540841,
         "gp:id":12680439,
         "qs_pg:id":1320560
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6dbc062151497bb82e46570e70593a7c",
+    "wof:geomhash":"154801c9769dd4d7605a33ed0ee30157",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404466481,
-    "wof:lastmodified":1582328202,
+    "wof:lastmodified":1684353850,
     "wof:name":"Montallegro",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":2484,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

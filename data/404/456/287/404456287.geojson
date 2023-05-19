@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candia Canavese",
+    "eurostat:nuts_2021_id":"001050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001050",
+    "eurostat:population":1214,
+    "eurostat:population_year":2020,
     "geom:area":0.001049,
-    "geom:area_square_m":9117107.025189,
+    "geom:area_square_m":9117107.025187,
     "geom:bbox":"7.87412851516,45.3133590661,7.92273857271,45.3494446109",
     "geom:latitude":45.33042,
     "geom:longitude":7.897459,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001050",
+        "eurostat:nuts_2021_id":"001050",
         "gn:id":6538045,
         "gp:id":12677493,
         "qs_pg:id":248025
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ee95fb1e5e09b0a6ec153708efb296f",
+    "wof:geomhash":"0967994c42908452180c57c56f605f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456287,
-    "wof:lastmodified":1582328050,
+    "wof:lastmodified":1684353620,
     "wof:name":"Candia Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":1214,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

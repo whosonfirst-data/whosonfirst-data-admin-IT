@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel Rocchero",
+    "eurostat:nuts_2021_id":"005032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005032",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.00064,
     "geom:area_square_m":5619848.111028,
     "geom:bbox":"8.39450150317,44.7067742867,8.43341425011,44.7334190087",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005032",
+        "eurostat:nuts_2021_id":"005032",
         "gn:id":6543483,
         "gp:id":20075839,
         "qs_pg:id":1025571
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b51c3be7a88b7e584c45fc49e018f8d",
+    "wof:geomhash":"968887d7f6aa7ffb3a136d7d3b16aa3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404455983,
-    "wof:lastmodified":1582327814,
+    "wof:lastmodified":1684353614,
     "wof:name":"Castel Rocchero",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

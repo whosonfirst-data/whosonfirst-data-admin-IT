@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sassari",
+    "eurostat:nuts_2021_id":"090064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090064",
+    "eurostat:population":126218,
+    "eurostat:population_year":2020,
     "geom:area":0.058368,
-    "geom:area_square_m":546800700.633073,
+    "geom:area_square_m":546800700.633074,
     "geom:bbox":"8.13080575281,40.6517040886,8.64363773343,40.8692559425",
     "geom:latitude":40.744569,
     "geom:longitude":8.364215,
@@ -242,6 +254,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -250,6 +264,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090064",
+        "eurostat:nuts_2021_id":"090064",
         "gn:id":6540111,
         "gp:id":20076812,
         "qs_pg:id":1151213
@@ -258,7 +274,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"026559ccd72edc6156b613f3587ac11c",
+    "wof:geomhash":"a48fcf9253ab83452ed0d707da8e639e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,10 +285,12 @@
         }
     ],
     "wof:id":404466825,
-    "wof:lastmodified":1582328204,
+    "wof:lastmodified":1684353859,
     "wof:name":"Sassari",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":126218,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

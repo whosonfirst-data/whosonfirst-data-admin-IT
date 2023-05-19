@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cazzago Brabbia",
+    "eurostat:nuts_2021_id":"012049",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012049",
+    "eurostat:population":817,
+    "eurostat:population_year":2020,
     "geom:area":0.000464,
-    "geom:area_square_m":3997727.848601,
+    "geom:area_square_m":3997727.8486,
     "geom:bbox":"8.71247966091,45.7898536154,8.75266877291,45.8115957069",
     "geom:latitude":45.799797,
     "geom:longitude":8.733322,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012049",
+        "eurostat:nuts_2021_id":"012049",
         "gn:id":6543084,
         "gp:id":20076033,
         "qs_pg:id":1094883
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5be7636e7c347d23e1db7222b50497d",
+    "wof:geomhash":"390b11b1100c153bb509f66fa202aefc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467721,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353879,
     "wof:name":"Cazzago Brabbia",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":817,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

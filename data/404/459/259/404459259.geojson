@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Licodia Eubea",
+    "eurostat:nuts_2021_id":"087020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087020",
+    "eurostat:population":3005,
+    "eurostat:population_year":2020,
     "geom:area":0.011341,
-    "geom:area_square_m":111795664.656289,
+    "geom:area_square_m":111795664.656312,
     "geom:bbox":"14.5827431646,37.0792429955,14.7961948935,37.2201063666",
     "geom:latitude":37.138505,
     "geom:longitude":14.677636,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087020",
+        "eurostat:nuts_2021_id":"087020",
         "gn:id":6539197,
         "gp:id":20077060,
         "qs_pg:id":51092
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ced4af1a0c4d8b1a7ec0bf6976995a2c",
+    "wof:geomhash":"128d522173fced018a2a6cbd58627fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459259,
-    "wof:lastmodified":1582328159,
+    "wof:lastmodified":1684353690,
     "wof:name":"Licodia Eubea",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":3005,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

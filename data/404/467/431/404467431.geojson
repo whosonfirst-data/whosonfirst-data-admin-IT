@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busto Arsizio",
+    "eurostat:nuts_2021_id":"012026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012026",
+    "eurostat:population":83909,
+    "eurostat:population_year":2020,
     "geom:area":0.003539,
-    "geom:area_square_m":30614225.377542,
+    "geom:area_square_m":30614225.377543,
     "geom:bbox":"8.80497458063,45.5684492001,8.88236943801,45.6426403858",
     "geom:latitude":45.606259,
     "geom:longitude":8.84221,
@@ -197,6 +209,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -205,6 +219,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012026",
+        "eurostat:nuts_2021_id":"012026",
         "gn:id":6537075,
         "gp:id":12676113,
         "qs_pg:id":1150525
@@ -213,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"915a3c61ae1531471f79786a26317c72",
+    "wof:geomhash":"f2317042df724f18a6ba6f34f87c890e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404467431,
-    "wof:lastmodified":1582327973,
+    "wof:lastmodified":1684353874,
     "wof:name":"Busto Arsizio",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":83909,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

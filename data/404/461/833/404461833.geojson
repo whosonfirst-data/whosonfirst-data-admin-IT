@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prossedi",
+    "eurostat:nuts_2021_id":"059020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059020",
+    "eurostat:population":1198,
+    "eurostat:population_year":2020,
     "geom:area":0.003805,
-    "geom:area_square_m":35237911.788639,
+    "geom:area_square_m":35237911.788633,
     "geom:bbox":"13.2218007312,41.451999819,13.2989781713,41.539902623",
     "geom:latitude":41.497336,
     "geom:longitude":13.25806,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059020",
+        "eurostat:nuts_2021_id":"059020",
         "gn:id":6536974,
         "gp:id":12681286,
         "qs_pg:id":1102204
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fdc15e7f44c8454b638ac355e2f122b1",
+    "wof:geomhash":"ec002dff0cb98df79d02c7a03d113d7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461833,
-    "wof:lastmodified":1582328132,
+    "wof:lastmodified":1684353747,
     "wof:name":"Prossedi",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

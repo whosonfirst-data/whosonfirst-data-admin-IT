@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001233",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salerano Canavese",
+    "eurostat:nuts_2021_id":"001233",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001233",
+    "eurostat:population":468,
+    "eurostat:population_year":2020,
     "geom:area":0.000242,
     "geom:area_square_m":2099866.577644,
     "geom:bbox":"7.82676174379,45.4473734939,7.85678505895,45.4701695524",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001233",
+        "eurostat:nuts_2021_id":"001233",
         "gn:id":6543263,
         "gp:id":20076509,
         "qs_pg:id":1070812
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25b6297be2720ff4e6af34851a918ba8",
+    "wof:geomhash":"1cdd194c7047616962ebda3b6a786a62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404457267,
-    "wof:lastmodified":1582328103,
+    "wof:lastmodified":1684353646,
     "wof:name":"Salerano Canavese",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":468,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

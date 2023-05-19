@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casei Gerola",
+    "eurostat:nuts_2021_id":"018033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018033",
+    "eurostat:population":2472,
+    "eurostat:population_year":2020,
     "geom:area":0.002834,
-    "geom:area_square_m":24771644.779013,
+    "geom:area_square_m":24771644.779015,
     "geom:bbox":"8.88110185067,44.9816991954,8.9711765326,45.0598094177",
     "geom:latitude":45.011847,
     "geom:longitude":8.932748,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018033",
+        "eurostat:nuts_2021_id":"018033",
         "gn:id":6540283,
         "gp:id":12676630,
         "qs_pg:id":1252097
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41af93689961dda510c1759cb3d38564",
+    "wof:geomhash":"1878fcaea7c37810c6ba5322f3b99223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404458339,
-    "wof:lastmodified":1582327938,
+    "wof:lastmodified":1684353668,
     "wof:name":"Casei Gerola",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":2472,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

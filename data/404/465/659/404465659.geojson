@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pagani",
+    "eurostat:nuts_2021_id":"065088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065088",
+    "eurostat:population":35404,
+    "eurostat:population_year":2020,
     "geom:area":0.001271,
-    "geom:area_square_m":11906218.598405,
+    "geom:area_square_m":11906218.598406,
     "geom:bbox":"14.5783984709,40.7220034908,14.6293929156,40.7825459884",
     "geom:latitude":40.752829,
     "geom:longitude":14.609455,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065088",
+        "eurostat:nuts_2021_id":"065088",
         "gn:id":6538821,
         "gp:id":12680870,
         "qs_pg:id":1286552
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62f7eeccc4ca41c529c605b2c015e8fa",
+    "wof:geomhash":"525e1a57df20c28a837f3e485557ac55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404465659,
-    "wof:lastmodified":1582327833,
+    "wof:lastmodified":1684353835,
     "wof:name":"Pagani",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":35404,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

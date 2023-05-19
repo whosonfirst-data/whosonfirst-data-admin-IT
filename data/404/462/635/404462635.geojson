@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteferrante",
+    "eurostat:nuts_2021_id":"069052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069052",
+    "eurostat:population":118,
+    "eurostat:population_year":2020,
     "geom:area":0.001653,
-    "geom:area_square_m":15201853.609176,
+    "geom:area_square_m":15201853.609173,
     "geom:bbox":"14.3644131108,41.8963741861,14.4071753157,41.9692870484",
     "geom:latitude":41.938197,
     "geom:longitude":14.38783,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069052",
+        "eurostat:nuts_2021_id":"069052",
         "gn:id":6537484,
         "gp:id":12680501,
         "qs_pg:id":41594
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d31fa9daf32b0e59a2587aa2dc8be1c6",
+    "wof:geomhash":"d75f7ba0d48f1391f95e23c464cb6f96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462635,
-    "wof:lastmodified":1582327858,
+    "wof:lastmodified":1684353762,
     "wof:name":"Monteferrante",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

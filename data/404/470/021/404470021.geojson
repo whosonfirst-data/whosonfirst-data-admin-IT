@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelfranco Veneto",
+    "eurostat:nuts_2021_id":"026012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026012",
+    "eurostat:population":33564,
+    "eurostat:population_year":2020,
     "geom:area":0.005956,
-    "geom:area_square_m":51465717.617117,
+    "geom:area_square_m":51465717.617124,
     "geom:bbox":"11.8680233729,45.613075573,11.9973721742,45.7078639033",
     "geom:latitude":45.667028,
     "geom:longitude":11.93481,
@@ -161,6 +173,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -169,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026012",
+        "eurostat:nuts_2021_id":"026012",
         "gn:id":6540390,
         "gp:id":12677721,
         "qs_pg:id":907113
@@ -177,7 +193,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b318a6ac6eabcd05aeb2fc12aec72ca7",
+    "wof:geomhash":"329664023101da6bd95e720a245eeaac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404470021,
-    "wof:lastmodified":1582327753,
+    "wof:lastmodified":1684353914,
     "wof:name":"Castelfranco Veneto",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":33564,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

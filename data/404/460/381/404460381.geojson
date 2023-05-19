@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pettinengo",
+    "eurostat:nuts_2021_id":"096042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096042",
+    "eurostat:population":1503,
+    "eurostat:population_year":2020,
     "geom:area":0.00152,
     "geom:area_square_m":13136124.888479,
     "geom:bbox":"7.99678529514,45.5930966825,8.12375763899,45.7406052727",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096042",
+        "eurostat:nuts_2021_id":"096042",
         "gn:id":6536410,
         "gp:id":12681020,
         "qs_pg:id":1263152
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6364500ae677411bfd169e3a9f0d098",
+    "wof:geomhash":"2e214a3aa0ce006e092203ebef7ad23e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460381,
-    "wof:lastmodified":1582328021,
+    "wof:lastmodified":1684353716,
     "wof:name":"Pettinengo",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":1503,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

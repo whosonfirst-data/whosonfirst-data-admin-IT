@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belfiore",
+    "eurostat:nuts_2021_id":"023007",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023007",
+    "eurostat:population":3261,
+    "eurostat:population_year":2020,
     "geom:area":0.003038,
-    "geom:area_square_m":26389911.311344,
+    "geom:area_square_m":26389911.311347,
     "geom:bbox":"11.1637649042,45.3245042121,11.2715534645,45.4034377291",
     "geom:latitude":45.374562,
     "geom:longitude":11.21723,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023007",
+        "eurostat:nuts_2021_id":"023007",
         "gn:id":6539918,
         "gp:id":12676658,
         "qs_pg:id":982392
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"791e4aff24577a97c5bd70f0ecba53fc",
+    "wof:geomhash":"3ff987dcb77fbd1c0073462c87c25c60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469647,
-    "wof:lastmodified":1582328037,
+    "wof:lastmodified":1684353907,
     "wof:name":"Belfiore",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":3261,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

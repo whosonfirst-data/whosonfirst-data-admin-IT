@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaiola",
+    "eurostat:nuts_2021_id":"004093",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004093",
+    "eurostat:population":576,
+    "eurostat:population_year":2020,
     "geom:area":0.000561,
-    "geom:area_square_m":4961201.449299,
+    "geom:area_square_m":4961201.4493,
     "geom:bbox":"7.38676206218,44.3192601202,7.42461578494,44.3445153407",
     "geom:latitude":44.333866,
     "geom:longitude":7.406492,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004093",
+        "eurostat:nuts_2021_id":"004093",
         "gn:id":6539573,
         "gp:id":12679458,
         "qs_pg:id":961698
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0224699cca0afcbcd3028fd198db1d15",
+    "wof:geomhash":"5b95749f5aa360e965ff4467c15d7c10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455557,
-    "wof:lastmodified":1582327810,
+    "wof:lastmodified":1684353606,
     "wof:name":"Gaiola",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":576,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

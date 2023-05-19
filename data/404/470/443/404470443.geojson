@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amaro",
+    "eurostat:nuts_2021_id":"030002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030002",
+    "eurostat:population":849,
+    "eurostat:population_year":2020,
     "geom:area":0.003884,
-    "geom:area_square_m":33124604.98997,
+    "geom:area_square_m":33124604.989971,
     "geom:bbox":"13.0503382115,46.362173565,13.1635738374,46.4193172993",
     "geom:latitude":46.390353,
     "geom:longitude":13.101551,
@@ -101,6 +113,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -109,6 +123,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030002",
+        "eurostat:nuts_2021_id":"030002",
         "gn:id":6538360,
         "gp:id":12676046,
         "qs_pg:id":203703
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b29da87e90593278e2d254b04d81d011",
+    "wof:geomhash":"5db1cd64d5d714fc43887ebe83489c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404470443,
-    "wof:lastmodified":1582327751,
+    "wof:lastmodified":1684353922,
     "wof:name":"Amaro",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":849,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morbello",
+    "eurostat:nuts_2021_id":"006110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006110",
+    "eurostat:population":417,
+    "eurostat:population_year":2020,
     "geom:area":0.002717,
-    "geom:area_square_m":23921550.02881,
+    "geom:area_square_m":23921550.028805,
     "geom:bbox":"8.48967562252,44.5466620954,8.55106610476,44.6351808621",
     "geom:latitude":44.595093,
     "geom:longitude":8.521457,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006110",
+        "eurostat:nuts_2021_id":"006110",
         "gn:id":6542474,
         "gp:id":20075924,
         "qs_pg:id":1023784
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4109ebec443f1d89522066a66384a8e",
+    "wof:geomhash":"dc9a7f0dc00af91436f5f990c1b70be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460221,
-    "wof:lastmodified":1582327999,
+    "wof:lastmodified":1684353713,
     "wof:name":"Morbello",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

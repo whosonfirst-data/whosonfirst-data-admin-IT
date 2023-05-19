@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valmozzola",
+    "eurostat:nuts_2021_id":"034044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034044",
+    "eurostat:population":528,
+    "eurostat:population_year":2020,
     "geom:area":0.007669,
-    "geom:area_square_m":67549276.714034,
+    "geom:area_square_m":67549276.714035,
     "geom:bbox":"9.79977399893,44.5289577976,9.94873771469,44.6251532634",
     "geom:latitude":44.575627,
     "geom:longitude":9.874694,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034044",
+        "eurostat:nuts_2021_id":"034044",
         "gn:id":6542707,
         "gp:id":12680171,
         "qs_pg:id":1112556
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0cf251a0fed1f028c79de42c6c5cc6be",
+    "wof:geomhash":"a766f6fb3be94f75afcdd5e65771e429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467631,
-    "wof:lastmodified":1582327988,
+    "wof:lastmodified":1684353877,
     "wof:name":"Valmozzola",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":528,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

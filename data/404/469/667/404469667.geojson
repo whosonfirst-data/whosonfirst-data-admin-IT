@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buttapietra",
+    "eurostat:nuts_2021_id":"023016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023016",
+    "eurostat:population":7035,
+    "eurostat:population_year":2020,
     "geom:area":0.001983,
     "geom:area_square_m":17234094.213884,
     "geom:bbox":"10.9717057062,45.3149977734,11.0401109962,45.3709109846",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023016",
+        "eurostat:nuts_2021_id":"023016",
         "gn:id":6540972,
         "gp:id":12677054,
         "qs_pg:id":1164409
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71b7dd690121836472dfeccc9aae4163",
+    "wof:geomhash":"a823f98cbfb8584007271de07f435e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404469667,
-    "wof:lastmodified":1582328029,
+    "wof:lastmodified":1684353908,
     "wof:name":"Buttapietra",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":7035,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

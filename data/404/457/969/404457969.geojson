@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_007021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogne",
+    "eurostat:nuts_2021_id":"007021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC2",
+    "eurostat:nuts_2021_level_3":"ITC20",
+    "eurostat:nuts_2021_level_lau":"007021",
+    "eurostat:population":1350,
+    "eurostat:population_year":2020,
     "geom:area":0.024574,
-    "geom:area_square_m":212637058.270757,
+    "geom:area_square_m":212637058.270761,
     "geom:bbox":"7.25715059418,45.5125864318,7.50623539706,45.6670433208",
     "geom:latitude":45.589935,
     "geom:longitude":7.368255,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_007021",
+        "eurostat:nuts_2021_id":"007021",
         "gn:id":6540317,
         "gp:id":12676375,
         "qs_pg:id":891644
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6f23c64b14f9df75c2c7657c17db0c3f",
+    "wof:geomhash":"81c6ed3c00381894e12b4e2958bb0180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404457969,
-    "wof:lastmodified":1582328110,
+    "wof:lastmodified":1684353660,
     "wof:name":"Cogne",
     "wof:parent_id":85685205,
     "wof:placetype":"localadmin",
+    "wof:population":1350,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

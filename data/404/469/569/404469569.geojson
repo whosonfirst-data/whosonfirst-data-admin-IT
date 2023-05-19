@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_108003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albiate",
+    "eurostat:nuts_2021_id":"108003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4D",
+    "eurostat:nuts_2021_level_lau":"108003",
+    "eurostat:population":6405,
+    "eurostat:population_year":2020,
     "geom:area":0.000331,
     "geom:area_square_m":2858931.222382,
     "geom:bbox":"9.23579439313,45.6415526723,9.26679184211,45.6677792733",
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_108003",
+        "eurostat:nuts_2021_id":"108003",
         "gn:id":3183321,
         "gp:id":12681322,
         "qs_pg:id":190835
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36a2bb1b6c16622e8098a086e4d1b0c9",
+    "wof:geomhash":"a8dbe33baaaf201816ca33c489e5426d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469569,
-    "wof:lastmodified":1582328023,
+    "wof:lastmodified":1684353906,
     "wof:name":"Albiate",
     "wof:parent_id":85685723,
     "wof:placetype":"localadmin",
+    "wof:population":6405,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

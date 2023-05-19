@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_101001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belvedere di Spinello",
+    "eurostat:nuts_2021_id":"101001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF62",
+    "eurostat:nuts_2021_level_lau":"101001",
+    "eurostat:population":2167,
+    "eurostat:population_year":2020,
     "geom:area":0.003127,
-    "geom:area_square_m":29964899.258989,
+    "geom:area_square_m":29964899.258983,
     "geom:bbox":"16.8690480079,39.173955539,16.9649619252,39.2431705704",
     "geom:latitude":39.206053,
     "geom:longitude":16.91183,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_101001",
+        "eurostat:nuts_2021_id":"101001"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"03f7207c757c081876aa1f9d45b29dbe",
+    "wof:geomhash":"17e20904ed143f967064e74a554ec12a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404464693,
-    "wof:lastmodified":1566723221,
+    "wof:lastmodified":1684353813,
     "wof:name":"Belvedere Di Spinello",
     "wof:parent_id":85685687,
     "wof:placetype":"localadmin",
+    "wof:population":2167,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

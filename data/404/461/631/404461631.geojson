@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Licenza",
+    "eurostat:nuts_2021_id":"058051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058051",
+    "eurostat:population":896,
+    "eurostat:population_year":2020,
     "geom:area":0.001953,
-    "geom:area_square_m":17927315.776629,
+    "geom:area_square_m":17927315.77662,
     "geom:bbox":"12.8610058613,42.0527706237,12.9286875926,42.1041836757",
     "geom:latitude":42.078006,
     "geom:longitude":12.892279,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058051",
+        "eurostat:nuts_2021_id":"058051",
         "gn:id":6538676,
         "gp:id":12679950,
         "qs_pg:id":1093074
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8557607eb3fa49043248bd45ef82cd60",
+    "wof:geomhash":"9d2e9c77efe014e7c8015227555c9426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461631,
-    "wof:lastmodified":1582328146,
+    "wof:lastmodified":1684353742,
     "wof:name":"Licenza",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":896,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

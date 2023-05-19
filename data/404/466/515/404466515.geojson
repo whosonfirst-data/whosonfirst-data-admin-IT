@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Angelo Muxaro",
+    "eurostat:nuts_2021_id":"084039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084039",
+    "eurostat:population":1241,
+    "eurostat:population_year":2020,
     "geom:area":0.006551,
-    "geom:area_square_m":64293497.811367,
+    "geom:area_square_m":64293497.811377,
     "geom:bbox":"13.4333661493,37.4344661352,13.6161044842,37.4957651774",
     "geom:latitude":37.467312,
     "geom:longitude":13.517135,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084039",
+        "eurostat:nuts_2021_id":"084039",
         "gn:id":6541768,
         "gp:id":12677790,
         "qs_pg:id":39878
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2e645c22c5b0e3ddc6fd06f48365bc8",
+    "wof:geomhash":"5a52f9f8874435b5a2e77ff9345db3ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404466515,
-    "wof:lastmodified":1582328211,
+    "wof:lastmodified":1684353851,
     "wof:name":"Sant'Angelo Muxaro",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":1241,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

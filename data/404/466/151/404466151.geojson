@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorisole",
+    "eurostat:nuts_2021_id":"016202",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016202",
+    "eurostat:population":9120,
+    "eurostat:population_year":2020,
     "geom:area":0.001418,
-    "geom:area_square_m":12232125.796642,
+    "geom:area_square_m":12232125.796641,
     "geom:bbox":"9.61655603169,45.7260565505,9.68085441497,45.7744412105",
     "geom:latitude":45.75113,
     "geom:longitude":9.652317,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016202",
+        "eurostat:nuts_2021_id":"016202",
         "gn:id":6541669,
         "gp:id":12682054,
         "qs_pg:id":1314807
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"846e3a938179ff5c21b94b13155e5585",
+    "wof:geomhash":"7b2e363f3ac294e8a471c7c748b5ff58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404466151,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353843,
     "wof:name":"Sorisole",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":9120,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

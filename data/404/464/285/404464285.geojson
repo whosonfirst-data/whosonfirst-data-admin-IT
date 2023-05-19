@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roseto Capo Spulico",
+    "eurostat:nuts_2021_id":"078107",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078107",
+    "eurostat:population":1916,
+    "eurostat:population_year":2020,
     "geom:area":0.003203,
-    "geom:area_square_m":30340079.54821,
+    "geom:area_square_m":30340079.548217,
     "geom:bbox":"16.5289087811,39.9639047621,16.629699481,40.0261594816",
     "geom:latitude":39.99721,
     "geom:longitude":16.582856,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078107",
+        "eurostat:nuts_2021_id":"078107"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"908cc598f3b4538e4df28ecb6b331291",
+    "wof:geomhash":"b8f656f8ce2467c9df762d0ae2a1eb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464285,
-    "wof:lastmodified":1566723238,
+    "wof:lastmodified":1684353802,
     "wof:name":"Roseto Capo Spulico",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1916,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

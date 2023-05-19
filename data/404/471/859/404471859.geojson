@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Lorenzo al Mare",
+    "eurostat:nuts_2021_id":"008054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008054",
+    "eurostat:population":1260,
+    "eurostat:population_year":2020,
     "geom:area":0.000144,
-    "geom:area_square_m":1286876.887421,
+    "geom:area_square_m":1286876.887422,
     "geom:bbox":"7.95263541348,43.8496568273,7.97012233036,43.8678987359",
     "geom:latitude":43.858862,
     "geom:longitude":7.962124,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008054",
+        "eurostat:nuts_2021_id":"008054",
         "gn:id":6537047,
         "gp:id":12681671,
         "qs_pg:id":537947
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"325b070e3ccdb39301c97098d4f2b4a8",
+    "wof:geomhash":"ca6eb2f17cbaff51b6008e40bec2b04f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404471859,
-    "wof:lastmodified":1582327715,
+    "wof:lastmodified":1684353947,
     "wof:name":"San Lorenzo Al Mare",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":1260,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

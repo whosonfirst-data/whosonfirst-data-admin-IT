@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frisanco",
+    "eurostat:nuts_2021_id":"093024",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093024",
+    "eurostat:population":594,
+    "eurostat:population_year":2020,
     "geom:area":0.007104,
-    "geom:area_square_m":60766669.174021,
+    "geom:area_square_m":60766669.174017,
     "geom:bbox":"12.5999123199,46.1851379599,12.7730731582,46.2654932814",
     "geom:latitude":46.225912,
     "geom:longitude":12.688707,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_093024",
+        "eurostat:nuts_2021_id":"093024",
         "gn:id":6539328,
         "gp:id":12679425,
         "qs_pg:id":1317121
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95ea4dd8e9b6894ceb29d1738da4394a",
+    "wof:geomhash":"4abf1474c248fec9264689acd16e037a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459151,
-    "wof:lastmodified":1582328155,
+    "wof:lastmodified":1684353687,
     "wof:name":"Frisanco",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":594,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

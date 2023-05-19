@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cocullo",
+    "eurostat:nuts_2021_id":"066037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066037",
+    "eurostat:population":212,
+    "eurostat:population_year":2020,
     "geom:area":0.003426,
-    "geom:area_square_m":31462928.429697,
+    "geom:area_square_m":31462928.429696,
     "geom:bbox":"13.7212274901,41.9978204858,13.8229729505,42.0643135989",
     "geom:latitude":42.033847,
     "geom:longitude":13.771512,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066037",
+        "eurostat:nuts_2021_id":"066037",
         "gn:id":6541919,
         "gp:id":12678741,
         "qs_pg:id":1092995
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89b5ef4cca8efcab6529ae88396edf67",
+    "wof:geomhash":"6ae13cd7b27ae8941579899b7634e488",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404462149,
-    "wof:lastmodified":1582327875,
+    "wof:lastmodified":1684353753,
     "wof:name":"Cocullo",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":212,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

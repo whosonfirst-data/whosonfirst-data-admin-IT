@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esterzili",
+    "eurostat:nuts_2021_id":"111020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111020",
+    "eurostat:population":580,
+    "eurostat:population_year":2020,
     "geom:area":0.010594,
-    "geom:area_square_m":100728905.291193,
+    "geom:area_square_m":100728905.291186,
     "geom:bbox":"9.2415444682,39.6738520008,9.39772382194,39.808074034",
     "geom:latitude":39.742161,
     "geom:longitude":9.31786,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111020",
+        "eurostat:nuts_2021_id":"111020",
         "gn:id":6539251,
         "gp:id":12679165,
         "qs_pg:id":1000238
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f48670bb300cedbf16227e8c12b068f8",
+    "wof:geomhash":"93ece081df01a642ef17dbfc27bc766f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466941,
-    "wof:lastmodified":1582328194,
+    "wof:lastmodified":1684353862,
     "wof:name":"Esterzili",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":580,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

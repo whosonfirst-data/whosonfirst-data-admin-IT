@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chiesanuova",
+    "eurostat:nuts_2021_id":"001079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001079",
+    "eurostat:population":220,
+    "eurostat:population_year":2020,
     "geom:area":0.000474,
-    "geom:area_square_m":4111863.528327,
+    "geom:area_square_m":4111863.528326,
     "geom:bbox":"7.62913738002,45.4083374469,7.66254011765,45.4376747083",
     "geom:latitude":45.422798,
     "geom:longitude":7.647637,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001079",
+        "eurostat:nuts_2021_id":"001079",
         "gn:id":6535267,
         "gp:id":20076461,
         "qs_pg:id":1026054
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18ee406345b495a7e69b1f85e37faf3a",
+    "wof:geomhash":"2d2e6767d7152a14c20156e84ebb4e02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404456351,
-    "wof:lastmodified":1582328061,
+    "wof:lastmodified":1684353622,
     "wof:name":"Chiesanuova",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

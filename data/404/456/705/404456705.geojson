@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Domenica Talao",
+    "eurostat:nuts_2021_id":"078130",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078130",
+    "eurostat:population":1200,
+    "eurostat:population_year":2020,
     "geom:area":0.003771,
-    "geom:area_square_m":35807278.829549,
+    "geom:area_square_m":35807278.829544,
     "geom:bbox":"15.8154091939,39.7804587571,15.8900561266,39.8684957293",
     "geom:latitude":39.82637,
     "geom:longitude":15.845112,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078130",
+        "eurostat:nuts_2021_id":"078130"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"e217fe8d20fbf319afdf14237ab7446f",
+    "wof:geomhash":"1b1fdab1bb1e653ece9801197731100e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404456705,
-    "wof:lastmodified":1566723591,
+    "wof:lastmodified":1684353631,
     "wof:name":"Santa Domenica Talao",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1200,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

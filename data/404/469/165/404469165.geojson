@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Mantovano",
+    "eurostat:nuts_2021_id":"020045",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020045",
+    "eurostat:population":16653,
+    "eurostat:population_year":2020,
     "geom:area":0.004289,
-    "geom:area_square_m":37373307.658415,
+    "geom:area_square_m":37373307.658418,
     "geom:bbox":"10.6827742015,45.1594378304,10.8387554305,45.2256822596",
     "geom:latitude":45.192256,
     "geom:longitude":10.755505,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_020045",
+        "eurostat:nuts_2021_id":"020045",
         "gn:id":3170081,
         "gp:id":12678017,
         "qs_pg:id":388648
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"174728ac81c4d22d83c322e82e0d1c75",
+    "wof:geomhash":"d829c484a9b8f1da8aff587bfa45e571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404469165,
-    "wof:lastmodified":1582328034,
+    "wof:lastmodified":1684353900,
     "wof:name":"Porto Mantovano",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":16653,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

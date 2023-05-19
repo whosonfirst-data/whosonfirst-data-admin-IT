@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stilo",
+    "eurostat:nuts_2021_id":"080092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080092",
+    "eurostat:population":2499,
+    "eurostat:population_year":2020,
     "geom:area":0.007989,
-    "geom:area_square_m":77316733.942913,
+    "geom:area_square_m":77316733.942906,
     "geom:bbox":"16.3453185143,38.42274195,16.5708606387,38.5737373511",
     "geom:latitude":38.49789,
     "geom:longitude":16.435418,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080092",
+        "eurostat:nuts_2021_id":"080092",
         "gn:id":6537726,
         "gp:id":20077017,
         "qs_pg:id":51070
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e626dd875d530684e508d9d5f8b7708a",
+    "wof:geomhash":"c3b2465cbaab5bc3ff0a04f584f87af0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404464679,
-    "wof:lastmodified":1582327803,
+    "wof:lastmodified":1684353813,
     "wof:name":"Stilo",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":2499,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

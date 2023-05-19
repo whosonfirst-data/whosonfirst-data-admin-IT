@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corsione",
+    "eurostat:nuts_2021_id":"005044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005044",
+    "eurostat:population":203,
+    "eurostat:population_year":2020,
     "geom:area":0.00058,
-    "geom:area_square_m":5075011.221697,
+    "geom:area_square_m":5075011.221695,
     "geom:bbox":"8.13984863739,44.9770657834,8.17491598701,45.0212144347",
     "geom:latitude":45.002747,
     "geom:longitude":8.154654,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005044",
+        "eurostat:nuts_2021_id":"005044",
         "gn:id":6542395,
         "gp:id":20075845,
         "qs_pg:id":223907
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb43c84ffc8635b57f97fec9a87b0812",
+    "wof:geomhash":"cfdac03bb7dfc626a40c57d506a85962",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456007,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353615,
     "wof:name":"Corsione",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":203,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

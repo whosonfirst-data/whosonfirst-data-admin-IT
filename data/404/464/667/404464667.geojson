@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serrata",
+    "eurostat:nuts_2021_id":"080087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080087",
+    "eurostat:population":813,
+    "eurostat:population_year":2020,
     "geom:area":0.00226,
-    "geom:area_square_m":21858820.988267,
+    "geom:area_square_m":21858820.988265,
     "geom:bbox":"16.052032631,38.4945455541,16.1627763089,38.5623418871",
     "geom:latitude":38.528239,
     "geom:longitude":16.087736,
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080087",
+        "eurostat:nuts_2021_id":"080087",
         "gn:id":6539107,
         "gp:id":12681983,
         "qs_pg:id":42704
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"70aad3127c5024771b3fc6c4ffa62953",
+    "wof:geomhash":"726f62f4df48dae03d3a05c90d26d519",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404464667,
-    "wof:lastmodified":1582327797,
+    "wof:lastmodified":1684353812,
     "wof:name":"Serrata",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":813,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

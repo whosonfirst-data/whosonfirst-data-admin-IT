@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rocca di Cave",
+    "eurostat:nuts_2021_id":"058085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058085",
+    "eurostat:population":354,
+    "eurostat:population_year":2020,
     "geom:area":0.001199,
     "geom:area_square_m":11049467.587054,
     "geom:bbox":"12.9189225486,41.8242617094,12.96666458,41.861141131",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_058085",
+        "eurostat:nuts_2021_id":"058085"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"7b14c10decb68a5cf8963ee18c40984b",
+    "wof:geomhash":"2807530a5acc686c4b04f8cdf1c3bfd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404461707,
-    "wof:lastmodified":1566723686,
+    "wof:lastmodified":1684353744,
     "wof:name":"Rocca Di Cave",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":354,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

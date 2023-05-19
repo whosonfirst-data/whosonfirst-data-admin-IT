@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jerzu",
+    "eurostat:nuts_2021_id":"091035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091035",
+    "eurostat:population":3147,
+    "eurostat:population_year":2020,
     "geom:area":0.010767,
-    "geom:area_square_m":102387542.991333,
+    "geom:area_square_m":102387542.991339,
     "geom:bbox":"9.46028558883,39.5728330745,9.61274186338,39.8129785803",
     "geom:latitude":39.734439,
     "geom:longitude":9.542903,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091035",
+        "eurostat:nuts_2021_id":"091035",
         "gn:id":6539259,
         "gp:id":12679746,
         "qs_pg:id":968271
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85598cacd1edd6ad395e7a17cad1055a",
+    "wof:geomhash":"960f0247e3a360687de96f365bc99f33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467239,
-    "wof:lastmodified":1582327987,
+    "wof:lastmodified":1684353869,
     "wof:name":"Jerzu",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":3147,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

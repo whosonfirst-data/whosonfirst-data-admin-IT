@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castroreale",
+    "eurostat:nuts_2021_id":"083016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083016",
+    "eurostat:population":2336,
+    "eurostat:population_year":2020,
     "geom:area":0.005413,
-    "geom:area_square_m":52694866.568364,
+    "geom:area_square_m":52694866.568367,
     "geom:bbox":"15.1770065305,38.0062628616,15.2785541382,38.1292814666",
     "geom:latitude":38.064735,
     "geom:longitude":15.224809,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083016",
+        "eurostat:nuts_2021_id":"083016",
         "gn:id":6537756,
         "gp:id":12676414,
         "qs_pg:id":976122
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52f309831324174d1c69fe18d23f6b31",
+    "wof:geomhash":"f5b5e386486870ed94325d7f4476ebd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404466221,
-    "wof:lastmodified":1582328187,
+    "wof:lastmodified":1684353845,
     "wof:name":"Castroreale",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":2336,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

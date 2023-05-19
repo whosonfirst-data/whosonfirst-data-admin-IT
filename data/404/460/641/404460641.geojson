@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Prisco",
+    "eurostat:nuts_2021_id":"061081",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061081",
+    "eurostat:population":12293,
+    "eurostat:population_year":2020,
     "geom:area":0.000831,
-    "geom:area_square_m":7744347.158483,
+    "geom:area_square_m":7744347.158485,
     "geom:bbox":"14.2567615015,41.0795290699,14.2948177383,41.1165299535",
     "geom:latitude":41.098261,
     "geom:longitude":14.276575,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061081",
+        "eurostat:nuts_2021_id":"061081",
         "gn:id":6540672,
         "gp:id":12681749,
         "qs_pg:id":1196049
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc0a6d80f567c686da23e16ef346f0d8",
+    "wof:geomhash":"2275448816ba518b9eee44d9dc1c103b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404460641,
-    "wof:lastmodified":1582328014,
+    "wof:lastmodified":1684353722,
     "wof:name":"San Prisco",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":12293,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

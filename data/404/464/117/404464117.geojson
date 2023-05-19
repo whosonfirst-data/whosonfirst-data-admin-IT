@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castroregio",
+    "eurostat:nuts_2021_id":"078032",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078032",
+    "eurostat:population":252,
+    "eurostat:population_year":2020,
     "geom:area":0.004395,
-    "geom:area_square_m":41633055.640291,
+    "geom:area_square_m":41633055.640284,
     "geom:bbox":"16.3863220046,39.9518014285,16.5150476794,40.0553672691",
     "geom:latitude":39.993111,
     "geom:longitude":16.453495,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078032",
+        "eurostat:nuts_2021_id":"078032"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f80879bcbffe603fce095e239fdde569",
+    "wof:geomhash":"b5a7bd6be60e9333131aa6d5067060ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464117,
-    "wof:lastmodified":1566723228,
+    "wof:lastmodified":1684353797,
     "wof:name":"Castroregio",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":252,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

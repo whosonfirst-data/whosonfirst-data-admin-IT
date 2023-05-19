@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taverna",
+    "eurostat:nuts_2021_id":"079146",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079146",
+    "eurostat:population":2562,
+    "eurostat:population_year":2020,
     "geom:area":0.013647,
-    "geom:area_square_m":130919853.53305,
+    "geom:area_square_m":130919853.533043,
     "geom:bbox":"16.4791402715,39.012911237,16.6810113973,39.19417859",
     "geom:latitude":39.118959,
     "geom:longitude":16.574599,
@@ -47,6 +59,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -54,9 +68,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079146",
+        "eurostat:nuts_2021_id":"079146"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"0cf1b895ee340cd35c0cf2b4b9ec606a",
+    "wof:geomhash":"e5bf9f1fb6f2fe7aaa79890af98fc580",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +84,12 @@
         }
     ],
     "wof:id":404464461,
-    "wof:lastmodified":1566723243,
+    "wof:lastmodified":1684353806,
     "wof:name":"Taverna",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":2562,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

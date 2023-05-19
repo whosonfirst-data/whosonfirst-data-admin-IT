@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_012054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comabbio",
+    "eurostat:nuts_2021_id":"012054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC41",
+    "eurostat:nuts_2021_level_lau":"012054",
+    "eurostat:population":1209,
+    "eurostat:population_year":2020,
     "geom:area":0.000543,
-    "geom:area_square_m":4680215.291817,
+    "geom:area_square_m":4680215.291818,
     "geom:bbox":"8.66155529274,45.7599688344,8.69479706993,45.7907444232",
     "geom:latitude":45.772471,
     "geom:longitude":8.677847,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_012054",
+        "eurostat:nuts_2021_id":"012054",
         "gn:id":6537077,
         "gp:id":12678833,
         "qs_pg:id":1143016
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37b04c1347be5abe7cd52e45db72b183",
+    "wof:geomhash":"fbd5cf8943bed211d8fa1700fb7084b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404467733,
-    "wof:lastmodified":1582327979,
+    "wof:lastmodified":1684353879,
     "wof:name":"Comabbio",
     "wof:parent_id":85685231,
     "wof:placetype":"localadmin",
+    "wof:population":1209,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

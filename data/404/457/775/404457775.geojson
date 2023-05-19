@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Novara",
+    "eurostat:nuts_2021_id":"003106",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003106",
+    "eurostat:population":103985,
+    "eurostat:population_year":2020,
     "geom:area":0.01186,
-    "geom:area_square_m":102898371.827329,
+    "geom:area_square_m":102898352.874419,
     "geom:bbox":"8.529101,45.381506,8.703445,45.505058",
     "geom:latitude":45.439572,
     "geom:longitude":8.615706,
@@ -248,6 +260,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -256,6 +270,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003106",
+        "eurostat:nuts_2021_id":"003106",
         "gn:id":6542119,
         "gp:id":12675829,
         "qs_pg:id":901094
@@ -264,7 +280,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ffee1a78f4d0a5024be9ecf1eea19e1",
+    "wof:geomhash":"9ab6b56848e19ffde09d0db310a9f618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,10 +291,12 @@
         }
     ],
     "wof:id":404457775,
-    "wof:lastmodified":1636496854,
+    "wof:lastmodified":1684353657,
     "wof:name":"Novara",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":103985,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

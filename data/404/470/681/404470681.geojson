@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sedegliano",
+    "eurostat:nuts_2021_id":"030109",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030109",
+    "eurostat:population":3745,
+    "eurostat:population_year":2020,
     "geom:area":0.005862,
     "geom:area_square_m":50334131.265769,
     "geom:bbox":"12.9092969841,45.9816455514,13.0209754439,46.0523056147",
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_030109",
+        "eurostat:nuts_2021_id":"030109"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"8afb0827df299d1152cb831821894c7a",
+    "wof:geomhash":"f864a7dbb02036e5fd23bb52bd14ba3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404470681,
-    "wof:lastmodified":1566723134,
+    "wof:lastmodified":1684353926,
     "wof:name":"Sedegliano",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":3745,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

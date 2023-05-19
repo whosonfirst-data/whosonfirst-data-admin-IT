@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bianchi",
+    "eurostat:nuts_2021_id":"078016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078016",
+    "eurostat:population":1257,
+    "eurostat:population_year":2020,
     "geom:area":0.003437,
-    "geom:area_square_m":32983810.528176,
+    "geom:area_square_m":32983810.528188,
     "geom:bbox":"16.3933176778,39.0601114665,16.4788825536,39.1417534309",
     "geom:latitude":39.102686,
     "geom:longitude":16.432495,
@@ -86,6 +98,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -93,9 +107,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078016",
+        "eurostat:nuts_2021_id":"078016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"370d9da6e54e4f9e60f4776b15338556",
+    "wof:geomhash":"6b34b5257b679c02a7fd3baa63267971",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +123,12 @@
         }
     ],
     "wof:id":404464081,
-    "wof:lastmodified":1566723237,
+    "wof:lastmodified":1684353796,
     "wof:name":"Bianchi",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1257,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

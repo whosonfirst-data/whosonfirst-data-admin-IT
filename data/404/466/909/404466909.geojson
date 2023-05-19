@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_092090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uta",
+    "eurostat:nuts_2021_id":"092090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2F",
+    "eurostat:nuts_2021_level_lau":"092090",
+    "eurostat:population":8733,
+    "eurostat:population_year":2020,
     "geom:area":0.014063,
-    "geom:area_square_m":134706008.214029,
+    "geom:area_square_m":134706008.214025,
     "geom:bbox":"8.83771067294,39.1475600803,8.99177294443,39.3060576292",
     "geom:latitude":39.227946,
     "geom:longitude":8.916945,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_092090",
+        "eurostat:nuts_2021_id":"092090",
         "gn:id":6539314,
         "gp:id":12682315,
         "qs_pg:id":231516
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3bbeff0dffeab0e3e83b3c32e9a72125",
+    "wof:geomhash":"5d3241426781d327338ac7a2e0df6464",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404466909,
-    "wof:lastmodified":1582328181,
+    "wof:lastmodified":1684353861,
     "wof:name":"Uta",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":8733,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

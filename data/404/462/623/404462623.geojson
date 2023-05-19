@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lanciano",
+    "eurostat:nuts_2021_id":"069046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069046",
+    "eurostat:population":34855,
+    "eurostat:population_year":2020,
     "geom:area":0.007268,
-    "geom:area_square_m":66564478.754221,
+    "geom:area_square_m":66564478.75423,
     "geom:bbox":"14.3383800858,42.142515884,14.4670384495,42.2791714596",
     "geom:latitude":42.207894,
     "geom:longitude":14.400294,
@@ -179,6 +191,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -187,6 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069046",
+        "eurostat:nuts_2021_id":"069046",
         "gn:id":6541930,
         "gp:id":12676085,
         "qs_pg:id":1291557
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4791adc341fd30e682c0cfc9ae04718",
+    "wof:geomhash":"263ee2f9419e3c103ea9d75b7e3c57bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":404462623,
-    "wof:lastmodified":1582327868,
+    "wof:lastmodified":1684353762,
     "wof:name":"Lanciano",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":34855,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

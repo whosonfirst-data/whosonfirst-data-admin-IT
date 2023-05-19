@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_096079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villanova Biellese",
+    "eurostat:nuts_2021_id":"096079",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC13",
+    "eurostat:nuts_2021_level_lau":"096079",
+    "eurostat:population":190,
+    "eurostat:population_year":2020,
     "geom:area":0.000907,
-    "geom:area_square_m":7860874.767452,
+    "geom:area_square_m":7860874.767451,
     "geom:bbox":"8.17663759497,45.4562067737,8.22049091306,45.4919824592",
     "geom:latitude":45.4719,
     "geom:longitude":8.198837,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_096079",
+        "eurostat:nuts_2021_id":"096079",
         "gn:id":6543326,
         "gp:id":20075978,
         "qs_pg:id":400862
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"611fb580e1354f8b9f0c07dc130c91c9",
+    "wof:geomhash":"95456d14147ca7a627ee65a9bf87affb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459413,
-    "wof:lastmodified":1582328157,
+    "wof:lastmodified":1684353693,
     "wof:name":"Villanova Biellese",
     "wof:parent_id":85685665,
     "wof:placetype":"localadmin",
+    "wof:population":190,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

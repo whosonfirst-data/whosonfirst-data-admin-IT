@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Civitella Paganico",
+    "eurostat:nuts_2021_id":"053008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053008",
+    "eurostat:population":3109,
+    "eurostat:population_year":2020,
     "geom:area":0.021295,
-    "geom:area_square_m":192566130.245969,
+    "geom:area_square_m":192566130.24597,
     "geom:bbox":"11.1877171095,42.9083479803,11.3805733003,43.0917329545",
     "geom:latitude":43.004569,
     "geom:longitude":11.289228,
@@ -144,6 +156,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -152,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053008",
+        "eurostat:nuts_2021_id":"053008",
         "gn:id":3178567,
         "gp:id":12677951,
         "qs_pg:id":1160697
@@ -160,7 +176,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f05cb8d3d97135afa16c44b1154a3b3a",
+    "wof:geomhash":"04194a019d3b966983daee32c2b85ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,10 +187,12 @@
         }
     ],
     "wof:id":404463895,
-    "wof:lastmodified":1582327768,
+    "wof:lastmodified":1684353789,
     "wof:name":"Civitella Paganico",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":3109,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

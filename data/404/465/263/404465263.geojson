@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domicella",
+    "eurostat:nuts_2021_id":"064031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064031",
+    "eurostat:population":1862,
+    "eurostat:population_year":2020,
     "geom:area":0.00068,
-    "geom:area_square_m":6361781.334526,
+    "geom:area_square_m":6361781.334527,
     "geom:bbox":"14.5595372793,40.8567536502,14.6128640086,40.8951068708",
     "geom:latitude":40.881564,
     "geom:longitude":14.590164,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064031",
+        "eurostat:nuts_2021_id":"064031",
         "gn:id":6537362,
         "gp:id":12679102,
         "qs_pg:id":40680
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ba9467b72c5b3eac924142a1594edda",
+    "wof:geomhash":"3a8291d666cc9795da15b863c32ee468",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404465263,
-    "wof:lastmodified":1582327844,
+    "wof:lastmodified":1684353829,
     "wof:name":"Domicella",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":1862,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

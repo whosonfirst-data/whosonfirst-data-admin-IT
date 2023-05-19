@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tortona",
+    "eurostat:nuts_2021_id":"006174",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006174",
+    "eurostat:population":27248,
+    "eurostat:population_year":2020,
     "geom:area":0.01127,
-    "geom:area_square_m":98736555.828683,
+    "geom:area_square_m":98736555.828667,
     "geom:bbox":"8.77404666865,44.8115048569,8.9100770642,44.9568088013",
     "geom:latitude":44.887195,
     "geom:longitude":8.841792,
@@ -167,6 +179,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -175,6 +189,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006174",
+        "eurostat:nuts_2021_id":"006174",
         "gn:id":6536452,
         "gp:id":12681393,
         "qs_pg:id":1079237
@@ -183,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0dfc5a207c0b2b66f78d6f9b41312a90",
+    "wof:geomhash":"92422abb220388fb309cb931eb49d1b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404456803,
-    "wof:lastmodified":1582328053,
+    "wof:lastmodified":1684353633,
     "wof:name":"Tortona",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":27248,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_057011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casaprota",
+    "eurostat:nuts_2021_id":"057011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI42",
+    "eurostat:nuts_2021_level_lau":"057011",
+    "eurostat:population":717,
+    "eurostat:population_year":2020,
     "geom:area":0.001584,
-    "geom:area_square_m":14500668.321234,
+    "geom:area_square_m":14500668.321236,
     "geom:bbox":"12.7628392219,42.2307551706,12.8426244872,42.2698122611",
     "geom:latitude":42.248271,
     "geom:longitude":12.808217,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_057011",
+        "eurostat:nuts_2021_id":"057011",
         "gn:id":6536919,
         "gp:id":12678007,
         "qs_pg:id":1193759
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24210f0c470e8497c8af24e49202112e",
+    "wof:geomhash":"efbbb901eeba07625b3bbbbece758c48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461375,
-    "wof:lastmodified":1582328150,
+    "wof:lastmodified":1684353737,
     "wof:name":"Casaprota",
     "wof:parent_id":85685455,
     "wof:placetype":"localadmin",
+    "wof:population":717,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

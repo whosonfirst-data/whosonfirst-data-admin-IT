@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_079138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soveria Mannelli",
+    "eurostat:nuts_2021_id":"079138",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF63",
+    "eurostat:nuts_2021_level_lau":"079138",
+    "eurostat:population":2971,
+    "eurostat:population_year":2020,
     "geom:area":0.002114,
-    "geom:area_square_m":20291110.73207,
+    "geom:area_square_m":20291110.732061,
     "geom:bbox":"16.3629691974,39.0315412184,16.4341135577,39.1050193124",
     "geom:latitude":39.071127,
     "geom:longitude":16.391796,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_079138",
+        "eurostat:nuts_2021_id":"079138"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"14e1ed159c1ae142701b2c889a24c491",
+    "wof:geomhash":"b3c47b623929c78d31177ea13f626eed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464451,
-    "wof:lastmodified":1566723241,
+    "wof:lastmodified":1684353806,
     "wof:name":"Soveria Mannelli",
     "wof:parent_id":85685569,
     "wof:placetype":"localadmin",
+    "wof:population":2971,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006188",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Volpedo",
+    "eurostat:nuts_2021_id":"006188",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006188",
+    "eurostat:population":1186,
+    "eurostat:population_year":2020,
     "geom:area":0.001195,
     "geom:area_square_m":10469539.792769,
     "geom:bbox":"8.96582277155,44.8652182206,9.03040762901,44.9052828548",
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006188",
+        "eurostat:nuts_2021_id":"006188",
         "gn:id":6537025,
         "gp:id":12682526,
         "qs_pg:id":396213
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efe5c7f8c09bee381ca63581a1a7967e",
+    "wof:geomhash":"b285f7cf7202243599a0cca42fab74f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404460285,
-    "wof:lastmodified":1582328014,
+    "wof:lastmodified":1684353714,
     "wof:name":"Volpedo",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":1186,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

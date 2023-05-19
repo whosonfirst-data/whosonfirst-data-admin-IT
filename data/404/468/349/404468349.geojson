@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carpiano",
+    "eurostat:nuts_2021_id":"015050",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015050",
+    "eurostat:population":4168,
+    "eurostat:population_year":2020,
     "geom:area":0.001981,
-    "geom:area_square_m":17219153.088807,
+    "geom:area_square_m":17219153.088806,
     "geom:bbox":"9.23764342132,45.3238074764,9.30914228684,45.3681860203",
     "geom:latitude":45.343629,
     "geom:longitude":9.271325,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015050",
+        "eurostat:nuts_2021_id":"015050",
         "gn:id":6536500,
         "gp:id":12677727,
         "qs_pg:id":332277
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d362b581bda22c170760e64df6c9ae8",
+    "wof:geomhash":"77bb279a342773f231dc73f48d4dcb1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468349,
-    "wof:lastmodified":1582328083,
+    "wof:lastmodified":1684353887,
     "wof:name":"Carpiano",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":4168,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

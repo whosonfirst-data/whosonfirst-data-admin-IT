@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terelle",
+    "eurostat:nuts_2021_id":"060077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060077",
+    "eurostat:population":329,
+    "eurostat:population_year":2020,
     "geom:area":0.003405,
-    "geom:area_square_m":31503846.49021,
+    "geom:area_square_m":31503846.490206,
     "geom:bbox":"13.7476897866,41.5217016185,13.8321379805,41.5905091756",
     "geom:latitude":41.554276,
     "geom:longitude":13.78316,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060077",
+        "eurostat:nuts_2021_id":"060077",
         "gn:id":6538715,
         "gp:id":12682158,
         "qs_pg:id":258102
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58e169d7ceb1688d4be55a6e45ea8c6e",
+    "wof:geomhash":"50e9b071b01155d4420a65875e4611e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404462035,
-    "wof:lastmodified":1582327870,
+    "wof:lastmodified":1684353751,
     "wof:name":"Terelle",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

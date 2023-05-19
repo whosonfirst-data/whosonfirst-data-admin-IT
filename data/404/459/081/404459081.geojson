@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_031023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Staranzano",
+    "eurostat:nuts_2021_id":"031023",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH43",
+    "eurostat:nuts_2021_level_lau":"031023",
+    "eurostat:population":7326,
+    "eurostat:population_year":2020,
     "geom:area":0.002269,
-    "geom:area_square_m":19571302.368755,
+    "geom:area_square_m":19571302.368761,
     "geom:bbox":"13.4714764969,45.7259771278,13.5547011061,45.8183028839",
     "geom:latitude":45.776814,
     "geom:longitude":13.505091,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_031023",
+        "eurostat:nuts_2021_id":"031023",
         "gn:id":6536330,
         "gp:id":12682088,
         "qs_pg:id":1093179
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4261d6d38febc6a60dcabb607e64f17f",
+    "wof:geomhash":"cd0b269600bb0ba4a74c6a0171161a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404459081,
-    "wof:lastmodified":1582328171,
+    "wof:lastmodified":1684353685,
     "wof:name":"Staranzano",
     "wof:parent_id":85685325,
     "wof:placetype":"localadmin",
+    "wof:population":7326,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

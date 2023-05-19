@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Larciano",
+    "eurostat:nuts_2021_id":"047006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047006",
+    "eurostat:population":6317,
+    "eurostat:population_year":2020,
     "geom:area":0.002794,
-    "geom:area_square_m":24926303.019237,
+    "geom:area_square_m":24926303.019242,
     "geom:bbox":"10.8092749761,43.7888037499,10.9062142129,43.8675470479",
     "geom:latitude":43.826781,
     "geom:longitude":10.859005,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047006",
+        "eurostat:nuts_2021_id":"047006",
         "gn:id":6542747,
         "gp:id":12678431,
         "qs_pg:id":1193890
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c59c8dcb27a60f18bec8090828d27784",
+    "wof:geomhash":"150cf71d44108cfd2853155aca63ccdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404472701,
-    "wof:lastmodified":1582327878,
+    "wof:lastmodified":1684353967,
     "wof:name":"Larciano",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":6317,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

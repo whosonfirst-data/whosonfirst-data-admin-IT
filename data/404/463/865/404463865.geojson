@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Quirico d'Orcia",
+    "eurostat:nuts_2021_id":"052030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052030",
+    "eurostat:population":2639,
+    "eurostat:population_year":2020,
     "geom:area":0.004653,
     "geom:area_square_m":42034045.493358,
     "geom:bbox":"11.5527503866,43.0200243952,11.6578355639,43.1040909831",
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_052030",
+        "eurostat:nuts_2021_id":"052030"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b266bb1161d7190d2d1d78798c5d65c1",
+    "wof:geomhash":"6df50f11ecc086ba7484f96ea5fe5e89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404463865,
-    "wof:lastmodified":1566723198,
+    "wof:lastmodified":1684353788,
     "wof:name":"San Quirico D'Orcia",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":2639,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

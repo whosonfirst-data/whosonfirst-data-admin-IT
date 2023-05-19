@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villa Faraldi",
+    "eurostat:nuts_2021_id":"008067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008067",
+    "eurostat:population":460,
+    "eurostat:population_year":2020,
     "geom:area":0.001068,
     "geom:area_square_m":9503998.3854,
     "geom:bbox":"8.05067368484,43.9536586976,8.11650812249,43.9839824362",
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008067",
+        "eurostat:nuts_2021_id":"008067",
         "gn:id":6536468,
         "gp:id":12682235,
         "qs_pg:id":204282
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21d29e08d6db1152b01bf962feca9486",
+    "wof:geomhash":"60fb18453639e0183353d9c5f10eaa21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471887,
-    "wof:lastmodified":1582327713,
+    "wof:lastmodified":1684353947,
     "wof:name":"Villa Faraldi",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":460,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_048052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figline e Incisa Valdarno",
+    "eurostat:nuts_2021_id":"048052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI14",
+    "eurostat:nuts_2021_level_lau":"048052",
+    "eurostat:population":23434,
+    "eurostat:population_year":2020,
     "geom:area":0.00797,
-    "geom:area_square_m":71361698.483972,
+    "geom:area_square_m":71361698.483971,
     "geom:bbox":"11.3683279652,43.5600625909,11.521583706,43.6523903775",
     "geom:latitude":43.607545,
     "geom:longitude":11.438755,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_048052",
+        "eurostat:nuts_2021_id":"048052",
         "gn:id":6538559,
         "gp:id":12676409,
         "qs_pg:id":50719
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69dc38c48c83e9924d77feeb980ad95a",
+    "wof:geomhash":"ea497931562f5d739b7e39b4bf045889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472767,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353969,
     "wof:name":"Figline Valdarno",
     "wof:parent_id":85685407,
     "wof:placetype":"localadmin",
+    "wof:population":23434,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

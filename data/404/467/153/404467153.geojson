@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montresta",
+    "eurostat:nuts_2021_id":"095085",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095085",
+    "eurostat:population":456,
+    "eurostat:population_year":2020,
     "geom:area":0.003307,
-    "geom:area_square_m":31149683.915677,
+    "geom:area_square_m":31149683.915679,
     "geom:bbox":"8.46288065168,40.3413261112,8.55406221151,40.4260593258",
     "geom:latitude":40.388215,
     "geom:longitude":8.504653,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095085",
+        "eurostat:nuts_2021_id":"095085",
         "gn:id":6537859,
         "gp:id":20076824,
         "qs_pg:id":961950
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0aef1110c71906592ff5602eba597d3c",
+    "wof:geomhash":"3248605a4599b918ad5b9a8dd5604d91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467153,
-    "wof:lastmodified":1582327979,
+    "wof:lastmodified":1684353866,
     "wof:name":"Montresta",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":456,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canaro",
+    "eurostat:nuts_2021_id":"029009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029009",
+    "eurostat:population":2670,
+    "eurostat:population_year":2020,
     "geom:area":0.003721,
-    "geom:area_square_m":32568173.956759,
+    "geom:area_square_m":32568173.956763,
     "geom:bbox":"11.6313425632,44.9070386804,11.7449684119,44.9746831909",
     "geom:latitude":44.937952,
     "geom:longitude":11.679701,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029009",
+        "eurostat:nuts_2021_id":"029009",
         "gn:id":6536681,
         "gp:id":12676835,
         "qs_pg:id":1030552
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef26a7e9d12ca578fe65f2459c578a9c",
+    "wof:geomhash":"b4e01742f9eb864431a8817a67d34d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404458459,
-    "wof:lastmodified":1582327958,
+    "wof:lastmodified":1684353670,
     "wof:name":"Canaro",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":2670,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

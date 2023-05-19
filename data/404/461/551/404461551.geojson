@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canale Monterano",
+    "eurostat:nuts_2021_id":"058016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058016",
+    "eurostat:population":4198,
+    "eurostat:population_year":2020,
     "geom:area":0.004017,
-    "geom:area_square_m":36833908.020544,
+    "geom:area_square_m":36833908.020547,
     "geom:bbox":"12.0267238545,42.0946494053,12.1359967708,42.1645141263",
     "geom:latitude":42.134634,
     "geom:longitude":12.076395,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058016",
+        "eurostat:nuts_2021_id":"058016",
         "gn:id":6541614,
         "gp:id":12677482,
         "qs_pg:id":1310867
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd5421bf58f6b99958f2fa7a722cffd9",
+    "wof:geomhash":"176a0140bd9fd3a215769fc8a768c164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461551,
-    "wof:lastmodified":1582328123,
+    "wof:lastmodified":1684353741,
     "wof:name":"Canale Monterano",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":4198,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

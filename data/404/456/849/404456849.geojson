@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fragagnano",
+    "eurostat:nuts_2021_id":"073006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073006",
+    "eurostat:population":5134,
+    "eurostat:population_year":2020,
     "geom:area":0.00235,
-    "geom:area_square_m":22123334.608369,
+    "geom:area_square_m":22123334.608367,
     "geom:bbox":"17.4460439811,40.3974682742,17.5080677373,40.4612785603",
     "geom:latitude":40.430426,
     "geom:longitude":17.478498,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073006",
+        "eurostat:nuts_2021_id":"073006",
         "gn:id":6538951,
         "gp:id":12679387,
         "qs_pg:id":231988
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8c72cffd7e8623e9547d6696c1cb6564",
+    "wof:geomhash":"b62ac454bd21eae36517263de2e8307c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404456849,
-    "wof:lastmodified":1582328064,
+    "wof:lastmodified":1684353634,
     "wof:name":"Fragagnano",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":5134,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

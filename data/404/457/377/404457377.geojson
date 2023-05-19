@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001282",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Usseglio",
+    "eurostat:nuts_2021_id":"001282",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001282",
+    "eurostat:population":200,
+    "eurostat:population_year":2020,
     "geom:area":0.011293,
-    "geom:area_square_m":98350160.443595,
+    "geom:area_square_m":98350160.443597,
     "geom:bbox":"7.06702254148,45.1863552357,7.2576695219,45.2827037238",
     "geom:latitude":45.227946,
     "geom:longitude":7.17076,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001282",
+        "eurostat:nuts_2021_id":"001282",
         "gn:id":6538089,
         "gp:id":12680169,
         "qs_pg:id":416800
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b14bf594b64a78336070d7bd7aa78196",
+    "wof:geomhash":"aa032150f7dd7981aeb7c90417d21ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457377,
-    "wof:lastmodified":1582328105,
+    "wof:lastmodified":1684353648,
     "wof:name":"Usseglio",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venosa",
+    "eurostat:nuts_2021_id":"076095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076095",
+    "eurostat:population":11478,
+    "eurostat:population_year":2020,
     "geom:area":0.018098,
-    "geom:area_square_m":168938344.028648,
+    "geom:area_square_m":168938344.028662,
     "geom:bbox":"15.7350904951,40.9138121254,15.976710749,41.0919727171",
     "geom:latitude":40.982886,
     "geom:longitude":15.838034,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076095",
+        "eurostat:nuts_2021_id":"076095",
         "gn:id":6537641,
         "gp:id":12682385,
         "qs_pg:id":42982
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef32e6fcd6b94ce94b95e45337aee7a1",
+    "wof:geomhash":"adc65e0184564bc1388d686b5897d170",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404463963,
-    "wof:lastmodified":1582327763,
+    "wof:lastmodified":1684353792,
     "wof:name":"Venosa",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":11478,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caslino d'Erba",
+    "eurostat:nuts_2021_id":"013052",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013052",
+    "eurostat:population":1665,
+    "eurostat:population_year":2020,
     "geom:area":0.000799,
     "geom:area_square_m":6878997.480012,
     "geom:bbox":"9.19457500507,45.8342439448,9.25566857235,45.8601914207",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013052",
+        "eurostat:nuts_2021_id":"013052",
         "gn:id":6542485,
         "gp:id":20076084,
         "qs_pg:id":232889
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"632ca83028d5eaf66cb110f8afded41a",
+    "wof:geomhash":"b39994eadd6cf480bcbb23d00bcdf07a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404468013,
-    "wof:lastmodified":1582328078,
+    "wof:lastmodified":1684353883,
     "wof:name":"Caslino D'Erba",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":1665,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

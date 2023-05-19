@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Croce sull'Arno",
+    "eurostat:nuts_2021_id":"050033",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050033",
+    "eurostat:population":14596,
+    "eurostat:population_year":2020,
     "geom:area":0.001877,
-    "geom:area_square_m":16766654.866531,
+    "geom:area_square_m":16766654.86653,
     "geom:bbox":"10.6825880695,43.7002774812,10.7970951504,43.7772747418",
     "geom:latitude":43.734602,
     "geom:longitude":10.749734,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050033",
+        "eurostat:nuts_2021_id":"050033",
         "gn:id":6542291,
         "gp:id":12681845,
         "qs_pg:id":236373
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"843173e0bdcbe8d41ba693c5ec3ae064",
+    "wof:geomhash":"5f9b8ef4ae35cbb2d0a5fcebcf9bb823",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404472955,
-    "wof:lastmodified":1582327880,
+    "wof:lastmodified":1684353974,
     "wof:name":"Santa Croce Sull'Arno",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":14596,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

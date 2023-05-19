@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_058090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roiate",
+    "eurostat:nuts_2021_id":"058090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI43",
+    "eurostat:nuts_2021_level_lau":"058090",
+    "eurostat:population":674,
+    "eurostat:population_year":2020,
     "geom:area":0.00112,
-    "geom:area_square_m":10314852.882324,
+    "geom:area_square_m":10314852.882325,
     "geom:bbox":"13.0456532133,41.8508852383,13.1015306579,41.887439207",
     "geom:latitude":41.868956,
     "geom:longitude":13.068463,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_058090",
+        "eurostat:nuts_2021_id":"058090",
         "gn:id":6538687,
         "gp:id":12681461,
         "qs_pg:id":42280
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"793e7c6e82ccaa729b9134fd1b8e947a",
+    "wof:geomhash":"b0a1dc6476d39480e95721d87d8c5ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404461717,
-    "wof:lastmodified":1582328149,
+    "wof:lastmodified":1684353744,
     "wof:name":"Roiate",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",
+    "wof:population":674,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

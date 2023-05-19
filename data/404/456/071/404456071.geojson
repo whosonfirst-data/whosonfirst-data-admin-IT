@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montabone",
+    "eurostat:nuts_2021_id":"005072",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005072",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.00097,
-    "geom:area_square_m":8525860.650038,
+    "geom:area_square_m":8525860.650037,
     "geom:bbox":"8.36254843561,44.6859952992,8.42059012716,44.7152428484",
     "geom:latitude":44.699934,
     "geom:longitude":8.391151,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005072",
+        "eurostat:nuts_2021_id":"005072",
         "gn:id":6542406,
         "gp:id":20075855,
         "qs_pg:id":1009410
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3900919cbd1f09b44b9368887ab929eb",
+    "wof:geomhash":"3a1abd61435ff35fad6d1a20015aa059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456071,
-    "wof:lastmodified":1582328051,
+    "wof:lastmodified":1684353616,
     "wof:name":"Montabone",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

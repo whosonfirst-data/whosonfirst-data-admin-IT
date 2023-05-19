@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_082077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ventimiglia di Sicilia",
+    "eurostat:nuts_2021_id":"082077",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG12",
+    "eurostat:nuts_2021_level_lau":"082077",
+    "eurostat:population":1869,
+    "eurostat:population_year":2020,
     "geom:area":0.002749,
-    "geom:area_square_m":26802465.866835,
+    "geom:area_square_m":26802465.866838,
     "geom:bbox":"13.4903562427,37.9027963761,13.5895496212,38.0085969137",
     "geom:latitude":37.96078,
     "geom:longitude":13.54218,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_082077",
+        "eurostat:nuts_2021_id":"082077",
         "gn:id":6539141,
         "gp:id":12682386,
         "qs_pg:id":213812
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed98f157dd4ce793ce58b9d5a5c48823",
+    "wof:geomhash":"d5b383292dcf8aba61f0cee016d3d878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404465087,
-    "wof:lastmodified":1582327839,
+    "wof:lastmodified":1684353825,
     "wof:name":"Ventimiglia Di Sicilia",
     "wof:parent_id":85685591,
     "wof:placetype":"localadmin",
+    "wof:population":1869,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

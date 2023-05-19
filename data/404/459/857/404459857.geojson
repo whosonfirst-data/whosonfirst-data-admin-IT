@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_042003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcevia",
+    "eurostat:nuts_2021_id":"042003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI32",
+    "eurostat:nuts_2021_level_lau":"042003",
+    "eurostat:population":4325,
+    "eurostat:population_year":2020,
     "geom:area":0.014264,
-    "geom:area_square_m":127881575.375728,
+    "geom:area_square_m":127881575.37574,
     "geom:bbox":"12.8714169034,43.4482292978,13.0283692556,43.598501652",
     "geom:latitude":43.525904,
     "geom:longitude":12.953679,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_042003",
+        "eurostat:nuts_2021_id":"042003",
         "gn:id":6536775,
         "gp:id":12676188,
         "qs_pg:id":76059
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9558d95a2297ce2894f4103f3ce4d72f",
+    "wof:geomhash":"5213a5e5490803da90af689b6691975b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404459857,
-    "wof:lastmodified":1582328159,
+    "wof:lastmodified":1684353703,
     "wof:name":"Arcevia",
     "wof:parent_id":85685379,
     "wof:placetype":"localadmin",
+    "wof:population":4325,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

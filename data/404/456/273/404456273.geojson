@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bussoleno",
+    "eurostat:nuts_2021_id":"001044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001044",
+    "eurostat:population":5824,
+    "eurostat:population_year":2020,
     "geom:area":0.004241,
-    "geom:area_square_m":36995629.82662,
+    "geom:area_square_m":36995629.826626,
     "geom:bbox":"7.0944750357,45.0623639293,7.16835903776,45.1876637639",
     "geom:latitude":45.131476,
     "geom:longitude":7.136547,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001044",
+        "eurostat:nuts_2021_id":"001044",
         "gn:id":6538043,
         "gp:id":12677208,
         "qs_pg:id":891647
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6c48a94932add2b2bfe3b82288574e12",
+    "wof:geomhash":"f999b2f1a0294934c6be5fab22369f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456273,
-    "wof:lastmodified":1582328049,
+    "wof:lastmodified":1684353620,
     "wof:name":"Bussoleno",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":5824,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

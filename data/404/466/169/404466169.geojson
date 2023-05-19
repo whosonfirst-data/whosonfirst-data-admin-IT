@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taleggio",
+    "eurostat:nuts_2021_id":"016210",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016210",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.005468,
-    "geom:area_square_m":47050175.689053,
+    "geom:area_square_m":47050175.689061,
     "geom:bbox":"9.52724627543,45.8581588597,9.6180395421,45.9464641198",
     "geom:latitude":45.90139,
     "geom:longitude":9.577033,
@@ -80,6 +92,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016210",
+        "eurostat:nuts_2021_id":"016210",
         "gn:id":6542575,
         "gp:id":12677541,
         "qs_pg:id":39729
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98081e53f2514de6a176a6f3a469d44a",
+    "wof:geomhash":"068038342d9417af491c60e97e557315",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404466169,
-    "wof:lastmodified":1582328185,
+    "wof:lastmodified":1684353844,
     "wof:name":"Taleggio",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

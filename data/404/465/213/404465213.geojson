@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avellino",
+    "eurostat:nuts_2021_id":"064008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064008",
+    "eurostat:population":53640,
+    "eurostat:population_year":2020,
     "geom:area":0.003249,
-    "geom:area_square_m":30359996.383293,
+    "geom:area_square_m":30359996.383286,
     "geom:bbox":"14.7475356544,40.8798684747,14.8315179469,40.9458383922",
     "geom:latitude":40.913808,
     "geom:longitude":14.788251,
@@ -212,6 +224,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -220,6 +234,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_064008",
+        "eurostat:nuts_2021_id":"064008",
         "gn:id":6541870,
         "gp:id":12676357,
         "qs_pg:id":1078450
@@ -228,7 +244,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98c7c71a870aa38b516456179c3b1b1e",
+    "wof:geomhash":"5ba05e3b006efb25d3e6ea948a830c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -239,10 +255,12 @@
         }
     ],
     "wof:id":404465213,
-    "wof:lastmodified":1582327842,
+    "wof:lastmodified":1684353828,
     "wof:name":"Avellino",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":53640,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

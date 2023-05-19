@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moretta",
+    "eurostat:nuts_2021_id":"004143",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004143",
+    "eurostat:population":4069,
+    "eurostat:population_year":2020,
     "geom:area":0.002729,
-    "geom:area_square_m":23954556.960431,
+    "geom:area_square_m":23954556.960433,
     "geom:bbox":"7.4993435932,44.7341293554,7.5784493526,44.7975735409",
     "geom:latitude":44.765371,
     "geom:longitude":7.538404,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004143",
+        "eurostat:nuts_2021_id":"004143",
         "gn:id":6539666,
         "gp:id":12680591,
         "qs_pg:id":1236967
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8695eb3a87e3adbd377692b426dc6bf2",
+    "wof:geomhash":"50e03445181516a0ee34f514d3ac99b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455669,
-    "wof:lastmodified":1582327813,
+    "wof:lastmodified":1684353608,
     "wof:name":"Moretta",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":4069,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caino",
+    "eurostat:nuts_2021_id":"017031",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017031",
+    "eurostat:population":2134,
+    "eurostat:population_year":2020,
     "geom:area":0.001998,
-    "geom:area_square_m":17277916.356413,
+    "geom:area_square_m":17277916.356418,
     "geom:bbox":"10.2861657909,45.5994607057,10.3626505955,45.6387821094",
     "geom:latitude":45.617145,
     "geom:longitude":10.325515,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017031",
+        "eurostat:nuts_2021_id":"017031",
         "gn:id":6543174,
         "gp:id":20076244,
         "qs_pg:id":887540
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1a4acf929a59fded1ec6bac1bedafae",
+    "wof:geomhash":"2e24358415523f92c53ff331467e72c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404470993,
-    "wof:lastmodified":1582327748,
+    "wof:lastmodified":1684353931,
     "wof:name":"Caino",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2134,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

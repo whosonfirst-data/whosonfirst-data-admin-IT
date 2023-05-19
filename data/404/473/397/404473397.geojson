@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelfondo",
+    "eurostat:nuts_2021_id":"022046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022046",
+    "eurostat:population":611,
+    "eurostat:population_year":2020,
     "geom:area":0.003032,
-    "geom:area_square_m":25811412.740817,
+    "geom:area_square_m":25811412.740818,
     "geom:bbox":"11.0343761484,46.4373524688,11.1384514549,46.5314376778",
     "geom:latitude":46.48649,
     "geom:longitude":11.096665,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022046",
+        "eurostat:nuts_2021_id":"022046",
         "gn:id":6537247,
         "gp:id":12678225,
         "qs_pg:id":203894
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d62ce1a22de9635b41e796e12e345310",
+    "wof:geomhash":"2c84ed8d17432921ac58d46743e2a912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404473397,
-    "wof:lastmodified":1582327913,
+    "wof:lastmodified":1684353988,
     "wof:name":"Castelfondo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":611,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

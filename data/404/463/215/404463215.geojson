@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_072021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gioia del Colle",
+    "eurostat:nuts_2021_id":"072021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF47",
+    "eurostat:nuts_2021_level_lau":"072021",
+    "eurostat:population":27418,
+    "eurostat:population_year":2020,
     "geom:area":0.022062,
-    "geom:area_square_m":206582448.819954,
+    "geom:area_square_m":206582448.819987,
     "geom:bbox":"16.7868866517,40.6919425729,17.0353999376,40.8616846789",
     "geom:latitude":40.777509,
     "geom:longitude":16.912084,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_072021",
+        "eurostat:nuts_2021_id":"072021",
         "gn:id":6537549,
         "gp:id":12679591,
         "qs_pg:id":192414
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50e6193e17b18030c2799964ed0d39da",
+    "wof:geomhash":"a5d10ea5327e82b71e15ba6270ba4b44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463215,
-    "wof:lastmodified":1582327781,
+    "wof:lastmodified":1684353775,
     "wof:name":"Gioia Del Colle",
     "wof:parent_id":85685531,
     "wof:placetype":"localadmin",
+    "wof:population":27418,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

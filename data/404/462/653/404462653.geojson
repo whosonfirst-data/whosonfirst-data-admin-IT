@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palena",
+    "eurostat:nuts_2021_id":"069060",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069060",
+    "eurostat:population":1292,
+    "eurostat:population_year":2020,
     "geom:area":0.010131,
-    "geom:area_square_m":93155524.737008,
+    "geom:area_square_m":93155524.737012,
     "geom:bbox":"14.0796860842,41.8856564364,14.1876490519,42.0479263753",
     "geom:latitude":41.957981,
     "geom:longitude":14.129216,
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069060",
+        "eurostat:nuts_2021_id":"069060",
         "gn:id":6538882,
         "gp:id":12680884,
         "qs_pg:id":1137077
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f8674657af4d046cfab576757454ce7c",
+    "wof:geomhash":"bae7173171bcf9d99053c97a27c740a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404462653,
-    "wof:lastmodified":1582327871,
+    "wof:lastmodified":1684353762,
     "wof:name":"Palena",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":1292,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

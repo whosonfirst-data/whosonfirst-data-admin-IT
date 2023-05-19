@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Compiano",
+    "eurostat:nuts_2021_id":"034011",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034011",
+    "eurostat:population":1089,
+    "eurostat:population_year":2020,
     "geom:area":0.004252,
-    "geom:area_square_m":37483032.862921,
+    "geom:area_square_m":37483032.862915,
     "geom:bbox":"9.64104566724,44.4746990163,9.70565761767,44.5873178468",
     "geom:latitude":44.531548,
     "geom:longitude":9.677368,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034011",
+        "eurostat:nuts_2021_id":"034011",
         "gn:id":6541830,
         "gp:id":12678846,
         "qs_pg:id":40563
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18ad53bb82c2a1e49b5ef17b649d41da",
+    "wof:geomhash":"0c4c88b144f44bb74ca7bdf2bee621cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404472165,
-    "wof:lastmodified":1582327894,
+    "wof:lastmodified":1684353953,
     "wof:name":"Compiano",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":1089,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

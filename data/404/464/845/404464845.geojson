@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_102042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spilinga",
+    "eurostat:nuts_2021_id":"102042",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF64",
+    "eurostat:nuts_2021_level_lau":"102042",
+    "eurostat:population":1456,
+    "eurostat:population_year":2020,
     "geom:area":0.001788,
-    "geom:area_square_m":17270839.510756,
+    "geom:area_square_m":17270839.510747,
     "geom:bbox":"15.8825780294,38.5933591484,15.9607195184,38.6355540673",
     "geom:latitude":38.61562,
     "geom:longitude":15.922348,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_102042",
+        "eurostat:nuts_2021_id":"102042"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"19caceb35a1df43c81b98bc2721c2c51",
+    "wof:geomhash":"29e9f52ae72f62adb6dffb1b361d17ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404464845,
-    "wof:lastmodified":1566723214,
+    "wof:lastmodified":1684353818,
     "wof:name":"Spilinga",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
+    "wof:population":1456,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

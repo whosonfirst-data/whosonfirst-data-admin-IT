@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lenta",
+    "eurostat:nuts_2021_id":"002068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002068",
+    "eurostat:population":813,
+    "eurostat:population_year":2020,
     "geom:area":0.002188,
-    "geom:area_square_m":18941038.436172,
+    "geom:area_square_m":18941038.436171,
     "geom:bbox":"8.33138982997,45.5389429202,8.40006920841,45.5782397492",
     "geom:latitude":45.55781,
     "geom:longitude":8.367274,
@@ -68,6 +80,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002068",
+        "eurostat:nuts_2021_id":"002068",
         "gn:id":6538107,
         "gp:id":12676529,
         "qs_pg:id":1295824
@@ -84,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b088842d8f403fed2d834d60ea7b77c7",
+    "wof:geomhash":"4c7e61d8b4c49cabe9f264180c6d792e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404457541,
-    "wof:lastmodified":1582328120,
+    "wof:lastmodified":1684353652,
     "wof:name":"Lenta",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":813,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

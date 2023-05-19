@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caglio",
+    "eurostat:nuts_2021_id":"013037",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013037",
+    "eurostat:population":494,
+    "eurostat:population_year":2020,
     "geom:area":0.000756,
     "geom:area_square_m":6506785.796583,
     "geom:bbox":"9.20151392273,45.8565222123,9.24866156411,45.8856850479",
@@ -125,6 +137,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013037",
+        "eurostat:nuts_2021_id":"013037",
         "gn:id":6536110,
         "gp:id":12677264,
         "qs_pg:id":39566
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"945e781cffb3c79e49fd05a00b8ddd32",
+    "wof:geomhash":"e654997b72f6b068024618624edfdb72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404467987,
-    "wof:lastmodified":1582327989,
+    "wof:lastmodified":1684353882,
     "wof:name":"Caglio",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":494,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

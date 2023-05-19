@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_035003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baiso",
+    "eurostat:nuts_2021_id":"035003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH53",
+    "eurostat:nuts_2021_level_lau":"035003",
+    "eurostat:population":3225,
+    "eurostat:population_year":2020,
     "geom:area":0.00855,
-    "geom:area_square_m":75429903.510298,
+    "geom:area_square_m":75429903.510296,
     "geom:bbox":"10.5666154935,44.4058368762,10.6702556772,44.5466828815",
     "geom:latitude":44.481314,
     "geom:longitude":10.621798,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_035003",
+        "eurostat:nuts_2021_id":"035003",
         "gn:id":6538434,
         "gp:id":12676478,
         "qs_pg:id":1037365
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"243a0d434c5e50d4d8b3ee15a9e6cbb6",
+    "wof:geomhash":"029372fb3d5eee6850139b6b829af529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404467645,
-    "wof:lastmodified":1582327970,
+    "wof:lastmodified":1684353878,
     "wof:name":"Baiso",
     "wof:parent_id":85685343,
     "wof:placetype":"localadmin",
+    "wof:population":3225,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

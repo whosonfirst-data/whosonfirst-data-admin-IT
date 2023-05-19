@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_046017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lucca",
+    "eurostat:nuts_2021_id":"046017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI12",
+    "eurostat:nuts_2021_level_lau":"046017",
+    "eurostat:population":90055,
+    "eurostat:population_year":2020,
     "geom:area":0.020812,
-    "geom:area_square_m":185543252.254835,
+    "geom:area_square_m":185543252.254828,
     "geom:bbox":"10.360246537,43.7581501591,10.5753312365,43.959636495",
     "geom:latitude":43.864627,
     "geom:longitude":10.473621,
@@ -251,6 +263,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -259,6 +273,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_046017",
+        "eurostat:nuts_2021_id":"046017",
         "gn:id":6542121,
         "gp:id":12676167,
         "qs_pg:id":1150527
@@ -267,7 +283,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbd76b953ce5decb125c1b360cb6affe",
+    "wof:geomhash":"7fbdd140772fd9d88db7b8e990b5c897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -278,10 +294,12 @@
         }
     ],
     "wof:id":404472647,
-    "wof:lastmodified":1582327899,
+    "wof:lastmodified":1684353966,
     "wof:name":"Lucca",
     "wof:parent_id":85685399,
     "wof:placetype":"localadmin",
+    "wof:population":90055,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

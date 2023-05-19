@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_076059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Picerno",
+    "eurostat:nuts_2021_id":"076059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF5",
+    "eurostat:nuts_2021_level_3":"ITF51",
+    "eurostat:nuts_2021_level_lau":"076059",
+    "eurostat:population":5758,
+    "eurostat:population_year":2020,
     "geom:area":0.0083,
-    "geom:area_square_m":77877049.447636,
+    "geom:area_square_m":77877049.447647,
     "geom:bbox":"15.5596118132,40.5941579821,15.7143445982,40.6853859932",
     "geom:latitude":40.64222,
     "geom:longitude":15.639101,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_076059",
+        "eurostat:nuts_2021_id":"076059",
         "gn:id":6540777,
         "gp:id":12681068,
         "qs_pg:id":42023
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57863ba161a3b4adad54683e9e45a3e3",
+    "wof:geomhash":"b1716f455f2ec045ae5ddb1225c1516a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404456995,
-    "wof:lastmodified":1582328059,
+    "wof:lastmodified":1684353639,
     "wof:name":"Picerno",
     "wof:parent_id":85685555,
     "wof:placetype":"localadmin",
+    "wof:population":5758,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

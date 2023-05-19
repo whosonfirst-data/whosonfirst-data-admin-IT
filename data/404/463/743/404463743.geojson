@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trissino",
+    "eurostat:nuts_2021_id":"024110",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024110",
+    "eurostat:population":8737,
+    "eurostat:population_year":2020,
     "geom:area":0.002531,
-    "geom:area_square_m":21906689.511891,
+    "geom:area_square_m":21906689.511886,
     "geom:bbox":"11.2900281838,45.5390162208,11.3939839182,45.5879842685",
     "geom:latitude":45.566599,
     "geom:longitude":11.347858,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024110",
+        "eurostat:nuts_2021_id":"024110",
         "gn:id":6540388,
         "gp:id":12680019,
         "qs_pg:id":248325
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa6d0f2377337e493ff58977f45b22d2",
+    "wof:geomhash":"d75c1c09ff4f0746370e237fa15a2c11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404463743,
-    "wof:lastmodified":1582327787,
+    "wof:lastmodified":1684353785,
     "wof:name":"Trissino",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":8737,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

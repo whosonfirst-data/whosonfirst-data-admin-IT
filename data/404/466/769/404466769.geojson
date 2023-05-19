@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giave",
+    "eurostat:nuts_2021_id":"090030",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090030",
+    "eurostat:population":508,
+    "eurostat:population_year":2020,
     "geom:area":0.005001,
-    "geom:area_square_m":47052043.166874,
+    "geom:area_square_m":47052043.166873,
     "geom:bbox":"8.62195100387,40.4263419038,8.80895344985,40.4995309458",
     "geom:latitude":40.463725,
     "geom:longitude":8.724152,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090030",
+        "eurostat:nuts_2021_id":"090030",
         "gn:id":6537827,
         "gp:id":12679572,
         "qs_pg:id":247446
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dffb1827815977ad2e0e910a7ec9cf6b",
+    "wof:geomhash":"856e3445b817f9e0e20392c06b7ea4b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466769,
-    "wof:lastmodified":1582328198,
+    "wof:lastmodified":1684353857,
     "wof:name":"Giave",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":508,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

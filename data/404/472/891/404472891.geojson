@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capannoli",
+    "eurostat:nuts_2021_id":"050005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050005",
+    "eurostat:population":6399,
+    "eurostat:population_year":2020,
     "geom:area":0.00253,
-    "geom:area_square_m":22656867.353441,
+    "geom:area_square_m":22656867.353446,
     "geom:bbox":"10.6308401645,43.5518754624,10.7214939026,43.6158367743",
     "geom:latitude":43.584771,
     "geom:longitude":10.67094,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050005",
+        "eurostat:nuts_2021_id":"050005",
         "gn:id":6540477,
         "gp:id":12677558,
         "qs_pg:id":1314189
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce55c267df9bda83bdcdb86a9a3a4af2",
+    "wof:geomhash":"e1987d46390c9701e6897d429cccf8f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404472891,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353972,
     "wof:name":"Capannoli",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":6399,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

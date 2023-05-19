@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo di Trens/Freienfeld",
+    "eurostat:nuts_2021_id":"021016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021016",
+    "eurostat:population":2667,
+    "eurostat:population_year":2020,
     "geom:area":0.011251,
-    "geom:area_square_m":95130259.601949,
+    "geom:area_square_m":95130259.601959,
     "geom:bbox":"11.4210182601,46.8053482172,11.5937044428,46.9092019291",
     "geom:latitude":46.858661,
     "geom:longitude":11.510182,
@@ -33,6 +45,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -40,9 +54,12 @@
         404227499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_021016",
+        "eurostat:nuts_2021_id":"021016"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"d2d459a938c8a9f30890f698662150e7",
+    "wof:geomhash":"54d1ef6597e1a4ecdc36ee1c3aba472b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
         }
     ],
     "wof:id":404473081,
-    "wof:lastmodified":1566723411,
+    "wof:lastmodified":1684353977,
     "wof:name":"Campo Di Trens",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":2667,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

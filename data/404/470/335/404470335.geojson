@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piazzola sul Brenta",
+    "eurostat:nuts_2021_id":"028063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028063",
+    "eurostat:population":11117,
+    "eurostat:population_year":2020,
     "geom:area":0.004714,
-    "geom:area_square_m":40825499.607951,
+    "geom:area_square_m":40825499.607942,
     "geom:bbox":"11.7185106878,45.4924345955,11.8441533356,45.5924143257",
     "geom:latitude":45.541826,
     "geom:longitude":11.777177,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_028063",
+        "eurostat:nuts_2021_id":"028063"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f5f1bd0bcd423172c68f383869a2a9f1",
+    "wof:geomhash":"bb332087ad15ce36db33857ccbcb3cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404470335,
-    "wof:lastmodified":1566723148,
+    "wof:lastmodified":1684353920,
     "wof:name":"Piazzola Sul Brenta",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":11117,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

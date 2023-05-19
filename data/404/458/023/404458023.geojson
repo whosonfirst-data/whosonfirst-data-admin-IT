@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_023055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oppeano",
+    "eurostat:nuts_2021_id":"023055",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH31",
+    "eurostat:nuts_2021_level_lau":"023055",
+    "eurostat:population":10291,
+    "eurostat:population_year":2020,
     "geom:area":0.005362,
-    "geom:area_square_m":46628118.385084,
+    "geom:area_square_m":46628118.385088,
     "geom:bbox":"11.0312073388,45.2728475512,11.2092771668,45.3515965515",
     "geom:latitude":45.310273,
     "geom:longitude":11.113499,
@@ -128,6 +140,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_023055",
+        "eurostat:nuts_2021_id":"023055",
         "gn:id":6538245,
         "gp:id":20076663,
         "qs_pg:id":289982
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf59213b2b2d0e2e33eeef50f8809170",
+    "wof:geomhash":"78716063d7f0448b95b623c4f20f2ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404458023,
-    "wof:lastmodified":1582327940,
+    "wof:lastmodified":1684353661,
     "wof:name":"Oppeano",
     "wof:parent_id":85685281,
     "wof:placetype":"localadmin",
+    "wof:population":10291,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

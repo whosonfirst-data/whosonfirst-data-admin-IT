@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riese Pio X",
+    "eurostat:nuts_2021_id":"026068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026068",
+    "eurostat:population":11037,
+    "eurostat:population_year":2020,
     "geom:area":0.00354,
-    "geom:area_square_m":30558862.233105,
+    "geom:area_square_m":30558862.233098,
     "geom:bbox":"11.857822842,45.688245269,11.9618287409,45.757129412",
     "geom:latitude":45.726183,
     "geom:longitude":11.913188,
@@ -186,6 +198,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -194,6 +208,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026068",
+        "eurostat:nuts_2021_id":"026068",
         "gn:id":3169413,
         "gp:id":12681368,
         "qs_pg:id":317648
@@ -202,7 +218,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f932252b48f100c14bc6c6acede26bd5",
+    "wof:geomhash":"a866080c7faba0c9d19073298598493b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,10 +229,12 @@
         }
     ],
     "wof:id":404458667,
-    "wof:lastmodified":1582327944,
+    "wof:lastmodified":1684353675,
     "wof:name":"Riese Pio X",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":11037,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

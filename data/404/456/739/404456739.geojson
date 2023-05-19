@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_006145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rivarone",
+    "eurostat:nuts_2021_id":"006145",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC18",
+    "eurostat:nuts_2021_level_lau":"006145",
+    "eurostat:population":402,
+    "eurostat:population_year":2020,
     "geom:area":0.000693,
     "geom:area_square_m":6065175.601595,
     "geom:bbox":"8.68916819805,44.9603202275,8.74007818645,44.9839581568",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_006145",
+        "eurostat:nuts_2021_id":"006145",
         "gn:id":6543043,
         "gp:id":20075938,
         "qs_pg:id":1094856
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78e4044f45078036ab3a6547d476ca45",
+    "wof:geomhash":"4e35a492bd5196e6af6d7c54824dee62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404456739,
-    "wof:lastmodified":1582328046,
+    "wof:lastmodified":1684353631,
     "wof:name":"Rivarone",
     "wof:parent_id":85685199,
     "wof:placetype":"localadmin",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

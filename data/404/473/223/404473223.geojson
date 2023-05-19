@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_021080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Leonardo in Passiria/St. Leonhard in Passeier",
+    "eurostat:nuts_2021_id":"021080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH1",
+    "eurostat:nuts_2021_level_3":"ITH10",
+    "eurostat:nuts_2021_level_lau":"021080",
+    "eurostat:population":3569,
+    "eurostat:population_year":2020,
     "geom:area":0.010491,
-    "geom:area_square_m":88804481.082603,
+    "geom:area_square_m":88804481.082621,
     "geom:bbox":"11.191840034,46.7204453359,11.3716819132,46.8547849765",
     "geom:latitude":46.797819,
     "geom:longitude":11.275144,
@@ -36,6 +48,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -44,6 +58,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_021080",
+        "eurostat:nuts_2021_id":"021080",
         "gp:id":20076588,
         "qs_pg:id":1174522
     },
@@ -51,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"accd7bb6d5d6157f5d92fe2143912039",
+    "wof:geomhash":"dab66783baf44b5710c2beda5cca5903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +78,12 @@
         }
     ],
     "wof:id":404473223,
-    "wof:lastmodified":1582327927,
+    "wof:lastmodified":1684353983,
     "wof:name":"San Leonardo In Passiria",
     "wof:parent_id":85685271,
     "wof:placetype":"localadmin",
+    "wof:population":3569,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

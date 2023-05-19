@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_047014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pistoia",
+    "eurostat:nuts_2021_id":"047014",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI13",
+    "eurostat:nuts_2021_level_lau":"047014",
+    "eurostat:population":90677,
+    "eurostat:population_year":2020,
     "geom:area":0.026496,
-    "geom:area_square_m":235766097.083343,
+    "geom:area_square_m":235766097.083393,
     "geom:bbox":"10.8065120261,43.8724114945,11.0154566793,44.1005766414",
     "geom:latitude":43.976794,
     "geom:longitude":10.915756,
@@ -236,6 +248,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -244,6 +258,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_047014",
+        "eurostat:nuts_2021_id":"047014",
         "gn:id":6541867,
         "gp:id":12677437,
         "qs_pg:id":1292138
@@ -252,7 +268,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edf34eae84bd1f70b7a8557c2d414464",
+    "wof:geomhash":"e018e8882f514538ad33bf1ff7d70f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,10 +279,12 @@
         }
     ],
     "wof:id":404472719,
-    "wof:lastmodified":1582327907,
+    "wof:lastmodified":1684353968,
     "wof:name":"Pistoia",
     "wof:parent_id":85685403,
     "wof:placetype":"localadmin",
+    "wof:population":90677,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

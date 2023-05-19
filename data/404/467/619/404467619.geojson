@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_034039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tizzano Val Parma",
+    "eurostat:nuts_2021_id":"034039",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH52",
+    "eurostat:nuts_2021_level_lau":"034039",
+    "eurostat:population":2117,
+    "eurostat:population_year":2020,
     "geom:area":0.008876,
-    "geom:area_square_m":78272831.543599,
+    "geom:area_square_m":78272831.543592,
     "geom:bbox":"10.1244071897,44.4630180224,10.2771334153,44.5637540911",
     "geom:latitude":44.508289,
     "geom:longitude":10.19781,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_034039",
+        "eurostat:nuts_2021_id":"034039",
         "gn:id":6536711,
         "gp:id":12676140,
         "qs_pg:id":351849
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df79adb4156782c8a8d55ad2d9d90a85",
+    "wof:geomhash":"2d75f3ff168d686d7ff77c5c00d09347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404467619,
-    "wof:lastmodified":1582327970,
+    "wof:lastmodified":1684353877,
     "wof:name":"Tizzano Val Parma",
     "wof:parent_id":85685339,
     "wof:placetype":"localadmin",
+    "wof:population":2117,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

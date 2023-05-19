@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_008002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apricale",
+    "eurostat:nuts_2021_id":"008002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC31",
+    "eurostat:nuts_2021_level_lau":"008002",
+    "eurostat:population":622,
+    "eurostat:population_year":2020,
     "geom:area":0.002234,
-    "geom:area_square_m":19909150.642712,
+    "geom:area_square_m":19909150.642711,
     "geom:bbox":"7.58471945574,43.8649727561,7.72738902811,43.9445639699",
     "geom:latitude":43.894758,
     "geom:longitude":7.665744,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_008002",
+        "eurostat:nuts_2021_id":"008002",
         "gn:id":6536064,
         "gp:id":20076410,
         "qs_pg:id":1066858
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cc631219308bd91f7442c98e6826b389",
+    "wof:geomhash":"99e6f948cfe76602f3caeb651beba664",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404470829,
-    "wof:lastmodified":1582327739,
+    "wof:lastmodified":1684353928,
     "wof:name":"Apricale",
     "wof:parent_id":85685209,
     "wof:placetype":"localadmin",
+    "wof:population":622,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

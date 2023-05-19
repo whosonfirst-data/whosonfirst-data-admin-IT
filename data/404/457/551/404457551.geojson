@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_002078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mollia",
+    "eurostat:nuts_2021_id":"002078",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC12",
+    "eurostat:nuts_2021_level_lau":"002078",
+    "eurostat:population":96,
+    "eurostat:population_year":2020,
     "geom:area":0.001613,
-    "geom:area_square_m":13894472.23179,
+    "geom:area_square_m":13894472.231793,
     "geom:bbox":"7.99028984977,45.8053459837,8.0567133956,45.8467045797",
     "geom:latitude":45.825072,
     "geom:longitude":8.02136,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_002078",
+        "eurostat:nuts_2021_id":"002078",
         "gn:id":6539543,
         "gp:id":12680389,
         "qs_pg:id":957749
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"51782b39327e61632af479965e3bdd20",
+    "wof:geomhash":"60f243d24e341c125b110d5f156c314a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404457551,
-    "wof:lastmodified":1582328094,
+    "wof:lastmodified":1684353652,
     "wof:name":"Mollia",
     "wof:parent_id":85685177,
     "wof:placetype":"localadmin",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

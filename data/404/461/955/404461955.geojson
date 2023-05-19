@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_060041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giuliano di Roma",
+    "eurostat:nuts_2021_id":"060041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI45",
+    "eurostat:nuts_2021_level_lau":"060041",
+    "eurostat:population":2412,
+    "eurostat:population_year":2020,
     "geom:area":0.003612,
-    "geom:area_square_m":33422687.604047,
+    "geom:area_square_m":33422687.604044,
     "geom:bbox":"13.199524067,41.5082665003,13.305878805,41.5849400675",
     "geom:latitude":41.55045,
     "geom:longitude":13.254265,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_060041",
+        "eurostat:nuts_2021_id":"060041",
         "gn:id":6539982,
         "gp:id":12679603,
         "qs_pg:id":269090
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23247595c3279a43d3ecd3d005ec18a5",
+    "wof:geomhash":"4dead92ce960c7267cda77402e2e18b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404461955,
-    "wof:lastmodified":1582328126,
+    "wof:lastmodified":1684353749,
     "wof:name":"Giuliano Di Roma",
     "wof:parent_id":85685473,
     "wof:placetype":"localadmin",
+    "wof:population":2412,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

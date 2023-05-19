@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campitello di Fassa",
+    "eurostat:nuts_2021_id":"022036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022036",
+    "eurostat:population":707,
+    "eurostat:population_year":2020,
     "geom:area":0.002931,
-    "geom:area_square_m":24954412.726372,
+    "geom:area_square_m":24954412.726375,
     "geom:bbox":"11.6319349902,46.4615510367,11.7694157458,46.5138382492",
     "geom:latitude":46.490402,
     "geom:longitude":11.711022,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022036",
+        "eurostat:nuts_2021_id":"022036",
         "gn:id":6542172,
         "gp:id":12682644,
         "qs_pg:id":43152
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72222c91b673e705cda94675f2571f3b",
+    "wof:geomhash":"e985de40bf699f4dbe19bcbaf1e2197b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404473377,
-    "wof:lastmodified":1582327921,
+    "wof:lastmodified":1684353987,
     "wof:name":"Campitello Di Fassa",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":707,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

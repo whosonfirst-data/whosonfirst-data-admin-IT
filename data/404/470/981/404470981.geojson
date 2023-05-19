@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brandico",
+    "eurostat:nuts_2021_id":"017026",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017026",
+    "eurostat:population":1710,
+    "eurostat:population_year":2020,
     "geom:area":0.000965,
-    "geom:area_square_m":8366682.212208,
+    "geom:area_square_m":8366682.212206,
     "geom:bbox":"10.0191245462,45.436355851,10.066180523,45.4691204199",
     "geom:latitude":45.453686,
     "geom:longitude":10.043061,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017026",
+        "eurostat:nuts_2021_id":"017026",
         "gn:id":6543173,
         "gp:id":20076242,
         "qs_pg:id":955239
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddff19cf5c40af37a88bbaa9b72647e2",
+    "wof:geomhash":"d62b0c3bb403cb9a3fdd899f339e5198",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404470981,
-    "wof:lastmodified":1582327758,
+    "wof:lastmodified":1684353931,
     "wof:name":"Brandico",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":1710,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

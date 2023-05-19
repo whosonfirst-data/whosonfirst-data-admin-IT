@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campione d'Italia",
+    "eurostat:nuts_2021_id":"013040",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013040",
+    "eurostat:population":2003,
+    "eurostat:population_year":2020,
     "geom:area":0.000311,
     "geom:area_square_m":2671452.590967,
     "geom:bbox":"8.95792350864,45.9613792465,8.979097721,45.9841631765",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013040",
+        "eurostat:nuts_2021_id":"013040",
         "gn:id":6536131,
         "gp:id":12685158,
         "qs_pg:id":392706
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52c87ea44ddd1dab605387bcfb1ca877",
+    "wof:geomhash":"902cbb9b1bbd6d24ee75ab554b43001c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404467991,
-    "wof:lastmodified":1582327966,
+    "wof:lastmodified":1684353882,
     "wof:name":"Campione D'Italia",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":2003,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ospitaletto",
+    "eurostat:nuts_2021_id":"017127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017127",
+    "eurostat:population":14947,
+    "eurostat:population_year":2020,
     "geom:area":0.001071,
     "geom:area_square_m":9274941.643236,
     "geom:bbox":"10.0499644027,45.5376187079,10.1056148664,45.566920324",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017127",
+        "eurostat:nuts_2021_id":"017127",
         "gn:id":6541424,
         "gp:id":12680834,
         "qs_pg:id":895577
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fcbaf7ab10a4fffa2432d76196c7ad47",
+    "wof:geomhash":"3fabfdc8dc5bbd1a4c7b98f22b598ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404471209,
-    "wof:lastmodified":1582327728,
+    "wof:lastmodified":1684353935,
     "wof:name":"Ospitaletto",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":14947,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

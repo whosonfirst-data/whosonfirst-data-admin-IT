@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monzambano",
+    "eurostat:nuts_2021_id":"020036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020036",
+    "eurostat:population":4977,
+    "eurostat:population_year":2020,
     "geom:area":0.00345,
     "geom:area_square_m":29962953.110372,
     "geom:bbox":"10.6137583343,45.3536682919,10.719276555,45.4111150983",
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_020036",
+        "eurostat:nuts_2021_id":"020036"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"016d06666e774f27b016c8516d50f81e",
+    "wof:geomhash":"500d1d65d5a65f310597669209530420",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404469145,
-    "wof:lastmodified":1566723552,
+    "wof:lastmodified":1684353900,
     "wof:name":"Monzambano",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":4977,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

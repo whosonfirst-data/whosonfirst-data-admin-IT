@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nosate",
+    "eurostat:nuts_2021_id":"015155",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015155",
+    "eurostat:population":649,
+    "eurostat:population_year":2020,
     "geom:area":0.000562,
-    "geom:area_square_m":4868999.407964,
+    "geom:area_square_m":4868999.407963,
     "geom:bbox":"8.70613860174,45.541316818,8.73921387745,45.5738796954",
     "geom:latitude":45.554946,
     "geom:longitude":8.721084,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015155",
+        "eurostat:nuts_2021_id":"015155",
         "gn:id":6536516,
         "gp:id":12680702,
         "qs_pg:id":1187955
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"048cc1b18f8f027228e1c976f7149581",
+    "wof:geomhash":"bb1e0c15a4fed67d2a8ee0d833de0b60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404468467,
-    "wof:lastmodified":1582328088,
+    "wof:lastmodified":1684353889,
     "wof:name":"Nosate",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":649,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

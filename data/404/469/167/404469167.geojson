@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_020046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quingentole",
+    "eurostat:nuts_2021_id":"020046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4B",
+    "eurostat:nuts_2021_level_lau":"020046",
+    "eurostat:population":1124,
+    "eurostat:population_year":2020,
     "geom:area":0.001642,
     "geom:area_square_m":14350273.287171,
     "geom:bbox":"11.0030575047,45.006457386,11.0791189197,45.0631411763",
@@ -140,6 +152,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -147,9 +161,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_020046",
+        "eurostat:nuts_2021_id":"020046"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"81eebf1af6ddae4aa9dec447e717c236",
+    "wof:geomhash":"5e524c71609c8460a37c59f922a288eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":404469167,
-    "wof:lastmodified":1566723543,
+    "wof:lastmodified":1684353900,
     "wof:name":"Quingentole",
     "wof:parent_id":85685269,
     "wof:placetype":"localadmin",
+    "wof:population":1124,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

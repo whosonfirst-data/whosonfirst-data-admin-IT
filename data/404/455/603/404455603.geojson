@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magliano Alfieri",
+    "eurostat:nuts_2021_id":"004113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004113",
+    "eurostat:population":2220,
+    "eurostat:population_year":2020,
     "geom:area":0.001081,
-    "geom:area_square_m":9486575.13826,
+    "geom:area_square_m":9486575.138261,
     "geom:bbox":"8.04834590593,44.7484025054,8.10441913698,44.7830717962",
     "geom:latitude":44.764709,
     "geom:longitude":8.076622,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004113",
+        "eurostat:nuts_2021_id":"004113",
         "gn:id":6542359,
         "gp:id":20075771,
         "qs_pg:id":1158779
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fb4ee2c554cee88eb36f80e64898d104",
+    "wof:geomhash":"170ce489f8b58ac6d031cb66391890a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404455603,
-    "wof:lastmodified":1582327813,
+    "wof:lastmodified":1684353607,
     "wof:name":"Magliano Alfieri",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":2220,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

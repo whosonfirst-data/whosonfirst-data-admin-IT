@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sennori",
+    "eurostat:nuts_2021_id":"090067",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090067",
+    "eurostat:population":7135,
+    "eurostat:population_year":2020,
     "geom:area":0.003347,
-    "geom:area_square_m":31327423.022078,
+    "geom:area_square_m":31327423.022083,
     "geom:bbox":"8.57702627871,40.7550008732,8.66837449045,40.8493289191",
     "geom:latitude":40.800431,
     "geom:longitude":8.622641,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090067",
+        "eurostat:nuts_2021_id":"090067",
         "gn:id":6537840,
         "gp:id":12680212,
         "qs_pg:id":1019492
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e43dc6aee9da5c889c8b6511f4ca0a77",
+    "wof:geomhash":"1d23b88dceb239c37b81cf9b0e7d2521",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404466833,
-    "wof:lastmodified":1582328193,
+    "wof:lastmodified":1684353859,
     "wof:name":"Sennori",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":7135,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

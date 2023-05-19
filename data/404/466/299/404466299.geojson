@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirto",
+    "eurostat:nuts_2021_id":"083051",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083051",
+    "eurostat:population":927,
+    "eurostat:population_year":2020,
     "geom:area":0.000947,
-    "geom:area_square_m":9213690.934139,
+    "geom:area_square_m":9213690.934135,
     "geom:bbox":"14.7204216195,38.0707959016,14.7729406853,38.1092674556",
     "geom:latitude":38.090245,
     "geom:longitude":14.749195,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083051",
+        "eurostat:nuts_2021_id":"083051",
         "gn:id":6540056,
         "gp:id":12680344,
         "qs_pg:id":41477
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4f978e74d9e729da5023a3cd9d878cb4",
+    "wof:geomhash":"7790369f4a36fcdf93488bcdd94ed306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404466299,
-    "wof:lastmodified":1582328208,
+    "wof:lastmodified":1684353846,
     "wof:name":"Mirto",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":927,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

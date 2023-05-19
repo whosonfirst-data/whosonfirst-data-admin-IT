@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thiene",
+    "eurostat:nuts_2021_id":"024105",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024105",
+    "eurostat:population":24268,
+    "eurostat:population_year":2020,
     "geom:area":0.002276,
-    "geom:area_square_m":19655545.150168,
+    "geom:area_square_m":19655545.15017,
     "geom:bbox":"11.4461212656,45.6577604987,11.5144304557,45.7177270991",
     "geom:latitude":45.690791,
     "geom:longitude":11.484373,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024105",
+        "eurostat:nuts_2021_id":"024105",
         "gn:id":6540386,
         "gp:id":12678472,
         "qs_pg:id":885748
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34c510def956e2753b0c338b95aeaa52",
+    "wof:geomhash":"d4e6ffefb3067a0e638e2502b820c544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404463733,
-    "wof:lastmodified":1582327777,
+    "wof:lastmodified":1684353785,
     "wof:name":"Thiene",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":24268,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

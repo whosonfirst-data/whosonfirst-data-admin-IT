@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_014063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talamona",
+    "eurostat:nuts_2021_id":"014063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC44",
+    "eurostat:nuts_2021_level_lau":"014063",
+    "eurostat:population":4684,
+    "eurostat:population_year":2020,
     "geom:area":0.002452,
-    "geom:area_square_m":21016209.330549,
+    "geom:area_square_m":21016209.330548,
     "geom:bbox":"9.59535663065,46.0894067638,9.66284303934,46.1558852255",
     "geom:latitude":46.122863,
     "geom:longitude":9.627835,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_014063",
+        "eurostat:nuts_2021_id":"014063",
         "gn:id":6543124,
         "gp:id":12676203,
         "qs_pg:id":961601
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eeb3ce00f93934f86d1ed3b135a00c0d",
+    "wof:geomhash":"f36227586e38d2846a7a68236818ebb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404468255,
-    "wof:lastmodified":1582328090,
+    "wof:lastmodified":1684353886,
     "wof:name":"Talamona",
     "wof:parent_id":85685239,
     "wof:placetype":"localadmin",
+    "wof:population":4684,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

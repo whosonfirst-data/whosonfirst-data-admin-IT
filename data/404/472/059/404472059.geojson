@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_033012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castell'Arquato",
+    "eurostat:nuts_2021_id":"033012",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH51",
+    "eurostat:nuts_2021_level_lau":"033012",
+    "eurostat:population":4563,
+    "eurostat:population_year":2020,
     "geom:area":0.00601,
-    "geom:area_square_m":52673199.756258,
+    "geom:area_square_m":52673199.756254,
     "geom:bbox":"9.81544316578,44.8209653462,9.9244620169,44.9093786032",
     "geom:latitude":44.866288,
     "geom:longitude":9.868454,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_033012",
+        "eurostat:nuts_2021_id":"033012",
         "gn:id":6536333,
         "gp:id":12676387,
         "qs_pg:id":1163413
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c5ae639fb870d805932c654108045907",
+    "wof:geomhash":"8c519b777b3612c56464da779f709e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404472059,
-    "wof:lastmodified":1582327903,
+    "wof:lastmodified":1684353951,
     "wof:name":"Castell'Arquato",
     "wof:parent_id":85685331,
     "wof:placetype":"localadmin",
+    "wof:population":4563,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

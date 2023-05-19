@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Pier Niceto",
+    "eurostat:nuts_2021_id":"083080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083080",
+    "eurostat:population":2706,
+    "eurostat:population_year":2020,
     "geom:area":0.003743,
-    "geom:area_square_m":36408800.921484,
+    "geom:area_square_m":36408800.921476,
     "geom:bbox":"15.3178674583,38.0803858233,15.4057583078,38.2147560511",
     "geom:latitude":38.13196,
     "geom:longitude":15.364077,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083080",
+        "eurostat:nuts_2021_id":"083080",
         "gn:id":6540835,
         "gp:id":20077048,
         "qs_pg:id":1197156
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd2d31cdaca5cbfad367657adc7a0436",
+    "wof:geomhash":"e366f40b54e23647c6e07490143b1bea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466365,
-    "wof:lastmodified":1582328183,
+    "wof:lastmodified":1684353848,
     "wof:name":"San Pier Niceto",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":2706,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

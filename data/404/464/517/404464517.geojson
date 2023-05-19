@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canolo",
+    "eurostat:nuts_2021_id":"080020",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080020",
+    "eurostat:population":686,
+    "eurostat:population_year":2020,
     "geom:area":0.002889,
-    "geom:area_square_m":28029595.30226,
+    "geom:area_square_m":28029595.302252,
     "geom:bbox":"16.1371707389,38.2852735761,16.2220852773,38.3552904006",
     "geom:latitude":38.320601,
     "geom:longitude":16.181708,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_080020",
+        "eurostat:nuts_2021_id":"080020",
         "gn:id":6540044,
         "gp:id":12677523,
         "qs_pg:id":1009288
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc0f6d093a2a7fae20ba5bcb1ac3c8e4",
+    "wof:geomhash":"82ad2ec5e499ad458874cb71cdf396de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404464517,
-    "wof:lastmodified":1582327798,
+    "wof:lastmodified":1684353808,
     "wof:name":"Canolo",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":686,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

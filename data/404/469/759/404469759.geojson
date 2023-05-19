@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_024005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altissimo",
+    "eurostat:nuts_2021_id":"024005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH32",
+    "eurostat:nuts_2021_level_lau":"024005",
+    "eurostat:population":2172,
+    "eurostat:population_year":2020,
     "geom:area":0.00174,
     "geom:area_square_m":15052231.120284,
     "geom:bbox":"11.2171697355,45.5898745921,11.2832599762,45.6573103629",
@@ -74,6 +86,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -82,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_024005",
+        "eurostat:nuts_2021_id":"024005",
         "gn:id":6542988,
         "gp:id":12677400,
         "qs_pg:id":203820
@@ -90,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"560bf4527e416b89a74910d89103acdb",
+    "wof:geomhash":"93511d242575cf8117bc33b86d78e909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404469759,
-    "wof:lastmodified":1582328036,
+    "wof:lastmodified":1684353909,
     "wof:name":"Altissimo",
     "wof:parent_id":85685287,
     "wof:placetype":"localadmin",
+    "wof:population":2172,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

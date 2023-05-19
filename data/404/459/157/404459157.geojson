@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_093027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montereale Valcellina",
+    "eurostat:nuts_2021_id":"093027",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH41",
+    "eurostat:nuts_2021_level_lau":"093027",
+    "eurostat:population":4338,
+    "eurostat:population_year":2020,
     "geom:area":0.007893,
-    "geom:area_square_m":67638788.225399,
+    "geom:area_square_m":67638788.225408,
     "geom:bbox":"12.5645237711,46.0703121679,12.7256767338,46.1911356726",
     "geom:latitude":46.131713,
     "geom:longitude":12.650103,
@@ -146,6 +158,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -153,9 +167,12 @@
         404227505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_093027",
+        "eurostat:nuts_2021_id":"093027"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"13b6398ed73a156f34280646df8f766f",
+    "wof:geomhash":"61c05db5f42b505e9e20bb5939a0c056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +183,12 @@
         }
     ],
     "wof:id":404459157,
-    "wof:lastmodified":1566723722,
+    "wof:lastmodified":1684353687,
     "wof:name":"Montereale Valcellina",
     "wof:parent_id":85685649,
     "wof:placetype":"localadmin",
+    "wof:population":4338,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

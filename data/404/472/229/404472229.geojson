@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_037003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baricella",
+    "eurostat:nuts_2021_id":"037003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH5",
+    "eurostat:nuts_2021_level_3":"ITH55",
+    "eurostat:nuts_2021_level_lau":"037003",
+    "eurostat:population":7254,
+    "eurostat:population_year":2020,
     "geom:area":0.00516,
-    "geom:area_square_m":45380116.628979,
+    "geom:area_square_m":45380116.62898,
     "geom:bbox":"11.4995011066,44.6347444225,11.6325196882,44.7116766988",
     "geom:latitude":44.66852,
     "geom:longitude":11.571463,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_037003",
+        "eurostat:nuts_2021_id":"037003",
         "gn:id":6538462,
         "gp:id":12676581,
         "qs_pg:id":191359
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f23a7854fbf98ed87b4d30f1d210b7a",
+    "wof:geomhash":"b7caad94fe3c472826ede3170d0cdbea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472229,
-    "wof:lastmodified":1582327881,
+    "wof:lastmodified":1684353955,
     "wof:name":"Baricella",
     "wof:parent_id":85685351,
     "wof:placetype":"localadmin",
+    "wof:population":7254,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

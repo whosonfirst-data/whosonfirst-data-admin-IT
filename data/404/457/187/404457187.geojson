@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poirino",
+    "eurostat:nuts_2021_id":"001197",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001197",
+    "eurostat:population":10293,
+    "eurostat:population_year":2020,
     "geom:area":0.008621,
-    "geom:area_square_m":75503433.057721,
+    "geom:area_square_m":75503433.057717,
     "geom:bbox":"7.78602834734,44.8333570643,7.90160486921,44.9600640391",
     "geom:latitude":44.902583,
     "geom:longitude":7.842791,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001197",
+        "eurostat:nuts_2021_id":"001197",
         "gn:id":6537280,
         "gp:id":12681011,
         "qs_pg:id":342122
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eadc730266cc8d9b571b01f8cba3f2c7",
+    "wof:geomhash":"51dea0956431bc9a5ad2b06103fa3f57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404457187,
-    "wof:lastmodified":1582328105,
+    "wof:lastmodified":1684353644,
     "wof:name":"Poirino",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":10293,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

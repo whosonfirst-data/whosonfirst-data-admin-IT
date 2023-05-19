@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_043046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Ginesio",
+    "eurostat:nuts_2021_id":"043046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI33",
+    "eurostat:nuts_2021_level_lau":"043046",
+    "eurostat:population":3226,
+    "eurostat:population_year":2020,
     "geom:area":0.008608,
-    "geom:area_square_m":77714121.059337,
+    "geom:area_square_m":77714121.059336,
     "geom:bbox":"13.2222070844,43.0407170637,13.4066158722,43.1560251901",
     "geom:latitude":43.103264,
     "geom:longitude":13.309779,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_043046",
+        "eurostat:nuts_2021_id":"043046",
         "gn:id":6540457,
         "gp:id":12681630,
         "qs_pg:id":42444
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec46d5a28099171bdece6ce7dda29f30",
+    "wof:geomhash":"8c726541636d9f70591e7bf0cb55d4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404461027,
-    "wof:lastmodified":1582328141,
+    "wof:lastmodified":1684353729,
     "wof:name":"San Ginesio",
     "wof:parent_id":85685383,
     "wof:placetype":"localadmin",
+    "wof:population":3226,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

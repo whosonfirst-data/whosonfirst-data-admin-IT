@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_091095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tortol\u00ec",
+    "eurostat:nuts_2021_id":"091095",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2E",
+    "eurostat:nuts_2021_level_lau":"091095",
+    "eurostat:population":11093,
+    "eurostat:population_year":2020,
     "geom:area":0.004247,
-    "geom:area_square_m":40275089.588592,
+    "geom:area_square_m":40275089.588602,
     "geom:bbox":"9.61744449659,39.8657431098,9.71616714381,39.9596402119",
     "geom:latitude":39.914551,
     "geom:longitude":9.664652,
@@ -188,6 +200,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_091095",
+        "eurostat:nuts_2021_id":"091095",
         "gn:id":6540128,
         "gp:id":12676177,
         "qs_pg:id":38860
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc45d5e8de82036e12aadf02dad47fe7",
+    "wof:geomhash":"c414a3b7c999f12c06afc513f81037e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":404467259,
-    "wof:lastmodified":1582327972,
+    "wof:lastmodified":1684353870,
     "wof:name":"Tortol\u00ec",
     "wof:parent_id":1360702177,
     "wof:placetype":"localadmin",
+    "wof:population":11093,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

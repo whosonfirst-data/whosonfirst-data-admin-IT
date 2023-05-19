@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_019036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cremona",
+    "eurostat:nuts_2021_id":"019036",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4A",
+    "eurostat:nuts_2021_level_lau":"019036",
+    "eurostat:population":72672,
+    "eurostat:population_year":2020,
     "geom:area":0.00807,
-    "geom:area_square_m":70383298.271044,
+    "geom:area_square_m":70383298.27104,
     "geom:bbox":"9.94220691457,45.0889411122,10.1097372007,45.1836471299",
     "geom:latitude":45.14089,
     "geom:longitude":10.029666,
@@ -257,6 +269,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -265,6 +279,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_019036",
+        "eurostat:nuts_2021_id":"019036",
         "gn:id":6541851,
         "gp:id":12678992,
         "qs_pg:id":1102097
@@ -273,7 +289,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3441251d27eb8777fcd6290439f3fe7",
+    "wof:geomhash":"0cbe5b6798d13d292e590cc253c3b82a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,10 +300,12 @@
         }
     ],
     "wof:id":404468887,
-    "wof:lastmodified":1582328077,
+    "wof:lastmodified":1684353896,
     "wof:name":"Cremona",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",
+    "wof:population":72672,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

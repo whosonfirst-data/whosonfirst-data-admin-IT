@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_030068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pagnacco",
+    "eurostat:nuts_2021_id":"030068",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH4",
+    "eurostat:nuts_2021_level_3":"ITH42",
+    "eurostat:nuts_2021_level_lau":"030068",
+    "eurostat:population":5120,
+    "eurostat:population_year":2020,
     "geom:area":0.001735,
-    "geom:area_square_m":14870979.624867,
+    "geom:area_square_m":14870979.624871,
     "geom:bbox":"13.1514618124,46.0889225053,13.2073356664,46.1555365809",
     "geom:latitude":46.125406,
     "geom:longitude":13.181938,
@@ -158,6 +170,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -166,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_030068",
+        "eurostat:nuts_2021_id":"030068",
         "gn:id":6538380,
         "gp:id":20076721,
         "qs_pg:id":1311204
@@ -174,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bbb31a50f574e2fb06f89291c74b1953",
+    "wof:geomhash":"e35cbe7ea34a000961db2c8b65c8b1ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404470589,
-    "wof:lastmodified":1582327747,
+    "wof:lastmodified":1684353924,
     "wof:name":"Pagnacco",
     "wof:parent_id":85685321,
     "wof:placetype":"localadmin",
+    "wof:population":5120,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

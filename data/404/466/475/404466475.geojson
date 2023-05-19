@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_084021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Licata",
+    "eurostat:nuts_2021_id":"084021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG14",
+    "eurostat:nuts_2021_level_lau":"084021",
+    "eurostat:population":36113,
+    "eurostat:population_year":2020,
     "geom:area":0.018155,
-    "geom:area_square_m":178919102.280378,
+    "geom:area_square_m":178919102.280392,
     "geom:bbox":"13.8108903939,37.0845113116,14.0385579288,37.2346751962",
     "geom:latitude":37.154472,
     "geom:longitude":13.918956,
@@ -164,6 +176,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -172,6 +186,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_084021",
+        "eurostat:nuts_2021_id":"084021",
         "gn:id":6541340,
         "gp:id":12679949,
         "qs_pg:id":1078551
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8092f118d2715782d2bcb08a826b757c",
+    "wof:geomhash":"4ec3288fd2448052e46516697c1d6a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404466475,
-    "wof:lastmodified":1582328202,
+    "wof:lastmodified":1684353850,
     "wof:name":"Licata",
     "wof:parent_id":85685601,
     "wof:placetype":"localadmin",
+    "wof:population":36113,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

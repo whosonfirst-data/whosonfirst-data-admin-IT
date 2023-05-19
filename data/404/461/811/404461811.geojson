@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_059010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Itri",
+    "eurostat:nuts_2021_id":"059010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI4",
+    "eurostat:nuts_2021_level_3":"ITI44",
+    "eurostat:nuts_2021_level_lau":"059010",
+    "eurostat:population":10672,
+    "eurostat:population_year":2020,
     "geom:area":0.01084,
-    "geom:area_square_m":100691917.980106,
+    "geom:area_square_m":100691917.980113,
     "geom:bbox":"13.4527253857,41.2376361386,13.6034411293,41.369692357",
     "geom:latitude":41.304674,
     "geom:longitude":13.527697,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_059010",
+        "eurostat:nuts_2021_id":"059010",
         "gn:id":6536970,
         "gp:id":12679800,
         "qs_pg:id":1140568
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1e0e1689e23a15db88244645b77c458",
+    "wof:geomhash":"ebb1fe26534dfc74cce778b6809852ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404461811,
-    "wof:lastmodified":1582328126,
+    "wof:lastmodified":1684353746,
     "wof:name":"Itri",
     "wof:parent_id":85685467,
     "wof:placetype":"localadmin",
+    "wof:population":10672,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

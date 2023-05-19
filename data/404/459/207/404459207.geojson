@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sperlinga",
+    "eurostat:nuts_2021_id":"086017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086017",
+    "eurostat:population":712,
+    "eurostat:population_year":2020,
     "geom:area":0.006019,
-    "geom:area_square_m":58840018.31811,
+    "geom:area_square_m":58840018.318104,
     "geom:bbox":"14.2607821423,37.691016019,14.3668684271,37.8008383097",
     "geom:latitude":37.754274,
     "geom:longitude":14.314246,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086017",
+        "eurostat:nuts_2021_id":"086017",
         "gn:id":6539191,
         "gp:id":20077058,
         "qs_pg:id":1103185
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09b50378e78583de7698636952b9e009",
+    "wof:geomhash":"428596a694a4b4f3771a45cec2ff1852",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404459207,
-    "wof:lastmodified":1582328173,
+    "wof:lastmodified":1684353689,
     "wof:name":"Sperlinga",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":712,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

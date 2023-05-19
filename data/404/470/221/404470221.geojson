@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_028010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbona",
+    "eurostat:nuts_2021_id":"028010",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH36",
+    "eurostat:nuts_2021_level_lau":"028010",
+    "eurostat:population":621,
+    "eurostat:population_year":2020,
     "geom:area":0.000982,
-    "geom:area_square_m":8565392.377471,
+    "geom:area_square_m":8565392.37747,
     "geom:bbox":"11.6385831942,45.0986169856,11.7163177968,45.1264561542",
     "geom:latitude":45.110398,
     "geom:longitude":11.681336,
@@ -137,6 +149,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -144,9 +158,12 @@
         404227501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_028010",
+        "eurostat:nuts_2021_id":"028010"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"b133d9cd7d19bd1e78806b6177ce7f5d",
+    "wof:geomhash":"690aa443e9cb9c953fdbbea00408c6e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +174,12 @@
         }
     ],
     "wof:id":404470221,
-    "wof:lastmodified":1566723136,
+    "wof:lastmodified":1684353918,
     "wof:name":"Barbona",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",
+    "wof:population":621,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

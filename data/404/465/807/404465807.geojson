@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_016044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calcio",
+    "eurostat:nuts_2021_id":"016044",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC46",
+    "eurostat:nuts_2021_level_lau":"016044",
+    "eurostat:population":5352,
+    "eurostat:population_year":2020,
     "geom:area":0.001805,
     "geom:area_square_m":15643222.380958,
     "geom:bbox":"9.81749860513,45.4739883518,9.87322855117,45.5325636561",
@@ -92,6 +104,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_016044",
+        "eurostat:nuts_2021_id":"016044",
         "gn:id":6541493,
         "gp:id":12677309,
         "qs_pg:id":946853
@@ -108,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec4d43dfe6ee19a71e3dc0b5d4be1870",
+    "wof:geomhash":"d0e9ea09600e17ed2333fc1c546e4a66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404465807,
-    "wof:lastmodified":1582327842,
+    "wof:lastmodified":1684353838,
     "wof:name":"Calcio",
     "wof:parent_id":85685249,
     "wof:placetype":"localadmin",
+    "wof:population":5352,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

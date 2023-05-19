@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ploaghe",
+    "eurostat:nuts_2021_id":"090057",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090057",
+    "eurostat:population":4440,
+    "eurostat:population_year":2020,
     "geom:area":0.010262,
-    "geom:area_square_m":96235010.489691,
+    "geom:area_square_m":96235010.489689,
     "geom:bbox":"8.68266091397,40.6067841247,8.83334163502,40.740168396",
     "geom:latitude":40.677317,
     "geom:longitude":8.754876,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090057",
+        "eurostat:nuts_2021_id":"090057",
         "gn:id":6537837,
         "gp:id":12681152,
         "qs_pg:id":1320585
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cba2566337912062ebda0771d6aa579f",
+    "wof:geomhash":"7ca7701ec2582f0fc50effa22eb009b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404466815,
-    "wof:lastmodified":1582328203,
+    "wof:lastmodified":1684353858,
     "wof:name":"Ploaghe",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":4440,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Loggia",
+    "eurostat:nuts_2021_id":"001127",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001127",
+    "eurostat:population":8841,
+    "eurostat:population_year":2020,
     "geom:area":0.00146,
     "geom:area_square_m":12772432.959058,
     "geom:bbox":"7.64809793583,44.9323218653,7.7017719868,44.9786937375",
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001127",
+        "eurostat:nuts_2021_id":"001127",
         "gn:id":6537278,
         "gp:id":12679819,
         "qs_pg:id":342102
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2807ee3803c0c929f9ba8ec444c2825d",
+    "wof:geomhash":"d95cd824037a7ad972150f8f760674d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456459,
-    "wof:lastmodified":1582328068,
+    "wof:lastmodified":1684353625,
     "wof:name":"La Loggia",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":8841,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

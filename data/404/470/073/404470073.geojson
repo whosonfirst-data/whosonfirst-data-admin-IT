@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Istrana",
+    "eurostat:nuts_2021_id":"026035",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026035",
+    "eurostat:population":9141,
+    "eurostat:population_year":2020,
     "geom:area":0.003056,
-    "geom:area_square_m":26400310.4631,
+    "geom:area_square_m":26400310.463096,
     "geom:bbox":"12.0603404834,45.6372604455,12.1216057445,45.7244630004",
     "geom:latitude":45.680281,
     "geom:longitude":12.088637,
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026035",
+        "eurostat:nuts_2021_id":"026035",
         "gn:id":6536279,
         "gp:id":12680831,
         "qs_pg:id":213507
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5450f877d013fba089b3b1f1ae09dab4",
+    "wof:geomhash":"3e7c960b13f796f852b40755601e3a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404470073,
-    "wof:lastmodified":1582327750,
+    "wof:lastmodified":1684353915,
     "wof:name":"Istrana",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":9141,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

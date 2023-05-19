@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliveto Citra",
+    "eurostat:nuts_2021_id":"065083",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065083",
+    "eurostat:population":3702,
+    "eurostat:population_year":2020,
     "geom:area":0.003349,
-    "geom:area_square_m":31397073.694117,
+    "geom:area_square_m":31397073.694112,
     "geom:bbox":"15.1686854278,40.6581466522,15.2540979161,40.718512498",
     "geom:latitude":40.692402,
     "geom:longitude":15.215047,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_065083",
+        "eurostat:nuts_2021_id":"065083",
         "gn:id":6537402,
         "gp:id":12680757,
         "qs_pg:id":1321567
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"122110000bd9b2f1d13c2403338cd351",
+    "wof:geomhash":"ffc3489c517c69109d0ebb0f7f27658f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404465649,
-    "wof:lastmodified":1582327840,
+    "wof:lastmodified":1684353835,
     "wof:name":"Oliveto Citra",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":3702,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

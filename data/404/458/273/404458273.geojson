@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veniano",
+    "eurostat:nuts_2021_id":"013238",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013238",
+    "eurostat:population":3064,
+    "eurostat:population_year":2020,
     "geom:area":0.000364,
-    "geom:area_square_m":3146658.775384,
+    "geom:area_square_m":3146658.775383,
     "geom:bbox":"8.96053268773,45.708259311,8.99943865819,45.7277186952",
     "geom:latitude":45.717233,
     "geom:longitude":8.982455,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_013238",
+        "eurostat:nuts_2021_id":"013238"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"4406b4ad4183debaec21efab65d32e94",
+    "wof:geomhash":"314ca5163910f3dbfd04543082415281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404458273,
-    "wof:lastmodified":1566723428,
+    "wof:lastmodified":1684353667,
     "wof:name":"Veniano",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":3064,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

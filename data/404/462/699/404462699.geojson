@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_069080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"San Giovanni Lipioni",
+    "eurostat:nuts_2021_id":"069080",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF14",
+    "eurostat:nuts_2021_level_lau":"069080",
+    "eurostat:population":149,
+    "eurostat:population_year":2020,
     "geom:area":0.000936,
     "geom:area_square_m":8621465.646131,
     "geom:bbox":"14.5485654593,41.8239950739,14.5930136323,41.8603024989",
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_069080",
+        "eurostat:nuts_2021_id":"069080",
         "gn:id":6538888,
         "gp:id":12681650,
         "qs_pg:id":910534
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d1c002906870451f84368185c238d2a8",
+    "wof:geomhash":"07abbf553daadb8fecfbf7b42bd69117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462699,
-    "wof:lastmodified":1582327869,
+    "wof:lastmodified":1684353763,
     "wof:name":"San Giovanni Lipioni",
     "wof:parent_id":85685519,
     "wof:placetype":"localadmin",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

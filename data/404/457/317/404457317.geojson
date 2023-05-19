@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_001255",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Ambrogio di Torino",
+    "eurostat:nuts_2021_id":"001255",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC11",
+    "eurostat:nuts_2021_level_lau":"001255",
+    "eurostat:population":4711,
+    "eurostat:population_year":2020,
     "geom:area":0.000957,
     "geom:area_square_m":8353522.678989,
     "geom:bbox":"7.3374553189,45.0834867859,7.39006778029,45.1114777937",
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_001255",
+        "eurostat:nuts_2021_id":"001255",
         "gn:id":6538083,
         "gp:id":12681564,
         "qs_pg:id":1196018
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cc78d6745569e2a6fd12b0382b31762",
+    "wof:geomhash":"af20e125fd6dc88cf7b10619659d9600",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404457317,
-    "wof:lastmodified":1582328120,
+    "wof:lastmodified":1684353647,
     "wof:name":"Sant'Ambrogio Di Torino",
     "wof:parent_id":85685169,
     "wof:placetype":"localadmin",
+    "wof:population":4711,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

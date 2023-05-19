@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_098008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casaletto Lodigiano",
+    "eurostat:nuts_2021_id":"098008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC49",
+    "eurostat:nuts_2021_level_lau":"098008",
+    "eurostat:population":2908,
+    "eurostat:population_year":2020,
     "geom:area":0.001119,
-    "geom:area_square_m":9736961.865818,
+    "geom:area_square_m":9736961.86582,
     "geom:bbox":"9.31967245507,45.2754378772,9.38059738591,45.3208972054",
     "geom:latitude":45.297823,
     "geom:longitude":9.352529,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_098008",
+        "eurostat:nuts_2021_id":"098008",
         "gn:id":6543348,
         "gp:id":20076394,
         "qs_pg:id":246651
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aacaa0c1315af00a205227db345f8b45",
+    "wof:geomhash":"be4a3b3a37d7d620fdba35bf55864d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404469443,
-    "wof:lastmodified":1582328037,
+    "wof:lastmodified":1684353904,
     "wof:name":"Casaletto Lodigiano",
     "wof:parent_id":85685671,
     "wof:placetype":"localadmin",
+    "wof:population":2908,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

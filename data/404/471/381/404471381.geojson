@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_018046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Certosa di Pavia",
+    "eurostat:nuts_2021_id":"018046",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC48",
+    "eurostat:nuts_2021_level_lau":"018046",
+    "eurostat:population":5500,
+    "eurostat:population_year":2020,
     "geom:area":0.001246,
-    "geom:area_square_m":10842668.586071,
+    "geom:area_square_m":10842668.586073,
     "geom:bbox":"9.10057940439,45.2282782668,9.15227710447,45.2772042954",
     "geom:latitude":45.250242,
     "geom:longitude":9.123595,
@@ -65,6 +77,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -73,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_018046",
+        "eurostat:nuts_2021_id":"018046",
         "gn:id":6540203,
         "gp:id":12682219,
         "qs_pg:id":213509
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9220584b2c11a5d2b14e65b8495aa5a2",
+    "wof:geomhash":"e67e85880535b6b90afa12c5e9863a07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404471381,
-    "wof:lastmodified":1582327734,
+    "wof:lastmodified":1684353939,
     "wof:name":"Certosa Di Pavia",
     "wof:parent_id":85685257,
     "wof:placetype":"localadmin",
+    "wof:population":5500,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

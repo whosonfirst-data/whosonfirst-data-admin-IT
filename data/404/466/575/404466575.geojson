@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_086001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agira",
+    "eurostat:nuts_2021_id":"086001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG16",
+    "eurostat:nuts_2021_level_lau":"086001",
+    "eurostat:population":8017,
+    "eurostat:population_year":2020,
     "geom:area":0.016656,
-    "geom:area_square_m":163174086.735515,
+    "geom:area_square_m":163174086.735493,
     "geom:bbox":"14.4656658144,37.5351492727,14.6761645062,37.6912724894",
     "geom:latitude":37.602081,
     "geom:longitude":14.546919,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_086001",
+        "eurostat:nuts_2021_id":"086001",
         "gn:id":6539185,
         "gp:id":12675815,
         "qs_pg:id":38621
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"336a55c5717cefd5b7d13ba23d2ac0a5",
+    "wof:geomhash":"0c96fb705ebb4f41b6460e1bc43d25bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404466575,
-    "wof:lastmodified":1582328195,
+    "wof:lastmodified":1684353852,
     "wof:name":"Agira",
     "wof:parent_id":85685611,
     "wof:placetype":"localadmin",
+    "wof:population":8017,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

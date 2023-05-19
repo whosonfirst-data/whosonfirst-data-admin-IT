@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo Ligure",
+    "eurostat:nuts_2021_id":"010008",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010008",
+    "eurostat:population":2841,
+    "eurostat:population_year":2020,
     "geom:area":0.00269,
-    "geom:area_square_m":23710597.412168,
+    "geom:area_square_m":23710597.412171,
     "geom:bbox":"8.66306078308,44.5024729154,8.75702605136,44.5531399146",
     "geom:latitude":44.532477,
     "geom:longitude":8.710649,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010008",
+        "eurostat:nuts_2021_id":"010008",
         "gn:id":6537059,
         "gp:id":12677430,
         "qs_pg:id":248023
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b4da8020623e5e42a698067ced8b267",
+    "wof:geomhash":"b3bac473d35f033bcc713b09bf7639d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404471937,
-    "wof:lastmodified":1582327711,
+    "wof:lastmodified":1684353948,
     "wof:name":"Campo Ligure",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":2841,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

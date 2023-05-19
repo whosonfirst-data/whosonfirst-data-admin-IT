@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_050038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vicopisano",
+    "eurostat:nuts_2021_id":"050038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI17",
+    "eurostat:nuts_2021_level_lau":"050038",
+    "eurostat:population":8647,
+    "eurostat:population_year":2020,
     "geom:area":0.003003,
-    "geom:area_square_m":26845015.040574,
+    "geom:area_square_m":26845015.040575,
     "geom:bbox":"10.4973917166,43.6746804775,10.6177135072,43.722419102",
     "geom:latitude":43.699603,
     "geom:longitude":10.565236,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_050038",
+        "eurostat:nuts_2021_id":"050038",
         "gn:id":6541096,
         "gp:id":12681576,
         "qs_pg:id":190876
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9947868389ce3c6480893a68a85d1d06",
+    "wof:geomhash":"619d6cf1757ed682cddf49e0a73b6877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404472965,
-    "wof:lastmodified":1582327878,
+    "wof:lastmodified":1684353974,
     "wof:name":"Vicopisano",
     "wof:parent_id":85685419,
     "wof:placetype":"localadmin",
+    "wof:population":8647,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

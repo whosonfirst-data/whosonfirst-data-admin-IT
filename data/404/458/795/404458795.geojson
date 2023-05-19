@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_070054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietracupa",
+    "eurostat:nuts_2021_id":"070054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF2",
+    "eurostat:nuts_2021_level_3":"ITF22",
+    "eurostat:nuts_2021_level_lau":"070054",
+    "eurostat:population":220,
+    "eurostat:population_year":2020,
     "geom:area":0.001085,
-    "geom:area_square_m":10021109.086031,
+    "geom:area_square_m":10021109.086028,
     "geom:bbox":"14.4933332203,41.6546658436,14.5357450241,41.6998303125",
     "geom:latitude":41.675655,
     "geom:longitude":14.515721,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_070054",
+        "eurostat:nuts_2021_id":"070054",
         "gn:id":6538909,
         "gp:id":12681080,
         "qs_pg:id":947257
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0563cd66c6c5e5f98a8eac96b7bca21c",
+    "wof:geomhash":"a9b3fdbcfa210ad2ab6f9ef3c3b91cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404458795,
-    "wof:lastmodified":1582327953,
+    "wof:lastmodified":1684353677,
     "wof:name":"Pietracupa",
     "wof:parent_id":85685523,
     "wof:placetype":"localadmin",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

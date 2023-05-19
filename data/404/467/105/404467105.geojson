@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_095063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorradile",
+    "eurostat:nuts_2021_id":"095063",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2G",
+    "eurostat:nuts_2021_level_lau":"095063",
+    "eurostat:population":355,
+    "eurostat:population_year":2020,
     "geom:area":0.002786,
-    "geom:area_square_m":26334590.894272,
+    "geom:area_square_m":26334590.894274,
     "geom:bbox":"8.89157143346,40.0952376718,9.01904433223,40.1776226217",
     "geom:latitude":40.135424,
     "geom:longitude":8.96289,
@@ -176,6 +188,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_095063",
+        "eurostat:nuts_2021_id":"095063",
         "gn:id":6537981,
         "gp:id":12682056,
         "qs_pg:id":1004489
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b2f505806495844e0496491b4f3b183c",
+    "wof:geomhash":"16a13dc5f86bcd6ec0578a0f75d470d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":404467105,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353865,
     "wof:name":"Sorradile",
     "wof:parent_id":85685659,
     "wof:placetype":"localadmin",
+    "wof:population":355,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

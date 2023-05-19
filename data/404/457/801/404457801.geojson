@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_003129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Recetto",
+    "eurostat:nuts_2021_id":"003129",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC15",
+    "eurostat:nuts_2021_level_lau":"003129",
+    "eurostat:population":945,
+    "eurostat:population_year":2020,
     "geom:area":0.001019,
-    "geom:area_square_m":8839281.843848,
+    "geom:area_square_m":8839281.84385,
     "geom:bbox":"8.3997714661,45.4426992634,8.45061876873,45.4730512224",
     "geom:latitude":45.460103,
     "geom:longitude":8.425259,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_003129",
+        "eurostat:nuts_2021_id":"003129",
         "gn:id":6539557,
         "gp:id":12681339,
         "qs_pg:id":204190
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e8171731ece06e28b0d4a587ab018c0",
+    "wof:geomhash":"dc46d77f2dd6cb22015f946e5b59f2bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404457801,
-    "wof:lastmodified":1582328117,
+    "wof:lastmodified":1684353657,
     "wof:name":"Recetto",
     "wof:parent_id":85685183,
     "wof:placetype":"localadmin",
+    "wof:population":945,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

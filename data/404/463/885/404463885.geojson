@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capalbio",
+    "eurostat:nuts_2021_id":"053003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053003",
+    "eurostat:population":3994,
+    "eurostat:population_year":2020,
     "geom:area":0.020501,
-    "geom:area_square_m":187037244.556878,
+    "geom:area_square_m":187037244.556882,
     "geom:bbox":"11.3050797535,42.3775038198,11.5414489618,42.5290362467",
     "geom:latitude":42.454165,
     "geom:longitude":11.423248,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053003",
+        "eurostat:nuts_2021_id":"053003",
         "gn:id":6536857,
         "gp:id":12677555,
         "qs_pg:id":50813
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef2d37871fc67d07b8ae7c018d159246",
+    "wof:geomhash":"4d39bfa999f56d5c3c622d6cb2ccf77d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404463885,
-    "wof:lastmodified":1582327782,
+    "wof:lastmodified":1684353789,
     "wof:name":"Capalbio",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":3994,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

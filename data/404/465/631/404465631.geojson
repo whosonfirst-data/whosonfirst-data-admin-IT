@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_065075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte San Giacomo",
+    "eurostat:nuts_2021_id":"065075",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF35",
+    "eurostat:nuts_2021_level_lau":"065075",
+    "eurostat:population":1507,
+    "eurostat:population_year":2020,
     "geom:area":0.005442,
-    "geom:area_square_m":51290269.688622,
+    "geom:area_square_m":51290269.688626,
     "geom:bbox":"15.448845386,40.2845464195,15.5737838555,40.3665238001",
     "geom:latitude":40.33466,
     "geom:longitude":15.510222,
@@ -143,6 +155,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -150,9 +164,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_065075",
+        "eurostat:nuts_2021_id":"065075"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"59c192164d43cefd296c7c7d742c753f",
+    "wof:geomhash":"f8db0335f791ae8cfced1305f1f2c0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +180,12 @@
         }
     ],
     "wof:id":404465631,
-    "wof:lastmodified":1566723303,
+    "wof:lastmodified":1684353835,
     "wof:name":"Monte San Giacomo",
     "wof:parent_id":85685497,
     "wof:placetype":"localadmin",
+    "wof:population":1507,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

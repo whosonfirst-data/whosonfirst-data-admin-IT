@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Storo",
+    "eurostat:nuts_2021_id":"022183",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022183",
+    "eurostat:population":4579,
+    "eurostat:population_year":2020,
     "geom:area":0.007293,
-    "geom:area_square_m":62816176.062496,
+    "geom:area_square_m":62816176.0625,
     "geom:bbox":"10.4900963612,45.8093069306,10.6439016811,45.903425474",
     "geom:latitude":45.848718,
     "geom:longitude":10.559425,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022183",
+        "eurostat:nuts_2021_id":"022183",
         "gn:id":6536253,
         "gp:id":12677260,
         "qs_pg:id":39563
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"561ac39ad0fdab6ca89fef29a1212949",
+    "wof:geomhash":"a417377401342cc2fd8d9fa78c5f5061",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404471659,
-    "wof:lastmodified":1582327718,
+    "wof:lastmodified":1684353943,
     "wof:name":"Storo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":4579,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

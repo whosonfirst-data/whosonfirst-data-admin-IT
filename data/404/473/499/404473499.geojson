@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_022092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giovo",
+    "eurostat:nuts_2021_id":"022092",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH2",
+    "eurostat:nuts_2021_level_3":"ITH20",
+    "eurostat:nuts_2021_level_lau":"022092",
+    "eurostat:population":2519,
+    "eurostat:population_year":2020,
     "geom:area":0.002425,
-    "geom:area_square_m":20765050.198595,
+    "geom:area_square_m":20765050.198597,
     "geom:bbox":"11.1168127768,46.1411526781,11.2017101284,46.2314304664",
     "geom:latitude":46.179132,
     "geom:longitude":11.160835,
@@ -140,6 +152,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -148,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_022092",
+        "eurostat:nuts_2021_id":"022092",
         "gn:id":6542626,
         "gp:id":20076618,
         "qs_pg:id":1149937
@@ -156,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e617ede78931d6768ea040bf44bce4bf",
+    "wof:geomhash":"c03386d02e7bd610627897e6644a8557",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404473499,
-    "wof:lastmodified":1582327918,
+    "wof:lastmodified":1684353989,
     "wof:name":"Giovo",
     "wof:parent_id":85685277,
     "wof:placetype":"localadmin",
+    "wof:population":2519,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

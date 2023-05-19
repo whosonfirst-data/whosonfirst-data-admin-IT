@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_026087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdobbiadene",
+    "eurostat:nuts_2021_id":"026087",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH34",
+    "eurostat:nuts_2021_level_lau":"026087",
+    "eurostat:population":10259,
+    "eurostat:population_year":2020,
     "geom:area":0.007289,
-    "geom:area_square_m":62711884.299517,
+    "geom:area_square_m":62711884.299526,
     "geom:bbox":"11.9492721705,45.8583933731,12.0778902201,45.9736949623",
     "geom:latitude":45.912935,
     "geom:longitude":12.016199,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_026087",
+        "eurostat:nuts_2021_id":"026087",
         "gn:id":6536653,
         "gp:id":12677849,
         "qs_pg:id":1102035
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88d204ed2c6abdb0987df6b400027c90",
+    "wof:geomhash":"aab314c578a7c0be5c5de4ce5e4c5032",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404458709,
-    "wof:lastmodified":1582327938,
+    "wof:lastmodified":1684353675,
     "wof:name":"Valdobbiadene",
     "wof:parent_id":85685297,
     "wof:placetype":"localadmin",
+    "wof:population":10259,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

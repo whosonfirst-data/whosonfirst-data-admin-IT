@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magasa",
+    "eurostat:nuts_2021_id":"017098",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017098",
+    "eurostat:population":110,
+    "eurostat:population_year":2020,
     "geom:area":0.002212,
-    "geom:area_square_m":19072296.119445,
+    "geom:area_square_m":19072296.119444,
     "geom:bbox":"10.597733948,45.7541074774,10.6691797912,45.8066498388",
     "geom:latitude":45.782789,
     "geom:longitude":10.633746,
@@ -77,6 +89,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -85,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017098",
+        "eurostat:nuts_2021_id":"017098",
         "gn:id":6536184,
         "gp:id":12680087,
         "qs_pg:id":537267
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e62500450473b841a14fd425e77e2d11",
+    "wof:geomhash":"5f45cf3884af139fdf2d432ab0ab0758",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404471143,
-    "wof:lastmodified":1582327720,
+    "wof:lastmodified":1684353934,
     "wof:name":"Magasa",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":110,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

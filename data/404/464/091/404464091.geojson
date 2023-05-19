@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_078021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calopezzati",
+    "eurostat:nuts_2021_id":"078021",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF61",
+    "eurostat:nuts_2021_level_lau":"078021",
+    "eurostat:population":1338,
+    "eurostat:population_year":2020,
     "geom:area":0.002342,
-    "geom:area_square_m":22324629.576819,
+    "geom:area_square_m":22324629.576813,
     "geom:bbox":"16.7433999255,39.5340091993,16.8334655346,39.5880265733",
     "geom:latitude":39.557174,
     "geom:longitude":16.793712,
@@ -125,6 +137,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -132,9 +146,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_078021",
+        "eurostat:nuts_2021_id":"078021"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"6cacbaa7e23ee69d1480e4d322595007",
+    "wof:geomhash":"a68928c673cbbd051f1fd8c3487e7a55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +162,12 @@
         }
     ],
     "wof:id":404464091,
-    "wof:lastmodified":1566723218,
+    "wof:lastmodified":1684353797,
     "wof:name":"Calopezzati",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
+    "wof:population":1338,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

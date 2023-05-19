@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_005053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferrere",
+    "eurostat:nuts_2021_id":"005053",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC17",
+    "eurostat:nuts_2021_level_lau":"005053",
+    "eurostat:population":1533,
+    "eurostat:population_year":2020,
     "geom:area":0.001587,
-    "geom:area_square_m":13906582.008503,
+    "geom:area_square_m":13906582.008501,
     "geom:bbox":"7.96472085369,44.8465134852,8.01717092986,44.8991648897",
     "geom:latitude":44.872817,
     "geom:longitude":7.99253,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_005053",
+        "eurostat:nuts_2021_id":"005053",
         "gn:id":6542396,
         "gp:id":12682634,
         "qs_pg:id":345132
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea62083f88fa7400d73d75a93bbebc18",
+    "wof:geomhash":"f3b10f205c011452781a846821d43da4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404456027,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353615,
     "wof:name":"Ferrere",
     "wof:parent_id":85685195,
     "wof:placetype":"localadmin",
+    "wof:population":1533,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_044064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roccafluvione",
+    "eurostat:nuts_2021_id":"044064",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI3",
+    "eurostat:nuts_2021_level_3":"ITI34",
+    "eurostat:nuts_2021_level_lau":"044064",
+    "eurostat:population":1960,
+    "eurostat:population_year":2020,
     "geom:area":0.006661,
-    "geom:area_square_m":60385340.82257,
+    "geom:area_square_m":60385340.822563,
     "geom:bbox":"13.3744026285,42.7934142425,13.5005477547,42.8968627395",
     "geom:latitude":42.848233,
     "geom:longitude":13.43945,
@@ -122,6 +134,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -129,9 +143,12 @@
         404227515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_044064",
+        "eurostat:nuts_2021_id":"044064"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"cd5b73c518306134a4c05b315ad51a22",
+    "wof:geomhash":"f695839c091c91989d83b117d23e2e67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404461117,
-    "wof:lastmodified":1566723701,
+    "wof:lastmodified":1684353732,
     "wof:name":"Roccafluvione",
     "wof:parent_id":85685387,
     "wof:placetype":"localadmin",
+    "wof:population":1960,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

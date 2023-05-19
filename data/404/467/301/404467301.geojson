@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_111059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Samassi",
+    "eurostat:nuts_2021_id":"111059",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2H",
+    "eurostat:nuts_2021_level_lau":"111059",
+    "eurostat:population":5018,
+    "eurostat:population_year":2020,
     "geom:area":0.004405,
-    "geom:area_square_m":42040691.198001,
+    "geom:area_square_m":42040691.198002,
     "geom:bbox":"8.85997999489,39.4474908046,8.95539860427,39.5389782099",
     "geom:latitude":39.488328,
     "geom:longitude":8.907237,
@@ -173,6 +185,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -181,6 +195,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_111059",
+        "eurostat:nuts_2021_id":"111059",
         "gn:id":6537906,
         "gp:id":12681554,
         "qs_pg:id":1059659
@@ -189,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"68942b9150082544576e62375e4c5b0d",
+    "wof:geomhash":"de8161829a72369ca6709abe5a79104e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404467301,
-    "wof:lastmodified":1582327967,
+    "wof:lastmodified":1684353871,
     "wof:name":"Samassi",
     "wof:parent_id":1360702181,
     "wof:placetype":"localadmin",
+    "wof:population":5018,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

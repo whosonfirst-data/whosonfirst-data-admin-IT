@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_087005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aci Sant'Antonio",
+    "eurostat:nuts_2021_id":"087005",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG17",
+    "eurostat:nuts_2021_level_lau":"087005",
+    "eurostat:population":18163,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
-    "geom:area_square_m":14235595.504627,
+    "geom:area_square_m":14235595.50462,
     "geom:bbox":"15.0915320275,37.593549457,15.1377847539,37.6524554008",
     "geom:latitude":37.624193,
     "geom:longitude":15.117593,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_087005",
+        "eurostat:nuts_2021_id":"087005",
         "gn:id":6537803,
         "gp:id":12675740,
         "qs_pg:id":203682
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6894476ab53fb125aafce7ee32523fdd",
+    "wof:geomhash":"e2acbf8d3700ddf9031bb50c742b0bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404459225,
-    "wof:lastmodified":1582328172,
+    "wof:lastmodified":1684353689,
     "wof:name":"Aci Sant'Antonio",
     "wof:parent_id":85685617,
     "wof:placetype":"localadmin",
+    "wof:population":18163,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

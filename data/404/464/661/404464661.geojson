@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_080084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scido",
+    "eurostat:nuts_2021_id":"080084",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF6",
+    "eurostat:nuts_2021_level_3":"ITF65",
+    "eurostat:nuts_2021_level_lau":"080084",
+    "eurostat:population":881,
+    "eurostat:population_year":2020,
     "geom:area":0.001789,
-    "geom:area_square_m":17374771.748921,
+    "geom:area_square_m":17374771.748896,
     "geom:bbox":"15.9253654509,38.1923849409,15.9710291617,38.2697470137",
     "geom:latitude":38.231635,
     "geom:longitude":15.947408,
@@ -131,6 +143,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -138,9 +152,12 @@
         404227531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_080084",
+        "eurostat:nuts_2021_id":"080084"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"68ee125f952791dfd6a84dd9d272b72b",
+    "wof:geomhash":"83232eaaa3d849566cc379f5325e7177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +168,12 @@
         }
     ],
     "wof:id":404464661,
-    "wof:lastmodified":1566723222,
+    "wof:lastmodified":1684353812,
     "wof:name":"Scido",
     "wof:parent_id":85685577,
     "wof:placetype":"localadmin",
+    "wof:population":881,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bassano Bresciano",
+    "eurostat:nuts_2021_id":"017013",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017013",
+    "eurostat:population":2329,
+    "eurostat:population_year":2020,
     "geom:area":0.001082,
-    "geom:area_square_m":9405241.454247,
+    "geom:area_square_m":9405241.454248,
     "geom:bbox":"10.1065479076,45.3018993792,10.1548579661,45.3409733039",
     "geom:latitude":45.324241,
     "geom:longitude":10.128766,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_017013",
+        "eurostat:nuts_2021_id":"017013",
         "gn:id":6540349,
         "gp:id":12676622,
         "qs_pg:id":203745
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c2ff301207a77cf1a3ca0defb789c6e",
+    "wof:geomhash":"dfbbf336de13f20e011320bf5cf361e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404470951,
-    "wof:lastmodified":1582327749,
+    "wof:lastmodified":1684353930,
     "wof:name":"Bassano Bresciano",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":2329,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

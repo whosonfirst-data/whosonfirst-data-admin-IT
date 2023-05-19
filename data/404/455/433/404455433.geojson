@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canosio",
+    "eurostat:nuts_2021_id":"004038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004038",
+    "eurostat:population":78,
+    "eurostat:population_year":2020,
     "geom:area":0.005476,
-    "geom:area_square_m":48360630.276385,
+    "geom:area_square_m":48360630.276386,
     "geom:bbox":"6.99054357714,44.3748314647,7.09595168157,44.4895596444",
     "geom:latitude":44.420646,
     "geom:longitude":7.054149,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004038",
+        "eurostat:nuts_2021_id":"004038",
         "gn:id":6543435,
         "gp:id":20075742,
         "qs_pg:id":400842
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd6b6160e2ef5e7682e3dc2b6931c751",
+    "wof:geomhash":"719a9c87f4c11625558b423d5f7950fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404455433,
-    "wof:lastmodified":1582327820,
+    "wof:lastmodified":1684353603,
     "wof:name":"Canosio",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":78,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

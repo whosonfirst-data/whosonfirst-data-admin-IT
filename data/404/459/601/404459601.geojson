@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_054001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Assisi",
+    "eurostat:nuts_2021_id":"054001",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI2",
+    "eurostat:nuts_2021_level_3":"ITI21",
+    "eurostat:nuts_2021_level_lau":"054001",
+    "eurostat:population":28391,
+    "eurostat:population_year":2020,
     "geom:area":0.020666,
-    "geom:area_square_m":186623536.713047,
+    "geom:area_square_m":186623536.713027,
     "geom:bbox":"12.510780872,43.0107492585,12.7271834301,43.1586639388",
     "geom:latitude":43.086155,
     "geom:longitude":12.625334,
@@ -251,6 +263,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -259,6 +273,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_054001",
+        "eurostat:nuts_2021_id":"054001",
         "gn:id":6538612,
         "gp:id":12676091,
         "qs_pg:id":1192908
@@ -267,7 +283,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a93e2bfad27570e5c74d1f51827db4ef",
+    "wof:geomhash":"2ca57b95f60932e74cef2ef052bf91eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -278,10 +294,12 @@
         }
     ],
     "wof:id":404459601,
-    "wof:lastmodified":1582328174,
+    "wof:lastmodified":1684353697,
     "wof:name":"Assisi",
     "wof:parent_id":85685439,
     "wof:placetype":"localadmin",
+    "wof:population":28391,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

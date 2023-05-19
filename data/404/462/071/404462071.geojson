@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_066002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aielli",
+    "eurostat:nuts_2021_id":"066002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF11",
+    "eurostat:nuts_2021_level_lau":"066002",
+    "eurostat:population":1469,
+    "eurostat:population_year":2020,
     "geom:area":0.00407,
-    "geom:area_square_m":37359648.758865,
+    "geom:area_square_m":37359648.758851,
     "geom:bbox":"13.5483256962,42.00962962,13.6323788687,42.1292310789",
     "geom:latitude":42.075247,
     "geom:longitude":13.582091,
@@ -155,6 +167,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -163,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_066002",
+        "eurostat:nuts_2021_id":"066002",
         "gn:id":6541690,
         "gp:id":12675849,
         "qs_pg:id":257738
@@ -171,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d997af30ce4c96f4e6d73a401da2c91c",
+    "wof:geomhash":"d0def5c8f892c21d58d0889108e15d29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404462071,
-    "wof:lastmodified":1582327855,
+    "wof:lastmodified":1684353752,
     "wof:name":"Aielli",
     "wof:parent_id":85685505,
     "wof:placetype":"localadmin",
+    "wof:population":1469,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_052016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteriggioni",
+    "eurostat:nuts_2021_id":"052016",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI19",
+    "eurostat:nuts_2021_level_lau":"052016",
+    "eurostat:population":10047,
+    "eurostat:population_year":2020,
     "geom:area":0.011076,
-    "geom:area_square_m":99559122.26544,
+    "geom:area_square_m":99559122.265473,
     "geom:bbox":"11.1213966704,43.316621949,11.314950873,43.4172740995",
     "geom:latitude":43.36766,
     "geom:longitude":11.225557,
@@ -152,6 +164,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_052016",
+        "eurostat:nuts_2021_id":"052016",
         "gn:id":6536850,
         "gp:id":12675699,
         "qs_pg:id":1192876
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efbb4f57a9e115e6962d8e919175702e",
+    "wof:geomhash":"1b5f91284477fd6bced9751df03d367b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404463833,
-    "wof:lastmodified":1582327771,
+    "wof:lastmodified":1684353787,
     "wof:name":"Monteriggioni",
     "wof:parent_id":85685431,
     "wof:placetype":"localadmin",
+    "wof:population":10047,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

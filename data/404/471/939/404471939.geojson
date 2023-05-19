@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_010009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campomorone",
+    "eurostat:nuts_2021_id":"010009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC3",
+    "eurostat:nuts_2021_level_3":"ITC33",
+    "eurostat:nuts_2021_level_lau":"010009",
+    "eurostat:population":6680,
+    "eurostat:population_year":2020,
     "geom:area":0.002936,
-    "geom:area_square_m":25873922.053739,
+    "geom:area_square_m":25873922.053738,
     "geom:bbox":"8.82225232196,44.5045273632,8.90622251452,44.5662494875",
     "geom:latitude":44.53755,
     "geom:longitude":8.862867,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_010009",
+        "eurostat:nuts_2021_id":"010009",
         "gn:id":6540560,
         "gp:id":20076437,
         "qs_pg:id":1166776
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5305e1a9ad3c20ead249a72149605884",
+    "wof:geomhash":"ed3783cafe9e68f66829298de8a6003f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404471939,
-    "wof:lastmodified":1582327710,
+    "wof:lastmodified":1684353948,
     "wof:name":"Campomorone",
     "wof:parent_id":85685219,
     "wof:placetype":"localadmin",
+    "wof:population":6680,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

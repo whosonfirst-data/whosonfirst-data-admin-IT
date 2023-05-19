@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_073019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mottola",
+    "eurostat:nuts_2021_id":"073019",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF4",
+    "eurostat:nuts_2021_level_3":"ITF43",
+    "eurostat:nuts_2021_level_lau":"073019",
+    "eurostat:population":15752,
+    "eurostat:population_year":2020,
     "geom:area":0.022552,
-    "geom:area_square_m":211478484.968155,
+    "geom:area_square_m":211478484.968152,
     "geom:bbox":"16.9230117931,40.602637113,17.2033912837,40.7616157201",
     "geom:latitude":40.679003,
     "geom:longitude":17.032411,
@@ -143,6 +155,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -151,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_073019",
+        "eurostat:nuts_2021_id":"073019",
         "gn:id":6537566,
         "gp:id":12680623,
         "qs_pg:id":41685
@@ -159,7 +175,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a928a45711365a92f14243b16e988189",
+    "wof:geomhash":"9e3b804423fa85ff24c1a278a2e96669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404456879,
-    "wof:lastmodified":1582328063,
+    "wof:lastmodified":1684353635,
     "wof:name":"Mottola",
     "wof:parent_id":85685539,
     "wof:placetype":"localadmin",
+    "wof:population":15752,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

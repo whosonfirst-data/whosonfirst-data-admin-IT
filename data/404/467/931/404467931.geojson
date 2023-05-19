@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_013003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albavilla",
+    "eurostat:nuts_2021_id":"013003",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC42",
+    "eurostat:nuts_2021_level_lau":"013003",
+    "eurostat:population":6400,
+    "eurostat:population_year":2020,
     "geom:area":0.001202,
-    "geom:area_square_m":10363356.54955,
+    "geom:area_square_m":10363356.549549,
     "geom:bbox":"9.16459769261,45.7832449731,9.21517775236,45.8377768874",
     "geom:latitude":45.809521,
     "geom:longitude":9.185438,
@@ -134,6 +146,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -142,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_013003",
+        "eurostat:nuts_2021_id":"013003",
         "gn:id":6542526,
         "gp:id":12682562,
         "qs_pg:id":1163593
@@ -150,7 +166,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d69f720676d19e5d55908e4e080b23da",
+    "wof:geomhash":"d22568b6b2acb81824e5f8eb9751dc1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404467931,
-    "wof:lastmodified":1582327965,
+    "wof:lastmodified":1684353881,
     "wof:name":"Albavilla",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",
+    "wof:population":6400,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

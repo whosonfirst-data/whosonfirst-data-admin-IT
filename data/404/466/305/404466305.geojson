@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_083054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monforte San Giorgio",
+    "eurostat:nuts_2021_id":"083054",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG1",
+    "eurostat:nuts_2021_level_3":"ITG13",
+    "eurostat:nuts_2021_level_lau":"083054",
+    "eurostat:population":2634,
+    "eurostat:population_year":2020,
     "geom:area":0.003292,
     "geom:area_square_m":32019129.836563,
     "geom:bbox":"15.3276357287,38.0757931377,15.4433757332,38.2158514716",
@@ -137,6 +149,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_083054",
+        "eurostat:nuts_2021_id":"083054",
         "gn:id":6539868,
         "gp:id":12679582,
         "qs_pg:id":1143086
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01a26f96670fcfa6d277819719d4c117",
+    "wof:geomhash":"4ad3a3713af2873009bfc6a79deabe6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404466305,
-    "wof:lastmodified":1582328200,
+    "wof:lastmodified":1684353846,
     "wof:name":"Monforte San Giorgio",
     "wof:parent_id":85685595,
     "wof:placetype":"localadmin",
+    "wof:population":2634,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

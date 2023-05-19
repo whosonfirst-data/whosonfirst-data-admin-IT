@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_068041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spoltore",
+    "eurostat:nuts_2021_id":"068041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF1",
+    "eurostat:nuts_2021_level_3":"ITF13",
+    "eurostat:nuts_2021_level_lau":"068041",
+    "eurostat:population":19226,
+    "eurostat:population_year":2020,
     "geom:area":0.004035,
-    "geom:area_square_m":36824089.9205,
+    "geom:area_square_m":36824089.920498,
     "geom:bbox":"14.0872458906,42.4051501076,14.1966878813,42.4690579758",
     "geom:latitude":42.440503,
     "geom:longitude":14.138598,
@@ -152,6 +164,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -159,9 +173,12 @@
         404227519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_068041",
+        "eurostat:nuts_2021_id":"068041"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"f1ed3d853e96a0b9c9a284d9eaf5427a",
+    "wof:geomhash":"3b4875eef5ae06fd4de52c10983ec0ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +189,12 @@
         }
     ],
     "wof:id":404462507,
-    "wof:lastmodified":1566723329,
+    "wof:lastmodified":1684353760,
     "wof:name":"Spoltore",
     "wof:parent_id":85685513,
     "wof:placetype":"localadmin",
+    "wof:population":19226,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

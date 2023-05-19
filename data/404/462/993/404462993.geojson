@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_061017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carinola",
+    "eurostat:nuts_2021_id":"061017",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF31",
+    "eurostat:nuts_2021_level_lau":"061017",
+    "eurostat:population":7561,
+    "eurostat:population_year":2020,
     "geom:area":0.006334,
-    "geom:area_square_m":58947565.149626,
+    "geom:area_square_m":58947565.149629,
     "geom:bbox":"13.9285085836,41.1133072629,14.04110512,41.2364303489",
     "geom:latitude":41.184927,
     "geom:longitude":13.991102,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_061017",
+        "eurostat:nuts_2021_id":"061017",
         "gn:id":6541406,
         "gp:id":12677692,
         "qs_pg:id":961645
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e214395493ca11fd58b0b14dad4c782",
+    "wof:geomhash":"66ca3ac41ae6977a69cb437a9b7fcd45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404462993,
-    "wof:lastmodified":1582327864,
+    "wof:lastmodified":1684353770,
     "wof:name":"Carinola",
     "wof:parent_id":85685477,
     "wof:placetype":"localadmin",
+    "wof:population":7561,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

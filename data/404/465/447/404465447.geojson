@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_064113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tufo",
+    "eurostat:nuts_2021_id":"064113",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF34",
+    "eurostat:nuts_2021_level_lau":"064113",
+    "eurostat:population":831,
+    "eurostat:population_year":2020,
     "geom:area":0.000635,
     "geom:area_square_m":5926614.678323,
     "geom:bbox":"14.7854723143,40.9924873587,14.8476841676,41.0272488248",
@@ -134,6 +146,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -141,9 +155,12 @@
         404227525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_064113",
+        "eurostat:nuts_2021_id":"064113"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"a642b8d46c00689fd6ea544c4c03dac2",
+    "wof:geomhash":"232fa82ca5e9cceeb5db9389f19894ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +171,12 @@
         }
     ],
     "wof:id":404465447,
-    "wof:lastmodified":1566723276,
+    "wof:lastmodified":1684353831,
     "wof:name":"Tufo",
     "wof:parent_id":85685493,
     "wof:placetype":"localadmin",
+    "wof:population":831,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

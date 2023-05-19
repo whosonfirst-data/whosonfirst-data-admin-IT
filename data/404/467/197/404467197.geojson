@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_090041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monti",
+    "eurostat:nuts_2021_id":"090041",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITG",
+    "eurostat:nuts_2021_level_2":"ITG2",
+    "eurostat:nuts_2021_level_3":"ITG2D",
+    "eurostat:nuts_2021_level_lau":"090041",
+    "eurostat:population":2399,
+    "eurostat:population_year":2020,
     "geom:area":0.013223,
-    "geom:area_square_m":123774239.26066,
+    "geom:area_square_m":123774239.260667,
     "geom:bbox":"9.28121539435,40.7334673012,9.43143409441,40.8598006538",
     "geom:latitude":40.796729,
     "geom:longitude":9.356931,
@@ -104,6 +116,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_090041",
+        "eurostat:nuts_2021_id":"090041",
         "gn:id":6541358,
         "gp:id":12680564,
         "qs_pg:id":41644
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19ae5415b98c4dbe6c87d4f6377c9bcb",
+    "wof:geomhash":"ae13d6eb22924160beff28a3891df260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404467197,
-    "wof:lastmodified":1582327981,
+    "wof:lastmodified":1684353868,
     "wof:name":"Monti",
     "wof:parent_id":1360702175,
     "wof:placetype":"localadmin",
+    "wof:population":2399,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_053006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castiglione della Pescaia",
+    "eurostat:nuts_2021_id":"053006",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITI",
+    "eurostat:nuts_2021_level_2":"ITI1",
+    "eurostat:nuts_2021_level_3":"ITI1A",
+    "eurostat:nuts_2021_level_lau":"053006",
+    "eurostat:population":7206,
+    "eurostat:population_year":2020,
     "geom:area":0.023042,
-    "geom:area_square_m":208981306.926938,
+    "geom:area_square_m":208981306.926953,
     "geom:bbox":"10.7116381637,42.753407041,11.043640236,42.8882651996",
     "geom:latitude":42.82229,
     "geom:longitude":10.90032,
@@ -38,6 +50,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_053006",
+        "eurostat:nuts_2021_id":"053006",
         "gn:id":6536858,
         "gp:id":12677189,
         "qs_pg:id":1187862
@@ -54,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"90e78e8513630e552094cc11d9bddf4c",
+    "wof:geomhash":"3bc6c8accdf4e22cc24cd0a103fedd76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +81,12 @@
         }
     ],
     "wof:id":404463891,
-    "wof:lastmodified":1582327784,
+    "wof:lastmodified":1684353789,
     "wof:name":"Castiglione Della Pescaia",
     "wof:parent_id":85685433,
     "wof:placetype":"localadmin",
+    "wof:population":7206,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

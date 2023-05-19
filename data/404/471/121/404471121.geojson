@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_017088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leno",
+    "eurostat:nuts_2021_id":"017088",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC47",
+    "eurostat:nuts_2021_level_lau":"017088",
+    "eurostat:population":14262,
+    "eurostat:population_year":2020,
     "geom:area":0.006717,
-    "geom:area_square_m":58355055.205736,
+    "geom:area_square_m":58355055.205742,
     "geom:bbox":"10.1633245156,45.3114664925,10.2690799345,45.4102661135",
     "geom:latitude":45.360963,
     "geom:longitude":10.218189,
@@ -29,6 +41,8 @@
     "qs:level":"localadmin",
     "qs:source":"Italy IGN",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -36,9 +50,12 @@
         404227497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"IT_017088",
+        "eurostat:nuts_2021_id":"017088"
+    },
     "wof:country":"IT",
-    "wof:geomhash":"636b901d9bbf675b98d03c7093879947",
+    "wof:geomhash":"9eb7eb43098b40a7a92edf8f1ad3df72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
         }
     ],
     "wof:id":404471121,
-    "wof:lastmodified":1566723107,
+    "wof:lastmodified":1684353934,
     "wof:name":"Leno",
     "wof:parent_id":85685253,
     "wof:placetype":"localadmin",
+    "wof:population":14262,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

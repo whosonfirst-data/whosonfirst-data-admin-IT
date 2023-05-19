@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_062009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonea",
+    "eurostat:nuts_2021_id":"062009",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITF",
+    "eurostat:nuts_2021_level_2":"ITF3",
+    "eurostat:nuts_2021_level_3":"ITF32",
+    "eurostat:nuts_2021_level_lau":"062009",
+    "eurostat:population":1381,
+    "eurostat:population_year":2020,
     "geom:area":0.001223,
-    "geom:area_square_m":11395235.430531,
+    "geom:area_square_m":11395235.430528,
     "geom:bbox":"14.5914572625,41.0509451019,14.6342463936,41.1018585512",
     "geom:latitude":41.078787,
     "geom:longitude":14.610818,
@@ -149,6 +161,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_062009",
+        "eurostat:nuts_2021_id":"062009",
         "gn:id":6537317,
         "gp:id":12676888,
         "qs_pg:id":1015570
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e5587082c0eaf363c749126151593fa",
+    "wof:geomhash":"286bbc0e7885672ccfc13ce6b04c3687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404460713,
-    "wof:lastmodified":1582328005,
+    "wof:lastmodified":1684353724,
     "wof:name":"Bonea",
     "wof:parent_id":85685483,
     "wof:placetype":"localadmin",
+    "wof:population":1381,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

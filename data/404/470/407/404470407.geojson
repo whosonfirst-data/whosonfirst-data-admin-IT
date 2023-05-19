@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_029038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pontecchio Polesine",
+    "eurostat:nuts_2021_id":"029038",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITH",
+    "eurostat:nuts_2021_level_2":"ITH3",
+    "eurostat:nuts_2021_level_3":"ITH37",
+    "eurostat:nuts_2021_level_lau":"029038",
+    "eurostat:population":2191,
+    "eurostat:population_year":2020,
     "geom:area":0.001316,
-    "geom:area_square_m":11501885.046977,
+    "geom:area_square_m":11501885.046976,
     "geom:bbox":"11.7810062589,44.9965403931,11.8481619737,45.0324394706",
     "geom:latitude":45.010107,
     "geom:longitude":11.814708,
@@ -131,6 +143,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -139,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_029038",
+        "eurostat:nuts_2021_id":"029038",
         "gn:id":6536684,
         "gp:id":12679752,
         "qs_pg:id":1195598
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4df9520ee37bd3309238d09716fb4e5d",
+    "wof:geomhash":"77eabfc132e1e99e41462ef8e4366daf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404470407,
-    "wof:lastmodified":1582327743,
+    "wof:lastmodified":1684353921,
     "wof:name":"Pontecchio Polesine",
     "wof:parent_id":85685313,
     "wof:placetype":"localadmin",
+    "wof:population":2191,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

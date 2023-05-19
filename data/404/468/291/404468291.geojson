@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_015002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abbiategrasso",
+    "eurostat:nuts_2021_id":"015002",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC4",
+    "eurostat:nuts_2021_level_3":"ITC4C",
+    "eurostat:nuts_2021_level_lau":"015002",
+    "eurostat:population":32855,
+    "eurostat:population_year":2020,
     "geom:area":0.005493,
-    "geom:area_square_m":47709208.937331,
+    "geom:area_square_m":47709208.937335,
     "geom:bbox":"8.84070705943,45.3205085803,8.9626542414,45.4215725426",
     "geom:latitude":45.381789,
     "geom:longitude":8.895503,
@@ -170,6 +182,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -178,6 +192,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_015002",
+        "eurostat:nuts_2021_id":"015002",
         "gn:id":6540167,
         "gp:id":12675713,
         "qs_pg:id":190290
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75ec0c04c4c54eac2573f563fdb15bd0",
+    "wof:geomhash":"5d57098b46af3cbc3c5f0958b29aed6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404468291,
-    "wof:lastmodified":1582328089,
+    "wof:lastmodified":1684353886,
     "wof:name":"Abbiategrasso",
     "wof:parent_id":85685243,
     "wof:placetype":"localadmin",
+    "wof:population":32855,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],

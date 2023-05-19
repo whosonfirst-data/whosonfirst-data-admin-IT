@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IT",
+    "eurostat:gisco_id":"IT_004090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frabosa Soprana",
+    "eurostat:nuts_2021_id":"004090",
+    "eurostat:nuts_2021_level_0":"IT",
+    "eurostat:nuts_2021_level_1":"ITC",
+    "eurostat:nuts_2021_level_2":"ITC1",
+    "eurostat:nuts_2021_level_3":"ITC16",
+    "eurostat:nuts_2021_level_lau":"004090",
+    "eurostat:population":745,
+    "eurostat:population_year":2020,
     "geom:area":0.005315,
-    "geom:area_square_m":47078258.984817,
+    "geom:area_square_m":47078258.984821,
     "geom:bbox":"7.76104761496,44.1821644397,7.85067309618,44.3274538263",
     "geom:latitude":44.252293,
     "geom:longitude":7.813026,
@@ -146,6 +158,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633253,
@@ -154,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"IT_004090",
+        "eurostat:nuts_2021_id":"004090",
         "gn:id":6538152,
         "gp:id":12679327,
         "qs_pg:id":1018483
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a993188f583b9bda4495fd0aa1ce005b",
+    "wof:geomhash":"46f4ea910a54b4e52605c4414f97a605",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404455551,
-    "wof:lastmodified":1582327808,
+    "wof:lastmodified":1684353606,
     "wof:name":"Frabosa Soprana",
     "wof:parent_id":85685187,
     "wof:placetype":"localadmin",
+    "wof:population":745,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
