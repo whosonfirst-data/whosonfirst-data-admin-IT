@@ -22,12 +22,21 @@
     "geom:latitude":41.953795,
     "geom:longitude":12.975716,
     "iso:country":"IT",
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":41.953878,
     "lbl:longitude":12.977325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0631\u064a\u062a\u0648 \u0644\u0627\u0632\u064a\u0627\u0644\u064a"
@@ -169,8 +178,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"IT_058027",
-        "eurostat:nuts_2021_id":"058027"
+        "eurostat:nuts_2021_id":"058027",
+        "ita-istat:code":"58027"
     },
+    "wof:concordances_official":"ita-istat:code",
     "wof:country":"IT",
     "wof:geomhash":"8469790333f003b3d235fa24907bb4ed",
     "wof:hierarchy":[
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":404461577,
-    "wof:lastmodified":1684353741,
+    "wof:lastmodified":1695878375,
     "wof:name":"Cerreto Laziale",
     "wof:parent_id":85685461,
     "wof:placetype":"localadmin",

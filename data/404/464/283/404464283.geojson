@@ -22,12 +22,21 @@
     "geom:latitude":39.39777,
     "geom:longitude":16.326199,
     "iso:country":"IT",
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":39.396097,
     "lbl:longitude":16.320129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0410\u0431\u043d\u0430\u0433\u04d9\u0438\u043b"
@@ -412,8 +421,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"IT_078106",
-        "eurostat:nuts_2021_id":"078106"
+        "eurostat:nuts_2021_id":"078106",
+        "ita-istat:code":"78106"
     },
+    "wof:concordances_official":"ita-istat:code",
     "wof:country":"IT",
     "wof:geomhash":"2e89b2849f3cf374f7454c457fe3c4d4",
     "wof:hierarchy":[
@@ -426,7 +437,7 @@
         }
     ],
     "wof:id":404464283,
-    "wof:lastmodified":1684353802,
+    "wof:lastmodified":1695878479,
     "wof:name":"Rose",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",
