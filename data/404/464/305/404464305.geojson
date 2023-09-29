@@ -22,12 +22,21 @@
     "geom:latitude":39.334453,
     "geom:longitude":16.129001,
     "iso:country":"IT",
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":39.332546,
     "lbl:longitude":16.129516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0646 \u0641\u06cc\u0644\u06cc"
@@ -151,8 +160,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"IT_078116",
-        "eurostat:nuts_2021_id":"078116"
+        "eurostat:nuts_2021_id":"078116",
+        "ita-istat:code":"78116"
     },
+    "wof:concordances_official":"ita-istat:code",
     "wof:country":"IT",
     "wof:geomhash":"c47bb13a52dff472d14fec8b76e1f799",
     "wof:hierarchy":[
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":404464305,
-    "wof:lastmodified":1684353802,
+    "wof:lastmodified":1695878480,
     "wof:name":"San Fili",
     "wof:parent_id":85685565,
     "wof:placetype":"localadmin",

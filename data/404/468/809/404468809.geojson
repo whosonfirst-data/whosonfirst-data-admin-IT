@@ -22,12 +22,21 @@
     "geom:latitude":45.442893,
     "geom:longitude":9.559168,
     "iso:country":"IT",
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.445041,
     "lbl:longitude":9.561233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0642\u0646\u0627\u062f\u0644\u0648"
@@ -151,8 +160,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"IT_019002",
-        "eurostat:nuts_2021_id":"019002"
+        "eurostat:nuts_2021_id":"019002",
+        "ita-istat:code":"19002"
     },
+    "wof:concordances_official":"ita-istat:code",
     "wof:country":"IT",
     "wof:geomhash":"6cdb1e9ff55e4736f719b917261ba883",
     "wof:hierarchy":[
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":404468809,
-    "wof:lastmodified":1684353895,
+    "wof:lastmodified":1695878629,
     "wof:name":"Agnadello",
     "wof:parent_id":85685263,
     "wof:placetype":"localadmin",

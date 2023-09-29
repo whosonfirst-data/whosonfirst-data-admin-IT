@@ -22,12 +22,21 @@
     "geom:latitude":38.649211,
     "geom:longitude":16.300192,
     "iso:country":"IT",
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":38.643762,
     "lbl:longitude":16.303683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0647\u200c\u0644\u0648\u0646\u062c\u0627"
@@ -157,8 +166,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"IT_102045",
-        "eurostat:nuts_2021_id":"102045"
+        "eurostat:nuts_2021_id":"102045",
+        "ita-istat:code":"102045"
     },
+    "wof:concordances_official":"ita-istat:code",
     "wof:country":"IT",
     "wof:geomhash":"eb2a7c0b38622b203dafef64f4c7228e",
     "wof:hierarchy":[
@@ -171,7 +182,7 @@
         }
     ],
     "wof:id":404464853,
-    "wof:lastmodified":1684353818,
+    "wof:lastmodified":1695878501,
     "wof:name":"Vallelonga",
     "wof:parent_id":85685691,
     "wof:placetype":"localadmin",
