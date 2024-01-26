@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"10.30215,45.05309,10.30215,45.05309",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043a\u0430\u043d\u0434\u043e\u043b\u0430\u0440\u0430 \u0420\u0430\u0432\u0430\u0440\u0430"
@@ -136,7 +138,7 @@
         "gn:id":3166986
     },
     "wof:country":"IT",
-    "wof:geomhash":"d10c2c927da2841c9c3d50a94ff40f61",
+    "wof:geomhash":"e0be43d9f640257490ab914ca0744fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,22 +150,24 @@
         }
     ],
     "wof:id":1259969041,
-    "wof:lastmodified":1566724267,
+    "wof:lastmodified":1706239924,
     "wof:name":"Scandolara Ravara",
     "wof:parent_id":404469013,
     "wof:placetype":"locality",
     "wof:population":1088,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101796817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     10.30215,
-    45.05309000000001,
+    45.05309,
     10.30215,
-    45.05309000000001
+    45.05309
 ],
-  "geometry": {"coordinates":[10.30215,45.05309000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.30215,45.05309],"type":"Point"}
 }

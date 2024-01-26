@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"13.68799,42.83225,13.68799,42.83225",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u062a\u06cc\u0646\u06cc\u0627\u0646\u0648"
@@ -163,14 +165,16 @@
         }
     ],
     "wof:id":1344050735,
-    "wof:lastmodified":1566721002,
+    "wof:lastmodified":1706239944,
     "wof:name":"Maltignano",
     "wof:parent_id":404461091,
     "wof:placetype":"locality",
     "wof:population":945,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101851133
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

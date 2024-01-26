@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"11.47921,46.28599,11.47921,46.28599",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -41,7 +43,7 @@
         "gn:id":8960413
     },
     "wof:country":"IT",
-    "wof:geomhash":"8f301b3b07c2eabf154c45a3c46e8850",
+    "wof:geomhash":"1828c59a17f11ca7a09223c53b6cbe08",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -49,22 +51,24 @@
         }
     ],
     "wof:id":1209582145,
-    "wof:lastmodified":1566721900,
+    "wof:lastmodified":1706239948,
     "wof:name":"Pian di Milon",
     "wof:parent_id":85633253,
     "wof:placetype":"locality",
     "wof:population":61,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101910921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     11.47921,
-    46.28599000000001,
+    46.28599,
     11.47921,
-    46.28599000000001
+    46.28599
 ],
-  "geometry": {"coordinates":[11.47921,46.28599000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.47921,46.28599],"type":"Point"}
 }

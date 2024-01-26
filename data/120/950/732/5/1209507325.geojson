@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"12.77912,46.07656,12.77912,46.07656",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0648\u0627\u0631\u0648"
@@ -167,14 +169,16 @@
         }
     ],
     "wof:id":1209507325,
-    "wof:lastmodified":1566721872,
+    "wof:lastmodified":1706239918,
     "wof:name":"Vivaro",
     "wof:parent_id":85633253,
     "wof:placetype":"locality",
     "wof:population":634,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101787825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
