@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"11.22893,46.02822,11.22893,46.02822",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -45,7 +47,7 @@
         "gn:id":8950521
     },
     "wof:country":"IT",
-    "wof:geomhash":"42f846d26401bfd8ae58db0e51f2011c",
+    "wof:geomhash":"e15b45fae158cf07807499dc2cf23cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1293067567,
-    "wof:lastmodified":1566721187,
+    "wof:lastmodified":1706239950,
     "wof:name":"Valcanover",
     "wof:parent_id":404473601,
     "wof:placetype":"locality",
     "wof:population":471,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101912583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     11.22893,
-    46.02822000000001,
+    46.02822,
     11.22893,
-    46.02822000000001
+    46.02822
 ],
-  "geometry": {"coordinates":[11.22893,46.02822000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.22893,46.02822],"type":"Point"}
 }

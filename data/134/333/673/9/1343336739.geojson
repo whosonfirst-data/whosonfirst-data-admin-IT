@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"7.68414,45.65414,7.68414,45.65414",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -45,7 +47,7 @@
         "gn:id":8949410
     },
     "wof:country":"IT",
-    "wof:geomhash":"b5002293349fa4d2ef1afcf233b4eab6",
+    "wof:geomhash":"8f97511ce0fdccbee5a2b477f875e40e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1343336739,
-    "wof:lastmodified":1566720985,
+    "wof:lastmodified":1706239935,
     "wof:name":"La Place",
     "wof:parent_id":404459305,
     "wof:placetype":"locality",
     "wof:population":1026,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101830061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     7.68414,
-    45.65414000000001,
+    45.65414,
     7.68414,
-    45.65414000000001
+    45.65414
 ],
-  "geometry": {"coordinates":[7.68414,45.65414000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.68414,45.65414],"type":"Point"}
 }

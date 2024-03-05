@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"18.33392,40.05631,18.33392,40.05631",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0643\u0627\u0633\u064a\u0627\u0646\u0648"
@@ -157,7 +159,7 @@
         "gn:id":3168497
     },
     "wof:country":"IT",
-    "wof:geomhash":"e180f47abaf9998d61a11c168503e398",
+    "wof:geomhash":"8cf25f891361bf3a5d036a8d1c7dba37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,22 +171,24 @@
         }
     ],
     "wof:id":1226528389,
-    "wof:lastmodified":1566724541,
+    "wof:lastmodified":1706239932,
     "wof:name":"San Cassiano",
     "wof:parent_id":404456669,
     "wof:placetype":"locality",
     "wof:population":2053,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101803033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    18.33392000000001,
+    18.33392,
     40.05631,
-    18.33392000000001,
+    18.33392,
     40.05631
 ],
-  "geometry": {"coordinates":[18.33392000000001,40.05631],"type":"Point"}
+  "geometry": {"coordinates":[18.33392,40.05631],"type":"Point"}
 }

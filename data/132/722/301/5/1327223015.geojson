@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"10.77847,45.10514,10.77847,45.10514",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -45,7 +47,7 @@
         "gn:id":3175351
     },
     "wof:country":"IT",
-    "wof:geomhash":"b43f69b00b84419db642eb5db5b53382",
+    "wof:geomhash":"bfa615a9cf9a85e30d2a377ecf515975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1327223015,
-    "wof:lastmodified":1566720590,
+    "wof:lastmodified":1706239936,
     "wof:name":"Cappelletta",
     "wof:parent_id":404469219,
     "wof:placetype":"locality",
     "wof:population":1560,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101835985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     10.77847,
-    45.10514000000001,
+    45.10514,
     10.77847,
-    45.10514000000001
+    45.10514
 ],
-  "geometry": {"coordinates":[10.77847,45.10514000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.77847,45.10514],"type":"Point"}
 }

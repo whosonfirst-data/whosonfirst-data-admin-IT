@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"9.54235,45.61819,9.54235,45.61819",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grignano"
@@ -53,7 +55,7 @@
         "gn:id":8949075
     },
     "wof:country":"IT",
-    "wof:geomhash":"e03f7fd9e1e4543ffc63d0773d371868",
+    "wof:geomhash":"d79941b8e30911e52266c1b42e8377e4",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -61,22 +63,24 @@
         }
     ],
     "wof:id":1209610873,
-    "wof:lastmodified":1566721881,
+    "wof:lastmodified":1706239935,
     "wof:name":"Grignano",
     "wof:parent_id":85633253,
     "wof:placetype":"locality",
     "wof:population":1703,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101830155
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     9.54235,
-    45.61819000000001,
+    45.61819,
     9.54235,
-    45.61819000000001
+    45.61819
 ],
-  "geometry": {"coordinates":[9.54235,45.61819000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.54235,45.61819],"type":"Point"}
 }

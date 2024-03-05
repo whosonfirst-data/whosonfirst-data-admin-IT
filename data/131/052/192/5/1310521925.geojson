@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"13.40415,41.51674,13.40415,41.51674",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -45,7 +47,7 @@
         "gn:id":8949813
     },
     "wof:country":"IT",
-    "wof:geomhash":"1d1d92726b0665e5e2a6baf4b4e9f681",
+    "wof:geomhash":"8e2db3c1d4f2c70eaf377a6864373e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1310521925,
-    "wof:lastmodified":1566722308,
+    "wof:lastmodified":1706239949,
     "wof:name":"Madonna del Piano",
     "wof:parent_id":404461913,
     "wof:placetype":"locality",
     "wof:population":720,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101911195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     13.40415,
-    41.51674000000001,
+    41.51674,
     13.40415,
-    41.51674000000001
+    41.51674
 ],
-  "geometry": {"coordinates":[13.40415,41.51674000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.40415,41.51674],"type":"Point"}
 }

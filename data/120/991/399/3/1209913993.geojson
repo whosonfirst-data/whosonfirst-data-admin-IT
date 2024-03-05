@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"14.87343,40.85536,14.87343,40.85536",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Sala"
@@ -144,14 +146,16 @@
         }
     ],
     "wof:id":1209913993,
-    "wof:lastmodified":1566721783,
+    "wof:lastmodified":1706239932,
     "wof:name":"Sala",
     "wof:parent_id":404465415,
     "wof:placetype":"locality",
     "wof:population":6237,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101802309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

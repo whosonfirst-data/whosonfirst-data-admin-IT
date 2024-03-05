@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"12.13248,46.71987,12.13248,46.71987",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Ferrara"
@@ -301,14 +303,16 @@
         }
     ],
     "wof:id":1276416511,
-    "wof:lastmodified":1566721636,
+    "wof:lastmodified":1706239947,
     "wof:name":"Ferrara",
     "wof:parent_id":404473065,
     "wof:placetype":"locality",
     "wof:population":143,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101854559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

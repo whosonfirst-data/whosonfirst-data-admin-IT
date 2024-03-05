@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"11.65196,45.38609,11.65196,45.38609",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u062a\u064a\u0627"
@@ -258,14 +260,16 @@
         }
     ],
     "wof:id":1259447681,
-    "wof:lastmodified":1636496874,
+    "wof:lastmodified":1706239921,
     "wof:name":"Bastia",
     "wof:parent_id":404458361,
     "wof:placetype":"locality",
     "wof:population":1802,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101795227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
